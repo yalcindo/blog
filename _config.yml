@@ -1,6 +1,6 @@
 permalink: /:categories/:title.html
 url: "http://yontemhukuk.github.io"
-baseurl: "/blog/"
+baseurl: "/blog/blog/"
 full_name: "Avukat Baran Doğan"
 first_name: "Baran"
 last_name: "Doğan"
