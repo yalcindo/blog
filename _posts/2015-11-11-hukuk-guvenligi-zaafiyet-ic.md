@@ -1,11 +1,10 @@
 ---
 layout: blog
-title: Hukun ustunlugu
+title: Spor Alanlarinda veya Çevresi̇nde Hakaret Içeren Tezahürat ve Halki Aşağilama Suçlari
 category: yazilar
 summary: elektrik
 ---
 I-GİRİŞ
-aåaaass
 Hukuk değişen toplumsal ilişkilere denk düşen normlar üreten ve bu yeni ilişkileri düzenleyen bir bilim dalıdır. Spor hukuku da sporun günümüzde kazandığı toplumsal önem, çeşitlilik ve evrensellik nedeniyle gelişen yeni bir hukuk dalıdır. Spor hukukunun konusunu, profesyonel veya amatör yapılan sporla ilgili her türlü faaliyet oluşturur.Spor alanlarında yapılan norm ihlalleri toplumsal düzeni çok ciddi bir şekilde tahrip edecek boyuta gelmiştir. Spor faaliyetine pasif veya aktif olarak katılan sujeler dört farklı şekilde norm ihlali yapabilir ; özel hukuk alanını ilgilendiren haksız fiiller, disiplin hukukunu ilgilendiren eylemler , kabahatler ve suçlar.
 
 Devlet suçların önlenmesinde siyasetin gereği olarak birtakım yöntemlere müracaat etmiştir. Bu yöntemler önleyici ve cezalandırıcı olmak üzere iki türlüdür. Suçun işlenmesinin etkili bir şekilde önlenebilmesi, iyi bir suç siyasetinin varlığına bağlıdır. Türkiye’de devlet uzun süre spor alanlarında işlenen hukuka aykırı fiillerle ilgili önleyici birtakım tedbirlere başvurma yolunu tercih etmiştir. Önleyici nitelikte idari tedbirler, hukuki sorunların çözümünde yetersiz kalınca özel kanunlarla düzenleme yapma gereği doğmuştur.
