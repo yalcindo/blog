@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hukun ustunlugu
-category: blog
+category: yazilar
 summary: elektrik
 ---
 I-GİRİŞ
