@@ -83,10 +83,20 @@ h1 {
 	padding: 0px 0px 15px 0px;
 	border-bottom: 1px solid #eee;
 }
+#heading ul li{
+	color:black;
+}
+#bs-example-navbar-collapse-1{
+	background-color:#1C9CBA;
+
+}
+.menu-item{
+	color:black;
+}
 
 #logo {
 	float: left;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 #links a {
@@ -102,9 +112,6 @@ h1 {
 
 
 #links {
-	float: right;
-	margin: 20px 0 0 0;
-	color: #eee;
 }
 
 #links img {
