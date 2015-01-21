@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Spor Alanlarinda veya Çevresi̇nde Hakaret Içeren Tezahürat ve Halki Aşağilama Suçlari
-category: yazilar
+category: gayrimenkul-hukuku
 summary: elektrik
 ---
 I-GİRİŞ

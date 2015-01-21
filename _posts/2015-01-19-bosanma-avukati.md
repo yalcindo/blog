@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Bosanma avukati neler yapar
-category: yazilar
+category: ceza-hukuku
 summary: Bosanma avukatinin gorevleri ozetlenmistir
 ---
 > Avukat, hukuk fakültesi mezunu, avukatlık stajı yapmış, avukatlık sınavını 
