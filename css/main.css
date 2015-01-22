@@ -70,7 +70,9 @@ h1 {
 	font-weight: normal;
 }
 
-
+ .icon-size{
+    font-size:32px;
+  }
 #layout {
 	/width: 90%;
 	margin: auto;
@@ -186,7 +188,6 @@ box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
 }
 
 #side-bar {
-background: #fff;
 /*background: none repeat scroll 0% 0% #FFF;
 box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);*/
 border-radius: 3px;
@@ -195,11 +196,13 @@ padding: 10px;
 width: 20%;
 float: left;
 margin: 20px 5px 0px 0px;
+text-align: center;
+background: beige;
 }
 
 #side-bar #user-pic{
-	width: 80px;
-	height: 80px;
+	width: 100px;
+	height: 100px;
 }
 
 #side-bar #user-name{

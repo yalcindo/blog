@@ -27,12 +27,38 @@
 			<div id='side-bar'>
 				<div id='user'>
 					<img id="user-pic" src="{{site.author_img_name_path}}" />
-					<div id='user-name'>{{site.first_name}} {{site.last_name}}</div>
+					<!-- <div id='user-name'>{{site.first_name}} {{site.last_name}}</div> -->
 				</div>
 				<br>
 				<br>
 				<div id='date'>
-					{{site.aboutme}}
+					<div class="intro-address"itemscope itemtype="http://schema.org/Person">
+                            <span style="color:black; font-size:18px;"><span itemprop="jobTitle">Avukat</span>  <span itemprop="name">Baran Doğan</span></span><br><br>
+                           <span id="baran-address" itemscope itemtype="http://schema.org/PostalAddress"> 
+                                <span itemprop="streetAddress">M.Fevzi Çakmak cd.<br> 1.Sok 
+                                    No:9 Daire:6
+                                </span> <br>
+                                 Şirinevler Meydanı/
+                               <span itemprop="addressLocality">Bahçelievler</span>/ <span itemprop="addressRegion">İstanbul</span>
+                            </span>
+                            <br>
+                            <a href="tel:02126521544">Tel : <span itemprop="telephone">0.212.652 15 44 </span></a><br>
+                            Fax : 0.212.652 06 03 
+                            <span>
+                     </div>
+                       <div class="col-md-12" style="margin-top:20px;padding:0">
+		                    <ul class="list-inline social-buttons" style="padding:0px;">
+		                        <li style="padding:0px;"><a href="https://www.twitter.com/baran_dogan"><i class="icon-twitter-sign icon-size"></i></a>
+		                        </li>
+		                        <li style="padding:0px;"><a href="https://www.facebook.com/Avukatbarandogan"><i class="icon-facebook-sign icon-size"></i></a>
+		                        </li>
+		                        <li style="padding:0px;"><a href="http://tr.linkedin.com/pub/baran-dogan/99/851/710"><i class="icon-linkedin-sign icon-size"></i></a>
+		                        </li>
+		                        <li style="padding:0px;">
+		                            <a href="https://plus.google.com/109509540425455356557" rel="publisher" class ="icon-googleplus-sign icon-size"></a>
+		                        </li>
+		                    </ul>
+            			</div>
 				</div>
 				<div id='tags'>
 					{% for tag in page.tags %}
