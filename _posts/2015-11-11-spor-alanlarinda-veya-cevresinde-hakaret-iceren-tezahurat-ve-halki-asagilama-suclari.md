@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Spor Alanlarinda veya Çevresi̇nde Hakaret Içeren Tezahürat ve Halki Aşağilama Suçlari
-category: gayrimenkul-hukuku
+category: ceza-hukuku
 title: Spor Alanlarında veya Çevresi̇nde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
 summary: Spor alanlarında, özellikle futbol sahalarında bireysel veya toplu olarak yapılan 
 ---
