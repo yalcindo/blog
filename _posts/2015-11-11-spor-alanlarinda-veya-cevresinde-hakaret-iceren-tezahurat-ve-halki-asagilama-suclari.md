@@ -29,9 +29,10 @@ Türkiye’de spor alanlarında veya çevresinde hakaret içeren tezahürat ve h
 
 **III-SUÇUN YAPISAL AÇIDAN İNCELENMESİ**
 
-Makalemizde 6222 sayılı kanunun 14.maddesinde hakaret içeren tezahürat başlıklı suç tipini inceleyeceğiz. Kanunun 14.maddesi, ilk fıkrasıyla hakaret içeren tezahüratı, ikinci fıkrasıyla halkı aşağılama suçu olarak adlandırabileceğimiz suç tipini şu şekilde düzenlemiştir :
+Makalemizde 6222 sayılı kanunun 14.maddesinde hakaret içeren tezahürat başlıklı suç tipini inceleyeceğiz. Kanunun 14.maddesi, ilk fıkrasıyla hakaret içeren tezahüratı, ikinci fıkrasıyla halkı aşağılama suçu olarak adlandırabileceğimiz suç tipini şu şekilde düzenlemiştir:
 
 “**Hakaret içeren tezahürat**
+
 MADDE 14 – (1) Spor alanlarında veya çevresinde taraftarların grup halinde veya münferiden belirli bir kişiyi hedef veya muhatap alıp almadığına bakılmaksızın duyan veya gören kişiler tarafından hakaret olarak algılanacak tarzda aleni olarak söz ve davranışlarda bulunmaları halinde, fiilleri daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, şikayet şartı aranmaksızın, failler hakkında onbeş günden az olmamak üzere adli para cezasına hükmolunur.
 (2) Spor alanlarında veya çevresinde toplum kesimlerini din, dil, ırk, etnik köken, cinsiyet veya mezhep farkı gözeterek hakaret oluşturan söz ve davranışlarda bulunan kişi, fiili daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
 (3) Birinci ve ikinci fıkralarda tanımlanan suçların yazılı pankart taşınması veya asılması ya da duvarlara yazı yazılması suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır.”
