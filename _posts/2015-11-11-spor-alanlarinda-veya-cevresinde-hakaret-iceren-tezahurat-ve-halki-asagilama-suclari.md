@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: ceza-hukuku
-title: Spor Alanlarında veya Çevresi̇nde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
+title: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
 summary: Spor alanlarında, özellikle futbol sahalarında bireysel veya toplu olarak yapılan hakaret içeren tezahürat ve halkı aşağılama mahiyetinde olup suç teşkil eden fiiller incelenmiştir.
 ---
 **I-GİRİŞ**
