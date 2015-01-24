@@ -1,5 +1,6 @@
 ---
 layout: blog
+googleAnahtar: Avukat Baran Dogan satis hizmeti davasi 
 title: SAYAÇ OKUMA/PAREKENDE SATIŞ HİZMETİ/DAĞITIM VE İLETİM BEDELLERİNİN TÜKETİCİDEN TAHSİL EDİLEMEMESİ
 category: guncel-hukuk-haberleri
 summary: Mahalli Mahkemece; kayıp-kaçak, dağıtım, sayaç okuma, parekende satış hizmeti ve iletim bedellerinin, elektrik satış tarifesinin bir unsuru olarak faturalarda yer aldığı, söz konusu bu bedellerin kanunun kendisine verdiği yetki çerçevesinde ve kanunun temel amaçlarına 

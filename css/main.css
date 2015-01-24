@@ -7,7 +7,10 @@ img, embed, object{
 
 
 .postcontent{
-	//padding : 10px;
+	padding: 10px;
+text-align: center;
+min-width: 263px;
+min-height:88px;
 }
 
 body {
