@@ -2,6 +2,7 @@
 layout: blog
 title: İç Güvenlik Kanunu
 category: ceza-hukuku
+googleAnahtar: Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ic guvenlik paketi, Avukat Baran Doğan
 summary: Kamuoyunda iç güvenlik paketi olarak bilinen "Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun" hükümlerinin tarafımızdan hukuksal değerlendirilmesi yapılmıştır.
 ---
 #İç Güvenlik Paketi mi? Hukuk Güvenliği Zaafiyet Paketi mi?
