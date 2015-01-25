@@ -31,7 +31,7 @@ summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerind
 Davacılar, murislerinin ölümü ile sonuçlanan olayın, iş kazası olduğunun
 tespitine karar verilmesini istemiştir.
 
-Mahkeme, ilâmında belirtildiği şekilde davanın reddine karar vermiştir.
+  Mahkeme, ilâmında belirtildiği şekilde davanın reddine karar vermiştir.
 Hükmün, davacılar avukatı tarafından temyiz edilmesi üzerine, temyiz isteğinin
 süresinde olduğu anlaşıldıktan ve Tetkik Hâkimi Dr. Dilek Doğantarafından
 düzenlenen raporla dosyadaki kâğıtlar okunduktan sonra işin gereği düşünüldü ve
