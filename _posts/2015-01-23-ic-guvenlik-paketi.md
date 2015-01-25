@@ -2,7 +2,7 @@
 layout: blog
 title: İç Güvenlik Kanunu
 category: ceza-hukuku
-googleAnahtar: Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun, ic guvenlik paketi, Avukat Baran Doğan, ataköy avukat
+googleAnahtar: Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun, ic guvenlik paketi, Avukat Baran Doğan
 summary: Kamuoyunda iç güvenlik paketi olarak bilinen "Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun" hükümlerinin tarafımızdan hukuksal değerlendirilmesi yapılmıştır.
 ---
 #İç Güvenlik Paketi mi? Hukuk Güvenliği Zaafiyet Paketi mi?
@@ -112,4 +112,6 @@ Suç işlenmeden önce alınacak idari nitelikte önleyici tedbirler valiler vey
 
 
 **Hukuk devleti**, devletin kendisini hukukun genel ilkeleriyle sınırladığı ve sınadığı rejimin adıdır. Hukuk devletinde devlet, toplumu bastırmak, değiştirmek, maniple etmek için hukuku bir araç haline getirmez. Kuvvetler ayrılığı, kişi özgürlüğü ve güvenliği hakkı, ifade özgürlüğü ve ifade özgürlüğünün türevi olan toplantı ve gösteri özgürlüğü gibi tüm özgürlükler güvence altındadır. Polise 1990’lı yılların Türkiye’sine dönüş uygulamaları için imkan tanıyan yasal düzenlemeler toplumun ortak geleceğine ve ortak hukukuna zarar verecektir. Her zaman bir iktidar ve iktidara karşı gelen bir toplumsal muhalefet olacaktır. Ama hukuk kültürü kolay kolay oluşmaz.Hele polis jopuyla, kalkanıyla, gazıyla ne kamu düzeni sağlanabilir ne de hukuk devletine ulaşılabilir.
+
+**Avukat Baran Doğan**
  
