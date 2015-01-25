@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, avukat, ceza avukatı nedir
+googleAnahtar: Ceza avukatı, avukat, ceza avukatı nedir, ataköy avukat
 summary: Ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
 
