@@ -39,3 +39,5 @@ Duruşmalar delillerin tartışıldığı, sanık, müşteki ve tanıkların din
 
 **Ceza avukatı**, ceza davası müvekkilinin arzu ettiği sonuç dışında karara bağlanırsa, kararı temyiz edecektir.
 Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incelemesi yapılıp sonuçlanıncaya kadar ceza avukatı, müvekkilinin bu yazının kapsamına sığmayacak kadar sayısız hakkını savunacaktır. Biz, bu kısa yazıda ortalama okuyucuya  ceza avukatının fonksiyonunu tanıtmak istedik. 
+
+**Avukat Baran Doğan**

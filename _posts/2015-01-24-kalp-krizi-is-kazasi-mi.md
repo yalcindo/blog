@@ -93,3 +93,5 @@ gününde oybirliğiyle karar verildi.
  Üye A.İnceman
  
  Üye H.Özdemir
+ 
+ Avukat Baran Doğan
