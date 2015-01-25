@@ -12,7 +12,14 @@ text-align: center;
 min-width: 263px;
 min-height:88px;
 }
-
+.post-content{
+	width:240;
+	min-height:160;
+}
+.post-content-top{
+	width:240;
+	height:140;
+}
 body {
 	margin: 0px;
 	text-align: center;
@@ -128,9 +135,24 @@ h1 {
 }
 
 #content {
-    margin: 0px 8% 0px ;
+    margin: 62px 8% 0px ;
+    text-align: left;
 }
-
+#content h1 {
+	text-align: center;
+}
+#content h2 {
+	text-align: center;
+}
+#content h3 {
+	text-align: center;
+}
+#content h4 {
+	text-align: center;
+}
+#content h5 {
+	text-align: center;
+}
 #footer {
 	margin: 30px 0px 0px 0px;
 	padding: 10px 0px 10px 0px;
@@ -202,7 +224,9 @@ margin: 20px 5px 0px 0px;
 text-align: center;
 background: beige;
 }
-
+.nav .navbar-right .navbar-nav ul>li>a{
+	color:white;
+}
 #side-bar #user-pic{
 	width: 100px;
 	height: 100px;
@@ -327,7 +351,9 @@ only screen and (max-width: 600px) {
 	#posts ul li {
 		width: 95%;
 	}
-
+	#content{
+		margin:62px 2% 0;
+	}
 	#side-bar {
 		width:100%;
 		margin:0;
