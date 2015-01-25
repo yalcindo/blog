@@ -2,7 +2,7 @@
 layout: blog
 title: Uluslararası Ceza Mahkemesi Savcılığının Soruşturma Yetkisi
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi Savcılığı, avukat Baran Dogan
+googleAnahtar: Uluslararası Ceza Mahkemesi Savcılığı, avukat Baran Dogan, ataköy avukat
 summary: Uluslararası Ceza Mahkemesi Savcılığı'nın soruşturma başlatma yetkisinin hukuki niteliği, önşartları ve genel sınırları ayrıntılı bir şekilde incelenmiştir. 
 ---
 **ÖZET**
