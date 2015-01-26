@@ -3,7 +3,6 @@ layout: blog
 title: Yargıtay Kararı - Boşanma Davasında Maddi-Manevi Tazminat Miktarı
 category: aile-hukuku
 googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, Avukat Baran Doğan
-summary: Erkeğin evlilik içinde kadına uyguladığı şiddet düşünüldüğünde, maddi durumu kötü olsa bile 20.000 TL manevi tazminat, 20.000 TL maddi tazminat uygundur.
 ---
 **T.C.**
 **YARGITAY**
