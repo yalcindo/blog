@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Kıdem Tazminatı
+title: #Kıdem Tazminatı#
 category: is-hukuku
 googleAnahtar: Kıdem tazminatı, hangi hallerde kıdem tazminatı alınır? kıdem tazminatı almanın şartları, avukat, Avukat Baran Doğan
 summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin hangi hallerde iş sözleşmesini feshederek kıdem tazminatı alabileceği, hangi hallerde kıdem tazminatı alamayacağı başlıklar halinde kısaca anlatılmıştır.
