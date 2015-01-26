@@ -76,7 +76,7 @@ Erkek işçiler, zorunlu askerlik hizmetini yerine getirmek üzere işten ayrıl
 
 **Konu ile İlgili Yargıtay Kararları:** İnsan Kaynakları müdürü olarak çalışan ve yıllık ücretli izne gönderilirken, izin dönüşü temizlik işinde çalışacağı söylenilen, kabul etmemesi halinde gelmemesi gerektiği belirtilen ve izinde iken yerine işçi alınan davacının iş sözleşmesi eylemli olarak davalı işveren tarafından feshedilmiştir. Zira davacı işçi kabul etmediği için, insan kaynakları müdürü olarak işe alınmayacaktır. Bu durumda işçinin haklı olduğunu kabul etmek gerekir (Yargıtay 9.Hukuk Dairesi – 2010/4093 karar).
 
-Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çalışmıştır. Boyahane teknik temizlik işinin verilmesi davacı açısından İş Kanunun 22. maddesi gereğince iş şartlarında esaslı değişiklik oluşturmaktadır. Davacı bu değişikliği kabul etmek zorunda değildir. (Yargıtay 9.Hukuk Dairesi – 2011/17092 karar)
+Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çalışmıştır. Boyahane teknik temizlik işinin verilmesi davacı açısından İş Kanunun 22. maddesi gereğince iş şartlarında esaslı değişiklik oluşturmaktadır. Davacı bu değişikliği kabul etmek zorunda değildir (Yargıtay 9.Hukuk Dairesi – 2011/17092 karar).
 
 ####g-İşçinin emekli olması halinde, işçi kıdem tazminatına hak kazanır:	
 
