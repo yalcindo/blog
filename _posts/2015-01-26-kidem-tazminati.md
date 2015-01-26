@@ -49,7 +49,7 @@ Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin i
 
 **Konu ile İlgili Yargıtay Kararı:** İşverenin işlettiği işyerinde ölümcül nitelikte meslek   hastalığına yakalanan işçinin iş sözleşmesini feshetmesi halinde **kıdem tazminatı** alması mümkündür. ( Yargıtay 9.Hukuk Dairesi-2014/7648 karar ) 
  
-#####b-	İşçi, maaş veya diğer alacaklarının ödenmemesi halinde iş sözleşmesini feshederse kıdem tazminatına hak kazanır:				
+####b-	İşçi, maaş veya diğer alacaklarının ödenmemesi halinde iş sözleşmesini feshederse kıdem tazminatına hak kazanır:				
 İşçi, emeğini satarak geçinmektedir. Bu nedenle, maaşının, fazla mesai alacağının veya diğer herhangi bir alacağının ödenmemesi veya sürekli bir şekilde geç ödenmesi halinde işçi, iş akdini feshederek **kıdem tazminatına** hak kazanır.
 
 **Konu ile İlgili Yargıtay Kararı:** Ücreti ödenmeyen işçinin alacağı konusunda takibe geçmesi ya da ücreti ödeninceye kadar iş görme edimini yerine getirmekten kaçınması, iş ilişkisinin devamında bazı sorunlara yol açabilir. Bu bakımdan, işverenle bir çekişme içine girmek istemeyen işçinin, haklı nedene dayanarak iş sözleşmesini feshetme hakkı da bulunmaktadır. Ücretin hiç ya da bir kısmının ödenmemesi bu konuda önemsizdir. Ücretin ödenmediğinden söz edebilmek için işçinin yasa ya da sözleşme ile belirlenen ücret ödenme döneminin gelmesi ve işçinin bu ücrete hak kazanması gerekir. işçi ücrete hak kazandığı halde ödenmemişse iş sözleşmesini feshederek **kıdem tazminatı** talep edebilir. (Yargıtay 9.Hukuk Dairesi – 2012/19879 karar)
