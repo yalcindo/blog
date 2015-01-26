@@ -15,9 +15,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 
 ###Boşanma Sebepleri
-------------------------------------
-------------------------------------
-------------------------------------
+
 
 **Boşanma avukatı,** olguları değerlendirerek **boşanma davası** açmak için yeterli neden olup olmadığı araştırır. **Boşanma avukatı,** kendisine anlatılan olaylardan aşağıdaki **boşanma sebepleri**nin olup olamadığını araştırır:
 
