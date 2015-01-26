@@ -13,7 +13,9 @@ Boşanma süreci, evli çiftler için zorlu ve yıpratıcı bir süreçtir. Bu s
 
 Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin evlilik içinde yaşadığı olayların bir gözlemci gibi boşanma avukatı tarafından dinlenmesi gerekir. **Boşanma avukatı,** dinlediği olaylardan boşanmaya sebep teşkil edecek olguları seçerek dava hazırlığı yapar. Çünkü, hukuk sistemimize göre her boşanmanın mutlaka bir sebebi olmak zorundadır. Sebepsiz açılan her boşanma davası reddedilir.
 
+
 ###Boşanma Sebepleri
+
 
 **Boşanma avukatı,** olguları değerlendirerek **boşanma davası** açmak için yeterli neden olup olmadığı araştırır. **Boşanma avukatı,** kendisine anlatılan olaylardan aşağıdaki **boşanma sebepleri**nin olup olamadığını araştırır:
 
@@ -47,7 +49,9 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 **Boşanma avukatı,** müvekkili dinledikten sonra boşanma sebeplerini ve talepleri netleştirir. Daha sonra ulaştığı olgulardan ve taleplerden hareketle davanın hukuki temelini tespit ederek dava dilekçesini yazar. **Boşanma avukatı,** dava dilekçesinin talep edilen sonucu elde etmeye elverişli olduğunu gördükten sonra dava dosyasını hazırlamaya başlar. Bir dava dosyasında yeterli sayıda dilekçe sureti ve iddiaları güçlendiren delillerin yer alması gereklidir. Deliller yazılı delil niteliğinde ve **boşanma avukatı,** bu delillere ulaşabilecek durumdaysa yazılı delillerin mutlaka dava dosyasına fiziken konulması gerekir. Eğer dava dosyası hazırlanırken yazılı deliller o an ulaşılamayacak bir yerdeyse **boşanma avukatı,** dava dilekçesi içeriğinde bu yazılı delillerin bulunduğu yeri göstererek mahkemeden delilin getirtilmesini ister. Delil olarak tanık beyanına dayanılıyorsa tanıkların ad, soyad ve adresleri mahkemeye dava dosyası içinde bildirilmelidir. Dava dosyası bu şekilde tekemmül ettirildikten sonra, adliyede dava harç ve giderleri vezneye yatırılarak dosya teslim edilir. Artık **boşanma davası** açılmıştır.
 
+
 ###Boşanma Davası Süreci
+
 
 Türkiye’de çekişmeli bir boşanma davası yaklaşık 1 -  2 yıl sürmektedir. Dava sürecinin kısa veya uzun sürmesinde davaya hazırlık sürecinin önemi büyüktür. **Boşanma sebebi**ne dayanak yapılan olgular yeterince delillendirilip ispatlanmışsa mahkeme süreci çok kısa da sürebilir. Tekraren vurgulamak gerekir ki dava dosyasında gereksiz bilgileri ayıklayan bir davaya hazırlık sürecinin yürütülmüş olması çok önemlidir. **Boşanma avukatı** tarafından hazırlanan dava dosyası hakim tarafından incelenir. Hakimin öncelikle dava dilekçesinin bir suretini usulüne uygun bir şekilde (tebligat yolu ile) davalı tarafa göndermesi gerekir. Davalının cevap dilekçesi de usulüne uygun bir şekilde davacıya gönderilmelidir. 
 
@@ -56,9 +60,7 @@ Hakim, dosyayı inceledikten tarafların dosyaya getirtilmesini istediği belgel
 Hakim, ilk duruşmada (ön inceleme duruşmasında) gerekli tespitleri yaptıktan sonra ikinci duruşma gününü belirleyerek varsa taraf tanıklarının sırasıyla dinlenmesine karar verir. Tanık, aile bireylerinden biri olabileceği gibi akrabalık ilişkisi olmayan kişilerden de olabilir.  **Boşanma davası**nda tanık sayısı için bir sınırlama mevcut değildir. Önemli olan **boşanma sebebi**ne temel teşkil eden olgunun ispatlanmasıdır. Ama ne kadar çok tanık olursa davanın sebebi olan vakıa o kadar çok ispatlanmış olur. Hakim, tarafların gösterdiği tüm tanıkları dinlemek zorundadır. Hakim, dinlediği tanıklardan davanın yeterince aydınlandığını düşünüyorsa, tüm tanıkları dinlemekten vazgeçebilir. Dava yeterince aydınlanmışsa hakim karar verir.
 **Boşanma avukatı**nın tanıklara doğrudan soru sorma hakkı vardır. Davayı aydınlatmak, tanık beyanlarındaki çelişkileri gidermek ve müvekkili lehine olguları ortaya çıkarmak için **boşanma avukatı** dilediği kadar soru sorabilir.
 
-**Boşanma davası**nda hakimin verdiği hüküm ne olursa olsun her iki tarafın temyiz hakkı vardır.
-
-**Boşanma davası,** evlilik birliğini sona erdiren nihai bir kararla sonuçlanırsa, tarafların temyiz incelemesi için Yargıtay'a başvuru hakkı doğar. Temyiz incelemesi sonucu veya temyiz edilmeyerek karar kesinleşirse nüfus müdürlüğüne yazı yazılarak tarafların nüfus kayıtlarının mahkeme kararına göre düzenlenmesi sağlanır.
+**Boşanma davası**nda hakimin verdiği hüküm ne olursa olsun her iki tarafın temyiz hakkı vardır.**Boşanma davası,** evlilik birliğini sona erdiren nihai bir kararla sonuçlanırsa, tarafların temyiz incelemesi için Yargıtay'a başvuru hakkı doğar. Temyiz incelemesi sonucu veya temyiz edilmeyerek karar kesinleşirse nüfus müdürlüğüne yazı yazılarak tarafların nüfus kayıtlarının mahkeme kararına göre düzenlenmesi sağlanır.
 
 
 
