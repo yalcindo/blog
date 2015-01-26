@@ -9,7 +9,7 @@ summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin ha
 
 ##Kıdem Tazminatı Alabilmek İçin Önşartlar
 
-İş kanunu, işçinin işverenden **kıdem tazminatı** alabilmesi için belli şartlar öngörmüştür, bu şartlar şunlardır : 
+İş kanunu, işçinin işverenden **kıdem tazminatı** alabilmesi için belli şartlar öngörmüştür, bu şartlar şunlardır: 
 
 ####1. 4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:
 Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile bir işverenin işyerinde çalışan kişiye işçi denilmektedir. İş sözleşmesinin yazılı veya sözlü olması arasında hiçbir fark yoktur. Uygulamada çoğunlukla işçiler yazılı bir sözleşme olmadan fiilen çalışmaktadır. İş Kanunu’nun 14. Maddesi aşağıdaki iş ve meslek grupları içerisinde yer alan şahısların yaptığı çalışmayı işçilik saymadığı için, bu kişiler işçi olmamaları nedeniyle **kıdem tazminatı** alamazlar:
@@ -46,19 +46,19 @@ Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin i
 ####a-İşçi, sağlık sebeplerini gerekçe göstererek iş sözleşmesini feshederse kıdem tazminatına hak kazanır:
 İş sözleşmesinin konusu olan işin yapılması işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olursa işçi, iş akdini feshedebilir. Örneğin, kimyasal ürünler üreten işyerinde gerekli sağlık kurallarına uyulmadan çalışılmasının talep edilmesi.	İşçinin sürekli olarak yakından ve doğrudan buluşup görüştüğü işveren yahut başka bir işçi bulaşıcı veya işçinin işi ile bağdaşmayan bir hastalığa tutulursa işçi, iş sözleşmesini feshederek **kıdem tazminatı**nı alabilir. İşçinin **kıdem tazminatı** alabilmesi için sağlık nedenleriyle iş akdini feshettiğini ispatlaması gerekir. İşçi, sağlık nedenleriyle iş akdini feshettiğini ispatlayabilmek için tam teşekküllü devlet hastanelerinden veya üniversite hastanelerinden sağlık raporu almalıdır.
 
-**Konu ile İlgili Yargıtay Kararı:** İşverenin işlettiği işyerinde ölümcül nitelikte meslek   hastalığına yakalanan işçinin iş sözleşmesini feshetmesi halinde **kıdem tazminatı** alması mümkündür. ( Yargıtay 9.Hukuk Dairesi-2014/7648 karar ) 
+**Konu ile İlgili Yargıtay Kararı:** İşverenin işlettiği işyerinde ölümcül nitelikte meslek   hastalığına yakalanan işçinin iş sözleşmesini feshetmesi halinde **kıdem tazminatı** alması mümkündür (Yargıtay 9.Hukuk Dairesi-2014/7648 karar). 
  
 ####b-İşçi, maaş veya diğer alacaklarının ödenmemesi halinde iş sözleşmesini feshederse kıdem tazminatına hak kazanır:
 
 İşçi, emeğini satarak geçinmektedir. Bu nedenle, maaşının, fazla mesai alacağının veya diğer herhangi bir alacağının ödenmemesi veya sürekli bir şekilde geç ödenmesi halinde işçi, iş akdini feshederek **kıdem tazminatına** hak kazanır.
 
-**Konu ile İlgili Yargıtay Kararı:** Ücreti ödenmeyen işçinin alacağı konusunda takibe geçmesi ya da ücreti ödeninceye kadar iş görme edimini yerine getirmekten kaçınması, iş ilişkisinin devamında bazı sorunlara yol açabilir. Bu bakımdan, işverenle bir çekişme içine girmek istemeyen işçinin, haklı nedene dayanarak iş sözleşmesini feshetme hakkı da bulunmaktadır. Ücretin hiç ya da bir kısmının ödenmemesi bu konuda önemsizdir. Ücretin ödenmediğinden söz edebilmek için işçinin yasa ya da sözleşme ile belirlenen ücret ödenme döneminin gelmesi ve işçinin bu ücrete hak kazanması gerekir. işçi ücrete hak kazandığı halde ödenmemişse iş sözleşmesini feshederek **kıdem tazminatı** talep edebilir. (Yargıtay 9.Hukuk Dairesi – 2012/19879 karar)
+**Konu ile İlgili Yargıtay Kararı:** Ücreti ödenmeyen işçinin alacağı konusunda takibe geçmesi ya da ücreti ödeninceye kadar iş görme edimini yerine getirmekten kaçınması, iş ilişkisinin devamında bazı sorunlara yol açabilir. Bu bakımdan, işverenle bir çekişme içine girmek istemeyen işçinin, haklı nedene dayanarak iş sözleşmesini feshetme hakkı da bulunmaktadır. Ücretin hiç ya da bir kısmının ödenmemesi bu konuda önemsizdir. Ücretin ödenmediğinden söz edebilmek için işçinin yasa ya da sözleşme ile belirlenen ücret ödenme döneminin gelmesi ve işçinin bu ücrete hak kazanması gerekir. işçi ücrete hak kazandığı halde ödenmemişse iş sözleşmesini feshederek **kıdem tazminatı** talep edebilir (Yargıtay 9.Hukuk Dairesi – 2012/19879 karar).
 
 ####c-İşçi, işveren tarafından hakaret, tehdit, cinsel taciz veya mobbinge maruz bırakılırsa, işçinin aile üyelerinden birine kötü sözler söylenir veya aile bireylerinden biri aleyhine suç işlenirse, iş arkadaşlarından biri bu davranışları sergiler ve işçi önlem alınması için bu durumu işverene bildirmesine rağmen işveren gerekli önlemleri almazsa, iş akdi feshedilerek kıdem tazminatına hak kazanılır:
 
 Esasen işverenin işçiye karşı işlediği her türlü suç, işçinin iş akdini feshederek kıdem tazminatı almasına hak kazandırır. Suçun niteliğinin bir önemi yoktur, işçi kendisine karşı işlenen suça katlanmak zorunda değildir. Son yıllarda mobbing olarak adlandırılan, işverenin işçiyi yıldırmak için psikolojik baskı yapması, işyerinde rahatsızlık ve sıkıntı vermesi halinde de işçi, iş akdini feshederek **kıdem tazminatı**na hak kazanır.
 
-**Konu ile İlgili Yargıtay Kararı:** İşçinin istifa dilekçesinin gerçek istifa iradesi ile imzalanmadığı psikolojik baskı (mobbing) yolu ile istifaya zorlandığı anlaşılmaktadır. Davacı işçinin iş sözleşmesini feshi haklı olup dava konusu **kıdem tazminatı** isteğinin kabulü gerekir. (Yargıtay 9.Hukuk Dairesi - 2011/9717 karar)
+**Konu ile İlgili Yargıtay Kararı:** İşçinin istifa dilekçesinin gerçek istifa iradesi ile imzalanmadığı psikolojik baskı (mobbing) yolu ile istifaya zorlandığı anlaşılmaktadır. Davacı işçinin iş sözleşmesini feshi haklı olup dava konusu **kıdem tazminatı** isteğinin kabulü gerekir (Yargıtay 9.Hukuk Dairesi - 2011/9717 karar).
 
 ####d-Parça başı iş yapan işçiye daha az ücret ödeyerek işten ayrılmasını sağlamak için az iş verilmesi halinde işçi, iş akdini feshederek kıdem tazminatına hak kazanır:
 
@@ -74,7 +74,7 @@ Erkek işçiler, zorunlu askerlik hizmetini yerine getirmek üzere işten ayrıl
 
 İşçinin, çalışma koşullarında esaslı bir değişiklik gerçekleşmesi halinde işçi, iş sözleşmesini feshederek **kıdem tazminatı**nı alabilir. İşyerinin mevcut yerinden uzak bir yere taşınması, işçi nitelikli bir işte çalışırken düz işçi olarak çalıştırılması, mevcut pozisyonuna göre daha düşük pozisyonlu görevlerde çalıştırılması, çalışma saatlerinin olağan dışı değiştirilmesi halinde işçi, iş akdini feshederek **kıdem tazminatı**na hak kazanır.
 
-**Konu ile İlgili Yargıtay Kararları:** İnsan Kaynakları müdürü olarak çalışan ve yıllık ücretli izne gönderilirken, izin dönüşü temizlik işinde çalışacağı söylenilen, kabul etmemesi halinde gelmemesi gerektiği belirtilen ve izinde iken yerine işçi alınan davacının iş sözleşmesi eylemli olarak davalı işveren tarafından feshedilmiştir. Zira davacı işçi kabul etmediği için, insan kaynakları müdürü olarak işe alınmayacaktır. Bu durumda işçinin haklı olduğunu kabul etmek gerekir. (Yargıtay 9.Hukuk Dairesi – 2010/4093 karar)
+**Konu ile İlgili Yargıtay Kararları:** İnsan Kaynakları müdürü olarak çalışan ve yıllık ücretli izne gönderilirken, izin dönüşü temizlik işinde çalışacağı söylenilen, kabul etmemesi halinde gelmemesi gerektiği belirtilen ve izinde iken yerine işçi alınan davacının iş sözleşmesi eylemli olarak davalı işveren tarafından feshedilmiştir. Zira davacı işçi kabul etmediği için, insan kaynakları müdürü olarak işe alınmayacaktır. Bu durumda işçinin haklı olduğunu kabul etmek gerekir (Yargıtay 9.Hukuk Dairesi – 2010/4093 karar).
 
 Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çalışmıştır. Boyahane teknik temizlik işinin verilmesi davacı açısından İş Kanunun 22. maddesi gereğince iş şartlarında esaslı değişiklik oluşturmaktadır. Davacı bu değişikliği kabul etmek zorunda değildir. (Yargıtay 9.Hukuk Dairesi – 2011/17092 karar)
 
@@ -82,23 +82,23 @@ Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çal�
 
 İş sözleşmesi hayat boyu işçiyi bağlayabilecek sözleşmelerden değildir. Eğer işçinin yasal olarak emeklilik zamanı gelmişse **kıdem tazminatı**na kendiliğinden hak kazanır.	
 
-**Konu ile İlgili Yargıtay Kararı:** Davalı kanunun kendisine verdiği emeklilik hakkını kullanmıştır. Kanunda tanınan bu hakkın amacı, işyerinde çalışarak yıpranmış olan ve bu arada sigortalılık yılı ile prim ödeme süresine ait yükümlülükleri tamamlamış olan işçinin, emeklilik için bir yaşı beklemesine gerek olmadan iş sözleşmesini aktif sonlandırabilmesine imkan tanımaktır. Emeklilik hakkını kullanan işçi, **kıdem tazminatı**na hak kazanır. (Yargıtay 22.Hukuk Dairesi – 2013/909 karar)
+**Konu ile İlgili Yargıtay Kararı:** Davalı kanunun kendisine verdiği emeklilik hakkını kullanmıştır. Kanunda tanınan bu hakkın amacı, işyerinde çalışarak yıpranmış olan ve bu arada sigortalılık yılı ile prim ödeme süresine ait yükümlülükleri tamamlamış olan işçinin, emeklilik için bir yaşı beklemesine gerek olmadan iş sözleşmesini aktif sonlandırabilmesine imkan tanımaktır. Emeklilik hakkını kullanan işçi, **kıdem tazminatı**na hak kazanır (Yargıtay 22.Hukuk Dairesi – 2013/909 karar).
 
 ####h-Kadın işçi, iş akdini evlenme gerekçesiyle feshettiğinde kıdem tazminatına hak kazanır:
 
 İş Kanunu, sadece kadın işçiye özgü olmak üzere, evlilik gerekçesiyle iş akdini feshederek **kıdem tazminatı**nı alma imkanı tanımıştır. Kadın işçi, evlendiği tarihten başlamak üzere 1 yıl içinde iş akdini feshederse **kıdem tazminatı** alabilir. Evlilikten itibaren 1 yıldan fazla süre geçerse, bu gerekçeyle akit feshedilemez. 
 
-**Konu ile İlgili Yargıtay Kararı:** Evlenen işçinin, şe gelmemiş olması işçinin evlenme tarihine göre fiilen evlilik nedeni ile iş akdini feshetmiş olduğunu gösterir. Bu durumda davacı işçi, iş akdini evlilik nedeni ile bir yıl içinde feshetmiş olduğundan **kıdem tazminatı**na hakkı bulunmaktadır. (Yargıtay 9.Hukuk Dairesi – 2007/36<152 karar)
+**Konu ile İlgili Yargıtay Kararı:** Evlenen işçinin, şe gelmemiş olması işçinin evlenme tarihine göre fiilen evlilik nedeni ile iş akdini feshetmiş olduğunu gösterir. Bu durumda davacı işçi, iş akdini evlilik nedeni ile bir yıl içinde feshetmiş olduğundan **kıdem tazminatı**na hakkı bulunmaktadır (Yargıtay 9.Hukuk Dairesi – 2007/36<152 karar).
 
 ####i-İşçi, sendika yöneticisi olduğu gerekçesiyle iş akdini askıya alabileceği gibi feshederek kıdem tazminatı da alabilir:
 
 İşçi, sendikal gerekçelerle iş akdini askıya aldığında, bu sendikal görevin bitmesi veya işçinin sendikal görevi bırakması halinde işveren, işçinin talebi halinde 1 ay içinde eski işine uygun pozisyonda işçiyi çalıştırmak zorundadır. İşveren, sendikal görev ifa eden işçinin geri dönüşü halinde her zaman kendisine öncelik tanımak zorundadır. Aksi takdirde işveren, işçinin **kıdem tazminatı** hakkını ödemek zorundadır.
 
-**Konu İle İlgili Yargıtay Kararı:**  İş akdini sendika yöneticiliği nedeniyle askıya alan 	işçi, tekrar işe dönmek istediğinde işveren kabul etmediği takdirde kıdem tazminatını işçiye 	ödemek zorundadır. (Hukuk Genel Kurul Kararı –  1998/631 karar)
+**Konu İle İlgili Yargıtay Kararı:** İş akdini sendika yöneticiliği nedeniyle askıya alan işçi, tekrar işe dönmek istediğinde işveren kabul etmediği takdirde kıdem tazminatını işçiye ödemek zorundadır (Hukuk Genel Kurul Kararı –  1998/631 karar).
 
 ####j-İşçinin ölmesi halinde geriye kalan mirasçıları kıdem tazminatı talebinde bulunabilirler:
 
-İşçinin iş kazası veya başka surette ölmesinin bir önemi yoktur. İş kazasında ölüm 	halinde işçinin %100 kusurlu olmasının da bir önemi yoktur. İşçinin ölümü halinde mirasçıları **kıdem tazminatı**na hak kazanır.
+İşçinin iş kazası veya başka surette ölmesinin bir önemi yoktur. İş kazasında ölüm halinde işçinin %100 kusurlu olmasının da bir önemi yoktur. İşçinin ölümü halinde mirasçıları **kıdem tazminatı**na hak kazanır.
 
 ##İşçi Hangi Hallerde Kıdem Tazminatı Alamaz?
 
@@ -110,7 +110,7 @@ Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çal�
 
 ####b-İşçinin iş sözleşmesi yapılırken sözleşmenin esaslı noktalarından biri için lüzumlu nitelikler veya şartlar kendisinde olmadığı halde bunların kendisinde bulunduğunu ileri sürmesi veya gerçeğe uygun olmayan bilgi veya sözler söyleyerek işvereni yanıltması halinde işveren, iş akdini feshedebilir ve işçi kıdem tazminatı alamaz:
 
-İşçi, iş akdi yapılırken kendisinin nitelikleri, iş bilgisi, yetenekleri ve tecrübesi konusunda 	işverene doğru bilgi vermek zorundadır. İşçinin yanlış bilgi vermesi ve verdiği yanlış bilginin iş 	akdinin gereklerinin yerine getirilip getirilmemesi hususunda önem arz etmesi halinde 	işveren iş akdini fesheder ve işçi **kıdem 	tazminatı** alamaz. İşçinin gerçeğe aykırı olarak 	verdiği bilgi ve sözler işin yürütülmesine bir etkide bulunuyorsa işveren bu maddeye 	dayanarak iş akdini feshedebilir.
+İşçi, iş akdi yapılırken kendisinin nitelikleri, iş bilgisi, yetenekleri ve tecrübesi konusunda işverene doğru bilgi vermek zorundadır. İşçinin yanlış bilgi vermesi ve verdiği yanlış bilginin iş akdinin gereklerinin yerine getirilip getirilmemesi hususunda önem arz etmesi halinde işveren iş akdini fesheder ve işçi **kıdem tazminatı** alamaz. İşçinin gerçeğe aykırı olarak verdiği bilgi ve sözler işin yürütülmesine bir etkide bulunuyorsa işveren bu maddeye 	dayanarak iş akdini feshedebilir.
 	
 ####c-İşçinin işveren veya onun aile bireylerinden biri hakkında şeref ve onurunu rencide edecek kötü sözler söyler veya davranışlarda bulunursa veya işveren hakkında şeref ve haysiyet kırıcı asılsız ihbar ve isnatlarda bulunursa işveren iş akdini fesheder ve işçi kıdem tazminatı alamaz:
 
