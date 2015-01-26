@@ -3,8 +3,11 @@ layout: blog
 title: Yargıtay Kararı - Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi
 category: aile-hukuku
 googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, Avukat Baran Doğan
-summary: Yargıtay tarafından bir boşanma davasında, evlilik birliği içerisinde eşine hakaret eden kadın ile eşiyle ilgilenmeyip zamanını kendi ailesiyle geçiren erkek eşit kusurlu sayılmıştır. Eşlerin eşit kusuru halinde taraflardan herhangi biri lehine maddi-manevi tazminata hükmedilmeyeceği karara bağlanmıştır.
 ---
+**ÖZET**
+
+Yargıtay tarafından bir boşanma davasında, evlilik birliği içerisinde eşine hakaret eden kadın ile eşiyle ilgilenmeyip zamanını kendi ailesiyle geçiren erkek eşit kusurlu sayılmıştır. Eşlerin eşit kusuru halinde taraflardan herhangi biri lehine maddi-manevi tazminata hükmedilmeyeceği karara bağlanmıştır.
+
 **T.C.**
 **YARGITAY**
 **2. HUKUK DAİRESİ**
