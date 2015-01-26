@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Boşanma Avukatı
-category: aile-hukuku
-googleAnahtar: Boşanma avukatı, boşanma davası, boşanma sebebi, boşanma sebepleri, avukat, Avukat Baran Doğan
+category: is-hukuku
+googleAnahtar: Kıdem tazminatı, hangi hallerde kıdem tazminatı alınır? kıdem tazminatı almanın şartları, avukat, Avukat Baran Doğan
 summary: Boşanma avukatının işlevi analaşılır bir dille izah edilmeye çalışılmışt
 ---
 
@@ -133,3 +133,5 @@ Uygulamada işverenin iş akdine son vermek için kullandığı en büyük enstr
 #####i-	İşçiyi işyerinde 1 haftadan fazla süreyle çalışmasını engelleyecek zorlayıcı bir sebebin ortaya çıkması durumunda da işveren haklı nedenle akdi feshedebilir.
 
 #####j-	 İşçinin gözaltına alınması veya tutuklanması halinde kıdemine göre, 6 aylık bir işçiyse bu durumun 2 haftadan fazla sürmesi, 6 ay-1,5 yıl arasında işçiyse 4 haftadan fazla sürmesi, 1,5 yıl- 3 yıl arasında işçiyse 6 haftadan fazla sürmesi, 3 yıldan fazla işçiyse 8 haftadan fazla sürmesi halinde işveren iş akdini haklı nedenle feshedebilir ve işçi kıdem tazminatı alamaz.
+
+**Avukat Baran Doğan**
