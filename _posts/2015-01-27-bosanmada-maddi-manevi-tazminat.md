@@ -13,7 +13,7 @@ googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, Av
 
 **Karar No.2013/303**
 
-Taraflar arasındaki "boşanma, nafaka, maddi ve manevi tazminat" davasından dolayı yapılan yargılama sonunda; İstanbul 9.Aile Mahkemesi'nce ( Devren Fatih 1.Aile Mah. ) davanın kabulüne dair verilen 31.05.2011 gün ve E:2005/460, K:2011/372 sayılı kararın incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 2.Hukuk Dairesi'nin 13.10.2011 gün ve 15588 - 15785 sayılı ilamı ile;
+Taraflar arasındaki "boşanma, nafaka, **maddi ve manevi tazminat**" davasından dolayı yapılan yargılama sonunda; İstanbul 9.Aile Mahkemesi'nce ( Devren Fatih 1.Aile Mah. ) davanın kabulüne dair verilen 31.05.2011 gün ve E:2005/460, K:2011/372 sayılı kararın incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 2.Hukuk Dairesi'nin 13.10.2011 gün ve 15588 - 15785 sayılı ilamı ile;
 
 ( ... 1-Dosyadaki yazılara kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
