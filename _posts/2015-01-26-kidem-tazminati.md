@@ -132,4 +132,4 @@ Uygulamada işverenin iş akdine son vermek için kullandığı en büyük enstr
 
 **j-İşçinin gözaltına alınması veya tutuklanması halinde kıdemine göre, 6 aylık bir işçiyse bu durumun 2 haftadan fazla sürmesi, 6 ay-1,5 yıl arasında işçiyse 4 haftadan fazla sürmesi, 1,5 yıl- 3 yıl arasında işçiyse 6 haftadan fazla sürmesi, 3 yıldan fazla işçiyse 8 haftadan fazla sürmesi halinde işveren iş akdini haklı nedenle feshedebilir ve işçi kıdem tazminatı alamaz.**
 
-**Avukat Baran Doğan**
+***Avukat Baran Doğan***
