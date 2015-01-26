@@ -6,6 +6,14 @@ googleAnahtar: boşanma davalarında eşit kusur, avukat, Avukat Baran Doğan
 summary: Yargıtay tarafından bir boşanma davasında, evlilik birliği içerisinde eşine hakaret eden kadın ile eşiyle ilgilenmeyip zamanını kendi ailesiyle geçiren erkek eşit kusurlu sayılmıştır. Eşlerin eşit kusuru halinde taraflardan herhangi biri lehine maddi-manevi tazminata hükmedilmeyeceği karara bağlanmıştır.
 ---
 
+**T.C.**
+**YARGITAY**
+**2. HUKUK DAİRESİ**
+
+**Esas No.2014/1497**
+
+**Karar No.2014/11762**
+
 Taraflar arasındaki davanın yapılan muhakemesi sonunda mahalli mahkemece verilen, yukarıda tarihi ve numarası gösterilen hüküm, davacı koca tarafından kusur belirlemesi, nafaka ve tazminatlar yönünden temyiz edilmekle, evrak okunup gereği görüşülüp düşünüldü:
 
 KARAR : 1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davacı kocanın aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
