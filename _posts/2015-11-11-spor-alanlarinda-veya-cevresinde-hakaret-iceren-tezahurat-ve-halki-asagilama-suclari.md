@@ -2,16 +2,16 @@
 layout: blog
 category: ceza-hukuku
 title: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
-googleAnahtar: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
+googleAnahtar: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları, spor hukuku, avukat baran doğan
 summary: Spor alanlarında, özellikle futbol sahalarında bireysel veya toplu olarak yapılan hakaret içeren tezahürat ve halkı aşağılama mahiyetinde olup suç teşkil eden fiiller incelenmiştir.
 ---
 **I-GİRİŞ**
 
-Hukuk değişen toplumsal ilişkilere denk düşen normlar üreten ve bu yeni ilişkileri düzenleyen bir bilim dalıdır. Spor hukuku da sporun günümüzde kazandığı toplumsal önem, çeşitlilik ve evrensellik nedeniyle gelişen yeni bir hukuk dalıdır. Spor hukukunun konusunu, profesyonel veya amatör yapılan sporla ilgili her türlü faaliyet oluşturur. Türkiye'de hukuk her alanda toplumun gerisinde kaldığı gibi bu alanda da toplumsal gelişmelrin gerisinde kalmıştır. Spor alanlarında yapılan norm ihlalleri toplumsal düzeni çok ciddi bir şekilde tahrip edecek boyuta gelmiştir. Spor faaliyetine pasif veya aktif olarak katılan sujeler dört farklı şekilde norm ihlali yapabilir; özel hukuk alanını ilgilendiren haksız fiiller, disiplin hukukunu ilgilendiren eylemler, kabahatler ve suçlar.Spor faaliyetine katılan sujelerin yapabileceği en ağır norm ihlali suç işlemektir. Suç, ceza hukukunun en ağır yaptırımı öngördüğü fiildir. 
+Hukuk değişen toplumsal ilişkilere denk düşen normlar üreten ve bu yeni ilişkileri düzenleyen bir bilim dalıdır. **Spor hukuku** da sporun günümüzde kazandığı toplumsal önem, çeşitlilik ve evrensellik nedeniyle gelişen yeni bir hukuk dalıdır. **Spor hukuku**nun konusunu, profesyonel veya amatör yapılan sporla ilgili her türlü faaliyet oluşturur. Türkiye'de hukuk her alanda toplumun gerisinde kaldığı gibi bu alanda da toplumsal gelişmelerin gerisinde kalmıştır. Spor alanlarında yapılan norm ihlalleri toplumsal düzeni çok ciddi bir şekilde tahrip edecek boyuta gelmiştir. Spor faaliyetine pasif veya aktif olarak katılan sujeler dört farklı şekilde norm ihlali yapabilir; özel hukuk alanını ilgilendiren haksız fiiller, disiplin hukukunu ilgilendiren eylemler, kabahatler ve suçlar.Spor faaliyetine katılan sujelerin yapabileceği en ağır norm ihlali suç işlemektir. Suç, ceza hukukunun en ağır yaptırımı öngördüğü fiildir. 
 
 Suçun işlenmesinin etkili bir şekilde önlenebilmesi, iyi bir suç siyasetinin varlığına bağlıdır. Devletler suçların önlenmesinde birtakım yöntemlere müracaat eder. Bu yöntemler, genel olarak tasnif edilecek olursa önleyici ve cezalandırıcı olmak üzere iki türlüdür. Türkiye’de devlet, uzun süre spor alanlarında işlenen hukuka aykırı fiillerle ilgili önleyici birtakım tedbirlere (para cezaları, maçtan önce arama yapmak, seyirciyi spor müsabakasına almamak vs.) başvurma yolunu tercih etmiştir. Önleyici nitelikte idari tedbirler, hukuki sorunların çözümünde yetersiz kalınca özel kanunlarla suç tanzimi ve cezalandırma yoluna gitmiştir.
 
-İnceleyeceğimiz ceza hukuku alanı, spor karşılaşmalarında kural ihlallerine yönelik suç tipleriyle, her bir oyuncunun, hakemin, seyircilerin, kulübün her bir üyesinin veya tüzel kişi olarak bizzat kulübün yaşamı, beden bütünlüğü, sağlığı, şeref ve haysiyeti, malvarlığı gibi münhasıran spor karşılaşmasına katılan veya spor karşılaşması ile bireysel olarak ilgili bulunan her bir kişiye ait hukuksal yararları korumaktadır.
+İnceleyeceğimiz ceza hukuku alanı, spor karşılaşmalarında kural ihlallerine yönelik suç tiplerini tanımlamaktadır.Ayrıca her bir oyuncunun, hakemin, seyircilerin, kulübün her bir üyesinin veya tüzel kişi olarak bizzat kulübün yaşamı, beden bütünlüğü, sağlığı, şeref ve haysiyeti, malvarlığı gibi münhasıran spor karşılaşmasına katılan veya spor karşılaşması ile bireysel olarak ilgili bulunan her bir kişiye ait hukuksal yararları korumaktadır.
 
 **II-TARİHSEL GELİŞİM**
 
@@ -26,7 +26,7 @@ Madde 19- Üçüncü Bölümde belirtilen yasaklara uymayanlar hakkında; söz k
 Bu kişi veya kişilerin müsabaka alanı dışına çıkarılmasına, şartlar uygun bulunmadığı takdirde durum her türlü kamera, fotoğraf makinesi gibi teknik araçlarla, tanıkla veya diğer belgelerle tespit edilerek ilgililer hakkında yasal işlem yapılır.”  
 Esasen, 5149 sayılı yasa spor yapılan alanlarda meydana gelen düzensizliği gidermek için gerekli önlemleri ve yaptırımları düzenlemiştir. Kanunda suç ve ceza içeren herhangi bir norm olmadığından kısa bir süre sonra yeniden suç ve cezaları belirleyen bir yasal düzenleme yapma gereği ortaya çıkmıştır.
 
-Türkiye’de spor alanlarında veya çevresinde hakaret içeren tezahürat ve halkı aşağılama suçları ilk kez 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesi Hakkında Kanun ile yürürlüğe girmiştir. Mevzuatımızda sistematik bir şekilde spor faaliyeti ile ceza hukuku arasında bağ kuran, suç ve cezaları belirleyen ilk kanun 6222 sayılı kanundur.
+Türkiye’de **spor alanlarında veya çevresinde hakaret içeren tezahürat ve halkı aşağılama suçları** ilk kez 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesi Hakkında Kanun ile yürürlüğe girmiştir. Mevzuatımızda sistematik bir şekilde spor faaliyeti ile ceza hukuku arasında bağ kuran, suç ve cezaları belirleyen ilk kanun 6222 sayılı kanundur.
 
 **III-SUÇUN YAPISAL AÇIDAN İNCELENMESİ**
 
@@ -98,6 +98,8 @@ Maddenin ikinci fıkrasında düzenlenen suç hem bu maddede hem de TCK’da res
 
 **IV-Sonuç**:
 
-Spor hukukuna ilişkin suç ve ceza içeren hükümlerin daha somut kıstaslarla düzenlenmesi gerekmektedir. Özellikle TCK’nın aynı neviden suç ve ceza içeren hükümleri gözetilerek normlar arasında ahenk sağlanmalıdır.
+**Spor hukuku**na ilişkin suç ve ceza içeren hükümlerin daha somut kıstaslarla düzenlenmesi gerekmektedir. Özellikle TCK’nın aynı neviden suç ve ceza içeren hükümleri gözetilerek normlar arasında ahenk sağlanmalıdır.
 
-Spor hukuku, Türkiye’de özellikle ceza hukuku yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de zaman içinde daha sağlıklı bir şekilde yapılabilecektir.
+**Spor hukuku,** Türkiye’de özellikle ceza hukuku yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de zaman içinde daha sağlıklı bir şekilde yapılabilecektir.
+
+**Avukat Baran Doğan**
