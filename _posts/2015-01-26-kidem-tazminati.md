@@ -78,19 +78,19 @@ Erkek işçiler, zorunlu askerlik hizmetini yerine getirmek üzere işten ayrıl
 
 Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çalışmıştır. Boyahane teknik temizlik işinin verilmesi davacı açısından İş Kanunun 22. maddesi gereğince iş şartlarında esaslı değişiklik oluşturmaktadır. Davacı bu değişikliği kabul etmek zorunda değildir. (Yargıtay 9.Hukuk Dairesi – 2011/17092 karar)
 
-####g-İşçinin emekli olması halinde, işçi kıdem tazminatına hak kazanır :	
+####g-İşçinin emekli olması halinde, işçi kıdem tazminatına hak kazanır:	
 
 İş sözleşmesi hayat boyu işçiyi bağlayabilecek sözleşmelerden değildir. Eğer işçinin yasal olarak emeklilik zamanı gelmişse **kıdem tazminatı**na kendiliğinden hak kazanır.	
 
 **Konu ile İlgili Yargıtay Kararı:** Davalı kanunun kendisine verdiği emeklilik hakkını kullanmıştır. Kanunda tanınan bu hakkın amacı, işyerinde çalışarak yıpranmış olan ve bu arada sigortalılık yılı ile prim ödeme süresine ait yükümlülükleri tamamlamış olan işçinin, emeklilik için bir yaşı beklemesine gerek olmadan iş sözleşmesini aktif sonlandırabilmesine imkan tanımaktır. Emeklilik hakkını kullanan işçi, **kıdem tazminatı**na hak kazanır. (Yargıtay 22.Hukuk Dairesi – 2013/909 karar)
 
-####h-Kadın işçi, iş akdini evlenme gerekçesiyle feshettiğinde kıdem tazminatına hak kazanır :
+####h-Kadın işçi, iş akdini evlenme gerekçesiyle feshettiğinde kıdem tazminatına hak kazanır:
 
 İş Kanunu, sadece kadın işçiye özgü olmak üzere, evlilik gerekçesiyle iş akdini feshederek **kıdem tazminatı**nı alma imkanı tanımıştır. Kadın işçi, evlendiği tarihten başlamak üzere 1 yıl içinde iş akdini feshederse **kıdem tazminatı** alabilir. Evlilikten itibaren 1 yıldan fazla süre geçerse, bu gerekçeyle akit feshedilemez. 
 
 **Konu ile İlgili Yargıtay Kararı:** Evlenen işçinin, şe gelmemiş olması işçinin evlenme tarihine göre fiilen evlilik nedeni ile iş akdini feshetmiş olduğunu gösterir. Bu durumda davacı işçi, iş akdini evlilik nedeni ile bir yıl içinde feshetmiş olduğundan **kıdem tazminatı**na hakkı bulunmaktadır. (Yargıtay 9.Hukuk Dairesi – 2007/36<152 karar)
 
-####i-İşçi, sendika yöneticisi olduğu gerekçesiyle iş akdini askıya alabileceği gibi feshederek kıdem tazminatı da alabilir :
+####i-İşçi, sendika yöneticisi olduğu gerekçesiyle iş akdini askıya alabileceği gibi feshederek kıdem tazminatı da alabilir:
 
 İşçi, sendikal gerekçelerle iş akdini askıya aldığında, bu sendikal görevin bitmesi veya işçinin sendikal görevi bırakması halinde işveren, işçinin talebi halinde 1 ay içinde eski işine uygun pozisyonda işçiyi çalıştırmak zorundadır. İşveren, sendikal görev ifa eden işçinin geri dönüşü halinde her zaman kendisine öncelik tanımak zorundadır. Aksi takdirde işveren, işçinin **kıdem tazminatı** hakkını ödemek zorundadır.
 
