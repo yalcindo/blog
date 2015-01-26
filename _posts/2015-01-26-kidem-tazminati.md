@@ -11,7 +11,7 @@ summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin ha
 
 İş kanunu, işçinin işverenden **kıdem tazminatı** alabilmesi için belli şartlar öngörmüştür, bu şartlar şunlardır: 
 
-####1.4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:
+**1.4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:**
 Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile bir işverenin işyerinde çalışan kişiye işçi denilmektedir. İş sözleşmesinin yazılı veya sözlü olması arasında hiçbir fark yoktur. Uygulamada çoğunlukla işçiler yazılı bir sözleşme olmadan fiilen çalışmaktadır. İş Kanunu’nun 14. Maddesi aşağıdaki iş ve meslek grupları içerisinde yer alan şahısların yaptığı çalışmayı işçilik saymadığı için, bu kişiler işçi olmamaları nedeniyle **kıdem tazminatı** alamazlar:
 
 • Deniz ve hava taşıma işlerinde çalışanlar,
@@ -32,10 +32,10 @@ Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile 
 
 • Esnaf ve Sanatkarlar Kanunu’nun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde çalışanlar.
 
-####2.İşçi, en az 1 yıl aynı işverenin işyerinde çalışmalıdır:
+**2.İşçi, en az 1 yıl aynı işverenin işyerinde çalışmalıdır:**
 Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin işyeri veya işyerlerinde en az 1 yıl sürekli çalışması gerekir. İşçi, işverenin işyerinde 1 yıldan daha az süre ile çalışmış ise kıdem tazminatı alması mümkün değildir. İşçi aynı işverenin farklı işyerlerinde, hatta farklı şirketlerinde çalışsa bile 1 yıllık sürenin hesaplanmasında tüm bu çalışmalar göz önünde bulundurulur.
 
-####3.İş sözleşmesi, İş Kanunu’nun öngördüğü şekilde sona ermelidir:  
+**3.İş sözleşmesi, İş Kanunu’nun öngördüğü şekilde sona ermelidir:**  
 İş sözleşmesi ister yazılı isterse sözlü olsun belirsiz süreli iş sözleşmesi olmalıdır. Belirli iş sözleşmesi ile çalışılan işyerinden sözleşme bitiminde **kıdem tazminatı** talep edilemez. Belirli iş sözleşmesi, belli işlerde veya belli bir işin tamamlanması için işveren ile işçi arasında yazılı olarak yapılan sözleşmelerdir. Belirli iş sözleşmeleri işin bitimi ile veya sözleşmede kararlaştırılan şartın gerçekleşmesiyle kendiliğinden sona erer, kendiliğinden sona eren bu iş sözleşmelerinde **kıdem tazminatı**na hak kazanılamaz. Ancak, belirli iş sözleşmesi sözleşmede kararlaştırılan işin bitiminden önce işveren tarafından haksız nedenlerle, işçi tarafından haklı nedenlerle feshedilirse işçi **kıdem tazminatı** almaya hak kazanır. 
 
 
@@ -70,7 +70,7 @@ Erkek işçiler, zorunlu askerlik hizmetini yerine getirmek üzere işten ayrıl
 
 **Konu İle İlgili Yargıtay Kararı:** İş akdi, askerlik sebebiyle sona erdiğinden mahkemece 	davacının askerlik sebebiyle işten ayrıldığı tarihe kadarki çalışmasına ilişkin **kıdem tazminatı**nın 	ayrıldığı tarihteki ücrete göre hesaplanıp kabulü gerekir. (Yargıtay 9.Hukuk Dairesi – 2011/11672 	karar)
 
-####f-İşçinin iş koşullarında esaslı değişiklik yapılması halinde işçi, iş akdini feshederek kıdem tazminatına hak kazanır:
+####f-İşçinin iş koşullarında esaslı değişiklik yapılması halinde işçi, iş akdini feshederek kıdem tazminatına hak kazanır:####
 
 İşçinin, çalışma koşullarında esaslı bir değişiklik gerçekleşmesi halinde işçi, iş sözleşmesini feshederek **kıdem tazminatı**nı alabilir. İşyerinin mevcut yerinden uzak bir yere taşınması, işçi nitelikli bir işte çalışırken düz işçi olarak çalıştırılması, mevcut pozisyonuna göre daha düşük pozisyonlu görevlerde çalıştırılması, çalışma saatlerinin olağan dışı değiştirilmesi halinde işçi, iş akdini feshederek **kıdem tazminatı**na hak kazanır.
 
@@ -78,13 +78,13 @@ Erkek işçiler, zorunlu askerlik hizmetini yerine getirmek üzere işten ayrıl
 
 Davacının yaklaşık 4 yıla yakın kıdemi olup, montaj işçisi olarak çalışmıştır. Boyahane teknik temizlik işinin verilmesi davacı açısından İş Kanunun 22. maddesi gereğince iş şartlarında esaslı değişiklik oluşturmaktadır. Davacı bu değişikliği kabul etmek zorunda değildir (Yargıtay 9.Hukuk Dairesi – 2011/17092 karar).
 
-####g-İşçinin emekli olması halinde, işçi kıdem tazminatına hak kazanır:	
+####g-İşçinin emekli olması halinde, işçi kıdem tazminatına hak kazanır:####	
 
 İş sözleşmesi hayat boyu işçiyi bağlayabilecek sözleşmelerden değildir. Eğer işçinin yasal olarak emeklilik zamanı gelmişse **kıdem tazminatı**na kendiliğinden hak kazanır.	
 
 **Konu ile İlgili Yargıtay Kararı:** Davalı kanunun kendisine verdiği emeklilik hakkını kullanmıştır. Kanunda tanınan bu hakkın amacı, işyerinde çalışarak yıpranmış olan ve bu arada sigortalılık yılı ile prim ödeme süresine ait yükümlülükleri tamamlamış olan işçinin, emeklilik için bir yaşı beklemesine gerek olmadan iş sözleşmesini aktif sonlandırabilmesine imkan tanımaktır. Emeklilik hakkını kullanan işçi, **kıdem tazminatı**na hak kazanır (Yargıtay 22.Hukuk Dairesi – 2013/909 karar).
 
-####h-Kadın işçi, iş akdini evlenme gerekçesiyle feshettiğinde kıdem tazminatına hak kazanır:
+####h-Kadın işçi, iş akdini evlenme gerekçesiyle feshettiğinde kıdem tazminatına hak kazanır:####
 
 İş Kanunu, sadece kadın işçiye özgü olmak üzere, evlilik gerekçesiyle iş akdini feshederek **kıdem tazminatı**nı alma imkanı tanımıştır. Kadın işçi, evlendiği tarihten başlamak üzere 1 yıl içinde iş akdini feshederse **kıdem tazminatı** alabilir. Evlilikten itibaren 1 yıldan fazla süre geçerse, bu gerekçeyle akit feshedilemez. 
 
