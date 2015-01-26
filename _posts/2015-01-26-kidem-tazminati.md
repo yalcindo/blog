@@ -15,23 +15,23 @@ summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin ha
 >####1. 4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:
 >Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile bir işverenin işyerinde çalışan kişiye işçi denilmektedir. İş sözleşmesinin yazılı veya sözlü olması arasında hiçbir fark yoktur. Uygulamada çoğunlukla işçiler yazılı bir sözleşme olmadan fiilen çalışmaktadır. İş Kanunu’nun 14. Maddesi aşağıdaki iş ve meslek grupları içerisinde yer alan şahısların yaptığı çalışmayı işçilik saymadığı için, bu kişiler işçi olmamaları nedeniyle **kıdem tazminatı** alamazlar:
 
->>>>>>>• Deniz ve hava taşıma işlerinde çalışanlar,
+>>• Deniz ve hava taşıma işlerinde çalışanlar,
 
->>>>>>>• 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde çalışanlar,
+>>• 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde çalışanlar,
 
->>>>>>>• Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,
+>>• Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,
 
->>>>>>>• Bir ailenin üyeleri ve 3 üncü dereceye kadar ( 3 üncü derece dahil ) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde çalışanlar,
+>>• Bir ailenin üyeleri ve 3 üncü dereceye kadar ( 3 üncü derece dahil ) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde çalışanlar,
 
->>>>>>>• Ev hizmetlerinde çalışanlar,
+>>• Ev hizmetlerinde çalışanlar,
 
->>>>>>>• Çıraklar,
+>>• Çıraklar,
 
->>>>>>>• Sporcular,
+>>• Sporcular,
 
->>>>>>>• Rehabilite edilenler,
+>>• Rehabilite edilenler,
 
->>>>>>>• Esnaf ve Sanatkarlar Kanunu’nun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde çalışanlar.
+>>• Esnaf ve Sanatkarlar Kanunu’nun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde çalışanlar.
 
 >####2.	İşçi, en az 1 yıl aynı işverenin işyerinde çalışmalıdır:
 >Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin işyeri veya işyerlerinde en az 1 yıl sürekli çalışması gerekir. İşçi, işverenin işyerinde 1 yıldan daha az süre ile çalışmış ise kıdem tazminatı alması mümkün değildir. İşçi aynı işverenin farklı işyerlerinde, hatta farklı şirketlerinde çalışsa bile 1 yıllık sürenin hesaplanmasında tüm bu çalışmalar göz önünde bulundurulur.
