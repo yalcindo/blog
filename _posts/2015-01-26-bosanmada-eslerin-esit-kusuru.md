@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: Boşanma Avukatı
+title: Yargıtay Kararı - Boşanma
 category: aile-hukuku
 googleAnahtar: boşanma davalarında eşit kusur, avukat, Avukat Baran Doğan
 summary: Yargıtay tarafından bir boşanma davasında, evlilik birliği içerisinde eşine hakaret eden kadın ile eşiyle ilgilenmeyip zamanını kendi ailesiyle geçiren erkek eşit kusurlu sayılmıştır. Eşlerin eşit kusuru halinde taraflardan herhangi biri lehine maddi-manevi tazminata hükmedilmeyeceği karara bağlanmıştır.
 ---
 
-#Yargıtay Kararı
+
   
 **ÖZET**
 
