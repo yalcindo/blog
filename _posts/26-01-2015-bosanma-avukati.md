@@ -2,7 +2,7 @@
 layout: blog
 title: Boşanma Avukatı
 category: aile-hukuku
-googleAnahtar: Boşanma avukatı, boşanma sebepleri, boşanma davası, avukat, Avukat Baran Doğan
+googleAnahtar: Boşanma avukatı, boşanma davası, boşanma sebebi, boşanma sebepleri, avukat, Avukat Baran Doğan
 summary: Boşanma avukatının işlevi analaşılır bir dille izah edilmeye çalışılmıştır.
 ---
 
@@ -15,7 +15,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 ###Boşanma Sebepleri
 
-**Boşanma avukatı,** olguları değerlendirerek **boşanma davası** açmak için yeterli neden olup olmadığı araştırır. **Boşanma avukatı,** kendisine anlatılan olaylardan aşağıdaki boşanma sebeplerinin olup olamadığını araştırır:
+**Boşanma avukatı,** olguları değerlendirerek **boşanma davası** açmak için yeterli neden olup olmadığı araştırır. **Boşanma avukatı,** kendisine anlatılan olaylardan aşağıdaki **boşanma sebepleri**nin olup olamadığını araştırır:
 
 •	Aldatma (Medeni Kanun md.161),
 
@@ -30,7 +30,8 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 •	Eşlerden birinin akıl hastası olup olmadığı (M.K. md.165),
 
 •	Evlilik birliğinin taraflardan biri açısından çekilemez derecede temelinden sarsılıp sarsılmadığı (M.K. md.166)
-Boşanma sebebinin doğru tespit edilmesi çok önemlidir. Çünkü, hakim davacının boşanma sebebine göre davayı inceleyecektir. Bu yüzden davanın hazırlık süreci mutlaka boşanma avukatı ile birlikte yürütülmelidir. 
+
+**Boşanma sebebi**nin doğru tespit edilmesi çok önemlidir. Çünkü, hakim davacının **boşanma sebebi**ne göre davayı inceleyecektir. Bu yüzden davanın hazırlık süreci mutlaka **boşanma avukatı** ile birlikte yürütülmelidir. 
 
 ###Boşanma Davası
 
