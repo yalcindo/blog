@@ -20,7 +20,7 @@ Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile 
 
 • Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,
 
-• Bir ailenin üyeleri ve 3 üncü dereceye kadar ( 3 üncü derece dahil ) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde çalışanlar,
+• Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dahil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde çalışanlar,
 
 • Ev hizmetlerinde çalışanlar,
 
