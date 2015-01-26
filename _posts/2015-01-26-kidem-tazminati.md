@@ -11,7 +11,7 @@ summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin ha
 
 İş kanunu, işçinin işverenden **kıdem tazminatı** alabilmesi için belli şartlar öngörmüştür, bu şartlar şunlardır: 
 
-####1. 4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:
+####1.4857 sayılı İş Kanunu’na göre işçi olanlar kıdem tazminatı talep edebilir:
 Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile bir işverenin işyerinde çalışan kişiye işçi denilmektedir. İş sözleşmesinin yazılı veya sözlü olması arasında hiçbir fark yoktur. Uygulamada çoğunlukla işçiler yazılı bir sözleşme olmadan fiilen çalışmaktadır. İş Kanunu’nun 14. Maddesi aşağıdaki iş ve meslek grupları içerisinde yer alan şahısların yaptığı çalışmayı işçilik saymadığı için, bu kişiler işçi olmamaları nedeniyle **kıdem tazminatı** alamazlar:
 
 • Deniz ve hava taşıma işlerinde çalışanlar,
@@ -32,10 +32,10 @@ Yürürlükte bulunan 4857 sayılı İş Kanunu’na göre iş sözleşmesi ile 
 
 • Esnaf ve Sanatkarlar Kanunu’nun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde çalışanlar.
 
-####2.	İşçi, en az 1 yıl aynı işverenin işyerinde çalışmalıdır:
+####2.İşçi, en az 1 yıl aynı işverenin işyerinde çalışmalıdır:
 Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin işyeri veya işyerlerinde en az 1 yıl sürekli çalışması gerekir. İşçi, işverenin işyerinde 1 yıldan daha az süre ile çalışmış ise kıdem tazminatı alması mümkün değildir. İşçi aynı işverenin farklı işyerlerinde, hatta farklı şirketlerinde çalışsa bile 1 yıllık sürenin hesaplanmasında tüm bu çalışmalar göz önünde bulundurulur.
 
-####3.	İş sözleşmesi, İş Kanunu’nun öngördüğü şekilde sona ermelidir:  
+####3.İş sözleşmesi, İş Kanunu’nun öngördüğü şekilde sona ermelidir:  
 İş sözleşmesi ister yazılı isterse sözlü olsun belirsiz süreli iş sözleşmesi olmalıdır. Belirli iş sözleşmesi ile çalışılan işyerinden sözleşme bitiminde **kıdem tazminatı** talep edilemez. Belirli iş sözleşmesi, belli işlerde veya belli bir işin tamamlanması için işveren ile işçi arasında yazılı olarak yapılan sözleşmelerdir. Belirli iş sözleşmeleri işin bitimi ile veya sözleşmede kararlaştırılan şartın gerçekleşmesiyle kendiliğinden sona erer, kendiliğinden sona eren bu iş sözleşmelerinde **kıdem tazminatı**na hak kazanılamaz. Ancak, belirli iş sözleşmesi sözleşmede kararlaştırılan işin bitiminden önce işveren tarafından haksız nedenlerle, işçi tarafından haklı nedenlerle feshedilirse işçi **kıdem tazminatı** almaya hak kazanır. 
 
 
