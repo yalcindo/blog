@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Adli Para Cezası
+Makale
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? avukat, ceza avukatı nedir
 ---
@@ -11,7 +12,7 @@ TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cez
 
 ###Kaç Çeşit Adli Para Cezası Vardır?
 
-TCK’daki düzenlemeye göre yargılanan bir şahsa üç şekilde adli para cezası verilebilir:
+TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para cezası verilebilir:
 
 •	**Doğrudan Verilen Adli Para Cezası		 :** TCK’da suçun karşılığı doğrudan **adli para cezası** ise hakim bu cezaya hükmeder. Örneğin, TCK 182/1 maddesi gereği “Taksirle Çevrenin Kirletilmesi”  doğrudan **adli para cezası**nı gerektirmektedir. 
 
