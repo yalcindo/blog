@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Yargıtay Kararı- Taşınmazın Haricen Satışı/Ecrimisil 
+title: Yargıtay Kararı- El Atmanın Önlenmesi / İyiniyet veya Kötüniyetle Başkasının Arsasında Yapı İnşa Etmek
 category: gayrimenkul-hukuku
 googleAnahtar: el atmanin önlenmesi, başkasının arasasına bina yapılması, avukat, Avukat Baran Doğan
 ---
