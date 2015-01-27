@@ -1,7 +1,6 @@
 ---
 layout: blog
-title: Adli Para Cezası
-Makale
+title: Adli Para Cezası         Makale
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? avukat, ceza avukatı nedir
 ---
