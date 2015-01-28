@@ -45,7 +45,7 @@ TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyeb
 
 Tüm **adli para cezaları,** ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) süresinde ödenmeyince hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen **adli para cezası** hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
-###Adli Para Cezalarında İndirim Veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
+###Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
 
 **Adli para cezası** yaptırımının infazına ilişkin hukuk sistemimizde birçok değişiklik yapılmıştır. Bu değişiklikler çoğu zaman uygulamada karışıklığa yol açmaktadır. Adli para cezasının infazına ve koşullu salıverme hükümlerinin uygulanıp uygulanmayacağına ilişkin üç dönem mevcuttur: 
 
@@ -61,7 +61,7 @@ Hakim, yargılanan kişinin ekonomik durumunu göz önüne alarak hükmettiği a
 
 Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Hakim, yargılanan kişiye 1 yıldan fazla olmamak üzere bir süre belirleyip belirlediği sürede adli para cezasının bir kerede ödenmesine karar verebilir. Bu süre de hükmün kesinleşmesinden itibaren işlemeye başlar.
 
-Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir.  
+Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir.  
 
 ###Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
