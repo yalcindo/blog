@@ -90,3 +90,5 @@ SONUÇ : Açıklanan nedenlerle;
 1- ) Kayseri 1. Ağır Ceza Mahkemesi`nin 21.03.2012 gün ve 21-132 Sayılı direnme hükmünün sanık hakkında haksız tahrik hükümlerinin uygulanması gerektiğinin gözetilmemesi isabetsizliğinden BOZULMASINA,
 2- ) Sanık M. D. müdafiinin tahliye isteminin reddine,
 3- ) Dosyanın mahalline gönderilmek üzere Yargıtay C.Başsavcılığına tevdiine, 18.12.2012 günü yapılan müzakerede tebliğnamedeki isteme uygun olarak oybirliğiyle karar verildi.
+
+**Avukat Baran Doğan**
