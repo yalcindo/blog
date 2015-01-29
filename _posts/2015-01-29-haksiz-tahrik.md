@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: KASTEN ADAM ÖLDÜRME - HAKSIZ TAHRİK        
+title: Yargıtay Kararı    Kasten Adam Öldürme-Haksız Tahrik     
 category: ceza-hukuku
 googleAnahtar: haksız tahrik, kasten adam öldürme, şüpheden sanık yararlanır, avukat, avukat baran doğan
 ---
