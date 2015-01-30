@@ -18,7 +18,7 @@ googleAnahtar: avukat, avukatlık, avukat baran doğan
 
 ####Avukat Kimdir?
 
-•	**Avukat,** mahkemede müvekkilin haklarını savunan kişidir.
+•	**Avukat,** müvekkilin haklarını savunan kişidir.
 
 •	**Avukat,** kural olarak mahkemede müvekkil hazır olmadan yapılabilecek tüm işlemleri yapabilir.
 
