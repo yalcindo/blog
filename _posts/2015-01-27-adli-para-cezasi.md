@@ -45,6 +45,10 @@ TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyeb
 
 Tüm **adli para cezaları,** ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) süresinde ödenmeyince hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen **adli para cezası** hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
+###18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
+
+18 yaşından küçük çocuklara verilen **adli para cezası ödenmese** bile hapse çevrilemez. Fakat, çocuklara verilen **adli para cezası**nın tahsili amacıyla diğer kamu alacakları için izlenen usul ile icra işlemleri yapılabilir. 
+
 ###Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
 
 **Adli para cezası** yaptırımının infazına ilişkin hukuk sistemimizde birçok değişiklik yapılmıştır. Bu değişiklikler çoğu zaman uygulamada karışıklığa yol açmaktadır. Adli para cezasının infazına ve koşullu salıverme hükümlerinin uygulanıp uygulanmayacağına ilişkin üç dönem mevcuttur: 
