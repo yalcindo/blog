@@ -5,11 +5,11 @@ category: ceza-hukuku
 googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? avukat, ceza avukatı, avukat baran doğan
 ---
 
-###Adli Para Cezası Nedir?
+####Adli Para Cezası Nedir?
 
 TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer devlet kurumlarının verdiği cezalar idari para cezasıdır. **Adli para cezası,** idari para cezasından ayrı bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapse dönmez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
 
-###Kaç Çeşit Adli Para Cezası Vardır?
+####Kaç Çeşit Adli Para Cezası Vardır?
 
 TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para cezası verilebilir:
 
@@ -21,17 +21,17 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para ce
 
 •	**Hapis Cezası ile Birlikte Hükmedilen Adli Para Cezaları:** TCK’da bazı suçlar açısından hem hapis hem de **adli para cezası**nın birlikte uygulanması öngörülmüştür. Örneğin, dolandırıcılık suçunda, bir yıldan beş yıla kadar hapis ve beş bin güne kadar adlî para cezasına hükmedilebilir.
 
-###Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir?
+####Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir?
 
 Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, hakaret gibi) hükmedilen hapis cezasının miktarı 1 yıl veya altındaysa, hapis cezası **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (örn, trafik kazası veya iş kazası neticesinde ölüm gibi) ise suçun cezasının paraya çevrilmesi için bir ceza sınırı yoktur. Bu suçlarda, hükmedilen cezanın miktarı ne olursa olsun her zaman paraya çevrilebilir. 
 
 Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur, verilen hapis cezasını paraya çevirmek zorundadır. Eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı paraya çevirmek zorundadır. Ayrıca, yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyükse hakim verdiği 1 yıl veya altındaki cezaları paraya çevirmek zorundadır.
 
-###Adli Para Cezası Ertelenebilir mi?
+####Adli Para Cezası Ertelenebilir mi?
 
 **Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında erteleme kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
 
-###Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
+####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
 Hükmün açıklanmasının geri bırakılması kurumu, kişi hakkında bir mahkumiyet kararı verilmeden 5 yıl gibi bir süreyle denetime tabi tutulmasıdır.
 
@@ -41,15 +41,15 @@ TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyeb
 
 **Hapis cezasından çevrilen veya hapis cezasıyla birlikte verilen adli para cezaları hakkında hükmün açıklanmasının geri bırakılması kararı verilemez.**
 
-###Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu?
+####Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu?
 
 Tüm **adli para cezaları,** ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) süresinde ödenmeyince hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen **adli para cezası** hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
-###18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
+####18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
 
-18 yaşından küçük çocuklara verilen **adli para cezası ödenmese** bile hapse çevrilemez. Fakat, çocuklara verilen **adli para cezası**nın tahsili amacıyla diğer kamu alacakları için izlenen usul ile icra işlemleri yapılabilir. 
+18 yaşından küçük çocuklara verilen **adli para cezası** ödenmese bile hapse çevrilemez. Fakat, çocuklara verilen **adli para cezası**nın tahsili amacıyla diğer kamu alacakları için izlenen usul ile icra işlemleri yapılabilir. 
 
-###Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
+####Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
 
 **Adli para cezası** yaptırımının infazına ilişkin hukuk sistemimizde birçok değişiklik yapılmıştır. Bu değişiklikler çoğu zaman uygulamada karışıklığa yol açmaktadır. Adli para cezasının infazına ve koşullu salıverme hükümlerinin uygulanıp uygulanmayacağına ilişkin üç dönem mevcuttur: 
 
@@ -59,7 +59,7 @@ Tüm **adli para cezaları,** ne şekilde verilmiş olursa olsun (yukarıda aç�
 
 •	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem	:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-###Adli Para Cezasının Taksitle Ödenmesi Mümkün mü?
+####Adli Para Cezasının Taksitle Ödenmesi Mümkün mü?
 
 Hakim, yargılanan kişinin ekonomik durumunu göz önüne alarak hükmettiği adli para cezasının 24 aya kadar taksitle ödenmesine karar verebilir ( TCK madde 52 ). Taksit ödemeleri hükmün kesinleşmesinden itibaren başlar. 
 
@@ -67,7 +67,7 @@ Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Haki
 
 Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir.  
 
-###Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
+####Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
 Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şekilde miktarı oranınca hapse çevrilir. Ama hükmedilen adli para cezasının miktarı ne olursa olsun, tek mahkeme kararındaki para cezası çok yüksek olsa bile, en fazla 3 yıl hapis cezasına çevrilebilir. Birden fazla mahkeme kararıyla mahkumiyet söz konusu ise hapis cezası toplamı 5 yılı geçemez.
 
