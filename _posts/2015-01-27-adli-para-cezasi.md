@@ -33,7 +33,7 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 
 ####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
-Hükmün açıklanmasının geri bırakılması kurumu, kişi hakkında bir mahkumiyet kararı verilmeden 5 yıl gibi bir süreyle denetime tabi tutulmasıdır.
+Hükmün açıklanmasının geri bırakılması kurumu, kişi hakkında bir mahkumiyet kararı verilmeden 5 yıl gibi bir süreyle denetime tabi tutulması olarak açıklanabilir.
 
 TCK, bazı suçlara yukarıda açıkladığımız üzere **doğrudan adli para cezası** verilmesini öngörmüştür. Doğrudan adli para cezasına mahkumiyet halinde, adli para cezası, verilmesi hakkındaki hükmün açıklanmasının geri bırakılmasına karar verilebilir. 
 
