@@ -15,8 +15,8 @@ googleAnahtar: avukat, avukatlık, avukat baran doğan
 ####Sır Saklama
 
 **Avukat,** müvekkili ile ilgili her türlü bilgiyi gizli tutmalıdır. **Avukatlık** mesleği, karşılıklı güven ilişkisine dayanır. Bu nedenle **avukat,** davayla ilgili öğrendiği her şeyi sır olarak saklamak zorundadır. **Avukat**ın sır saklama yükümlülüğü, müvekkili aleyhine tanıklıktan çekinmeyi de kapsar. **Avukatlık** mesleği vesilesiyle öğrenilen sırların tutulması süresizdir. **Avukat** meslekten ayrılsa bile müvekkile ait sırları ifşa edemez.
- 
- ####Avukat Kimdir? Avukat Ne Yapar?
+
+####Avukat Kimdir? Avukat Ne Yapar?
  
 •	**Avukat,** yargısal ve idari tüm kurumlarda müvekkilin haklarını savunan kişidir.
 
@@ -36,5 +36,5 @@ googleAnahtar: avukat, avukatlık, avukat baran doğan
 
 •	**Avukat,** mesleğini icra ederken tam bir bağımsızlık içinde hareket eder. Bağımsızlığı zedeleyecek iş kabul etmemelidir.
 
-**Avukat Baran Doğan** 
+***Avukat Baran Doğan***
 
