@@ -38,7 +38,7 @@ summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin ha
 
 ##İşçi Hangi Hallerde Kıdem Tazminatına Hak Kazanır?
 
-İşçi, iş sözleşmesini haklı nedenle feshetmişse her şekilde kıdem tazminatı almaya hak kazanacaktır. İşverenin iş sözleşmesini feshetmesi halinde, işçinin **kıdem tazminatı** alabilmesi için bu feshin haksız olması gerekir. İşveren haklı nedenlerle iş sözleşmesini feshetmişse veya işçinin yaptığı fesih haksız bir fesih ise işçi, **kıdem tazminatı**na hak kazanamaz.
+İşçi, iş sözleşmesini haklı nedenle feshetmişse her şekilde **kıdem tazminatı** almaya hak kazanacaktır. İşverenin iş sözleşmesini feshetmesi halinde, işçinin **kıdem tazminatı** alabilmesi için bu feshin haksız olması gerekir. İşveren haklı nedenlerle iş sözleşmesini feshetmişse veya işçinin yaptığı fesih haksız bir fesih ise işçi, **kıdem tazminatı**na hak kazanamaz.
 
 **a-İşçi, sağlık sebeplerini gerekçe göstererek iş sözleşmesini feshederse kıdem tazminatına hak kazanır:**
 
