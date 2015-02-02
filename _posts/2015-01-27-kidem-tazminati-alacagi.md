@@ -14,7 +14,7 @@ googleAnahtar: Kıdem tazminatı, belirli iş sözleşmesi, belirsiz iş sözle�
 
 **Karar No.2014/710**
 
-Taraflar arasındaki "kıdem tazminatı alacağı" davasından dolayı yapılan yargılama sonunda; Gebze 3.İş Mahkemesi'nce davanın kabulüne dair verilen 29.03.2012 gün ve 2011/1250 E.-2012/182 K. sayılı kararın incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 22.Hukuk Dairesi'nin 11.12.2012 gün ve 2012/8515 E.-2012/28013 K. sayılı ilamı ile;
+Taraflar arasındaki "**kıdem tazminatı alacağı**" davasından dolayı yapılan yargılama sonunda; Gebze 3.İş Mahkemesi'nce davanın kabulüne dair verilen 29.03.2012 gün ve 2011/1250 E.-2012/182 K. sayılı kararın incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 22.Hukuk Dairesi'nin 11.12.2012 gün ve 2012/8515 E.-2012/28013 K. sayılı ilamı ile;
 
 ( ... Davacı vekili, işe iade dosyasında mahkemenin davanın kabulüne karar verdiği halde, temyiz incelemesi sonucunda Yargıtay 9.Hukuk Dairesi'nce iş sözleşmesinin belirli süreli olarak kabul edilerek davanın bozularak ortadan kaldırıldığını ve reddine karar verildiğini, müvekkiline belirli süreli sözleşme gerekçe gösterilerek **kıdem tazminatı** ödenmediğini belirterek, davalıdan kıdem tazminatının ödetilmesini istemiştir.
 
