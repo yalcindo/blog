@@ -5,7 +5,7 @@ category: aile-hukuku
 googleAnahtar: mal paylaşımı, boşanma, boşanmada mal paylaşımı, edinilmiş mallara katılma rejimi, avukat, Avukat Baran Doğan
 ---
 
-###BOŞANMADA MAL PAYLAŞIMI
+
 
 Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. **Mal paylaşımı** konusunda 01.01.2002 tarihinden önceki dönemin tabi olduğu hukuki kurallar ile sonraki dönemin tabi olduğu hukuki kurallar tamamen farklıdır. 
 
