@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Bedelli Askerlikte 2011'de 30.000 TL Olarak Fazla Alınan Bedelin İadesi Başvuru ve Davayla İle İlgili Haber ve Videolar
+title: 2011'de 30.000 TL Olarak Fazla Alınan Bedelli Askerlik Parasının İadesi ile İlgili Başvuru ve Açtığımız Davaya Dair Haber ve Videolar
 category: hukuk-haberleri
 googleAnahtar: bedelli askerlik, bedelli askerlik parasının iadesi, avukat, avukat baran doğan
 summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi talebimize dair bazı haber ve videolara yer verilmiştir.
