@@ -5,5 +5,5 @@ category: hukuk-haberleri
 googleAnahtar: bedelli askerlik, bedelli askerlik parasının iadesi, avukat, avukat baran doğan
 ---
 
-[Bilirkişi, "11 Yaşından Küçük Çocuklar Bisiklet Kullanmaz" Dedi. - ***HÜRRİYET GAZETESİ***](http://www.hurriyet.com.tr/gundem/26405746.asp)
+[Bilirkişi, "11 Yaşından Küçük Çocuklar Bisiklet Kullanamaz" Dedi. - ***HÜRRİYET GAZETESİ***](http://www.hurriyet.com.tr/gundem/26405746.asp)
 ---
