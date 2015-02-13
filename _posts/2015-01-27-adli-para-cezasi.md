@@ -72,4 +72,5 @@ Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmes
 
 Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şekilde miktarı oranınca hapse çevrilir. Ama hükmedilen adli para cezasının miktarı ne olursa olsun, tek mahkeme kararındaki para cezası çok yüksek olsa bile, en fazla 3 yıl hapis cezasına çevrilebilir. Birden fazla mahkeme kararıyla mahkumiyet söz konusu ise hapis cezası toplamı 5 yılı geçemez.
 
-***Avukat Baran Doğan***
+
+ **Ataköy** / ***Avukat Baran Doğan***
