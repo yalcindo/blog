@@ -2,7 +2,7 @@
 layout: blog
 title: Boşanma Avukatı
 category: aile-hukuku
-googleAnahtar: Boşanma avukatı, boşanma davası, boşanma sebebi, boşanma sebepleri, avukat, Avukat Baran Doğan
+googleAnahtar: Boşanma avukatı, boşanma davası, boşanma sebebi, boşanma sebepleri, ataköu avukat, avukat, Avukat Baran Doğan
 summary: Boşanma avukatının işlevi analaşılır bir dille izah edilmeye çalışılmıştır.
 ---
 
@@ -61,6 +61,10 @@ Hakim, ilk duruşmada (ön inceleme duruşmasında) gerekli tespitleri yaptıkta
 **Boşanma avukatı**nın tanıklara doğrudan soru sorma hakkı vardır. Davayı aydınlatmak, tanık beyanlarındaki çelişkileri gidermek ve müvekkili lehine olguları ortaya çıkarmak için **boşanma avukatı** dilediği kadar soru sorabilir.
 
 **Boşanma davası**nda hakimin verdiği hüküm ne olursa olsun her iki tarafın temyiz hakkı vardır.**Boşanma davası,** evlilik birliğini sona erdiren nihai bir kararla sonuçlanırsa, tarafların temyiz incelemesi için Yargıtay'a başvuru hakkı doğar. Temyiz incelemesi sonucu veya temyiz edilmeyerek karar kesinleşirse nüfus müdürlüğüne yazı yazılarak tarafların nüfus kayıtlarının mahkeme kararına göre düzenlenmesi sağlanır.
+
+
+
+**Ataköy / Avukat Baran Doğan**
 
 
 
