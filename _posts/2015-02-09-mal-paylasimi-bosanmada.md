@@ -2,7 +2,7 @@
 layout: blog
 title: Boşanmada Mal Paylaşımı
 category: aile-hukuku
-googleAnahtar: mal paylaşımı, boşanma, boşanmada mal paylaşımı, edinilmiş mallara katılma rejimi, avukat, Avukat Baran Doğan
+googleAnahtar: mal paylaşımı, boşanma, boşanmada mal paylaşımı, edinilmiş mallara katılma rejimi, avukat, ataköy avukat, Avukat Baran Doğan
 ---
 
 ---
@@ -47,4 +47,4 @@ Evlilikten önce alınan taşınmazların kira geliri, evlilik içinde elde edil
 
 Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dışında bir oran belirleyebilir. Eşler, boşanma halinde malların paylaşım oranını noterde yapacakları bir sözleşmeyle belirleyebilir.
 
-**Avukat Baran Doğan**
+**Ataköy** / **Avukat Baran Doğan**
