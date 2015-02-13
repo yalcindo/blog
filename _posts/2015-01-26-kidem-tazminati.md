@@ -2,7 +2,7 @@
 layout: blog
 title: Kıdem Tazminatı
 category: is-hukuku
-googleAnahtar: Kıdem tazminatı, hangi hallerde kıdem tazminatı alınır? Kıdem tazminatı almanın şartları, avukat, Avukat Baran Doğan
+googleAnahtar: Kıdem tazminatı, hangi hallerde kıdem tazminatı alınır? Kıdem tazminatı almanın şartları, avukat, ataköy avukat, Avukat Baran Doğan
 summary: İşçinin kıdem tazminatı alabilmesi için önşartlar, işçinin hangi hallerde iş sözleşmesini feshederek kıdem tazminatı alabileceği, hangi hallerde kıdem tazminatı alamayacağı başlıklar halinde kısaca anlatılmıştır.
 ---
 **Kıdem tazminatı,** işverenin işçisine belli koşulların sağlanması halinde işyerinde çalıştığı süre boyunca kazandığı kıdeminin karşılığı olarak ödenen tazminattır. İşçi çalıştığı işe ve işyerine yıllarca emek vermekte, işverenin ticari işinin yürütülmesine katkı sunmaktadır. İşçinin bu düzenli ve sürekli çalışmasının karşılığında işyerinde geçirdiği süre ölçü alınarak kendisine **kıdem tazminatı** ödenmektedir. **Kıdem tazminatı,** işçinin son aldığı ücrete yol, yemek, sosyal yardım ( eğitim, konut vs. ) gibi haklar da ilave edilerek bulunan brüt ücret üzerinden hesaplanarak ödenir.
@@ -132,4 +132,4 @@ Uygulamada işverenin iş akdine son vermek için kullandığı en büyük enstr
 
 **j-İşçinin gözaltına alınması veya tutuklanması halinde kıdemine göre, 6 aylık bir işçiyse bu durumun 2 haftadan fazla sürmesi, 6 ay-1,5 yıl arasında işçiyse 4 haftadan fazla sürmesi, 1,5 yıl- 3 yıl arasında işçiyse 6 haftadan fazla sürmesi, 3 yıldan fazla işçiyse 8 haftadan fazla sürmesi halinde işveren iş akdini haklı nedenle feshedebilir ve işçi kıdem tazminatı alamaz.**
 
-***Avukat Baran Doğan***
+**Ataköy** / ***Avukat Baran Doğan***
