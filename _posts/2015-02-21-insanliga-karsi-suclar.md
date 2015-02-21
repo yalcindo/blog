@@ -5,7 +5,7 @@ category: ceza-hukuku
 googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, avukat, avukat Baran Dogan
 ---
 --- 
-İnsanlığa karşı suçlar, devletlerin insanlara karşı giriştiği insanlık dışı fiilleri tarif etmek üzere, daha çok II. Dünya Savaşı’ndan sonra hukuk metinlerinde yer almıştır. İnsanlığa karşı işlenen suçlar kavramı hukuksal bir metne ilk kez Nuremberg Askeri Ceza Mahkemesi Statüsü’yle girmiştir. 
+İnsanlığa karşı suçlar, devletlerin insanlara karşı giriştiği insanlık dışı fiilleri tarif etmek üzere, daha çok II. Dünya Savaşı’ndan sonra hukuk metinlerinde yer almıştır. İnsanlığa karşı işlenen suçlar kavramı, uluslararası hukuksal bir metne ilk kez Nuremberg Askeri Ceza Mahkemesi Statüsü’yle girmiştir. 
 
 İnsanlığa karşı işlenen suçlar, 2002'den beri yürürlükte bulunan Uluslararası Ceza Mahkemesi Statüsü’nün 7. maddesinde ayrıntılı düzenlenmiştir. Türkiye, Statü'ye taraf olmasına rağmen Statü henüz Türkiye açsısından yürürlükte değildir. Çünkü, Türkiye Statü'yü imzalamış, fakat iç hukukundaki onay prosedürünü henüz gerçekleştirmemiştir. Statü’ye göre “**herhangi bir sivil nüfusa karşı yaygın veya sistematik bir saldırının parçası olarak işlenen**” aşağıdaki fiiller insanlığa karşı işlenen suç olarak kabul edilmektedir: 
 
