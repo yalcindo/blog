@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Uluslararası Suçlar-1 "İnsanlığa Karşı Suçlar" 
+title: Uluslararası Suçlar-1 "Savaş Suçları" 
 category: ceza-hukuku
 googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, avukat, ceza avukatı, avukat Baran Dogan
 ---
@@ -9,7 +9,7 @@ Savaş suçları, 2002’den beri yürürlükte bulunan Uluslararası Ceza Mahke
 
 ##a)	Silahlı Çatışma Kavramı
 	
-	Hugo Grotius'a göre savaş, “bir toplumun, bir ulusun veya devletler topluluğunun isteklerini diğer bir ulus ve devletler topluluğuna zorla kabul ettirmek amacıyla giriştikleri bir mücadele” şeklindedir. Silahlı çatışma kavramının ise “devletler arasında silahlı güce başvurulduğunda veya hükümet otoriteleriyle örgütlü silahlar arasında veya bir devlet içinde bu tür gruplar arasında uzayan silahlı şiddet bulunduğunda” söz konusu olacağı ifade edilmektedir.
+Hugo Grotius'a göre savaş, “bir toplumun, bir ulusun veya devletler topluluğunun isteklerini diğer bir ulus ve devletler topluluğuna zorla kabul ettirmek amacıyla giriştikleri bir mücadele” şeklindedir. Silahlı çatışma kavramının ise “devletler arasında silahlı güce başvurulduğunda veya hükümet otoriteleriyle örgütlü silahlar arasında veya bir devlet içinde bu tür gruplar arasında uzayan silahlı şiddet bulunduğunda” söz konusu olacağı ifade edilmektedir.
 	
 Silahlı çatışma hukuku, Statü’nün tanımladığı savaş suçlarının anlaşılması açısından da yol göstericidir. Doktrinde silahlı çatışma hukukunun temel ilkeleri, savaşçı statüsünde savaşa katılanlarla fiilen savaşa katılmayanları ayırt etme (distinction), bir savaşta hedefe ulaşmak için yeterli askeri gereklilik (military necessity) dışında güç kullanmama, gereksiz acıya sebebiyet vermeme (unnecessary suffering) ve orantılılıktır (proportionality). Ayrıca bu dört temel ilkeye, Cenevre Sözleşmeleri’nde düzenlenen savaş esirlerine insanca davranılması zorunluluğu, esirlerin belirli durumlarda adil yargılanma hakları olduğu ve işkencenin bir suç olarak kabul edilmesi eklenebilir.
 
@@ -30,7 +30,9 @@ Netice itibarıyle, Statü’de savaş suçu fiilleri uluslararası silahlı ça
 
 **i)** Kasten öldürme;
 
-**ii)** Biyolojik deneyler dahil işkence veya insanlık dışı muamele;         iii) Vücuda veya sağlığına kasten büyük ıstırap verme veya ciddi yaralamaya sebep olma;
+**ii)** Biyolojik deneyler dahil işkence veya insanlık dışı muamele;        
+
+**iii)** Vücuda veya sağlığına kasten büyük ıstırap verme veya ciddi yaralamaya sebep olma;
 
 **iv)** Askeri gereklilik olmadan, yasadışı ve keyfi olarak mülkiyetin yaygın yok edilmesi veya sahiplenilmesi; 
 
@@ -47,7 +49,7 @@ bırakılması;
 
 ####(2)	Uluslararası Silahlı Çatışmalarda Uygulanabilir Yasa ve Geleneklerin Diğer Ciddi İhlali
 
-	Statü’nün 8/2-b maddesiyle, uluslararası çatışmalarda uygulanabilir kural ve adetlerin diğer ciddi ihlalleri de savaş suçu sayılmıştır. Bendin başlığından anlaşılacağı üzere bu bent yalnızca uluslararası silahlı çatışmalarda uygulanabilir. Uluslararası olmayan silahlı çatışmalarda maddenin başka bentleri uygulanabilir, ama bu bendin uygulanması mümkün değildir. Bu bentte Cenevre Sözleşmesi’nde tanımlanmamış bazı fiillere yer verilmiştir. Bu fiiller oldukça geniş kapsamlı olarak aşağıdaki şekilde sayılmıştır:
+Statü’nün 8/2-b maddesiyle, uluslararası çatışmalarda uygulanabilir kural ve adetlerin diğer ciddi ihlalleri de savaş suçu sayılmıştır. Bendin başlığından anlaşılacağı üzere bu bent yalnızca uluslararası silahlı çatışmalarda uygulanabilir. Uluslararası olmayan silahlı çatışmalarda maddenin başka bentleri uygulanabilir, ama bu bendin uygulanması mümkün değildir. Bu bentte Cenevre Sözleşmesi’nde tanımlanmamış bazı fiillere yer verilmiştir. Bu fiiller oldukça geniş kapsamlı olarak aşağıdaki şekilde sayılmıştır:
 	
 **i)** Çarpışmalarda doğrudan yer almayan sivil bireylere ya da sivil nüfusa karşı kasten saldırı yöneltilmesi;
 
@@ -122,13 +124,13 @@ Cenevre Sözleşmelerinin tamamında ortak hükümler içeren 3. maddeye aynı m
 
 ####(4)	Uluslararası Nitelikte Olmayan Ancak Silahlı Çatışmalarda Uygulanabilir Hukukun Ve Teamüllerin Diğer Ciddi İhlalleri
 
-	Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği ilkesi Statü’de birçok vesileyle yer bulmuştur . Devletlerin içişlerine karışmadan uluslararası hukukun güvence mekanizmaları kurulmaya çalışılmıştır. Aşağıdaki filler, uluslararası karakterde olmayan ancak silahlı çatışmalarda uygulanabilir hukukun ve teamüllerin diğer ciddi ihlalleri olarak kabul edilmiştir (Statü md. 8/2-e):
+Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği ilkesi Statü’de birçok vesileyle yer bulmuştur . Devletlerin içişlerine karışmadan uluslararası hukukun güvence mekanizmaları kurulmaya çalışılmıştır. Aşağıdaki filler, uluslararası karakterde olmayan ancak silahlı çatışmalarda uygulanabilir hukukun ve teamüllerin diğer ciddi ihlalleri olarak kabul edilmiştir (Statü md. 8/2-e):
 	
 **i)**	Çarpışmalarda doğrudan yer almayan sivillere karşı veya sivil nüfusa karşı kasten saldırı düzenlenmesi; 
 
 **ii)**	Uluslararası hukuka uygun bir şekilde Cenevre Sözleşmelerinin ayırt edici amblemlerini kullanan personele, malzemeye, tıbbi birimlere ve nakliye araçlarına kasten saldırı düzenlenmesi; 
 
-**iii)**	Silahlı çatışma hukukuna göre, sivillere ve sivil nesnelere sağlanmış korumaya hak kazanmaları şartıyla, Birleşmiş Milletler Sözleşmesi’ne uygun bir şekilde insani yardımda veya barış gücü görevinde bulunan personele, tesislere, malzemeye, birimlere veya araçlara karşı kasten saldırı düzenlenmesi;
+**iii)**Silahlı çatışma hukukuna göre, sivillere ve sivil nesnelere sağlanmış korumaya hak kazanmaları şartıyla, Birleşmiş Milletler Sözleşmesi’ne uygun bir şekilde insani yardımda veya barış gücü görevinde bulunan personele, tesislere, malzemeye, birimlere veya araçlara karşı kasten saldırı düzenlenmesi;
 
 **iv)**	Askeri amaçlı olmaması koşuluyla dini, eğitim, sanat, bilim veya hayır amaçlarıyla kullanılan binalara, tarihi eserlere, hastanelere ve hasta ve yaralıların toplandığı yerlere bilerek saldırı düzenlenmesi; 
 
@@ -136,9 +138,9 @@ Cenevre Sözleşmelerinin tamamında ortak hükümler içeren 3. maddeye aynı m
 
 **vi)**	7.maddenin 2(f) paragrafında tanımlandığı gibi ırza geçme, cinsel köleleştirme, fahişeliğe zorlama, hamileliğe zorlama, kısırlaştırmaya zorlama veya Cenevre Sözleşmeleri’ni ciddi şekilde ihlal eden diğer cinsel şiddet çeşitlerine başvurulması;
 
-**vii)**	15 yaşından küçük çocukların, ulusal silahlı kuvvetlere çağırılması, askere alınması veya çatışmalarda aktif olarak kullanılması;
+**vii)**15 yaşından küçük çocukların, ulusal silahlı kuvvetlere çağırılması, askere alınması veya çatışmalarda aktif olarak kullanılması;
 
-**viii)**	Çatışmadan kaynaklanan nedenlerden dolayı, sivillerin güvenliği veya askeri nedenler gerektirmedikçe sivillerin yer değiştirilmesi talimatı verilmesi; 
+**viii)**Çatışmadan kaynaklanan nedenlerden dolayı, sivillerin güvenliği veya askeri nedenler gerektirmedikçe sivillerin yer değiştirilmesi talimatı verilmesi; 
 
 **ix)**	 Karşı tarafın savaşanlarını haince öldürme veya yaralama; 
 
@@ -146,10 +148,10 @@ Cenevre Sözleşmelerinin tamamında ortak hükümler içeren 3. maddeye aynı m
 
 **xi)**	Karşı tarafın hakimiyeti altında bulunan kişilerin tıp, diş veya hastane tedavisi gerekliliği olmadan, kişisel çıkarlarına aykırı bir şekilde ölüme yol açabilecek veya sağlığı ciddi tehlikeye düşürebilecek nitelikte tıbbi veya bilimsel deneylere tabi tutulması veya fiziksel sakatlanmaya maruz bırakılması; 
 
-**xii)**	Savaşın gereklilikleri elkoymayı veya imha etmeyi zorunlu kılmadıkça düşman mallarının imha edilmesi veya bu mallara el konulması;
+**xii)**Savaşın gereklilikleri elkoymayı veya imha etmeyi zorunlu kılmadıkça düşman mallarının imha edilmesi veya bu mallara el konulması;
 
-**xiii)**	Zehir ya da zehirlenmiş silahlar kullanılması;
+**xiii)**Zehir ya da zehirlenmiş silahlar kullanılması;
 
-**xiv)**	 Boğan, zehirli ya da diğer gazların ve buna benzer her türlü sıvı, madde veya aletlerin kullanılması;
+**xiv)** Boğan, zehirli ya da diğer gazların ve buna benzer her türlü sıvı, madde veya aletlerin kullanılması;
 
 **xv)**	Çekirdeği tamamen kaplamayan sert kovanlı ya da yarıkları olan mermiler gibi, insan vücudunda patlayan ya da ilerleyen mermilerin kullanılması.
