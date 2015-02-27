@@ -155,3 +155,6 @@ Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği
 **xiv)** Boğan, zehirli ya da diğer gazların ve buna benzer her türlü sıvı, madde veya aletlerin kullanılması;
 
 **xv)**	Çekirdeği tamamen kaplamayan sert kovanlı ya da yarıkları olan mermiler gibi, insan vücudunda patlayan ya da ilerleyen mermilerin kullanılması.
+
+
+**Avukat Baran Doğan - Şirinevler
