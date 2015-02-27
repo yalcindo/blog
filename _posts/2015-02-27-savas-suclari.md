@@ -8,7 +8,7 @@ googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, avukat, ceza avuk
 Savaş suçları, 2002’den beri yürürlükte bulunan Uluslararası Ceza Mahkemesi Statüsü’nün 8. maddesinde düzenlenmiştir. Türkiye,Statü’ye taraf olmasına rağmen iç hukukunda gerekli onay prosedürünü yerine getirmediğinden Statü henüz Türkiye açısından yürürlükte değildir. 
 
 ##a)	Silahlı Çatışma Kavramı
-	
+
 Hugo Grotius'a göre savaş, “bir toplumun, bir ulusun veya devletler topluluğunun isteklerini diğer bir ulus ve devletler topluluğuna zorla kabul ettirmek amacıyla giriştikleri bir mücadele” şeklindedir. Silahlı çatışma kavramının ise “devletler arasında silahlı güce başvurulduğunda veya hükümet otoriteleriyle örgütlü silahlar arasında veya bir devlet içinde bu tür gruplar arasında uzayan silahlı şiddet bulunduğunda” söz konusu olacağı ifade edilmektedir.
 	
 Silahlı çatışma hukuku, Statü’nün tanımladığı savaş suçlarının anlaşılması açısından da yol göstericidir. Doktrinde silahlı çatışma hukukunun temel ilkeleri, savaşçı statüsünde savaşa katılanlarla fiilen savaşa katılmayanları ayırt etme (distinction), bir savaşta hedefe ulaşmak için yeterli askeri gereklilik (military necessity) dışında güç kullanmama, gereksiz acıya sebebiyet vermeme (unnecessary suffering) ve orantılılıktır (proportionality). Ayrıca bu dört temel ilkeye, Cenevre Sözleşmeleri’nde düzenlenen savaş esirlerine insanca davranılması zorunluluğu, esirlerin belirli durumlarda adil yargılanma hakları olduğu ve işkencenin bir suç olarak kabul edilmesi eklenebilir.
@@ -45,7 +45,7 @@ bırakılması;
 
 **viii)** Rehin alma.
 
-	Statü, Cenevre Sözleşmeleri’ne atıf yaptığına göre yukarıdaki fiillerin Cenevre Sözleşmeleri ışığında değerlendirilmesi gerekir. Fiillerin ihlal teşkil edip etmediği, ihlal teşkil ediyorsa ağırlık derecesi; fiilin icra edilmesi açısından askeri gereklilik olup olmadığı, oluşan zarar da dikkate alınarak değerlendirilecektir . 
+Statü, Cenevre Sözleşmeleri’ne atıf yaptığına göre yukarıdaki fiillerin Cenevre Sözleşmeleri ışığında değerlendirilmesi gerekir. Fiillerin ihlal teşkil edip etmediği, ihlal teşkil ediyorsa ağırlık derecesi; fiilin icra edilmesi açısından askeri gereklilik olup olmadığı, oluşan zarar da dikkate alınarak değerlendirilecektir . 
 
 ####(2)	Uluslararası Silahlı Çatışmalarda Uygulanabilir Yasa ve Geleneklerin Diğer Ciddi İhlali
 
@@ -102,7 +102,7 @@ hakları olduğu sürece, Birleşmiş Milletler Sözleşmesi’ne göre, barış
 
 **xxvi)** 15 yaşından küçük çocukların ulusal silahlı kuvvetlere çağırılması, askere alınması veya çatışmalarda aktif olarak kullanılması.
 
-	Statü’nün yukarıda açıkladığımız 8/2-b maddesi, 1899 ve 1907 tarihli La Haye sözleşmelerinden, nispeten yeni uluslararası örf ve adet hukukundan ve Cenevre Sözleşmelerine Ek Protokollerden alıntı yapılarak veya esinlenerek hazırlanmıştır . 
+Statü’nün yukarıda açıkladığımız 8/2-b maddesi, 1899 ve 1907 tarihli La Haye sözleşmelerinden, nispeten yeni uluslararası örf ve adet hukukundan ve Cenevre Sözleşmelerine Ek Protokollerden alıntı yapılarak veya esinlenerek hazırlanmıştır . 
 
 
 ####(3)	Uluslararası Nitelik Taşımayan Bir Silahlı Çatışmada, 1949 Cenevre Sözleşmeleri’nin Ortak 3. Maddesinin Ciddi İhlalleri
@@ -119,7 +119,7 @@ Cenevre Sözleşmelerinin tamamında ortak hükümler içeren 3. maddeye aynı m
 
 **iv)** Kanuna dayalı ve gerekliliği genel kabul görmüş hukuksal güvencelere sahip, olağan bir mahkeme kararı olmadan cezalandırma ve infaz.
 
-	Yukarıdaki hükümler, yalnızca uluslararası nitelikte olmayan silahlı çatışmalara uygulanır. Bu nedenle ülke içinde gerçekleşen gösteriler, münferit ve zaman zaman meydana gelen şiddet hareketleri veya benzer nitelikteki diğer fiiller gibi iç karışıklıklar ve gerginliklere uygulanmaz (Statü md. 8/2-d).
+Yukarıdaki hükümler, yalnızca uluslararası nitelikte olmayan silahlı çatışmalara uygulanır. Bu nedenle ülke içinde gerçekleşen gösteriler, münferit ve zaman zaman meydana gelen şiddet hareketleri veya benzer nitelikteki diğer fiiller gibi iç karışıklıklar ve gerginliklere uygulanmaz (Statü md. 8/2-d).
 
 
 ####(4)	Uluslararası Nitelikte Olmayan Ancak Silahlı Çatışmalarda Uygulanabilir Hukukun Ve Teamüllerin Diğer Ciddi İhlalleri
