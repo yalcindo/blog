@@ -157,4 +157,4 @@ Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği
 **xv)**	Çekirdeği tamamen kaplamayan sert kovanlı ya da yarıkları olan mermiler gibi, insan vücudunda patlayan ya da ilerleyen mermilerin kullanılması.
 
 
-**Avukat Baran Doğan - Şirinevler
+***Avukat Baran Doğan - Şirinevler***
