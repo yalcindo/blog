@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Uluslararası Suçlar-1 "Savaş Suçları" 
+title: Uluslararası Suçlar-2 "Savaş Suçları" 
 category: ceza-hukuku
 googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, avukat, ceza avukatı, avukat Baran Dogan
 ---
