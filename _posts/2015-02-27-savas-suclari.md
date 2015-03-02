@@ -7,16 +7,18 @@ googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, avukat, ceza avuk
 
 Savaş suçları, 2002’den beri yürürlükte bulunan Uluslararası Ceza Mahkemesi Statüsü’nün 8. maddesinde düzenlenmiştir. Türkiye,Statü’ye taraf olmasına rağmen iç hukukunda gerekli onay prosedürünü yerine getirmediğinden Statü henüz Türkiye açısından yürürlükte değildir. 
 
-##a)	Silahlı Çatışma Kavramı
+###a)	Silahlı Çatışma Kavramı
 
-Hugo Grotius'a göre savaş, “bir toplumun, bir ulusun veya devletler topluluğunun isteklerini diğer bir ulus ve devletler topluluğuna zorla kabul ettirmek amacıyla giriştikleri bir mücadele” şeklindedir. Silahlı çatışma kavramının ise “devletler arasında silahlı güce başvurulduğunda veya hükümet otoriteleriyle örgütlü silahlar arasında veya bir devlet içinde bu tür gruplar arasında uzayan silahlı şiddet bulunduğunda” söz konusu olacağı ifade edilmektedir.
+Hugo Grotius'a göre savaş, bir toplumun, bir ulusun veya devletler topluluğunun isteklerini diğer bir ulus ve devletler topluluğuna zorla kabul ettirmek amacıyla giriştikleri bir mücadeledir.
+
+Silahlı çatışma kavramının ise “devletler arasında silahlı güce başvurulduğunda veya hükümet otoriteleriyle örgütlü silahlar arasında veya bir devlet içinde bu tür gruplar arasında uzayan silahlı şiddet bulunduğunda” söz konusu olacağı ifade edilmektedir.
 	
 Silahlı çatışma hukuku, Statü’nün tanımladığı savaş suçlarının anlaşılması açısından da yol göstericidir. Doktrinde silahlı çatışma hukukunun temel ilkeleri, savaşçı statüsünde savaşa katılanlarla fiilen savaşa katılmayanları ayırt etme (distinction), bir savaşta hedefe ulaşmak için yeterli askeri gereklilik (military necessity) dışında güç kullanmama, gereksiz acıya sebebiyet vermeme (unnecessary suffering) ve orantılılıktır (proportionality). Ayrıca bu dört temel ilkeye, Cenevre Sözleşmeleri’nde düzenlenen savaş esirlerine insanca davranılması zorunluluğu, esirlerin belirli durumlarda adil yargılanma hakları olduğu ve işkencenin bir suç olarak kabul edilmesi eklenebilir.
 
 İster savaş olarak tanımlansın ister silahlı çatışma, 1949 Cenevre Sözleşmelerine  kadar sadece devletler arasında meydana gelen çatışmalar uluslararası hukuk metinlerinde düzenlenmiştir. 1949 Cenevre Sözleşmelerinin ortak 3. maddesi silahlı iç çatışmaları da silahlı çatışma hukuku kapsamına almıştır. Silahlı iç çatışmalar, doktrinde uluslararası olmayan silahlı çatışmalar olarak değerlendirilmektedir .Fakat, uluslararası olmayan silahlı çatışmalar kavramının tanımı Cenevre Sözleşmelerinden çok daha sonra 1977 Ek II. Protokol  ile yapılmıştır. Protokolün 1. maddesine göre, “bir Yüksek Akit tarafın ülkesinde kendi silahlı kuvvetleriyle muhalif silahlı kuvvetler veya sorumlu komuta altında olan, devamlılık arz eden ve planlı askeri operasyonlar yapmalarına ve bu Protokolü uygulamalarına imkan verecek şekilde bu Yüksek Akit tarafın ülkesine ait bir kısmı üzerinde kontrolü elinde bulunduran diğer örgütlü silahlı gruplar arasında cereyan eden tüm silahlı çatışmalara” uluslararası olmayan silahlı çatışma denilmektedir. Silahlı çatışmanın niteliği uluslararası olsun veya olmasın, öncelikle sivillerin yaşam hakkının güvence altına alınması gerektiğinden her iki durumda da aynı kuralların uygulanması gerektiği ileri sürülmektedir .
 
 
-##b)	Statü’de Savaş Suçları
+###b)	Statü’de Savaş Suçları
 
 
 Statü’de savaş suçları 8. Maddede düzenlenmiştir. Bu maddede hem uluslararası silahlı çatışmalar hem de iç silahlı çatışmalar esnasında işlenebilecek suçlar tanımlanmıştır. Statü hazırlanırken hangi fiillerin savaş suçu kabul edileceği tartışılmış, bazı devletler uluslararası örf ve adet hukukuyla tanınmış fiillerin savaş suçları olarak tanımlanmasını istemişlerdir. Bazı devletler, 1949 Cenevre Sözleşmeleri ve Ek Protokollerde sayılan fiillerin savaş suçları olarak kabul edilmesini önermişlerdir. İç çatışmaların savaş suçu olarak kabul edilip edilmeyeceği de tartışılmıştır .
