@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? avukat, ataköy avukat, ceza avukatı, avukat baran doğan
+googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, avukat, ataköy avukat, ceza avukatı, avukat baran doğan
 ---
 ---
 
@@ -66,7 +66,11 @@ Hakim, yargılanan kişinin ekonomik durumunu göz önüne alarak hükmettiği a
 
 Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Hakim, yargılanan kişiye 1 yıldan fazla olmamak üzere bir süre belirleyip belirlediği sürede adli para cezasının bir kerede ödenmesine karar verebilir. Bu süre de hükmün kesinleşmesinden itibaren işlemeye başlar.
 
-Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir.  
+Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir. 
+
+####Adli Para Cezası Nereye Ödenir? Nasıl Ödenir?
+
+Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [***Adli Para Cezası Nereye Ödenir?***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
 
 ####Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
