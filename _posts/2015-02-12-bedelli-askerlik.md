@@ -2,7 +2,7 @@
 layout: blog
 title: Bedelli Askerlik Parasının İadesiyle İlgili Açtığımız Davaya Dair Bilgilendirmeler, Haber ve Videolar
 category: hukuk-haberleri
-googleAnahtar: bedelli askerlik, bedelli askerlik parasının iadesi, avukat, avukat baran doğan
+googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, avukat, avukat baran doğan
 summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi ilgili açtığımız dava sürecine ilişkin BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Dava süreci ile ilgili düzenli olarak burdan bilgi yayınlanacaktır.
 ---
 [Bakanlıktan Bedelli Parasının İadesi İstendi - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Eski-bedelliden-yararlanan-avukat-12-bin-TL-sinin-iadesini-istedi_8237-CHMTYxODIzNy8x)
