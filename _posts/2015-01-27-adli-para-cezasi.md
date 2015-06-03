@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, avukat, ataköy avukat, ceza avukatı, avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? avukat,  avukat baran doğan
 ---
 ---
 
@@ -75,6 +75,10 @@ Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıy
 ####Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
 Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şekilde miktarı oranınca hapse çevrilir. Ama hükmedilen adli para cezasının miktarı ne olursa olsun, tek mahkeme kararındaki para cezası çok yüksek olsa bile, en fazla 3 yıl hapis cezasına çevrilebilir. Birden fazla mahkeme kararıyla mahkumiyet söz konusu ise hapis cezası toplamı 5 yılı geçemez.
+
+####Adli Para Cezası Sicile İşler mi?
+
+Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır.  
 
 
  **Ataköy** / ***Avukat Baran Doğan***
