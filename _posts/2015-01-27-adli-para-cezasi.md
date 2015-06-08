@@ -22,7 +22,7 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para ce
 
 •	**Hapis Cezası ile Birlikte Hükmedilen Adli Para Cezaları:** TCK’da bazı suçlar açısından hem hapis hem de **adli para cezası**nın birlikte uygulanması öngörülmüştür. Örneğin, dolandırıcılık suçunda, bir yıldan beş yıla kadar hapis ve beş bin güne kadar adlî para cezasına hükmedilebilir.
 
-####Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir?
+####Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları
 
 Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, hakaret gibi) hükmedilen hapis cezasının miktarı 1 yıl veya altındaysa, hapis cezası **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (örn, trafik kazası veya iş kazası neticesinde ölüm gibi) ise suçun cezasının paraya çevrilmesi için bir ceza sınırı yoktur. Bu suçlarda, hükmedilen cezanın miktarı ne olursa olsun her zaman paraya çevrilebilir. 
 
