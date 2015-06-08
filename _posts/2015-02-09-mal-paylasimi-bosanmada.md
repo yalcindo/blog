@@ -6,13 +6,43 @@ googleAnahtar: mal paylaşımı, boşanma, boşanmada mal paylaşımı, boşanma
 ---
 
 ---
-**Boşanmada mal paylaşımı,** sistem boşanan insanlar tarafından tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, **mal paylaşımı** sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan **boşanmada mal paylaşımı** sistemini anlaşılır bir şekilde anlatmak istedik.
+**Boşanmada mal paylaşımı,** boşanan insanlar tarafından sistem tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, **mal paylaşımı** sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan **boşanmada mal paylaşımı** sistemini anlaşılır bir şekilde anlatmak istedik.
 
 Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. **Mal paylaşımı** konusunda 01.01.2002 tarihinden önceki dönemin tabi olduğu hukuki kurallar ile bu tarihten sonraki dönemin tabi olduğu hukuki kurallar tamamen farklıdır. 
 
 **Birinci Dönem:** 01.01.2002 tarihinden önce satın alınan mallar kimin üzerine kayıtlıysa mal ona ait sayılır. Çünkü 01.01.2002 tarihinden önce yürürlükte olan Medeni Kanun, eşler arasında yasal olarak Mal Ayrılığı Rejiminin geçerli olduğunu kabul etmekteydi.
 
-**İkinci Dönem (Şimdiki Dönem):** 01.01.2002 tarihinden sonra yürürlüğe giren mevcut Medeni Kanun ise malların yarı yarıya paylaşımı esasına dayanan **Edinilmiş Mallara Katılma Rejimi**ni yasal mal rejimi olarak kabul etmiştir. Yani, eşlerin evlilik içerisinde elde ettiği tüm mallar yarı yarıya paylaşılacaktır.
+**İkinci Dönem (Şimdiki Dönem):** 01.01.2002 tarihinden sonra yürürlüğe giren mevcut Medeni Kanun ise malların yarı yarıya paylaşımı esasına dayanan **Edinilmiş Mallara Katılma Rejimi**ni yasal mal rejimi olarak kabul etmiştir. Yani, eşlerin evlilik içerisinde elde ettiği mallar kural olarak (istisnalara aşağıda değineceğiz) yarı yarıya paylaşılacaktır.
+
+####Mal Paylaşımı Nasıl Yapılır?
+
+Mal paylaşımının esası evlilik içerisinde elde edilen malların paylaşılmasıdır. Bu nedenle evlilikten önce elde edilen mallar hiçbir surette mal paylaşımına dahil edilemez. Evlilik içerisinde elde edilen malların paylaşımında kural, malların yarı yarıya paylaşımı ise de bu kuralın paylaşım oranını değiştiren bazı uygulama esasları vardır. Boşanma sırasında mallar paylaşılırken anahatlarıyla şöyle bir prosedür işlemeye başlar:
+
+**1- Boşanmada mal paylaşımı yapılırken öncelikle her eş kendi kişisel mallarını geri alır, yani bu mallar paylaşıma dahil edilmez. Kişisel mal sayılan bu mallar şunlardır:**
+
+•	Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla elde ettiği malvarlığı değerleri,
+
+•	Eşlerin üçüncü kişilerden olan manevi tazminat alacakları,
+
+•	Eşlerden birinin yalnız kişisel kullanımına hasredilebilecek eşyalar,
+
+•	Yukarıdaki kişisel mallar yerine geçen değerler (Satış, takas vs. yoluyla kişisel mallar yerine geçen para veya diğer değerler)
+
+Eşler, nelerin kişisel mal sayılacağını evlilik içerisinde sözleşme yaparak 	kararlaştırabilirler. Eşler, mal rejimi sözleşmesi yaparak bir eşin mesleğini icra ederken 	kazandığı malvarlığı değerlerini veya bir işletmeden faaliyetinden elde edilen malvarlığı 	değerleri “kişisel mal” sayılarak boşanma sırasında paylaşım dışında tutulabilir.	   
+
+**2- Her eş kendi kişisel mallarını aldıktan sonra evlilik içerisinde elde edilen “edinilmiş mallar” yarı yarıya paylaşılır. Evlilik içerisinde elde edilen “edinilmiş mallar” kanunda şu şekilde tarif edilmiştir:**
+
+•	Çalışmasının karşılığı olan edimler,
+
+•	Yukarıda saydığımız kişisel malların gelirleri (malın kendisi değil, geliri hesaba katılır mesela kişisel malın kira geliri),
+
+•	SGK veya sosyal yardım kurum ve kuruluşlarının veya personele yardım amacıyla kurulan sandık ve benzerlerinin yaptığı ödemeler,
+
+•	Çalışma gücünün kaybı nedeniyle ödenen maddi tazminatlar (örneğin çalışan eşin iş kazası geçirmesi nedeniyle elde ettiği maddi tazminat),
+
+•	Edinilmiş malların yerine geçen değerler.
+
+Eşlerden biri herhangi bir malın kişisel mal olduğu iddiasında ise bu iddiasını ispat etmek mecburiyetindedir. Çünkü evlilik içerisinde elde edilen malların kural olarak kişisel mal değil, edinilmiş mal olduğu kabul edilir. Eşlerden biri evlilik içerisinde elde edilen malın kişisel mal olduğunu ispat edemezse, o mal edinilmiş mal olarak paylaşıma dahil edilir.
 
 ####Evlilik İçinde Edinilecek Mallara Yarı Yarıya Sahip Olabilmek İçin Evlenirken Sözleşme Yapmam Gerekir mi?
 
