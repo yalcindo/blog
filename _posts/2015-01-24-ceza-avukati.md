@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, avukat, ceza avukatı nedir, ataköy avukat
+googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, sanık, şüpheli savunma, mahkeme, gözaltı haklarım, avukat, dosya inceleme, ceza avukatı nedir, bakırköy ataköy avukat
 summary: Ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
 
@@ -14,14 +14,23 @@ Ceza soruşturması veya yargısı suçun işlenmesinden sonra başlayan bir faa
 Suç şüphesi altındaysanız, hakkınızda yakalama işlemi yapılmış olsun veya olmasın, bir **ceza avukatı** vasıtasıyla savunma yapmaya başlayabilirsiniz. Eğer suçun mağduruysanız aynı şekilde şikayet hakkınızın etkin bir biçimde savunulması için **ceza avukatı**na başvurabilirsiniz.
 
 
-**Şüphelinin Savunulması ve Ceza Avukatı**
+**Bir suç ile suçlandığımda yanımda bir ceza avukatı olmasını isteyebilir miyim?**
 
+Soruşturma, suç işlendikten sonra başlayan bir faaliyettir. Polis, Jandarma ve Savcılığın suç işlediğinize dair suçlamasıyla savunma hakkınız da başlar. Suçlamanın tarafınıza yöneltilmesiyle ceza avukatının hukuki yardımından yararlanma hakkınız da doğar. Suçlama yöneltilmeden doğrudan şahsınızın özgürlüğünü kısıtlama yönünde herhangi bir işlem yapılması (örn, yakalama, gözaltına alma, arama işlemi yapılması) halinde de savunma hakkınız doğar ve **ceza avukatı**ndan hukuki yardım isteyebilirsiniz. Talep etmeniz halinde polis veya jandarma avukatınızın katılımı olmadan ifadenizi alamaz.
 
-Soruşturma, suç işlendikten sonra başlayan bir faaliyettir. Polis, Jandarma ve Savcılığın suç işlediğinize dair suçlamasıyla savunma hakkınız da başlar. Suçlamanın tarafınıza yöneltilmesiyle ceza avukatının hukuki yardımından yararlanma hakkınız da doğar. Suçlama yöneltilmeden doğrudan şahsınızın özgürlüğünü kısıtlama yönünde herhangi bir işlem yapılması (örn, yakalama, gözaltına alma, arama işlemi yapılması) halinde de savunma hakkınız doğar ve **ceza avukatı**ndan hukuki yardım isteyebilirsiniz. 
+**Şüpheli Nedir?**
 
-Hakkınızda suç şüphesi varsa ceza hukuku anlamında “şüpheli” durumuna geçersiniz. Soruşturma aşamasında, yani suç isnadının yapıldığı andan hakkınızda bir iddianameyle dava açılmasına kadar geçen sürede şüpheli sıfatınız devam eder. **Ceza avukatı**, bu aşamadan itibaren şüphelinin savunulması amacıyla ilk önce şüpheli hakkındaki iddiaları ve delilleri inceler. **Ceza avukatı**nın dosya inceleme yetkisi hem Ceza Muhakemesi Kanunu hem de Avukatlık Kanunu’ndan kaynaklanan mesleki bir haktır. **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
+Hakkınızda suç şüphesi varsa ceza hukuku anlamında “şüpheli” durumuna geçersiniz. Soruşturma aşamasında, yani suç isnadının yapıldığı andan hakkınızda bir iddianameyle dava açılmasına kadar geçen sürede şüpheli sıfatınız devam eder. **Ceza avukatı**, bu aşamadan itibaren şüphelinin savunulması amacıyla ilk önce şüpheli hakkındaki iddiaları ve delilleri inceler.
 
-Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **ceza avukatı**yla kimsenin konuşmaları duyamayacağı ayrı bir **avukat** görüşme odasında görüşme hakkına sahiptir. **Ceza avukatı**, şüphelinin kendisine verdiği her türlü bilgiyi meslek sırrı olarak saklamak zorundadır.**Ceza avukatı**,  avukatlık mesleğini bıraksa dahi sırrın saklanması süresizdir. Şüpheli ile **ceza avukatı**nın yaptığı görüşmede savunmanın çerçevesi tartışılır,  şüphelinin en iyi ne şekilde savunulabileceği kararlaştırılır. 
+**Ceza avukatı hakkımdaki iddiaları içeren dosyayı inceleyebilir mi? Ceza avukatının dosya inceleme ve savunma yapabilmesi için vekaletname gerekir mi?**
+
+**Ceza avukatı**nın dosya inceleme yetkisi hem Ceza Muhakemesi Kanunu hem de Avukatlık Kanunu’ndan kaynaklanan mesleki bir haktır. **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
+
+**Gözaltındayken ceza avukatıyla görüşebilir miyim? Hangi aşamalarda savunmama katılabilir?**
+
+Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **ceza avukatı**yla kimsenin konuşmaları duyamayacağı ayrı bir **avukat** görüşme odasında görüşme hakkına sahiptir. Savunma faaliyeti de kişiye suç isnadının yapılmasından itibaren başlar, teknik olarak bu aşamadan itibaren ceza avukatı müvekkilinin savunmasını yapmaya başlar.
+
+**Ceza avukatı**, şüphelinin kendisine verdiği her türlü bilgiyi meslek sırrı olarak saklamak zorundadır.**Ceza avukatı**,  avukatlık mesleğini bıraksa dahi sırrın saklanması süresizdir. Şüpheli ile **ceza avukatı**nın yaptığı görüşmede savunmanın çerçevesi tartışılır,  şüphelinin en iyi ne şekilde savunulabileceği kararlaştırılır. 
 
 **Ceza avukatı**, polisin (veya başka bir kolluk görevlisinin) ifade alma işlemi sırasında şüpheli ile birlikte hazır bulunur.  **Ceza avukatı**, ifade alma işleminde, şüphelinin yerine geçerek sorulara cevap veremez, sadece hukuki yardımda bulunur. Polisin ifade alma işlemi akabinde şüpheli serbest bırakılmazsa, adliyede savcılığa çıkarılacaktır. Savcılık aşamasında da **ceza avukatı,** şüphelinin savunmasını yapacaktır. **Ceza avukatı**, tüm aşamalarda şüpheliyle kimsenin duyamayacağı bir şekilde görüşme hakkına sahiptir. Savcılık şüpheliyi serbest bırakmazsa şüpheli, tutuklama veya adli kontrol istemiyle Sulh Ceza Hakimliği’ne sevk edilir. Hakim, şüphelinin sorgusunu yaparken **ceza avukatı** da sorgu da hazır bulunur.  Şüphelinin sorgusu ve savunması yapıldıktan sonra hakim şüphelinin tutuklanmasına karar verirse, şüpheli cezaevine konulur. Tutuklama kararına 7 gün içinde itiraz edilebilir. **Ceza avukatı**, soruşturma aşamasında yapılan tüm işlemlere karşı şüpheliyi temsilen itiraz edebilir.
 
@@ -32,6 +41,8 @@ Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **
 
 Şüpheli serbest bırakılsa da tutuklansa da suç işlediğine dair yeterli şüphe varsa hakkında Asliye Ceza Mahkemesi, Ağır Ceza Mahkemesi veya diğer özel nitelikli suçlara bakmakla görevli mahkemelerde suçlamanın ayrıntılarını içeren bir iddianameyle dava açılır. Mahkeme dava dosyası kendisine gelir gelmez dava dosyasını inceleyerek yapılacak işlemleri, duruşma gününü, dosyada tutuklu sanık varsa tutukluluk hallerine ilişkin kararını içeren “tensip zaptı” adı verilen bir belge düzenler. **Ceza avukatı**, tensip zaptı  düzenlenmeden önce bir dilekçeyle iddianamenin iadesini talep edebilir. Talebi kabul edilirse iddianame iade edilir, eksiklikler giderildikten sonra yeniden dava açılır. 
 
+**Sanık Nedir? Hangi aşamadan itibaren sanık olunur?**
+
 Dava açıldıktan sonraki aşamada “şüpheli” olan şahıs “sanık” konumuna geçer. Sanık hakkında mahkemede yargılama yapılarak beraat, mahkumiyet veya bunlar dışında hukuki sonuç doğuran bir karar verilecektir. **Ceza avukatı** yargılamanın tüm aşamalarında sanığı savunacak, gerekli hukuki yardımda bulunacaktır.
 
 Tutuksuz yapılan duruşmalarda sanık sorgusu yapıldıktan sonra duruşmalara katılmak istemeyebilir. Duruşmalara katılmak istemeyen sanık için mahkemeden “duruşmadan vareste tutulma”  kararı vermesi talep edilir. Mahkeme sanığın duruşmadan vareste tutulmasına karar verirse sanık yerine sadece ceza avukatının duruşmaya katılımı yeterlidir.
@@ -40,5 +51,11 @@ Duruşmalar delillerin tartışıldığı, sanık, müşteki ve tanıkların din
 
 **Ceza avukatı**, **ceza davası** müvekkilinin arzu ettiği sonuç dışında karara bağlanırsa, kararı temyiz edecektir.
 Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incelemesi yapılıp sonuçlanıncaya kadar ceza avukatı, müvekkilinin bu yazının kapsamına sığmayacak kadar sayısız hakkını savunacaktır. Biz, bu kısa yazıda ortalama okuyucuya  ceza avukatının fonksiyonunu tanıtmak istedik. 
+
+**Ceza avukatı ve Ceza davası**
+
+**Ceza avukatı,** aldığı **ceza davası** dosyasını özenle incelemeli, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşmalıdır. **Ceza avukatı,** **ceza davası** dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarmalıdır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
+
+Her ceza avukatı, bilir ki bir ceza davası yargılanan kişinin temel hak ve özgürlüklerine doğrudan müdahaleyle sonuçlanabilecek bir süreç içerir. Bu nedenle avukat-müvekkil ilişkileri karşılıklı bilgilendirme temelinde, kendi aralarında şeffaf bir şekilde yürümelidir.
 
 **Ataköy** /**Avukat Baran Doğan**
