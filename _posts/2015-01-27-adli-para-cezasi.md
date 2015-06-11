@@ -60,7 +60,7 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 •	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem	:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-**Adli para cezası,** hukuki niteliği itibarıyle tazyik hapsi olarak kabul edildiğinden 01.03.2008 tarihinden sonra koşullu salıverilme hükümleri uygulanmayacağı gibi **denetimli serbestlik** hükümleri de uygulanmaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
+**Adli para cezası,** hukuki niteliği itibarıyle tazyik hapsi olarak kabul edildiğinden **adli para cezaları** hakkında 01.03.2008 tarihinden sonra koşullu salıverilme hükümleri uygulanmayacağı gibi **denetimli serbestlik** hükümleri de uygulanmaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
 
 ####Adli Para Cezasının Taksitle Ödenmesi Mümkün mü?
 
