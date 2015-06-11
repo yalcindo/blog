@@ -4,7 +4,7 @@ title: Adli Para Cezası
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler, avukat baran doğan
 ---
----
+
 ####Adli Para Cezası Nedir?
 
 TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer devlet kurumlarının verdiği cezalar idari para cezasıdır. **Adli para cezası,** idari para cezasından ayrı bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapse dönmez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
