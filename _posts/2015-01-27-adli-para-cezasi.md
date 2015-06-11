@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, bakırköy avukat, ataköy, bahçelievler, şirinevler, avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler, avukat baran doğan
 ---
 ---
 
@@ -30,7 +30,7 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 
 ####Adli Para Cezası Ertelenebilir mi?
 
-**Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında erteleme kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
+**Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
 
 ####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
@@ -44,7 +44,7 @@ TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyeb
 
 ####Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu?
 
-Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. Ödeme emri üzerine adli para cezası ödenmezse, Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine **uymaması** hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili denetimli serbestlik kurallarına uymayan hükümlü ile ilgili **adli para cezası**, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
+Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. Ödeme emri üzerine **adli para cezası ödenmezse,** Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine **uymaması** hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili **denetimli serbestlik** kurallarına uymayan hükümlü ile ilgili **adli para cezası**, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
 ####18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
 
@@ -59,6 +59,8 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 •	**01.06.2005 – 01.03.2008 Tarihleri Arasında İşlenen Suçlara İlişkin İnfaz Dönemi:** Bu dönemde üçlü bir ayrım vardır. Eğer kanunda doğrudan belirlenmiş bir para cezası verilmişse, günlüğü 100 TL’den hapse çevrilir ve koşullu salıverilmeden yararlanamaz. Eğer adli para cezası, doğrudan gün üzerinden verilmişse, mahkeme hangi miktar üzerinden para cezası vermişse o miktar üzerinden hapse çevirir. Bu durumda da kişi koşullu salıvermeden yararlanamaz. Üçüncü halde, yani hapis cezasından çevrilen para cezalarında ise mahkemenin paraya çevirdiği miktar üzerinden hapse çevrilir. Koşullu salıvermeden yararlanarak cezanın 1/3’ü indirilerek infaz edilir.
 
 •	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem	:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
+
+**Adli para cezası,** hukuki niteliği itibarıyle tazyik hapsi olarak kabul edildiğinden 01.03.2008 tarihinden sonra koşullu salıverilme hükümleri uygulanmayacağı gibi **denetimli serbestlik** hükümleri de uygulanmaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
 
 ####Adli Para Cezasının Taksitle Ödenmesi Mümkün mü?
 
