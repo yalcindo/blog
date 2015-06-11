@@ -9,10 +9,8 @@ googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı �
 
 TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer devlet kurumlarının verdiği cezalar idari para cezasıdır. **Adli para cezası,** idari para cezasından ayrı bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapse dönmez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
 
-
-
-
 ----
+
 ####Kaç Çeşit Adli Para Cezası Vardır?
 
 TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para cezası verilebilir:
