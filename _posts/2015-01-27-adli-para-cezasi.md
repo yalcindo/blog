@@ -4,6 +4,7 @@ title: Adli Para Cezası
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler, avukat baran doğan
 ---
+---
 
 ####Adli Para Cezası Nedir?
 
