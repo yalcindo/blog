@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, sanık, şüpheli savunma, mahkeme, gözaltı haklarım, avukat, dosya inceleme, ceza avukatı nedir, bakırköy ataköy avukat
+googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, sanık, şüpheli savunma, mahkeme, gözaltı haklarım, avukat, dosya inceleme, ceza avukatı nedir, bakırköy ataköy avukat
 summary: Ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
 
@@ -56,6 +56,12 @@ Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incel
 
 **Ceza avukatı,** aldığı **ceza davası** dosyasını özenle incelemeli, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşmalıdır. **Ceza avukatı,** **ceza davası** dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarmalıdır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
 
-Her ceza avukatı, bilir ki bir ceza davası yargılanan kişinin temel hak ve özgürlüklerine doğrudan müdahaleyle sonuçlanabilecek bir süreç içerir. Bu nedenle avukat-müvekkil ilişkileri karşılıklı bilgilendirme temelinde, kendi aralarında şeffaf bir şekilde yürümelidir.
+Her **ceza avukatı,** bilir ki bir **ceza davası** yargılanan kişinin temel hak ve özgürlüklerine doğrudan müdahaleyle sonuçlanabilecek bir süreç içerir. Bu nedenle avukat-müvekkil ilişkileri karşılıklı bilgilendirme temelinde, şeffaf bir şekilde yürümelidir.
+
+**Ceza Avukatlığı, Ceza Avukatı Olmak**
+
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmayı hayal eder. Halbuki **ceza avukatlığı,** avukatlığın en zor branşlarından biridir. **Ceza avukatı olmak,** avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını belirleyemez. Bu nedenledir ki **ceza avukatlığı,** bazen avukatın yaşamının düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ceza avukatı olmak,** kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+
+
 
 **Ataköy** /**Avukat Baran Doğan**
