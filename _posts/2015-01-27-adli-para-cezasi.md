@@ -13,15 +13,15 @@ TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cez
 
 ####Kaç Çeşit Adli Para Cezası Vardır?
 
-TCK’daki düzenlemeye göre yargılanan bir şahsa dört şekilde adli para cezası verilebilir:
+TCK’daki düzenlemeye göre yargılanan bir şahsa dört farklı yöntemle adli para cezası verilebilir:
 
-•	**Doğrudan Verilen Adli Para Cezası		 :** TCK’da suçun karşılığı doğrudan **adli para cezası** ise hakim bu cezaya hükmeder. Örneğin, TCK 182/1 maddesi gereği “Taksirle Çevrenin Kirletilmesi”  doğrudan **adli para cezası**nı gerektirmektedir. 
+•	**Doğrudan Verilen Adli Para Cezası:** TCK’da herhangi bir suçun karşılığı doğrudan **adli para cezası** olarak düzenlenmiş ise hakim doğrudan verilen adli para cezasına hükmeder. Örneğin, TCK 182/1 maddesi gereği “Taksirle Çevrenin Kirletilmesi”  doğrudan **adli para cezası**nı gerektirmektedir. 
 
-• **Seçimlik Ceza Olan Adli Para Cezası		:** TCK’da suçun karşılığı olarak hapis cezası veya adli para cezası yaptırımlarından birinin uygulanması seçimlik olarak öngörüldüğünde hükmedilen adli para cezasıdır. Örneğin, Basit tıbbi müdahale ile giderilebilecek kasten yaralama suçunda 4 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilebilir.
+• **Seçimlik Ceza Olan Adli Para Cezası:** TCK’da herhangi bir suçun karşılığı olarak hapis cezası veya adli para cezası yaptırımlarından yalnız birinin uygulanması seçimlik olarak öngörüldüğünde hükmedilen adli para cezası, seçimlik ceza olan adli para cezasıdır. Örneğin, Basit tıbbi müdahale ile giderilebilecek kasten yaralama suçunda 4 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilebilir.
 
-• **Hapis Cezasından Çevrilen Adli Para Cezası 	:** Kasten işlenen suçlarda bir yıl ve altındaki hapis cezaları, **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (Örn, trafik kazası neticesinde ölü veya yaralı varsa) ise ceza miktarına bakılmaksızın tüm cezalar **adli para cezası**na çevrilebilir.
+• **Hapis Cezasından Çevrilen Adli Para Cezası:** Kasten işlenen suçlarda bir yıl ve altındaki hapis cezaları, **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (Örn, trafik kazası neticesinde ölü veya yaralı varsa) ise ceza miktarına bakılmaksızın tüm cezalar **adli para cezası**na çevrilebilir.
 
-•	**Hapis Cezası ile Birlikte Hükmedilen Adli Para Cezaları:** TCK’da bazı suçlar açısından hem hapis hem de **adli para cezası**nın birlikte uygulanması öngörülmüştür. Örneğin, dolandırıcılık suçunda, bir yıldan beş yıla kadar hapis ve beş bin güne kadar adlî para cezasına hükmedilebilir.
+•	**Hapis Cezası ile Birlikte Hükmedilen Adli Para Cezaları:** TCK’da bazı suçlar açısından hem hapis hem de **adli para cezası**nın birlikte uygulanması öngörülmüştür. Örneğin, dolandırıcılık suçunda, bir yıldan beş yıla kadar hapis ve beş bin güne kadar adlî para cezasına, yani her iki cezaya birlikte hükmedilebilir.
 
 ----
 
@@ -71,7 +71,7 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 •	**01.06.2005 – 01.03.2008 Tarihleri Arasında İşlenen Suçlara İlişkin İnfaz Dönemi:** Bu dönemde üçlü bir ayrım vardır. Eğer kanunda doğrudan belirlenmiş bir para cezası verilmişse, günlüğü 100 TL’den hapse çevrilir ve koşullu salıverilmeden yararlanamaz. Eğer adli para cezası, doğrudan gün üzerinden verilmişse, mahkeme hangi miktar üzerinden para cezası vermişse o miktar üzerinden hapse çevirir. Bu durumda da kişi koşullu salıvermeden yararlanamaz. Üçüncü halde, yani hapis cezasından çevrilen para cezalarında ise mahkemenin paraya çevirdiği miktar üzerinden hapse çevrilir. Koşullu salıvermeden yararlanarak cezanın 1/3’ü indirilerek infaz edilir.
 
-•	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem	:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
+•	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
 **Adli para cezası,** hukuki niteliği itibarıyle tazyik hapsi olarak kabul edildiğinden **adli para cezaları** hakkında 01.03.2008 tarihinden sonra koşullu salıverilme hükümleri uygulanmayacağı gibi **denetimli serbestlik** hükümleri de uygulanmaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
 
