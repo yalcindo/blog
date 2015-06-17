@@ -2,7 +2,7 @@
 layout: blog
 title: Uluslararası Suçlar-3  Soykırım Suçu
 category: ceza-hukuku
-googleAnahtar: Uluslararası suçlar, soykırım suçu, ataköy avukat, avukat Baran Dogan
+googleAnahtar: Uluslararası suçlar, uluslararası ceza mahkemesi, ceza avukatı, soykırım suçu, ataköy avukat, avukat Baran Dogan
 summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren soykırım suçu hakkında kısa bir yazı.
 ---
 
