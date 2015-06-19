@@ -100,9 +100,9 @@ Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şe
 
 ----
 
-####Adli Para Cezası Sicile İşler mi?
+####Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim? 
 
-Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır.  
+Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır. Adli para cezasına dair sabıka kayıdının nasıl silineceğine dair bilgilere ve dilekçe örneğine sitemizdeki şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesi ve Dilekçe Örneği](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
 ----
 
