@@ -35,13 +35,13 @@ Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık a
 
 ####Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
-Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar **ceza avukatı** davayı takip etmek zorundadır. Soruşturma aşamasında avukatlık görevi belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da ceza avukatının görevi son bulur.
+Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar **ceza avukatı** davayı takip etmek zorundadır. Soruşturma aşamasında avukatlık görevi belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da **ceza avukatı**nın görevi son bulur.
 
 ---
 
 ####Ceza Avukatı ve Suç Kavramı
 
-Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da ilintili olduğundan ceza avukatı, toplumu çeşitli yönleriyle görebilen bir sosyolog gibidir. Her suç toplumun ne yönde bir sorunla karşı karşıya olduğunun habercisidir. Ekonomik sorunların arttığı dönemlerde hırsızlık, gasp, dolandırıcılık gibi suçların artması bunun en büyük örneğidir.
+Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da ilintili olduğundan **ceza avukatı,** toplumu çeşitli yönleriyle görebilen bir sosyolog gibidir. Her suç toplumun ne yönde bir sorunla karşı karşıya olduğunun habercisidir. Ekonomik sorunların arttığı dönemlerde hırsızlık, gasp, dolandırıcılık gibi suçların artması bunun en büyük örneğidir.
 
 Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki **ceza avukatı,** Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Ceza avukatı,** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
 
