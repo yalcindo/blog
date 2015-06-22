@@ -11,23 +11,6 @@
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		
-		<script type="text/javascript">
-			hljs.initHighlightingOnLoad();
-			function applyTiles() {
-				var posts = $('#posts ul');
-				posts.imagesLoaded(function() {
-					$('#posts ul').masonry({ itemSelector : '.post' });;
-				});
-			}
-			$(function() {
-				applyTiles();
-			});
-			$(window).resize(function() {
-				applyTiles();
-			});
-		</script>
-		<style type="text/css">
-		</style>
 	</head>
 	<body>
 		<div id='layout'>

@@ -11,21 +11,6 @@
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		
-		<script type="text/javascript">
-			hljs.initHighlightingOnLoad();
-			function applyTiles() {
-				var posts = $('#posts ul');
-				posts.imagesLoaded(function() {
-					$('#posts ul').masonry({ itemSelector : '.post' });;
-				});
-			}
-			$(function() {
-				applyTiles();
-			});
-			$(window).resize(function() {
-				applyTiles();
-			});
-		</script>
 		<style type="text/css">
 		</style>
 	</head>
@@ -321,11 +306,5 @@
 	</script>
 
 	<!-- END GA CODE -->
-
-	<script type="text/javascript" src='/blog/js/jquery.min.js'></script>
-		<script type="text/javascript" src='/blog/js/jquery.masonry.min.js'></script>
-		<script type="text/javascript" src='/blog/js/jquery.imagesloaded.min.js'></script>
-		<script type="text/javascript" src='/blog/js/highlight.pack.js'></script>
-		<script type ="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 </body>
 </html>
