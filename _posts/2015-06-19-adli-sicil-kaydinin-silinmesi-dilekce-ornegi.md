@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Sicil Kaydının Silinmesi
 category: ceza-hukuku
-googleAnahtar: adli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli sicil kaydı dilekçe örneği, adli sicil kaydı ne zaman silinir, Ceza avukatı, hangi cezalar adli sicil kaydına işlenir, ceza avukatı arıyorum istanbul, bakırköy ataköy avukat, avukat baran doğan
+googleAnahtar: adli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli sicil kaydı dilekçe örneği, adli sicil kaydı ne zaman silinir, Ceza avukatı, hangi cezalar adli sicil kaydına işlenir, adli sicil kaydı nasıl silinir, adli sicil kaydı kaç yılda silinir, ceza avukatı arıyorum istanbul, bakırköy ataköy avukat, avukat baran doğan
 summary: Hangi mahkeme kararlarının adli sicile işlenebileceği, adli sicil kaydının silinmesi, nasıl ve ne zaman adli sicil kaydı bilgilerinin silineceği, adli sicil kaydının silinmesine dair dilekçe örneğine kısaca yer verilmiştir.
 ---
 ---
@@ -63,3 +63,5 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 ####Adli Sicil Kaydım Silinmemiş Gözüküyor Ne yapabilirim? Nasıl Sildirebilirim? Mahkemede Dava Açmaya Gerek Var mı?
 
 Adli sicil kaydı koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne (Adres: Tuna cad. No:10 Yenişehir/Ankara) bir dilekçeyle başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. Adli Sicil Kaydının silinmesine dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://www.adlisicil.adalet.gov.tr/pdf/dilekce1.pdf). Bu dilekçenin metin kısmı  **"Adli sicil kaydımın silinmesini arz ve talep ederim"** şeklinde değiştirilmelidir.
+
+**Avukat Baran Doğan**
