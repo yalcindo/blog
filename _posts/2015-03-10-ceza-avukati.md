@@ -6,6 +6,7 @@ googleAnahtar: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum ista
 summary: Ceza avukatı kavramı ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
 ---
 ---
+
 ####Ceza  Avukatı ve Savunma
 
 Avukatlık mesleğinin en zor alanlarından biri ceza avukatlığıdır. Hem kişi özgürlüğü açısından hem mağdur hakları açısından toplumun en hassas sorunlarıyla uğraşır. Esasen her avukatın yaptığı gibi **ceza avukatı** da savunma işlevini yerine getirmeye çalışır. Fakat **ceza avukatı**nın savunma işlevi diğer avukatlık branşlarının savunma işlevinden biraz farklıdır. **Ceza avukatı,** doğrudan kişi özgürlüğünü etkileyebilecek bir fonksiyon icra eder.
