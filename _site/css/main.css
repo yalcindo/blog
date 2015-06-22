@@ -206,10 +206,10 @@ box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
 .post-content {
 	margin-top: 10px;
 	font-size: 13px;
-
-	padding: 20px 30px;
-	background: url('http://wpexplorer-demos.com/fabulous/wp-content/themes/wpex-fabulous/images/entry-meta-shadow.png') no-repeat scroll center top #FBFBFB;
+	padding: 10px 10px;
 	border-radius: 0px 0px 3px 3px;
+
+  	text-align: left;
 }
 
 #side-bar {
