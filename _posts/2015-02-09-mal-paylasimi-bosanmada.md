@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Boşanmada Mal Paylaşımı
-category: aile-hukuku
+category: medeni-hukuk
 googleAnahtar: mal paylaşımı, boşanma, boşanmada mal paylaşımı, boşanmada mal paylaşımı nasıl olur?  boşanma halinde evlilik mallarının paylaşımı, mal paylaşımı davası, mal paylaşımı boşanma, medeni kanun boşanmada mal paylaşımı, boşanmada mal paylaşımı kanunu, mal paylaşımı nasıl olur? mal paylaşımı kanunu, edinilmiş mallara katılma rejimi, avukat, Avukat Baran Doğan
 ---
 
