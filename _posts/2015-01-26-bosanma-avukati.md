@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Boşanma Avukatı
-category: aile-hukuku
+category: medeni-hukuk
 googleAnahtar: Boşanma avukatı, boşanma davası, boşanma sebebi, boşanma sebepleri, ataköy avukat, avukat, Avukat Baran Doğan
 summary: Boşanma avukatının işlevi anlaşılır bir dille izah edilmeye çalışılmıştır.
 ---
