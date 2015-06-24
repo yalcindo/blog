@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Yargıtay Kararı - Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi
-category: aile-hukuku
+category: medeni-hukuk
 googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, Avukat Baran Doğan
 ---
 **ÖZET**
