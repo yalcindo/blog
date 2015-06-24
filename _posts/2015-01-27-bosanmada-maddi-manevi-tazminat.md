@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Yargıtay Kararı - Boşanma Davasında Maddi-Manevi Tazminat Miktarı
-category: aile-hukuku
+category: medeni-hukuk
 googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, Avukat Baran Doğan
 ---
 
