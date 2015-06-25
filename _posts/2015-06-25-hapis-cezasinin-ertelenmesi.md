@@ -5,7 +5,7 @@ category: ceza-hukuku
 googleAnahtar: Hapis cezasının ertelenmesi, cezanın ertelenmesi, erteleme kararı, infazın ertelenmesi, erteleme şartları koşulları, denetim süresi, ceza avukatı, avukat, ceza avukatı arıyorum istanbul, Bakırköy, Ataköy Ceza avukatı Baran Doğan
 ---
 ---
-Kural olarak kişi işlediği bir suçtan dolayı cezalandırılmalı ve cezası da infaz edilmelidir. Ama bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilmektedir. 
+TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılmalı ve cezası da infaz edilmelidir. Ama bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilmektedir. 
 
 Cezanın ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza hukuku kurumudur.
 
