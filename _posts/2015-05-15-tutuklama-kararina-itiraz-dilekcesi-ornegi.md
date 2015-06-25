@@ -7,13 +7,13 @@ googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekç
 ---
 ---
 
-##İSTANBUL  (   )   CEZA MAHKEMESİ SAYIN BAŞKANLIĞI’NA
+##İSTANBUL  (   )  SULH CEZA MAHKEMESİ'NE
 
 **DOSYA NO			:**
  
 **TUTUKLAMAYA 
 İTİRAZ EDEN
-EDEN ŞÜPHELİ		:** 
+EDEN ŞÜPHELİ**		**:** 
 
 **TUTUKLAMA TARİHİ	:** 
 
