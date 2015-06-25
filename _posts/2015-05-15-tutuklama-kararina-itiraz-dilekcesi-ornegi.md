@@ -34,9 +34,9 @@ EDEN ŞÜPHELİ**		**:**
 
 **5.**	Mevcut durumda delillerin yok edilmesi, karartılması  ,değiştirilmesi  ya da gizlenmesi söz konusu değildir.Çünkü suç konusu olaya ilişkin  tüm deliller  adli makamlara intikal etmiştir. CMK m.100/2-b de tutuklama  koşulu olarak belirtilen  şüpheli veya sanığın davranışları:                          
 
-  			.   Delileri  yok etme, gizleme veya değiştirme,
+.   Delileri  yok etme, gizleme veya değiştirme,
 
- 		 	.   Tanık, mağdur veya  başkaları üzerinde baskı yapılması girişiminde bulunma
+.   Tanık, mağdur veya  başkaları üzerinde baskı yapılması girişiminde bulunma
 
  hususlarında kuvvetli şüphe oluşturma şartları olayımızda yoktur.
 
