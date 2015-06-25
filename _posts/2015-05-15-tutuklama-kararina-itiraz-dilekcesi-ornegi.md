@@ -22,7 +22,7 @@ EDEN ŞÜPHELİ**		**:**
 **AÇIKLAMALAR		:**
 
 
-**TUTUKLAMA KOŞULLARI NIN DEĞERLENDİRİLMESİ [ CMK md. 100]**
+**TUTUKLAMA KOŞULLARININ DEĞERLENDİRİLMESİ [ CMK md. 100]**
 
 **1.**	Uzun süren soruşturma neticesinde aleyhime somut hiçbir delile ulaşılamadığı kanaatindeyim. Şahsımın söz konusu olayla hiçbir ilgisi yoktur.
 
@@ -36,7 +36,7 @@ EDEN ŞÜPHELİ**		**:**
 
   			.   Delileri  yok etme, gizleme veya değiştirme,
 
- 		 		.   Tanık, mağdur veya  başkaları üzerinde baskı yapılması girişiminde bulunma
+ 		 	.   Tanık, mağdur veya  başkaları üzerinde baskı yapılması girişiminde bulunma
 
  hususlarında kuvvetli şüphe oluşturma şartları olayımızda yoktur.
 
