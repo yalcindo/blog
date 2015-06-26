@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı ödeme erteleme, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, avukat baran doğan
 ---
 ---
 
@@ -32,7 +32,13 @@ Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, hakaret gibi) h�
 
 Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur, verilen hapis cezasını paraya çevirmek zorundadır. Eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı paraya çevirmek zorundadır. Ayrıca, yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyükse hakim verdiği 1 yıl veya altındaki cezaları paraya çevirmek zorundadır.
 
+---
 
+####Adli Para Cezasına Çevrilebilecek Suçlar?
+
+Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (trafik kazası gibi) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
+
+Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama, tehdit, cebir, şantaj, hakaret, kişisel verilerin kaydedilmesi suçu, özel hayatın gizliliğini ihlal suçu, hırsızlık, mala zarar verme, güveni kötüye kullanma, bedelsiz senedi kullanma, dolandırıcılık, suç eşyasının satın alınması veya kabul edilmesi, çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, mühür bozma veya fekki, özel belgede sahtecilik, açığa imzanın kötüye kullanılması, bilişim suçları, görevi kötüye kullanma, görevi yaptırmamak için direnme, iftira, suç üstlenme, suç uydurma, yalan tanıklık, suç delillerini yok etme, gizleme veya değiştirme, ses veya görüntülerin kayda alınması.
 
 ----
 
@@ -56,7 +62,7 @@ TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyeb
 
 ####Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu?
 
-Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. Ödeme emri üzerine **adli para cezası ödenmezse,** Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine **uymaması** hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili **denetimli serbestlik** kurallarına uymayan hükümlü ile ilgili **adli para cezası**, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
+Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. **Adli para cezasının ödenmemesi,** hükümlünün belli bir prosedüre göre bazı yükümlülükler içerisine girmesini gerektirir. Ödeme emri üzerine **adli para cezası ödenmezse,** Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine **uymaması** hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili **denetimli serbestlik** kurallarına uymayan hükümlü ile ilgili **adli para cezası**, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
 ----
 
