@@ -6,7 +6,7 @@ googleAnahtar: Hükmün açıklanmasının geri bırakılması, Ceza avukatı, h
 summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama geldiği, şartları, sonuçları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 ---
-
+---
 ##Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
 
 **Hükmün açıklanmasının geri bırakılması,** sanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi boyunca kasıtlı bir suç işlenmez ve yükümlülüklere uygun davranılırsa ceza kararının ortadan kaldırılmasına ve davanın düşmesine yol açan bir cezanın bireyselleştirilmesi kurumudur.  Erteleme, takdiri indirim gibi bireyselleştirme kurumlarında mahkeme kararı birtakım hukuki sonuçlar doğrururken, **hükmün açıklanmasının geri bırakılması** kurumunda ortada sonuç doğuracak bir mahkeme hükmü yoktur. Mahkeme, hukuk sisteminde sonuç doğuracak şekilde kararını henüz açıklamamış, açıklamayı geri bırakmıştır. Bu yüzden  **HAGB kararı,** kişinin medeni, siyasi veya özel yaşamına hiçbir kısıtlama getirmeyen, sanığa toplum içinde hayatına devam ederek yeni bir şans tanıyan bir bireyselleştirme kurumudur. Yani, örnek vermek gerekirse, hakkında hükmün açıklanması geri bırakılan kişi memur da olabilir milletvekili de olabilir.
@@ -33,7 +33,7 @@ Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**n
 
 Adli para cezası ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
-###2.	Sanığa İlişkin Şartlar:
+###2.	Sanığa İlişkin Şartlar
 
 ####(a)	Hakkında Karar Verilen Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
 
