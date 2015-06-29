@@ -46,7 +46,7 @@ Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama, 
 
 **Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
 
-Hapis cezasının ertelenmesinin koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
+Hapis cezasının ertelenmesi koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
 ----
 
