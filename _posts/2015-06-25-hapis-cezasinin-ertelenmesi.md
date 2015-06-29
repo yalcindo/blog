@@ -51,4 +51,5 @@ Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cez
 **Hapis cezasının ertelenmesi** kurumu, **hükmün açıklanmasının geri bırakılması** kurumuyla çoğu zaman karıştırılmaktadır. Erteleme halinde kişi hakkında cezaevine girmek dışında bazı sonuçlar doğuran bir mahkumiyet hükmü vardır, hükmün açıklanmasının geri bırakılması halinde ortada sonuç doğuran bir mahkumiyet hükmü olmadığından bu halde kişi memur da olabilir milletvekili de. 
 
 **Hükmün açıklanmasının geri bırakılması**yla ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
+
 ---
