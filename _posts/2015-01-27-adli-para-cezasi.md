@@ -46,15 +46,17 @@ Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama, 
 
 **Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
 
+Hapis cezasının ertelenmesinin koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
+
 ----
 
 ####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
-Hükmün açıklanmasının geri bırakılması kurumu, kişi hakkında bir mahkumiyet kararı verilmeden 5 yıl gibi bir süreyle denetime tabi tutulması olarak açıklanabilir.
+Hükmün açıklanmasının geri bırakılması, yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. Hükmün açıklanmasının geri bırakılması sanık için adli para cezasından çok daha avantajlı bir durumdur, uygulama şartlarına şu yazımızdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
 
 TCK, bazı suçlara yukarıda açıkladığımız üzere **doğrudan adli para cezası** verilmesini öngörmüştür. Doğrudan adli para cezasına mahkumiyet halinde, adli para cezası verilmesi hakkındaki hükmün açıklanmasının geri bırakılmasına karar verilebilir. 
 
-TCK, hapis veya adli para cezalarından birini seçimlik ceza olarak düzenleyebilmektedir. Adli para cezasının seçimlik ceza olarak düzenlendiği bu tarz suçlarda, adli para cezasına mahkumiyet halinde bu ceza hakkında hükmün açıklanmasının geri bırakılmasına karar verilebilir.
+TCK, hapis veya adli para cezalarından herhangi birinin sanığa ceza olarak verilmesini seçimlik ceza olarak düzenleyebilmektedir. **Adli para cezası**nın seçimlik ceza olarak düzenlendiği bu tarz suçlarda, adli para cezasına mahkumiyet halinde bu ceza hakkında hükmün açıklanmasının geri bırakılmasına karar verilebilir.
 
 **Hapis cezasından çevrilen veya hapis cezasıyla birlikte verilen adli para cezaları hakkında hükmün açıklanmasının geri bırakılması kararı verilemez.**
 
@@ -82,23 +84,23 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 •	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-**Adli para cezası,** hukuki niteliği itibarıyle tazyik hapsi olarak kabul edildiğinden **adli para cezaları** hakkında 01.03.2008 tarihinden sonra koşullu salıverilme hükümleri uygulanmayacağı gibi **denetimli serbestlik** hükümleri de uygulanmaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
+01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir.
 
 ----
 
 ####Adli Para Cezasının Taksitle Ödenmesi Mümkün mü?
 
-Hakim, yargılanan kişinin ekonomik durumunu göz önüne alarak hükmettiği adli para cezasının 24 aya kadar taksitle ödenmesine karar verebilir ( TCK madde 52 ). Taksit ödemeleri hükmün kesinleşmesinden itibaren başlar. 
+**Adli para cezasını taksitle ödeme,** kanunun öngördüğü infaz yöntemlerinden biridir. Hakim, yargılanan kişinin ekonomik durumunu göz önüne alarak hükmettiği adli para cezasının 24 aya kadar **taksitle ödenmesi**ne karar verebilir ( TCK madde 52 ). **Taksit** ödemeleri hükmün kesinleşmesinden itibaren başlar. 
 
 Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Hakim, yargılanan kişiye 1 yıldan fazla olmamak üzere bir süre belirleyip belirlediği sürede adli para cezasının bir kerede ödenmesine karar verebilir. Bu süre de hükmün kesinleşmesinden itibaren işlemeye başlar.
 
-Hakim, hükmettiği **adli para cezası**nı taksitlendirmeyebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek adli para cezasının ödenmesini ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir. 
+Hakim, hükmettiği **adli para cezası**nı **taksitlendirme**yebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek **adli para cezasının ödenmesi**ni ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir. 
 
 ----
 
 ####Adli Para Cezası Nereye Ödenir? Nasıl Ödenir?
 
-Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [***Adli Para Cezası Nereye Ödenir?***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
+Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [***Adli Para Cezası Nereye Ödenir?***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
 
 ----
 
