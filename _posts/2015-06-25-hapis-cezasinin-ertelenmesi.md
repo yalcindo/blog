@@ -65,3 +65,11 @@ Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cez
 **Hükmün açıklanmasının geri bırakılması**yla ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
 
 ---
+
+###Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
+
+**Hapis cezasının ertelenmesi kararı** temyiz edilebilir. Mahkeme karar verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. **Temyiz incelemesi** Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
+
+---
+
+**Avukat Baran Doğan**
