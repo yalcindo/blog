@@ -5,6 +5,10 @@ category: ceza-hukuku
 googleAnahtar: Hapis cezasının ertelenmesi, cezanın ertelenmesi, erteleme kararı, infazın ertelenmesi, erteleme şartları koşulları, denetim süresi, ceza avukatı, avukat, ceza avukatı arıyorum istanbul, Bakırköy, Ataköy Ceza avukatı Baran Doğan
 ---
 ---
+
+###Hapis Cezasının Ertelenmesi Nedir?
+---
+
 TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da infaz edilir. Ama bazı şartların bir arada gerçekleşmesi halinde kişiye verilen **cezanın infazı**ndan vazgeçilebilmektedir. 
 
 **Hapis cezasının ertelenmesi,** suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza hukuku kurumudur.
@@ -13,22 +17,30 @@ TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dol
 
 --- 
 
-####Hapis Cezasının Ertelenmesi Şartları
+###Hapis Cezasının Ertelenmesi Şartları
 ---
 
-**1) Cezanın Miktarı Yönünden Erteleme Sınırı:**  Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise **hapis cezanın ertelenmesi** mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde **cezanın ertelenmesi** kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
+####1) Cezanın Miktarı Yönünden Erteleme Koşulu
+
+**Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise **hapis cezanın ertelenmesi** mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde **cezanın ertelenmesi** kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
 
 **İstisna:** Hapis cezasının ertelenmesi için zorunlu olan 2 yıllık ceza miktarı sınırı, 18 yaşından küçük çocuklar ve 65 yaşından büyük kişiler için 3 yıldır. Yani, 18 yaşından küçük bir kişi 3 yıl ceza aldığında bu ceza ertelenebilir.
 
-**2) Kasten İşlenmiş Bir Suçtan Mahkum Olmamak:** Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. Önemli olan daha önce işlenen suçun kasten işlenmemesidir. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **cezanın ertelenmesi** kurumundan yararlanabilir.
+####2) Kasten İşlenmiş Bir Suçtan Mahkum Olmamak
 
-**3) Yargılama Sırasında Tekrar Suç İşlemeyeceği Kanaatinin Mahkemede Oluşması:** **Hapis Cezasının ertelenmesi,** cezanın suçlunun kişiliğine uygun hale getirilmesi anlamını taşır. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususu yargıç tarafından değerlendirilerek cezanın ertelenip ertelenmeyeceğine karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olmaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay’ın denetimine olanak sağlayacak şekilde gerekçelendirecektir.
+Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. Önemli olan daha önce işlenen suçun kasten işlenmemesidir. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **cezanın ertelenmesi** kurumundan yararlanabilir.
 
-**4) Zararın Giderilmesi Şartı:**   Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
+####3) Yargılama Sırasında Tekrar Suç İşlemeyeceği Kanaatinin Mahkemede Oluşması
+
+**Hapis Cezasının ertelenmesi,** cezanın suçlunun kişiliğine uygun hale getirilmesi anlamını taşır. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususu yargıç tarafından değerlendirilerek cezanın ertelenip ertelenmeyeceğine karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olmaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay’ın denetimine olanak sağlayacak şekilde gerekçelendirecektir.
+
+####4) Zararın Giderilmesi Şartı
+
+Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
 
 ---
 
-####Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler
+###Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler
 ---
 
 Mahkeme **erteleme kararı** verdikten sonra, bir denetim süresi belirler. Bu denetim süresi iki türlüdür; ya mahkeme hükümlü için hiçbir yükümlülük belirlemeden sadece belirlenen sürenin “iyi halli” geçmesini yeterli sayar veya belirlenen **denetim süresi** içerisinde hükümlünün birtakım yükümlülükleri de yerine getirmesi aranır. 
@@ -44,7 +56,7 @@ Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cez
 
 ---
 
-####Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi
+###Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi
 
 **Hapis cezasının ertelenmesi** halinde dahi ortada bir mahkumiyet hükmü vardır. Mahkumiyet hükmü yargılanan kişinin cezaevine girmemesi, velayet-vesayet hakkını kullanması gibi bazı sonuçlar dışında kişinin hayat alanına ceza hukuku müdahalesine neden olur. Hapis cezası ertelenen kişinin cezası 1 yıldan fazla ise, ceza infaz edilene kadar memuriyet veya milletvekilliği gibi kamu görevlerine aday olamaz.
 
