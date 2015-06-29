@@ -85,7 +85,7 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 ---
 
-###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? ( Sabıka Kaydına İşlenir mi? ) 
+###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
 
 **Hükmün açıklanmasının geri bırakılması kararı,** **adli sicil kaydına (sabıka kaydına)** işlenmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
 
