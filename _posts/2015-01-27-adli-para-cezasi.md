@@ -52,7 +52,7 @@ Hapis cezasının ertelenmesinin koşullarını şu yazımızda inceleyebilirsin
 
 ####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
-Hükmün açıklanmasının geri bırakılması, yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. Hükmün açıklanmasının geri bırakılması sanık için adli para cezasından çok daha avantajlı bir durumdur, uygulama şartlarına şu yazımızdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
+Hükmün açıklanmasının geri bırakılması, yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. **Hükmün açıklanmasının geri bırakılması,** sanık için adli para cezasından çok daha avantajlı bir durumdur, uygulama şartlarına şu yazımızdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
 
 TCK, bazı suçlara yukarıda açıkladığımız üzere **doğrudan adli para cezası** verilmesini öngörmüştür. Doğrudan adli para cezasına mahkumiyet halinde, adli para cezası verilmesi hakkındaki hükmün açıklanmasının geri bırakılmasına karar verilebilir. 
 
