@@ -3,6 +3,7 @@ layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı, ödeme, ödememe, erteleme, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, avukat baran doğan
+summary: Adli Para Cezası Nedir? Adli Para Cezası Nedir? Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları, Adli Para Cezasının Taksitle Ödenmesi Mümkün mü? Taksitlendirme şartları, Cezası Adli Para Cezasına Çevrilebilecek Suçlar? Adli Para Cezası Ertelenebilir mi? Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi? Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü? Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu? Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim?
 ---
 ---
 
