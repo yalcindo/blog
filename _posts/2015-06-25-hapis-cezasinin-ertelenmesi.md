@@ -53,7 +53,7 @@ Denetim süresi içinde bir meslek veya sanat sahibi olmayan hükümlünün, bu 
 Bir meslek veya sanat sahibi hükümlünün ise, bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında ücret karşılığında çalıştırılması suretiyle üretime katılımının sağlanmasına karar verilebilir.
 18 yaşından küçük olan hükümlülerin, bir meslek veya sanat edinmelerini sağlamak amacıyla, gerektiğinde barınma imkânı da bulunan bir eğitim kurumuna devam etmesine, mahkemece karar verilebilir.
 
-Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cezası infaz edilmiş sayılır. Fakat hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, hâkimin uyarısına rağmen, uymamakta ısrar etmesi hâlinde; **ertelenen ceza**nın kısmen veya tamamen infaz kurumunda çektirilmesine karar verilir.
+**Denetim süresi, ertelemeye ilişkin mahkeme kararının kesinleşmesinden sonra başlar.** Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cezası infaz edilmiş sayılır. Fakat hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, hâkimin uyarısına rağmen, uymamakta ısrar etmesi hâlinde; **ertelenen ceza**nın kısmen veya tamamen infaz kurumunda çektirilmesine karar verilir.
 
 ---
 
