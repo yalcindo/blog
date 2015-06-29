@@ -24,15 +24,15 @@ summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama 
 
 ####1.	Suça İlişkin Şartlar 
 
-#####(a)	Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
+####(a)	Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
 
 Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçları, 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçların ceza miktarı ne olursa olsun **hükmün açıklanmasının geri bırakılmasına karar** verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır.
 
-#####(b)	Hapis Cezası Verilen Suçlarda Ceza Miktarı Şartı
+####(b)	Hapis Cezası Verilen Suçlarda Ceza Miktarı Şartı
 
 Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise,  2 yıl veya daha az süreli hapis cezası olmalıdır. 18 yaşından küçük **çocuklar için hükmün açıklanmasının geri bırakılması kararı** verilebilmesi için ceza sınırı 3 yıl veya daha az süreli hapis cezasıdır. Suçun niteliğinin (yukarıda açıkladığımız istisnalar hariç), taksirle veya kasten işlenmesinin hiçbir önemi yoktur, önemli olan cezanın miktarıdır. Ceza Muhakemesi Kanunu ceza miktarını mutlak nitelikte bir ölçü kabul etmiştir. Bu yüzden, örneğin, kasten veya taksirle adam yaralama, hırsızlık, dolandırıcılık, hakaret, zarar verme, tehdit, şantaj, uyuşturucu madde kullanma gibi suçlar nedeniyle hükmedilen hapis cezaları süre koşulunu sağladığı takdirde sanık hakkında **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
 
-#####(c)	Adli Para Cezası Açısından Zorunlu Şart
+####(c)	Adli Para Cezası Açısından Zorunlu Şart
 
 Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**na hükmetmişse bu para cezası hakkında da **hükmün açıklanmasının geri bırakılması kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir **adli para cezası** olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme **adli para cezası** vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **hükmün açıklanmasının geri bırakılması**na karar verilemez.
 
@@ -40,23 +40,23 @@ Adli para cezası ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 
 ####2.	Sanığa İlişkin Şartlar
 
-#####(a)	Hakkında Karar Verilen Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
+####(a)	Hakkında Karar Verilen Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
 
 Sanığın daha önce kasten işlediği bir suçtan dolayı kesinleşmiş mahkumiyeti varsa hakkında **hükmün açıklanmasının geri bırakılması kararı** verilemez. Önceki mahkumiyetinin hapis cezası veya adli para cezası olmasının veya cezanın miktarının hiçbir önemi yoktur. Sanığın önceki mahkumiyetine esas suç kasten işlenmişse hükmün açıklanmasının geri bırakılması kararı verilmesi mümkün değildir.
 
 Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş mahkumiyet kararı olsa bile **hükmün açıklanmasının geri  bırakılması** kararı verilebilir. Örnek vermek gerekirse, trafik kazası, iş kazası veya başka bir taksirli fiil ile ölüm veya yaralama suçlarından mahkum olmuş bir kişi hakkında sonraki suçu nedeniyle hükmün açıklanmasının geri bırakılması kararı verilebilir.
 
-#####(b)	Suç Nedeniyle Mağdurun veya Kamunun Uğradığı Zararın Aynen İade, Suçtan Önceki Hale Getirme veya Tamamen Giderilmesi
+####(b)	Suç Nedeniyle Mağdurun veya Kamunun Uğradığı Zararın Aynen İade, Suçtan Önceki Hale Getirme veya Tamamen Giderilmesi
 
 İşlenen suç nedeniyle mağdur veya kamu bir zarara uğramışsa, **hükmün açıklanmasının geri bırakılması**na karar verilebilmesi için uğranılan bu zararın giderilmesi gerekir. Suç nedeniyle oluşan zarardan kasıt maddi zararlardır, manevi zararlar uğranılan zarar kapsamında değildir.  Zararın giderilmesi, zararın konusu olan şey aynen verilebiliyorsa aynen iade yoluyla, aynen iade edilemeyecek bir şey ise tazmin suretiyle giderilmesi yoluyla mümkün olur. Örnek vermek gerekirse, cep telefonu çalınan kişiye cep telefonunun aynen iade edilmesi veya bedelinin ödenmesi **zararın giderilmesi** olarak kabul edilir. Suç nedeniyle oluşan dolaylı zararlar, CMK md. 231’deki  “uğranılan zarar” kapsamına dahil değildir. Örneğin,  işlenen suç nedeniyle mağdurun çalışamaması, iş güç kaybı “uğranılan zarar” kavramına dahil olmayan dolaylı zararlar olarak kabul edilmektedir.
 
 Kamunun veya mağdurun uğradığı zararın denetim süresi içinde taksitlerle ödenmesi koşuluyla da **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
 
-#####(c)	Mahkemece Sanığın Tekrar Suç İşlemeyeceği Kanaatine Varılması
+####(c)	Mahkemece Sanığın Tekrar Suç İşlemeyeceği Kanaatine Varılması
 
 Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özelliklerini göz önüne alarak yeniden suç işlemeyeceği kanaatine varırsa **hükmün açıklanmasının geri bırakılması** kararı verir. Hemen belirtelim ki yargıç, sanığın davranışlarını ve kişiliğini sübjektif kriterlere göre değerlendiremez. Yargıtay’ıın yerleşik içtihatlarına göre sanığın duruşma tutanaklarına yansıyan olumsuz bir davranışı ve bilinen olumsuz bir kişilik özelliği yoksa yargıç **HAGB** kararı vermelidir.
 
-#####(d)	Sanığın Hükmün Açıklanmasının Geri Bırakılmasını Kabul Etmediğine Dair Beyanının Olmaması
+####(d)	Sanığın Hükmün Açıklanmasının Geri Bırakılmasını Kabul Etmediğine Dair Beyanının Olmaması
 
 Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını kabul etmediğini beyan ederse yargıç, **hükmün açıklanmasının geri bırakılması**na karar veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
 
