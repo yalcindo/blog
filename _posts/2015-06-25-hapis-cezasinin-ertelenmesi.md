@@ -57,6 +57,7 @@ Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cez
 ---
 
 ###Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi
+---
 
 **Hapis cezasının ertelenmesi** halinde dahi ortada bir mahkumiyet hükmü vardır. Mahkumiyet hükmü yargılanan kişinin cezaevine girmemesi, velayet-vesayet hakkını kullanması gibi bazı sonuçlar dışında kişinin hayat alanına ceza hukuku müdahalesine neden olur. Hapis cezası ertelenen kişinin cezası 1 yıldan fazla ise, ceza infaz edilene kadar memuriyet veya milletvekilliği gibi kamu görevlerine aday olamaz.
 
@@ -67,6 +68,7 @@ Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cez
 ---
 
 ###Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
+---
 
 **Hapis cezasının ertelenmesi kararı** temyiz edilebilir. Mahkeme karar verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. **Temyiz incelemesi** Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
 
