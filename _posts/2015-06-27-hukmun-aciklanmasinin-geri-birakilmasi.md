@@ -7,7 +7,7 @@ summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama 
 ---
 ---
 
->
+
 ###Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
 ---
 
@@ -15,7 +15,6 @@ summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama 
 
 ---
 
->
 ###Hükmün Açıklanmasının Geri Bırakılması Şartları Nelerdir?
 ---
 
@@ -62,7 +61,6 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 
 ---
 
->
 ###Hükmün Açıklanmasının Geri Bırakılmasının Sonuçları ve Denetimli Serbestlik
 ---
 
@@ -71,7 +69,6 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 ---
 
->
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
 ---
 
@@ -81,7 +78,6 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 ---
 
->
 ###Hükmün Açıklanmasının Geri Bırakılması Kararınun Memurluğa Etkisi Nedir?
 ---
 
@@ -89,7 +85,6 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 ---
 
->
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? ( Sabıka Kaydına İşlenir mi? ) 
 
 **Hükmün açıklanmasının geri bırakılması kararı,** **adli sicil kaydına (sabıka kaydına)** işlenmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
