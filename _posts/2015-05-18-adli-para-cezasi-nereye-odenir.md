@@ -17,7 +17,7 @@ Mahkeme maddi durumunuza bakarak hükmettiği adli para cezasını peşin veya t
 
 ****ÖRNEKTİR :****
 
-****PARA CEZASI ÖDEME EMRİ****
+****ADLİ PARA CEZASI ÖDEME EMRİ****
 
 ÖDEME EMRİNİ ÇIKARAN  CUMHURİYET BAŞSAVCILIĞI    : 
 
@@ -36,29 +36,23 @@ HÜKMÜN TARİH VE NUMARASI  :
 HÜKMEDİLEN PARA CEZASININ MİKTARI VE NEVİ  : 
 
 ÖDENECEK PARA CEZASININ MİKTARI VE NEVİ       : 
-  
+ 
+Adli para cezası bağlanmış ise (          )  ödeme emrinin tebliğ tarihinden itibaren 1 ay içinde ilk taksiti ödemeniz ve kalan taksitleri birer aylık süreler içinde ödemeniz, adli para cezası mahkemece takside bağlanmamış ise,  ödeme emrinin tebliğinden itibaren 1 aylık süre içerisinde adli para cezasının 1/3 ’  nü, geri kalan kısmını birer ay ara ile iki eşit taksitte ödemeniz ; 
+	
+Taksitlendirme halinde taksitlerden birinin süresinde ödenmemesi halinde taksitlendirme işleminin hükümsüz kalacağı ,
+	
+Yasal süre olan 1 ay içinde ödeme yapılmaması halinde adli para cezasının tamamı üzerinden, taksitlerden birinin süresinde ödenmemesi halinde bakiye üzerinden 5275 sayılı Ceza ve Güvenlik Tedbirinin İnfazı hakkındaki Kanunun 106/3 maddesi gereğince, işbu adli para cezasının ödenmeyen kısmına karşılık gelen gün miktarınca hapse çevrileceği, hapis yerine iki (2) saat karşılığı bir (1) gün olmak üzere kamuya yararlı bir işte çalıştırılacağınız, günlük çalışma süresinin en az iki saat ve en çok sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirleneceği, hakkınızda hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine uymamanız halinde çalıştığınız günlerin hapis cezasından mahsup edilerek kalan kısmının tamamının açık ceza infaz kurumunda yerine getirileceğinin, 
+	
+Adli para cezasından çevrilen hapis cezası yerine kamuya yararlı bir işte çalıştırılmak veya açık ceza infaz kurumunda çektirilmek suretiyle infazı aşamasında bakiye adli para cezasının tamamının ödenmesi halinde, adli para cezasından çevrilme hapis cezası yerine kamuya yararlı bir işte çalıştırılma veya hapis cezasının açık ceza infaz kurumunda çektirilmesi uygulanmasına son verileceği, 
+	
+Adli para cezasından çevrilen hapis cezasının infazında erteleme ve koşullu salıverilme hükümlerinin uygulanmayacağı,
+Ödeme işlemleri için Cumhuriyet Başsavcılığımıza başvurabileceğiniz gibi bulunduğunuz yer Cumhuriyet Başsavcılığına da başvurabileceğiniz hususları TEBLİĞ olunur. 08/05/2015
+		
+	                            
+	         Zabıt Katibi			                                                             İstanbul Cumhuriyet Savcısı
+	         
+NOT:
+1- 5275 SK ’ nun (5351 sk değişik) 106/4 maddeleri gereğince çocuklar (18 yaşından) küçükler hakkında hükmedilen Adli Para Cezası ile hapisten çevrilen Adli Para Cezalarının ödenmemesi halinde bu cezalar hapse çevrilmez.106/11 maddesi gereğince mahallin en büyük mal memurluğunca 6183 sayılı Amme Alacaklarının Tahsili Usülü kanunu gereğince Adli Para Cezası tahsil edilir.
+2-5275 SK ’ nun 106/7 maddesi gereğince Adli Para Cezası yerine çekilen hapis süresi 3 yılı geçemez.
+3-5275 SK ‘ nun 106/7 md. 2. Madde birden fazla hükümle Adli Para Cezasına mahkumiyet halinde bu süre 5 yılı geçemez. 
 
-5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkındaki Kanunun 106/6 maddesi gereğince, mahkum olduğunuz Adli Para Cezasını,
-
-1-Tebliğ tarihinden itibaren, 30 GÜN içerisinde tamamını ödemeniz,
-
-2-Mahkemece takside bağlanmış ise, taksitlerden ilkini tebliğ tarihinden itibaren 30 GÜN içerisinde ödemeniz, geri kalan taksitleri de takip eden ayların aynı gününe kadar otuz günlük süreleri geçirmeden ödemeniz,
-  
-  3-Mahkemece takside bağlanmamış ise, tebliğden itibaren (Hükümlünün isteği üzerine) 30 GÜN süre içinde, Adli Para Cezasının 1/3 ünü yatırarak, geri kalanını da birer aylık iki eşit taksitte ödemeniz lüzumu,                    
-
-**Adli Para Cezasını Ödemediğiniz takdirde;**
-
-1)	Kamuya yararlı bir işte çalışmak isterseniz İki saat çalışmanız karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmanıza karar verileceği, günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirleneceği, hakkınızda hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine uymamanız halinde, çalıştığınız günler hapis cezasından mahsup edilerek kalan kısmın tamamı açık ceza infaz kurumunda yerine getirileceği,
-
-2)	Adli Para Cezasını 30 günlük yasal sürede ödemediğiniz adli para cezasının kamuya yararlı bir işte çalıştırılması tedbirine taktirde, hapse çevirme kararı verilerek, hakkınızda Yakalama Emri çıkarılacağı,
-
-3)	Adli Para Cezası takside bağlanmış olup da, ilk taksitin 30 günlük süresinde ödenmemesi veya taksitlerden birinin 30 günlük süresinde ödenmemesi halinde, kalan taksitlere ilişkin izinin hükümsüz kalacağı, adli para cezasının kamuya yararlı bir işte çalıştırılması tedbirine çevrileceği, tedbire uyulmaması hapse çevirme kararı verilerek, hakkınızda Yakalama Emri çıkarılacağı,
-
-4)	 Gün Para Cezası veya Hapisten Çevrilen Para Cezalarının ödenmemesi halinde, 5275 Sayılı Kanunun 106/3 maddesi gereği, Mahkemenin çevirdiği miktar (…………) üzerinden  hapse çevirme kararı verilerek, hakkınızda Yakalama Emri çıkarılacağı,
-
-5)	Doğrudan verilen Adli Para Cezalarının ve 5237 sayılı TCK dışındaki diğer Kanunlarda yer alan Adli Para Cezasının ödenmemesi halinde, (5275 sayılı Kanunun geçici 1. maddesi gereğince) hükümlü hakkında, 1 gün karşılığı 100 YTL   hesabı ile hapse çevirme kararı verilerek, hakkınızda Yakalama Emri çıkarılacağı, 
-
-Yakalama Emri üzerine yakalanan hükümlünün Cezaevine alınacağı, TEBLİĞ olunur.
- NOT: 5275 S.K'nun 106/4 maddesi gereğince Çocuklar (18 yaşından küçükler) hakkında hükmedilen Adli Para Cezası hapse çevrilmez. 106/11 maddesi gereğince mahallin en büyük mal memurluğunca(Vergi Dairesince), 6183 sayılı Amme Alacaklarının Tahsili Usulü Kanunu gereğince Adli Para Cezası tahsil edilir.
-
-CUMHURİYET   SAVCISI
