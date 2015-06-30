@@ -46,9 +46,7 @@ Yasal süre olan 1 ay içinde ödeme yapılmaması halinde adli para cezasının
 Adli para cezasından çevrilen hapis cezası yerine kamuya yararlı bir işte çalıştırılmak veya açık ceza infaz kurumunda çektirilmek suretiyle infazı aşamasında bakiye adli para cezasının tamamının ödenmesi halinde, adli para cezasından çevrilme hapis cezası yerine kamuya yararlı bir işte çalıştırılma veya hapis cezasının açık ceza infaz kurumunda çektirilmesi uygulanmasına son verileceği, 
 	
 Adli para cezasından çevrilen hapis cezasının infazında erteleme ve koşullu salıverilme hükümlerinin uygulanmayacağı,
-Ödeme işlemleri için Cumhuriyet Başsavcılığımıza başvurabileceğiniz gibi bulunduğunuz yer Cumhuriyet Başsavcılığına da başvurabileceğiniz hususları TEBLİĞ olunur. 08/05/2015
-
-	                       													Zabıt Katibi			                                                    İstanbul Cumhuriyet Savcısı
+Ödeme işlemleri için Cumhuriyet Başsavcılığımıza başvurabileceğiniz gibi bulunduğunuz yer Cumhuriyet Başsavcılığına da başvurabileceğiniz hususları TEBLİĞ olunur. 08/05/20    İstanbul Cumhuriyet Savcısı
 	         
 NOT:
 1- 5275 SK ’ nun (5351 sk değişik) 106/4 maddeleri gereğince çocuklar (18 yaşından) küçükler hakkında hükmedilen Adli Para Cezası ile hapisten çevrilen Adli Para Cezalarının ödenmemesi halinde bu cezalar hapse çevrilmez.106/11 maddesi gereğince mahallin en büyük mal memurluğunca 6183 sayılı Amme Alacaklarının Tahsili Usülü kanunu gereğince Adli Para Cezası tahsil edilir.
