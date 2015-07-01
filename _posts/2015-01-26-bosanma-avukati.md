@@ -15,6 +15,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 
 ###Boşanma Sebepleri
+---
 
 
 **Boşanma avukatı,** olguları değerlendirerek **boşanma davası** açmak için yeterli neden olup olmadığı araştırır. **Boşanma avukatı,** kendisine anlatılan olaylardan aşağıdaki **boşanma sebepleri**nin olup olamadığını araştırır:
@@ -36,6 +37,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 **Boşanma sebebi**nin doğru tespit edilmesi çok önemlidir. Çünkü, hakim davacının **boşanma sebebi**ne göre davayı inceleyecektir. Bu yüzden davanın hazırlık süreci mutlaka **boşanma avukatı** ile birlikte yürütülmelidir. 
 
 ###Boşanma Davası
+---
 
 **Boşanma avukatı,** doğru **boşanma sebepleri**ni tespit ettikten sonra dava dilekçesini buna göre hazırlayacaktır. Özellikle tarafların birbirlerinden boşanma dışında talepleri de olabilir. **Boşanma avukatı,** müvekkiline şu soruları sorarak talepleri netleştirmelidir:
 
@@ -51,6 +53,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 
 ###Boşanma Davası Süreci
+---
 
 
 Türkiye’de çekişmeli bir boşanma davası yaklaşık 1 -  2 yıl sürmektedir. Dava sürecinin kısa veya uzun sürmesinde davaya hazırlık sürecinin önemi büyüktür. **Boşanma sebebi**ne dayanak yapılan olgular yeterince delillendirilip ispatlanmışsa mahkeme süreci çok kısa da sürebilir. Tekraren vurgulamak gerekir ki dava dosyasında gereksiz bilgileri ayıklayan bir davaya hazırlık sürecinin yürütülmüş olması çok önemlidir. **Boşanma avukatı** tarafından hazırlanan dava dosyası hakim tarafından incelenir. Hakimin öncelikle dava dilekçesinin bir suretini usulüne uygun bir şekilde (tebligat yolu ile) davalı tarafa göndermesi gerekir. Davalının cevap dilekçesi de usulüne uygun bir şekilde davacıya gönderilmelidir. 
