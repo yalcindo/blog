@@ -13,7 +13,7 @@ summary: İdari Para Cezası Nedir? Hangi para cezaları idari para cezası say�
 
 **İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmediğinde** hapis cezasına çevrilemez. **İdari para cezası ödenmediğinde,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
-**İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedneiyle belediye encümeni tarfından verilen cezalar sayılabilir.
+**İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedeniyle belediye encümeni tarfından verilen cezalar sayılabilir.
 
 ####İdari Para Cezasının Adli Para Cezasından Farkı Nedir?
 ---
