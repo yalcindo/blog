@@ -2,15 +2,15 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, adli para cezasının infazı, ödeme, ödememe, erteleme, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, adli para cezası ertelenir mi? adli para cezası taksit yapılır mı? Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi halinde ne olur, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, hapis cezasının paraya çevrilmesi, adli para cezası ödeme, adli para cezasının ertelenmesi, Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler avukat baran doğan
 summary: Adli Para Cezası Nedir? Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları, Adli Para Cezasının Taksitle Ödenmesi Mümkün mü? Taksitlendirme şartları, Cezası Adli Para Cezasına Çevrilebilecek Suçlar? Adli Para Cezası Ertelenebilir mi? Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi? Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü? Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu? Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim?
 ---
 ---
 
-####Adli Para Cezası Nedir?
+####Adli Para Cezası Nedir? 
 ---
 
-TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer devlet kurumlarının verdiği cezalar idari para cezasıdır. **Adli para cezası,** idari para cezasından ayrı bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapse dönmez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
+TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
 
 
 ####Kaç Çeşit Adli Para Cezası Vardır?
@@ -43,12 +43,10 @@ Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (traf
 
 Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama, tehdit, cebir, şantaj, hakaret, kişisel verilerin kaydedilmesi suçu, özel hayatın gizliliğini ihlal suçu, hırsızlık, mala zarar verme, güveni kötüye kullanma, bedelsiz senedi kullanma, dolandırıcılık, suç eşyasının satın alınması veya kabul edilmesi, çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, mühür bozma veya fekki, özel belgede sahtecilik, açığa imzanın kötüye kullanılması, bilişim suçları, görevi kötüye kullanma, görevi yaptırmamak için direnme, iftira, suç üstlenme, suç uydurma, yalan tanıklık, suç delillerini yok etme, gizleme veya değiştirme, ses veya görüntülerin kayda alınması.
 
-
-
 ####Adli Para Cezası Ertelenebilir mi?
 ---
 
-**Adli para cezası**nın ertelenmesi mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
+**Adli para cezasının ertelenmesi,** kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez.
 
 Hapis cezasının ertelenmesi koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
