@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, hapis cezasının paraya çevrilmesi, adli para cezası ödeme, adli para cezasının ertelenmesi, Adli para cezası taksitlendirme, adli para cezası nereye ödenir, mahkeme para cezası, adli para cezası sicile işler mi? adli para cezasının ödenmemesi, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, hapis cezasının paraya çevrilmesi, adli para cezası ödeme, adli para cezasının ertelenmesi, Adli para cezası taksitlendirme, adli para cezası nereye ödenir, adli para cezasına itiraz, mahkeme para cezası, adli para cezası sicile işlenir mi? adli para cezasının ödenmemesi, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler avukat baran doğan
 summary: Adli Para Cezası Nedir? Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları, Adli Para Cezasının Taksitle Ödenmesi Mümkün mü? Taksitlendirme şartları, Cezası Adli Para Cezasına Çevrilebilecek Suçlar? Adli Para Cezası Ertelenebilir mi? Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi? Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü? Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu? Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim?
 ---
 ---
@@ -99,10 +99,12 @@ Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Haki
 Hakim, hükmettiği **adli para cezası**nı **taksitlendirme**yebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek **adli para cezasının ödenmesi**ni ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3 ' ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir. 
 
 
-####Adli Para Cezası Nereye Ödenir? Nasıl Ödenir?
+####Adli Para Cezası Nereye Ödenir? Nasıl Ödenir? Adli Para Cezasına İtiraz Edilebilir mi?
 ---
 
 Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
+
+Adli para cezası mahkeme tarafından verildiğinden mahkeme karına **itiraz** veya temyiz mümkündür. Fakat infaz aşamasına gelmiş **adli para cezasına  itiraz** edilemez.
 
 ####Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 ---
