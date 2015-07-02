@@ -45,6 +45,7 @@ Bazı idari kurumların verdiği cezalara karşı özel kanunlarındaki hüküml
 Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen kişi askerdeyse, **idari para cezası**nın tahsili askerliğin bitiminden sonraya bırakılmaktadır.
 
 ####Sosyal Güvenlik Kurumu (SGK) İdari Para Cezalarına İtiraz Süresi Nedir? Nereye İtiraz edilir?
+---
 
 5510 sayılı SGK Kanunu’nu ( md. 83, 85, 86), Sosyal Güvenlik Kurumu’nun verdiği **idari para cezaları**na karşı genel itiraz yolundan ayrı bir itiraz yolu düzenlemiştir. SGK’nın verdiği idari para cezalarına karşı doğrudan mahkemeye dava açmak mümkün değildir. Dava açamadan önce idari itiraz yollarının kullanılması gerekir. SGK bünyesinde İdari Para Cezasına İtiraz Komisyonları bulunmaktadır. Hakkında idari para cezası verilen kişi veya kurum öncelikle para cezasına karşı, SGK bünyesindeki İdari Para Cezası İtiraz Komisyonu’na 15 gün içinde bizzat veya iadeli taahhütlü mektupla itiraz edebilir. **İdari Para Cezasına İtiraz** Komisyonu, ilgili kişinin itirazını reddederse, red kararının tebliğinden itibaren 30 gün içinde İdare Mahkemesi’ne cezanın iptali için dava açılmalıdır. 
 
