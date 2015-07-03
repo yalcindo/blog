@@ -109,7 +109,19 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 Tehdit suçunda, şantaj suçunda ve konut dokunulmazlığını ihlal suçunda etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
 
-**Etkin pişmanlık nedeniyle ceza indirimi,** birçok suçun ortaya çıkmasına ve suç faillerinin yakalanmasına hizmet ettiği için önemli bir ceza hukuku kurumu olarak kabul edilmektedir. Tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza everilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
+
+###Etkin Pişmanlık Ceza İndiriminden Kaç Kez Yararlanılabilir? 
+---
+
+**Etkin pişmanlık ceza indirimi,** yukarıda açıkladığımız koşulların gerçekleşmesi, yani zararın giderilmesi veya suç ortaklarının açıklanması kaydıyla her suç için ayrı ayrı yararlanılabilecek bir kurumdur. İşlenen suçun sayısına bağlı olmadan sanık ceza indiriminden her olay için ayrı ayrı yararlanır. 
+
+###Sabıkalı Kişiler Etkin Pişmanlık Hükümlerinden Yararlanabilir mi?
+---
+
+Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları yerine getirmesi yeterlidir. Kişinin daha önce sabıkalı olup olmaması bir ölçü olarak kabul edilemez.
+
+
+**Etkin pişmanlık nedeniyle ceza indirimi,** birçok suçun ortaya çıkmasına ve suç faillerinin yakalanmasına hizmet ettiği için önemli bir ceza hukuku kurumu olarak kabul edilmektedir. Tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
 
 **Avukat Baran Doğan**
 
