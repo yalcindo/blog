@@ -6,6 +6,7 @@ googleAnahtar: Hükmün açıklanmasının geri bırakılması, Ceza avukatı, h
 summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama geldiği, şartları, sonuçları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 ---
+---
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
