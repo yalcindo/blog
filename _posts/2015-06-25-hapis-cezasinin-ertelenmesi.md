@@ -6,6 +6,7 @@ googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmes
 summary: Hapis Cezasının Ertelenmesi Nedir? Hapis Cezasının Ertelenmesi Şartları, Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler, Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi, Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
 ---
 ---
+---
 
 ###Hapis Cezasının Ertelenmesi, Ceza Erteleme Nedir? 
 ---
