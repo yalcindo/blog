@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, hapis cezasının paraya çevrilmesi, adli para cezası ödeme, adli para cezasının ertelenmesi, Adli para cezası taksitlendirme, adli para cezası nereye ödenir, adli para cezasına itiraz, mahkeme para cezası, adli para cezası sicile işlenir mi? adli para cezasının ödenmemesi, denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler avukat baran doğan
+googleAnahtar: Adli para cezası, ceza avukatı, 1 yıl, 2 yıl 1 ay, 3 yıl, 4 yıl, hapis cezasının paraya çevrilmesi, adli para cezası ödeme, adli para cezası nereye ödenir, adli para cezasının ödenmemesi, adli para cezasının ertelenmesi, Adli para cezası taksitlendirme, adli para cezasına itiraz, mahkeme para cezası, adli para cezası sicile işlenir mi?  denetimli serbestlik, bakırköy avukat, ataköy, bahçelievler, şirinevler avukat baran doğan
 summary: Adli Para Cezası Nedir? Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları, Adli Para Cezasının Taksitle Ödenmesi Mümkün mü? Taksitlendirme şartları, Cezası Adli Para Cezasına Çevrilebilecek Suçlar? Adli Para Cezası Ertelenebilir mi? Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi? Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü? Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu? Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim?
 ---
 ---
@@ -50,7 +50,6 @@ Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama, 
 
 Hapis cezasının ertelenmesi koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
-
 ####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 ---
 
@@ -60,15 +59,14 @@ TCK, bazı suçlara yukarıda açıkladığımız üzere **doğrudan adli para c
 
 TCK, hapis veya adli para cezalarından herhangi birinin sanığa ceza olarak verilmesini seçimlik ceza olarak düzenleyebilmektedir. **Adli para cezası**nın seçimlik ceza olarak düzenlendiği bu tarz suçlarda, adli para cezasına mahkumiyet halinde bu ceza hakkında hükmün açıklanmasının geri bırakılmasına karar verilebilir.
 
-**Hapis cezasından çevrilen veya hapis cezasıyla birlikte verilen adli para cezaları hakkında hükmün açıklanmasının geri bırakılması kararı verilemez.**
-
-
+**Hapis cezasından çevrilen adli para cezaları hakkında hükmün açıklanmasının geri bırakılması kararı verilemez.**
 
 ####Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu?
 ---
 
 Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. **Adli para cezasının ödenmemesi,** hükümlünün belli bir prosedüre göre bazı yükümlülükler içerisine girmesini gerektirir. Ödeme emri üzerine **adli para cezası ödenmezse,** Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine **uymaması** hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili **denetimli serbestlik** kurallarına uymayan hükümlü ile ilgili **adli para cezası**, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
 
+**Adli para cezasının ödenmemesi,** hükümlünün tüm haklarını kaybetmesine yol açmaz. Hükümlü ödeme yaparak her zaman cezadan kurtulabilir.
 
 ####18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
 ---
@@ -115,7 +113,7 @@ Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şe
 ####Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim? 
 ---
 
-Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır. Adli para cezasına ilişkin sabıka kaydının nasıl silineceğine dair bilgilere ve dilekçe örneğine sitemizdeki şu linkten ulaşabilirsiniz: [**Adli Sicil Kaydının Silinmesi ve Dilekçe Örneği**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+**Adli para cezası** da aynen hapis cezası gibi adli sicil kaydına işler. **Adli sicil kaydı,** yani **sabıka kaydı** aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki **adli sicil kaydı** silinerek bilgiler arşiv kaydına alınır. **Adli para cezasına ilişkin sabıka kaydı**nın nasıl silineceğine dair bilgilere ve dilekçe örneğine sitemizdeki şu linkten ulaşabilirsiniz: [**Adli Sicil Kaydının Silinmesi ve Dilekçe Örneği**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
 
 
