@@ -27,7 +27,7 @@ Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olar
 
 **İdari para cezası,** cezanın muhatabı olan kişiye gönderildiğinde bu cezaya **itiraz süresinin ve itiraz mercii**nin gösterilmesi gerekir. Fakat uygulamada para cezalarının usulsüz bir şekilde muhataplarına tebliğ edildiği, itiraz süresi ve itiraz edilecek merciin gösterilmediği görülmektedir. İtiraz süresi ve merciinin tebligatta gösterilmesi zorunluluğunun önemi şu ki bazı idari kurumların özel kanunlarında 15 günlük genel itiraz süresinden ayrı bir itiraz süresi mevcuttur. 
 
-Danıştay kararlarına göre, idari işlemlerde itiraz süresinin gösterilmemesi halinde uygulanacak itiraz süresi 60 gündür (Danıştay 14. Dairesi – 2013/697 karar). Devletin idari kurumları tarafından düzenlenen idari yaptırım kararlarında, idari yaptırım kararına karşı hangi mahkemeye gidileceği veya varsa itiraz edilecek başka idari makam, bu idari idari makamın ve başvuru sürelerinin gösterilmesi hukuki bir gerekliliktir, bu gereklilik ise ilgili makamların takdirinde olmayıp, en üst hukuki norm olan Anayasanın bağlayıcılığının zorunlu bir sonucudur.
+Danıştay kararlarına göre, idari işlemlerde itiraz süresinin muhataba bildirilmemesi halinde uygulanacak itiraz süresi 60 gündür (Danıştay 14. Dairesi – 2013/697 karar). Devletin idari kurumları tarafından düzenlenen idari yaptırım kararlarında, idari yaptırım kararına karşı hangi mahkemeye gidileceği veya varsa itiraz edilecek başka idari makam, bu idari idari makamın ve başvuru sürelerinin gösterilmesi hukuki bir gerekliliktir, bu gereklilik ise ilgili makamların takdirinde olmayıp, en üst hukuki norm olan Anayasanın bağlayıcılığının zorunlu bir sonucudur.
 
 ####İdari Para Cezasına Nereye İtiraz Edilir? 
 ---
@@ -50,6 +50,16 @@ Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen ki�
 5510 sayılı SGK Kanunu’nu ( md. 83, 85, 86), Sosyal Güvenlik Kurumu’nun verdiği **idari para cezaları**na karşı genel itiraz yolundan ayrı bir itiraz yolu düzenlemiştir. SGK’nın verdiği idari para cezalarına karşı doğrudan mahkemeye dava açmak mümkün değildir. Dava açamadan önce idari itiraz yollarının kullanılması gerekir. SGK bünyesinde İdari Para Cezasına İtiraz Komisyonları bulunmaktadır. Hakkında idari para cezası verilen kişi veya kurum öncelikle para cezasına karşı, SGK bünyesindeki İdari Para Cezası İtiraz Komisyonu’na 15 gün içinde bizzat veya iadeli taahhütlü mektupla itiraz edebilir. **İdari Para Cezasına İtiraz** Komisyonu, ilgili kişinin itirazını reddederse, red kararının tebliğinden itibaren 30 gün içinde İdare Mahkemesi’ne cezanın iptali için dava açılmalıdır. 
 
 Sigortasız çalıştırma, eksik gün veya kazanç bildirimi nedeniyle SGK tarafından prim borcu tahakkuk ettirilen ve prim borcunun ödenmesi için tebligat yapılan işverenler, tebliğ tarihinden itibaren 1 ay içinde prim borcunu tahakkuk ettiren ünitenin Ünite Prim Tahakkuk İtiraz Komisyonu’na itiraz etmelidir. İtiraz reddedildiği takdirde işverenin 1 ay içinde yetkili Sosyal Güvenlik Kurumu İl Müdürlüğü’nün bulunduğu yerdeki İş Mahkemesi’ne dava açması gerekir. 
+
+####Trafik Para Cezası ile Birlikte Verilen Aracın Trafikten Men Edilmesi Kararın Karşı Nereye İtiraz Edilir? İtiraz Süresi Nedir?
+---
+
+Trafik para cezasına karşı itiraz yeri Sulh Ceza Hakimliği'dir. Fakat, trafik idari para cezasıyla birlikte aracın da trafikten men edilmesine karar verilebilir. Böyle bir karar verilmişse, yetkili mahkeme Sulh Ceza Hakimliği değil, kararı veren polis biriminin bulunduğu yerin İdare Mahkemesidir. İdare Mahkemesi, hem trafik para cezasının hem de trafikten men kararının iptali açısından yetkili mahkemedir. Dava açama süresi kararın tebliğinden itibaren 60 gündür.
+
+####Sürücü Belgesinin Geçici Olarak Geri Alınması Kararına Karşı Nereye İtiraz edilir? İtiraz Süresi Nedir?
+
+2918 sayılı Kanunu'nun 112. maddesi 2013 yılında değiştirilmiştir. Bu kanun değişikliğine göre, sürücü belgesinin geri alınması kararına karşı Sulh Ceza Hakimliği'ne itiraz edilebilir. İtiraz süresi 15 gündür.
+
 
 ####İdari Para Cezaları Nereye Ödenir?
 ---
