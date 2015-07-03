@@ -55,6 +55,8 @@ Suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde c
 
 Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
 
+**Yağma suçu**nun unsurları ve cezası ile ilgili daha ayrıntılı açıklamalar için bakınız: [**Yağma Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html)
+
 ####2-) Mala Zarar Verme Suçu, Hırsızlık Suçu, Dolandırıcılık Suçu, Güveni Kötüye Kullanma Suçu Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-2)
 
 **Mala zarar verme suçu,** doğrudan malvarlığına yönelik bir suç olduğundan **etkin pişmanlık** nedeniyle **ceza indirimi**nin en kolay uygulanabileceği suçlardandır.
