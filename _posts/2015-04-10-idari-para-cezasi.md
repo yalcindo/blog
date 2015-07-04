@@ -9,7 +9,7 @@ summary: İdari Para Cezası Nedir? Hangi para cezaları idari para cezası say�
 ####İdari Para Cezası Nedir?
 ---
 
-**İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. **İdari para cezası** verebilecek kurumlar şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü).
+**İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. **İdari para cezası** verebilecek kurumların bazıları şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü).
 
 **İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmediğinde** hapis cezasına çevrilemez. **İdari para cezası ödenmediğinde,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
@@ -18,7 +18,7 @@ summary: İdari Para Cezası Nedir? Hangi para cezaları idari para cezası say�
 ####İdari Para Cezasının Adli Para Cezasından Farkı Nedir?
 ---
 
-Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler, idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları** ödenmediğinde yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** borçlunun hapse girmesi gibi bir durum söz konusu olamaz.
+Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları** ödenmediğinde yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** ödenmediğinde borçlunun hapse girmesi gibi bir durum söz konusu olamaz.
 
 ####İdari Para Cezasına İtiraz Süresi 
 ---
@@ -37,7 +37,7 @@ Danıştay kararlarına göre, idari işlemlerde itiraz süresinin muhataba bild
 
 Bazı idari kurumların verdiği cezalara karşı özel kanunlarındaki hükümler gereği idare mahkemesine iptal davası açmak gerekir. Örneğin, SGK’nın verdiği idari para cezaları.
 
-####Askerlik Nedeniyle Yoklama Kaçağı, Bakaya Kalma Nedeniyle Verilen İdari Para Cezasına İtiraz Süresi Nedir? Nereye İtiraz Edilir?
+####Yoklama Kaçağı, Bakaya Kalma Nedeniyle Verilen İdari Para Cezasına İtiraz Süresi Nedir? Nereye İtiraz Edilir?
 ---
 
 1111 sayılı Askerlik Kanunu’nun 86. Maddesi gereği, yoklama kaçağı cezası ve bakaya cezası hukuki niteliği itibariyle **idari para cezası** olup il veya ilçe idare kurulları tarafından verilmektedir. İlçe İdare Kurulları kaymakamlık bünyesinde, İl İdare Kurulları ise valilik bünyesinde görev yapan kurullardır. Bu kurulların verdiği yoklama kaçağı veya bakaya kalma nedeniyle verilen **idari para cezası** kararlarına karşı, kararın muhatabına ulaşmasından itibaren 15 gün içinde kararı veren idarenin bulunduğu yerin yetkili Sulh Ceza Hakimliğine itiraz edilebilir.
@@ -51,7 +51,7 @@ Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen ki�
 
 Sigortasız çalıştırma, eksik gün veya kazanç bildirimi nedeniyle SGK tarafından prim borcu tahakkuk ettirilen ve prim borcunun ödenmesi için tebligat yapılan işverenler, tebliğ tarihinden itibaren 1 ay içinde prim borcunu tahakkuk ettiren ünitenin Ünite Prim Tahakkuk İtiraz Komisyonu’na itiraz etmelidir. İtiraz reddedildiği takdirde işverenin 1 ay içinde yetkili Sosyal Güvenlik Kurumu İl Müdürlüğü’nün bulunduğu yerdeki İş Mahkemesi’ne dava açması gerekir. 
 
-####Trafik Para Cezası ile Birlikte Verilen Aracın Trafikten Men Edilmesi Kararın Karşı Nereye İtiraz Edilir? İtiraz Süresi Nedir?
+####Trafik Para Cezası ile Birlikte Verilen Aracın Trafikten Men Edilmesi Kararına Karşı Nereye İtiraz Edilir? İtiraz Süresi Nedir?
 ---
 
 Trafik para cezasına karşı itiraz yeri Sulh Ceza Hakimliği'dir. Fakat, trafik idari para cezasıyla birlikte aracın da trafikten men edilmesine karar verilebilir. Böyle bir karar verilmişse, yetkili mahkeme Sulh Ceza Hakimliği değil, kararı veren polis biriminin bulunduğu yerin İdare Mahkemesidir. İdare Mahkemesi, hem trafik para cezasının hem de trafikten men kararının iptali açısından yetkili mahkemedir. Dava açama süresi kararın tebliğinden itibaren 60 gündür.
