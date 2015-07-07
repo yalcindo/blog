@@ -117,7 +117,7 @@ Mahkemenin hükmettiği **adli para cezası,** yukarıda açıkladığımız şe
 
 ####Adli Para Cezası Sorgulama
 
-Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilmişse, **adli para cezası sorgulama** yoluyla sicilinizle ilgili bilgi almanız mümkün. **Adli para cezası sorgulama** internetten yalnızca şu resmi web sitesinden sorgulanabilir: [Adli Para Cezası Sorgulama](https://www.turkiye.gov.tr/sorgula)
+Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilmişse, **adli para cezası sorgulama** yoluyla sicilinizle ilgili bilgi almanız mümkün. **Adli para cezası sorgulama** internetten yalnızca şu resmi web sitesinden sorgulanabilir: [**Adli Para Cezası Sorgulama**](https://www.turkiye.gov.tr/sorgula)
 
 
 
