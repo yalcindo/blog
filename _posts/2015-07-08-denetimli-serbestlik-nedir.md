@@ -6,21 +6,21 @@ googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetim
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğ Uymama ve Sonuçları
 ---
 
-=
+
 
 ###1. Denetimli Serbestlik Nedir?
-=
+
 
 **Denetimli serbestlik,** yasa tarafından belirlenen deneme süresinde, kişinin cezasının sosyal hayat içerisinde infazına olanak sağlayan bir ceza hukuku kurumudur. Suç işleyen kişi sosyal yaşam içerisinde **denetimli serbestlik** yoluyla gözlemlenmektedir. **Denetimli serbestlik yasası,** kişinin ailesiyla bağlarını sürdürebilmesi ve dış dünyayayla uyum sağlayabilmesi gerekçesiyle çıkartılmış bir kanundur. Hükümlü cezasını cezaevinde infaz ederken koşullu salıverilmesine bir süre kalınca tahliye edilerek dışarda denetim altında tutulmaktadır. Denetimli serbestliğin birçok çeşidi vardır, biz bu yazımızda 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesi gereği getirilen denetimli serbestlik uygulamasından bahsedeceğiz.
 
 
 ###2. Denetimli Serbestlik Yasası
-=
+
 
 **Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 05.04.2012 yılında çıkarılan bir kanunla 5275 sayılı Ceza İnfaz Kanunu’na yapılan ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
 
 ###3. Denetimli Serbestlik Kaç Yıl 
-=
+
 
 Bu başlıkta bahsedeceğimiz **denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Bu hükme göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin talebi üzerine cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir.
 
@@ -29,7 +29,7 @@ Bu başlıkta bahsedeceğimiz **denetimli serbestlik yasası,** ancak cezaevinde
 Maruz kaldıkları ağır hastalık, yaşlılık ve kocama nedeniyle hayatlarını yalnız sürdüremeyenler koşullu salıverilmelerine 3 yıl veya daha az süre kaldığında denetimli serbestlik uygulaması yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
 
 ###4. Denetimli Serbestlik Şartları
-=
+
 
 **Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
@@ -81,14 +81,14 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 
 
 ###6. Denetimli Serbestlik Kanunu’nu İhlal Etmenin Sonuçları
-=
+
 
 **Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik kanunu**nu ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani denetimli serbestlik dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
 
 Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluğunun bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler içinde geçerlidir.
 
 ###7.  Denetimli Serbestlik Sorgulama
-=
+
 
 **Denetimli serbestlik uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
 
