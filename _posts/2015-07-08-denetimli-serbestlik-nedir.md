@@ -2,7 +2,7 @@
 layout: blog
 title: Denetimli Serbestlik Nedir?
 category: ceza-hukuku
-googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması, Ceza avukatı, bakırköy avukat
+googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması, bakırköy avukat
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğe Uymama ve Sonuçları
 ---
 
@@ -93,3 +93,5 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 **Denetimli serbestlik uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
 
 Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
+
+**Bakırköy - Avukat Baran Doğan**
