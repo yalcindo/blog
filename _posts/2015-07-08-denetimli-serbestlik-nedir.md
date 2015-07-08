@@ -59,7 +59,7 @@ Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için “iy
 Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan sonra deyim yerindeyse gözlenmeye başlar. Kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
 ###5. Denetimli Serbestliğe Uymama
-===
+=
 
 Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. **Denetimli serbestliğe uymama** halinde kişinin yararlandığı infaz şekli ortadan kalkar. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
