@@ -5,8 +5,8 @@ category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması, Ceza avukatı, bakırköy avukat
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğ Uymama ve Sonuçları
 ---
----
----
+
+===
 
 ###1. Denetimli Serbestlik Nedir?
 ===
