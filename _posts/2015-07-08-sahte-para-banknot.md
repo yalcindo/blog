@@ -15,7 +15,7 @@ Piyasada çok sayıda sahte 200 TL’lik banknot bulunduğu gerekçesiyle tüm b
 
 Piyasaya sürülen sahte paraların gerçeğine çok yakın bir şekilde dizayn edildiği tarafıma söylenmiştir. Sahte para ihtimali nedeniyle birçok banka ATM’si 200 TL’lik banknotları kabul etmemektedir.
 
-	Bilgi Edinme Hakkı Kanunu çerçevesinde şu hususlarda tarafıma bilgi verilmesini talep ediyorum:
+Bilgi Edinme Hakkı Kanunu çerçevesinde şu hususlarda tarafıma bilgi verilmesini talep ediyorum:
 	
 1.	Piyasaya sahte para sürüldüğü doğru mudur?
 
@@ -31,5 +31,5 @@ Piyasaya sürülen sahte paraların gerçeğine çok yakın bir şekilde dizayn 
                                                                     (Avukat-İstanbul Barosu-Sicil :26632)
 
 
-![Merkez Bankası'nın "Gizli" İbareli Cevap Yazısı](https://plus.google.com/+BarandoganAvTr/posts/KfwrRhNJPun)
+! [Merkez Bankası'nın "Gizli" İbareli Cevap Yazısı](https://plus.google.com/+BarandoganAvTr/posts/KfwrRhNJPun?pid=6169074654559881282&oid=109509540425455356557)
 
