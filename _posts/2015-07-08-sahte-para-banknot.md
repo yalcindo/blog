@@ -31,5 +31,5 @@ Bilgi Edinme Hakkı Kanunu çerçevesinde şu hususlarda tarafıma bilgi verilme
                                                                     (Avukat-İstanbul Barosu-Sicil :26632)
 
 
-! [**MERKEZ BANKASI'NIN "GİZLİ" İBARELİ CEZAVAP YAZISI**](https://plus.google.com/+BarandoganAvTr/posts/KfwrRhNJPun?pid=6169074654559881282&oid=109509540425455356557)
+! [**MERKEZ BANKASI'NIN "GİZLİ" İBARELİ CEVAP YAZISI**](https://plus.google.com/+BarandoganAvTr/posts/KfwrRhNJPun?pid=6169074654559881282&oid=109509540425455356557)
 
