@@ -92,4 +92,4 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 
 **Denetimli serbestlik uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
 
-Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir
+Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
