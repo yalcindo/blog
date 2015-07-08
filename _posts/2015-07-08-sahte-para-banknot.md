@@ -27,8 +27,8 @@ Bilgi Edinme Hakkı Kanunu çerçevesinde şu hususlarda tarafıma bilgi verilme
 
 5.	Sahte paradan dolayı vatandaşın herhangi bir zararı doğarsa tarafınızdan karşılanacak mıdır?
 
-                                                                    Baran Doğan
-                                                                    (Avukat-İstanbul Barosu-Sicil :26632)
+                                                                 Baran Doğan
+                                                                (Avukat-İstanbul Barosu-Sicil :26632)
 
 
 ! [**MERKEZ BANKASI'NIN "GİZLİ" İBARELİ CEVAP YAZISI**](https://plus.google.com/+BarandoganAvTr/posts/KfwrRhNJPun?pid=6169074654559881282&oid=109509540425455356557)
