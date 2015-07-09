@@ -9,31 +9,35 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 ---
 
 ###Yağma Suçu (Gasp Suçu) Nedir? 
----
+
 
 **Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. **Yağma suçu,** hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
 
 ###Yağma Suçunun (Gasp Suçunun) Koşulları
----
 
-####1- Başkasına Ait Olan Malın Alınması: 
+
+####1- Başkasına Ait Olan Malın Alınması 
+---
 
 **Gasp (Yağma) suçu** ile hırsızlık suçunun en önemli ortak unsuru başkasına ait malın alınmasıdır. Başkasının malın zilyedi olması yeterlidir, zilyedin elinden malın alınmasıyla her iki suç oluşur. Zilyedlik, bir mal üzerinde fiili hakimiyete sahip olma anlamına gelmektedir. Bu nedenle mülkiyet kavramından daha geniş bir kavramdır.  Aynı ev içerisinde yaşayanlar ev eşyaları üzerinde birlikte zilyetlik hakkına sahip olduklarından, aynı ev içerisinde yaşayan kişilerin ortak ev eşyalarını alması halinde hırsızlık veya **gasp suçu** oluşmaz. Doktrinde ve uygulamada yalnız taşınır malların alınmasının yağma ve hırsızlık suçuna vücut verebileceği kabul edilmektedir.
 
 **Senet yağması** da ayrı bir fıkra ile TCK md.148’de düzenlendiğinden, bir borç senedinin cebir veya tehdit kullanılarak alınması veya borç senedini hükümsüz kılacak makbuzun mağdurun elinden alınması da **yağma suçu**nu oluşturur. 
 
-####2- Cebir ve Tehdit:  
+####2- Cebir ve Tehdit  
+---
 
 Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın zilyedinin rızası dışında alınmaktadır. Oysa **gasp suçu**nda başkasının zilyedi olduğu mal, cebir ve tehdit kullanılarak alınmaktadır. Cebir ve tehdit, iki suç arasındaki ayrım çizgisidir. **Yağma suçu,** mağdurun kendisinin veya başkasının hayatı, vücut veya cinsel dokunulmazlığına karşı saldırı yapılacağına veya malvarlığı yönünden büyük zarara uğratılacağından bahisle tehdit edilmesi veya cebir kullanılması ile oluşur.
 
 ###Yağma Suçunun (Gasp Suçunun) Cezası Ne Kadar?
----
+
 
 ####1-) Gasp Suçunun Basit Şekli: 
+---
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütüyle bağlantısı olmaksızın, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır. **Yağma suçu**nun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
 ####2-) Gasp Suçunun Nitelikli Şekli: 
+---
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi **gasp suçu**nun nitelikli bir şekilde işlenmesidir:
 
@@ -58,14 +62,14 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 **Yağma suçu**nun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla **gasp suçu** işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç hangi oranda alt sınırdan ayrılacağına kendisi karar verecektir. Fakat, suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
 
 ###Yağma Suçunda Malın Değerinin Azlığı veya Alacağın Tahsili Amacıyla İşlenmesi Halinde Cezada İndirim
----
+
 
 Suçu işleyen kişinin bir alacağını tahsil amacıyla mağdura karşı tehdit veya cebir kullanması halinde, ancak tehdit veya kasten yaralama suçundan ceza verilebilir. Bu durumda gasp suçundan ceza verilemez.
 
 **Yağma suçu**nun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma 1 TL para gibi mal veya paranın **gasp** edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde bu kural uygulanmaktadır, yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
 
 ###Yağma Suçunda Etkin Pişmanlık Halinde Ceza İndirimi
----
+
 
 **Etkin pişmanlık,** kişinin işlediği fiilden dolayı hiçbir baskı ve zorlama olmadan pişmanlık duyması ve ortaya çıkan haksızlığı telafi edecek davranışlar sergilemesidir.
 
