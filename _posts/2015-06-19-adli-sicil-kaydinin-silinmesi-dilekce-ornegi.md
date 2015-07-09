@@ -9,7 +9,7 @@ summary: Hangi mahkeme kararlarının adli sicile işlenebileceği, adli sicil k
 ---
 
 ###Adli Sicil Kaydı Nedir?
----
+
 
 Kesinleşmiş mahkeme kararına dayanılarak kişiler hakkında ceza ve güvenlik tedbirlerine ilişkin bilgilerin kaydedildiği sisteme “adli sicil” denilmektedir. **Adli sicil kaydı**na halk dilinde **sabıka kaydı** da denilmektedir.
 
@@ -55,7 +55,7 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 
 
 ###Adli Sicil Kaydı Ne Zaman Silinir? Nasıl Silinir?
----
+
 
 1) Eğer ceza ve güvenlik tedbirinin infazı tamamlanmışsa adli sicil kaydı infazın tamamlanmasıyla kendiliğinden silinmelidir. İnfazın tamamlanmasından anlaşılması gereken, ceza hapis cezasıysa bihakkın tahliye tarihi veya denetim süresinin son bulduğu tarihtir. Ceza adli para cezası ise, adli para cezasının ödendiği tarih veya tazyik hapsine çevrilmişse cezaevinden çıkış tarihidir. Örneğin, 3 yıllık kesinleşen cezası için 01.01.2010 tarihinde cezaevine giren, denetimli serbestlik uygulamasından yararlanarak 01.01.2011 tarihinde tahliye edilen bir kişinin **adli sicil kaydı ( sabıka kaydı )** 01.01.2013 tarihinden sonraki gün silinebilir hale gelecektir.
 
