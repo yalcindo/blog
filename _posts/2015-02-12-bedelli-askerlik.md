@@ -20,10 +20,13 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 [Bedellide 12.000 TL'yi İade Etmeyen Bakanlığa Dava Açtı - ***CNNTÜRK HABER***](http://www.cnnturk.com/haber/turkiye/bedellide-12-bin-lirasini-iade-etmeyen-bakanliga-dava-acti) 
 ---
 
+[Bedellide 12 Bin Lirasını İade Etmeyen Bakanlığa Dava Açtı - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Bedellide-12-bin-lirasini-iade-etmeyen-bakanliga-dava-acti_0073-CHMTY2MDA3My8x)
+---
+
 [Bedelliden Yararlanan Avukat 12.000 TL Fark için Dava Açtı - ***BİRGÜN GAZETESİ***](http://www.birgun.net/news/view/2011de-bedelliden-yararlanan-avukat-12-bin-tl-fark-icin-dava-acti/12451)
 ---
 
-[Bedellide 12 Bin Lirasını İade Etmeyen Bakanlığa Dava Açtı - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Bedellide-12-bin-lirasini-iade-etmeyen-bakanliga-dava-acti_0073-CHMTY2MDA3My8x)
+[Askeri başsavcılık: Bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
 ---
 
 
