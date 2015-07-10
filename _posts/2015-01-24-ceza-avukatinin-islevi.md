@@ -5,10 +5,9 @@ category: ceza-hukuku
 googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, avukat,  ceza avukatı nedir, bakırköy ataköy avukat baran doğan
 summary: Ceza avukatı ve ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
----
----
 
-###Ceza Avukatı
+
+###Ceza Avukatı Nedir?
 
 
 Türkiye’de **ceza avukatı** adı altında ayrı bir avukatlık dalı yoktur. Halk arasında ceza soruşturmalarını ve davalarını takip eden avukatlara **ceza avukatı** denildiği için biz de makalemizde **ceza avukatı** kavramını kullanacağız.
@@ -28,7 +27,7 @@ Soruşturma, suç işlendikten sonra başlayan bir faaliyettir. Polis, Jandarma 
 Hakkınızda suç şüphesi varsa ceza hukuku anlamında “şüpheli” durumuna geçersiniz. Soruşturma aşamasında, yani suç isnadının yapıldığı andan hakkınızda bir iddianameyle dava açılmasına kadar geçen sürede şüpheli sıfatınız devam eder. **Ceza avukatı**, bu aşamadan itibaren şüphelinin savunulması amacıyla ilk önce şüpheli hakkındaki iddiaları ve delilleri inceler.
 
 ###Ceza avukatı hakkımdaki iddiaları içeren dosyayı inceleyebilir mi? Ceza avukatının dosya inceleme ve savunma yapabilmesi için vekaletname gerekir mi?
----
+
 
 **Ceza avukatı**nın dosya inceleme yetkisi hem Ceza Muhakemesi Kanunu hem de Avukatlık Kanunu’ndan kaynaklanan mesleki bir haktır. **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
 
