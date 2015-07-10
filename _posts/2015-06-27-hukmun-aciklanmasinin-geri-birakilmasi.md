@@ -2,7 +2,7 @@
 layout: blog
 title: Hükmün Açıklanmasının Geri Bırakılması
 category: ceza-hukuku
-googleAnahtar: Hükmün açıklanmasının geri bırakılması, Ceza avukatı, hükmün açıklanmasının geri bırakılması kararına itiraz, ceza davası, denetimli serbestlik, ceza avukatı arıyorum istanbul
+googleAnahtar: Hükmün açıklanmasının geri bırakılması, Ceza avukatı, hükmün açıklanmasının geri bırakılması kararına itiraz, ceza davası, denetimli serbestlik, ceza avukatı arıyorum istanbul, avukat baran doğan
 summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama geldiği, şartları, sonuçları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 ---
