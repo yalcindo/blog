@@ -2,8 +2,8 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, sanık, şüpheli savunma, mahkeme, gözaltı haklarım, avukat, dosya inceleme, ceza avukatı nedir, bakırköy ataköy avukat
-summary: Ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
+googleAnahtar: Ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, avukat,  ceza avukatı nedir, bakırköy ataköy avukat baran doğan
+summary: Ceza avukatı ve ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
 ---
 ---
