@@ -80,14 +80,26 @@ imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasa
 Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
 
-###6. Denetimli Serbestlik Kanunu’nu İhlal Etmenin Sonuçları
+###6. Denetimli Serbestlik Yasası'nı İhlali ve Sonuçları
 
 
-**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik kanunu**nu ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani denetimli serbestlik dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
+**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik yasası**nı ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani denetimli serbestlik dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
 
 Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluğunun bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler içinde geçerlidir.
 
-###7.  Denetimli Serbestlik Sorgulama
+###7. Denetimli Serbestlik İle İlgili Yargıtay Kararları
+
+**.** Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
+
+**.** Hükümlü **denetimli serbestlik yasası** ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün **denetimli serbestlik yasası** uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
+
+**.** Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı denetimli serbestlik yasasından yararlanılamaz. Denetimli serbestlik uygulamasından ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
+
+**.** Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile denetimli serbestlik yasasından ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar)
+
+**.** Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar)
+
+###8. Denetimli Serbestlik Sorgulama
 
 
 **Denetimli serbestlik uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
