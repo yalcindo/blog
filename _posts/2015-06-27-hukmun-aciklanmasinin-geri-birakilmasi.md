@@ -107,9 +107,9 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 **.** Sanık yararına 62. madde gereği 1/6 indirim yapılırken ve TCK 51. madde gereği erteleme kararı verilirken sanık hakkında mahkemenin olumlu düşünceleri esas alınmış, aynı kararda **hükmün açıklanmasının geri bırakılması** kararı verilmemesinin gerekçesi olarak sanığın olumsuz davaranışları gösterilmiştir. Mahkeme, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesine yol açan olumsuz davranışın ne olduğunu açık açık göstermelidir (Yargıtay 11. Ceza Dairesi - 2014/15637 karar).
 
-**.**Tehdit ve hakaret suçunun somut olarak meydana getirdiği maddi bir zarar somut olayda mevcut değildir. Bu nedenle sanıktan zararın giderilmesini istemek mümkün değildir. Hükmün açıklanmasının geri bırakılmasına karar verilmelidir (Yargıtay 5. Ceza Dairesi -  2014/8473).
+**.**Tehdit ve hakaret suçunun somut olarak meydana getirdiği maddi bir zarar somut olayda mevcut değildir. Bu nedenle sanıktan zararın giderilmesini istemek mümkün değildir. **Hükmün açıklanmasının geri bırakılması**na karar verilmelidir (Yargıtay 5. Ceza Dairesi -  2014/8473).
 
-**.** Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında hükmün açıklanmasının geri bırakılması kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
+**.** Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
