@@ -49,8 +49,7 @@ Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama (
 
 Hapis cezasının ertelenmesi koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
-####Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
----
+###Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
 Hükmün açıklanmasının geri bırakılması, yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. **Hükmün açıklanmasının geri bırakılması,** sanık için adli para cezasından çok daha avantajlı bir durumdur, uygulama şartlarına şu yazımızdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
 
