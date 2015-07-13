@@ -33,7 +33,7 @@ Maruz kaldıkları ağır hastalık, yaşlılık ve kocama nedeniyle hayatların
 
 **Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
-####a. Denetimli Serbestlik Uygulamasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
+####a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
 ---
 
 
