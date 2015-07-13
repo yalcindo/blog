@@ -101,7 +101,7 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 **.** Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
-**.Hükmün açıklanmasının geri bırakılması** kararına karşı temyiz yolu kapalı olup bu kararlara ancak itiraz edilebilir. Fakat, sanığın temyiz dilekçesi itiraz dilekçesi olarak kabul edilmeli ve itirazı incelemeye yetkili mahkemeye gönderilmelidir (Yargıtay 15. Ceza Dairesi - 2014/16494 karar).
+**. Hükmün açıklanmasının geri bırakılması** kararına karşı temyiz yolu kapalı olup bu kararlara ancak itiraz edilebilir. Fakat, sanığın temyiz dilekçesi itiraz dilekçesi olarak kabul edilmeli ve itirazı incelemeye yetkili mahkemeye gönderilmelidir (Yargıtay 15. Ceza Dairesi - 2014/16494 karar).
 
 **.** Somut olayda hükümlü denetim süresi içerisinde kasıtlı bir suç işlediğinden hükmün açıklanmasına karar verilmiştir. Açıklanması geri bırakılan hüküm açıklanırken hüküm fıkrası değiştirilemez. Ancak, hüküm açıklandıktan sonra hakim cezanın yarısına kadar olan kısmının infaz edilmemesine veya cezanın ertelenmesine veya adli para cezasına çevrilmesine karar verebilir (Yargıtay 13. Ceza Dairesi - 2014/27800 kararı).
 
