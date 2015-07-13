@@ -95,9 +95,9 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 
 **.** Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı denetimli serbestlik yasasından yararlanılamaz. Denetimli serbestlik uygulamasından ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
 
-**.** Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile denetimli serbestlik yasasından ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar)
+**.** Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile denetimli serbestlik yasasından ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
 
-**.** Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar)
+**.** Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
 ###8. Denetimli Serbestlik Sorgulama
 
