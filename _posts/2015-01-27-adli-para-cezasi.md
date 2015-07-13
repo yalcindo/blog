@@ -5,7 +5,6 @@ category: ceza-hukuku
 googleAnahtar: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, adli para cezası nereye ödenir, adli para cezasının ödenmemesi, Adli para cezası taksitlendirme, adli para cezası sorgulama, adli para cezası ödeme,  adli para cezasının ertelenmesi, adli para cezasına itiraz, mahkeme para cezası, adli para cezası sicile işlenir mi? 1 yıl, 2 yıl 1 ay, 3 yıl, 2 yıl 6 ay, bakırköy avukat, ataköy, şirinevler avukat baran doğan
 summary: Adli Para Cezası Nedir? Hapis cezasının paraya çevrilmesi, Hangi Hapis Cezaları Adli Para Cezasına Çevrilebilir? Hapis Cezasının Paraya Çevrilmesi Şartları, Adli Para Cezasının Taksitlendirilmesi, Taksitlendirme şartları, Adli Para Cezası Sorgulama, Cezası Adli Para Cezasına Çevrilebilecek Suçlar? Adli Para Cezası Ertelenir mi? Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi? Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü? Adli para cezası ödeme, Adli para cezasının ödenmemesi, Ödenmediği İçin Hapse Çevrilen Adli Para Cezası Ödendiğinde Cezaevindeki Hükümlü Tahliye Olur mu? Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim?
 ---
----
 
 ###Adli Para Cezası Nedir? 
 
@@ -101,7 +100,11 @@ Hakim, hükmettiği **adli para cezası**nı **taksitlendirme**yebilir veya öde
 
 Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
 
-Adli para cezası mahkeme tarafından verildiğinden mahkeme karına **itiraz** veya temyiz mümkündür. Fakat infaz aşamasına gelmiş **adli para cezasına  itiraz** edilemez.
+Adli para cezası mahkeme tarafından verildiğinden mahkeme kararına **itiraz** veya temyiz mümkündür. Fakat infaz aşamasına gelmiş **adli para cezasına  itiraz** edilemez.
+
+**Adli para cezasına itiraz,** verilen adli para cezası hakkında hükmün açıklanmasının geri bırakılması (HAGB) halinde olur. 
+
+**Adli para cezasının temyizi** ise HAGB dışındaki kararlarda mümkün olmakla birlikte, doğrudan hükmedilen adli para cezası için temyiz sınırı mevcuttur. Buna göre 3000 TL'nin altındaki adli para cezası temyiz edilemez. 
 
 ###Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
