@@ -5,8 +5,7 @@ category: ceza-hukuku
 googleAnahtar: Hükmün açıklanmasının geri bırakılması, Ceza avukatı, hükmün açıklanmasının geri bırakılması kararına itiraz, ceza davası, denetimli serbestlik, ceza avukatı arıyorum istanbul, avukat baran doğan
 summary: Hükmün açıklanmasının geri bırakılması kavramının ne anlama geldiği, şartları, sonuçları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
----
----
+
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
@@ -66,9 +65,9 @@ Bazı suçların özelliği gereği, kamunun veya kişilerin uğradığı bir za
 
 **Mühür fekki suçu:** Dükkanı mühürlendiği halde mührü söken kişi, mühür fekki suçunu işlediği halde bu suçta hiç kimsenin suçtan dolayı maddi zararı oluşmaz (Yargıtay 10.Ceza Dairesi 2014/919 karar).
 
-**İmar kirliliği suçu:** Kaçak kat atması nedeniyle hakkında imar kirliği suçundan dava açılan kişinin, yapıyı eski hale getirerek zararı gidermediği gerekçesiyle hakkında HAGB kararı verilmemesi usule aykırıdır. Burada kamunun veya kişilerin somut bir zararı olmadığından HAGB kararı verilmelidir (Yargıtay 4.Ceza Dairesi-2013/1463 karar). 
+**İmar kirliliği suçu:** Kaçak kat atması nedeniyle hakkında imar kirliği suçundan dava açılan kişinin, yapıyı eski hale getirerek zararı gidermediği gerekçesiyle hakkında HAGB kararı verilmemesi usule aykırıdır. Burada kamunun veya kişilerin somut bir zararı olmadığından **HAGB** kararı verilmelidir (Yargıtay 4.Ceza Dairesi-2013/1463 karar). 
 
-**Hakaret suçu:** Hakaret suçunda müşteki belgeye dayalı bir zararı olduğunu ispatlayamazsa, manevi zarar "uğranılan zarar" olarak kabul edilemez. Bu nedenle giderilecek zarar olmadığından HAGB kararı verilmelidir. (Yargıta 2. Ceza Dairesi-2012/42821).
+**Hakaret suçu:** Hakaret suçunda müşteki belgeye dayalı bir zararı olduğunu ispatlayamazsa, manevi zarar "uğranılan zarar" olarak kabul edilemez. Bu nedenle giderilecek zarar olmadığından **HAGB** kararı verilmelidir. (Yargıta 2. Ceza Dairesi-2012/42821).
 
 ####(c)	Mahkemece Sanığın Tekrar Suç İşlemeyeceği Kanaatine Varılması
 
@@ -98,6 +97,20 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 **Hükmün açıklanmasınının geri bırakılması kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
+###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Karar Örnekleri
+
+**.** Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
+
+**.Hükmün açıklanmasının geri bırakılması** kararına karşı temyiz yolu kapalı olup bu kararlara ancak itiraz edilebilir. Fakat, sanığın temyiz dilekçesi itiraz dilekçesi olarak kabul edilmeli ve itirazı incelemeye yetkili mahkemeye gönderilmelidir (Yargıtay 15. Ceza Dairesi - 2014/16494 karar).
+
+**.** Somut olayda hükümlü denetim süresi içerisinde kasıtlı bir suç işlediğinden hükmün açıklanmasına karar verilmiştir. Açıklanması geri bırakılan hüküm açıklanırken hüküm fıkrası değiştirilemez. Ancak, hüküm açıklandıktan sonra hakim cezanın yarısına kadar olan kısmının infaz edilmemesine veya cezanın ertelenmesine veya adli para cezasına çevrilmesine karar verebilir (Yargıtay 13. Ceza Dairesi - 2014/27800 kararı).
+
+**.** Sanık yararına 62. madde gereği 1/6 indirim yapılırken ve TCK 51. madde gereği erteleme kararı verilirken sanık hakkında mahkemenin olumlu düşünceleri esas alınmış, aynı kararda **hükmün açıklanmasının geri bırakılması** kararı verilmemesinin gerekçesi olarak sanığın olumsuz davaranışları gösterilmiştir. Mahkeme, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesine yol açan olumsuz davranışın ne olduğunu açık açık göstermelidir (Yargıtay 11. Ceza Dairesi - 2014/15637 karar).
+
+**.**Tehdit ve hakaret suçunun somut olarak meydana getirdiği maddi bir zarar somut olayda mevcut değildir. Bu nedenle sanıktan zararın giderilmesini istemek mümkün değildir. Hükmün açıklanmasının geri bırakılmasına karar verilmelidir (Yargıtay 5. Ceza Dairesi -  2014/8473).
+
+**.** Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında hükmün açıklanmasının geri bırakılması kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
+
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
 
@@ -105,7 +118,7 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
-###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay 
+
 
 
 
