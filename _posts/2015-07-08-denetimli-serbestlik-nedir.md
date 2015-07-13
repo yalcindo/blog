@@ -80,7 +80,7 @@ imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasa
 Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
 
-###6. Denetimli Serbestlik Yasası'nı İhlali ve Sonuçları
+###6. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
 
 
 **Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik yasası**nı ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani denetimli serbestlik dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
