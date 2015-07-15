@@ -27,7 +27,17 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 ---
 
 [Askeri başsavcılık: Bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
+
 ---
+
+**Bedelli askerlik,** eşitsiz uygulamalar nedeniyle bir sorun kaynağına dönüşmüş durumdadır. İdare tarafından farklı farklı **bedelli askerlik** uygulamaları yapılması, aynı hukuki statüdeki kişilerden değişen miktarlarda **bedelli askerlik** ücretleri alınmasına neden olmuştur.
+
+Farklı **bedelli askerlik** uygulamalara Anayasa'nın 10. maddesinden ifadesini bulan eşitlik ilkesine aykırıdır. Hukuk devletlerinde eşitlik ilkesi, bir taraftan yurttaşın eşit muamele görme hakkını güvenceleyerek yurttaşın hukuki güvenliğini sağlarken diğer taraftan devletin fiillerinde hukuksal bir ölçüt olarak keyfiliği ve kamu gücü kullanılarak hukukun  araçasallaştırılmasını önler. Kamu düzeni kavramı da böylece sağlam bir hukuki zemine kavuşarak siyasal bir kavram olmaktan çıkıp hukuki bir çerçeveye otururur. Bedelli askerlik uygulaması yurttaşlar arasında yapılan eşitsiz uygulamalarla hukuka duyulan güveni zedelemiştir.
+
+
+İdarenin **bedelli askerlik** uygulaması yaparken farklı durumdaki kişiler ve koşullar için eşitlik ilkesinden ayrılması mümkündür. Ama farklı durumlar için yapılan ayrımın meşru olması için objektif ve makul bir nedene dayanması, meşru bir amaca yönelik olması ve amaç / araç orantısının makul olması gereklidir. Aynı statüdeki kişilerden farklı **bedelli askerlik** ücretleri alınmasının hiçbir açıklaması yoktur.
+
+2011 yılında 30.000 TL olarak alınan **bedelli askerlik** ücreti, 10.12.2014 tarihinde çıkarılan yasayla 18.000 TL olarak belirlenmiştir. İki **bedelli askerlik** ücreti arasındaki fahiş farkın hiçbir hukuki dayanağı yoktur. Bu nedenle Askeri Yüksek İdare Mahkemesi'nde dava açmış bulunmaktayız.
 
 
 **Avukat Baran Doğan**
