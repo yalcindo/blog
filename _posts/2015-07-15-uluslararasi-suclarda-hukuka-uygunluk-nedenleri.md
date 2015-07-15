@@ -9,12 +9,12 @@ summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren suçlarda hukuk
 ###Hukuka Uygunluk Nedenleri Ne Demek?
 
 
-Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nün kendine özgü hukuka uygunluk nedenleri mevcuttur.
+Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nde mahkemenin yargı yetkisine giren suçlara özgü hukuka uygunluk nedenleri mevcuttur.
 
 ####(1)	Amirin Emrini Yerine Getirme
 ---
 
-Statü’nün 33. Maddesi, “Üst Makam Emirleri ve Kanunun Tanımı” madde başlığıyla yetkili makamın emirlerini yerine getirmenin cezai sorumluluktan kurtulmak için yeterli olmadığını açıkça düzenlemiştir. Maddedeki düzenlemeye göre mahkemenin yargı yetkisine giren bir suçun, bir hükümet veya askeri veya sivil bir üst makam emrine uyan bir şahıs tarafından işlenmiş olması sanığı kural olarak cezai sorumluluktan kurtaramayacaktır (Statü m.31/1). Bu kuralın istisnasına da hemen akabindeki maddelerde yer verilmiştir. Buna göre, suç teşkil eden fiili işleyen fail:	
+Uluslararası Ceza Mahkemesi Statüsü’nün 33. Maddesi, “Üst Makam Emirleri ve Kanunun Tanımı” madde başlığıyla yetkili makamın emirlerini yerine getirmenin cezai sorumluluktan kurtulmak için yeterli olmadığını açıkça düzenlemiştir. Maddedeki düzenlemeye göre mahkemenin yargı yetkisine giren bir suçun, bir hükümet veya askeri veya sivil bir üst makam emrine uyan bir şahıs tarafından işlenmiş olması sanığı kural olarak cezai sorumluluktan kurtaramayacaktır (Statü m.31/1). Bu kuralın istisnasına da hemen akabindeki maddelerde yer verilmiştir. Buna göre, suç teşkil eden fiili işleyen fail:	
 
 i.  Şahsın hükümet veya söz konusu üst makamın emirlerine uyması kanuni bir zorunluluk ise;
 
