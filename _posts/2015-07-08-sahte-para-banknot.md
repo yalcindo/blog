@@ -6,7 +6,7 @@ googleAnahtar: Sahte para, piyasaya sürülen sahte para,  avukat, avukat baran 
 summary: Piyasaya sürülen sahte paraya dair Merkez Bankası'na cevaplaması istemiyle sorulara sorulmuş, Merkez Bankası, "Gizli" ibareli cevap yazısı ile cevaplamıştır.
 ---
 
-**Piyasaya sahte para sürülmesi iddiasıyla ilgili Merkez Bankasına aşağıdaki dilekçeyle sorduğumuz sorulara, Merkez Bankası "Gizli" ibareli cevap yazısı ile cevap vermiştir.**
+Piyasaya sahte para sürülmesi iddiasıyla ilgili Merkez Bankasına aşağıdaki dilekçeyle sorduğumuz sorulara, Merkez Bankası "Gizli" ibareli cevap yazısı ile cevap vermiştir.
 ---
 
 ![MERKEZ BANKASI'NA YAZDIĞIMIZ DİLEKÇE](http://i.hizliresim.com/kgrWyW.jpg)
