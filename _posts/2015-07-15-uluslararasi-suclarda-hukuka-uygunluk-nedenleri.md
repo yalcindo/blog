@@ -9,7 +9,7 @@ summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren suçlarda hukuk
 ###Hukuka Uygunluk Nedenleri Ne Demek?
 
 
-Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nün kendine özgü hukuka uygunluk nedenleleri mevcuttur.
+Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nün kendine özgü hukuka uygunluk nedenleri mevcuttur.
 
 ####(1)	Amirin Emrini Yerine Getirme
 ---
