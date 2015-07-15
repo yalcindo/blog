@@ -55,3 +55,5 @@ Statü, zorunluluk halini ayrı bir bent halinde açıkça düzenlemiştir. Stat
 **iii.	Şahsa ilişkin koşullar:** Zorunluluk hali savunmasından yararlanacak şahıs, tehlikenin meydana gelmesine bilerek yol açmamalıdır. Statü açık bir biçimde fail tarafından yaratılan tehlikelerden kurtulmak için yapılan hareketlerin bu madde kapsamına girmeyeceğini düzenlemiştir (Statü m.31/1-d (i), (ii)). Kişinin meydana gelen tehlikeye katlanma yükümlülüğünün hukuksal açıdan bir zorunluluk olmaması gerekir. Kişi tehlikeye göğüs germe yükümlülüğü altındaysa zorunluluk halinden yararlanamaz.
 
 **iv.	Orantılılık ilkesi:** Tehlikeden başka türlü korunma imkanı bulunmayan failin, korunmak için yaptığı hareketin koruduğu değer ile zarar verilen değer arasında bir orantı mevcut olmalıdır. Korunan değer ile zarar verilen değer en azından birbirine eşit olmalıdır. Statüde bu ilke “failin, meydana gelmesi ve önlenmesi gereken zarardan daha fazlasına yol açmayı kastetmemiş olmak koşuluyla” şeklinde düzenlenmiştir.
+
+**Avukat Baran Doğan**
