@@ -2,7 +2,7 @@
 layout: blog
 title: Bedelli Askerlik Parasının İadesiyle İlgili Açtığımız Davaya Dair Bilgilendirmeler, Haber ve Videolar
 category: hukuk-haberleri
-googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, avukat baran doğan, bedelli askerlik parası geri alınabilir mi? avukat, şirinevler, ataköy, bakırköy 
+googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, avukat baran doğan, bedelli askerlik parası geri alınabilir mi? avukat, şirinevler, ataköy, bakırköy, ceza avukatı
 summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi ilgili açtığımız dava sürecine ilişkin BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Dava süreci ile ilgili düzenli olarak burdan bilgi yayınlanacaktır.
 ---
 [Bakanlıktan Bedelli Parasının İadesi İstendi - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Eski-bedelliden-yararlanan-avukat-12-bin-TL-sinin-iadesini-istedi_8237-CHMTYxODIzNy8x)
@@ -33,7 +33,7 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 
 **Bedelli askerlik,** eşitsiz uygulamalar nedeniyle bir sorun kaynağına dönüşmüş durumdadır. İdare tarafından farklı farklı **bedelli askerlik** uygulamaları yapılması, aynı hukuki statüdeki kişilerden değişen miktarlarda **bedelli askerlik** ücretleri alınmasına neden olmuştur.
 
-Farklı **bedelli askerlik** uygulamalara Anayasa'nın 10. maddesinden ifadesini bulan eşitlik ilkesine aykırıdır. Hukuk devletlerinde eşitlik ilkesi, bir taraftan yurttaşın eşit muamele görme hakkını güvenceleyerek yurttaşın hukuki güvenliğini sağlarken diğer taraftan devletin fiillerinde hukuksal bir ölçüt olarak keyfiliği ve kamu gücü kullanılarak hukukun  araçasallaştırılmasını önler. Kamu düzeni kavramı da böylece sağlam bir hukuki zemine kavuşarak siyasal bir kavram olmaktan çıkıp hukuki bir çerçeveye otururur. Bedelli askerlik uygulaması yurttaşlar arasında yapılan eşitsiz uygulamalarla hukuka duyulan güveni zedelemiştir.
+Farklı **bedelli askerlik** uygulamalara Anayasa'nın 10. maddesinden ifadesini bulan eşitlik ilkesine aykırıdır. Hukuk devletlerinde eşitlik ilkesi, bir taraftan yurttaşın eşit muamele görme hakkını güvenceleyerek yurttaşın hukuki güvenliğini sağlarken diğer taraftan devletin fiillerinde hukuksal bir ölçüt olarak keyfiliği ve kamu gücü kullanılarak hukukun  araçasallaştırılmasını önler. Kamu düzeni kavramı da böylece sağlam bir hukuki zemine kavuşarak siyasal bir kavram olmaktan çıkıp hukuki bir çerçeveye otururur. **Bedelli askerlik** uygulaması yurttaşlar arasında yapılan eşitsiz uygulamalarla hukuka duyulan güveni zedelemiştir.
 
 
 İdarenin **bedelli askerlik** uygulaması yaparken farklı durumdaki kişiler ve koşullar için eşitlik ilkesinden ayrılması mümkündür. Ama farklı durumlar için yapılan ayrımın meşru olması için objektif ve makul bir nedene dayanması, meşru bir amaca yönelik olması ve amaç / araç orantısının makul olması gereklidir. Aynı statüdeki kişilerden farklı **bedelli askerlik** ücretleri alınmasının hiçbir açıklaması yoktur.
