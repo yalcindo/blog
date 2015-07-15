@@ -26,9 +26,10 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 [Bedelliden Yararlanan Avukat 12.000 TL Fark için Dava Açtı - ***BİRGÜN GAZETESİ***](http://www.birgun.net/news/view/2011de-bedelliden-yararlanan-avukat-12-bin-tl-fark-icin-dava-acti/12451)
 ---
 
-[Askeri başsavcılık: Bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
+[Askeri Başsavcılık mütalaasına göre bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
 
 ---
+
 
 **Bedelli askerlik,** eşitsiz uygulamalar nedeniyle bir sorun kaynağına dönüşmüş durumdadır. İdare tarafından farklı farklı **bedelli askerlik** uygulamaları yapılması, aynı hukuki statüdeki kişilerden değişen miktarlarda **bedelli askerlik** ücretleri alınmasına neden olmuştur.
 
