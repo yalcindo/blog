@@ -3,7 +3,7 @@ layout: blog
 title: HAKARET SUÇU ve CEZASI
 category: ceza-hukuku
 googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçunun cezası nedir, avukat baran doğan,bakırköy avukat
-summary: Ceza avukatı ve ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
+summary: Hakaret Suçu, Hakaret suçu nedir? Hakaret suçunun cezası nedir? Hangi söz ve davranışlar hakaret suçunu oluşturur? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Hakaret suçu cezası, Alenen hakaret,Hakaret suçu ve hükmün açıklanmasının geri bırakılması, Hakaret suçu ve şikayet süresi.
 ---
 
 ###Hakaret Suçu Nedir?
@@ -78,8 +78,13 @@ TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenm
 
 ###Hakaret Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
-Hükmün açıklanmasının geri bırakılması (HAGB), failin 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, failin bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
+Hükmün açıklanmasının geri bırakılması (HAGB), sanığın 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, sanığın bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
 ###Hakaret Suçu ve Şikayet Süresi 
+
+Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
+
+Hakaret suçunun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
+
 
