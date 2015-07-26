@@ -3,7 +3,7 @@ layout: blog
 title: Piyasaya Sürülen Sahte Paraya Dair Merkez Bankasına Yazdığımız Dilekçe ve Merkez Bankası'nın Cevapları
 category: hukuk-haberleri
 googleAnahtar: Sahte para, piyasaya sürülen sahte para,  avukat, avukat baran doğan
-summary: Piyasaya sürülen sahte paraya dair Merkez Bankası'na cevaplaması istemiyle sorulara sorulmuş, Merkez Bankası, "Gizli" ibareli cevap yazısı ile cevaplamıştır.
+summary: Piyasaya sürülen sahte paraya dair Merkez Bankası'na cevaplaması istemiyle sorulara sorulmuş, Merkez Bankası, 'Gizli' ibareli cevap yazısı ile cevaplamıştır.
 ---
 
 **Piyasaya sahte para sürülmesi iddiasıyla ilgili Merkez Bankasına aşağıdaki dilekçeyle sorduğumuz sorulara, Merkez Bankası "Gizli" ibareli cevap yazısı ile cevap vermiştir.**
