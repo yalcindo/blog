@@ -31,7 +31,7 @@ Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise *
 ####2) Kasten İşlenmiş Bir Suçtan Mahkum Olmamak
 ---
 
-Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. ** Ceza erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. **Ceza erteleme**ye engel olan suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **cezanın erteleme**si kurumundan yararlanabilir.
+Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Ceza erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. **Ceza erteleme**ye engel olan suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **cezanın erteleme**si kurumundan yararlanabilir.
 
 ####3) Yargılama Sırasında Tekrar Suç İşlemeyeceği Kanaatinin Mahkemede Oluşması
 ---
