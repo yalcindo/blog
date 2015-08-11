@@ -9,8 +9,7 @@ summary: Adli Para Cezası Nedir? Hapis cezasının paraya çevrilmesi, Hangi Ha
 ###Adli Para Cezası Nedir? 
 
 
-TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na yalnızca mahkemeler hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. **Adli para cezası**na ise yalnızca mahkemelerce bir suçun karşılığı olarak hükmedilebilir.
-
+TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. İdari para cezası ayrıntılı bilgi için bakınız: [**İdari Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html)
 
 ###Kaç Çeşit Adli Para Cezası Vardır?
 
@@ -83,7 +82,7 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 •	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. Denetimli serbestlik kurumunun ayrıntıları için bakınız:[**Denetimli Serbestlik Nedir?**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. Denetimli serbestlik kurumunun ayrıntıları için bakınız: [**Denetimli Serbestlik Nedir?**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
 
 ###Adli Para Cezası Taksitlendirme, Taksitle Ödeme Mümkün mü?
 
