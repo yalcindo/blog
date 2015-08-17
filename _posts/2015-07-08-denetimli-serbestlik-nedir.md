@@ -46,7 +46,7 @@ Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şart
 
 Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevi koşulu yoktur, toplam cezasının 1/5’ini çocuk cezaevinde geçiren hükümlü denetimli serbestlik uygulamasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
 
-####c. İyi Halli Olma Şartı
+####c. Hükümlünün İyi Halli Olması Şartı
 ---
 
 Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığına cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
@@ -66,13 +66,13 @@ Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını
 ####a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 ---
 
-Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde **denetimli serbestlik kanunu**nu ihlal etmiş sayılır.
+Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde **denetimli serbestlik yasası**nı ihlal etmiş sayılır.
 
 ####b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
 ---
 
-Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Müdürlüğün belirlediği programa riayet etmemede ısrar etmesi halinde **denetimli serbestlik kanunu** ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi programa uymamada ısrar olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
-imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini belirlemiştir ( Yargıtay 4. Ceza Dairesi – 2015/1863 karar)
+Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Müdürlüğün belirlediği programa riayet etmemede ısrar etmesi halinde **denetimli serbestlik yasası** ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi programa uymamada ısrar olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
+imza atmayan bir kez de görüşmeye gitmeyen kişinin **denetimli serbestlik yasası**nı ihlal ettiğini belirlemiştir ( Yargıtay 4. Ceza Dairesi – 2015/1863 karar)
 
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 ---
