@@ -10,14 +10,14 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden
 ---
 
 ###Etkin Pişmanlık Nedir?
----
+
 
 **Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukların giderilmesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin **etkin pişmanlık** göstermesi halinde suçun niteliğine göre **ceza indirimi** veya cezalandırılmaması sonucu ortaya çıkar.
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak **etkin pişmanlık ve ceza indirimi** kurumlarından bahsedeceğiz.
 
 ###Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır?
----
+
 
 TCK (Türk Ceza Kanunu) sisteminde iki yöntemle **etkin pişmanlık** hükümlerinden yararlanarak **ceza indirimi** almak mümkündür: 
 
@@ -26,19 +26,19 @@ Birinci yöntem, yargılanan kişinin, soruşturma veya kovuşturma aşamaların
 İkinci yöntem, işlenen suç nedeniyle mağdurun uğradığı zararın aynen geri verme veya tazmin etme suretiyle giderilmesi halinde sanığın **etkin pişmanlık** hükümlerinden yararlanarak **ceza indirimi** almasıdır.
 
 ###Kimler Etkin Pişmanlıktan Ceza İndirimi Alabilir?
----
 
-**Etkin pişmanlık**tan yararlanacak kişi, suça azmettiren, suç teşkil eden fiili doğrudan işleyen veya yardım eden kişilerden biri olabilir. Önemli olan verilen bilgiyle suçun aydınlatılması ve suçun işlenmesine katılanların cezalandırılmasının teminidir. 
+
+**Etkin pişmanlık**tan yararlanacak kişi, suça azmettiren, suç teşkil eden fiili doğrudan işleyen veya yardım eden kişilerden biri olabilir. Önemli olan verilen bilgiyle suçun aydınlatılması, suçun işlenmesine katılanların cezalandırılmasının temini veya varsa mağdurun uğradığı zararın giderilmesidir.
 
 ###Etkin Pişmanlık Halinde Ceza İndirim Oranı Nedir?
----
+
 
 TCK, yargılanan kişinin suç teşkil eden fiili veya fiilin kimler tarafından işlendiğine dair bilgiyi hangi aşamada verdiğine göre **ceza indirimi** yapmaktadır. İşlenen suçun niteliğine ve vehametine göre indirim oranı belirlenmektedir. TCK, çoğu zaman **etkin pişmanlık** halinde uygulanacak indirimin en üst sınırını belirleyerek hakimin TCK’nın belirlediği bu üst sınırı aşmamak kaydıyla cezada indirim yapmasını öngörmüştür. Örneğin bir suç ile ilgili kanunda “yarısına kadar indirilir” ibaresi varsa, hakim olayın özelliğine göre yarısı kadar değil, örneğin 1/3 oranında indirim yapabilecektir. Yani, kanunun ceza indirimi için üst sınır belirlediği durumlarda hakim bu sınırı geçemeyecek, fakat sınırın altında indirim oranı uygulayabilecektir.
 
 **Etkin pişmanlık** nedeniyle hangi suçlarda ne oranda ceza indirimi yapılabileceğine her suç için ayrı ayrı aşağıda değinilecektir.
 
 ###Etkin Pişmanlık Hangi Suçlarda Uygulanır? Ceza İndirimi Hangi Suçlarda Geçerlidir?
----
+
 Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamayan faillerin yakalanarak cezalandırılması hem de bilgiyi verenin kısmi olarak affedilmesini sağlayan bir ceza hukuku enstrümanıdır.
 
 TCK, aşağıdaki suçlarda bu kurumun uygulanmasını düzenlemiştir:
@@ -113,12 +113,12 @@ Tehdit suçunda, şantaj suçunda ve konut dokunulmazlığını ihlal suçunda e
 
 
 ###Etkin Pişmanlık Ceza İndiriminden Kaç Kez Yararlanılabilir? 
----
+
 
 **Etkin pişmanlık ceza indirimi,** yukarıda açıkladığımız koşulların gerçekleşmesi, yani zararın giderilmesi veya suç ortaklarının açıklanması kaydıyla her suç için ayrı ayrı yararlanılabilecek bir kurumdur. İşlenen suçun sayısına bağlı olmadan sanık ceza indiriminden her olay için ayrı ayrı yararlanır. 
 
 ###Sabıkalı Kişiler Etkin Pişmanlık Hükümlerinden Yararlanabilir mi?
----
+
 
 Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları yerine getirmesi yeterlidir. Kişinin daha önce sabıkalı olup olmaması bir ölçü olarak kabul edilemez.
 
