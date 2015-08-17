@@ -83,7 +83,7 @@ Yukarıda anlatılan tüm suçların eşlerden biri aleyhine işlenmesi halinde,
 **Gasp suçunda** olduğu gibi burdaki tüm suçlarda  da suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
 
 
-####3-) Kullanmak için Uyuşturuca Satın Alma, Satma, Kabul Etme, Uyuşturucu Madde Bulundurma ve Kullanmak Suçlarında Etkin Pişmanlık ve Ceza İndirimi (TCK 192)
+####3-) Kullanmak için Uyuşturucu Satın Alma, Satma, Kabul Etme, Uyuşturucu Madde Bulundurma ve Kullanmak Suçlarında Etkin Pişmanlık ve Ceza İndirimi (TCK 192)
 
 
 Uyuşturucu madde ticareti veya imali suçunu işleyen şahıs, suç resmi kurumlar tarafından öğrenilmeden diğer suç ortaklarını ve uyuşturucu maddelerin saklandığı yeri veya imal edildiği yeri yetkili mercilere bildirirse, suç ortakları ı veya uyuşturucu madde yakalandığı takdirde hakkında cezaya hükmolunmaz. Görüldüğü üzere TCK bu suçlarda soruşturma öncesine gitmiş, daha soruşturma başlamadan failin **etkin pişmanlık** göstermesi halinde cezalandırılmamasının yolunu açmıştır.
