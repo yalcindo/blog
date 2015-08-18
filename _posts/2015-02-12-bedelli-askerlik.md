@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Bedelli Askerlik Parasının İadesiyle İlgili Açtığımız Davaya Dair Bilgilendirmeler, Haber ve Videolar
+title: Bedelli Askerlik Parasının İadesi Davası
 category: hukuk-haberleri
 googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, avukat baran doğan, bedelli askerlik parası geri alınabilir mi? avukat, şirinevler, ataköy, bakırköy, ceza avukatı
 summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi ilgili açtığımız dava sürecine ilişkin BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Dava süreci ile ilgili düzenli olarak burdan bilgi yayınlanacaktır.
@@ -28,6 +28,8 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 
 [Askeri Başsavcılık mütalaasına göre bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
 
+[**Gürsel Tekin'in Geçmişte Bedelli Askerlik Yapanların Yararlandığı Uygulamanın İptal Edileceğine Dair Açıklamasına Cevap - 18.08.2015 - BUGÜN TV**](http://youtu.be/1lAt__PAaVU) 
+
 ---
 
 
@@ -38,7 +40,7 @@ Farklı **bedelli askerlik** uygulamaları Anayasa'nın 10. maddesinde ifadesini
 
 İdarenin **bedelli askerlik** uygulaması yaparken farklı durumdaki kişiler ve koşullar için eşitlik ilkesinden ayrılması mümkündür. Ama farklı durumlar için yapılan ayrımın meşru olması için objektif ve makul bir nedene dayanması, meşru bir amaca yönelik olması ve amaç / araç orantısının makul olması gereklidir. Aynı statüdeki kişilerden farklı **bedelli askerlik** ücretleri alınmasının hiçbir açıklaması yoktur.
 
-2011 yılında 30.000 TL olarak alınan **bedelli askerlik** ücreti, 10.12.2014 tarihinde çıkarılan yasayla 18.000 TL olarak belirlenmiştir. İki **bedelli askerlik** ücreti arasındaki fahiş farkın hiçbir hukuki dayanağı yoktur. Bu nedenle Askeri Yüksek İdare Mahkemesi'nde dava açmış bulunmaktayız.
+2011 yılında 30.000 TL olarak alınan **bedelli askerlik** ücreti, 10.12.2014 tarihinde çıkarılan yasayla 18.000 TL olarak belirlenmiştir. İki **bedelli askerlik** ücreti arasındaki fahiş farkın hiçbir hukuki dayanağı yoktur. Bu nedenle Askeri Yüksek İdare Mahkemesi'nde fazla alınan bedelin iadesi için dava açmış bulunmaktayız.
 
 
 **Avukat Baran Doğan**
