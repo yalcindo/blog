@@ -1,4 +1,4 @@
-D---
+---
 layout: blog
 title: Bedelli Askerlik Parasının İadesi Davası
 category: hukuk-haberleri
