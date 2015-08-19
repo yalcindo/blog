@@ -28,7 +28,7 @@ summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapla
 
 [Askeri Başsavcılık mütalaasına göre bedelli askerlikte fark iade edilmez - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/tr/askeri-bassavcilik-bedelli-askerlikte-fark-iade-edilmez-1815288.htm)
 
-[**Gürsel Tekin'in Geçmişte Bedelli Askerlik Yapanların Yararlandığı Uygulamanın İptal Edileceğine Dair Açıklamasına Cevap - 18.08.2015 - BUGÜN TV**](https://youtu.be/8c1fhSu09DQ)
+[**Milletvekili Gürsel Tekin'in Geçmişte Bedelli Askerlik Yapanların Yararlandığı Uygulamanın İptal Edileceğine Dair Açıklamasına Cevap - 18.08.2015 - BUGÜN TV**](https://youtu.be/8c1fhSu09DQ)
 ---
 
 
