@@ -75,3 +75,5 @@ Başkasına ait banka hesaplarıyla ilişkilendirerek sahte banka veya kredi kar
 Sahte olarak üretilen veya sahtecilik yapılarak değiştirilen bir banka veya kredi kartını kendisine haksız kazanç elde etmek üzere kullanan kişi 4 yıldan 8 yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. Birinci fıkrada kart sahibine ait gerçek kart kullanılmakta, burda ise tamamen sahte bir kart kullanılmaktadır. Bu nedenle daha ağır bir ceza verilmesi öngörülmüştür.
 
 **Bilişim suçları,** soruşturma zamanında yapıldığı takdirde ispatlanması kolay olan suçlardandırlar. **Bilişim suçu** işleyerek yakalanmayacağını düşünen insanların bir kısmının aslında o sistemi en iyi kullanan insanlar olması şaşırtıcıdır. Mahkemelerde yargılanan sanıkların önemli bir kısmı bilişim sistemlerini iyi kullanmayı bildiği halde yakalanmıştır. 
+
+**Bakırköy-İstanbul / Avukat Baran Doğan**
