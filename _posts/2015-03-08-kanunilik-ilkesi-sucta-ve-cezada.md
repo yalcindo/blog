@@ -2,7 +2,7 @@
 layout: blog
 title: Suçta ve Cezada Kanunilik İlkesi (NULLUM CRİMEN NULLA POENA SİNE LEGE)
 category: ceza-hukuku
-googleAnahtar: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, ceza avukatı, avukat baran doğan
+googleAnahtar: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, ceza avukatı, bakırköy istanbul avukat, avukat baran doğan
 ---
 
 
@@ -14,4 +14,4 @@ Kanunsuz suç ve ceza olmaz ilkesinin birtakım sonuçları vardır. Bunlar, su�
 
 Suçta ve cezada kanunilik ilkesi bir taraftan devletin ceza hukukunu kullanarak bireye müdahale etmesinin sınırlarını çizerken diğer taraftan bireyin hangi davranışları sergilediğinde hukuk dışına çıkacağını belirler.  
 
-Avukat Baran Doğan
+**Bakırköy-istanbul / Avukat Baran Doğan**
