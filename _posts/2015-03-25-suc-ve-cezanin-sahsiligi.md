@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Sorumluluğunun Şahsiliği İlkesi
 category: ceza-hukuku
-googleAnahtar: suç ve cezanın şahsiliği, Ceza avukatı, avukat, ceza avukatı nedir, ataköy avukat, avukat baran doğan
+googleAnahtar: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ceza avukatı nedir, ataköy bakırköy avukat, istanbul avukat baran doğan
 summary: Ceza sorumluluğunun şahsiliği ilkesi kısaca anlatılmıştır.
 ---
 ---
@@ -14,4 +14,4 @@ Cezaların şahsiliği ilkesi, tüzel kişilere cezai sorumluluk yüklenemeyece�
 
 Devletlerin cezai sorumluluğu açısından da diğer tüzel kişilere benzer bir sorumluluk rejimi olduğunu söylemek mümkündür. Devletler uluslararası hukuk kişiliğine sahip olmaları, hak ve borçlar edinebilmeleri nedeniyle, uluslararası devletler hukuku gereği sorumluluk altındadır. Fakat devletlerin cezai sorumluluğu kabul edilmemektedir. Suç teşkil eden fiil hangi devlet görevlisi tarafından işlenmişse cezai sorumluluk da o şahsa ait olmaktadır.
 
-Avukat Baran Doğan
+** Bakırköy-istanbul / Avukat Baran Doğan**
