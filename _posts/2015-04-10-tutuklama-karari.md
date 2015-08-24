@@ -2,7 +2,7 @@
 layout: blog
 title: Tutuklama Koşullarına Dair Değerlendirmeler
 category: ceza-hukuku
-googleAnahtar: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri, ceza avukatı arıyorum istanbul, Bakırköy, Ataköy Ceza avukatı Baran Doğan
+googleAnahtar: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri, ceza avukatı arıyorum istanbul, Bakırköy, Ataköy Ceza avukatı, istanbul avukat Baran Doğan
 
 ---
 ---
