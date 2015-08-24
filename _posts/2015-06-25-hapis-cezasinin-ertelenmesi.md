@@ -2,7 +2,7 @@
 layout: blog
 title: Hapis Cezasının Ertelenmesi
 category: ceza-hukuku
-googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, infazın ertelenmesi, erteleme şartları koşulları, ceza avukatı, Bakırköy avukat Baran Doğan
+googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, infazın ertelenmesi, erteleme şartları koşulları, ceza avukatı, Bakırköy istanbul avukat, avukat Baran Doğan
 summary: Hapis Cezasının Ertelenmesi Nedir? Hapis Cezasının Ertelenmesi Şartları, Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler, Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi, Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
 ---
 
@@ -81,4 +81,4 @@ Eğer hakkında **ceza erteleme** kararı verilen kişinin daha önce adli sicil
 
 
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
