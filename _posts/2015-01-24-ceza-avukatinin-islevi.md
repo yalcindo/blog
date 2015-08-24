@@ -35,7 +35,7 @@ Hakkınızda suç şüphesi varsa ceza hukuku anlamında “şüpheli” durumun
 
  **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
 
-###Gözaltındayken ceza avukatıyla görüşebilir miyim? Hangi aşamalarda savunmama katılabilir?
+###Gözaltındayken ceza avukatıyla görüşebilir miyim? Ceza avukatı hangi aşamalarda savunmama katılabilir?
 
 
 Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **ceza avukatı**yla kimsenin konuşmaları duyamayacağı ayrı bir **avukat** görüşme odasında görüşme hakkına sahiptir. Savunma faaliyeti de kişiye suç isnadının yapılmasından itibaren başlar, teknik olarak bu aşamadan itibaren ceza avukatı müvekkilinin savunmasını yapmaya başlar.
@@ -74,7 +74,7 @@ Her **ceza avukatı** bilir ki bir **ceza davası** yargılanan kişinin temel h
 
 Türkiye'deki hukuk sisteminde zorunlu avukatlığın kapsamı yasayla tanımlanmıştır. Buna göre, yaşı küçük olanlar, kendini savunamayacak ölçüde malul, sağır ve dilsiz olan şüpheli, sanık veya müştekiler ile alt sınırı 5 yıldan fazla olan bir suçtan yargılanan şüpheli veya sanıklar **ceza avukatı** tutmak zorundadır. **Ceza avukatı** tutmaya maddi gücü yeterli olmayan vatandaşlar için Barolar tarafından ücretsiz **ceza avukatı** atanır. 
 
-Yasa, avukat zorunluluğu arasın veya aramasın, ister müşteki olarak ister sanık olarak bir ceza davasının tarafı olan kişilerin **ceza avukatı**ndan profesyonel yardım almaları yargılama sürecine daha aktif katılmalarını sağlar. yargılam sırasında meydana gelecek usul hatalarını, yanlış anlamaları ortadan kaldırır. Hakkın etkin bir şekilde ileri sürülmesini sağlar.
+Yasa, avukat zorunluluğu arasın veya aramasın, ister müşteki olarak ister sanık olarak bir ceza davasının tarafı olan kişilerin **ceza avukatı**ndan profesyonel yardım almaları yargılama sürecine daha aktif katılmalarını sağlar. **Ceza avukatı**ndan hukuki yardım almak, yargılama sırasında meydana gelecek usul hatalarını, yanlış anlamaları ortadan kaldırır. Hakkın etkin bir şekilde ileri sürülmesini sağlar.
 
 
 ###Ceza Avukatı Delil Toplama Yetkisine Sahip midir?
@@ -82,6 +82,10 @@ Yasa, avukat zorunluluğu arasın veya aramasın, ister müşteki olarak ister s
 Deliller maddi gerçeği ortaya çıkarmaya yarayan en önemli ceza muhakemesi araçlarıdır. Delillere ulaşma olanağına sahip olmak, etkili bir savunma için zorunludur. **Ceza avukatı,** delil toplama konusunda bazı mesleki haklara sahiptir. Tüm kamu kurumları, avukatın istediği belgeleri incelemesine sunmakla yükümlüdür. Uygulamada, delillerin büyük bir kısmı soruşturma aşamasında savcılık aracılığıyla kovuşturma aşamasında mahkeme aracılığıyla istenmektedir.
 
 **Ceza avukatı,** müvekkilinin lehine olan ve müvekkili tarafından kendisine verilen veya kendisinin ulaştığı tüm delilleri soruşturma aşamasında savcılığa, kovuşturma aşamasında mahkemeye sunabilir.
+
+###Ceza avukatı tarafların yerine beyanda bulunabilir mi?
+
+Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Taraflar duruşmaya gelip yaşanan olayı anlattıktan sonra davayı **ceza avukatı** aracılığıyla takip edebilirler. Yargıç her iki tarafı dinler, diğer delillerle birlikte olayın nasıl gerçekleştiğini anlamaya çalışır. **Ceza avukatı** tarafların yerine geçerek olay analatımında bulunamaz. Ancak, **ceza avukatı** olaya dair beyanları değerlendirebilir, anlatımlardaki çelişkileri, savunduğu tarafın iddiasını doğrulayan argümanları ortaya koyabilmek için beyanları tekrar anlatabilir. 
 
 ###Ceza Avukatlığı, Ceza Avukatı Olmak
 
