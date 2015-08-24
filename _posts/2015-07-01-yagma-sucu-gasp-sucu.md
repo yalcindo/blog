@@ -2,7 +2,7 @@
 layout: blog
 title: Yağma Suçu (Gasp Suçu)
 category: ceza-hukuku
-googleAnahtar: Yağma suçu, Gasp Suçu, Ceza avukatı, etkin pişmanlık, yağma suçunun cezası, ceza davası, ceza avukatı arıyorum istanbul, Bakırköy avukat Baran Doğan
+googleAnahtar: Yağma suçu, Gasp Suçu, Yağma suçu nedir, gasp suçu nedir, Ceza avukatı, etkin pişmanlık, yağma suçunun cezası, ceza avukatı arıyorum istanbul, Bakırköy istanbul avukat Baran Doğan
 summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma suçunun ağırlaştırılmış şekli, yağma suçunun cezası (gasp suçunun cezası), yağma suçunda etkin pişmanlık konularına değinilmiştir.
 ---
 ---
@@ -79,4 +79,4 @@ Etkin pişmanlık kavramının ayrıntıları için bakınız : [Etkin Pişmanl�
 
 Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır. 
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
