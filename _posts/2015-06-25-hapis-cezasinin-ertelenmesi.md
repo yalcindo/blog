@@ -15,13 +15,13 @@ TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dol
 
 **Hapis cezasının ertelenmesi,** suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir **ceza erteleme** kurumudur.
 
-**Hapis cezasının ertelenmesi,** 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir. (TCK  md. 51) **Cezanın ertelenmesi** için ceza miktarının **erteleme**ye uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
+**Hapis cezasının ertelenmesi,** 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir (TCK  md. 51).**Cezanın ertelenmesi** için ceza miktarının **erteleme**ye uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
 
 
 ###Hapis Cezasının Ertelenmesi Şartları
 
 
-####1) Cezanın Miktarı Yönünden Erteleme Şartı
+####1) Cezanın Miktarı Yönünden Ceza Erteleme Şartı
 ---
 
 Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise **hapis cezanın ertelenmesi** mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde **cezanın ertelenmesi** kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
@@ -31,7 +31,7 @@ Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise *
 ####2) Kasten İşlenmiş Bir Suçtan Mahkum Olmamak
 ---
 
-Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Ceza erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. **Ceza erteleme**ye engel olan suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **cezanın erteleme**si kurumundan yararlanabilir.
+Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Ceza erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. **Ceza erteleme**ye engel olan suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **ceza erteleme** kurumundan yararlanabilir.
 
 ####3) Yargılama Sırasında Tekrar Suç İşlemeyeceği Kanaatinin Mahkemede Oluşması
 ---
