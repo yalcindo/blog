@@ -2,7 +2,7 @@
 layout: blog
 title: Uluslararası Suçlar-1  "İnsanlığa Karşı Suçlar" 
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, avukat Baran Dogan
+googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbuyl avukat, avukat Baran Dogan
 ---
 
 İnsanlığa karşı suçlar, devletlerin insanlara karşı giriştiği insanlık dışı fiilleri tarif etmek üzere, daha çok II. Dünya Savaşı’ndan sonra hukuk metinlerinde yer almıştır. İnsanlığa karşı işlenen suçlar kavramı, uluslararası hukuk alanına ilk kez 1945 yılında Nürnberg Askeri Ceza Mahkemesi yargılamaları vesilesiyle girmiştir. 
@@ -40,3 +40,5 @@ Statü’ye göre “**herhangi bir sivil nüfusa karşı yaygın veya sistemati
 İnsanlığa karşı suçlar da suçun faili herkes olabilir. Ancak vurgulamak gerekir ki madde metninde yer alan fiillerin “yaygın ve sistematik” işlenmesi belli bir organizasyon gerektirmektedir. 
 
 Suçun mağduru, suçun işlendiği yer devletiyle vatandaşlık bağı olsun veya olmasın sivil nüfustur. Sivil nüfustan kastedilen şey “savaşan” statüsü olmayan herkestir.
+
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
