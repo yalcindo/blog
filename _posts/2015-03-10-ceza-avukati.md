@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, ceza avukatı nedir, bakırköy ataköy avukat baran doğan
+googleAnahtar: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum istanbul, ceza avukatlığı, ceza avukatı olmak, ceza avukatı nedir, bakırköy ataköy istanbul avukat baran doğan
 summary: Ceza avukatı kavramı ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
 ---
 ---
@@ -50,4 +50,4 @@ Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da 
 
 Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki **ceza avukatı,** Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Ceza avukatı,** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
