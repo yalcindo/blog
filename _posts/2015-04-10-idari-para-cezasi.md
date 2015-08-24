@@ -11,14 +11,14 @@ summary: İdari Para Cezası Nedir? Hangi para cezaları idari para cezası say�
 
 **İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. **İdari para cezası** verebilecek kurumların bazıları şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü).
 
-**İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmediğinde** hapis cezasına çevrilemez. **İdari para cezası ödenmediğinde,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
+**İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmezse** hapis cezasına çevrilemez. **İdari para cezası ödenmezse,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
-**İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedeniyle belediye encümeni tarfından verilen cezalar sayılabilir.
+**İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedeniyle belediye encümeni tarafından verilen cezalar sayılabilir.
 
-###İdari Para Cezasının Adli Para Cezasından Farkı Nedir?
+###İdari Para Cezasının Adli Para Cezasından Farkı Nedir? İdari Para Cezası Ödenmezse Ne Olur?
 
 
-Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları** ödenmediğinde yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** ödenmediğinde borçlunun hapse girmesi gibi bir durum söz konusu olamaz.
+Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler, idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları ödenmediğinde** yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** ödenmediğinde borçlunun hapse girmesi gibi bir durum söz konusu olamaz.
 
 ###İdari Para Cezasına İtiraz Süresi 
 
