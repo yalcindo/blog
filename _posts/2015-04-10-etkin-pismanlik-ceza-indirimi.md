@@ -2,7 +2,7 @@
 layout: blog
 title: Bazı Suçlarda Ceza İndirimi ve Etkin Pişmanlık
 category: ceza-hukuku
-googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, hırsızlık suçu, mala zarar verme suçu, yağma suçu, dolandırıcılık suçu, uyuştucu madde kullanma suçu, ceza davası, ceza avukatı arıyorum istanbul, Bakırköy Ataköy Şirinevler avukat Baran Doğan
+googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, hırsızlık suçu, mala zarar verme suçu, yağma suçu, dolandırıcılık suçu, uyuştucu madde kullanma suçu, ceza davası, ceza avukatı arıyorum istanbul, Bakırköy Ataköy Şirinevler avukat Baran Doğan
 summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır? Etkin pişmanlık hükümlerinden kimler yararlanır? Ceza kanunundaki etkin pişmanlık ve ceza indirimi hükümleri, Hırsızlık suçu, mala zarar verme suçu, yağma suçu (gasp suçu), dolandırıcılık suçu, güveni kötüye kullanma suçu, uyuşturucu madde kullanma suçu, hakaret suçu, tehdit suçu, kişiyi hürriyetinden yoksun kılma suçunda etkin pişmanlık ve ceza indirimi konularına değinilmiştir. 
 ---
 
