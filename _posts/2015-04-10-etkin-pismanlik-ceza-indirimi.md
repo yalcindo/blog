@@ -128,7 +128,7 @@ Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları 
 
 **Etkin pişmanlık nedeniyle ceza indirimi,** birçok suçun ortaya çıkmasına ve suç faillerinin yakalanmasına hizmet ettiği için önemli bir ceza hukuku kurumu olarak kabul edilmektedir.
 
-Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. **Etkin pişmanlık** uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
+Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. **Etkin pişmanlık** yoluyla **ceza indirimi** uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
 
