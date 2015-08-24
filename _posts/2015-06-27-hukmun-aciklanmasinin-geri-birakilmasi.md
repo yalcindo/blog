@@ -2,7 +2,7 @@
 layout: blog
 title: Hükmün Açıklanmasının Geri Bırakılması
 category: ceza-hukuku
-googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB, Ceza avukatı, hükmün açıklanmasının geri bırakılması kararına itiraz,  avukat baran doğan
+googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB, HAGB nedir, Ceza avukatı, hükmün açıklanmasının geri bırakılmasına itiraz,  bakırköy istanbul avukat baran doğan
 summary: Hükmün açıklanmasının geri bırakılması, HAGB, hükmün açıklanmasının geri bırakılması nedir, hükmün açıklanmasının geri bırakılması şartları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 
@@ -97,6 +97,12 @@ Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yük
 
 **Hükmün açıklanmasınının geri bırakılması kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
+###Hükmün Açıklanmasının Geri Bırakılması Kararı mı Hapis Cezasının Ertelenmesi Kararı mı Sanık Lehinedir?
+
+**Hapis cezasının ertelenmesi** kararında mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle **hapis cezasının ertelenmesi** halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **hükmün açıklanmasının geri bırakılması**na karar verilmişse milletvekili olması önünde hiçbir engel yoktur. 
+
+Her iki kavramı karşılaştırmak için hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
+
 ###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Karar Örnekleri
 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
@@ -122,7 +128,7 @@ Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 
 
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
 
 
 
