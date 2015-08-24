@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, ceza avukatı arıyorum istanbul, en iyi ceza avukatı, ağır ceza avukatı, ceza davası, ceza avukatlığı, ceza avukatı olmak, avukat,  ceza avukatı nedir, bakırköy ataköy avukat baran doğan
+googleAnahtar: Ceza avukatı, ceza avukatı arıyorum istanbul, en iyi ceza avukatı, ağır ceza avukatı, ceza davası, ceza avukatlığı, ceza avukatı olmak, avukat,  ceza avukatı nedir, bakırköy ataköy istanbul avukat baran doğan
 summary: Ceza avukatı ve ceza avukatının fonksiyonu, ortalama okuyucunun anlayabileceği bir dille özetlenmiştir.
 ---
 
@@ -26,10 +26,14 @@ Soruşturma, suç işlendikten sonra başlayan bir faaliyettir. Polis, Jandarma 
 
 Hakkınızda suç şüphesi varsa ceza hukuku anlamında “şüpheli” durumuna geçersiniz. Soruşturma aşamasında, yani suç isnadının yapıldığı andan hakkınızda bir iddianameyle dava açılmasına kadar geçen sürede şüpheli sıfatınız devam eder. **Ceza avukatı**, bu aşamadan itibaren şüphelinin savunulması amacıyla ilk önce şüpheli hakkındaki iddiaları ve delilleri inceler.
 
-###Ceza avukatı hakkımdaki iddiaları içeren dosyayı inceleyebilir mi? Ceza avukatının dosya inceleme ve savunma yapabilmesi için vekaletname gerekir mi?
+###Ceza avukatı hakkımdaki iddiaları içeren dosyayı inceleyebilir mi? 
+
+**Ceza avukatı**nın dosya inceleme yetkisi hem Ceza Muhakemesi Kanunu hem de Avukatlık Kanunu’ndan kaynaklanan mesleki bir haktır. Bu nedenle hakkınızdaki her türlü işlem evrakını (beyanlar, tutanaklar, görüntü veya kamera kaydı, raporlar vs.) inceleme hakkına sahiptir. Uygulamada her ne kadar **ceza avukatı**nın dosya inceleme hakkına sınırlar konulmaya çalışılsa da bu hak savunma hakkının vazgeçilmez bir parçasıdır.
+
+###Ceza avukatının dosya incelemesi ve savunma yapabilmesi için vekaletname gerekir mi?
 
 
-**Ceza avukatı**nın dosya inceleme yetkisi hem Ceza Muhakemesi Kanunu hem de Avukatlık Kanunu’ndan kaynaklanan mesleki bir haktır. **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
+ **Ceza avukatı**nın dosya incelemek ve şüphelinin savunmasını yapmak için vekaletnameye ihtiyacı yoktur. Vekaletname, yalnızca dosyada bulunan evraklardan suret almak için gereklidir. **Ceza avukatı**, soruşturma aşamasında savunma hakkınızı kullanmanız için gerekli her türlü işlemi vekaletname olmadan yapabilir. **Ceza avukatı**, hakkınızda yakalama, gözaltı, tutuklama gibi işlemler yapıldığında tüm haklarınızı (susma hakkı, lehinize olan delilleri toplama hakkı, yakalama, gözaltı gibi işlemlere itiraz hakkı ) öncelikle size anlatacak, daha sonra bu hakları etkin bir şekilde kullanabilmeniz için savunma yapacaktır.
 
 ###Gözaltındayken ceza avukatıyla görüşebilir miyim? Hangi aşamalarda savunmama katılabilir?
 
@@ -62,13 +66,16 @@ Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incel
 ###Ceza avukatı ve Ceza davası
 
 
-**Ceza avukatı,** aldığı **ceza davası** dosyasını özenle incelemeli, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşmalıdır. **Ceza avukatı,** **ceza davası** dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarmalıdır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
+**Ceza avukatı,** aldığı **ceza davası** dosyasını özenle inceler, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşır. **Ceza avukatı,** **ceza davası** dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
 
 Her **ceza avukatı** bilir ki bir **ceza davası** yargılanan kişinin temel hak ve özgürlüklerine doğrudan müdahaleyle sonuçlanabilecek bir süreç başlatır. Bu nedenle avukat-müvekkil ilişkileri karşılıklı bilgilendirme temelinde, şeffaf bir şekilde yürümelidir.
 
 ###Ceza Davalarında Ceza Avukatı Tutmak Zorunlu mudur?
 
-Türkiye'deki hukuk sisteminde zorunlu avukatlığın kapsamı yasayla tanımlanmıştır. Buna göre, yaşı küçük olanlar, kendini savunamayacak ölçüde malul, sağır ve dilsiz olan şüpheli, sanık veya müştekiler ile alt sınırı 5 yıldan fazla olan bir suçtan yargılanan şüpheli veya sanıklar **ceza avukatı** tutmak zorundadır. **Ceza avukatı** tutmaya maddi gücü yeterli olmayan vatandaşlar için Barolar tarafından ücretsiz **ceza avukatı** atanır.
+Türkiye'deki hukuk sisteminde zorunlu avukatlığın kapsamı yasayla tanımlanmıştır. Buna göre, yaşı küçük olanlar, kendini savunamayacak ölçüde malul, sağır ve dilsiz olan şüpheli, sanık veya müştekiler ile alt sınırı 5 yıldan fazla olan bir suçtan yargılanan şüpheli veya sanıklar **ceza avukatı** tutmak zorundadır. **Ceza avukatı** tutmaya maddi gücü yeterli olmayan vatandaşlar için Barolar tarafından ücretsiz **ceza avukatı** atanır. 
+
+Yasa, avukat zorunluluğu arasın veya aramasın, ister müşteki olarak ister sanık olarak bir ceza davasının tarafı olan kişilerin **ceza avukatı**ndan profesyonel yardım almaları yargılama sürecine daha aktif katılmalarını sağlar. yargılam sırasında meydana gelecek usul hatalarını, yanlış anlamaları ortadan kaldırır. Hakkın etkin bir şekilde ileri sürülmesini sağlar.
+
 
 ###Ceza Avukatı Delil Toplama Yetkisine Sahip midir?
 
@@ -79,12 +86,12 @@ Deliller maddi gerçeği ortaya çıkarmaya yarayan en önemli ceza muhakemesi a
 ###Ceza Avukatlığı, Ceza Avukatı Olmak
 
 
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki **ceza avukatlığı,** avukatlığın en zor branşlarından biridir. **Ceza avukatı olmak,** avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını belirleyemeyeceğinden kendisini bir düzensizlik içinde bulur. Bu nedenledir ki **ceza avukatlığı,** bazen avukatın yaşamının da düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ceza avukatı olmak,** kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki **ceza avukatlığı,** avukatlığın en zor branşlarından biridir. **Ceza avukatı olmak,** avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **Ceza avukatı**nı ararlar. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını bilemeyeceğinden ceza avukatlığı, bazen avukatın iş akışının da düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ceza avukatı olmak,** kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
 
 ###En iyi ceza avukatı, ağır ceza avukatı gibi söylemlere itibar etmeli miyim?
 
-Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip ederek sonuçlandırmaya çalışır. 
+Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
 
 
 
-**Ataköy - Bakırköy** /**Avukat Baran Doğan**
+**Bakırköy-istanbul** /**Avukat Baran Doğan**
