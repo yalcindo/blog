@@ -63,11 +63,11 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 
 3) Ceza zamanaşımının dolması veya genel af veya kişinin ölümü halinde adli sicil kaydı silinir.
 
-###Adli Sicil Kaydım Silinmemiş, Ne yapabilirim? Nasıl Sildirebilirim? Mahkemede Dava Açmaya Gerek Var mı?
+###Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 
 
-**Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne (Adres: Tuna cad. No:10 Yenişehir/Ankara) bir dilekçeyle başvurarak **adli sicil kaydı**nızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. 
+**Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir dilekçeyle başvurarak **adli sicil kaydı**nızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. 
 
-Adli Sicil Kaydının silinmesine dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://www.adlisicil.adalet.gov.tr/pdf/dilekce1.pdf). Bu dilekçenin metin kısmı  **"Adli sicil kaydımın silinmesini arz ve talep ederim"** şeklinde değiştirilmelidir.
+Adli Sicil Kaydının silinmesine dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html). 
 
-**Avukat Baran Doğan**
+**Bakırköy-istanbul / Avukat Baran Doğan**
