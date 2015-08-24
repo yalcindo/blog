@@ -57,3 +57,5 @@ Yukarıda açıkladığımız nedenlerle,tutuklama kararının  kaldırılarak �
                                                                  Tutuklamaya İtiraz Eden
 		                                                        ( İmza )
 
+**Bakırköy - istanbul / Avukat Baran Doğan**
+
