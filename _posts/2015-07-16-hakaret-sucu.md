@@ -87,4 +87,6 @@ Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakare
 
 Hakaret suçunun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
+**Bakırköy-istanbul / Avukat Baran Doğan**
+
 
