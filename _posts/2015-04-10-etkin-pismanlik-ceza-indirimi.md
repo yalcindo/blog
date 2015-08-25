@@ -2,7 +2,7 @@
 layout: blog
 title: Bazı Suçlarda Ceza İndirimi ve Etkin Pişmanlık
 category: ceza-hukuku
-googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, hırsızlık suçu, mala zarar verme suçu, yağma suçu, dolandırıcılık suçu, uyuştucu madde kullanma suçu, ceza davası, ceza avukatı arıyorum istanbul, Bakırköy Ataköy Şirinevler avukat Baran Doğan
+googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, etkin pişmanlık yasası, etkin pişmanlık tck, etkin pişmanlık şartları, hırsızlık suçu, mala zarar verme suçu, yağma suçu, dolandırıcılık suçu, uyuştucu madde kullanma suçu, ceza davası, ceza avukatı arıyorum istanbul, Bakırköy Ataköy Şirinevler avukat Baran Doğan
 summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır? Etkin pişmanlık hükümlerinden kimler yararlanır? Ceza kanunundaki etkin pişmanlık ve ceza indirimi hükümleri, Hırsızlık suçu, mala zarar verme suçu, yağma suçu (gasp suçu), dolandırıcılık suçu, güveni kötüye kullanma suçu, uyuşturucu madde kullanma suçu, hakaret suçu, tehdit suçu, kişiyi hürriyetinden yoksun kılma suçunda etkin pişmanlık ve ceza indirimi konularına değinilmiştir. 
 ---
 
@@ -12,7 +12,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden
 ###Etkin Pişmanlık Nedir?
 
 
-**Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukları gidermesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin **etkin pişmanlık** göstermesi halinde suçun niteliğine göre **ceza indirimi** veya cezalandırılmaması sonucu ortaya çıkar.
+**Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukları gidermesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin **etkin pişmanlık** göstermesi halinde suçun niteliğine göre **ceza indirimi** veya cezalandırılmaması sonucu ortaya çıkar. Bu uygulama halk arasında **etkin pişmanlık yasası** olarak da bilinmektedir. Fakat, **etkin pişmanlık yasası**ndan kastedilen şey çoğunlukla bazı suçlardan sonra ceza indirimini düzenleyen TCK hükümleridir.
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak **etkin pişmanlık ve ceza indirimi** kurumlarından bahsedeceğiz.
 
