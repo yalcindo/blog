@@ -61,7 +61,7 @@ Tutuksuz yapılan duruşmalarda sanık sorgusu yapıldıktan sonra duruşmalara 
 Duruşmalar delillerin tartışıldığı, sanık, müşteki ve tanıkların dinlendiği yargılamanın sözlü bölümüdür. Duruşmada söylenen sözler, talepler, iddia ve savunmalar kural olarak duruşma tutanağına geçirilir. **Ceza avukatı**, duruşmalarda gerek sözlü gerekse yazılı bir şekilde müvekkilini savunacaktır.
 
 **Ceza avukatı**, **ceza davası** müvekkilinin arzu ettiği sonuç dışında karara bağlanırsa, kararı temyiz edecektir.
-Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incelemesi yapılıp sonuçlanıncaya kadar ceza avukatı, müvekkilinin bu yazının kapsamına sığmayacak kadar sayısız hakkını savunacaktır. Biz, bu kısa yazıda ortalama okuyucuya  ceza avukatının fonksiyonunu tanıtmak istedik. 
+Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incelemesi yapılıp sonuçlanıncaya kadar **ceza avukatı,** müvekkilinin savunmasını yapacaktır.
 
 ###Ceza avukatı ve Ceza davası
 
@@ -86,6 +86,10 @@ Deliller maddi gerçeği ortaya çıkarmaya yarayan en önemli ceza muhakemesi a
 ###Ceza avukatı tarafların yerine beyanda bulunabilir mi?
 
 Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Taraflar duruşmaya gelip yaşanan olayı anlattıktan sonra davayı **ceza avukatı** aracılığıyla takip edebilirler. Yargıç her iki tarafı dinler, diğer delillerle birlikte olayın nasıl gerçekleştiğini anlamaya çalışır. **Ceza avukatı** tarafların yerine geçerek olay analatımında bulunamaz. Ancak, **ceza avukatı** olaya dair beyanları değerlendirebilir, anlatımlardaki çelişkileri, savunduğu tarafın iddiasını doğrulayan argümanları ortaya koyabilmek için beyanları tekrar anlatabilir. 
+
+###Dava İle İlgili Tebligatlar Ceza Avukatına mı Bizzat Şahsıma mı Yapılır?
+
+**Ceza avukatı,** müvekkili yerine her türlü yazı ve tebligatı alabilir. Mahkeme veya savcılık da soruşturma ve kovuşturma ile ilgili her türlü tebligatı **ceza avukatı**na yapmak zorundadır. Yukarıda açıkladığımız üzere **ceza avukatı** müvekkili yerine geçip beyanda bulunamaz. Bu nedenle, mahkemede veya savcılıkta müvekkile ait beyanın alınması zorunluluk arzediyorsa tebligat **ceza avukatı**na değil, bizzat müvekkile yapılmalıdır. Onun dışındaki tüm işlemlerde tebligatlar **ceza avukatı**na yapılmak zorundadır, aksi taktirde tebligat usulsüz hale gelir. Temyiz, itiraz gibi haklar için taraflara verilen süreler işlemeye başlamaz. 
 
 ###Ceza Avukatlığı, Ceza Avukatı Olmak
 
