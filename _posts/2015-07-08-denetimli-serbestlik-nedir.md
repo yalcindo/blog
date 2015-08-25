@@ -39,6 +39,8 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 
 Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra **denetimli serbestlik yasası**ndan yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
+Açık cezaevine ayrılma koşulları 22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu kapalı cezaevinde geçiren kişi açık cezaevine ayrılma hakkını kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak daha kolay hale gelmiştir. Açık cezaevine ayrılma koşullarında değişiklik yapan yeni yönetmelik değişikliği için bakınız: [**Açık Cezaevine Ayrılma Yönetmelik Değişikliği**](http://www.resmigazete.gov.tr/eskiler/2015/08/20150822-11.htm)
+
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da **denetimli serbestlik yasası**ndan yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için **denetimli serbestlik yasası**ndan yararlanabilir.
 
 ####b. Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı
@@ -49,7 +51,7 @@ Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonr
 ####c. Hükümlünün İyi Halli Olması Şartı
 ---
 
-Hükümlünün **denetimli serbestlik yasas**ndan yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığına cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
+Hükümlünün **denetimli serbestlik yasası**ndan yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığına cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
 ####d. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
 ---
@@ -102,7 +104,7 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 ###8. Denetimli Serbestlik Sorgulama
 
 
-**Denetimli serbestlik uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
+**Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
 
 Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
