@@ -22,7 +22,7 @@ summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Ser
 ###3. Denetimli Serbestlik Kaç Yıl 
 
 
-**Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin talebi üzerine cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
+**Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun **denetimli serbestlik yasası**ndan yararlanması mümkün değildir. Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin talebi üzerine cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
 
 0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde **denetimli serbestlik yasası** yoluyla serbest bırakılabilecektir.
 
@@ -95,16 +95,16 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 
 * Hükümlü **denetimli serbestlik yasası** ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün **denetimli serbestlik yasası** uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
 
-* Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı denetimli serbestlik yasasından yararlanılamaz. Denetimli serbestlik uygulamasından ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
+* Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı **denetimli serbestlik yasası**ndan yararlanılamaz. **Denetimli serbestlik yasası**ndan ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
 
-* Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile denetimli serbestlik yasasından ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
+* Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile **denetimli serbestlik yasası**ndan ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
 
-* Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
+* Hükümlü, **denetimli serbestlik yasası**ndan yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
 ###8. Denetimli Serbestlik Sorgulama
 
 
-**Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında yer almaktadır.
+**Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır.
 
 Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
