@@ -2,7 +2,7 @@
 layout: blog
 title: Denetimli Serbestlik Nedir?
 category: ceza-hukuku
-googleAnahtar: Denetimli serbestlik, Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması tahliye, açık cezaevine ayrılma yönetmeliği, bakırköy istanbul avukat, avukat baran doğan
+googleAnahtar: Denetimli serbestlik, Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması tahliye, açık cezaevine ayrılma yönetmeliği, denetimli serbestlik yasası 2015, bakırköy istanbul avukat, avukat baran doğan
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğe Uymama ve Sonuçları
 ---
 
