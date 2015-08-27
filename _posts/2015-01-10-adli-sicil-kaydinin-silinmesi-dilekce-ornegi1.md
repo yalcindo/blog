@@ -15,7 +15,7 @@ ________________________________________________________________________________
 >
    **T.C.**
    **ADALET BAKANLIĞI**  
-   **ADLİ SİCİL İSTATİSTİK VE GENEL MÜDÜRLÜĞÜNE**   
+   **ADLİ SİCİL ve İSTATİSTİK GENEL MÜDÜRLÜĞÜNE**   
                                        **ANKARA** 
 
 
