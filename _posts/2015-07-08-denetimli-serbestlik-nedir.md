@@ -89,7 +89,7 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 
 Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluğunun bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler içinde geçerlidir.
 
-###7. Denetimli Serbestlik İle İlgili Yargıtay Kararları
+###7. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları
 
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
