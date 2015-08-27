@@ -10,12 +10,10 @@ summary: Adli sicil kaydının silinmesi (Sabıka kaydının silinmesi) dilekçe
 
 ***Adli Sicil Kaydının Silinmesi Dilekçe Örneği aşağıdadır. Dilekçe PTT vasıtasıyla iadeli taahütlü bir şekilde "Adli Sicil ve İstatistik Genel Müdürlüğü -Adres: Tuna cad. No:10 Yenişehir/Ankara" adresine gönderilmelidir.***    
 _____________________________________________________________________________________________________________________________   
->
->
->
-   **T.C.**
-   **ADALET BAKANLIĞI**  
-   **ADLİ SİCİL ve İSTATİSTİK GENEL MÜDÜRLÜĞÜNE**   
+
+  >**T.C.**
+  **ADALET BAKANLIĞI**  
+  **ADLİ SİCİL ve İSTATİSTİK GENEL MÜDÜRLÜĞÜNE**   
                                        **ANKARA** 
 
 
