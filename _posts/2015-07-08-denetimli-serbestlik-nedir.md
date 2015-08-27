@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Denetimli Serbestlik Nedir?
+title: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası
 category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik, Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması tahliye, açık cezaevine ayrılma yönetmeliği, denetimli serbestlik yasası 2015, bakırköy istanbul avukat, avukat baran doğan
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğe Uymama ve Sonuçları
@@ -39,7 +39,7 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 
 Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra **denetimli serbestlik yasası**ndan yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
-Açık cezaevine ayrılma koşulları 22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren kişi açık cezaevine ayrılma hakkını kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçe hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Açık cezaevine ayrılma koşullarında değişiklik yapan yeni yönetmelik için bakınız: [**Açık Cezaevine Ayrılma Yönetmeliği**](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=)
+Açık cezaevine ayrılma koşulları 22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren kişi açık cezaevine ayrılma hakkını kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. 
 
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da **denetimli serbestlik yasası**ndan yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için **denetimli serbestlik yasası**ndan yararlanabilir.
 
