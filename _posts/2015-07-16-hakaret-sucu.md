@@ -2,11 +2,11 @@
 layout: blog
 title: HAKARET SUÇU ve CEZASI
 category: ceza-hukuku
-googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçunun cezası nedir, hakaret suçu ve hükmün açıklanmasının geri bırakılması, hakaret suçu şikayet süresi, bakırköy istanbul avukat, avukat baran doğan
+googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul avukat
 summary: Hakaret Suçu, Hakaret suçu nedir? Hakaret suçunun cezası nedir? Hangi söz ve davranışlar hakaret suçunu oluşturur? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Hakaret suçu cezası, Alenen hakaret, Hakaret suçu ve hükmün açıklanmasının geri bırakılması, Hakaret suçu ve şikayet süresi.
 ---
 
-###Hakaret Suçu Nedir?
+##Hakaret Suçu Nedir?
 
 **Hakaret suçu,** TCK md. 125-131 arasında şerefe karşı suçlar başlığı altında düzenlenmiştir.  **Hakaret suçu** iki farklı şekilde işlenebilir:  a-) Belli somut bir durum ve olgunun isnat edilmesi suretiyle kişinin şeref ve saygınlığının zedelenmesi, b-) Genel ve soyut nitelikteki söz ve davranışlarla kişinin değersizleştirilmesi, rencide edilmesi.
 Hakaret suçu doğrudan kişinin birey olmaktan kaynaklanan kişilik haklarına saldırıdır. Hakaret suçu ile sosyal bir kavram olan “şeref” ve kişinin özsaygısı korunmaktadır. 
@@ -45,22 +45,22 @@ Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek
 ###Hakaret Suçunun Cezası Nedir?
 
 ####1-) Hakaret Suçunun Basit Şekli
----
+
 
 **Hakaret suçunun cezası,** suçun basit veya nitelikli şekillerinden hangisinin işlendiğine göre farklılık arz eder. Suçun basit şeklinde, yani kamu görevlisi olmayan bir kişinin yüzüne karşı hakaret halinde, **hakaret suçunun cezası** 3 aydan 2 yıla kadar hapis veya adli para cezasıdır. Suçun basit şeklindev hakim ya hapis cezası ya da adli para cezası verecektir. Her iki cezanın aynı anda verilmesi mümkün değildir. Hakim gerekçeli kararında neden hapis cezası veya adli para cezası verdiğini de açıkça gerekçelendirmek zorundadır.
 
 ####2-) Hakaret Suçunun Nitelikli Şekli
----
+
 
 Suçun nitelikli hallerinde **hakaret suçunun cezası,** 1 yıl ile 2 yıl arasındadır. Mağdurun kamu görevlisi olması (avukat, hakim, memur vs.) ve hakaretin görevinden dolayı yapılmış olması, kişinin mensup olduğu dinin kutsal değerlerine veya din özgürlüğünün kullanılmasına hakaret edilmesi **hakaret suçu**nun cezası ağırlaştırılmış nitelikli şekli olarak kabul edilmektedir.
 
 ####3-) Alenen Hakaret
----
+
 
 Hakaretin alenen işlenmesi halinde ceza 1/6 oranında ayrıca arttırılacaktır. Örneğin, bir tv programında veya bir caddede bağırarak hakaret etmek **hakaret suçu**nun aleni bir şekilde işlenmesine neden olur.
 
 ####4-) Kurul Halinde Çalışan Kamu Görevlilerine Hakaret Suçu
----
+
 
 Kurul halinde çalışan kamu görevlilerine görevlerinden dolayı hakaret halinde zincirleme suç hükümleri gereği belirlenen cezanın miktarı ayrıca 1/4’ten 3/4’e kadar arttırılır. Örneğin, bilirkişi heyetine veya mahkeme heyetine hakaret suçlarında suçun nitelikli şeklinden belirlenen ceza arttırılacaktır. 
 
