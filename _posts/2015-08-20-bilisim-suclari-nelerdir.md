@@ -2,7 +2,7 @@
 layout: blog
 title: Bilişim Suçları Nelerdir
 category: ceza-hukuku
-googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, Bilişim suçları şikayet süresi, Bilişim suçları cezası, bilişim suçu cezası, ceza avukatı arıyorum istanbul, ağır ceza avukatı, avukat, bakırköy avukat baran doğan
+googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir,bilişim suçu cezası, istanbul avukat, bakırköy avukat
 summary: Bilişim Suçları Nelerdir? Bilişim Suçu Nedir? Bilişim Suçları Şikayet Süresi, Bilişim Suçları Nasıl Tespit Edilir?  Bilişim Sistemine Girme Şeklindeki Bilişim Suçu, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak, Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu 
 ---
 ##Bilişim suçu nedir?
