@@ -7,7 +7,7 @@ summary: Ceza avukatı ve ceza avukatının fonksiyonu, ortalama okuyucunun anla
 ---
 
 
-###Ceza Avukatı Nedir?
+##Ceza Avukatı Nedir?
 
 
 Türkiye’de **ceza avukatı** adı altında ayrı bir avukatlık dalı yoktur. Halk arasında ceza soruşturmalarını ve davalarını takip eden avukatlara **ceza avukatı** denildiği için biz de makalemizde **ceza avukatı** kavramını kullanacağız.
