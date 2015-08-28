@@ -2,13 +2,13 @@
 layout: blog
 title: Hükmün Açıklanmasının Geri Bırakılması
 category: ceza-hukuku
-googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB, HAGB nedir, Ceza avukatı, hükmün açıklanmasının geri bırakılmasına itiraz,  bakırköy istanbul avukat baran doğan
-summary: Hükmün açıklanmasının geri bırakılması, HAGB, hükmün açıklanmasının geri bırakılması nedir, hükmün açıklanmasının geri bırakılması şartları, HAGB kararına itiraz, denetim süresi ve yükümlülükler, hükmün açıklanmasının geri bırakılması kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
+googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat
+summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının geri bırakılması (HAGB) nedir, hükmün açıklanmasının geri bırakılması şartları, hagb kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 
 
 
-###Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
+##Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
 
 
 **Hükmün açıklanmasının geri bırakılması,** sanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi boyunca kasıtlı bir suç işlenmez ve yükümlülüklere uygun davranılırsa ceza kararının ortadan kaldırılması ve davanın düşmesine yol açan bir cezanın bireyselleştirilmesi kurumudur.  Erteleme, takdiri indirim gibi bireyselleştirme kurumlarında mahkeme kararı birtakım hukuki sonuçlar doğrururken, **hükmün açıklanmasının geri bırakılması** kurumunda ortada sonuç doğuracak bir mahkeme hükmü yoktur. Mahkeme, hukuk sisteminde sonuç doğuracak şekilde kararını henüz açıklamamış, açıklamayı geri bırakmıştır. **HAGB kararı,** kişinin medeni, siyasi veya özel yaşamına hiçbir kısıtlama getirmeden adeta sanığa ikinci bir şans tanır. **HAGB kararı,** suç işleyen kişinin hayatına ceza hukuku müdahalesini adeta askıya almaktadır.
