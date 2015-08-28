@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası
+title: Denetimli Serbestlik Yasaı Nedir? 
 category: ceza-hukuku
-googleAnahtar: Denetimli serbestlik, Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik sorgulama, denetimli serbestlik uymama, denetimli serbestlik uygulaması tahliye, açık cezaevine ayrılma yönetmeliği, denetimli serbestlik yasası 2015, bakırköy istanbul avukat, avukat baran doğan
-summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl İçin Uygulanır? Denetimli Serbestliğe Uymama ve Sonuçları
+googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, denetimli serbestlik kanunu, Ceza avukatı, denetimli serbestlik uymama, denetimli serbestlik imza ihlali, bakırköy avukat, istanbul avukat, avukat baran doğan
+summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestliğe Uymama
 ---
 
 
@@ -34,7 +34,7 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 **Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
 ####a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
----
+
 
 
 Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra **denetimli serbestlik yasası**ndan yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
@@ -44,17 +44,17 @@ Açık cezaevine ayrılma koşulları 22.08.2015 tarihinde yapılan bir yönetme
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da **denetimli serbestlik yasası**ndan yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için **denetimli serbestlik yasası**ndan yararlanabilir.
 
 ####b. Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı
----
+
 
 Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz, toplam cezasının 1/5’ini çocuk cezaevinde geçiren hükümlü **denetimli serbestlik yasası**ndan yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
 
 ####c. Hükümlünün İyi Halli Olması Şartı
----
+
 
 Hükümlünün **denetimli serbestlik yasası**ndan yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığına cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
 ####d. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
----
+
 
 **Denetimli serbestlik uygulaması** ancak hükümlünün talebi halinde uygulanabilir. **Denetimli serbestlik yasası,** kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken **denetimli serbestlik yasası**ndan yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
 
@@ -66,18 +66,18 @@ Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan son
 Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. **Denetimli serbestliğe uymama** halinde kişinin yararlandığı infaz şekli ortadan kalkar. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
 ####a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
----
+
 
 Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde **denetimli serbestlik yasası**nı ihlal etmiş sayılır. **Denetimli serbestlik yasası** ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
 
 ####b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
----
+
 
 Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde **denetimli serbestlik yasası** ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
 imza atmayan bir kez de görüşmeye gitmeyen kişinin **denetimli serbestlik yasası**nı ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
 
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
----
+
 
 Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
