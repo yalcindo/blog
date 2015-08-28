@@ -2,13 +2,12 @@
 layout: blog
 title: Yağma Suçu (Gasp Suçu)
 category: ceza-hukuku
-googleAnahtar: Yağma suçu, Gasp Suçu, Yağma suçu nedir, gasp suçu nedir, Ceza avukatı, etkin pişmanlık, yağma suçunun cezası, ceza avukatı arıyorum istanbul, Bakırköy istanbul avukat Baran Doğan
+googleAnahtar: Yağma suçu, Gasp Suçu, Yağma suçu nedir, gasp suçu nedir, Ceza avukatı, yağma suçunun cezası, bakırköy avukat, ataköy avukat, istanbul avukat 
 summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma suçunun ağırlaştırılmış şekli, yağma suçunun cezası (gasp suçunun cezası), yağma suçunda etkin pişmanlık konularına değinilmiştir.
 ---
----
----
 
-###Yağma Suçu (Gasp Suçu) Nedir? 
+
+##Yağma Suçu (Gasp Suçu) Nedir? 
 
 
 **Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. **Yağma suçu,** hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
@@ -17,14 +16,14 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 
 
 ####1- Başkasına Ait Olan Malın Alınması 
----
+
 
 **Gasp (Yağma) suçu** ile hırsızlık suçunun en önemli ortak unsuru başkasına ait malın alınmasıdır. Başkasının malın zilyedi olması yeterlidir, zilyedin elinden malın alınmasıyla her iki suç oluşur. Zilyedlik, bir mal üzerinde fiili hakimiyete sahip olma anlamına gelmektedir. Bu nedenle mülkiyet kavramından daha geniş bir kavramdır.  Aynı ev içerisinde yaşayanlar ev eşyaları üzerinde birlikte zilyetlik hakkına sahip olduklarından, aynı ev içerisinde yaşayan kişilerin ortak ev eşyalarını alması halinde hırsızlık veya **gasp suçu** oluşmaz. Doktrinde ve uygulamada yalnız taşınır malların alınmasının yağma ve hırsızlık suçuna vücut verebileceği kabul edilmektedir.
 
 **Senet yağması** da ayrı bir fıkra ile TCK md.148’de düzenlendiğinden, bir borç senedinin cebir veya tehdit kullanılarak alınması veya borç senedini hükümsüz kılacak makbuzun mağdurun elinden alınması da **yağma suçu**nu oluşturur. 
 
-####2- Cebir ve Tehdit  
----
+####2- Yağma Suçunda Cebir ve Tehdit  
+
 
 Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın zilyedinin rızası dışında alınmaktadır. Oysa **gasp suçu**nda başkasının zilyedi olduğu mal, cebir ve tehdit kullanılarak alınmaktadır. Cebir ve tehdit, iki suç arasındaki ayrım çizgisidir. **Yağma suçu,** mağdurun kendisinin veya başkasının hayatı, vücut veya cinsel dokunulmazlığına karşı saldırı yapılacağına veya malvarlığı yönünden büyük zarara uğratılacağından bahisle tehdit edilmesi veya cebir kullanılması ile oluşur.
 
@@ -32,12 +31,12 @@ Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın z
 
 
 ####1-) Gasp Suçunun Basit Şekli: 
----
+
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütüyle bağlantısı olmaksızın, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır. **Yağma suçu**nun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
 ####2-) Gasp Suçunun Nitelikli Şekli: 
----
+
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi **gasp suçu**nun nitelikli bir şekilde işlenmesidir:
 
@@ -55,7 +54,7 @@ f) Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu gü
 
 g) Suç örgütüne yarar sağlamak maksadıyla,
 
- h) Gece vaktinde.
+h) Gece vaktinde.
  
 Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası da artmaktadır. 
 
@@ -75,7 +74,7 @@ Suçu işleyen kişinin bir alacağını tahsil amacıyla mağdura karşı tehdi
 
 Etkin pişmanlık kavramının ayrıntıları için bakınız : [Etkin Pişmanlık ve Ceza İndirimi](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
 
-**Yağma suçu**nda etkin pişmanlık mümkündür.  **Etkin pişmanlık** hükümlerinden yararlanmak isteyen kişi Suçu işleyen kişi, suç ortaklarını, azmettirenleri veya suça yardım edenlerin isimlerini verirse **etkin pişmanlık** hükümlerinden yararlanabilir. Mağdurun uğradığı zararın aynen iade veya tazmin suretiyle giderilmesi de etkin pişmanlık hükümlerinden yararlanmak için yeterlidir. **Gasp suçu**nda suç işlendikten sonra fakat dava açılmadan önce etkin pişmanlıkta bulunursa verilecek ceza yarısına kadar indirilebilir. Dava açıldıktan sonra fakat hüküm verilmeden önce etkin pişmanlıkta bulunulursa verilecek ceza 1/3’üne kadar indirilebilir. 
+**Yağma suçu**nda etkin pişmanlık mümkündür.  Etkin pişmanlık hükümlerinden yararlanmak isteyen kişi Suçu işleyen kişi, suç ortaklarını, azmettirenleri veya suça yardım edenlerin isimlerini verirse etkin pişmanlık hükümlerinden yararlanabilir. Mağdurun uğradığı zararın aynen iade veya tazmin suretiyle giderilmesi de etkin pişmanlık hükümlerinden yararlanmak için yeterlidir. **Gasp suçu**nda suç işlendikten sonra fakat dava açılmadan önce etkin pişmanlıkta bulunursa verilecek ceza yarısına kadar indirilebilir. Dava açıldıktan sonra fakat hüküm verilmeden önce etkin pişmanlıkta bulunulursa verilecek ceza 1/3’üne kadar indirilebilir. 
 
 Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır. 
 
