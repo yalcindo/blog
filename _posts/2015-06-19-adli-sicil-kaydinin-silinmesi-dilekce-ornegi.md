@@ -5,17 +5,16 @@ category: ceza-hukuku
 googleAnahtar: adli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli sicil kaydı dilekçe örneği, adli sicil kaydı ne zaman silinir, Ceza avukatı, hangi cezalar adli sicil kaydına işlenir, adli sicil kaydı nasıl silinir, adli sicil kaydı kaç yılda silinir, ceza avukatı arıyorum istanbul, bakırköy ataköy avukat, avukat baran doğan
 summary: Hangi mahkeme kararlarının adli sicile işlenebileceği, adli sicil kaydının silinmesi, nasıl ve ne zaman adli sicil kaydı bilgilerinin silineceği, adli sicil kaydının silinmesine dair dilekçe örneğine kısaca yer verilmiştir.
 ---
----
----
 
-###Adli Sicil Kaydı Nedir?
+
+##Adli Sicil Kaydı Nedir?
 
 
 Kesinleşmiş mahkeme kararına dayanılarak kişiler hakkında ceza ve güvenlik tedbirlerine ilişkin bilgilerin kaydedildiği sisteme “adli sicil” denilmektedir. **Adli sicil kaydı**na halk dilinde **sabıka kaydı** da denilmektedir.
 
 Kişinin işlediği herhangi bir suç nedeniyle hükmedilen ceza veya güvenlik tedbiri yaptırımının **adli sicil kaydı**na işlenebilmesi için mahkeme kararının kesinleşmesi gerekir. Kesinleşmeyen mahkeme kararları **adli sicil kaydı**nda yer almaz. 
 
-Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kararı **adli sicil kaydı**na işlenir. Fakat, mahkeme **hükmün açıklanmasının geri bırakılması (HAGB)** kararı vermişse, bu karar **adli sicil kaydı**na işlenemez. HAGB kararları teknik olarak mahkumiyet olarak kabul edilmemektedir. Bu nedenle ayrı bir sisteme kaydedilirler.
+Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kararı **adli sicil kaydı**na işlenir. Fakat, mahkeme hükmün açıklanmasının geri bırakılması (HAGB) kararı vermişse, bu karar **adli sicil kaydı**na işlenemez. HAGB kararları teknik olarak mahkumiyet olarak kabul edilmemektedir. Bu nedenle ayrı bir sisteme kaydedilirler.
 
 ###Hangi bilgiler adli sicil kaydına işlenir? Her mahkumiyet kararı adli sicil kaydına işlenir mi?
 
