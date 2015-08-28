@@ -5,21 +5,21 @@ category: ceza-hukuku
 googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, Bilişim suçları şikayet süresi, Bilişim suçları cezası, bilişim suçu cezası, ceza avukatı arıyorum istanbul, ağır ceza avukatı, avukat, bakırköy avukat baran doğan
 summary: Bilişim Suçları Nelerdir? Bilişim Suçu Nedir? Bilişim Suçları Şikayet Süresi, Bilişim Suçları Nasıl Tespit Edilir?  Bilişim Sistemine Girme Şeklindeki Bilişim Suçu, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak, Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu 
 ---
-###Bilişim suçu nedir?
+##Bilişim suçu nedir?
 
 **Bilişim suçları nelerdir** sorusunun cevabı çok geniş bir alanı kapsar. Bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda gerçekleştirilen suçlara **bilişim suçları** denilmektedir. **Bilişim suçu** terimi yerine bilgisayar suçu, internet suçu, elektronik ortamda işlenen suçlar gibi kavramlar da kullanılmaktadır. Bilginin elektronik ve teknolojik araçlar kullanılarak aktarılmasına bilişim, bu süreçte işlenen suçlar da **bilişim suçları** olarak tarif edilebilir.
 
-###Bilişim Suçları Nasıl Tespit Edilir?
+##Bilişim Suçları Nasıl Tespit Edilir?
 
 **Bilişim suçları**nın tespiti için çoğu zaman Microsoft Corporation şirketinden yardım alınmaktadır. Öncelikle erişilen bilişim sisteminin müştekiye ait olup olmadığı belirlenmektedir. İşlenen **bilişim suçu**nun özelliğine göre kullanıcıların IP adresleri tespit edilmekte, bilgisayar harddisklerine el konularak incelenmektedir. Şüpheli, söz konusu bilgisayarı veya elektronik aracı başkasının kullandığı savunmasını ileri sürüyorsa bu savunma çerçevesinde başkasının sisteme girip girmediği incelenmektedir. Eğer şüpheli kendi bilgisayarı veya elektronik aracı dışında bir bilgisayar veya araç kullanarak mağdurun sistemine girmişse buna dair inceleme ve araştırma yapılır, varsa bu hususla ilgili tanıklar dinlenir. **Bilişim suçları** yalnızca teknoloji kullanılarak ispatlanmaz, **bilisim suçu**nun özelliğine göre tanıklarla da sonuca ulaşılabilir.
 
-###Bilişim Suçları Şikayet Süresi
+##Bilişim Suçları Şikayet Süresi
 
 **Bilişim suçları,** savcılık tarafından kendiliğinden soruşturulması gereken suçlardandırlar. Bu nedenle, soruşturulmaları şikayete tabi değildir. Ancak, TCK’daki zamanaşımı süreleri içinde savcılığa bildirimde bulunulursa etkili bir soruşturma yapılabilir. TCK’ya göre en basit **bilişim suçu**nun zamanaşımı 8 yıldır. 
 
-###TCK’da Düzenlenen Bilişim Suçları Nelerdir?
+##TCK’da Düzenlenen Bilişim Suçları Nelerdir?
 
-####1- Bilişim Sistemine Girme Şeklindeki Bilişim Suçu (TCK md. 243/1)
+###1- Bilişim Sistemine Girme Şeklindeki Bilişim Suçu (TCK md. 243/1)
 ---
 
 "Bilişim sistemine girmek", bir bilişim sisteminde bulunan verilere uzaktan bağlanmak suretiyle veya bizzat elektronik sisteme fiziki yakınlık yoluyla erişmek anlamına gelmektedir. **Bilişim suçları** içerisinde işlenmesi en basit olan suç tipidir. Örneğin, bir kişinin facebook, twitter, instagram, e-mail adreslerine izni olmadığı halde kullanıcının şifresini veya diğer güvenlik önlemlerini devre dışı bırakarak erişmek **bilişim sistemine girme suçu**nu teşkil eder. Hemen belirtelim ki kullanıcının erişime izin verip vermediği pek çok şekilde anlaşılabilir. Örneğin, Facebook’ta sanal ortamda arkadaşlık bağı kurularak veya kullanıcının belli seçenekleri tercih etmesi yoluyla hangi bilgilerin, kime erişime açık olduğu ortaya konulur. Kullanıcının erişime açmadığı bilgilerine usulsüz bir şekilde elektronik ortamda bazı hileler kullanarak ulaşmaya çalışmak **bilişim sistemine girme suçu**nun işlenmesine neden olur.
@@ -30,7 +30,7 @@ Bilişim sistemine girme suçunun cezası, 1 yıla kadar hapis veya adli para ce
 
  Bilişim sistemine girilmesi nedeniyle sistemdeki veriler değişir veya yok olursa bu durumda ceza miktarı 6 aydan 2 yıla kadar hapis cezasıdır (TCK md. 243/3). Örneğin, bir kişinin facebook veya e-mail adresine girilmesi nedeniyle kayıtlı bilgiler yok oluşa sanık bu fıkra kapsamında cezalandırılacaktır. Bu fıkra ile ilgili dikkat edilmesi gereken nokta, sanığın sistemdeki bilgileri değiştirmek için özel bir çabası olmamalıdır, sadece sisteme girildiği için bu bilgiler değişmeli veya yok olmalıdır. Örneğin, bir kişinin facebook hesabına girerek resim koymak bu fıkra kapsamında değil, aşağıda anlatacağımız TCK md. 244 çerçevesinde cezalandırılacaktır.
 
-####2- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları ( TCK md. 244/1-2)
+###2- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları ( TCK md. 244/1-2)
 ---
 
 Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi 1 yıl ile 5 yıl arasında cezalandırılır (TCK md. 244/1). Şüphelinin sistemin işleyişini engellemek veya bozmak dışında bir fiili yoksa bu fıkra uygulanmaktadır.
@@ -39,7 +39,7 @@ Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi 1 yıl ile 5 y�
 
 Yargıtay bir kararında eşlerden birinin de diğerine ait facebook adresinin şifresini değiştirerek erişimi engellemesi ve uygunsuz resim paylaşmasını TCK md. 244/2 kapsamında sisteme girişi engelleme ve verileri değiştirme suçu olarak kabul etmiştir.
 
-####3- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi (TCK md. 244/3)
+###3- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi (TCK md. 244/3)
 ---
 
 Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka veya kamu kurumunun bilişim sistemi üzerinden gerçekleştirilmesinin daha ağır şekilde cezalandırılması öngörülmüştür. Bu fıkra suçun nitelikli hali olarak kabul edildiğinden **bilişim suçu**nun ikinci fıkradaki cezası yarı oranında arttırılarak ceza 9 aydan 4,5 yıla kadar hapis cezası olmaktadır.
@@ -49,7 +49,7 @@ Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka ve
 
 Yargıtay, bir internet sitesi üzerinden araç satışı için kaparo alan şahsın gerçekten aracın sahibi olmaması karşısında işlenen suçu **bilişim suçu** değil, TCK 158/f’de tanımlanan nitelikli dolandırıcılık suçu olarak kabul etmiştir.
 
-####4- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak (TCK md. 244/4)
+###4- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak (TCK md. 244/4)
 ---
 
 Sistemi engelleme, verileri değiştirme veya yok etme gibi fiillerle fail kendisine veya başkasına haksız bir çıkar sağlıyorsa bu fıkra kapsamında cezalandırılacaktır. Bu fıkra kapsamındaki fiilin cezası 2 yıldan 6 yıla kadar hapis ve 5 bin güne kadar adli para cezasıdır. Yani, fail hem hapis cezasıyla hem de adli para cezasıyla aynı anda cezalandırılmaktadır.
@@ -62,7 +62,7 @@ Gerçek bir kişi kullanılmadan hiç kimseyle yüz yüze gelmeden sadece biliş
 
 Başkasına ait kredi kartı veya banka kartı bilgilerinin internet üzerinden kullanılarak alışveriş yapılması bu maddedeki **bilişim suçları**nı değil, TCK md. 245’de düzenlenen “banka veya kredi kartlarının kötüye kullanılması” suçunu oluşturur.
 
-####5- Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu (TCK md. 245)
+###5- Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu (TCK md. 245)
 ---
 
 
