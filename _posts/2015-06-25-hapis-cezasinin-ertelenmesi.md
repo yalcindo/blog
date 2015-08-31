@@ -3,7 +3,8 @@ layout: blog
 title: Hapis Cezasının Ertelenmesi
 category: ceza-hukuku
 googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat
-summary: Hapis Cezasının Ertelenmesi Nedir? Hapis Cezasının Ertelenmesi Şartları, Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler, Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi açıklanmıştır.
+summary: Hapis Cezasının Ertelenmesi Nedir? Hapis Cezasının Ertelenmesi Şartları, Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler, Ceza erteleme nasıl hukuki sonuçlar doğurur, hapis cezasının ertelenmesinin memurluğa  ve diğer kamu görevlerine etkisi açıklanmıştır.
+keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat, ağır ceza avukatı
 ---
 
 
@@ -22,24 +23,24 @@ TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dol
 
 
 ####1) Cezanın Miktarı Yönünden Ceza Erteleme Şartı
----
+
 
 Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise **hapis cezanın ertelenmesi** mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde **ceza erteleme** kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
 
 **İstisna:** **Hapis cezasının ertelenmesi** için zorunlu olan 2 yıllık ceza miktarı sınırı, 18 yaşından küçük çocuklar ve 65 yaşından büyük kişiler için 3 yıldır. Yani, 18 yaşından küçük bir kişi 3 yıl ceza aldığında bu ceza ertelenebilir.
 
 ####2) Kasten İşlenmiş Bir Suçtan Mahkum Olmamak
----
+
 
 Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. **Ceza erteleme**den yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun **hapis cezasının ertelenmesi** kurumundan yararlanabilir. **Ceza erteleme**ye engel olan suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine **cezanın ertelenmesi** mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine **ceza erteleme** kurumundan yararlanabilir.
 
 ####3) Yargılama Sırasında Tekrar Suç İşlemeyeceği Kanaatinin Mahkemede Oluşması
----
+
 
 **Hapis Cezasının ertelenmesi,** cezanın suçlunun kişiliğine uygun hale getirilmesi anlamını taşır. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususu yargıç tarafından değerlendirilerek **ceza erteleme**si yapılıp yapılmayacağına karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olamaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay’ın denetimine imkan sağlayacak şekilde gerekçelendirecektir.
 
-####4) Zararın Giderilmesi Şartı
----
+####4) Hapis Cezasının Ertelenmesi İçin Zararın Giderilmesi Şartı
+
 
 Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu **ceza erteleme** kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
 
@@ -60,7 +61,7 @@ Denetim süresi, **hapis cezasının ertelenmesi**ne ilişkin mahkeme kararını
 
 
 
-###Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi
+###Hapis Cezasının Ertelenmesinin Memurluğa ve Diğer Kamu Görevlerine Etkisi
 
 
 **Hapis cezasının ertelenmesi** halinde dahi ortada bir mahkumiyet hükmü vardır. Mahkumiyet hükmü yargılanan kişinin cezaevine girmemesi, velayet-vesayet hakkını kullanması gibi bazı sonuçlar dışında kişinin hayat alanına ceza hukuku müdahalesine neden olur. Hakkında **ceza erteleme** kararı verilen kişinin cezası 1 yıldan fazla ise, ceza infaz edilene kadar memuriyet veya milletvekilliği gibi kamu görevlerine aday dahi olamaz.
@@ -81,4 +82,4 @@ Eğer hakkında **ceza erteleme** kararı verilen kişinin daha önce adli sicil
 
 
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
