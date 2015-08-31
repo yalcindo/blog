@@ -2,7 +2,7 @@
 layout: blog
 title: İç Güvenlik Paketi (İç Güvenlik Kanunu)
 category: ceza-hukuku
-googleAnahtar: ic guvenlik paketi, iç güvenlik kanunu, ceza avukatı, istanbul avukat, bakırköy avukat
+googleAnahtar: ic guvenlik paketi, iç güvenlik kanunu, ceza avukatı, istanbul avukat, bakırköy avukat, ataköy avukat
 summary: Kamuoyunda iç güvenlik paketi olarak bilinen "Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun" (İç Güvenlik Kanunu) hükümlerinin tarafımızdan hukuksal değerlendirilmesi yapılmıştır.
 ---
 
