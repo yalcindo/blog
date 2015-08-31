@@ -16,7 +16,7 @@ Boşanma süreci, evli çiftler için zorlu ve yıpratıcı bir süreçtir. Bu s
 Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin evlilik içinde yaşadığı olayların bir gözlemci gibi boşanma avukatı tarafından dinlenmesi gerekir. **Boşanma avukatı,** dinlediği olaylardan boşanmaya sebep teşkil edecek olguları seçerek dava hazırlığı yapar. Çünkü, hukuk sistemimize göre her boşanmanın mutlaka bir sebebi olmak zorundadır. Sebepsiz açılan her boşanma davası reddedilir.
 
 
-###Boşanma Sebepleri
+###Boşanma Sebepleri ve Boşanma Avukatının Dava Hazırlığı
 
 
 
@@ -38,7 +38,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 
 **Boşanma sebebi**nin doğru tespit edilmesi çok önemlidir. Çünkü, hakim davacının **boşanma sebebi**ne göre davayı inceleyecektir. Bu yüzden davanın hazırlık süreci mutlaka **boşanma avukatı** ile birlikte yürütülmelidir. 
 
-###Boşanma Davası
+###Boşanma Davası ve Boşanma Avukatı
 
 
 **Boşanma avukatı,** doğru **boşanma sebepleri**ni tespit ettikten sonra dava dilekçesini buna göre hazırlayacaktır. Özellikle tarafların birbirlerinden boşanma dışında talepleri de olabilir. **Boşanma avukatı,** müvekkiline şu soruları sorarak talepleri netleştirmelidir:
