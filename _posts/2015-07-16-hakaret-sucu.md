@@ -4,6 +4,7 @@ title: HAKARET SUÇU ve CEZASI
 category: ceza-hukuku
 googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul avukat
 summary: Hakaret Suçu, Hakaret suçu nedir? Hakaret suçunun cezası nedir? Hangi söz ve davranışlar hakaret suçunu oluşturur? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Hakaret suçu cezası, Alenen hakaret, Hakaret suçu ve hükmün açıklanmasının geri bırakılması, Hakaret suçu ve şikayet süresi.
+keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat,
 ---
 
 ##Hakaret Suçu Nedir?
@@ -87,6 +88,6 @@ Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakare
 
 Hakaret suçunun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
 
 
