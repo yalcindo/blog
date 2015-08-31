@@ -2,8 +2,9 @@
 layout: blog
 category: ceza-hukuku
 title: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları
-googleAnahtar: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları, ceza avukatı, spor hukuku, ataköy bakırköy avukat, avukat baran doğan
+googleAnahtar: Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları, ceza avukatı, ağır ceza avukatı, spor hukuku, ataköy avukat, bakırköy avukat, istanbul avukat
 summary: Spor alanlarında, özellikle futbol sahalarında bireysel veya toplu olarak yapılan hakaret içeren tezahürat ve halkı aşağılama mahiyetinde olup suç teşkil eden fiiller incelenmiştir.
+keywords: Spor Alanlarında veya Çevresinde Hakaret İçeren Tezahürat ve Halkı Aşağılama Suçları, ceza avukatı, ağır ceza avukatı, spor hukuku, ataköy avukat, bakırköy avukat, istanbul avukat
 ---
 **I-GİRİŞ**
 
@@ -102,4 +103,4 @@ Maddenin ikinci fıkrasında düzenlenen suç hem bu maddede hem de TCK’da res
 
 **Spor hukuku,** Türkiye’de özellikle ceza hukuku yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de zaman içinde daha sağlıklı bir şekilde yapılabilecektir.
 
-**Ataköy** / **Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
