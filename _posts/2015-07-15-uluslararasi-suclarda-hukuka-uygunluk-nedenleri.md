@@ -2,7 +2,8 @@
 layout: blog
 title: Uluslararası Suçlarda Hukuka Uygunluk Nedenleri 
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi, ceza avukatı, Uluslararası suçlarda hukuka uygunluk nedenleri, avukat Baran Dogan, bakırköy avukat.
+googleAnahtar: Uluslararası Ceza Mahkemesi, ceza avukatı, uluslararası suçlarda hukuka uygunluk nedenleri, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+keywords: Uluslararası Ceza Mahkemesi, ceza avukatı, uluslararası suçlarda hukuka uygunluk nedenleri, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren suçlarda hukuka uygunluk nedenleri olan meşru savunma, amirin emrini ifa ve zorunluluk hali incelenmiştir.
 ---
 
@@ -56,4 +57,4 @@ Statü, zorunluluk halini ayrı bir bent halinde açıkça düzenlemiştir. Stat
 
 **iv.	Orantılılık ilkesi:** Tehlikeden başka türlü korunma imkanı bulunmayan failin, korunmak için yaptığı hareketin koruduğu değer ile zarar verilen değer arasında bir orantı mevcut olmalıdır. Korunan değer ile zarar verilen değer en azından birbirine eşit olmalıdır. Statüde bu ilke “failin, meydana gelmesi ve önlenmesi gereken zarardan daha fazlasına yol açmayı kastetmemiş olmak koşuluyla” şeklinde düzenlenmiştir.
 
-**Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
