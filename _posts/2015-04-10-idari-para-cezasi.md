@@ -2,8 +2,9 @@
 layout: blog
 title: İdari Para Cezası
 category: ceza-hukuku
-googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy avukat
+googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy ataköy avukat
 summary: İdari Para Cezası Nedir? Hangi para cezaları idari para cezası sayılır? İdari para cezası ödenmediğinde hapis cezasına çevrilir mi? İdari para cezası için haciz yapılır mı? İdari Para Cezasına İtiraz Süresi Nedir? İdari para cezasına nereye itiraz edilir? İdari para cezasına itiraz hangi mahkemeye yapılır? İdari para cezası nereye ödenir? Bakaya ve yoklama kaçağı olanlara verilen idari para cezası hapis cezasına çevrilir mi? Sosyal Güvenlik Kurumu tarafından verilen idari para cezalarına itiraz nasıl yapılır? idari para cezası adli sicil kaydına (sabıka kaydına) işler mi? 
+keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
 ---
 
 ##İdari Para Cezası Nedir?
@@ -76,6 +77,6 @@ Trafik cezaları, vergi dairesine, bankaya veya PTT’ye ödenebilir.
 
 **İdari para cezası,** adli sicil kaydına (sabıka kaydına) işlemez. İdari para cezaları kabahat niteliğindeki suçlar için verilir. Adli sicil kaydı ise yalnızca işlenen bir suç karşılığında mahkemelerce verilen kesinleşmiş cezalar için tutulmaktadır. 
 
-**Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
 
 
