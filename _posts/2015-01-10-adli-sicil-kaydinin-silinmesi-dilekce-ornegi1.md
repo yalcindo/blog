@@ -2,9 +2,9 @@
 layout: blog
 title: Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 category: ceza-hukuku
-googleAnahtar: Adli sicil kaydının silinmesi dilekçe örneği, sabıka kaydının silinmesi dilekçe örneği, adli sicil kaydı silme dilekçe örneği, sabıka kaydı silme dilekçe örneği, Ceza avukatı, ceza avukatı arıyorum istanbul, ağır ceza avukatı, avukat,  bakırköy İstanbul avukat baran doğan
+googleAnahtar: Adli sicil kaydının silinmesi dilekçe örneği, sabıka kaydının silinmesi, adli sicil kaydı silme, ağır ceza avukatı, Ataköy avukat, bakırköy-İstanbul avukat
 summary: Adli sicil kaydının silinmesi (Sabıka kaydının silinmesi) dilekçe örneği
-keywords: adli sicil kaydı, sabıka kaydı, adli sicil kaydının silinmesi dilekçe örneği
+keywords: adli sicil kaydı, sabıka kaydı, adli sicil kaydının silinmesi dilekçe örneği, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 ---
 
 
