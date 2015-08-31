@@ -2,8 +2,8 @@
 layout: blog
 title: Uluslararası Suçlar-2 "Savaş Suçları" 
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, savaş suçları nelerdir, savaş suçu nedir, avukat, ceza avukatı, avukat Baran Dogan, bakırköy istanbul avukat
----
+googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, savaş suçları nelerdir, savaş suçu nedir, avukat, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+keywords: Uluslararası Ceza Mahkemesi, savaş suçları, savaş suçları nelerdir, savaş suçu nedir, avukat, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 
 Savaş suçları, 2002’den beri yürürlükte bulunan Uluslararası Ceza Mahkemesi Statüsü’nün 8. maddesinde düzenlenmiştir. Türkiye,Statü’ye taraf olmasına rağmen iç hukukunda gerekli onay prosedürünü yerine getirmediğinden Statü henüz Türkiye açısından yürürlükte değildir. 
 
@@ -159,4 +159,4 @@ Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği
 **xv)**	Çekirdeği tamamen kaplamayan sert kovanlı ya da yarıkları olan mermiler gibi, insan vücudunda patlayan ya da ilerleyen mermilerin kullanılması.
 
 
-***Bakırköy- istanbul / Avukat Baran Doğan***
+***Ataköy-Bakırköy- İstanbul / Avukat Baran Doğan***
