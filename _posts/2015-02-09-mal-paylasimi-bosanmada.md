@@ -4,8 +4,8 @@ title: Boşanmada Mal Paylaşımı
 category: medeni-hukuk
 googleAnahtar: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halinde evlilik mallarının paylaşımı, mal paylaşımı kanunu, boşanma avukatı, bakırköy avukat, ataköy avukat
 summary: Boşanmada mal paylaşımı nasıl yapılır? Mal paylaşımı sözleşmesi mümkün mü? Anlaşmalı boşanmada mal paylaşımı nasıl yapılır? Evlenmeden önce alınan mallar ile evlilikten sonra alınan mallar eşler arasında ortak mıdır? Evlilik sırasında miras kalan veya bağışlanan mallar ortak mıdır? evlilikten önce alınan malların kira geliri eşler arasında paylaşıma dahil midir?
+keywords: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halinde evlilik mallarının paylaşımı, mal paylaşımı kanunu, evlenmeden önce alınan mallar, evlilik öncesi alınan mallar, avukat, boşanma avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 ---
-
 ##Boşanmada Mal Paylaşımı Nedir?
 
 
@@ -13,9 +13,9 @@ summary: Boşanmada mal paylaşımı nasıl yapılır? Mal paylaşımı sözleş
 
 Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. **Mal paylaşımı** konusunda 01.01.2002 tarihinden önceki dönemin tabi olduğu hukuki kurallar ile bu tarihten sonraki dönemin tabi olduğu hukuki kurallar tamamen farklıdır. 
 
-**Birinci Dönem:** 01.01.2002 tarihinden önce satın alınan mallar kimin üzerine kayıtlıysa mal ona ait sayılır. Çünkü 01.01.2002 tarihinden önce yürürlükte olan Medeni Kanun, eşler arasında yasal olarak Mal Ayrılığı Rejiminin geçerli olduğunu kabul etmekteydi.
+* **Birinci Dönem:** 01.01.2002 tarihinden önce satın alınan mallar kimin üzerine kayıtlıysa mal ona ait sayılır. Çünkü 01.01.2002 tarihinden önce yürürlükte olan Medeni Kanun, eşler arasında yasal olarak Mal Ayrılığı Rejiminin geçerli olduğunu kabul etmekteydi.
 
-**İkinci Dönem (Şimdiki Dönem):** 01.01.2002 tarihinden sonra yürürlüğe giren mevcut Medeni Kanun ise malların yarı yarıya paylaşımı esasına dayanan **Edinilmiş Mallara Katılma Rejimi**ni yasal mal rejimi olarak kabul etmiştir. Yani, eşlerin evlilik içerisinde elde ettiği mallar kural olarak (istisnalara aşağıda değineceğiz) yarı yarıya paylaşılacaktır. 
+* **İkinci Dönem (Şimdiki Dönem):** 01.01.2002 tarihinden sonra yürürlüğe giren mevcut Medeni Kanun ise malların yarı yarıya paylaşımı esasına dayanan **Edinilmiş Mallara Katılma Rejimi**ni yasal mal rejimi olarak kabul etmiştir. Yani, eşlerin evlilik içerisinde elde ettiği mallar kural olarak (istisnalara aşağıda değineceğiz) yarı yarıya paylaşılacaktır. 
 
 Her iki dönem açısından da temel kural **evlenmeden önce alınan mallar** kimin üzerine kayıtlıysa onun kişisel malı sayılır ve **boşanmada mal paylaşımı**nda hesaba katılmaz.
 
@@ -28,7 +28,7 @@ Her iki dönem açısından da temel kural **evlenmeden önce alınan mallar** k
 
 **1- Boşanmada mal paylaşımı yapılırken öncelikle her eş kendi kişisel mallarını geri alır, yani bu mallar paylaşıma dahil edilmez. Kişisel mal sayılan bu mallar şunlardır:**
 
-*	Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla elde ettiği malvarlığı değerleri,
+* Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla elde ettiği malvarlığı değerleri,
 
 * Eşlerin üçüncü kişilerden olan manevi tazminat alacakları,
 
@@ -54,7 +54,7 @@ Eşlerden biri herhangi bir malın kişisel mal olduğu iddiasında ise bu iddia
 
 
 
-###Evlilik İçinde Edinilecek Mallara Yarı Yarıya Sahip Olabilmek İçin Evlenirken Sözleşme Yapmam Gerekir mi?
+###Evlilik İçinde Edinilecek Mallara Mal Paylaşımında Yarı Yarıya Sahip Olabilmek İçin Evlenirken Sözleşme Yapmam Gerekir mi?
 
 
 Mevcut Medeni Kanuna göre yasal mal rejimi “**Edinilmiş Mallara Katılma Rejimi**” dir. Yani evlenirken hiçbir sözleşme yapılmasına gerek yoktur. Deyim yerindeyse, eşler nikah defterine imza attıktan hemen sonra satın alınan tüm mallar, **boşanma** sırasında kural olarak yarı yarıya paylaşılacaktır.  Malların yarı yarıya paylaşılması doğrudan kanundan kaynaklanan bir haktır.
@@ -68,7 +68,7 @@ Mevcut Medeni Kanuna göre yasal mal rejimi “**Edinilmiş Mallara Katılma Rej
 
 
 
-###Evlilik İçinde Edineceğim Malları Paylaşmak İstemiyorum Ne Yapmalıyım?
+###Evlilik İçinde Edineceğim Malların Boşanmada Mal Paylaşımına Dahil Olmasını İstemiyorum Ne Yapmalıyım?
 
 
 Eşler evlenirken veya evlendikten sonra diledikleri mal rejimini seçebilirler. Eşler, Mal Ayrılığı Rejimini sözleşme yaparak seçebilir. Böylece her eş evlilik içinde kazandığı mal üzerinde tek başına hak sahibi olur. Boşanma esnasında diğer eş evlilik içerisinde edinilmiş mal üzerinde hak talebinde bulunamaz. Mal Ayrılığı Sözleşmesi, iki şekilde yapılabilir. Birinci yöntem evlilik sırasında evlendirme memurluğuna bir dilekçe verilerek eşler arasında Mal Ayrılığı Rejimi’nin seçildiğinin bildirilmesidir. İkinci yöntem ise noterde Mal Ayrılığı Sözleşmesi yapılmasıdır. Noterde yapılacak sözleşme evlilikten önce veya sonra her zaman yapılabilir. Yani, eşler evlendikten 5 yıl sonra dahi notere giderek Mal Ayrılığı Sözleşmesi yapabilirler. **Boşanma halinde evlilik mallarının paylaşımı,** bu sözleşmeyle sağlandığından boşanma sırasında çiftler arasında ortaya çıkması muhtemel bir uyuşmazlık engellenmektedir. 
@@ -77,13 +77,13 @@ Eşler sözleşmeyle “Mal Ortaklığı” gibi  evliliğe özel bir ortaklık 
 
 
 
-###Evli Olduğum Sırada Bana Kalan Mirasa Boşanma Sırasında Eşim de Ortak Olabilir mi?
+###Evli Olduğum Sırada Bana Kalan Mirasa Boşanmada Mal Paylaşımı Sırasında Eşim de Ortak Olabilir mi?
 
 **Evlilik sırasında eşlerden birine kalan miras**,  kendisine miras kalan eşin kişisel malı olur. Yani **boşanma** halinde, diğer eş **mal paylaşımı** sırasında miras kalan mal üzerinde hiçbir hak talep edemez. Fakat, miras kalan mal nedeniyle elde edilen gelirler, örneğin miras kalan gayrımenkulün kiraya verilmesiyle elde edilen kira geliri, edinilmiş mal sayıldığından diğer eş **mal paylaşımında** evlilik sırasında elde edilen gelirlerin yarısı üzerinde hak sahibi olur.
 
 
 
-###Evlilik Sırasında Şahsıma Bağışlanan Mallar veya Paralara Boşanma Sırasında Eşim Ortak Olabilir mi?
+###Evlilik Sırasında Şahsıma Bağışlanan Mallar veya Paralara Boşanmada Mal Paylaşımı Sırasında Eşim Ortak Olabilir mi?
 
 
 Evlilik sırasında eşlerden birine bağışlanan her türlü ev, araba, para veya parasal değeri olan her şey  bağışlanan eşin kişisel malıdır. Yani, diğer eş **boşanma** halinde **mal paylaşımı** sırasında bu mallar üzerinde hiçbir hak talep edemez. Fakat bu malların evlilik içerisinde elde edilen kira gelirleri, faiz gelirleri edinilmiş mal kabul edildiğinden, **boşanma** sırasında diğer eş bu gelirlerin yarısı üzerinde hak sahibi olur.
@@ -96,13 +96,13 @@ Evlilik sırasında eşlerden birine bağışlanan her türlü ev, araba, para v
 
 
 
-###Üçüncü Bir Kişiden Maddi ve Manevi Tazminat Aldım, Boşanma Sırasında Eşim Bu Maddi ve Manevi Tazmini tazminat Üzerinde Hak Sahibi Olur mu?
+###Üçüncü Bir Kişiden Maddi ve Manevi Tazminat Aldım, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Maddi ve Manevi Tazmini tazminat Üzerinde Hak Sahibi Olur mu?
 
 Manevi tazminatlar, kişisel mal olarak kabul edildiğinden **boşanmada mal paylaşımı** davasında diğer eşin manevi tazminat üzerinde hiçbir yasal hakkı yoktur. Maddi tazminatlar ise edinilmiş mal olarak kabul edilir. Yani, eşlerden biri bedensel zarar nedeniyle herhangi bir maddi tazminata hak kazanırsa, diğer eş boşanma halinde maddi tazminatın yarısı üzerinde hak sahibi olur.
 
 
 
-###Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanma Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
+###Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
 
 
 
@@ -117,7 +117,7 @@ Eşlerden biri diğer eşin üzerine kaydedilen herhangi bir taşınır veya ta�
 
 
 
-###Evlilik Sırasında %50 Dışında Bir Paylaşım Belirlemek Mümkün mü?
+###Evlilik Sırasında %50 Dışında Bir Mal Paylaşımı Belirlemek Mümkün mü?
 
 
 Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dışında bir oran belirleyebilir. Eşler, **boşanma halinde malların paylaşım** oranını noterde yapacakları bir sözleşmeyle belirleyebilir.
