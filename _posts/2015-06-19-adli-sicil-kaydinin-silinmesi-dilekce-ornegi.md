@@ -4,6 +4,7 @@ title: Adli Sicil Kaydının Silinmesi
 category: ceza-hukuku
 googleAnahtar: adli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli sicil kaydı silme dilekçe örneği, Ceza avukatı, bakırköy avukat, ataköy avukat, 
 summary: Hangi mahkeme kararlarının adli sicile işlenebileceği, adli sicil kaydının silinmesi, nasıl ve ne zaman adli sicil kaydı bilgilerinin silineceği, adli sicil kaydının silinmesine dair dilekçe örneğine kısaca yer verilmiştir.
+keywords: dli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli sicil kaydı silme dilekçe örneği, Ceza avukatı, bakırköy avukat, ataköy avukat, ağır ceza avukatı
 ---
 
 
@@ -69,4 +70,4 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 
 Adli Sicil Kaydının silinmesine dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html). 
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
