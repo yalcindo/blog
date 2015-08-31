@@ -2,7 +2,8 @@
 layout: blog
 title: Tutuklama Kararına İtiraz Dilekçesi
 category: ceza-hukuku
-googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri, ceza avukatı arıyorum istanbul, Bakırköy, Ataköy Ceza avukatı Baran Doğan
+googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, Ceza avukatı, avukat, tutuklama şartları, Bakırköy avukat, Ataköy avukat, istanbul
+keywords:  Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, ağır ceza avukatı, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri,  Bakırköy avukat, Ataköy avukat, istanbul avukat.
 
 ---
 ---
@@ -57,5 +58,5 @@ Yukarıda açıkladığımız nedenlerle,tutuklama kararının  kaldırılarak �
                                                                  Tutuklamaya İtiraz Eden
 		                                                        ( İmza )
 
-**Bakırköy - istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy - istanbul / Avukat Baran Doğan**
 
