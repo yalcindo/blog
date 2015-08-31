@@ -2,7 +2,7 @@
 layout: blog
 title: Yargıtay Kararı - Boşanmada Eşlerin Eşit Kusuru
 category: medeni-hukuk
-googleAnahtar: boşanma davalarında eşit kusur, avukat, Avukat Baran Doğan
+googleAnahtar: boşanma davalarında eşit kusur, avukat, boşanma avukatı, ataköy avukat, Avukat Baran Doğan
 ---
 **ÖZET**
 
