@@ -3,6 +3,7 @@ layout: blog
 title: Hükmün Açıklanmasının Geri Bırakılması
 category: ceza-hukuku
 googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat
+keywords: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
 summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının geri bırakılması (HAGB) nedir, hükmün açıklanmasının geri bırakılması şartları, hagb kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 
@@ -128,7 +129,7 @@ Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 
 
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
 
 
 
