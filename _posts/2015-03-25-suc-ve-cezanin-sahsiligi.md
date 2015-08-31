@@ -2,8 +2,9 @@
 layout: blog
 title: Ceza Sorumluluğunun Şahsiliği İlkesi
 category: ceza-hukuku
-googleAnahtar: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ceza avukatı nedir, ataköy bakırköy avukat, istanbul avukat baran doğan
-summary: Ceza sorumluluğunun şahsiliği ilkesi kısaca anlatılmıştır.
+googleAnahtar: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy ataköy, bakırköy avukat,
+keywords: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+summary: Ceza sorumluluğunun şahsiliği veya suç ve cezanın kişselliği  ilkesi kısaca anlatılmıştır.
 ---
 ---
 **Çağdaş maddi ceza hukukunun en önemli ilkelerinden biri suç ve cezanın şahsiliği ilkesidir. Bu kural gereğince, kişi ancak kendisinin işlediği fiiller nedeniyle sorumlu tutulabilir, başkasının işlediği fillere iştirak etmedikçe sorumlu tutulamaz.** Ceza usul hukuku açısından da kural olarak bir ülkenin egemenlik alanı içerisinde bulunan herkesin o ülkenin ceza yargılaması kurallarına tabi olduğu kabul edilmektedir . Maddi ceza hukuku ve ceza usul hukukunda kabul edilen bu ilkeler, devletin kişilerin yaşam alanına keyfi bir şekilde müdahale etmesini engeller. 
@@ -14,4 +15,4 @@ Cezaların şahsiliği ilkesi, tüzel kişilere cezai sorumluluk yüklenemeyece�
 
 Devletlerin cezai sorumluluğu açısından da diğer tüzel kişilere benzer bir sorumluluk rejimi olduğunu söylemek mümkündür. Devletler uluslararası hukuk kişiliğine sahip olmaları, hak ve borçlar edinebilmeleri nedeniyle, uluslararası devletler hukuku gereği sorumluluk altındadır. Fakat devletlerin cezai sorumluluğu kabul edilmemektedir. Suç teşkil eden fiil hangi devlet görevlisi tarafından işlenmişse cezai sorumluluk da o şahsa ait olmaktadır.
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
