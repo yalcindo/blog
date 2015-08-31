@@ -2,8 +2,8 @@
 layout: blog
 title: Bilişim Suçları Nelerdir
 category: ceza-hukuku
-googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir,bilişim suçu cezası, istanbul avukat, bakırköy avukat
-summary: Bilişim Suçları Nelerdir? Bilişim Suçu Nedir? Bilişim Suçları Şikayet Süresi, Bilişim Suçları Nasıl Tespit Edilir?  Bilişim Sistemine Girme Şeklindeki Bilişim Suçu, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak, Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu 
+googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, istanbul avukat, bakırköy avukat
+summary: Bilişim Suçları Nelerdir? Bilişim Suçu Nedir? Bilişim Suçları Şikayet Süresi, Bilişim Suçları Nasıl Tespit Edilir?  Bilişim Sistemine Girme Şeklindeki Bilişim Suçu, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka Veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi, Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak, Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, ağır ceza avukatı, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
 ---
 ##Bilişim suçu nedir?
 
@@ -76,4 +76,4 @@ Sahte olarak üretilen veya sahtecilik yapılarak değiştirilen bir banka veya 
 
 **Bilişim suçları,** soruşturma zamanında yapıldığı takdirde ispatlanması kolay olan suçlardandırlar. **Bilişim suçu** işleyerek yakalanmayacağını düşünen insanların bir kısmının aslında o sistemi en iyi kullanan insanlar olması şaşırtıcıdır. Mahkemelerde yargılanan sanıkların önemli bir kısmı bilişim sistemlerini iyi kullanmayı bildiği halde yakalanmıştır. 
 
-**Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
