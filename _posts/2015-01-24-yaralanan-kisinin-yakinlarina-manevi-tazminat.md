@@ -2,7 +2,8 @@
 layout: blog
 title: Yaralanan Şahsın Aile Yakınları Manevi Tazminat Alabilir mi?
 category: is-hukuku
-googleAnahtar: Yaralının yakınlarına manevi tazminat, maluliyetten dolayı manevi tazminat, Avukat Baran Dogan
+googleAnahtar: Yaralının yakınlarına manevi tazminat, maluliyetten dolayı manevi tazminat, ataköy avukat, bakırköy avukat, istanbul avukat, Avukat Baran Dogan
+keywords: Yaralının yakınlarına manevi tazminat, maluliyetten dolayı manevi tazminat, ataköy avukat, bakırköy avukat, istanbul avukat, Avukat Baran Dogan
 summary: İş kazasında bir gözünü kaybeden müvekkil, eşi ve çocukları için manevi tazminat talep ettik. Yerel mahkeme, gözünü kaybeden müvekkil için manevi tazminata hükmetmiş, eşi ve çocukları için manevi tazminat talebimizi reddetmiştir. Kararı temyiz etmemiz üzerine, yaralının eşi ve çocuklarının da manevi tazminata hakkı olduğu Yargıtay tarafından kabul edilerek, yerel mahkeme kararı lehimize bozulmuştur.   
 ---
 **T.C.**
@@ -110,3 +111,5 @@ YILMAZ
 
 Üye
 A. YENER
+
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
