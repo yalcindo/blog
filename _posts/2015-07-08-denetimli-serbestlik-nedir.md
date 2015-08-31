@@ -4,6 +4,7 @@ title: Denetimli Serbestlik Yasası Nedir?
 category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, denetimli serbestlik imza ihlali, bakırköy avukat, istanbul 
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestliğe Uymama
+keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, ağır ceza avukatı, denetimli serbestlik imza ihlali, denetimli serbestlik tedbirine uymama, ataköy avukat, bakırköy avukat, istanbul avukat
 ---
 
 
@@ -108,4 +109,4 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 
 Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
-**Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
