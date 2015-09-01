@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Denetimli Serbestlik Yasası Nedir? 
+title: Denetimli Serbestlik Yasası ve Uygulaması? 
 category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, denetimli serbestlik imza ihlali, bakırköy avukat, istanbul 
 summary: Denetimli Serbestlik Nedir? Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestliğe Uymama
