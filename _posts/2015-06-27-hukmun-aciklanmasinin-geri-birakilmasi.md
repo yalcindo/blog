@@ -111,7 +111,7 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 
 Her iki kavramı karşılaştırmak için hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
-###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Karar Örnekleri
+###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Kararları
 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
