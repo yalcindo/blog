@@ -79,11 +79,18 @@ Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özellikl
 Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını kabul etmediğini beyan ederse yargıç, **hükmün açıklanmasının geri bırakılması**na karar veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
 
 
-###Hükmün Açıklanmasının Geri Bırakılmasının Sonuçları ve Denetimli Serbestlik
+###Hükmün Açıklanmasının Geri Bırakılması ve Denetim Süresi İçinde Yeni Suç İşlenmesi
 
 
-**Hükmün açıklanmasının geri bırakılması** halinde sanık 5 yıl süreyle denetime tabi tutulur. 18 yaşından küçük çocuklar için denetim süresi 3 yıldır. Sanığın bu denetim süresi içinde kasten bir suç işlememesi gerekir. Sanık denetim süresi içinde kasten bir suç işlemezse ve yargıcın belirlediği diğer yükümlülüklere uygun hareket ederse açıklanması geri bırakılan hüküm ortadan kaldırılarak davanın düşmesine karar verilir. Dava düştükten sonra kişi davadan önceki hukuki durumuna geri döner.
-Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yükümlülüklere aykırı hareket ederse açıklanması geri bırakılan hüküm mahkeme tarafından açıklanır. Ancak, mahkeme **denetim süresi** içinde suç işlemediği halde hakimin belirlediği yükümlülükleri yerine getirmeyen sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü kurabilir.
+**Hükmün açıklanmasının geri bırakılması** halinde sanık 5 yıl süreyle denetime tabi tutulur. 18 yaşından küçük çocuklar için denetim süresi 3 yıldır. Sanığın bu denetim süresi içinde kasten bir suç işleyip işlememesine göre iki sonuç ortaya çıkar: 
+
+* Sanık denetim süresi içinde kasten bir suç işlemezse ve yargıcın belirlediği diğer yükümlülüklere uygun hareket ederse açıklanması geri bırakılan hüküm ortadan kaldırılarak davanın düşmesine karar verilir. Dava düştükten sonra kişi davadan önceki hukuki durumuna geri döner.
+
+* Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yükümlülüklere aykırı hareket ederse açıklanması geri bırakılan hüküm mahkeme tarafından açıklanır. Ancak, mahkeme **denetim süresi** içinde suç işlemediği halde hakimin belirlediği yükümlülükleri yerine getirmeyen sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü kurabilir.
+
+**Denetim süresi içinde yeni suç işlenmesi** halinde, işlendiği iddia edilen ikinci suçun mahkumiyetle kesinleşmesinden sonra işlenen ilk suç nedeniyle verilen *HAGB** kararı açıklanabilir. Nitekim, Yargıtay işlendiği iddia edilen ikinci suç kesinleşmediği halde, birinci suç nedeniyle verilen **HAGB** kararının açıklanmasını hukuka aykırı bulmuştur (Yargıtay Ceza Genel Kurulu - 2008/25 karar, Yargıtay 15. Ceza Dairesi- 2012/45113 karar). 
+
+Önemle belirtmek gerekir ki, 28.06.2014 tarihine kadar işlenen suçlarda birden fazla kere **hükmün açıklanmasının geri bırakılması** verilebilir. Bu tarihten sonra işlenen suçlarda birden fazla kere **HAGB** kararı verilmesi yapılan açık kanuni düzenleme nedeniyle mümkün değildir.
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
