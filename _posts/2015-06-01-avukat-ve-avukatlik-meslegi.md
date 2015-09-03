@@ -51,6 +51,27 @@ Uluslararası alanda çıkan meseleler, bazen tüm toplumu etkileyecek bir sonu�
 
 **Avukat**ın uluslararası ve ulusalüstü mahkemelerdeki fonksiyonu gittikçe artmaktadır. Uluslararası alana yayılmış insan ilişkileri ve devletlerin birbiriyle olan karmaşık ilişkileri bir **avukat**ın hukuki yardımından yararlanmayı zorunlu kılmaktadır. Bu ihtiyaca cevap vermek için **avukat**lık mesleği de diğer meslekler gibi  bir taraftan uzmanlaşmakta diğer taraftan gittikçe profesyonel hale gelmektedir.
 
+###Uluslararası Belgelerde Avukat
+
+####Havana Kuralları ve Avukat
+
+Havana Kuralları, 1990 yılında Havana'da düzenlenen bir BM konferansında kabul edilmiştir. Havana kuralları, **avukat**ın mesleğini yaparken bir güvence mekanizması olarak bavurabileceği **avukat**lık meslek ilkelerinden ibarettir. **Avukatlık mesleği**nin evrensel standartlarını belirleyen havana kuralları, **avukat**ın mesleğini bağımsız bir şekilde yapabilmesi için kamu otoritelerine bazı sorumluluklar yüklemektedir.
+
+#####1. Avukat ve Avukata Erişim Hakkı
+
+Havana kurallarının ilk bölümü **avukat**a ve adli hizmetlere erişim hakkı ile ilgilidir. Bu bölümde herkesin, hiçbir ayrım gözetmeksizin **avukat**a erişim hakkı olduğu ilke haline getirilmiştir. Hükümetler, insanların **avukat**a erişim hakkını temin etmekle sorumlu tutulduğu gibi **avukat** örgütleri de halkı avukata erişim hakkı konusunda bilgilendirmekten sorumlu tutulmuştur. Hükümetler ve **avukat** örgütleri, insanların avukata erişim hakkının gerçekleşmesi için işbirliği yapmakla mükelleftirler. **Avukat** tutmak için yeterli maddi güce ve imkanlara sahip olmayanlara, **avukat** örgütleri ve hükümetler gerekli organizasyonu yaparak cevap olmalıdır.
+ 
+Havana kurallarının ikinci bölümünde, yakalanan veya gözaltına alınan kimselerin **avukat** seçmesi veya avukatlarıyla görüştürülmesi konularında hükümetlerin her türlü imkanı sağlamak zorunda olduğu vurgulanmıştır.
+ 
+#####2. Avukatın Niteliği ve Eğitimi
+
+**Avukat**ın eğitimi, Havana Kurallarının üçüncü bölümünde düzenlenmiştir. **Avukat,** hukuki bilgi ve donanımı sayesinde etkili bir hukuki yardım yapabilir. Havana Kuralları, gerek meslek örgütlerini gerekse gerekse hükümetleri **avukat**ların eğitilmesi hususunda gerekli önlemleri almakla sorumlu tutmuştur. Mesleki eğitim sırasında **avukat**ın uluslararası insan hakları ve temel özgürlüklere vakıf olması da sağlanmalıdır. Ayrıca **avukat**lık mesleğine girişte herhangi bir ayrımcılık yapılmaması  gerekir.
+
+#####3. Avukatın Görev ve Sorumlulukları
+
+Havana kurallarının üçüncü bölümünde **avukat**ın görev ve sorumlulukları açıklanmıştır. **Avukat,*** mesleki şeref ve itibarını her zaman korumakla mükelleftir. **Avukat,** her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
+
+
 
 **Bakırköy/İstanbul - Avukat Baran Doğan**
 
