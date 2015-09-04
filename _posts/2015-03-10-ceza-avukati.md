@@ -3,8 +3,8 @@ layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
 googleAnahtar: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
-summary: Ceza avukatı kavramı ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
-keywords: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum istanbul, ağır ceza avukatı, istanbul avukatı, bakırköy avukat, ataköy avukat
+summary: Avukat, Ceza avukatı, Ağır ceza avukatı gibi kavramlar ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
+keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
 
 ---
 
