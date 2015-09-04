@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum istanbul, ağır ceza avukatı, istanbul avukatı, bakırköy avukat, ataköy avukat
+googleAnahtar: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
 summary: Ceza avukatı kavramı ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
 keywords: Ceza avukatı, avukat, ceza davası, ceza avukatı arıyorum istanbul, ağır ceza avukatı, istanbul avukatı, bakırköy avukat, ataköy avukat
 
@@ -21,6 +21,12 @@ Savunmanın bu özellikli işlevi nedeniyle **ceza avukatı,** şüpheli veya sa
 
 
 Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık alanı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Fakat uygulamada **ceza davaları**na giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden avukatlara halk dilinde ceza avukatı denilmektedir. 
+
+###Ağır Ceza Avukatı Ne Demek?
+
+**Ağır ceza avukatı,** ceza avukatı için belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
+
+Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta bunun herhangi bir karşılığı yoktur. Bu nedenle, **ağır ceza avukatı** deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ağır ceza avukatı** olarak nitelenen **avukat,** mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu durum da **ağır ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere, yani yukarıda anlattığımız **ceza avukatı** yerine kullanıldığını görmekteyiz.
 
 
 
