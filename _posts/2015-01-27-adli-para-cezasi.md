@@ -35,7 +35,7 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 
 
 
-###Adli Para Cezasına Çevrilek Suçlar?
+###Adli Para Cezasına Çevrilen Suçlar?
 
 
 Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (trafik kazası gibi) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
