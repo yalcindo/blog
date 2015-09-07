@@ -7,7 +7,7 @@ keywords: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza ol
 ---
 
 
-**Kanunsuz suç ve ceza olmaz,** diğer bir deyişle **suçta ve cezada kanunilik ilkesi (Kanunilik İlkesi),** devletin cezalandırma yetkisini sınırsız ve keyfi bir biçimde kullanmasını önleyerek bireye devlet müdahalesine karşı güvence sağlar. **Kanunsuz suç ve ceza olmaz ilkesi** gereği, hiç kimse kanunun açıkça suç saymadığı bir fiilden dolayı cezalandırılamaz; hiç kimse bir fiil için kanunda gösterilen ceza dışında bir ceza ile veya  kanunda gösterilen cezadan daha ağır bir ceza ile cezalandırılamaz . İlke latince olarak Alman ceza hukukçusu Anselmo Feuerbach tarafından “nullum crimen, nulla poena sine lege” şeklinde formüle edilmiştir .
+**Kanunsuz suç ve ceza olmaz,** diğer bir deyişle **suçta ve cezada kanunilik ilkesi ( Kanunilik İlkesi ),** devletin cezalandırma yetkisini sınırsız ve keyfi bir biçimde kullanmasını önleyerek bireye devlet müdahalesine karşı güvence sağlar. **Kanunsuz suç ve ceza olmaz ilkesi** gereği, hiç kimse kanunun açıkça suç saymadığı bir fiilden dolayı cezalandırılamaz; hiç kimse bir fiil için kanunda gösterilen ceza dışında bir ceza ile veya  kanunda gösterilen cezadan daha ağır bir ceza ile cezalandırılamaz . İlke latince olarak Alman ceza hukukçusu Anselmo Feuerbach tarafından “nullum crimen, nulla poena sine lege” şeklinde formüle edilmiştir .
 
 Kanun yapma yetkisi yasama organına ait bir yetki olduğundan, suç ve ceza içeren kurallar ancak yasama organı tarafından meydana getirilebilir. **Kanunsuz suç ve ceza olmaz ilkesi**nin doğal bir sonucu olarak idarenin düzenleyici işlemlerle suç ve ceza içeren kural koyma yetkisi yoktur. 
 
