@@ -2,7 +2,8 @@
 layout: blog
 title: Adli Para Cezası Nereye Ödenir?
 category: ceza-hukuku
-googleAnahtar: adli para cezası nereye ödenir, mahkeme para cezası nasıl yatırılır, adli para cezası nasıl ödenir? ceza avukatı, adli para cezası ödeme emri, adli para cezası nasıl tahsil edilir, avukat baran doğan, bakırköy ataköy
+googleAnahtar: adli para cezası nereye ödenir, mahkeme para cezası nasıl yatırılır, adli para cezası nasıl ödenir? ceza avukatı, adli para cezası ödeme emri, bakırköy avukat, ataköy avukat
+keywords:  adli para cezası nereye ödenir, mahkeme para cezası nasıl yatırılır, adli para cezası nasıl ödenir? ceza avukatı, adli para cezası ödeme emri, adli para cezası nasıl tahsil edilir
 summary: Adli para cezasının nereye ve nasıl ödeneceği kısaca anlatılmıştır.
 ---
 Ceza mahkemelerinde yapılan yargılama neticesinde yargılanan kişiye hapis cezası yerine  “adli para cezası” verilebilmektedir. Adli para cezası ödenmediği takdirde hapis cezası ile sonuçlanabilecek bir sürece neden olabilir. Adli para cezasına halk arasında **mahkeme para cezası** da denilmektedir. Adli para cezası ile ilgili geniş yazımıza şu linkten ulaşabilirsiniz: [***Adli Para Cezası***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
@@ -11,7 +12,7 @@ Ceza mahkemelerinde yapılan yargılama neticesinde yargılanan kişiye hapis ce
 
 Mahkeme maddi durumunuza bakarak hükmettiği adli para cezasını peşin veya taksitler halinde ödemenize hükmedebilir. Adli para cezasının peşin veya taksitle ödenmesine ilişkin mahkeme kararı ancak kesinleşmekle hüküm ifade eder. Yani mahkemenin verdiği karar temyiz edilmişse adli para cezasının tahsili Yargıtay’ın onama kararından sonra mümkün olabilecektir, karar temyiz edilmemişse verildikten kısa bir süre sonra kesinleşecektir. Mahkeme kararı kesinleştikten sonra, kararı veren mahkeme hükmedilen adli para cezasının tahsili için İnfaz Savcılığı’na yazı yazacaktır.  İnfaz Savcılığı, mahkemenin kendisine gönderdiği yazının içeriğine göre, hükmedilen adli para cezasının taksitle veya peşin ödenmesi için ilgilisine “Para Cezası Ödeme Emri”  gönderir ***(Örnek Para Cezası Ödeme Emri Aşağıda Ektedir)***. 	
 
-İnfaz Savcılığı’nın göndereceği Para Cezası Ödeme Emri’nin elinize ulaşması, kararın kesinleşmesinden itibaren 1 ay- 3 ay arası sürer. Ödeme emrinin size tebliğinden itibaren hükmedilen adli para cezasını 30 gün içerisinde ödemeniz gerekir. Bu ödeme emrini aldığınızda Adliyede bulunan Cumhuriyet Savcılığı İnfaz Bürosu’na başvurmanız ve burdan  Vergi Dairesi’ni hitaben yazılmış bir yazı almanız gereklidir. İnfaz Bürosu’nun verdiği yazıyla Vergi Dairesi’ne ödeme yapıldıktan sonra dekontu alınarak Cumhuriyet Savcılığı İnfaz Bürosu’na teslim edilmelidir. Böylece adli para cezasının infaz edildiği hem dosyaya hem de elektronik ortama kaydedilir.
+İnfaz Savcılığı’nın göndereceği Para Cezası Ödeme Emri’nin elinize ulaşması, kararın kesinleşmesinden itibaren 1 ay- 3 ay arası sürer. Ödeme emrinin size tebliğinden itibaren hükmedilen adli para cezasını 30 gün içerisinde ödemeniz gerekir. Bu ödeme emrini aldığınızda Adliyede bulunan Cumhuriyet Savcılığı İnfaz Bürosu’na başvurmanız ve burdan  Vergi Dairesi’ni hitaben yazılmış bir yazı almanız gereklidir. İnfaz Bürosu’nun verdiği yazıyla Vergi Dairesi’ne ödeme yapıldıktan sonra dekontu alınarak Cumhuriyet Savcılığı İnfaz Bürosu’na teslim edilmelidir. Böylece adli para cezasının infaz edildiği hem dosyaya hem de elektronik ortama kaydedilir. Bizzat kendiniz veya bir **ceza avukatı** aracılığıyla herhangi bir yanlışlığa mahal vermemek için dosyanızı kontrol ettirebilirsiniz.
 
 
 _____________________________________________________________________________________________________________________________
