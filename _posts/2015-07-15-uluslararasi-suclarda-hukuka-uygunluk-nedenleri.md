@@ -57,4 +57,6 @@ Statü, zorunluluk halini ayrı bir bent halinde açıkça düzenlemiştir. Stat
 
 **iv.	Orantılılık ilkesi:** Tehlikeden başka türlü korunma imkanı bulunmayan failin, korunmak için yaptığı hareketin koruduğu değer ile zarar verilen değer arasında bir orantı mevcut olmalıdır. Korunan değer ile zarar verilen değer en azından birbirine eşit olmalıdır. Statüde bu ilke “failin, meydana gelmesi ve önlenmesi gereken zarardan daha fazlasına yol açmayı kastetmemiş olmak koşuluyla” şeklinde düzenlenmiştir.
 
+Hukuka uygunluk nedenleri, uluslararası suçlarda devlet görevlilerinin bir kaçış mekanizması olarak işlemektedir. Bu nedenle bu davalarda müştekiyi savunma işlevini yerine getiren **ceza avukatı**nın tüm parametreleri dikkatlice değerlendirerek cezasızlığın önüne geçmesi gerekir.
+
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
