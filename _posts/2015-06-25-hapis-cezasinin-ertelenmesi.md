@@ -82,4 +82,4 @@ Eğer hakkında **ceza erteleme** kararı verilen kişinin daha önce adli sicil
 
 
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
