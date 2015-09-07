@@ -2,7 +2,7 @@
 layout: blog
 title: Uluslararası Suçlar-1  "İnsanlığa Karşı Suçlar" 
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbuyl avukat, avukat Baran Dogan
+googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbul avukat, ağır ceza avukatı
 keywords: Uluslararası Ceza Mahkemesi, insanlığa karşı suçlar, ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukatı 
 ---
 
