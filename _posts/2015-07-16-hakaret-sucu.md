@@ -41,7 +41,7 @@ Kamuoyu tarafından yaptıkları işler nedeniyle bilinen, tanınan kişilere (�
 
 Günümüzde **hakaret suçu** en çok çağdaş iletişim araçlarıyla işlenmektedir.  İnternet yoluyla hakaret, kolay ispatlanabilecek bir suç çeşididir. Bu nedenle, e-mail, facebook, skype, messenger, whatssup, twitter vb. gibi sosyal medya araçlarıyla doğrudan mağdurun hedef alınarak hakaret edilmesi de **hakaret suçu**nu oluşturur.
 
-Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. 
+Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir **ceza avukatı** ile görüşülmelidir.
 
 ###Hakaret Suçunun Cezası Nedir?
 
@@ -88,6 +88,6 @@ Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakare
 
 Hakaret suçunun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
 
 
