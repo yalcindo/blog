@@ -19,7 +19,7 @@ keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para c
 ###İdari Para Cezasının Adli Para Cezasından Farkı Nedir? İdari Para Cezası Ödenmezse Ne Olur?
 
 
-Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler, idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları ödenmediğinde** yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** ödenmediğinde borçlunun hapse girmesi gibi bir durum söz konusu olamaz.
+Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olarak verilen cezalardır. Adli para cezasına mahkemeler, idari para cezasına devletin idari kurumları tarafından karar verilmektedir. Mahkemeler tarafından verilen para cezaları ödenmediğinde hapis cezasına çevrilir, **idari para cezaları ödenmediğinde** yalnızca icra-haciz işlemleri yapılabilir. **İdari para cezası** ödenmediğinde borçlunun hapse girmesi gibi bir durum söz konusu olamaz. Daha ayrıntılı bilgi için bir **ceza avukatı** ile görüşülmelidir.
 
 ###İdari Para Cezasına İtiraz Süresi 
 
