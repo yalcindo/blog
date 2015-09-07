@@ -159,5 +159,7 @@ Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği
 
 **xv)**	Çekirdeği tamamen kaplamayan sert kovanlı ya da yarıkları olan mermiler gibi, insan vücudunda patlayan ya da ilerleyen mermilerin kullanılması.
 
+**Savaş suçları,** devlet görevlilerinin en çok işlediği ve çeşitli meşruiyet gerekçeleri sundukları suçlardır. Bu suçlara karşı etkin soruşturmalar için **ceza avukatı** olarak faaliyet gösteren kişilerin sahada iyi çalışarak elde ettikleri bilgileri hukuksal bir formülasyonla birlikte mahkemeye sunması önem arzetmektedir.
+
 
 ***Ataköy-Bakırköy- İstanbul / Avukat Baran Doğan***
