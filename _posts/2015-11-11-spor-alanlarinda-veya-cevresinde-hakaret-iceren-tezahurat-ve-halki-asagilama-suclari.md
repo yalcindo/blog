@@ -101,6 +101,6 @@ Maddenin ikinci fıkrasında düzenlenen suç hem bu maddede hem de TCK’da res
 
 **Spor hukuku**na ilişkin suç ve ceza içeren hükümlerin daha somut kıstaslarla düzenlenmesi gerekmektedir. Özellikle TCK’nın aynı neviden suç ve ceza içeren hükümleri gözetilerek normlar arasında ahenk sağlanmalıdır.
 
-**Spor hukuku,** Türkiye’de özellikle ceza hukuku yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de zaman içinde daha sağlıklı bir şekilde yapılabilecektir.
+**Spor hukuku,** Türkiye’de özellikle **ceza avukatı** olarak faaliyet gösteren avukatlar yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de uygulamanın daha sağlıklı bir şekilde yapılmasını sağlayacaktır.
 
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
