@@ -66,7 +66,7 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 ###Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 
 
-**Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir dilekçeyle başvurarak **adli sicil kaydı**nızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. 
+Adli sicil kaydınız silinmemiş ise bir **ceza avukatı**na danışınız. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir dilekçeyle başvurarak **adli sicil kaydı**nızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. 
 
 Adli Sicil Kaydının silinmesine dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html). 
 
