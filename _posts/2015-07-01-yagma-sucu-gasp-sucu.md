@@ -79,6 +79,6 @@ Etkin pişmanlık kavramının ayrıntıları için bakınız : [Etkin Pişmanl�
 
 Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır.
 
-Yağma suçu, mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
+**Yağma suçu,** mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
