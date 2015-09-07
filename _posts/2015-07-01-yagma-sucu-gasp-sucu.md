@@ -77,6 +77,8 @@ Etkin pişmanlık kavramının ayrıntıları için bakınız : [Etkin Pişmanl�
 
 **Yağma suçu**nda etkin pişmanlık mümkündür.  Etkin pişmanlık hükümlerinden yararlanmak isteyen kişi Suçu işleyen kişi, suç ortaklarını, azmettirenleri veya suça yardım edenlerin isimlerini verirse etkin pişmanlık hükümlerinden yararlanabilir. Mağdurun uğradığı zararın aynen iade veya tazmin suretiyle giderilmesi de etkin pişmanlık hükümlerinden yararlanmak için yeterlidir. **Gasp suçu**nda suç işlendikten sonra fakat dava açılmadan önce etkin pişmanlıkta bulunursa verilecek ceza yarısına kadar indirilebilir. Dava açıldıktan sonra fakat hüküm verilmeden önce etkin pişmanlıkta bulunulursa verilecek ceza 1/3’üne kadar indirilebilir. 
 
-Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır. 
+Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+Yağma suçu, mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
+
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
