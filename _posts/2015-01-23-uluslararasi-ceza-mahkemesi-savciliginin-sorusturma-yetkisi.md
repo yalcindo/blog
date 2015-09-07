@@ -141,8 +141,10 @@ Savcılık bir soruşturma başlatmak için yukarıda anlattığımız tüm koş
 
 **VII. SONUÇ**
 
-Uluslararası Ceza Mahkemesi, uluslararası alanda gerçek kişiler üzerinde ceza yargılamaları ile ilgili yargı yetkisine sahip tek mahkemedir. İnsanlık tarihi boyunca bazı devlet yöneticilerinin çok büyük insanlık suçları işlemek üzere aldıkları kararları pervasızca uyguladıkları görülmüştür. UCM sisteminin kurulmasıyla birlikte hiçbir devlet yöneticisi başına buyruk, diktatöryal davranışlar sergileyerek insanlık suçları işlemeyi göze alamayacaktır.
+Uluslararası Ceza Mahkemesi, uluslararası alanda gerçek kişiler üzerinde ceza yargılamaları ile ilgili yargı yetkisine sahip tek mahkemedir. İnsanlık tarihi boyunca bazı devlet yöneticilerinin çok büyük insanlık suçları işlemek üzere aldıkları kararları pervasızca uyguladıkları görülmüştür. UCM sisteminin kurulmasıyla birlikte hiçbir devlet yöneticisi başına buyruk, diktatöryal davranışlar sergileyerek insanlık suçları işlemeyi göze alamayacaktır. Avukatların, özellikle **ceza avukatı** olan avukatların, hem mahkemeye başvuru süreçlerine hem de bu süreçlerin nasıl işletilmesi için gerekli donanıma sahip olması devlet yöneticilerinin denetlenmesi açısından hayati önemdedir.
+
 Uluslararası alanda bir devletin ülkesinde işlenen suçlarla ilgili soruşturma başlatmak sadece hukuki değil, aynı zamanda siyasi sonuçlar doğurabilecek bir faaliyete dönüşebilir. Bu yüzden Statü’de UCM savcılığı tarafından yapılacak işlemlerde maslahata uygunluk ilkesinin gözetildiği görülmektedir. Fakat maslahata uygunluk ilkesi olaya uygulanırken politik ağırlıklı düşünceler yerine sürdürülebilir dünya barışının sağlanması dikkate alınmalıdır.
+
 Statü gereği egemenlik hakkının doğal bir sonucu olarak asli yargı yetkisinin devletlerin elinde bulunmaktadır. UCM savcılığının soruşturma başlatma yetkisinin Ön Yargılama Dairesi tarafından izin verilmesi şartına bağlanması, UCM sisteminin kendi içerisinde yargısal denetim mekanizması kurmasını sağlamaktadır. UCM savcılık örgütünün Statü’ye taraf devletlerin yargı makamlarıyla entegre edilmesiyle, soruşturmalar hızlı bir şekilde yürütülerek doğru kararlar alınması şansı artacaktır.
 
 **KISALTMALAR**
