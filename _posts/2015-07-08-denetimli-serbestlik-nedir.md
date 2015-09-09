@@ -90,7 +90,11 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 
 Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluğunun bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler içinde geçerlidir.
 
-###7. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları
+###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
+
+**Denetimli serbestlik süresi,** ancak kanunla belirlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
+
+###8. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları
 
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
@@ -102,7 +106,7 @@ Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün 
 
 * Hükümlü, **denetimli serbestlik yasası**ndan yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
-###8. Denetimli Serbestlik Sorgulama
+###9. Denetimli Serbestlik Sorgulama
 
 
 **Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır.
