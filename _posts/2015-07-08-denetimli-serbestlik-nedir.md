@@ -18,7 +18,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 ###2. Denetimli Serbestlik Yasası
 
 
-**Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 05.04.2012 yılında çıkarılan bir kanunla 5275 sayılı Ceza İnfaz Kanunu’na yapılan ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
+**Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
 
 ###3. Denetimli Serbestlik Kaç Yıl 
 
