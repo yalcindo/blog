@@ -13,7 +13,7 @@ summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları? Kapalı Ceza
 
 ##Açık Cezaevine Geçiş Şartları
 
-**Açık cezaevine geçiş şartları,** açık cezaevine ayrılma yönetmeliği ile düzenlenmiştir. Yönetmelikle kimlerin kapalı cezaevine girmeden doğrudan **açık cezaevine geçiş** hakkı olduğu, kimlerin kapalı cezaevinden **açık cezaevine ayrılma ** hakkına sahip olduğu ve açık cezaevine geçiş hakkı olmayan hükümlülerin kimler olduğu ifade edilmiştir.
+**Açık cezaevine geçiş şartları,** açık cezaevine ayrılma yönetmeliği ile düzenlenmiştir. Yönetmelikle kimlerin kapalı cezaevine girmeden doğrudan **açık cezaevine geçiş** hakkı olduğu, kimlerin kapalı cezaevinden **açık cezaevine ayrılma** hakkına sahip olduğu ve açık cezaevine geçiş hakkı olmayan hükümlülerin kimler olduğu ifade edilmiştir.
 
 ###1. Doğrudan Açık Cezaevine Geçiş Hakkı ( md. 5 )
 
