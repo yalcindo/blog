@@ -42,6 +42,8 @@ Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun
 
 Açık cezaevine ayrılma koşulları 22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
 
+Açık cezaevine ayrılma şartları için bakınız: [***Açık Cezaevine Ayrılma Şartları***](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html)
+
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da **denetimli serbestlik yasası**ndan yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için **denetimli serbestlik yasası**ndan yararlanabilir.
 
 ####b. Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı
