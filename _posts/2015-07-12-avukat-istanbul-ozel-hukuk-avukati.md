@@ -38,7 +38,7 @@ Aile hukuku, özel bir yargılama usulüyle aile mahkemeleri vasıtasıyla uygul
 
 ####Velayet ve Boşanma Avukatı
 
-**Avukat** veya halkın deyimiyle **boşanma avukatı** boşanma sürecinde öncelikle çocukların bu süreçten etkilenmemesi için gerekli önlemleri almalıdır. **Boşanma avukatı,** boşanma sürecinde çocukların geçici velayeti ve kişisel münasebet kurulması hususlarında taraf menfaatlerinden ziyade çocuğun menfaatini göz önüne alarak taraflara telkinde bulunmalıdır.
+**Avukat** veya halkın deyimiyle **boşanma avukatı** boşanma sürecinde öncelikle çocukların bu süreçten etkilenmemesi için gerekli önlemleri almalıdır. **Boşanma avukatı,** boşanma sürecinde geçici velayeti ve kişisel münasebet kurulması hususlarında taraf menfaatlerinden ziyade çocuğun menfaatini göz önüne alarak taraflara telkinde bulunmalıdır.
 Boşanma davalarında çocukların velayeti konusu tarafların çoğu zaman birbirlerinden intikam alma aracına dönüşmektedir. **Boşanma avukatı,** tarafların kişisel sürtüşmesinin dışında kalarak  her iki tarafa çocuğun yararına bir çözümü telkin etmelidir. Örneğin, 2 yaşında bir çocuğun anneyi kaybetme korkusu ile yaşadığı psikoloji biliminin verileriyle ispatlanmıştır. **Boşanma avukatı,** yaşı küçük çocuğun velayetinin anneye verilmesinin çocuğun yararına olduğunu taraflara uygun bir şekilde anlatmalıdır. Çocukların boşanma sürecinin yıpratıcı etkilerinden korunması için gerekli önlemlerin alınması avukatın meslek etik kuralları açısından da bir gerekliliktir.
 
 ####Boşanmada Mal paylaşımı ve Boşanma Avukatı
