@@ -92,7 +92,7 @@ Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Tarafl
 
 **Ceza avukatı,** sadece mahkemede savunma yapan bir suje değildir. **Ceza avukatı,** aynı zamanda mahkeme tarafından verilen cezanın karara uygun olarak infaz edilip edilmediğinin de güvencesidir. Cezanın verilmesi yargısal, cezanın infazı ise idari bir süreçtir. İdare mahkeme tarafından verilen cezayı ağırlaştıran müeyyideler uygulayamaz. Mahkeme kararında belirtilen ceza insan onuruna ve infaz hukukuna uygun yerine getirilmelidir. İşte **ceza avukatı** tüm infaz sürecinin hukuka uygun yürütülüp yürütülmediğini denetleme yetkisine sahiptir.  
 
-Türkiye'de son dönemde sık sık denetimli serbestlik yasası ve açık cezaevine geçiş şartları değişmektedir. İnfaz aşamasında kanunların yanlış yorumu nedeniyle birçok hak kaybı yaşanmaktadır. **Ceza avukatı,** hükümlü müvekkilinin haklarını infaz aşamasında da koruyarak etkin bir hukuki yardım yapmaktadır.
+İnfaz aşamasında kanunların yanlış yorumu nedeniyle birçok hak kaybı yaşanmaktadır. Örneğin, Türkiye'de son dönemde sık sık denetimli serbestlik yasası ve açık cezaevine geçiş şartları değişmektedir. **Ceza avukatı,** hükümlü müvekkilinin haklarını infaz aşamasında da koruyarak etkin bir hukuki yardım yapmaktadır.
 
 ###Dava İle İlgili Tebligatlar Ceza Avukatına mı Bizzat Şahsıma mı Yapılır?
 
