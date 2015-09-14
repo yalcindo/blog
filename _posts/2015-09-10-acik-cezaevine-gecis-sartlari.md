@@ -62,7 +62,7 @@ Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuk
 
 Kapalı cezaevinde bulunan hükümlü **açık cezaevi**ne geçmek istediğini yazılı bir dilekçeyle bildirdiği takdirde **açık cezaevine geçiş** işlemleri başlatılır. Talep olmadan idare kendiliğinden mahkumu **açık cezaevi**ne göndermez. Mahkumun **açık cezaevi**ne geçme talebi değerlendirilerek **açık cezaevine ayrılma şartları**nı taşıdığı anlaşıldığı takdirde idare ve gözlem kurulu mahkum hakkında **açık cezaevine ayrılma** kararı verir. Hükümlü böylece cezasının denetimli serbestlikle tahliyesine kadar geçecek süresini **açık cezaevi**nde geçirir.
 
-Açık Cezaevine Ayrılma Yönetmeliği'nin tam metni için bakınız: [**Açık Cezaevine Ayrılma Yönetmeliği](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=)
+Açık Cezaevine Ayrılma Yönetmeliği'nin tam metni için bakınız: [**Açık Cezaevine Ayrılma Yönetmeliği**](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=)
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan** 
