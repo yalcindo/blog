@@ -43,7 +43,7 @@ Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle
 
 ####1. Silahlı Tehdit Suçu
 
-Tehdit suçunun nitelikli hali olan silahlı tehdit suçunun vücut bulması için silahın, bizzat mağdur tarafından görülebileceği, hissedilebileceği , tehdidin mağdurun üzerindeki etkisini artıracak biçimde teşhiri veya kullanılması gerekir. Mağdurun yokluğunda gerçekleştirilen tehdit eyleminin, silahla tehdit suçunu oluşturabilmesi için silahın, mağdurun evi, arabası gibi daimi kullanımında olan eşyalarında hasar, iz, emare gibi belirtiler oluşturacak ve bu suretle tehdidin mağdurun üzerinde meydana getirdiği korkunun etkisini artıracak tarzda kullanılması icap eder. Bu itibarla, mağdurun yokluğunda gerçekleşen tehdit eyleminde, salt silah teşhir edilmiş olması, suçun nitelikli halinin oluşumu için yeterli sayılamayacaktır.  
+**Tehdit suçu**nun nitelikli hali olan silahlı tehdit suçunun vücut bulması için silahın, bizzat mağdur tarafından görülebileceği, hissedilebileceği , tehdidin mağdurun üzerindeki etkisini artıracak biçimde teşhiri veya kullanılması gerekir. Mağdurun yokluğunda gerçekleştirilen tehdit eyleminin, silahla tehdit suçunu oluşturabilmesi için silahın, mağdurun evi, arabası gibi daimi kullanımında olan eşyalarında hasar, iz, emare gibi belirtiler oluşturacak ve bu suretle tehdidin mağdurun üzerinde meydana getirdiği korkunun etkisini artıracak tarzda kullanılması icap eder. Bu itibarla, mağdurun yokluğunda gerçekleşen tehdit eyleminde, salt silah teşhir edilmiş olması, suçun nitelikli halinin oluşumu için yeterli sayılamayacaktır.  
 
 ####2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
 
