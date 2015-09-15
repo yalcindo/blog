@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Açık Cezaevine Geçiş ( Ayrılma ) Şartları
+title: Açık Cezaevine Geçiş Şartları
 category: ceza-hukuku
 googleAnahtar: Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords:  Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
