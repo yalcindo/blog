@@ -30,14 +30,14 @@ Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kı
 
 ###Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
 
-Tehdit suçunun basit halinde mağdur, haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malavarlığı değerlerine yönelen iki şekli vardır.
-Tehdit suçunun basit şeklinin yaşam hakkı değerlerine yönelmesi halinde cezası 6 aydan 2 yıla kadar hapis cezasıdır. Yani, bir kişiye karşı tehdit suçu işlemek kastıyla “seni öldüreceğim”  demek tehdit suçun yaşam hakkı değerlerine yönelen basit şeklinin oluşmasına neden olur.
+**Tehdit suçu**nun basit halinde mağdur, haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malavarlığı değerlerine yönelen iki şekli vardır.
+Tehdit suçunun basit şeklinin yaşam hakkı değerlerine yönelmesi halinde cezası 6 aydan 2 yıla kadar hapis cezasıdır. Yani, bir kişiye karşı **tehdit suçu** işlemek kastıyla “seni öldüreceğim”  demek **tehdit suçu**nun yaşam hakkı değerlerine yönelen basit şeklinin oluşmasına neden olur.
 
-Malvarlığı değerlerine yönelik basit tehdit suçunda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit tehdit suçu mağdurun şikayetine bağlı olarak soruşturulur.
+Malvarlığı değerlerine yönelik basit **tehdit suçu**nda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit **tehdit suçu** mağdurun şikayetine bağlı olarak soruşturulur.
 
 ###Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
 
-Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle** tehdit suçu**nun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  **Tehdit suçu**nun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir **ceza avukatı** vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır 
+Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle **tehdit suçu**nun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  **Tehdit suçu**nun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir **ceza avukatı** vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır 
 
 **Tehdit suçu**nun nitelikli, ağır halleri şunlardır:
 
@@ -59,7 +59,7 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 
 ####5. Örgüt İsmi Kullanarak Tehdit Suçu
 
-Tehdit suçu işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit etmesi halinde ceza arttırımı yoluna gidilir. İsmi kullanılan örgüt, var olan bir örgüt olabileceği gibi, gerçekte var olmayan hayali bir örgüt de olabilir. Örgütün niteliği önemli değildir. Örgüt, dini, siyasi veya bir mafya örgütü olabilir. Örgüt ismi kullanılarak mağdurun korkutulması suçun oluşması için yeterlidir.
+**Tehdit suçu** işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit etmesi halinde ceza arttırımı yoluna gidilir. İsmi kullanılan örgüt, var olan bir örgüt olabileceği gibi, gerçekte var olmayan hayali bir örgüt de olabilir. Örgütün niteliği önemli değildir. Örgüt, dini, siyasi veya bir mafya örgütü olabilir. Örgüt ismi kullanılarak mağdurun korkutulması suçun oluşması için yeterlidir.
 
 ####6.  Özel İşaretlerle Tehdit Suçu
 
