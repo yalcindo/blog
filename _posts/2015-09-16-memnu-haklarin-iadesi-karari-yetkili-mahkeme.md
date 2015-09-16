@@ -10,7 +10,7 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 
 **Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle, TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir hukuk kurumudur. Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi ( yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
 
-Özetle, **Memnu hakların iadesi,** TCK dışındaki kanunların ceza mahkumiyetine bağladığı olumsuz sonuçları ortadan kaldırmak için düzenlenmiştir.
+Özetle, **memnu hakların iadesi,** TCK dışındaki kanunların ceza mahkumiyetine bağladığı olumsuz sonuçları ortadan kaldırmak için düzenlenmiştir.
 
 ##Memnu Hakların İadesi (Yasaklanmış Hakların Geri Verilmesi) Şartları
 
@@ -22,7 +22,7 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 
 * **Memnu hakların iadesi** için üçüncü şart, cezanın infazından başlamak ve cezanın infazından sonra geçirilmesi gereken 3 yıllık süre de dahil olmak üzere bu süre içerisinde hükümlünün yeni bir suç işlememesi ve yaşamını  “iyi halli” olarak sürdürdüğüne dair mahkemede kanaat oluşturmasıdır. Uygulamada mahkemeler, hükümlü suç işlememiş ve açıkça bilinen olumsuz bir özelliği yoksa hükümlüyü “iyi halli” kabul etmektedirler.
 
-**Memnu hakların iadesi** talebinde bulunmmak için yetkili mahkemeye bir dilekçe verilmelidir. Memnu hakların iadesi talebini kişi bir **ceza avukatı** veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
+**Memnu hakların iadesi** talebinde bulunmak için yetkili mahkemeye bir dilekçe verilmelidir. Memnu hakların iadesi talebini kişi bir **ceza avukatı** veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
 
 ##Memnu Hakların İadesi Kararı İçin Yetkili Mahkeme
 
