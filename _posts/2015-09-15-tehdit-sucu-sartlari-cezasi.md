@@ -17,11 +17,12 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ##Tehdit Suçunun Hukuki Niteliği
 
-**Tehdit suçu,** hukuki niteliği itibariyle bir tehlike suçudur.  Mağdur korkutmak  amacıyla işlenen bir suç olduğu için tehdit teşkil eden söz ve davranışın başka bir fiili zarar meydana  getirip getirmediğinin önemi yoktur. Örneğin, “seni bıçaklayacağım” sözleri **tehdit suçu**nu oluşturur, kişinin fiilen tehdit ettiği kişiyi bıçaklaması cezalandırılması için zorunlu değildir. 
+**Tehdit suçu,** hukuki niteliği itibariyle bir tehlike suçudur.  Mağduru korkutmak  amacıyla işlenen bir suç olduğu için tehdit teşkil eden söz ve davranışın başka bir somut zarar meydana  getirip getirmediğinin önemi yoktur. Örneğin, “seni bıçaklayacağım” sözleri **tehdit suçu**nu oluşturur, failin tehdit suçundan cezalandırılması için  tehdit ettiği kişiyi bıçaklaması zorunlu değildir. 
 
 ##Tehdit Suçu ve Şikayet Süresi
 
-**Tehdit suçu**nun yalnızca, malvarlığına yönelen basit şekli şikayete tabidir. Bu nedenle aşağıda açıkladığımız malvarlığı değerlerine yönelen tehdit suçunda şikayet süresi 6 aydır. Mağdur, fiili ve faili öğrenmesinde itibaren 6 ay içinde şikayet etmelidir. Aksi takdirde şikayet hakkı ortadan kalkar.
+**Tehdit suçu**nun yalnızca malvarlığına yönelen basit şekli şikayete tabidir. Bu nedenle aşağıda açıkladığımız malvarlığı değerlerine yönelen tehdit suçunda şikayet süresi 6 aydır. Mağdur, fiili ve faili öğrenmesinde itibaren 6 ay içinde şikayet etmelidir. Aksi takdirde şikayet hakkı ortadan kalkar.
+
 **Tehdit suçu**nun yaşam hakkına yönelik basit şeklinde ve diğer tüm ağır hallerinde suçun soruşturulması şikayete bağlı değildir. Bu suçlar 8 yıl olan dava zamanaşımı süresi içinde soruşturulabilir.
 
 ###Tehdit Suçu ve Kavga Sırasında Söylenen Sözler
@@ -30,10 +31,11 @@ Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kı
 
 ###Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
 
-**Tehdit suçu**nun basit halinde mağdur, haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malavarlığı değerlerine yönelen iki şekli vardır.
-Tehdit suçunun basit şeklinin yaşam hakkı değerlerine yönelmesi halinde cezası 6 aydan 2 yıla kadar hapis cezasıdır. Yani, bir kişiye karşı **tehdit suçu** işlemek kastıyla “seni öldüreceğim”  demek **tehdit suçu**nun yaşam hakkı değerlerine yönelen basit şeklinin oluşmasına neden olur.
+**Tehdit suçu**nun basit halinde, mağdur haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak mağdurun uğrayacağı muhtemel zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malavarlığı değerlerine yönelen iki şekli vardır:
 
-Malvarlığı değerlerine yönelik basit **tehdit suçu**nda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit **tehdit suçu** mağdurun şikayetine bağlı olarak soruşturulur.
+* Tehdit suçunun basit şeklinin yaşam hakkı değerlerine yönelmesi halinde cezası 6 aydan 2 yıla kadar hapis cezasıdır. Yani, bir kişiye karşı **tehdit suçu** işlemek kastıyla “seni öldüreceğim”  demek **tehdit suçu**nun yaşam hakkı değerlerine yönelen basit şeklinin oluşmasına neden olur.
+
+* Malvarlığı değerlerine yönelik basit **tehdit suçu**nda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit **tehdit suçu** mağdurun şikayetine bağlı olarak soruşturulur.
 
 ###Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
 
@@ -55,7 +57,7 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 
 ####4. İmzasız Mektup Yoluyla Tehdit Suçu
 
-İmzasız mektuptan kastedilen suçu işleyen kişinin kimliğinin mektuptan anlaşılamamasıdır. İmzasız mektup, tehditin nerden geldiğini bilmediği için mağduru daha çok korkutmakta, tehditin kaynağını bilmediği için de mağdur savunmasız kalmaktadır.  Bu nedenle yasa **tehdit suçu**nun imzasız mektup yoluyla işlenmesi cezayı arttıran bir neden olarak kabul edilmiştir. Ancak yazılan mektubun altında imza veya isim olmasa bile, mektubun kim tarafından yazıldığı mağdur tarafından hemen fark edilebiliyorsa ceza arttırımı yoluna gidilemez.
+İmzasız mektup ile kastedilen suçu işleyen kişinin kimliğinin mektuptan anlaşılamamasıdır. İmzasız mektup, tehditin nerden geldiğini bilmediği için mağduru daha çok korkutmakta, tehditin kaynağını bilmediği için de mağdur savunmasız kalmaktadır.  Bu nedenle yasa **tehdit suçu**nun imzasız mektup yoluyla işlenmesi cezayı arttıran bir neden olarak kabul edilmiştir. Ancak yazılan mektubun altında imza veya isim olmasa bile, mektubun kim tarafından yazıldığı mağdur tarafından hemen fark edilebiliyorsa ceza arttırımı yoluna gidilemez.
 
 ####5. Örgüt İsmi Kullanarak Tehdit Suçu
 
