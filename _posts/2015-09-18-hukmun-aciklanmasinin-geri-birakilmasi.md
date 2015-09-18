@@ -132,7 +132,7 @@ Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 
 * Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
 
-##Hükmün Açıklanmasının Geri Bırakılması Kararının Avantajları
+##Hükmün Açıklanmasının Geri Bırakılmasının Avantajları
 
 * **Hükmün açıklanmasının geri bırakılması** kararıyla ortada bir mahkumiyet hükmü olmadığı için kişi masumiyet karinesinden yararlanmaya devam eder. Bu nedenle **HAGB** kararı, kişinin hayatına hiçbir şekilde olumsuz etkide bulunmaz.
 
