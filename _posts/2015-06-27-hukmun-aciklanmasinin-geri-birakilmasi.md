@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Hükmün Açıklanmasının Geri Bırakılması
+title: Hükmün Açıklanmasının Geri Bırakılması - **HAGB**
 category: ceza-hukuku
 googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat
 keywords: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
