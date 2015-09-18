@@ -90,7 +90,9 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 
 **Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik yasası**nı ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani **denetimli serbestlik** dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
 
-Hükümlü, tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluğunun bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler içinde geçerlidir.
+**Denetimli serbestlik** uygulamasında hükümlüler en çok imza ihlali yapmaktadır. İmzaya gitmemek de önemli bir denetimli serbestlik kuralının ihlalidir. Üst üste iki kez imza ihlali yapanların denetimli serbestlik kararı geri alınır.
+
+Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluluğu vardır. Hükümlü, 3 günlük sürenin bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler için de geçerlidir.
 
 ###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
