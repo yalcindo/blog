@@ -68,7 +68,7 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 
 3) Ceza zamanaşımının dolması veya genel af veya kişinin ölümü halinde **adli sicil kaydı** silinir.
 
-###Adli Sicil Arşiv Kaydı Ne Zaman Silinir?
+###Adli Sicil "Arşiv Kaydı" Ne Zaman Silinir?
 
 * Kural olarak hükümlüye ait **adli sicil kaydı** cezanın infaz edilmesinden sonra silinir, arşiv kaydına alınır. Arşiv kaydı ise 5 yıl sonra silinir. 
 
