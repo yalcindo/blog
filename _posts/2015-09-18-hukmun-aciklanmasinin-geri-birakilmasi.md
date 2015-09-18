@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Hükmün Açıklanmasının Geri Bırakılması - **HAGB**
+title: Hükmün Açıklanmasının Geri Bırakılması - HAGB
 category: ceza-hukuku
 googleAnahtar: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat
 keywords: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının  geri bırakılması nedir, HAGB nedir, ceza avukatı, hagb itiraz, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
@@ -16,21 +16,21 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 
 
 
-###Hükmün Açıklanmasının Geri Bırakılması Şartları Nelerdir?
+##Hükmün Açıklanmasının Geri Bırakılması Şartları Nelerdir?
 
 
 
 **Hükmün açıklanmasının geri bırakılması** için birtakım şartların bir arada bulunması gerekir. Ceza Muhakemesi Kanunu’nun **hükmün açıklanmasının geri bırakılması kararı** için aradığı tüm şartlar vücut bulmadan, hakim,  HAGB  kararı verme yetkisine sahip değildir. Bu şartlar  şunlardır:
 
-####1.	Suça İlişkin Şartlar 
+###1.	HAGB Kararı için Suça İlişkin Şartlar 
 
 
-####(a)	Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
+####(a) Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
 
 
 Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçları, 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçların ceza miktarı ne olursa olsun **hükmün açıklanmasının geri bırakılmasına karar** verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır.
 
-####(b)	Hapis Cezası Verilen Suçlarda Ceza Miktarı Şartı
+####(b)	Hapis Cezası Verilen Suçlarda HAGB kararı için Ceza Miktarı Şartı
 
 
 Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise,  2 yıl veya daha az süreli hapis cezası olmalıdır. 18 yaşından küçük **çocuklar için hükmün açıklanmasının geri bırakılması kararı** verilebilmesi için ceza sınırı 3 yıl veya daha az süreli hapis cezasıdır. Suçun niteliğinin (yukarıda açıkladığımız istisnalar hariç), taksirle veya kasten işlenmesinin hiçbir önemi yoktur, önemli olan cezanın miktarıdır. Ceza Muhakemesi Kanunu ceza miktarını mutlak nitelikte bir ölçü kabul etmiştir. Bu yüzden, örneğin, kasten veya taksirle adam yaralama, hırsızlık, dolandırıcılık, hakaret, zarar verme, tehdit, şantaj, uyuşturucu madde kullanma gibi suçlar nedeniyle hükmedilen hapis cezaları süre koşulunu sağladığı takdirde sanık hakkında **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
@@ -42,17 +42,17 @@ Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**n
 
 Adli para cezası ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
-####2.	Sanığa İlişkin Şartlar
+###2.	HAGB Kararı için Sanığa İlişkin Şartlar
 
-####(a)	Hakkında Karar Verilen Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
+####(a)	Hakkında HAGB Kararı Verilecek Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
 
 Sanığın daha önce kasten işlediği bir suçtan dolayı kesinleşmiş mahkumiyeti varsa hakkında **hükmün açıklanmasının geri bırakılması kararı** verilemez. Önceki mahkumiyetinin hapis cezası veya adli para cezası olmasının veya cezanın miktarının hiçbir önemi yoktur. Sanığın önceki mahkumiyetine esas suç kasten işlenmişse hükmün açıklanmasının geri bırakılması kararı verilmesi mümkün değildir.
 
-Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş mahkumiyet kararı olsa bile **hükmün açıklanmasının geri  bırakılması** kararı verilebilir. Örnek vermek gerekirse, trafik kazası, iş kazası veya başka bir taksirli fiil ile ölüm veya yaralama suçlarından mahkum olmuş bir kişi hakkında sonraki suçu nedeniyle hükmün açıklanmasının geri bırakılması kararı verilebilir.
+Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş mahkumiyet kararı olsa bile **hükmün açıklanmasının geri  bırakılması** kararı ( **HAGB** kararı ) verilebilir. Örnek vermek gerekirse, trafik kazası, iş kazası veya başka bir taksirli fiil ile ölüm veya yaralama suçlarından mahkum olmuş bir kişi hakkında sonraki suçu nedeniyle hükmün açıklanmasının geri bırakılması kararı verilebilir.
 
 Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında dnentimli serbestlik tedbiri varsa, hükmün açıklanmasının geri bırakılması kurumundan faydalanabilir. Örneğin, sanığın adli sicil kaydında uyuşturucu madde kullanma suçundan tedavi ve denetimli serbestlik tedbiri yer alsa bile, bu tedbir hukuki niteliği itibarıyle ceza olmadığı için sanık hakkında HAGB kararı verilebilir.
 
-####(b)	Suç Nedeniyle Mağdurun veya Kamunun Uğradığı Zararın Aynen İade, Suçtan Önceki Hale Getirme veya Tamamen Giderilmesi
+####(b)	Zararın Giderilmesi ve Hükmün Açıklanmasının Geri Bırakılması
 
 İşlenen suç nedeniyle mağdur veya kamu bir zarara uğramışsa, **hükmün açıklanmasının geri bırakılması**na karar verilebilmesi için uğranılan bu zararın giderilmesi gerekir. Suç nedeniyle oluşan zarardan kasıt maddi zararlardır, manevi zararlar uğranılan zarar kapsamında değildir.  Zararın giderilmesi, zararın konusu olan şey aynen verilebiliyorsa aynen iade yoluyla, aynen iade edilemeyecek bir şey ise tazmin suretiyle giderilmesi yoluyla mümkün olur. Örnek vermek gerekirse, cep telefonu çalınan kişiye cep telefonunun aynen iade edilmesi veya bedelinin ödenmesi **zararın giderilmesi** olarak kabul edilir. Suç nedeniyle oluşan dolaylı zararlar, CMK md. 231’deki  “uğranılan zarar” kapsamına dahil değildir. Örneğin,  işlenen suç nedeniyle mağdurun çalışamaması, iş güç kaybı “uğranılan zarar” kavramına dahil olmayan dolaylı zararlar olarak kabul edilmektedir.
 
@@ -72,7 +72,7 @@ Bazı suçların özelliği gereği, kamunun veya kişilerin uğradığı bir za
 
 ####(c)	Mahkemece Sanığın Tekrar Suç İşlemeyeceği Kanaatine Varılması
 
-Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özelliklerini göz önüne alarak yeniden suç işlemeyeceği kanaatine varırsa **hükmün açıklanmasının geri bırakılması** kararı verir. Hemen belirtelim ki yargıç, sanığın davranışlarını ve kişiliğini sübjektif kriterlere göre değerlendiremez. Yargıtay’ıın yerleşik içtihatlarına göre sanığın duruşma tutanaklarına yansıyan olumsuz bir davranışı ve bilinen olumsuz bir kişilik özelliği yoksa yargıç **HAGB** kararı vermelidir.
+Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özelliklerini göz önüne alarak yeniden suç işlemeyeceği kanaatine varırsa **hükmün açıklanmasının geri bırakılması** ( **HAGB** ) kararı verir. Hemen belirtelim ki yargıç, sanığın davranışlarını ve kişiliğini sübjektif kriterlere göre değerlendiremez. Yargıtay’ıın yerleşik içtihatlarına göre sanığın duruşma tutanaklarına yansıyan olumsuz bir davranışı ve bilinen olumsuz bir kişilik özelliği yoksa yargıç **HAGB** kararı vermelidir.
 
 ####(d)	Sanığın Hükmün Açıklanmasının Geri Bırakılmasını Kabul Etmediğine Dair Beyanının Olmaması
 
@@ -111,7 +111,14 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 
 Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
-###Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Kararları
+
+###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
+
+**Hükmün açıklanmasının geri bırakılması kararı,** **adli sicil kaydına (sabıka kaydına)** işlenmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
+
+Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+
+##Hükmün Açıklanmasının Geri Bırakılması İle İlgili Yargıtay Kararları
 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
@@ -125,14 +132,16 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 * Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
 
+##Hükmün Açıklanmasının Geri Bırakılması Kararının Avantajları
 
-###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
+* **Hükmün açıklanmasının geri bırakılması** kararıyla ortada bir mahkumiyet hükmü olmadığı için kişi masumiyet karinesinden yararlanmaya devam eder. Bu nedenle **HAGB** kararı, kişinin hayatına hiçbir şekilde olumsuz etkide bulunmaz.
 
-**Hükmün açıklanmasının geri bırakılması kararı,** **adli sicil kaydına (sabıka kaydına)** işlenmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
+* **Hükmün açıklanmasının geri bırakılması** kararı adli sicil kaydında özel bir bölüme kaydedildiğinden normal sabıka kaydında gözükmez.
 
-Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+* **Hükmün açıklanmasının geri bırakılması** kararı ileride suç işlenmesi nedeniyle açıklanır, **HAGB** kararı açıklandığından kişinin kararı temyiz hakkı mevcuttur. Yani, kararın Yargıtay'da bozulması için kişiye yeni bir şans tanınır.
 
 
+**Hükmün açıklanmasının geri bırakılması,** bir kereye mahsus olmak üzere yargılanan şahsın kişisel ve sosyal hayatını bozmadan sürdürebilmesi için imkan tanıyan önemli bir ceza usul kurumudur.
 
 
 
