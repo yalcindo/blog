@@ -100,7 +100,7 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 
 **Hükmün açıklanmasının geri bırakılmasına itiraz,** henüz etkin bir kanun yoluna dönüşmüş değildir. Yapılan itirazlar dosya üzerinden incelenerek karar verilmektedir.
 
-###Hükmün Açıklanmasının Geri Bırakılması Kararınun Memurluğa Etkisi Nedir?
+###Hükmün Açıklanmasının Geri Bırakılması Kararının Memurluğa Etkisi Nedir?
 
 
 **Hükmün açıklanmasınının geri bırakılması kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
