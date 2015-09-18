@@ -91,6 +91,6 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 * Belde Belediye Başkanı olan sanığın belde sakinlerinden birinin evini icra yoluyla satın alan şahsın eşini makamına çağırıp "*evi eski sahibine satılması*" hususundaki teklifinin  kabul olunmaması üzerine "*bu evi sana yar etmem, zaten ruhsatı yok yıktırırım*" şeklindeki sözleri **tehdit suçu**nu oluşturur. 	Fiilin mağdur üzerinde ciddi bir korku yaratabilmesi açısından sonuç almaya objektif olarak elverişli ve uygun olması yeterlidir. Ayrıca somut olayda muhatap üzerinde etkili olması gerekli değildir 	( Yargıtay 4. Ceza Dairesi - Esas No: 2009/13483, Karar No: 2011/17641, Tarih: 18.10.2011 ).
 
 * Eski kız arkadaşına "*Benden kolay kurtulamazsın, seni bırakmam, inan yüzüne kezzap dökerim*" şeklinde not gönderen failin fiili **tehdit suçu**nu oluşturur. **Tehdit suçu**nun manevi öğesi genel kasttan ibaret olup suçun yasal tanımındaki unsurlarının bilerek ve istenerek işlenmesini ifade eder. **Tehdit suçu**nda, olayda tasarlamanın varlığı aranmadığı gibi, saikin de önemi yoktur	( Yargıtay 4. Ceza Dairesi - Esas No: 2008/2076, Karar No: 2009/14671, Tarih: 16.9.2009 ).
-*
+
 	
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
