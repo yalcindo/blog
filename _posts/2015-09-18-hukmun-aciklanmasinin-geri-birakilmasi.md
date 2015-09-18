@@ -16,13 +16,13 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 
 
 
-##Hükmün Açıklanmasının Geri Bırakılması Şartları Nelerdir?
+##Hükmün Açıklanmasının Geri Bırakılması Şartları?
 
 
 
 **Hükmün açıklanmasının geri bırakılması** için birtakım şartların bir arada bulunması gerekir. Ceza Muhakemesi Kanunu’nun **hükmün açıklanmasının geri bırakılması kararı** için aradığı tüm şartlar vücut bulmadan, hakim,  HAGB  kararı verme yetkisine sahip değildir. Bu şartlar  şunlardır:
 
-###1.	HAGB Kararı için Suça İlişkin Şartlar 
+###1.	HAGB Kararı için Suça Dair Şartlar 
 
 
 ####(a) Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
@@ -35,14 +35,14 @@ Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeler
 
 Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise,  2 yıl veya daha az süreli hapis cezası olmalıdır. 18 yaşından küçük **çocuklar için hükmün açıklanmasının geri bırakılması kararı** verilebilmesi için ceza sınırı 3 yıl veya daha az süreli hapis cezasıdır. Suçun niteliğinin (yukarıda açıkladığımız istisnalar hariç), taksirle veya kasten işlenmesinin hiçbir önemi yoktur, önemli olan cezanın miktarıdır. Ceza Muhakemesi Kanunu ceza miktarını mutlak nitelikte bir ölçü kabul etmiştir. Bu yüzden, örneğin, kasten veya taksirle adam yaralama, hırsızlık, dolandırıcılık, hakaret, zarar verme, tehdit, şantaj, uyuşturucu madde kullanma gibi suçlar nedeniyle hükmedilen hapis cezaları süre koşulunu sağladığı takdirde sanık hakkında **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
 
-####(c)	Adli Para Cezası Açısından Zorunlu Şart
+####(c)	Hükmün Açıklanmasının Geri Bırakılması ve Adli Para Cezası 
 
 
 Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**na hükmetmişse bu para cezası hakkında da **hükmün açıklanmasının geri bırakılması kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir **adli para cezası** olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme **adli para cezası** vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **hükmün açıklanmasının geri bırakılması**na karar verilemez.
 
 Adli para cezası ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
-###2.	HAGB Kararı için Sanığa İlişkin Şartlar
+###2.	HAGB Kararı için Sanığa Dair Şartlar
 
 ####(a)	Hakkında HAGB Kararı Verilecek Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
 
