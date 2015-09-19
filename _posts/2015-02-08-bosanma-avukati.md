@@ -67,9 +67,11 @@ Hakim, ilk duruşmada (ön inceleme duruşmasında) gerekli tespitleri yaptıkta
 
 **Boşanma davası**nda hakimin verdiği hüküm ne olursa olsun her iki tarafın temyiz hakkı vardır.**Boşanma davası,** evlilik birliğini sona erdiren nihai bir kararla sonuçlanırsa, tarafların temyiz incelemesi için Yargıtay'a başvuru hakkı doğar. Temyiz incelemesi sonucu veya temyiz edilmeyerek karar kesinleşirse nüfus müdürlüğüne yazı yazılarak tarafların nüfus kayıtlarının mahkeme kararına göre düzenlenmesi sağlanır.
 
+**Boşanma avukatı,** davanın tarafları açısından velayet, maddi-manevi tazminat, mal paylaşımı gibi konularda meydana çıkacak uyuşmazlıklarda önemli bir savunma fonksiyonu ifa eder.
 
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+
+**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
 
 
 
