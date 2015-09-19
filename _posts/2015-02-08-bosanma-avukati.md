@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Boşanma Avukatı
+title: Boşanma Avukatının İşlevi
 category: medeni-hukuk
 googleAnahtar: Boşanma avukatı, avukat, boşanma davası, boşanma sebebi, boşanma sebepleri, ataköy avukat, bakırköy avukat, istanbul avukat,
 summary: Boşanma avukatı nedir? Boşanma avukatının işlevi nedir? Boşanma avukatı boşanma davası sürecini nasıl yönetir?Boşanma avukatının boşanma davası sürecindeki faaliyeti anlaşılır bir dille izah edilmeye çalışılmıştır.
