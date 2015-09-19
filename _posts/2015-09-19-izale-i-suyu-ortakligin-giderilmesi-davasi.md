@@ -11,7 +11,7 @@ summary: İzale-i Şuyu Davası ( Ortaklığın Giderilmesi Davası ) Nedir? Ort
 
 ##İzale-i Şuyu ( Ortaklığın Giderilmesi ) Davası Nedir?
 
-İzale-i  Şuyu veya ortaklığın giderilmesi davası, paylı veya elbirliği mülkiyetine konu taşınır veya taşınmaz malda ortaklar arasındaki paydaşlığa son vererek kişisel mülkiyete geçişi sağlayan,  davanın tüm tarafları için benzer sonuçlar doğuran bir dava türüdür.
+**İzale-i  Şuyu** veya **ortaklığın giderilmesi davası,** paylı veya elbirliği mülkiyetine konu taşınır veya taşınmaz malda ortaklar arasındaki paydaşlığa son vererek kişisel mülkiyete geçişi sağlayan,  davanın tüm tarafları için benzer sonuçlar doğuran bir dava türüdür.
 
 ##Ortaklığın Giderilmesi ( İzale-i Şuyu ) Davası Kime Karşı Açılır?
 
@@ -21,17 +21,17 @@ Tüm paydaşların **ortaklığın giderilmesi davası**nda yer alması zorunlud
 
 ##Ortaklığın Giderilmesi ( İzale-i Şuyu ) Davası Hangi Mahkemede Açılır
 
-Ortaklığın giderilmesi ( izale-i şüyu ) davasında yetkili mahkeme taşınmaz malın bulunduğu yer mahkemesidir. Görevli mahkeme ise Sulh Hukuk Mahkemesi’dir. Örneğin, taşınmaz mal Bakırköy’de bulunuyorsa ortaklığın giderilmesi davasında yetkili ve görevli mahkeme Bakırköy Sulh Hukuk Mahkemesi’dir.
+**Ortaklığın giderilmesi** ( **izale-i şüyu** ) davasında yetkili mahkeme taşınmaz malın bulunduğu yer mahkemesidir. Görevli mahkeme ise Sulh Hukuk Mahkemesi’dir. Örneğin, taşınmaz mal Bakırköy’de bulunuyorsa **ortaklığın giderilmesi davası**nda yetkili ve görevli mahkeme Bakırköy Sulh Hukuk Mahkemesi’dir.
 
 ##Ortaklığın Giderilmesi Davasında Mahkeme Harç  ve Giderleri 
 
-Ortaklığın giderilmesi davası matbu harca tabi bir davadır.  Her ne kadar davayı açan paydaş dava harcını ve mahkeme giderlerini davanın başında ödemek zorunda kalsa da davanın sonunda mahkeme giderleri ve avukatlık ücretleri payları oranında taraflara yükletilir. İzale-i Şuyu davasında davanın kazananı veya kaybedeni olmaz, davanın tarafı olan herkes davadan aynı şekilde etkilenir.
+**Ortaklığın giderilmesi davası** matbu harca tabi bir davadır.  Her ne kadar davayı açan paydaş dava harcını ve mahkeme giderlerini davanın başında ödemek zorunda kalsa da davanın sonunda mahkeme giderleri ve avukatlık ücretleri payları oranında taraflara yükletilir. **İzale-i Şuyu** davasında davanın kazananı veya kaybedeni olmaz, davanın tarafı olan herkes davadan aynı şekilde etkilenir.
 
 ###Aynen Taksim  Suretiyle İzale-i Şuyu ( Ortaklığın Giderilmesi )
 
-İzale-i şüyu davasının tarafları malı nasıl bölüştüreceklerine anlaşarak dava sırasında bu antlaşmayı hakime bildirebilirler. Hakim bu antlaşma doğrultusunda ortaklığın giderilmesine karar verebilir. Taraflar malın paylaşılması konusunda anlaşmazlarsa maldaki ortaklığın ya satış suretiyle ya da aynen taksim yoluyla giderilmesi gerekir.
+**İzale-i şüyu davası**nın tarafları malı nasıl bölüştüreceklerine anlaşarak dava sırasında bu antlaşmayı hakime bildirebilirler. Hakim bu antlaşma doğrultusunda ortaklığın giderilmesine karar verebilir. Taraflar malın paylaşılması konusunda anlaşmazlarsa maldaki ortaklığın ya satış suretiyle ya da aynen taksim yoluyla giderilmesi gerekir.
 
- Ortaklığın giderilmesi davasında malın aynen taksimi için taraflardan yalnızca birinin talepte bulunması yeterlidir. Taraflardan biri ortak malın aynen taksim edilerek ortaklığın giderilmesine karar verilmesini isterse, hakim öncelikle aynen taksim şartlarının bulunup bulunmadığını araştırmalıdır ( MK md. 699/2).
+ **Ortaklığın giderilmesi davası**nda malın aynen taksimi için taraflardan yalnızca birinin talepte bulunması yeterlidir. Taraflardan biri ortak malın aynen taksim edilerek ortaklığın giderilmesine karar verilmesini isterse, hakim öncelikle aynen taksim şartlarının bulunup bulunmadığını araştırmalıdır ( MK md. 699/2).
  
 Paydaşlığın giderilmesi davalarında mahkemece malın aynen bölünerek paylaştırılmasına karar verilebilmesi için taşınmazın yüzölçümü, niteliği, pay ve paydaş sayısı ve tarım arazilerinin niteliği ile imar mevzuatına göre aynen taksimin mümkün olup olmadığının araştırılması gerekir. Taşınmazın önemli ölçüde bir değer kaybına uğraması söz konusu ise aynen bölünerek paylaştırılmasına karar verilemez. Keza paydaşlar rıza göstermedikleri takdirde taşınmazın bir bölümü paylı bırakılamaz.
 Aynen bölünerek paylaştırmanın ( taksimin ) mümkün olması durumunda bölünen parçaların değerlerinin birbirine denk düşmemesi halinde eksik değerdeki parçaya para ( ivaz ) eklenerek denkleştirme sağlanır. Paydaşlar arasında anlaşma olmadıkça hakim kendiliğinden bazı taşınmazların bir kısım paydaşlara, kalanın diğer paydaşlara verilmesi şeklinde aynen bölünerek paylaştırmaya karar veremez.
