@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Yargıtay Kararı - Boşanma Davasında Maddi-Manevi Tazminat Miktarı
+title: Boşanma Davasında Maddi-Manevi Tazminat Miktarı -Yargıtay Kararı 
 category: medeni-hukuk
-googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, Avukat Baran Doğan
+googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, ataköy avukat, Avukat Baran Doğan
 ---
 
 **ÖZET**
@@ -73,4 +73,4 @@ Eşe şiddet uygulanmasının TMK'nun 174/2 anlamında kişilik haklarına sald�
 
 SONUÇ : Davalı vekilinin temyiz itirazlarının reddi ile, direnme kararının yukarıda açıklanan nedenlerle ONANMASINA, gerekli temyiz ilam harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu'na eklenen "Geçici Madde 3" atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 440/1.maddesi uyarınca kararın tebliğinden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 06.03.2013 gününde yapılan ikinci görüşmede oyçokluğuyla karar verildi.
 
-**Avukat Baran Doğan**
+**Ataköy - Avukat Baran Doğan**
