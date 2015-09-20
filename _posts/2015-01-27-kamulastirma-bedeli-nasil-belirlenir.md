@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Yargıtay Kararı- Kamulaştırma Bedelinin Tespiti 
+title: Kamulaştırma Bedelinin Tespiti - Yargıtay Kararı
 category: gayrimenkul-hukuku
-googleAnahtar: Kamulaştırma bedeli, kamulaştırma bedeli nasıl belirlenir, avukat, Avukat Baran Doğan
+googleAnahtar: Kamulaştırma bedeli, kamulaştırma bedeli nasıl belirlenir, avukat, Avukat Baran Doğan, ataköy avukat
 ---
 **T.C.**
 
@@ -44,4 +44,4 @@ Dosya içeriği, toplanan delillere göre ve özellikle Özel Daire bozma ilamı
 
 SONUÇ : Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma ilamında gösterilen nedenlerden dolayı 6217 Sayılı Kanunun 30. maddesiyle 6100 Sayılı Hukuk Muhakemeleri Kanunu'na eklenen "Geçici madde 3" atfıyla uygulanmakta olan 1086 Sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA, istenmesi halinde temyiz peşin harcının yatırana iadesine, aynı kanunun 440. maddesi uyarınca hükmün tebliğinden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 19.03.2014 tarihinde oybirliğiyle karar verildi.
 
-***Avukat Baran Doğan***
+***Ataköy - Avukat Baran Doğan***
