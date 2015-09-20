@@ -82,11 +82,13 @@ TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenm
 Hükmün açıklanmasının geri bırakılması (HAGB), sanığın 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, sanığın bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
+Hükmün Açıklanmasının Geri Bırakılması ile ilgili ayrıntılı bilgi için bakınız: [**HÜKMÜN AÇIKLANMASININ GERİ BIRAKILMASI**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
+
 ###Hakaret Suçu ve Şikayet Süresi 
 
-Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
+**Hakaret suçu**nun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
 
-Hakaret suçunun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
+**Hakaret suçu**nun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
 
