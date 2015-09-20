@@ -25,6 +25,8 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 
 **Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun **denetimli serbestlik yasası**ndan yararlanması mümkün değildir. Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin talebi üzerine cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
 
+Toplam 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine kendiliğinden 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan hükümlüler 31.12.2015 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
+
 0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde **denetimli serbestlik yasası** yoluyla serbest bırakılabilecektir.
 
 Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
@@ -96,7 +98,7 @@ Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 g�
 
 ###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
-**Denetimli serbestlik süresi,** ancak kanunla belirlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
+**Denetimli serbestlik süresi,** ancak kanunla belirlenebilir. Nitekim, [**5275 sayılı Kanunu'un 105/A Maddesi**](http://www.turkhukuksitesi.com/mevzuat.php?mid=12841) denetimli serbestlik süresini düzenlemiştir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
 
 ###8. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları
 
