@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Yargıtay Kararı- Taşınmazın Haricen Satışı/Ecrimisil 
+title: Taşınmazın Haricen Satışı ve Ecrimisil - Yargıtay Kararı
 category: gayrimenkul-hukuku
-googleAnahtar: Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat, Avukat Baran Doğan
+googleAnahtar: taşınmazın haricen satışı, Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat, Avukat Baran Doğan
 ---
 **YARGITAY**
 
@@ -13,7 +13,6 @@ googleAnahtar: Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy
 **Karar No.2011/13497**
 
 Taraflar arasında görülen davada;
-
 Davacı, kayden maliki olduğu 38 parsel sayılı taşınmazı davalıların ekim yapmak suretiyle haksız kullandıklarını ileri sürerek elatmanm önlenmesine ve 8.000,00 TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
 Davalı H., dava konusu taşınmazın yarısını davacıdan haricen satın aldığını, 40 yıldır yeri kullandığını, yaşlı olduğu için kendi adına ekimi diğer davalının yaptığını belirtip davanın reddini savunmuştur. Diğer davalı, yargılamaya katılmadığı gibi davaya cevap da vermemiştir.
