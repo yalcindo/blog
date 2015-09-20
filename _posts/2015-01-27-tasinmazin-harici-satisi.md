@@ -2,7 +2,7 @@
 layout: blog
 title: Yargıtay Kararı- Taşınmazın Haricen Satışı/Ecrimisil 
 category: gayrimenkul-hukuku
-googleAnahtar: Ecrimisil, harici satış, elatmanın önlenmesi, avukat, Avukat Baran Doğan
+googleAnahtar: Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat, Avukat Baran Doğan
 ---
 **YARGITAY**
 
@@ -38,4 +38,4 @@ O halde, anılan belgenin aslı temin edilerek, belge üzerinde bilirkişi tetki
 
 SONUÇ : Davalı H.'in bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün ( 6100 sayılı Hukuk Muhakemeleri Kanununun geçici 3. maddesi aracılığıyla ) 1086 sayılı HUMK.nun 428. maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 22.12.2011 tarihinde oybirliğiyle karar verildi.
 
-**Avukat Baran Doğan**
+**Ataköy - Avukat Baran Doğan**
