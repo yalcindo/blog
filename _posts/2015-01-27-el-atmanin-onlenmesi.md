@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Yargıtay Kararı- El Atmanın Önlenmesi / İyiniyet veya Kötüniyetle Başkasının Arsasında Yapı İnşa Etmek
+title: El Atmanın Önlenmesi / İyiniyet veya Kötüniyet ile Başkasının Arsasında Yapı İnşa Etmek - Yargıtay Kararı
 category: gayrimenkul-hukuku
 googleAnahtar: el atmanin önlenmesi, başkasının arasasına bina yapılması, avukat, Avukat Baran Doğan
 ---
