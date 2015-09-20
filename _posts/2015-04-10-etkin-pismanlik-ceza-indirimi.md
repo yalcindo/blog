@@ -107,6 +107,8 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 **Hakaret suçu,** hakarete uğrayan kişinin faile dönük kasten yaralama fiiline tepki olarak işlenmişse faile ceza verilmez.
 **Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
+Hakaret Suçu ile ilgili daha ayrıntılı bilgi için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
+
 ####5-) Kişiyi Hürriyetinden Yoksun Kılma Suçunda Etkin Pişmanlık ve Ceza İndirimi (TCK md.110)
 
 
@@ -115,6 +117,8 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 ####6-) Tehdit Suçunda, Şantaj Suçunda, Konut Dokunulmazlığını İhlal Suçunda Etkin Pişmanlık ve Ceza İndirimi
 
 Tehdit suçunda, şantaj suçunda ve konut dokunulmazlığını ihlal suçunda etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
+
+Tehdit suçu ile ilgili ayrıntılar için bakınız: [**TEHDİT SUÇU ŞARTLARI VE CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)
 
 
 ###Etkin Pişmanlık Ceza İndiriminden Kaç Kez Yararlanılabilir? 
