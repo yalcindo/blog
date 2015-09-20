@@ -44,5 +44,5 @@ Hal böyle olunca, asıl davada ileri sürülen **el atmanın önlenmesi** ve y�
 
 SONUÇ : Davacının, temyiz itirazı açıklanan sebepten ötürü yerindedir. Kabulüyle, hükmün ( 6100 S. H.M.K.nın geçici 3 üncü maddesi yollamasıyla ) H.U.M.K.nun 428 inci maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene iadesine, 19.10.2011 tarihinde oybirliğiyle karar verildi.
 
-***Avukat Baran Doğan***
+***Ataköy - Avukat Baran Doğan***
 
