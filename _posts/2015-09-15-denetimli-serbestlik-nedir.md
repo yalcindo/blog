@@ -110,10 +110,13 @@ Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 g�
 
 * Hükümlü, **denetimli serbestlik yasası**ndan yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
-###9. Denetimli Serbestlik Sorgulama
+###9. Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
 
 
-**Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır.
+**Denetimli serbestlik yasası uygulaması,** adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. **Denetimli serbestlik** uygulanan hükümlü ile ilgili bilgiler de adli sicil kaydından silinebilir.
+
+Adli sicil kaydının silinmesi ile ilgili ayrıntılar için bakınız: [**ADLİ SİCİL KAYDININ SİLİNMESİ**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+
 
 Denetimli serbestlik ile ilgili sorgulama şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
