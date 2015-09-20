@@ -46,6 +46,8 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 
 **Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir [( **TCK md. 29** )](http://www.turkhukuksitesi.com/mevzuat.php?mid=3307). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
+Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Hakaret suçu ile ilgili ayrıntılı yazı için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html)
+
 ##Haksız Tahrik İndirimi ile İlgili Yargıtay Kararları
 
 * Şikayetçi, sanığın arabasına taş atmış, uyarılara rağmen taş atmaya devam etmiştir. Sanık şikayetçiye karşı yaralama işlediği eyleminin, şikayetçinin kendisine taş atmasından etkilenerek **haksız tahrik** altında işlediğini savunmuştur. Olayın gelişim tarzına göre sanık **haksız tahrik** hükümlerinden yararlandırılmalıdır ( Yargıtay 3. Ceza Dairesi – Esas No: 2014/34604, Karar No: 2015/11953, Tarih: 02.04.2015 ).
