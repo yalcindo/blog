@@ -4,7 +4,7 @@ title: Memnu Hakların İadesi, Şartları, Yetkili Mahkeme
 category: ceza-hukuku
 googleAnahtar: Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy, istanbul avukat
 keywords:  Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, Memnu hakalrın iadesi ve devlet memurluğu, memnu hakların iadesi kararı yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? Memnu hakların iadesi şartları, Memnu hakların iadesi kararı, Memnnu hakların iadesi kararı için yetkili mahkeme, Devlet memurluğu ve memnu hakların iadesi, Milletvekilliği ve memnu hakların iadesi kararı, Memnu hakların iadesi kararı verilirse idare hükümlüyü memuriyete kabul etmek zorunda mı? 
+summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? Memnu hakların iadesi şartları, Memnu hakların iadesi kararı, Memnu hakların iadesi kararı için yetkili mahkeme, Devlet memurluğu ve memnu hakların iadesi, Milletvekilliği ve memnu hakların iadesi kararı, Memnu hakların iadesi kararı verilirse idare hükümlüyü memuriyete kabul etmek zorunda mı? 
 ---
 ##Memnu Hakların İadesi Nedir?
 
@@ -40,7 +40,8 @@ Devlet Memurları Kanunu ( 657 sayılı yasa ), 48/A-5 maddesi, Türk Ceza Kanun
 
 Hükümlü hakkında **memnu hakların iadesi kararı** verilirse yasaklanmış tüm haklarına kavuşur. Memnu hakların iadesi kararı memuriyet önündeki engelleri de kaldırır. Devlet memurluğu koşulları ne olursa olsun kişi **yasaklanmış hakların geri alınması** kararı almışsa memurluk hakkına kavuşur. Ancak açıktan atama kuralları gereği 657 sayılı yasanın 92. maddesi çerçevesinde idarenin hükümlüyü memurluğa kabul edip etmemede takdir hakkı vardır. Söz konusu takdir hakkı ölçüsüz olmayıp idari yargı denetimine tabidir.
 
-Memnu Hakların İadesi ve Milletvekilliği
+###Memnu Hakların İadesi ve Milletvekilliği
+
 Milletvekili Seçimi Kanunu’nun 11. maddesine  göre toplam 1 yıl veya daha fazla hapis cezası alan vatandaşlar, cezaları affa uğrasa bile milletvekili seçilme hakkına sahip değildir. Milletvekili seçilme hakkını kazanmanın tek yolu hükümlü hakkında **memnu hakların iadesi** kararı verilmesidir. Milletvekili seçiminde seçilme hakkını kullanmak isteyen vatandaşların başvuru süresi içinde **yasaklanmış hakların geri alınması** kararını almaları gerekir.
 
 
@@ -55,6 +56,8 @@ Bazı mesleklerin özel meslek kuralları vardır. Hükümlü **memnu hakların 
 ###Memnu Hakların İadesi ve Adli Sicil
 
 Adli Sicil Kanunu’na göre **memnu hakların iadesi** kararı kişinin adli sicil kaydına ( sabıka kaydına ) işlenir. Böylece **yasaklanmış haklarının geri verilmesi** konusunda kişi hakkında verilen yargı kararına ulaşmak kolaylaşır.
+
+Adli Sicil Kaydının silinmesi ile ilgili bakınız: [**ADLİ SİCİL KAYDININ SİLİNMESİ**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
 **Memnu hakların iadesi kararı,** kişinin birçok vatandaşlık hakkını kullanmasına imkan sağladığından hükümlüler için cezanın infazından hemen sonra mutlaka alınması gereken önemli bir mahkeme kararıdır. 
 
