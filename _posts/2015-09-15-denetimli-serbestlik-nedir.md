@@ -97,6 +97,7 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluluğu vardır. Hükümlü, 3 günlük sürenin bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler için de geçerlidir.
 
 Denetimli Serbestlik hükümlerinin nasıl uygulanacağı şu yönetmelikle düzenlenmiştir: [**DENETİMLİ SERBESTLİK YÖNETMELİĞİ**](http://www.resmigazete.gov.tr/eskiler/2013/03/20130305-7.htm)
+
 ###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
