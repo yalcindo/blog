@@ -53,11 +53,12 @@ Fail, saldırıyı yapan kişiye karşı meşru savunmada bulunabilir. Saldırı
 
 ####c. Meşru Müdafaada Saldırı ile Savunma Orantılı Olmalıdır
 
-Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile saldırı arasında orantılılık ilkesine uyulup uyulmadığı hususudur. Saldırı ile savunma orantılı olmadığı takdirde meşru müdafaa hükümleri uygulanmaz. Savunmada aşırıya kaçılması halinde fail ya haksız tahrik hükümlerinden ya da meşru savunmada sınırın aşılması hükümlerinden yararlanabilir. Örneğin, kendisine yumruk atan birini silahla vurup öldüren kişi meşru müdafaa şartları gerçekleşmediği için yalnızca haksız tahrik indiriminden yararlanabilir. 
+Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile saldırı arasında orantılılık ilkesine uyulup uyulmadığı hususudur. Saldırı ile savunma orantılı olmadığı takdirde **meşru müdafaa** hükümleri uygulanmaz. Savunmada aşırıya kaçılması halinde fail ya haksız tahrik hükümlerinden ya da meşru savunmada sınırın aşılması hükümlerinden yararlanabilir. Örneğin, kendisine yumruk atan birini silahla vurup öldüren kişi **meşru müdafaa şartları** gerçekleşmediği için yalnızca haksız tahrik indiriminden yararlanabilir. 
 
 ###Meşru Müdafaa, Haksız Tahrik ve Ceza
 
-Failin eylemi meşru müdafaa şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi meşru savunma sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
+Failin eylemi **meşru müdafaa** şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi **meşru savunma** sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
+
 Haksız tahrik indirimi ayrıntılı bilgi için bakınız: [**HAKSIZ TAHRİK ve CEZA İNDİRİMİ**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
 
 
@@ -71,10 +72,10 @@ Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, o
 
 *	Meşru savunmaya ilişkin koşullardan "ölçülülük ya da orantılılık" koşulunun, savunma lehine ihlal edilmesi suretiyle sınırın aşılması,
 
-* Meşru savunmada sınırın aşılmasının mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmesi gerekmektedir.
+* **Meşru müdafaa** sınırının aşılmasının mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmesi gerekmektedir.
 
 Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine düşmektedir. Böylece failin davranışlarını yönlendirme yeteneğinde bir azalma meydana gelmektedir. Failin içinde bulunduğu psikolojik ortam meşru savunmada sınırın aşılıp aşılmadığının tespitinde önem kazanır. Eğer fail, korku ve telaşla değil de bir kin ve intikam duygusuyla saldırıya cevap verirse meşru savunmada sınırın aşılmasından değil haksız tahrik hükümlerinin uygulanmasından bahsedilebilir. 
-Meşru savunmada sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
+**Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
 ###Meşru Müdafaa ( Meşru Savunma ) Yargıtay Kararları
 
