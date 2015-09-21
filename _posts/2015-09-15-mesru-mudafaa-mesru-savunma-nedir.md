@@ -27,7 +27,9 @@ Saldırıya dair şartlar,  tamamen karşı taraftan kaynaklanan ve saldırını
 
 Faile veya başkasına yönelen saldırı haksız nitelikte bir saldırı olmalıdır. Saldırının meşru bir gerekçesi varsa, failin **meşru müdafaa** hükümlerinden yararlanması mümkün değildir. Örneğin, intihar etmek isteyen bir kimseye müdahale ederken güç kullanılması halinde, intihar eden şahsın kendisini engellemeye çalışan kişiye karşı savunma yaparak darp etmesi halinde, darp fiili için **meşru müdafaa**  hükümleri uygulanamaz.
 
-*	####c. Saldırı Meşru Müdafaa İle Korunabilecek Bir Hakka Yönelmeli																									Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırının **meşru müdafaa** ile korunabilecek bir hakka yönelik olması gerekir. Failin, meşru savunma ile korunması mümkün olmayan bir hakkı koruması halinde **meşru savunma** hükümlerinden yararlanması mümkün değildir. Örneğin, komşusunun arazisinde sahip olduğu geçit hakkının kapatılmasına karşı komşusunu darp eden fail **meşru müdafaa** hükümlerinden yararlanamaz. Çünkü saldırı meşru savunma ile korunabilecek bir hakka yapılmamıştır.
+*	####c. Saldırı Meşru Müdafaa İle Korunabilecek Bir Hakka Yönelmeli						
+
+Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırının **meşru müdafaa** ile korunabilecek bir hakka yönelik olması gerekir. Failin, meşru savunma ile korunması mümkün olmayan bir hakkı koruması halinde **meşru savunma** hükümlerinden yararlanması mümkün değildir. Örneğin, komşusunun arazisinde sahip olduğu geçit hakkının kapatılmasına karşı komşusunu darp eden fail **meşru müdafaa** hükümlerinden yararlanamaz. Çünkü saldırı meşru savunma ile korunabilecek bir hakka yapılmamıştır.
 
 **Meşru savunma** ile korunmak istenen hakkın faile veya bir başkasına ait olmasının hiçbir önemi yoktur.
 
@@ -56,7 +58,7 @@ Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile s
 ###Meşru Müdafaa, Haksız Tahrik ve Ceza
 
 Failin eylemi meşru müdafaa şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi meşru savunma sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
-Haksız tahrik indirimi ayrıntılı bilgi için bakınız: [**HAKSIZ TAHRİK**](
+Haksız tahrik indirimi ayrıntılı bilgi için bakınız: [**HAKSIZ TAHRİK ve CEZA İNDİRİMİ**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
 
 
 ###Meşru Savunmada ( Meşru Müdafaada ) Sınırın Aşılması
