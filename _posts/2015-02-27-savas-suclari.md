@@ -4,6 +4,7 @@ title: Uluslararası Suçlar-2 "Savaş Suçları"
 category: ceza-hukuku
 googleAnahtar: Uluslararası Ceza Mahkemesi, savaş suçları, savaş suçları nelerdir, savaş suçu nedir, avukat, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 keywords: Uluslararası Ceza Mahkemesi, savaş suçları, savaş suçları nelerdir, savaş suçu nedir, avukat, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+summary: Savaş Suçu Nedir? Savaş Suçları Nelerdir? Uluslararası Hukukta Hangi Suçlar Savaş Suçları Olarak Kabul edilir? Savaş Suçları ile ilgili Yargı Yetkisi Hangi Mahkemededir? Uluslararası Ceza Mahkemesinin Yargı Yetkisi
 ---
 
 Savaş suçları, 2002’den beri yürürlükte bulunan Uluslararası Ceza Mahkemesi Statüsü’nün 8. maddesinde düzenlenmiştir. Türkiye, Statü’ye taraf olmasına rağmen iç hukukunda gerekli onay prosedürünü yerine getirmediğinden Statü henüz Türkiye açısından yürürlükte değildir. 
