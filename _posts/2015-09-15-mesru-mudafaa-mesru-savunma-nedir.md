@@ -7,11 +7,11 @@ keywords:  meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunm
 summary: Meşru Müdafaa ( Meşru Savunma ) Nedir? Meşru Müdafaanin Şartları, Meşru Savunmada Saldırıya İlişkin Şartlar, Meşru Müdafaanın Savunmaya İlişkin Şartları, Meşru Müdafaada Sınırın Aşılması, Meşru Savunmaya İlişkin Yargıtay Kararları
 ---
 
-##Meşru Müdafaa ( Meşru Savunma ) Nedir?
+##Meşru Müdafaa (Meşru Savunma) Nedir?
 
 **Meşru müdafaa,** diğer bir deyişle **meşru savunma** kendisine veya başkasına yönelmiş haksız bir saldırıya on anki durum ve imkanlarla saldırı ile orantılı bir şekilde saldırıyı engellemek için işlenen fiildir. **Meşru savunma,** ceza hukukunda bir hukuka uygunluk nedenidir. Saldırıyı defetmek için orantılı karşı güç kullanan kimse, **meşru müdafaa** hükümleri gereği cezalandırılmaktan kurtulur.
 
-##Meşru Müdafaanın ( Meşru Savunma ) Şartları
+##Meşru Müdafaanın (Meşru Savunma) Şartları
 
 **Meşru müdafaa,** belli şartların bir arada bulunması halinde gerçekleşir. Ayrı ayrı hem saldırıya ilişkin hem de savunmaya ilişkin şartların bir bulunması gerekir. **Meşru savunma şartları** şunlardır: 
 
@@ -62,7 +62,7 @@ Failin eylemi **meşru müdafaa** şartları içinde gerçekleşmişse, fail cez
 Haksız tahrik indirimi ayrıntılı bilgi için bakınız: [**HAKSIZ TAHRİK ve CEZA İNDİRİMİ**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
 
 
-###Meşru Savunmada ( Meşru Müdafaada ) Sınırın Aşılması
+###Meşru Savunmada (Meşru Müdafaada) Sınırın Aşılması
 
 Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, orantılılık ilkesinin ihlali nedeniyle fiilin **meşru savunma** olarak kabul edilmediği hallerde “meşru savunmada sınırın aşılması” söz konusu olur. Meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise fail cezalandırılmaz. Meşru savunmada sınırın aşılması halinde ceza verilmemesi için gereken şartlar şunlardır:
 
@@ -77,7 +77,7 @@ Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, o
 Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine düşmektedir. Böylece failin davranışlarını yönlendirme yeteneğinde bir azalma meydana gelmektedir. Failin içinde bulunduğu psikolojik ortam meşru savunmada sınırın aşılıp aşılmadığının tespitinde önem kazanır. Eğer fail, korku ve telaşla değil de bir kin ve intikam duygusuyla saldırıya cevap verirse meşru savunmada sınırın aşılmasından değil haksız tahrik hükümlerinin uygulanmasından bahsedilebilir. 
 **Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
-###Meşru Müdafaa ( Meşru Savunma ) Yargıtay Kararları
+###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları
 
 * Maktul ile fail arasında tarla konusunda uyuşmazlık bulunmaktadır. Maktul, fail tarlada çalışırken silahını ve 28 adet fişeğini alarak  tarlaya gitmiş, bunu haber alan fail jandarmaya bilgi vermiş ve içinde 4 fişek bulunan silahıyla kendisini maktulün geldiği yerin ters yönünde konumlandırmıştır. Maktul gelir gelmez silahını ateşlemiş, fail kolundan yaralanmış ve traktörlerinin camı da kırılmıştır. Fail maktulün bir daha silahına fişek doldurduğu sırada ateş ederek maktulü öldürmüştür. Fail hakkında **meşru müdafaa** nedeniyle kasten adam öldürme suçundan beraat kararı verilmelidir (Yargıtay 1. Ceza Dairesi – Esas No: 2013/2321,  Karar No: 2014/5460, Tarih: 24.11.2014).
 
