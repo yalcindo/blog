@@ -3,7 +3,7 @@ layout: blog
 title: Uluslararası Suçlar-3  Soykırım Suçu
 category: ceza-hukuku
 googleAnahtar: Uluslararası suçlar, uluslararası ceza mahkemesi, ceza avukatı, soykırım suçu, soykırım suçları, ataköy avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
-summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren soykırım suçu hakkında kısa bir yazı.
+summary: Soykırım suçu, Soykırım suçunun çeşitleri, Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren soykırım suçu hakkında kısa bir yazı.
 ---
 
 	
@@ -30,5 +30,8 @@ Her türlü grup aleyhine işlenen suçlar soykırım suçunu oluşturmaz. Soyk�
 **Soykırım suçu**nun maddi unsurunu oluşturan beş fiil, mağdurların kimliği, failin kastı ve her fiilin yıkıcılığı açısından ortak özellikler arz etmektedirler.
 
 Günümüzde **ceza avukatı** olarak çalışan hukukçuların işlenen **soykırım suçu**nu dikkatle takip edip  teknik açıklamalarla mahkemeye bildirmeleri suçun soruşturulması için oldukça önem arzetmektedir.
+
+
+**Ataköy-Bakırköy-İstanbul**/ **Avukat Baran Doğan**
 
 
