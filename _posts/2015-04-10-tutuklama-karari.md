@@ -53,7 +53,7 @@ i) Kişinin suçluluğu hakkında ‘kuvvetli belirti’ bulunmalı (şüphe ko�
 
 ii) Kaçmasını, delillerin yok edilmesini veya değiştirilmesini önlemek amacı veya bunlar gibi **tutuklama**yı zorunlu kılan diğer hallerden biri bulunmalıdır (risk koşulu).
 
-####2. Tutuklama ve Ceza Muhakemesi Kanunu**
+####2. Tutuklama ve Ceza Muhakemesi Kanunu
 
 Yasal düzenleme kapsamında **tutuklama kararı** verilemeyecek haller öncelikle şunlardır: - Düzenlemeye göre öncelikle “orantılılık ilkesi” uyarınca “işin önemi, verilmesi beklenen ceza veya güvenlik tedbiri ile ölçülü olmaması”(m. 100/1), - Sadece adlî para cezasını gerektiren veya hapis cezasının üst sınırı bir yıldan fazla olmayan suçlar (m. 100/4). Tutuklama kararı verilebilecek haller şunlardır: Şüpheli veya sanık hakkında “kuvvetli suç şüphesinin varlığını gösteren olguların ve bir **tutuklama nedeni**nin bulunması” (m. 100/1). Bir **tutuklama nedeni**nin varsayılabileceği haller ise şunlardır:- Şüpheli veya sanığın “kaçması veya kaçması şüphesini uyandıracak somut olguların varlığı” veya “delillerin karartılacağı” konularında kuvvetli şüphe halleri (m. 100/2),  Düzenlemede madde olarak sayılan suçların (katalog suçlar) işlendiği hususunda kuvvetli şüphe halleri (m. 100/3).
 
