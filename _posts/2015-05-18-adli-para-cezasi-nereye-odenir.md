@@ -4,8 +4,9 @@ title: Adli Para Cezası Nereye Ödenir?
 category: ceza-hukuku
 googleAnahtar: adli para cezası nereye ödenir, mahkeme para cezası nasıl yatırılır, adli para cezası nasıl ödenir? ceza avukatı, adli para cezası ödeme emri, bakırköy avukat, ataköy avukat
 keywords:  adli para cezası nereye ödenir, mahkeme para cezası nasıl yatırılır, adli para cezası nasıl ödenir? ceza avukatı, adli para cezası ödeme emri, adli para cezası nasıl tahsil edilir
-summary: Adli para cezasının nereye ve nasıl ödeneceği kısaca anlatılmıştır.
+summary: Adli para cezası nereye ödenir? Adli Para Cezası Nasıl Ödenir? Mahkeme Para Cezası Nereye ve Nasıl Ödenir? Adli Para Cezası Ödeme Emri Geldiğinde Ne Yapılmalıdır
 ---
+
 Ceza mahkemelerinde yapılan yargılama neticesinde yargılanan kişiye hapis cezası yerine  “adli para cezası” verilebilmektedir. Adli para cezası ödenmediği takdirde hapis cezası ile sonuçlanabilecek bir sürece neden olabilir. Adli para cezasına halk arasında **mahkeme para cezası** da denilmektedir. Adli para cezası ile ilgili geniş yazımıza şu linkten ulaşabilirsiniz: [***Adli Para Cezası***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
 **Adli Para Cezası Nereye Ödenir? Nasıl Yatırılır?**
@@ -59,5 +60,5 @@ NOT:
 
 3-5275 SK ‘ nun 106/7 md. 2. Madde birden fazla hükümle Adli Para Cezasına mahkumiyet halinde bu süre 5 yılı geçemez. 
 
-**Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
 
