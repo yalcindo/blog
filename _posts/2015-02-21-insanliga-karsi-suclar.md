@@ -4,6 +4,7 @@ title: Uluslararası Suçlar-1  "İnsanlığa Karşı Suçlar"
 category: ceza-hukuku
 googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbul avukat, ağır ceza avukatı
 keywords: Uluslararası Ceza Mahkemesi, insanlığa karşı suçlar, ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukatı 
+summary: İnsanlığa Karşı Suç Nedir? İnsanlığa Karşı Suçlar kaç Çeşittir? Uluslararası Ceza Mahkemesi'nin İnsanlığa Karşı Suçları Yargı Yetkisi
 ---
 
 **İnsanlığa karşı suçlar,** devletlerin insanlara karşı giriştiği insanlık dışı fiilleri tarif etmek üzere, daha çok II. Dünya Savaşı’ndan sonra hukuk metinlerinde yer almıştır. İnsanlığa karşı işlenen suçlar kavramı, uluslararası hukuk alanına ilk kez 1945 yılında Nürnberg Askeri Ceza Mahkemesi yargılamaları vesilesiyle girmiştir. 
