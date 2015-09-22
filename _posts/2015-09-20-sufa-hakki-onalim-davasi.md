@@ -21,7 +21,7 @@ summary: Şufa Hakkı ( Önalım Hakkı ) Nedir? Şufa davası veya önalım dav
 
 ###1.  Şufa Hakkı Paylı Mülkiyette Kullanılabilir
 
-**Şufa hakkı,** ancak paylı mülkiyette tabi taşınmazlarda kullanılabilir. Kat irtifakı veya kat mülkiyeti olan taşınmazlarda **şufa hakkı** ( **önalım hakkı **) kullanılamaz. Taşınmazın arsa veya daire olmasının hiçbir önemi yoktur.  **Şufa hakkı**nın kullanılabilmesinin önşartı taşınmazın vasfı değil, taşınmazın paylı mülkiyete tabi olmasıdır.
+**Şufa hakkı,** ancak paylı mülkiyette tabi taşınmazlarda kullanılabilir. Kat irtifakı veya kat mülkiyeti olan taşınmazlarda **şufa hakkı** ( **önalım hakkı**) kullanılamaz. Taşınmazın arsa veya daire olmasının hiçbir önemi yoktur. **Şufa hakkı**nın kullanılabilmesinin önşartı taşınmazın vasfı değil, taşınmazın paylı mülkiyete tabi olmasıdır.
 
 ###2. Şufa Hakkı Paydaşlar Tarafından Kullanılabilir
 
