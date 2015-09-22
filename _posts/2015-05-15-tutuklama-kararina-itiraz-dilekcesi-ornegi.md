@@ -4,7 +4,7 @@ title: Tutuklama Kararına İtiraz Dilekçesi
 category: ceza-hukuku
 googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, Ceza avukatı, avukat, tutuklama şartları, Bakırköy avukat, Ataköy avukat, istanbul
 keywords:  Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, ağır ceza avukatı, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri,  Bakırköy avukat, Ataköy avukat, istanbul avukat.
-summary: Tutuklama kararına itiraz dilekçesi yer almaktadır.
+summary: Tutuklama kararına itiraz dilekçesi, tutukluluğa itiraz dilekçesi yer almaktadır.
 
 ---
 ---
