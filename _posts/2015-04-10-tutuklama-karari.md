@@ -9,7 +9,7 @@ summary: Tutuklama kararı, Masumiyet (Suçsuzluk) Karinesi, Tutuklamada Ölçü
 ---
 
 
-##1.	Masumiyet / Suçsuzluk Karinesi 
+##1. Masumiyet / Suçsuzluk Karinesi 
 
 Suçlulukları, kesinleşmiş bir mahkumiyet hükmü ile sabit olmadıkça, haklarında adli soruşturma/kovuşturma yürütülen bireylerin “masumiyet/ suçsuzluk karinesi” güvencesinden yararlanmaları gerekmektedir (AİHS m. 6/2; AY m. 36, 38/4). Yasama, yürütme ve yargı organları, kişilerin suçsuzluk karinesinden yararlanma hakkını korumakla yükümlüdürler. Aynı nedenlerle, basın ve yayın organlarının da kesin hükümle mahkûm olmamış kişileri toplum gözünde suçlu ilan edecek yayınlar yapmaması gerekmektedir. Evrensel nitelikteki bu karineye karşın, aşağıda ayrıca vurgulanacağı üzere, özellikle koruma tedbirlerine ilişkin hatalı uygulanmalarla özgürlük, güvenlik, adil yargılanma ve kişilik hakları yoğun olarak ihlal edilmektedir. Bu yönüyle tedbirlerin ceza yargılaması uygulamasında araç olarak değil, amaç olarak kullanıldığına ilişkin izlenimler son derece güçlüdür.
 
