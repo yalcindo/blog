@@ -76,7 +76,7 @@ Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http:
 **İstanbul** Çağlayan ve Anadolu Adliyeleri, İstanbul’un en büyük iki adliyesidir. Esasen İstanbul adliyeleri denilince bu adliyeler anlaşılmaktadır. **İstanbul avukat**larının en çok çalıştığı adliyeler de bu iki adliyedir. Her biri İstanbul’un bir yakasında bulunan bu adliyelerden biri Çağlayan’da diğeri Anadolu yakasındaki Kartal ilçesinde bulunmaktadır. 
 Özellikle İstanbul Çağlayan Adliyesi, bir dönem DGM, özel yetkili mahkeme gibi özel ağır ceza mahkemelerinin bulunduğu bir adliye olduğundan **ceza avukatı** olarak çalışan avukatların en çok uğradığı adliyelerden biri olmuştur. Bugün için özel yetkili mahkemeler kaldırılmış olsa da bu adliye ağır ceza mahkemesi çevresi olduğu için **ceza avukatı** açısından önemli bir çalışma alanıdır.
 
-[![Çağlayan Adliyesi](http://i.hizliresim.com/ngXpdB.jpg)](https://hizliresim.com/ngXpdB "Çağlayan Adliyesi")
+![Çağlayan Adliyesi](http://i.hizliresim.com/ngXpdB.jpg)](https://hizliresim.com/ngXpdB "Çağlayan Adliyesi")
 
 İstanbul Çağlayan Adliyesi web sitesi için bakınız: [**İSTANBUL ÇAĞLAYAN ADLİYESİ**](http://www.istanbul.adalet.gov.tr/)
 
