@@ -14,7 +14,7 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 **İstanbul** Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. **İstanbul** gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. **İstanbul** Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, **Avukat** Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
 
-[![İstanbul Barosu](http://i.hizliresim.com/gA7RaN.jpg)](https://hizliresim.com/gA7RaN "İstanbul Barosu")
+[![İstanbul Barosu](http://i.hizliresim.com/gA7RaN.jpg)(https://hizliresim.com/gA7RaN "İstanbul Barosu")
 
 İstanbul Barosu web sayfası için bakınız: [**İSTANBUL BAROSU**]( http://www.istanbulbarosu.org.tr/)
 
