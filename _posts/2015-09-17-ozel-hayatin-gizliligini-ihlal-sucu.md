@@ -13,7 +13,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 
 ##Özel Hayatın Gizliliğini İhlal Suçunun Şartları (TCK md. 134)
 
-Birey sosyal hayatın farklı katmanlarda kendi hayatına ait farklı varoluş biçimleriyle ortaya çıkar. **Özel hayatın gizliliği suçu** ile yalnızca bireyin “özel hayatının gizliliği” kapsamında olan alana müdahale edilmesi haline cezalandırılması söz konusudur. 
+Birey sosyal hayatın farklı katmanlarında kendi hayatına ait farklı varoluş biçimleriyle ortaya çıkar. **Özel hayatın gizliliği suçu** ile yalnızca bireyin “özel hayatının gizliliği” kapsamında olan alana müdahale edilmesi haline cezalandırılması söz konusudur. 
 
 Özel hayat birçok farklı katmandan oluşmaktadır. **Özel hayatın gizliliği suçu** ile özel hayatın yalnızca gizli alanı koruma altına alınmıştır. Bireyin sinema veya tiyatroya gitmesi, havuza girmesi, spor yapması da özel hayattır. Fakat toplumun diğer bireyleriyle aynı alanlarda yapılan bu faaliyetler **“özel hayatın gizliliği”** kapsamına alınabilecek faaliyetler değildir. **Özel hayatın gizliliği,** kişisel faaliyetlerin toplumun diğer bireyleri tarafından bilinmesinin istenmediği noktada başlar. **Özel hayatın gizliliğini ihlal suçu** da bireyin bilinmesini istemediği bu özel alana müdahaleyi engellemek için ihdas olunmuştur.
 
