@@ -35,6 +35,8 @@ Kamuoyu tarafından yaptıkları işler nedeniyle bilinen, tanınan kişilere (�
 
 **Mağdurun yüzüne karşı hakaret suçunda,** mağdurun hakaret içeren söz veya davranışları o an öğrenmesi yeterlidir. Mağdura telefon, mail, mektup vb. gibi iletişim yöntemleri kullanılarak yapılan hakaret de mağdurun yüzüne karşı yapılmış sayılır.  Mağdurun bu iletişim araçlarıyla kendisine yapılan hakareti öğrenmesi **hakaret suçu**nun oluşması için yeterlidir.
 
+[![Hakaret Suçu](http://i.hizliresim.com/kgqzdq.jpg)](http://hizliresim.com/kgqzdq "Hakaret Suçu")
+
 **Mağdurun yokluğunda hakaret suçu,** hakaret edenin söz ve davranışlarını en az 3 kişinin öğrenmesiyle oluşabilir. Hakaret edilen ortamda mağdurun olmadığı hallerde kanun hakaret teşkil eden fiilin 3 kişiyle ihtilat halinde işlenmesi şartını aramaktadır. Söz konusu üç kişiye hakaret edenin kendisi dahil değildir. Üç kişinin aynı yerde olması şart değildir, önemli olan üç kişinin hakareti öğrenmesidir. Örneğin, apartman boşluğunda mağdura gıyabında, “o adam şerefsiz” diye bağıran bir kişinin sözlerini kendi evlerinde oturanı 3 komşu duyduğu takdirde hakaret suçu oluşmuştur. Hakaret içerikli aynı mailin mağdurun kendisine değil de kendisi dışındaki 3 kişiye gönderilmesi halinde de hakaret suçu oluşur. Mağdurun yokluğunda hakaret halinde, hakaret edenin sözlerini yalnızca 2 kişi veya 1 kişi öğrenirse **hakaret suçu** vücut bulmaz.
 
 ###İnternet Yoluyla Hakaret Suçu
@@ -91,5 +93,4 @@ Hükmün Açıklanmasının Geri Bırakılması ile ilgili ayrıntılı bilgi i�
 **Hakaret suçu**nun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
-
 
