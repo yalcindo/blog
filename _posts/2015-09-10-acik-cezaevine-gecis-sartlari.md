@@ -11,6 +11,8 @@ summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kap
 
 **Açık cezaevi,** ceza miktarı az olan veya cezasının belli bir kısmını kapalı cezaevinde infaz etmiş olan iyi halli hükümlünün toplumla yeniden bağ kurması ve üretim faaliyetine katılması için tasarlanmış cezaevidir. **Açık cezaevi**nin içinde çeşitli meslek ve sanatları hükümlüye öğretmeye yarayan iş atölyeleri vardır. Hükümlü, belli bir süre sonra belli aralıklarla dışarıya çıkıp ailesiyle vakit geçirebilmektedir. Firara karşı güvenlik önlemleri sıkı olmayan **açık cezaevine geçiş şartları** bir yönetmelikle düzenlenmiştir.
 
+[![Açık Cezaevi](http://i.hizliresim.com/VLkn6B.jpg)](https://hizliresim.com/VLkn6B "açık cezaevi")
+
 ##Açık Cezaevine Geçiş Şartları
 
 **Açık cezaevine geçiş şartları,** açık cezaevine ayrılma yönetmeliği ile düzenlenmiştir. Yönetmelikle kimlerin kapalı cezaevine girmeden doğrudan **açık cezaevine geçiş** hakkı olduğu, kimlerin kapalı cezaevinden **açık cezaevine ayrılma** hakkına sahip olduğu ve açık cezaevine geçiş hakkı olmayan hükümlülerin kimler olduğu ifade edilmiştir.
