@@ -45,6 +45,8 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 **Ceza avukatı** aynı davada birden fazla kişiyi savunabilir. Savunduğu kişilerin sayısının önemi yoktur. Aynı anda yüzlerce kişiyi de savunabilir. Önemli olan savunduğu kişiler arasında menfaat çelişkisi olmamasıdır. Yani, **ceza avukatı**nın bir kişi hakkında yaptığı savunma, savunduğu diğer kişinin savunma haklarına zarar verebilecek veya onu daha iyi savunmasını engelleyebilecekse iki müvekkil arasında menfaat çelişkisi olduğu kabul edilir. Menfaat çelişkisi oluştuğu durumlarda **ceza avukatı** iki müvekkilinden birini savunmayı tercih etmek zorundadır. Aksi takdirde kişilerin savunmaları arasında meydana gelen menfaat çelişkisi nedeniyle savunma hakkı zarar görür.
 
 
+[![Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5)
+
 
 ###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
