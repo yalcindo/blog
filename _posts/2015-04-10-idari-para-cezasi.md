@@ -50,6 +50,9 @@ Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen ki�
 
 5510 sayılı SGK Kanunu’nu ( md. 83, 85, 86), Sosyal Güvenlik Kurumu’nun verdiği **idari para cezaları**na karşı genel itiraz yolundan ayrı bir itiraz yolu düzenlemiştir. SGK’nın verdiği idari para cezalarına karşı doğrudan mahkemeye dava açmak mümkün değildir. Dava açamadan önce idari itiraz yollarının kullanılması gerekir. SGK bünyesinde İdari Para Cezasına İtiraz Komisyonları bulunmaktadır. Hakkında idari para cezası verilen kişi veya kurum öncelikle para cezasına karşı, SGK bünyesindeki İdari Para Cezası İtiraz Komisyonu’na 15 gün içinde bizzat veya iadeli taahhütlü mektupla itiraz edebilir. **İdari Para Cezasına İtiraz** Komisyonu, ilgili kişinin itirazını reddederse, red kararının tebliğinden itibaren 30 gün içinde İdare Mahkemesi’ne cezanın iptali için dava açılmalıdır. 
 
+[![SGK İdari Para Cezası](http://i.hizliresim.com/95M40O.jpg)](https://hizliresim.com/95M40O)
+
+
 Sigortasız çalıştırma, eksik gün veya kazanç bildirimi nedeniyle SGK tarafından prim borcu tahakkuk ettirilen ve prim borcunun ödenmesi için tebligat yapılan işverenler, tebliğ tarihinden itibaren 1 ay içinde prim borcunu tahakkuk ettiren ünitenin Ünite Prim Tahakkuk İtiraz Komisyonu’na itiraz etmelidir. İtiraz reddedildiği takdirde işverenin 1 ay içinde yetkili Sosyal Güvenlik Kurumu İl Müdürlüğü’nün bulunduğu yerdeki İş Mahkemesi’ne dava açması gerekir. 
 
 ###Trafik Para Cezası ile Birlikte Verilen Aracın Trafikten Men Edilmesi Kararına Karşı Nereye İtiraz Edilir? İtiraz Süresi Nedir?
@@ -78,5 +81,4 @@ Trafik cezaları, vergi dairesine, bankaya veya PTT’ye ödenebilir.
 **İdari para cezası,** adli sicil kaydına (sabıka kaydına) işlemez. İdari para cezaları kabahat niteliğindeki suçlar için verilir. Adli sicil kaydı ise yalnızca işlenen bir suç karşılığında mahkemelerce verilen kesinleşmiş cezalar için tutulmaktadır. 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
-
 
