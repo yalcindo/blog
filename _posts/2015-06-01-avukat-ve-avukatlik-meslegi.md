@@ -15,6 +15,8 @@ keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakı
 Her ülkenin hukuk sisteminde nasıl avukatlık yapılacağına dair bir **avukat**lık kanunu mevcuttur. Ülkenin tercihine bağlı olarak belli türde davalara yabancı ülkelerde bulunan **avukat**larda girebilmektedir. Ancak, prensip olarak her ülke kendi ülkesinde baroya kayıtlı **avukat**lara avukatlık mesleğiyle ilgili tekel hakkı tanımaktadır.  Yani, belli kriterlere sahip **avukat**lar dışında hiç kimse kanunda belirlenen savunma yetkisini kullanamaz. **Avukat**lık tekeli, hem **avukat**ın belli niteliklere sahip olmasını sağlamakta hem de belli haklara sahip kişilerin **avukat**lık yapmasına imkan tanıyarak mesleğin icrasına bir güvence mekanizması sağlamaktadır. 
 
 
+[![Avukat](http://i.hizliresim.com/vLkm14.jpg)](https://hizliresim.com/vLkm14)
+
 ##Yabancı Hukuk Bürolarının Türkiye’de Avukatlık Yapma Yetkisi
 
 Türkiye’de avukatlık yapabilmek için kural olarak hukuk fakültesi mezunu olmak ve **avukat**lık stajının ardından herhangi bir ildeki baroya kaydolmak gerekir. Türkiye mevzuatına göre **avukat** olmadığı halde **avukat**lık yetkilerini kullanarak mesleği icra edenler hapis ve para cezalarına çarptırılmaktadır. Ancak belli alanlarda yabancı hukuk bürolarının da avukatlık yetkilerini kullanmasına imkan tanınmıştır. Avukatlık Kanunu’na göre yabancı hukuk büroları, yabancı hukuklar ve milletlerarası hukuk konusunda danışmanlık hizmeti yapmak üzere faaliyet gösterebilir. Yabancı hukuk bürolarında çalışan **avukat**lar Türkiye Cumhuriyeti vatandaşı olan avukatlar olsa bile ancak yabancı hukuklar ve milletlerarası hukuk konusunda danışmanlık hizmeti verebilir. Baroya kayıtlı bir **avukat** yabancı bir hukuk bürosunda çalışmaya başladıktan sonra bu alanlar dışında avukatlık hizmeti veremez. 
@@ -73,5 +75,4 @@ Havana kurallarının üçüncü bölümünde **avukat**ın görev ve sorumluluk
 
 
 **Bakırköy/İstanbul - Avukat Baran Doğan**
-
 
