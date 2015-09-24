@@ -14,7 +14,7 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 **İstanbul** Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. **İstanbul** gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. **İstanbul** Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, **Avukat** Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
 
-[![İstanbul Barosu](http://i.hizliresim.com/gA7RaN.jpg)](https://hizliresim.com/gA7RaN "İstanbul Barosu")
+[![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg)](https://hizliresim.com/d21pDp "İstanbul Barosu")
 
 İstanbul Barosu web sayfası için bakınız: [**İSTANBUL BAROSU**]( http://www.istanbulbarosu.org.tr/)
 
@@ -72,7 +72,7 @@ Bu merkezde görevli avukatların da **ceza avukatı** olduğunu söylemek mümk
 
 **Bakırköy** adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyelerin ağır ceza çevresi olduğundan bu mahkemelere gelen ağır ceza davaları Bakırköy adliyesinde görülmektedir. 
 
-[![Bakırköy Adliyesi](http://i.hizliresim.com/YlYRl2.jpg)](https://hizliresim.com/YlYRl2 "Bakırköy Adliyesi")
+[![Bakırköy Avukat Adliye](http://i.hizliresim.com/d21pJn.jpg)](https://hizliresim.com/d21pJn "Bakırköy Adliyesi")
 
 Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http://www.bakirkoy.adalet.gov.tr/)
 
