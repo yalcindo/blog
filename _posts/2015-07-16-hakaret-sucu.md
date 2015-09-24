@@ -43,7 +43,7 @@ Kamuoyu tarafından yaptıkları işler nedeniyle bilinen, tanınan kişilere (�
 
 Günümüzde **hakaret suçu** en çok çağdaş iletişim araçlarıyla işlenmektedir.  İnternet yoluyla hakaret, kolay ispatlanabilecek bir suç çeşididir. Bu nedenle, e-mail, facebook, skype, messenger, whatssup, twitter vb. gibi sosyal medya araçlarıyla doğrudan mağdurun hedef alınarak hakaret edilmesi de **hakaret suçu**nu oluşturur.
 
-[![Hakaret Suçu](http://i.hizliresim.com/kgqzdq.jpg)](http://hizliresim.com/kgqzdq "Hakaret Suçu")
+[![İnternet Yoluyla Hakaret Suçu](http://i.hizliresim.com/WZNMqL.jpg)](https://hizliresim.com/WZNMqL "İnternet Yoluyla Hakaret Suçu")
 
 
 Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir **ceza avukatı** ile görüşülmelidir.
