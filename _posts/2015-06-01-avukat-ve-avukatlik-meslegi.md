@@ -34,8 +34,8 @@ Uluslararası mahkemeler, kurucu sözleşmelerinde belirtilen amaçlar çerçeve
 
 Avrupa İnsan Hakları Mahkemesi, Fransa’da Avrupa Konseyi’ne bağlı olarak faaliyet gösteren ulusalüstü bir mahkemedir. Avrupa Konseyi’ne üye 47 ülke AİHM’in yargı yetkisini kabul etmiştir. Mahkeme, yetkisini kabul eden üye ülkelerde yurttaş olsun veya olmasın herhangi bir insanın yaptığı başvuru üzerine Avrupa İnsan Hakları Sözleşmesi’nde tanınan hakların ihlal edilip edilmediğini denetler.
 
-[![Ceza avukatı](http://i.hizliresim.com/vLkg46.jpg)](https://hizliresim.com/vLkg46)
 
+[![Ceza Avukatı](http://i.hizliresim.com/kg4j6q.jpg)](https://hizliresim.com/kg4j6q)
 
 AİHM’e başvuru yapan başvurucu bir **avukat** vasıtasıyla başvuru yapılabileceği gibi, yapılan duruşmalara da bir **avukat** ile birlikte katılabilir. Kişi hangi ülkedeki **avukat**ın hukuki yardımından yararlanmak istediğini kendisi belirler. Örneğin, başvurucu Almanya vatandaşı olduğu halde Türkiye’den bir **avukat** ile kendisini temsil ettirebilir. AİHM’de **avukat**lık yapmak konusunda hiçbir ülke mevzuatına sınırlayıcı hükümler koyamaz.
 
