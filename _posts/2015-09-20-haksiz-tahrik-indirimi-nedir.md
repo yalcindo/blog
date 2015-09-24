@@ -11,6 +11,8 @@ summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları Nelerdir? Haksız Tahri
 
 **Haksız tahrik,** kişinin haksız bir fiilin kendisinde meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesi halinde ceza sorumluluğunu azaltan bir **ceza indirimi** nedenidir.  **Haksız tahrik** altında suç işleyen kişinin kusur yeteneğinde bir azalma söz konusudur. Kusur yeteneğinde azalma meydana gelen fail, haksız tahrik altında suç işlediğinden ceza indiriminden yararlanır.
 
+[![Haksız Tahrik Ceza İndirimi](http://i.hizliresim.com/J40PpY.jpg)](https://hizliresim.com/J40PpY "Haksız Tahrik)
+
 ## Haksız Tahrik Şartları
 
 TCK md. 29, **haksız tahrik şartları**na ayrıntılı yer vermeden, “haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimsenin” ceza indiriminden yaralanacağını kabul etmiştir. **Haksız tahrik**in derecesi yapılacak **ceza indirimi** oranını da belirleyecektir.  Daha çok Yargıtay kararlarıyla belirlenen haksız tahrik şartları şunlardır:
