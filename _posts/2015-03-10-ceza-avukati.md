@@ -26,6 +26,8 @@ Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık a
 
 **Ağır ceza avukatı,** ceza avukatı için belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
 
+[![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92)
+
 Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta bunun herhangi bir karşılığı yoktur. Bu nedenle, **ağır ceza avukatı** deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ağır ceza avukatı** olarak nitelenen **avukat,** mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu durum da **ağır ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere, yani yukarıda anlattığımız **ceza avukatı** yerine kullanıldığını görmekteyiz.
 
 
