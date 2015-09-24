@@ -69,8 +69,10 @@ Mevcut Medeni Kanuna göre yasal mal rejimi “**Edinilmiş Mallara Katılma Rej
 
 
 
-###Evlilik İçinde Alınan Malların Boşanmada Mal Paylaşımına Dahil Edilmemesi İçin Ne Yapılmalı?
+###Evlilik İçinde Alınan Malların Boşanmada Mal Paylaşımına Dahil Edilmemesi İçin Ne Yapılmalı? 
 
+
+[![Boşanmada Mal Paylaşımı Sözleşmesi](http://i.hizliresim.com/oZGALb.jpg)](https://hizliresim.com/oZGALb)
 
 Eşler evlilik içinde edindikleri mallarını paylaşmak istemiyorlarsa buna uygun bir **mal paylaşımı** sözleşmesi yapabilirler. Eşler evlenirken veya evlendikten sonra diledikleri mal rejimini seçebilirler. Eşler, Mal Ayrılığı Rejimini sözleşme yaparak seçebilir. Böylece her eş evlilik içinde kazandığı mal üzerinde tek başına hak sahibi olur. Boşanma esnasında diğer eş evlilik içerisinde edinilmiş mal üzerinde hak talebinde bulunamaz. Mal Ayrılığı Sözleşmesi, iki şekilde yapılabilir. Birinci yöntem evlilik sırasında evlendirme memurluğuna bir dilekçe verilerek eşler arasında Mal Ayrılığı Rejimi’nin seçildiğinin bildirilmesidir. İkinci yöntem ise noterde Mal Ayrılığı Sözleşmesi yapılmasıdır. Noterde yapılacak sözleşme evlilikten önce veya sonra her zaman yapılabilir. Yani, eşler evlendikten 5 yıl sonra dahi notere giderek Mal Ayrılığı Sözleşmesi yapabilirler. **Boşanma halinde evlilik mallarının paylaşımı,** bu sözleşmeyle sağlandığından boşanma sırasında çiftler arasında ortaya çıkması muhtemel bir uyuşmazlık engellenmektedir. 
 
