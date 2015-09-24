@@ -107,6 +107,8 @@ Manevi tazminatlar, kişisel mal olarak kabul edildiğinden **boşanmada mal pay
 ###Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
 
 
+[![Boşanma Mal Paylaşımı](http://i.hizliresim.com/ql6Y4q.jpg)](https://hizliresim.com/ql6Y4q)
+
 
 Evlilikten önce alınan taşınmazların kira geliri, evlilik içinde elde edilen mal sayıldığından, **boşanma** halinde **mal paylaşımı** sırasında diğer eş bu kira gelirlerinin yarısı üzerinde hak sahibi olur. Çünkü taşınmaz mal, evlilikten önce alınsa da malın getirdiği gelir evlilik içerisinde elde edilmektedir. Fakat bir sözleşmeyle diğer eşin bu gelirleri talep etmeyeceği hususu hüküm altına alınabilir.
 
