@@ -15,7 +15,7 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 **Hükmün açıklanmasının geri bırakılması,** sanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi boyunca kasıtlı bir suç işlenmez ve yükümlülüklere uygun davranılırsa ceza kararının ortadan kaldırılması ve davanın düşmesine yol açan bir cezanın bireyselleştirilmesi kurumudur.  Erteleme, takdiri indirim gibi bireyselleştirme kurumlarında mahkeme kararı birtakım hukuki sonuçlar doğrururken, **hükmün açıklanmasının geri bırakılması** kurumunda ortada sonuç doğuracak bir mahkeme hükmü yoktur. Mahkeme, hukuk sisteminde sonuç doğuracak şekilde kararını henüz açıklamamış, açıklamayı geri bırakmıştır. **HAGB kararı,** kişinin medeni, siyasi veya özel yaşamına hiçbir kısıtlama getirmeden adeta sanığa ikinci bir şans tanır. **HAGB kararı,** suç işleyen kişinin hayatına ceza hukuku müdahalesini adeta askıya almaktadır.
 
 
-[![Hükmün Açıklanmasının Geri Bırakılması](http://i.hizliresim.com/mzQmRZ.jpg)](https://hizliresim.com/mzQmRZ "Hükmün Açıklanmasının Geri Bırakılması)
+[![Hükmün Açıklanmasının Geri Bırakılması](http://i.hizliresim.com/mzQmRZ.jpg)](https://hizliresim.com/mzQmRZ)
 
 
 ##Hükmün Açıklanmasının Geri Bırakılması Şartları?
@@ -148,6 +148,5 @@ Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
-
 
 
