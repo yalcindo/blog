@@ -13,6 +13,9 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ##Tehdit Suçu Kimler Aleyhine İşlenebilir?
 
+[![Tehdit Suçu ve cezası](http://i.hizliresim.com/vLOqq4.jpg)](https://hizliresim.com/vLOqq4 "Tehdit Suçu ve Cezası")
+
+
 **Tehdit suçu** ancak gerçek kişiler aleyhine işlenebilir. Tüzel kişiler aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
 
 ##Tehdit Suçunun Hukuki Niteliği
