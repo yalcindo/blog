@@ -20,6 +20,7 @@ Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. **Mal paylaşım
 Her iki dönem açısından da temel kural **evlenmeden önce alınan mallar** kimin üzerine kayıtlıysa onun kişisel malı sayılır ve **boşanmada mal paylaşımı**nda hesaba katılmaz.
 
 
+[![Boşanmada Mal Paylaşımı](http://i.hizliresim.com/j204ZJ.jpg)](https://hizliresim.com/j204ZJ)
 
 ###Boşanmada Mal Paylaşımı Nasıl Yapılır?
 
