@@ -54,6 +54,8 @@ Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **
 
 Şüpheli serbest bırakılsa da tutuklansa da suç işlediğine dair yeterli şüphe varsa hakkında Asliye Ceza Mahkemesi, Ağır Ceza Mahkemesi veya diğer özel nitelikli suçlara bakmakla görevli mahkemelerde suçlamanın ayrıntılarını içeren bir iddianameyle dava açılır. Mahkeme dava dosyası kendisine gelir gelmez dava dosyasını inceleyerek yapılacak işlemleri, duruşma gününü, dosyada tutuklu sanık varsa tutukluluk hallerine ilişkin kararını içeren “tensip zaptı” adı verilen bir belge düzenler. **Ceza avukatı**, tensip zaptı  düzenlenmeden önce bir dilekçeyle iddianamenin iadesini talep edebilir. Talebi kabul edilirse iddianame iade edilir, eksiklikler giderildikten sonra yeniden dava açılır. 
 
+[![Ceza avukatı](http://i.hizliresim.com/QlDJPv.jpg)](https://hizliresim.com/QlDJPv)
+
 ###Sanık Nedir? Hangi aşamadan itibaren sanık olunur?
 
 
