@@ -18,6 +18,9 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak **etkin pişmanlık ve ceza indirimi** kurumlarından bahsedeceğiz.
 
+[![Etkin Pişmanlık Ceza İndirimi](http://i.hizliresim.com/8bVBPV.jpg)](https://hizliresim.com/8bVBPV)
+
+
 ###Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır?
 
 
@@ -137,4 +140,3 @@ Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları 
 Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. **Etkin pişmanlık** yoluyla **ceza indirimi** uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
 
 **Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
-
