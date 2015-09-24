@@ -61,6 +61,9 @@ Uluslararası alanda çıkan meseleler, bazen tüm toplumu etkileyecek bir sonu�
 
 Havana Kuralları, 1990 yılında Havana'da düzenlenen bir BM konferansında kabul edilmiştir. Havana kuralları, **avukat**ın mesleğini yaparken bir güvence mekanizması olarak bavurabileceği **avukat**lık meslek ilkelerinden ibarettir. **Avukatlık mesleği**nin evrensel standartlarını belirleyen havana kuralları, **avukat**ın mesleğini bağımsız bir şekilde yapabilmesi için kamu otoritelerine bazı sorumluluklar yüklemektedir.
 
+[![Ceza Avukatı](http://i.hizliresim.com/95MV3o.jpg)](https://hizliresim.com/95MV3o)
+
+
 ####1. Avukat ve Avukata Erişim Hakkı
 
 Havana kurallarının ilk bölümü **avukat**a ve adli hizmetlere erişim hakkı ile ilgilidir. Bu bölümde herkesin, hiçbir ayrım gözetmeksizin **avukat**a erişim hakkı olduğu ilke haline getirilmiştir. Hükümetler, insanların **avukat**a erişim hakkını temin etmekle sorumlu tutulduğu gibi **avukat** örgütleri de halkı avukata erişim hakkı konusunda bilgilendirmekten sorumlu tutulmuştur. Hükümetler ve **avukat** örgütleri, insanların avukata erişim hakkının gerçekleşmesi için işbirliği yapmakla mükelleftirler. **Avukat** tutmak için yeterli maddi güce ve imkanlara sahip olmayanlara, **avukat** örgütleri ve hükümetler gerekli organizasyonu yaparak cevap olmalıdır.
