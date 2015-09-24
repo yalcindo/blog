@@ -111,6 +111,8 @@ Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak is
 
 Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
 
+[![Ağır Ceza Avukatı](http://i.hizliresim.com/QlDJPv.jpg)](https://hizliresim.com/QlDJPv)
+
 **Ceza avukatı,** savunma fonksiyonu ile temel hak ve özgürlüklere yanlış yapılan müdahaleleri önleyerek hukuk devletinin ve özgürlüklerin gelişimine önemli bir katkı sunar.
 
 
