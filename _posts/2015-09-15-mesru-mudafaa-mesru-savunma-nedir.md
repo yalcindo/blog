@@ -9,7 +9,7 @@ summary: Meşru Müdafaa ( Meşru Savunma ) Nedir? Meşru Müdafaanin Şartları
 
 ##Meşru Müdafaa (Meşru Savunma) Nedir?
 
-**Meşru müdafaa,** diğer bir deyişle **meşru savunma** kendisine veya başkasına yönelmiş haksız bir saldırıya on anki durum ve imkanlarla saldırı ile orantılı bir şekilde saldırıyı engellemek için işlenen fiildir. **Meşru savunma,** ceza hukukunda bir hukuka uygunluk nedenidir. Saldırıyı defetmek için orantılı karşı güç kullanan kimse, **meşru müdafaa** hükümleri gereği cezalandırılmaktan kurtulur.
+**Meşru müdafaa,** diğer bir deyişle **meşru savunma,** kendisine veya başkasına yönelmiş haksız bir saldırıya karşı o anki durum ve imkanlarla saldırı ile orantılı bir şekilde saldırıyı engellemek için işlenen fiildir. **Meşru savunma,** ceza hukukunda bir hukuka uygunluk nedenidir. Saldırıyı defetmek için orantılı karşı güç kullanan kimse, **meşru müdafaa** hükümleri gereği cezalandırılmaktan kurtulur.
 
 [![Meşru Müdafaa Nedir](http://i.hizliresim.com/poyvoz.jpg)](https://hizliresim.com/poyvoz "Meşru Müdafaa Hali")
 
