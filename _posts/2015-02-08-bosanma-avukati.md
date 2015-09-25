@@ -54,6 +54,8 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 **Boşanma avukatı,** müvekkili dinledikten sonra boşanma sebeplerini ve talepleri netleştirir. Daha sonra ulaştığı olgulardan ve taleplerden hareketle davanın hukuki temelini tespit ederek dava dilekçesini yazar. **Boşanma avukatı,** dava dilekçesinin talep edilen sonucu elde etmeye elverişli olduğunu gördükten sonra dava dosyasını hazırlamaya başlar. Bir dava dosyasında yeterli sayıda dilekçe sureti ve iddiaları güçlendiren delillerin yer alması gereklidir. Deliller yazılı delil niteliğinde ve **boşanma avukatı** bu delillere ulaşabilecek durumdaysa yazılı delillerin mutlaka dava dosyasına fiziken konulması gerekir. Eğer dava dosyası hazırlanırken yazılı deliller o an ulaşılamayacak bir yerdeyse **boşanma avukatı,** dava dilekçesi içeriğinde bu yazılı delillerin bulunduğu yeri göstererek mahkemeden delilin getirtilmesini ister. Delil olarak tanık beyanına dayanılıyorsa tanıkların ad, soyad ve adresleri mahkemeye dava dosyası içinde bildirilmelidir. Dava dosyası bu şekilde tekemmül ettirildikten sonra, adliyede dava harç ve giderleri vezneye yatırılarak dosya teslim edilir. Artık **boşanma davası** açılmıştır.
 
 
+[![Boşanma Avukatı](http://i.hizliresim.com/L4kDz0.jpg)](https://hizliresim.com/L4kDz0)
+
 ###Boşanma Davası Süreci ve Boşanma Avukatı
 
 
@@ -72,7 +74,6 @@ Hakim, ilk duruşmada (ön inceleme duruşmasında) gerekli tespitleri yaptıkta
 
 
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
-
 
 
 
