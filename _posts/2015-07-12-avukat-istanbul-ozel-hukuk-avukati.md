@@ -12,6 +12,8 @@ keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazmin
 
 Özel hukuk içindeki her alanın kendine özgü bir avukatlık pratiği vardır.  Örneğin, **boşanma avukatı** olarak çalışan avukatlar, aile hukukunun kendine özgü süreçlere sahip olduğunu tarafların birbirini yıpratan bu süreç içerisinde zaman zaman kavga ettiğini, tedbir niteliğinde bazı önlemler alınarak bu sürecin kolaylaştırılması gerektiğini bilirler. **Gayrimenkul avukatı** olarak bilinen avukatlar, gayrimenkule ilişkin davaların birçok faktör nedeniyle uzun süreceğini dava sürecinde çıkan problemlerin aşama aşama çözülerek sonuca gidilmesi gerektiğini bilirler. 
 
+[![Avukat](http://i.hizliresim.com/b2q65m.jpg)](https://hizliresim.com/b2q65m)
+
 Hangi alanda avukatlık yapılırsa yapılsın **avukat**ın temel işlevi savunma yapmaktır. Özel hukuk alanında da **avukat** temelde savunuma işlevini yerine getirmektedir. Her alanın savunma faaliyeti ayrı bir özellik arzettiğinden özel hukuk alanında avukatlık yapan **avukat** bu alanın hukuk kavramlarına hakim olmalıdır.
 
 ###Sözleşme Hukuku ve Avukat
@@ -51,7 +53,6 @@ Boşanmada mal paylaşımı, boşanma sürecinde tarafların birbirini en çok y
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
-
 
 
 
