@@ -33,6 +33,8 @@ Men-i müdahale davaları gayrimenkul avukatlarının en sık açtığı dava t�
 
 ###Tapu İptali Davaları ve Gayrimenkul Avukatı
 
+[![Gayrimenkul Avukatı](http://i.hizliresim.com/ngzQ2V.jpg)](https://hizliresim.com/ngzQ2V)
+
 Tapu iptal davası, birçok nedenle açılabilir. **Gayrimenkul avukatı,** tapunun iptaline dayanak teşkil eden olguyu somutlaştırdıktan sonra davayı açar. **Gayrimenkul avukatı**nın açabileceği tapu iptal davalarının çeşitleri şunlardır:
 
 ####1.  Kamulaştırmaya Dair Tapu İptal Davası ve Gayrimenkul Avukatı
