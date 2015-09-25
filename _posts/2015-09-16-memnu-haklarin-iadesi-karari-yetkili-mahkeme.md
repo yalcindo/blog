@@ -32,6 +32,8 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 
 * **Memnu hakların iadesi kararı,** hükümlünün yargılandığı mahkeme tarafından verilebilir. Hükmü veren mahkeme, mahkumiyet hükmünün içeriğine daha kolay ulaşabildiği için yasaklanmış hakların iadesi talebi için en uygun mahkeme asıl hükmü veren mahkemedir.
 
+[![Memnu Hakların İadesi Yetkili Mahkeme](http://i.hizliresim.com/aD9D22.jpg)](https://hizliresim.com/aD9D22)
+
 * Hükümlü, hükmü veren mahkeme dışında bir yerde ikamet ediyorsa ikamet ettiği yerde bulunan ve mahkumiyet hükmünü veren mahkemeyle aynı dereceli bir mahkemeye başvurarak **memnu hakların iadesi** talebinde bulunabilir. Örneğin, İzmir 1. Ağır Ceza Mahkemesi’nde yargılanarak hakkında mahkumiyet hükmü verilen kişinin ikametgahı İstanbul’da ise İstanbul Nöbetçi Ağır Ceza Mahkemesi’ne başvurarak da **yasaklanmış hakların geri verilmesi** talebinde bulunabilir. Bu durumda İstanbul’daki mahkeme İzmir’deki mahkemeden mahkumiyet hükmünü ve ilgili evrakları getirterek memnu hakların iade edilip edilmeyeceğine karar verir.
 
 Hemen belirtelim ki, hükümlünün bu iki mahkemeden herhangi birini tercih etme hakkı vardır. Ancak mahkumiyet hükmünü veren mahkeme tüm evraklar yedinde olduğundan daha kolay karar verebilir.
