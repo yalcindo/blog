@@ -14,7 +14,7 @@ keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para c
 
 **İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmezse** hapis cezasına çevrilemez. **İdari para cezası ödenmezse,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
-[![İdari Para Cezası](http://i.hizliresim.com/aD959O.jpg)](https://hizliresim.com/aD959O)
+[![İdari Para Cezası](http://i.hizliresim.com/5kPW6D.jpg)](https://hizliresim.com/5kPW6D "İdari Para Cezası")
 
 **İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedeniyle belediye encümeni tarafından verilen cezalar sayılabilir.
 
