@@ -54,7 +54,7 @@ Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini �
 
 ##Haksız Tahrik İndirimi ile İlgili Yargıtay Kararları
 
-[![Haksız Tahrik Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY)
+* [![Haksız Tahrik Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY)
 
 * Şikayetçi, sanığın arabasına taş atmış, uyarılara rağmen taş atmaya devam etmiştir. Sanık şikayetçiye karşı yaralama işlediği eyleminin, şikayetçinin kendisine taş atmasından etkilenerek **haksız tahrik** altında işlediğini savunmuştur. Olayın gelişim tarzına göre sanık **haksız tahrik** hükümlerinden yararlandırılmalıdır ( Yargıtay 3. Ceza Dairesi – Esas No: 2014/34604, Karar No: 2015/11953, Tarih: 02.04.2015 ).
 
