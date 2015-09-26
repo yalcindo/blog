@@ -19,6 +19,9 @@ TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dol
 **Hapis cezasının ertelenmesi,** 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir (TCK  md. 51). **Cezanın ertelenmesi** için ceza miktarının **ceza erteleme**ye uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
 
 
+[![Ceza Erteleme](http://i.hizliresim.com/oZLYAQ.jpg)](https://hizliresim.com/oZLYAQ "Hapis Cezasının Ertelenmesi")
+
+
 ###Hapis Cezasının Ertelenmesi, Ceza Erteleme Şartları
 
 
