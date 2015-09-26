@@ -82,6 +82,7 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 **Tehdit suçu**nun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, **tehdit suçu**nun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
 ###Tehdit Suçu ve Yargıtay Kararları [![Yargıtay Kararları](http://i.hizliresim.com/oZGBgQ.jpg)](https://hizliresim.com/oZGBgQ "Tehdit Suçu Yargıtay Kararları")
+---
 
 * Sanığın mağdurun işyerine doğru tabanca ile ateş etmesi şeklindeki eylemin, 5237 sayılı Tck'nın 106/2-a maddesinde tanımlanan **silahlı tehdit suçu**nu oluşturduğu gözetilmeden, suç vasfında yanılgıya düşülerek genel güvenliğin kasten tehlikeye sokulması suçundan mahkumiyet kararı verilmesi hukuka aykırıdır. Fail silahlı tehdit suçundan cezalandırılmalıdır ( Yargıtay 4. Ceza Dairesi - Esas No: 2014/11609, Karar No: 2015/17483, Tarih: 16.2.2015 ).
 
