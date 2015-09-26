@@ -10,7 +10,7 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 
 **Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle, TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir hukuk kurumudur. Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi ( yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
 
-[![Memnu Hakların İadesi](http://i.hizliresim.com/b2q22Z.jpg)](https://hizliresim.com/b2q22Z)
+[![Memnu Hakların İadesi](http://i.hizliresim.com/L4kjv0.jpg)](https://hizliresim.com/L4kjv0)
 
 Özetle, **memnu hakların iadesi,** TCK dışındaki kanunların ceza mahkumiyetine bağladığı olumsuz sonuçları ortadan kaldırmak için düzenlenmiştir.
 
