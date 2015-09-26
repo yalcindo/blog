@@ -16,7 +16,7 @@ Ceza soruşturması veya yargısı suçun işlenmesinden sonra başlayan bir faa
 
 Suç şüphesi altındaysanız, hakkınızda yakalama işlemi yapılmış olsun veya olmasın, bir **ceza avukatı** vasıtasıyla savunma yapmaya başlayabilirsiniz. Eğer suçun mağduruysanız aynı şekilde şikayet hakkınızın etkin bir biçimde savunulması için **ceza avukatı**na başvurabilirsiniz.
 
-[![Ceza Avukatı](http://i.hizliresim.com/VLoAMB.jpg)](https://hizliresim.com/VLoAMB)
+[![Ceza Avukatı](http://i.hizliresim.com/WZBOEY.jpg)](https://hizliresim.com/WZBOEY)
 
 
 ###Bir suç ile suçlandığımda yanımda bir ceza avukatı olmasını isteyebilir miyim?
