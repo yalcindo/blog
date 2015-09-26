@@ -8,7 +8,7 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 ---
 ##Memnu Hakların İadesi Nedir?
 
-**Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle, TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir hukuk kurumudur. Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi ( yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
+**Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle, TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir hukuk kurumudur. Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi (yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
 
 [![Memnu Hakların İadesi](http://i.hizliresim.com/L4kjv0.jpg)](https://hizliresim.com/L4kjv0)
 
@@ -42,7 +42,7 @@ Hemen belirtelim ki, hükümlünün bu iki mahkemeden herhangi birini tercih etm
 
 Devlet Memurları Kanunu ( 657 sayılı yasa ), 48/A-5 maddesi, Türk Ceza Kanununun 53. maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına mahkum olanların memuriyete kabul edilmeyeceği yönünde bir düzenleme içermektedir. Aynı kanun, affa uğramış olsa bile bazı yüz kızartıcı suçları işleyenlerin memuriyet hakkını kaybettiğini ifade etmektedir.
 
-[![Memnu Hakların İadesi Memuriyet](http://i.hizliresim.com/3ar4Wj.jpg)](https://hizliresim.com/3ar4Wj)
+[![Memnu Hakların İadesi Memuriyet](http://i.hizliresim.com/3ar4Wj.jpg)](https://hizliresim.com/3ar4Wj "Yasaklanmış Hakların Geri Alınması")
 
 Hükümlü hakkında **memnu hakların iadesi kararı** verilirse yasaklanmış tüm haklarına kavuşur. Memnu hakların iadesi kararı memuriyet önündeki engelleri de kaldırır. Devlet memurluğu koşulları ne olursa olsun kişi **yasaklanmış hakların geri alınması** kararı almışsa memurluk hakkına kavuşur. Ancak açıktan atama kuralları gereği 657 sayılı yasanın 92. maddesi çerçevesinde idarenin hükümlüyü memurluğa kabul edip etmemede takdir hakkı vardır. Söz konusu takdir hakkı ölçüsüz olmayıp idari yargı denetimine tabidir.
 
