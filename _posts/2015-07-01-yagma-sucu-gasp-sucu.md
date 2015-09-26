@@ -16,7 +16,8 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 
 [![Yağma Suçu](http://i.hizliresim.com/VLZg1P.jpg)](https://hizliresim.com/VLZg1P "Gasp Suçu")
 
-###Yağma Suçunun (Gasp Suçunun) Koşulları
+###Yağma Suçunun (Gasp Suçunun) Şartları
+---
 
 
 ####1- Başkasına Ait Olan Malın Alınması 
@@ -31,7 +32,8 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 
 Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın zilyedinin rızası dışında alınmaktadır. Oysa **gasp suçu**nda başkasının zilyedi olduğu mal, cebir ve tehdit kullanılarak alınmaktadır. Cebir ve tehdit, iki suç arasındaki ayrım çizgisidir. **Yağma suçu,** mağdurun kendisinin veya başkasının hayatı, vücut veya cinsel dokunulmazlığına karşı saldırı yapılacağına veya malvarlığı yönünden büyük zarara uğratılacağından bahisle tehdit edilmesi veya cebir kullanılması ile oluşur.
 
-###Yağma Suçunun (Gasp Suçunun) Cezası Ne Kadar?
+###Yağma Suçunun (Gasp Suçunun) Cezası 
+---
 
 
 ####1-) Gasp Suçunun Basit Şekli: 
@@ -72,6 +74,7 @@ Suçu işleyen kişinin bir alacağını tahsil amacıyla mağdura karşı tehdi
 **Yağma suçu**nun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma 1 TL para gibi mal veya paranın **gasp** edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde bu kural uygulanmaktadır, yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
 
 ###Yağma Suçunda Etkin Pişmanlık Halinde Ceza İndirimi
+---
 
 
 **Etkin pişmanlık,** kişinin işlediği fiilden dolayı hiçbir baskı ve zorlama olmadan pişmanlık duyması ve ortaya çıkan haksızlığı telafi edecek davranışlar sergilemesidir.
