@@ -123,7 +123,7 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
-##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY)
+##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları)
 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
