@@ -74,7 +74,9 @@ Kurul halinde çalışan kamu görevlilerine görevlerinden dolayı hakaret hali
 
 TCK md. 129/3’e göre hakaret suçunun iki kişi tarafından karşılıklı işlenmesi halinde **“karşılıklı hakaret suçu”** meydana gelir. Karşılıklı hakaretin aynı zaman diliminde gerçekleşmesi şart değildir. Örneğin, medya yoluyla kendisine “maymun” denildiğini öğrenen bir kişinin de karşı tarafa bir gün sonra “yarasa” demesi halinde **karşılıklı hakaret suçu** meydana gelir.
 
-**Karşılıklı hakaret suçu**nun işlenmesi halinde hakim, taraflardan birine veya her iki tarafa ceza vermeyebilir veya cezayı 1/3’üne indirebilir.
+[![Karşılıklı Hakaret Suçu](http://i.hizliresim.com/4k7XOL.jpg)](https://hizliresim.com/4k7XOL "Karşılıklı Hakaret Suçu")
+
+**Karşılıklı hakaret suçu**nun işlenmesi halinde hakim, taraflardan birine veya her iki tarafa ceza vermeyebilir veya cezayı 1/3’üne kadar indirebilir.
 
 ###Hakaret Suçunun Haksız Fiile Bir Tepki Olarak İşlenmesi
 
