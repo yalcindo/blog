@@ -79,7 +79,7 @@ Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, o
 Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine düşmektedir. Böylece failin davranışlarını yönlendirme yeteneğinde bir azalma meydana gelmektedir. Failin içinde bulunduğu psikolojik ortam meşru savunmada sınırın aşılıp aşılmadığının tespitinde önem kazanır. Eğer fail, korku ve telaşla değil de bir kin ve intikam duygusuyla saldırıya cevap verirse meşru savunmada sınırın aşılmasından değil haksız tahrik hükümlerinin uygulanmasından bahsedilebilir. 
 **Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
-###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Meşru Müdafaa Yargıtay Kararları")
+###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/oZGBgQ.jpg)](https://hizliresim.com/oZGBgQ "Meşru Müdafaa Yargıtay Kararları")
 
 * Maktul ile fail arasında tarla konusunda uyuşmazlık bulunmaktadır. Maktul, fail tarlada çalışırken silahını ve 28 adet fişeğini alarak  tarlaya gitmiş, bunu haber alan fail jandarmaya bilgi vermiş ve içinde 4 fişek bulunan silahıyla kendisini maktulün geldiği yerin ters yönünde konumlandırmıştır. Maktul gelir gelmez silahını ateşlemiş, fail kolundan yaralanmış ve traktörlerinin camı da kırılmıştır. Fail maktulün bir daha silahına fişek doldurduğu sırada ateş ederek maktulü öldürmüştür. Fail hakkında **meşru müdafaa** nedeniyle kasten adam öldürme suçundan beraat kararı verilmelidir (Yargıtay 1. Ceza Dairesi – Esas No: 2013/2321,  Karar No: 2014/5460, Tarih: 24.11.2014).
 
