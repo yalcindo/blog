@@ -8,7 +8,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 ---
 
 
-[![Özel Hayatın Gizliliğini İhlal Suçu](http://i.hizliresim.com/Aq9aXv.jpg)](https://hizliresim.com/Aq9aXv "Özel Hayatın Gizliliği")
+[![Özel Hayatın Gizliliğini İhlal Suçu](http://i.hizliresim.com/Gk6jR6.jpg)](https://hizliresim.com/Gk6jR6 "Özel Hayatın Gizliliği")
 
 
 ##Özel Hayatın Gizliliğini İhlal Suçu Nedir?
