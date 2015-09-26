@@ -26,7 +26,7 @@ Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık a
 
 **Ağır ceza avukatı,** ceza avukatı için belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
 
-[![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92)
+[![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
 
 Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta bunun herhangi bir karşılığı yoktur. Bu nedenle, **ağır ceza avukatı** deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ağır ceza avukatı** olarak nitelenen **avukat,** mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu durum da **ağır ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere, yani yukarıda anlattığımız **ceza avukatı** yerine kullanıldığını görmekteyiz.
 
@@ -45,7 +45,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 **Ceza avukatı** aynı davada birden fazla kişiyi savunabilir. Savunduğu kişilerin sayısının önemi yoktur. Aynı anda yüzlerce kişiyi de savunabilir. Önemli olan savunduğu kişiler arasında menfaat çelişkisi olmamasıdır. Yani, **ceza avukatı**nın bir kişi hakkında yaptığı savunma, savunduğu diğer kişinin savunma haklarına zarar verebilecek veya onu daha iyi savunmasını engelleyebilecekse iki müvekkil arasında menfaat çelişkisi olduğu kabul edilir. Menfaat çelişkisi oluştuğu durumlarda **ceza avukatı** iki müvekkilinden birini savunmayı tercih etmek zorundadır. Aksi takdirde kişilerin savunmaları arasında meydana gelen menfaat çelişkisi nedeniyle savunma hakkı zarar görür.
 
 
-[![Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5)
+[![Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ceza Avukatı")
 
 
 ###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
