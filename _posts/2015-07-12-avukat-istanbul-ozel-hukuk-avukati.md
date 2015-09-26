@@ -22,7 +22,7 @@ Hangi alanda avukatlık yapılırsa yapılsın **avukat**ın temel işlevi savun
 
 Sözleşmelerin en önemli aşaması müzakere aşamasıdır. Müzakere aşaması tarafların iradelerini anlamak ve sözleşmeye uygun hukuki formülasyonu vermek için **avukat**a bir fırsat verir. **Avukat,** sağlıklı bir sözleşme düzenleyebilmek için tarafların sözleşmeyle neyi hedeflediklerini, hangi amacı nasıl gerçekleştirmek istediklerini taraflara sorarak öğrenmelidir. **Avukat,** bir sözleşme düzenlenirken sözleşmenin ilgili bulunduğu konuyu tüm hatlarıyla araştırır. Tarafların sözleşmede sahip olduğu hak ve borçları açıkça ortaya koyabilmek için ne tür bir hukuksal dil kullanılması gerektiğini belirler. Sözleşme müzakere edilirken taraflardan birinin sözleşmeyi ihlali halinde hangi prosedür izlenerek sözleşmenin feshedileceği, sorunun mahkemeye intikali halinde hangi mahkemenin yetkili olduğu, sözleşmeyi ihlal eden tarafın cezai şart ödeyip ödemeyeceği **avukat** tarafından sözleşmenin taraflarına sorularak sözleşmeye yazılmalıdır.
 
-[![Bakırköy Avukat](http://i.hizliresim.com/rVW1E1.jpg)](https://hizliresim.com/rVW1E1)
+[![Avukat](http://i.hizliresim.com/J4Rmg5.jpg)](https://hizliresim.com/J4Rmg5 "Sözleşme ve Avukat")
 
 **Avukat,** düzenlenen sözleşmenin hukuki niteliğini uygun bir biçimde ifade etmelidir.  Sözleşmenin hukuki niteliği, sözleşmeye uygulanacak normun tespiti için çok önemlidir. Örneğin, bir sözleşmeye, “garanti eden” sıfatıyla imza atan kişiyle “kefil” olarak imza atan kişi farklı hukuki statülere tabidir. **Avukat,** tarafların iradelerine uygun hukuki nitelemeyi sözleşmede yaparak sağlam bir sözleşme ilişkisi kurulmasını sağlamalıdır.
 
