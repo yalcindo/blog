@@ -78,7 +78,7 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 
 * Hükümlünün ölmesi, fiilin suç olmaktan çıkması gibi nedenlerle de arşiv kaydı silinir.
 
-###Adli Sicil Kaydının Silinmesi Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Adli Sicil Kaydı Yargıtay Kararları)
+###Adli Sicil Kaydının Silinmesi Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Adli Sicil Kaydı Yargıtay Kararları")
 ----
 
 * *Hükümlü hakkında verilen 3 yıl 1 ay 15 gün hapis cezasının süre itibariyle anayasa'nın 76. maddesi kapsamında kaldığından ve adli sicil kanunu'nun 12. maddesinde öngörülen sürenin geçmemesi nedeniyle 5352 sayılı kanunun geçici 2. maddesinin 2. fıkrası uyarınca arşiv kaydından çıkartılması mümkün değildir.* Bu durumda ya yasaklanmış hakların geri alınması kararı yoluyla arşiv kaydına alınma tarihinden itibaren 15 yıl içinde veya bu karar alınmamışsa 30 yıl içinde silinebilir ( Yargıtay 1. Ceza Dairesi - Esas No: 2014/3725, Karar No: 2014/3727, Tarih: 4.7.2014 ).
