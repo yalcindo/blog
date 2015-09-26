@@ -104,7 +104,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı şu yönetmelikle düz
 
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
 
-###8. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Denetimli Serbestlik Yargıtay Kararları)
+###8. Denetimli Serbestlik Yasası İle İlgili Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Denetimli Serbestlik Yargıtay Kararları")
 ---
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
