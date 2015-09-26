@@ -40,7 +40,7 @@ Maddi-manevi tazminatın kaynağı bir sözleşme ise sözleşmenin **avukat** t
 
 Aile hukuku, özel bir yargılama usulüyle aile mahkemeleri vasıtasıyla uygulanan bir medeni hukuk alanıdır. Boşanma, çocukların velayeti, maddi-manevi tazminat, mal paylaşımı konularında oldukça çekişmeli geçen ve bir **avukat**ın hukuki yardımı olmadan yürütülmesi zor süreçler aile hukukunun özgül kurallarıyla çözüme kavuşur. Özellikle boşanma davalarına bakan **avukat**lara **boşanma avukatı** denilmesinin nedeni de bu sürecin kendine özgü bir hukuk alanında yürütülmesidir. 
 
-[![Boşanma Avukatı](http://i.hizliresim.com/N4aDDP.jpg)](https://hizliresim.com/N4aDDP)
+[![Boşanma Avukatı](http://i.hizliresim.com/4k7X4p.jpg)](https://hizliresim.com/4k7X4p "Boşanma Avukatı")
 
 ####Velayet ve Boşanma Avukatı
 
