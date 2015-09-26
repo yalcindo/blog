@@ -65,6 +65,7 @@ TCK md. 139 gereği, **özel hayatın gizliliğini ihlal suçu**nun tüm şekill
 Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir. 
 
 ###Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY)
+---
 
 * Sanık, ortak kullanılan çatı katının bir bölümünde gizli bir delik açarak alt kattaki komşusunun yatak odasını gözetlemiştir. Şikayetçilerin bilinmesini istemedikleri konutları içerisindeki özel yaşamlarına müdahale eden sanığın fiili **özel hayatın gizliliğini ihlal suçu**nu oluşturur. Fiil defalarca işlendiğinden zincirleme suç hükümleri gereği alt sınırdan ayrılarak daha yüksek ceza verilmesi gerekir (Yargıtay 12. Ceza Dairesi – Esas No: 2012/25893, Karar No: 2013/20214, Tarih No: 16.09.2013).
 
