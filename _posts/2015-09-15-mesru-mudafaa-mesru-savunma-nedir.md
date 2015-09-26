@@ -80,6 +80,7 @@ Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine d�
 **Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
 ###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/oZGBgQ.jpg)](https://hizliresim.com/oZGBgQ "Meşru Müdafaa Yargıtay Kararları")
+---
 
 * Maktul ile fail arasında tarla konusunda uyuşmazlık bulunmaktadır. Maktul, fail tarlada çalışırken silahını ve 28 adet fişeğini alarak  tarlaya gitmiş, bunu haber alan fail jandarmaya bilgi vermiş ve içinde 4 fişek bulunan silahıyla kendisini maktulün geldiği yerin ters yönünde konumlandırmıştır. Maktul gelir gelmez silahını ateşlemiş, fail kolundan yaralanmış ve traktörlerinin camı da kırılmıştır. Fail maktulün bir daha silahına fişek doldurduğu sırada ateş ederek maktulü öldürmüştür. Fail hakkında **meşru müdafaa** nedeniyle kasten adam öldürme suçundan beraat kararı verilmelidir (Yargıtay 1. Ceza Dairesi – Esas No: 2013/2321,  Karar No: 2014/5460, Tarih: 24.11.2014).
 
