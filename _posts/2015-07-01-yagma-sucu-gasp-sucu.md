@@ -79,7 +79,7 @@ Suçu işleyen kişinin bir alacağını tahsil amacıyla mağdura karşı tehdi
 
 **Etkin pişmanlık,** kişinin işlediği fiilden dolayı hiçbir baskı ve zorlama olmadan pişmanlık duyması ve ortaya çıkan haksızlığı telafi edecek davranışlar sergilemesidir.
 
-Etkin pişmanlık kavramının ayrıntıları için bakınız : [Etkin Pişmanlık ve Ceza İndirimi](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
+Etkin pişmanlık kavramının ayrıntıları için bakınız : [**Etkin Pişmanlık ve Ceza İndirimi**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
 
 **Yağma suçu**nda etkin pişmanlık mümkündür.  Etkin pişmanlık hükümlerinden yararlanmak isteyen kişi Suçu işleyen kişi, suç ortaklarını, azmettirenleri veya suça yardım edenlerin isimlerini verirse etkin pişmanlık hükümlerinden yararlanabilir. Mağdurun uğradığı zararın aynen iade veya tazmin suretiyle giderilmesi de etkin pişmanlık hükümlerinden yararlanmak için yeterlidir. **Gasp suçu**nda suç işlendikten sonra fakat dava açılmadan önce etkin pişmanlıkta bulunursa verilecek ceza yarısına kadar indirilebilir. Dava açıldıktan sonra fakat hüküm verilmeden önce etkin pişmanlıkta bulunulursa verilecek ceza 1/3’üne kadar indirilebilir. 
 
