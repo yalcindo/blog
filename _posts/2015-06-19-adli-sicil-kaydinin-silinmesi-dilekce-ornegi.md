@@ -17,7 +17,7 @@ Kişinin işlediği herhangi bir suç nedeniyle hükmedilen ceza veya güvenlik 
 
 Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kararı **adli sicil kaydı**na işlenir. Fakat, mahkeme hükmün açıklanmasının geri bırakılması (HAGB) kararı vermişse, bu karar **adli sicil kaydı**na işlenemez. HAGB kararları teknik olarak mahkumiyet olarak kabul edilmemektedir. Bu nedenle ayrı bir sisteme kaydedilirler.
 
-[![Adli Sicil Kaydının Silinmesi](http://i.hizliresim.com/YlY01l.jpg)](https://hizliresim.com/YlY01l "Adli Sicil Kaydı")
+[![Adli Sicil Kaydının Silinmesi](http://i.hizliresim.com/ngzZzR.jpg)](https://hizliresim.com/ngzZzR "Adli Sicil Kaydı")
 
 ###Hangi bilgiler adli sicil kaydına işlenir? Her mahkumiyet kararı adli sicil kaydına işlenir mi?
 
