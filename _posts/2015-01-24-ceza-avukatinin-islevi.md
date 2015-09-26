@@ -92,26 +92,31 @@ Deliller maddi gerçeği ortaya çıkarmaya yarayan en önemli ceza muhakemesi a
 
 Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Taraflar duruşmaya gelip yaşanan olayı anlattıktan sonra davayı **ceza avukatı** aracılığıyla takip edebilirler. Yargıç her iki tarafı dinler, diğer delillerle birlikte olayın nasıl gerçekleştiğini anlamaya çalışır. **Ceza avukatı** tarafların yerine geçerek olay analatımında bulunamaz. Ancak, **ceza avukatı** olaya dair beyanları değerlendirebilir, anlatımlardaki çelişkileri, savunduğu tarafın iddiasını doğrulayan argümanları ortaya koyabilmek için beyanları tekrar anlatabilir. 
 
-### Ceza Avukatı ve İnfaz Hukuku
 
-**Ceza avukatı,** sadece mahkemede savunma yapan bir suje değildir. **Ceza avukatı,** aynı zamanda mahkeme tarafından verilen cezanın karara uygun olarak infaz edilip edilmediğinin de güvencesidir. Cezanın verilmesi yargısal, cezanın infazı ise idari bir süreçtir. İdare mahkeme tarafından verilen cezayı ağırlaştıran müeyyideler uygulayamaz. Mahkeme kararında belirtilen ceza insan onuruna ve infaz hukukuna uygun yerine getirilmelidir. İşte **ceza avukatı** tüm infaz sürecinin hukuka uygun yürütülüp yürütülmediğini denetleme yetkisine sahiptir.  
-
-İnfaz aşamasında kanunların yanlış yorumu nedeniyle birçok hak kaybı yaşanmaktadır. Örneğin, Türkiye'de son dönemde sık sık denetimli serbestlik yasası ve açık cezaevine geçiş şartları değişmektedir. **Ceza avukatı,** hükümlü müvekkilinin haklarını infaz aşamasında da koruyarak etkin bir hukuki yardım yapmaktadır.
 
 ###Dava İle İlgili Tebligatlar Ceza Avukatına mı Bizzat Şahsıma mı Yapılır?
 
 **Ceza avukatı,** müvekkili yerine her türlü yazı ve tebligatı alabilir. Mahkeme veya savcılık da soruşturma ve kovuşturma ile ilgili her türlü tebligatı **ceza avukatı**na yapmak zorundadır. Yukarıda açıkladığımız üzere **ceza avukatı** müvekkili yerine geçip beyanda bulunamaz. Bu nedenle, mahkemede veya savcılıkta müvekkile ait beyanın alınması zorunluluk arzediyorsa tebligat **ceza avukatı**na değil, bizzat müvekkile yapılmalıdır. Onun dışındaki tüm işlemlerde tebligatlar **ceza avukatı**na yapılmak zorundadır, aksi taktirde tebligat usulsüz hale gelir. Temyiz, itiraz gibi haklar için taraflara verilen süreler işlemeye başlamaz. 
-
-###Ceza Avukatlığı, Ceza Avukatı Olmak
-
-
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki **ceza avukatlığı,** avukatlığın en zor branşlarından biridir. **Ceza avukatı olmak,** avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **Ceza avukatı**nı ararlar. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını bilemeyeceğinden ceza avukatlığı, bazen avukatın iş akışının da düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ceza avukatı olmak,** kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
 
 ###En iyi ceza avukatı, ağır ceza avukatı gibi söylemlere itibar etmeli miyim?
 
 Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
 
 [![Ağır Ceza Avukatı](http://i.hizliresim.com/3arNZ4.jpg)](https://hizliresim.com/3arNZ4)
+
+### Ceza Avukatı ve İnfaz Hukuku
+
+**Ceza avukatı,** sadece mahkemede savunma yapan bir suje değildir. **Ceza avukatı,** aynı zamanda mahkeme tarafından verilen cezanın karara uygun olarak infaz edilip edilmediğinin de güvencesidir. Cezanın verilmesi yargısal, cezanın infazı ise idari bir süreçtir. İdare mahkeme tarafından verilen cezayı ağırlaştıran müeyyideler uygulayamaz. Mahkeme kararında belirtilen ceza insan onuruna ve infaz hukukuna uygun yerine getirilmelidir. İşte **ceza avukatı** tüm infaz sürecinin hukuka uygun yürütülüp yürütülmediğini denetleme yetkisine sahiptir.  
+
+İnfaz aşamasında kanunların yanlış yorumu nedeniyle birçok hak kaybı yaşanmaktadır. Örneğin, Türkiye'de son dönemde sık sık denetimli serbestlik yasası ve açık cezaevine geçiş şartları değişmektedir. **Ceza avukatı,** hükümlü müvekkilinin haklarını infaz aşamasında da koruyarak etkin bir hukuki yardım yapmaktadır.
+
+
+###Ceza Avukatlığı, Ceza Avukatı Olmak
+
+
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki **ceza avukatlığı,** avukatlığın en zor branşlarından biridir. **Ceza avukatı olmak,** avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **Ceza avukatı**nı ararlar. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını bilemeyeceğinden ceza avukatlığı, bazen avukatın iş akışının da düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ceza avukatı olmak,** kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+
+
 
 **Ceza avukatı,** savunma fonksiyonu ile temel hak ve özgürlüklere yanlış yapılan müdahaleleri önleyerek hukuk devletinin ve özgürlüklerin gelişimine önemli bir katkı sunar.
 
