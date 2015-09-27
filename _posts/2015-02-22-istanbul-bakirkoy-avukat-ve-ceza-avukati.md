@@ -46,7 +46,7 @@ Bu servis ceza soruşturma ve kovuşturmalarını takip eden avukatlardan oluşt
 
 İstanbul Barosu CMK Uygulama Servisi’ne **avukat** tutmak isteyen kişinin kendisi bizzat başvurabileceği gibi 1. derecede bir yakını da servise başvurarak **avukat** talebinde bulunabilir. Kişi gözaltındaysa kendisini gözaltına alan birim aracılığıyla CMK servisinden    **avukat** talebinde bulunabilir. Kişi tutuklu ise tutuklu bulunduğu cezaevinde veya mahkeme vasıtasıyla İstanbul Barosu CMK Uygulama Servisi’nden **avukat** talebinde bulunabilir.
 
-[![Ceza Avukatı](http://i.hizliresim.com/vLkg46.jpg)](https://hizliresim.com/vLkg46)
+[![CMK İstanbul Avukat](http://i.hizliresim.com/po7gMq.jpg)](https://hizliresim.com/po7gMq "İstanbul CMK Sistemi")
 
 
 ###4. Adli Yardım Servisi
