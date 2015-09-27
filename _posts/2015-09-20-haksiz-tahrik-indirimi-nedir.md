@@ -11,7 +11,7 @@ summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları Nelerdir? Haksız Tahri
 
 **Haksız tahrik,** kişinin haksız bir fiilin kendisinde meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesi halinde ceza sorumluluğunu azaltan bir **ceza indirimi** nedenidir.  **Haksız tahrik** altında suç işleyen kişinin kusur yeteneğinde bir azalma söz konusudur. Kusur yeteneğinde azalma meydana gelen fail, haksız tahrik altında suç işlediğinden ceza indiriminden yararlanır.
 
-[![Haksız Tahrik Ceza İndirimi](http://i.hizliresim.com/kg4yaW.jpg)](https://hizliresim.com/kg4yaW "Haksız Tahrik")
+[![Haksız Tahrik Ceza İndirimi](http://i.hizliresim.com/oZGBgQ.jpg)](https://hizliresim.com/oZGBgQ "Haksız Tahrik")
 
 
 
@@ -52,8 +52,7 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Hakaret suçu ile ilgili ayrıntılı yazı için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html)
 
-##Haksız Tahrik İndirimi Yargıtay Kararları  
-[![Yargıtay Kararları](http://i.hizliresim.com/d26D8Q.jpg)](https://hizliresim.com/d26D8Q"Haksız Tahrik Yargıtay Kararları")
+##Haksız Tahrik İndirimi Yargıtay Kararları                                                                            [![Yargıtay Kararları](http://i.hizliresim.com/ZVrpJo.jpg)](https://hizliresim.com/ZVrpJo "Haksız Tahrik Yargıtay Kararları")
 ---
 
 * Şikayetçi, sanığın arabasına taş atmış, uyarılara rağmen taş atmaya devam etmiştir. Sanık şikayetçiye karşı yaralama işlediği eyleminin, şikayetçinin kendisine taş atmasından etkilenerek **haksız tahrik** altında işlediğini savunmuştur. Olayın gelişim tarzına göre sanık **haksız tahrik** hükümlerinden yararlandırılmalıdır ( Yargıtay 3. Ceza Dairesi – Esas No: 2014/34604, Karar No: 2015/11953, Tarih: 02.04.2015 ).
