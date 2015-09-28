@@ -36,31 +36,31 @@ Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın z
 ---
 
 
-####1-) Gasp Suçunun Basit Şekli: 
+####1- Gasp Suçunun Basit Şekli: 
 
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütüyle bağlantısı olmaksızın, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır. **Yağma suçu**nun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
-####2-) Gasp Suçunun Nitelikli Şekli: 
+####2- Gasp Suçunun Nitelikli Şekli: 
 
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi **gasp suçu**nun nitelikli bir şekilde işlenmesidir:
 
- a)Silahla işlenmesi: Her şey silah olabilir. Örneğin, sopa, tırnak makası, kalem, taş veya başkaca silah olarak kullanılmaya elverişli her türlü alet.
+ * a) Yağma Suçunun Silahla işlenmesi: Her şey silah olabilir. Örneğin, sopa, tırnak makası, kalem, taş veya başkaca silah olarak kullanılmaya elverişli her türlü alet.
  
- b) Kişinin kendisini tanınmayacak bir hale koyması suretiyle işlenmesi: Örneğin, kişinin **gasp suçu**nu işlerken maske takması cebir ve tehdidin gerçekleşmesini kolaylaştırır.
+ * b) Kişinin kendisini tanınmayacak bir hale koyması suretiyle işlenmesi: Örneğin, kişinin **gasp suçu**nu işlerken maske takması cebir ve tehdidin gerçekleşmesini kolaylaştırır.
  
-c) Birden fazla kişi tarafından birlikte işlenmesi: Failin **yağma suçu**nu işlerken kendisi dışında en az bir kişiyle daha birlikte hareket ederek suçu işlemesi 
+* c) Birden fazla kişi tarafından birlikte işlenmesi: Failin **yağma suçu**nu işlerken kendisi dışında en az bir kişiyle daha birlikte hareket ederek suçu işlemesi 
 
-d) Yol kesmek suretiyle ya da konutta, işyerinde veya bunların eklentilerinde işlenmesi: Yol kesmek, seyahat özgürlüğü gibi hakaları da ihlal eder. **Yağma suçu**nun kapalı mekanlarda işlenmesi, insanların konut ve işyerlerinin daha dokunulmaz bir alan olması nedeniyle ağırlaştırıcı neden olarak kabul edilmiştir.
+* d) Yol kesmek suretiyle ya da konutta, işyerinde veya bunların eklentilerinde işlenmesi: Yol kesmek, seyahat özgürlüğü gibi hakaları da ihlal eder. **Yağma suçu**nun kapalı mekanlarda işlenmesi, insanların konut ve işyerlerinin daha dokunulmaz bir alan olması nedeniyle ağırlaştırıcı neden olarak kabul edilmiştir.
 
-e) Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı işlenmesi: Akıl zayıflığı veya hastalığı bulunan kişiler, çocuklar, yaşlılar gibi kendisini savunamayacak durumda olan kişilere karşı işlenen yağma suçları açısından daha ağır ceza öngörülmüştür.
+* e) Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı işlenmesi: Akıl zayıflığı veya hastalığı bulunan kişiler, çocuklar, yaşlılar gibi kendisini savunamayacak durumda olan kişilere karşı işlenen yağma suçları açısından daha ağır ceza öngörülmüştür.
 
-f) Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu güçten yararlanılarak işlenmesi,
+* f) Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu güçten yararlanılarak işlenmesi,
 
-g) Suç örgütüne yarar sağlamak maksadıyla,
+* g) Suç örgütüne yarar sağlamak maksadıyla,
 
-h) Gece vaktinde.
+* h) Gece vaktinde.
  
 Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası da artmaktadır. 
 
