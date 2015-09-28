@@ -58,7 +58,7 @@ Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Huku
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Hakaret suçu ile ilgili ayrıntılı yazı için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html)
 
 ##Haksız Tahrik İndirimi Yargıtay Kararları                                                                            
-[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Haksız Tahrik Yargıtay Kararları")
+ [![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Haksız Tahrik Yargıtay Kararları")
 
 ---
 
