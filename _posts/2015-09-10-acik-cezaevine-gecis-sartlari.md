@@ -66,5 +66,7 @@ Kapalı cezaevinde bulunan hükümlü **açık cezaevi**ne geçmek istediğini y
 
 Açık Cezaevine Ayrılma Yönetmeliği'nin tam metni için bakınız: [**Açık Cezaevine Ayrılma Yönetmeliği**](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=)
 
+Açık cezaevi ve denetimli serbestlik uygulaması ilişkisi için bakınız: [Denetimli Serbestlik Uygulaması](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan** 
