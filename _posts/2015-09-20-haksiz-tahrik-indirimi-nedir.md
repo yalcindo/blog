@@ -40,16 +40,16 @@ Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklan�
 
 Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
-##Haksız Tahrik ve Meşru Müdafaa İlişkisi
-
-**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. Mağdura yöneltilen fiilin meşru müdafaa amacıyla veya haksız tahrik altında yöneltilip yöneltilmediği faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
-
-Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Hukukunda Meşru Müdafaa](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html)
-
 
 ##Haksız Tahrikte Dengenin Bozulması
 
 Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız tahrikte dengenin bozulup bozulmadığı incelenmelidir. Fail, haksız bir eylemle faili tahrik ettikten sonra karşılaştığı tepkiden dolayı tahrik altında kaldığını savunamaz. Ancak failin karşılaştığı tepki, kendi gerçekleştirdiği eylemle karşılaştırıldığında aşırı bir hal almışsa, başka bir deyişle tepkide açık bir oransızlık varsa, bu tepkinin edilmelidir. Örneğin,  A şahsı, B şahsına küfür etmiş, B’de kendisine küfreden  A’yı bıçaklamış, A da belinde bulunan silahla B’yi öldürmüştür. Bu somut vakıada A şahsı ilk haksız hareketi küfür ederek yapmış, B şahsı A’yı bıçaklayarak haksız tahrikte dengeyi bozmuş, A şahsı da kendisini aşırı bir tepkiyle bıçaklayan B’yi **haksız tahrik** altında öldürmüştür. Bu durumda haksız tahrikte denge bozulduğu için ilk haksız hareket  A’dan kaynaklansa bile A **haksız tahrik** hükümlerinden yararlanır.
+
+##Haksız Tahrik ve Meşru Müdafaa İlişkisi
+
+**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. Mağdura yöneltilen fiilin meşru müdafaa amacıyla veya haksız tahrik altında yöneltilip yöneltilmediği faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
+
+Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html)
 
 ##Haksız Tahrik Halinde Ceza İndirim Oranı
 
