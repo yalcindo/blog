@@ -79,7 +79,7 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 
 Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı anda hırsızlık suçu yağma suçuna dönüşür. Fakat failin uyguladığı cebir ve tehdit, hırsızlık suçu tamamlanmadan işlenirse suç **yağma suçu**na dönüşür. Fail, mağdurun zilyetliğine son vererek mağdurun malını elinden aldıktan sonra mağdurun malı geri almak istemesi üzerine failin cebir ve tehdit uygulaması halinde artık yağma suçu oluşmaz. Fail, ilk eyleminden dolayı hırsızlık suçundan, mağdurun malı geri lamak istemesi üzerine cebir ve tehdit uuygulaması halinde ikinci eyleminden dolayı da fiilin niteliğine göre tehdit veya yaralama suçundan cezalandırılır. Örneğin, A şahsı B şahsına ait bilgisayarı dükkanından çalmış, B şahsı A'yı bir süre sonra caddede bilgisayarıyla giderken tesadüfen gmörmüş, A ise B'ye şiddet uygulayarak yaralamış, bilgisayarla kaçmış, birkaç saat sonra  şikayet üzerine yakalanmıştır. Bu olayda A'nın bilgisayarı alması şeklindeki ilk eylem hırsızlık suçunu, ikinci eylem ise yaralama suçunu oluşturur. Bu olayda **yağma suçu** hükümleri uygulanamaz. 
 
-Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç hırısızlıktan **yağma suçu**na dönüşür.
+Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç hırsızlık suçundan **yağma suçu**na dönüşür.
 
 
 ##Yağma Suçunda Etkin Pişmanlık Halinde Ceza İndirimi
@@ -119,6 +119,8 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 * Sanık mağdurdan 5 TL istemiş, mağdurun cebinden çok para çıkarması üzerine, sanığın "20 TL ver, benzin alacağımm, ancak yeter" demesi, mağdurun itirazı üzerine sanığın bıçak çıkartıp "seni keserim" şeklinde beyanı nedeniyle mağdurun 20 TL'yi vermek zorunda kaldığı olayda, **yağma suçu**nda uygulanabilecek TCK 150/2 maddesinin uygulanıp uygulanmayacağı mahkemece araştırılmalıdır. Çünkü sanık daha çoğunu alma imkanı varken daha azını almışsa cezası 1/3'ten 1/2'ye kadar ceza indirimi uygulanacaktır (Yargıtay 6. Ceza Dairesi - Esas No: 2013/3909, Karar No: 2013/8874, Tarih: 24.4.2013).
 
 * Müşteki, para vermesi için tehdit edilmesi üzerine polise başvurmuş, polis tarafından hazırlanan seri nosu alınmış paralar müştekiye verilmiş, müşteki tarafından sanık çağrılarak tehditle istediği para kendisine verildiği sırada polis tarafından yakalanmıştır. Somut olayda **yağma suçu** tamamlanmadığı gibi tamamalanma ihtimali de yoktur. Bu nedenle failin **yağma suçu**na teşebbüsten cezalandırılması gerekir (Yargıtay 6. Ceza Dairesi - Esas No: 2012/9022, Karar No: 2013/1320, Tarih: 4.2.2013).
+
+* Müştekinin işyerine girerek tehditle 4 bira ve 1 sigara alan sanıklar, daha fazlasını alma imkanları olduğu halde almamışlardır. Bu halde yağma suçunda malın değerinin azlığı nedeniyle ceza indirimini düzenleyen TCK 150. maddesi uygulanmalıdır ((Yargıtay 6. Ceza Dairesi - Esas No: 2010/31393, Karar No: 2011/7086, Tarih: 25.5.2011).
 
 
 **Yağma suçu,** suçun niteliği ve cezası itibariyle mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
