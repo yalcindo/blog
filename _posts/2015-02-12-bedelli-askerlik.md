@@ -43,4 +43,4 @@ Farklı **bedelli askerlik** uygulamaları Anayasa'nın 10. maddesinde ifadesini
 2011 yılında 30.000 TL olarak alınan **bedelli askerlik** ücreti, 10.12.2014 tarihinde çıkarılan yasayla 18.000 TL olarak belirlenmiştir. İki **bedelli askerlik** ücreti arasındaki fahiş farkın hiçbir hukuki dayanağı yoktur. Bu nedenle Askeri Yüksek İdare Mahkemesi'nde fazla alınan bedelin iadesi için dava açmış bulunmaktayız.
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Bakırköy-İstanbul / Avukat Baran Doğan**
