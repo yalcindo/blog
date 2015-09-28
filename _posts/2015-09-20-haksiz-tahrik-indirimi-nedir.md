@@ -40,6 +40,12 @@ Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklan�
 
 Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
+##Haksız Tahrik ve Meşru Müdafaa İlişkisi
+
+**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. Mağdura yöneltilen fiilin meşru müdafaa amacıyla veya haksız tahrik altında yöneltilip yöneltilmediği faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
+
+Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Hukukunda Meşru Müdafaa](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html)
+
 
 ##Haksız Tahrikte Dengenin Bozulması
 
