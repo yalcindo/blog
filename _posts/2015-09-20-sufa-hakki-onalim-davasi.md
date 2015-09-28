@@ -71,7 +71,8 @@ Somut bir satışta **önalım hakkı**nı kullanmaktan feragat  ise adi yazıl�
 
  Hemen belirtmek gerekir ki, somut bir satış ile ilgili olmayan ve genel nitelikte şufa hakkından önceden feragatin adi yazılı bir şekilde yapılması işlemi geçersiz hale getirir.  Genel nitelikte feragatin adi yazılı bir şekilde yapılması hiçbir hukuki sonuç doğurmaz. Örneğin, bir paydaşın, * İstanbul’da paydaşı olduğum gayrimenkulde herhangi bir paydaşın payını satması halinde şufa hakkımı kullanmayacağım* şeklindeki  adi yazılı feragati hukuken geçersizdir. 
  
-##Şufa Hakkı (Önalım Hakkı) İle İlgili Yargıtay Kararları
+##Şufa Hakkı (Önalım Hakkı) İle İlgili Yargıtay Kararları  
+[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Şufa Hakkı Yargıtay Kararları")
 
 * *Önalım davasının davalısı* **şufa hakkı**na *dair taşınmazdaki payı satın almadan önce o taşınmazda paydaş ise bu paydaş hakkında şufa hakkı kullanılamaz. Çünkü yasada bir paydaşın payının 3. şahsa satması halinde şufa hakkının kullanılabileceği belirtilmiştir. Paydaş üçüncü kişi sayılamayacağından paydaşın paydaş aleyhine* **önalım hakkı** *kullanması söz konusu olamaz. Dava hakkına dair bu kuralın davanın her aşamasında kendiliğinden göz önünde bulundurulması gerekir*  ( Yargıtay Hukuk Genel Kurulu – Esas No: 2012/198, Karar No: 2012/702 karar, Tarih: 10.10.2012).
 
