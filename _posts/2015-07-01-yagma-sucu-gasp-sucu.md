@@ -96,7 +96,9 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 
 
 
-##Yağma Suçu Yargıtay Kararları [![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Yağma Suçu Yargıtay Kararları")
+##Yağma Suçu Yargıtay Kararları   
+[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Yağma Suçu Yargıtay Kararları")
+
 ---
 
 * Fail konuta girerek nitelikli **yağma suçu** işlemiş ve mağduru da öldürmüştür. Faile hem nitelikli yağmma suçundan hem de konut dokunulmazlığını ihlal suçundan ceza verilmiştir. Konut dokunulmazlığını ihlal suçu **gasp suçu**nun nitelikli halinin unsurudur. Bu nedenle faile yalnızca nitelikli gasp suçundan ceza verilmesi gerekir, konut dokunulmazlığını ihlal suçundan fail ayrıca cezalandırılamaz (Yargıtay 1. Ceza Dairesi - Esas No: 2014/6186, Karar No: 2015/1738, Tarih: 24.3.2015).
