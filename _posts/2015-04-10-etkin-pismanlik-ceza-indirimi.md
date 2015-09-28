@@ -123,6 +123,12 @@ Tehdit suçunda, şantaj suçunda ve konut dokunulmazlığını ihlal suçunda e
 
 Tehdit suçu ile ilgili ayrıntılar için bakınız: [**TEHDİT SUÇU ŞARTLARI VE CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)
 
+###Ceza İndirimi ve Denetimli Serbestlik Uygulaması
+
+Ceza indirimi, maddi ceza hukukuna ilişkindir. Yani, etkin pişmanlık nedeniyle ceza indirimi mahkemenin verdiği kararda doğrudan ceza indirimi yapmasıyla ilgilidir. Denetimli serbestlik uygulaması ise cezanın infazı ile ilgilidir. Denetimli serbestlik, cezanın infazı aşamasında "iyi halli" hükümlüye sağlanan bir şartlı tahliye kurumudur.
+
+Denetimli Serbestlik Uygulaması ile ilgili ayrıntılar için bakınız: [Denetimli Serbestlik Yasası](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+
 
 ###Etkin Pişmanlık Ceza İndiriminden Kaç Kez Yararlanılabilir? 
 
