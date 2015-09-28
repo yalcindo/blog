@@ -92,7 +92,7 @@ Etkin pişmanlık kavramının ayrıntıları için bakınız : [**Etkin Pişman
 
 Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önce mağdurun zararını karşılarsa, 10 yıl olan cezada en fazla ½ oranında indirim yapılarak 5 yıl ceza verilebilir. Kanunda belirtilen indirim oranları maksimum indirim oranlarıdır. Yargıç bu örnekte ½ oranında değil de ¼ oranında da indirim yapabilir, ama yapacağı indirimin üst sınırı ½ oranıdır.
 
-**Yağma suçu,** mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
+
 
 ##Yağma Suçu Yargıtay Kararları
 ---
@@ -115,6 +115,11 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 * Sanık ve yakalanamayan suç ortağı, motosikletle mağdur kadına yaklaşarak çantasını çekmiş, mağdur direndiğinde zarar göreceğini anladığından çantayı bırakmıştır. Bu olayda hırsızlık suçu hükümleri değil, TCK 149/1-c maddesi gereği nitelikli **yağma suçu** hükümleri uygulanmalıdır (Yargıtay 6. Ceza Dairesi - Esas No: 2011/9048, Karar No: 2013/23509, Tarih: 26.11.2013).
 
 * Sanık mağdurdan 5 TL istemiş, mağdurun cebinden çok para çıkarması üzerine, sanığın "20 TL ver, benzin alacağımm, ancak yeter" demesi, mağdurun itirazı üzerine sanığın bıçak çıkartıp "seni keserim" şeklinde beyanı nedeniyle mağdurun 20 TL'yi vermek zorunda kaldığı olayda, **yağma suçu**nda uygulanabilecek TCK 150/2 maddesinin uygulanıp uygulanmayacağı mahkemece araştırılmalıdır. Çünkü sanık daha çoğunu alma imkanı varken daha azını almışsa cezası 1/3'ten 1/2'ye kadar ceza indirimi uygulanacaktır (Yargıtay 6. Ceza Dairesi - Esas No: 2013/3909, Karar No: 2013/8874, Tarih: 24.4.2013).
+
+
+
+
+**Yağma suçu,** suçun niteliği ve cezası itibariyle mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur.
 
 
 
