@@ -84,6 +84,12 @@ TCK md. 129/1’e göre, hakaret suçunun bir haksız fiile tepki olarak işlenm
 
 TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenmesi halinde faile ceza verilmez. Örneğin, yüzüne tokat atarak burnun kanamasına neden olan kişiye hakaret edilmesi halinde faile ceza verilemez.
 
+Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şekilde düzenlenmiştir. 
+
+Haksız tahrik kavramı için bakınız: [**Ceza Hukukunda Haksız Tahrik**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
+
+
+
 ###Hakaret Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
 Hükmün açıklanmasının geri bırakılması (HAGB), sanığın 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, sanığın bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
