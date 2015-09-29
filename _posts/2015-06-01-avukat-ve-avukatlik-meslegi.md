@@ -15,7 +15,7 @@ keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakı
 Her ülkenin hukuk sisteminde nasıl avukatlık yapılacağına dair bir **avukat**lık kanunu mevcuttur. Ülkenin tercihine bağlı olarak belli türde davalara yabancı ülkelerde bulunan **avukat**larda girebilmektedir. Ancak, prensip olarak her ülke kendi ülkesinde baroya kayıtlı **avukat**lara avukatlık mesleğiyle ilgili tekel hakkı tanımaktadır.  Yani, belli kriterlere sahip **avukat**lar dışında hiç kimse kanunda belirlenen savunma yetkisini kullanamaz. **Avukat**lık tekeli, hem **avukat**ın belli niteliklere sahip olmasını sağlamakta hem de belli haklara sahip kişilerin **avukat**lık yapmasına imkan tanıyarak mesleğin icrasına bir güvence mekanizması sağlamaktadır. 
 
 
-[![Avukat](http://i.hizliresim.com/vLkm14.jpg)](https://hizliresim.com/vLkm14 "Avukat")
+![Avukat](https://camo.githubusercontent.com/c5b82190d9ea5fb035dd671ad88b1674b2591008/687474703a2f2f692e68697a6c69726573696d2e636f6d2f764c6b6d31342e6a7067 "Avukat")
 
 ##Yabancı Hukuk Bürolarının Türkiye’de Avukatlık Yapma Yetkisi
 
@@ -35,7 +35,7 @@ Uluslararası mahkemeler, kurucu sözleşmelerinde belirtilen amaçlar çerçeve
 Avrupa İnsan Hakları Mahkemesi, Fransa’da Avrupa Konseyi’ne bağlı olarak faaliyet gösteren ulusalüstü bir mahkemedir. Avrupa Konseyi’ne üye 47 ülke AİHM’in yargı yetkisini kabul etmiştir. Mahkeme, yetkisini kabul eden üye ülkelerde yurttaş olsun veya olmasın herhangi bir insanın yaptığı başvuru üzerine Avrupa İnsan Hakları Sözleşmesi’nde tanınan hakların ihlal edilip edilmediğini denetler.
 
 
-[![Aihm Ceza Avukatı](http://i.hizliresim.com/kg4j6q.jpg)](https://hizliresim.com/kg4j6q "AİHM")
+![Aihm Ceza Avukatı](https://camo.githubusercontent.com/dfc9399efd11c286beec4eb06ba6cb9e58b0cae6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6b67346a36712e6a7067 "Avrupa İnsan Hakları Mahkemesi")
 
 AİHM’e başvuru yapan başvurucu bir **avukat** vasıtasıyla başvuru yapılabileceği gibi, yapılan duruşmalara da bir **avukat** ile birlikte katılabilir. Kişi hangi ülkedeki **avukat**ın hukuki yardımından yararlanmak istediğini kendisi belirler. Örneğin, başvurucu Almanya vatandaşı olduğu halde Türkiye’den bir **avukat** ile kendisini temsil ettirebilir. AİHM’de **avukat**lık yapmak konusunda hiçbir ülke mevzuatına sınırlayıcı hükümler koyamaz.
 
@@ -61,7 +61,7 @@ Uluslararası alanda çıkan meseleler, bazen tüm toplumu etkileyecek bir sonu�
 
 Havana Kuralları, 1990 yılında Havana'da düzenlenen bir BM konferansında kabul edilmiştir. Havana kuralları, **avukat**ın mesleğini yaparken bir güvence mekanizması olarak bavurabileceği **avukat**lık meslek ilkelerinden ibarettir. **Avukatlık mesleği**nin evrensel standartlarını belirleyen havana kuralları, **avukat**ın mesleğini bağımsız bir şekilde yapabilmesi için kamu otoritelerine bazı sorumluluklar yüklemektedir.
 
-[![Birleşmiş Milletler Ceza Avukatı](http://i.hizliresim.com/95MV3o.jpg)](https://hizliresim.com/95MV3o "BM Toplantısı")
+![Birleşmiş Milletler Ceza Avukatı](https://camo.githubusercontent.com/2c288751ee7ebb556d69af4b962402cbcd7071e3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f39354d56336f2e6a7067 "BM Havana Toplantısı")
 
 
 ####1. Avukat ve Avukata Erişim Hakkı
