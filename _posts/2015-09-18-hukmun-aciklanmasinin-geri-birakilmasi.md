@@ -15,7 +15,7 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 **Hükmün açıklanmasının geri bırakılması,** sanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi boyunca kasıtlı bir suç işlenmez ve yükümlülüklere uygun davranılırsa ceza kararının ortadan kaldırılması ve davanın düşmesine yol açan bir cezanın bireyselleştirilmesi kurumudur.  Erteleme, takdiri indirim gibi bireyselleştirme kurumlarında mahkeme kararı birtakım hukuki sonuçlar doğrururken, **hükmün açıklanmasının geri bırakılması** kurumunda ortada sonuç doğuracak bir mahkeme hükmü yoktur. Mahkeme, hukuk sisteminde sonuç doğuracak şekilde kararını henüz açıklamamış, açıklamayı geri bırakmıştır. **HAGB kararı,** kişinin medeni, siyasi veya özel yaşamına hiçbir kısıtlama getirmeden adeta sanığa ikinci bir şans tanır. **HAGB kararı,** suç işleyen kişinin hayatına ceza hukuku müdahalesini adeta askıya almaktadır.
 
 
-[![Hükmün Açıklanmasının Geri Bırakılması HAGB](http://i.hizliresim.com/VLojyy.jpg)](https://hizliresim.com/VLojyy)
+![Hükmün Açıklanmasının Geri Bırakılması HAGB](https://camo.githubusercontent.com/db77a9990b5ddf66facabadca9375fe9a482d6b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a79792e6a7067 "Hükmün Açıklanmasının Geri Bırakılması")
 
 
 ##Hükmün Açıklanmasının Geri Bırakılması Şartları?
@@ -105,7 +105,7 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 ###Hükmün Açıklanmasının Geri Bırakılması Kararının Memurluğa Etkisi Nedir?
 
 
-[![HAGB Memuriyet](http://i.hizliresim.com/3ar4Wj.jpg)](https://hizliresim.com/3ar4Wj)
+![HAGB ve Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "HAGB ve Memurluk")
 
 **Hükmün açıklanmasınının geri bırakılması kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
@@ -123,7 +123,8 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
 
-##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
+##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları     
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
