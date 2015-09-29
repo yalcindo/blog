@@ -14,7 +14,7 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 **Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. **Yağma suçu,** hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
 
 
-[![Yağma Suçu](http://i.hizliresim.com/Yl1v6j.jpg)](https://hizliresim.com/Yl1v6j "Gasp Suçu")
+![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
 
 ##Yağma Suçunun (Gasp Suçunun) Şartları
 ---
@@ -96,8 +96,8 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 
 
 
-##Yağma Suçu Yargıtay Kararları   
-[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Yağma Suçu Yargıtay Kararları")
+##Yağma Suçu Yargıtay Kararları        
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
 
 ---
 
