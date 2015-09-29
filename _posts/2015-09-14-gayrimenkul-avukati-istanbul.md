@@ -12,7 +12,7 @@ summary: Gayrimenkul avukatı, Gayrimenkul avukatının işlevi, tapu iptal ve t
 
 **Avukat** veya **gayrimenkul avukatı,** gerek idari alanda gerekse yargısal alanda savunma işlevini yerine getiren yargının kurucu bir öğesidir. Türkiye’de avukatlık mesleği uygulamanın yol göstericiliğinde uzmanlaşmaktadır. Türkiye’de avukat, her türlü dava veya işi takip yetkisine sahiptir. Yasal olarak herhangi bir alanda mesleği icra etme zorunluluğu yoktur. Ama özellikle İstanbul gibi büyük şehirlerde uygulama, **avukat**ları uzmanlaşmaya doğru yöneltmektedir. Bu nedenle yargısal pratik içerisinde halkın adlandırmasıyla taşınmazlar ile ilgili davalara giren avukatlara **gayrimenkul avukatı** denilmektedir.
 
-[![Avukat](http://i.hizliresim.com/VLobJP.jpg)](https://hizliresim.com/VLobJP "Avukat")
+![Avukat](https://camo.githubusercontent.com/c5b82190d9ea5fb035dd671ad88b1674b2591008/687474703a2f2f692e68697a6c69726573696d2e636f6d2f764c6b6d31342e6a7067 "Avukat")
 
 ##Gayrimenkul ( Taşınmaz ) Davalarında Gayrimenkul Avukatı Zorunlu mu?
 
