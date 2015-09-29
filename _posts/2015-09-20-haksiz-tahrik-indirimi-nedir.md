@@ -11,7 +11,7 @@ summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları Nelerdir? Haksız Tahri
 
 **Haksız tahrik,** kişinin haksız bir fiilin kendisinde meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesi halinde ceza sorumluluğunu azaltan bir **ceza indirimi** nedenidir.  **Haksız tahrik** altında suç işleyen kişinin kusur yeteneğinde bir azalma söz konusudur. Kusur yeteneğinde azalma meydana gelen fail, haksız tahrik altında suç işlediğinden ceza indiriminden yararlanır.
 
-[![Haksız Tahrik Ceza İndirimi](http://i.hizliresim.com/kg4yaW.jpg)](https://hizliresim.com/kg4yaW "Haksız Tahrik")
+[![Haksız Tahrik Ceza İndirimi](https://camo.githubusercontent.com/2b7035669783ef35fa1042ff7a7a7810af52a369/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6b67347961572e6a7067 "Haksız Tahrik")
 
 
 ## Haksız Tahrik Şartları
@@ -53,12 +53,12 @@ Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Huku
 
 ##Haksız Tahrik Halinde Ceza İndirim Oranı
 
-**Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir [( **TCK md. 29** )](http://www.turkhukuksitesi.com/mevzuat.php?mid=3307). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
+**Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Hakaret suçu ile ilgili ayrıntılı yazı için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html)
 
-##Haksız Tahrik İndirimi Yargıtay Kararları                                                                            
-  [![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Haksız Tahrik Yargıtay Kararları")
+##Haksız Tahrik İndirimi Yargıtay Kararları     
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
 
 ---
 
