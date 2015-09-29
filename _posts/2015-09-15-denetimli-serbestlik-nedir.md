@@ -20,7 +20,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 
 **Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
 
-[![Denetimli Serbestlik Nedir](http://i.hizliresim.com/d2QRDD.jpg)](https://hizliresim.com/d2QRDD "Denetimli Serbestlik")
+![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
 ###3. Denetimli Serbestlik Kaç Yıl 
 
@@ -105,7 +105,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı şu yönetmelikle düz
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
 
 ###8. Denetimli Serbestlik Yasası Yargıtay Kararları      
-[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Denetimli Serbestlik Yargıtay Kararları")
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
 ---
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
