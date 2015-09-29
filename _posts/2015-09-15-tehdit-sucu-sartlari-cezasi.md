@@ -13,7 +13,7 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ##Tehdit Suçu Kimler Aleyhine İşlenebilir?
 
-[![Tehdit Suçu ve Cezası](http://i.hizliresim.com/VLojbV.jpg)](https://hizliresim.com/VLojbV "Tehdit Suçu")
+![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
 
 
 **Tehdit suçu** ancak gerçek kişiler aleyhine işlenebilir. Tüzel kişiler aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
@@ -82,7 +82,7 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 **Tehdit suçu**nun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, **tehdit suçu**nun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
 ###Tehdit Suçu ve Yargıtay Kararlar		
-[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Tehdit Suçu Yargıtay Kararları")
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
 ---
 
 * Sanığın mağdurun işyerine doğru tabanca ile ateş etmesi şeklindeki eylemin, 5237 sayılı Tck'nın 106/2-a maddesinde tanımlanan **silahlı tehdit suçu**nu oluşturduğu gözetilmeden, suç vasfında yanılgıya düşülerek genel güvenliğin kasten tehlikeye sokulması suçundan mahkumiyet kararı verilmesi hukuka aykırıdır. Fail silahlı tehdit suçundan cezalandırılmalıdır (Yargıtay 4. Ceza Dairesi - Esas No: 2014/11609, Karar No: 2015/17483, Tarih: 16.2.2015).
