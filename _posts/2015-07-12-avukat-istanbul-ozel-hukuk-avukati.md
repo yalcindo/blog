@@ -12,7 +12,7 @@ keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazmin
 
 Özel hukuk içindeki her alanın kendine özgü bir avukatlık pratiği vardır.  Örneğin, **boşanma avukatı** olarak çalışan avukatlar, aile hukukunun kendine özgü süreçlere sahip olduğunu tarafların birbirini yıpratan bu süreç içerisinde zaman zaman kavga ettiğini, tedbir niteliğinde bazı önlemler alınarak bu sürecin kolaylaştırılması gerektiğini bilirler. **Gayrimenkul avukatı** olarak bilinen avukatlar, gayrimenkule ilişkin davaların birçok faktör nedeniyle uzun süreceğini dava sürecinde çıkan problemlerin aşama aşama çözülerek sonuca gidilmesi gerektiğini bilirler. 
 
-[![Avukat](http://i.hizliresim.com/Aq4Wrv.jpg)](https://hizliresim.com/Aq4Wrv "avukat")
+![Avukat](https://camo.githubusercontent.com/c5b82190d9ea5fb035dd671ad88b1674b2591008/687474703a2f2f692e68697a6c69726573696d2e636f6d2f764c6b6d31342e6a7067 "avukat")
 
 Hangi alanda avukatlık yapılırsa yapılsın **avukat**ın temel işlevi savunma yapmaktır. Özel hukuk alanında da **avukat** temelde savunuma işlevini yerine getirmektedir. Her alanın savunma faaliyeti ayrı bir özellik arzettiğinden özel hukuk alanında avukatlık yapan **avukat** bu alanın hukuk kavramlarına hakim olmalıdır.
 
@@ -22,7 +22,7 @@ Hangi alanda avukatlık yapılırsa yapılsın **avukat**ın temel işlevi savun
 
 Sözleşmelerin en önemli aşaması müzakere aşamasıdır. Müzakere aşaması tarafların iradelerini anlamak ve sözleşmeye uygun hukuki formülasyonu vermek için **avukat**a bir fırsat verir. **Avukat,** sağlıklı bir sözleşme düzenleyebilmek için tarafların sözleşmeyle neyi hedeflediklerini, hangi amacı nasıl gerçekleştirmek istediklerini taraflara sorarak öğrenmelidir. **Avukat,** bir sözleşme düzenlenirken sözleşmenin ilgili bulunduğu konuyu tüm hatlarıyla araştırır. Tarafların sözleşmede sahip olduğu hak ve borçları açıkça ortaya koyabilmek için ne tür bir hukuksal dil kullanılması gerektiğini belirler. Sözleşme müzakere edilirken taraflardan birinin sözleşmeyi ihlali halinde hangi prosedür izlenerek sözleşmenin feshedileceği, sorunun mahkemeye intikali halinde hangi mahkemenin yetkili olduğu, sözleşmeyi ihlal eden tarafın cezai şart ödeyip ödemeyeceği **avukat** tarafından sözleşmenin taraflarına sorularak sözleşmeye yazılmalıdır.
 
-[![Avukat](http://i.hizliresim.com/J4Rmg5.jpg)](https://hizliresim.com/J4Rmg5 "Sözleşme ve Avukat")
+![Avukat](https://camo.githubusercontent.com/670b7975b633421fea72d503d39a41345faf76bc/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4a34526d67352e6a7067 "Sözleşme ve Avukat")
 
 **Avukat,** düzenlenen sözleşmenin hukuki niteliğini uygun bir biçimde ifade etmelidir.  Sözleşmenin hukuki niteliği, sözleşmeye uygulanacak normun tespiti için çok önemlidir. Örneğin, bir sözleşmeye, “garanti eden” sıfatıyla imza atan kişiyle “kefil” olarak imza atan kişi farklı hukuki statülere tabidir. **Avukat,** tarafların iradelerine uygun hukuki nitelemeyi sözleşmede yaparak sağlam bir sözleşme ilişkisi kurulmasını sağlamalıdır.
 
@@ -40,7 +40,7 @@ Maddi-manevi tazminatın kaynağı bir sözleşme ise sözleşmenin **avukat** t
 
 Aile hukuku, özel bir yargılama usulüyle aile mahkemeleri vasıtasıyla uygulanan bir medeni hukuk alanıdır. Boşanma, çocukların velayeti, maddi-manevi tazminat, mal paylaşımı konularında oldukça çekişmeli geçen ve bir **avukat**ın hukuki yardımı olmadan yürütülmesi zor süreçler aile hukukunun özgül kurallarıyla çözüme kavuşur. Özellikle boşanma davalarına bakan **avukat**lara **boşanma avukatı** denilmesinin nedeni de bu sürecin kendine özgü bir hukuk alanında yürütülmesidir. 
 
-[![Boşanma Avukatı](http://i.hizliresim.com/4k7X4p.jpg)](https://hizliresim.com/4k7X4p "Boşanma Avukatı")
+![Boşanma Avukatı](https://camo.githubusercontent.com/f92a01a3fe083bb46defa61503a3889218a37e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f346b375834702e6a7067 "Boşanma Avukatı")
 
 ####Velayet ve Boşanma Avukatı
 
