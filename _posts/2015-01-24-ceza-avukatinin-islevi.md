@@ -16,7 +16,7 @@ Ceza soruşturması veya yargısı suçun işlenmesinden sonra başlayan bir faa
 
 Suç şüphesi altındaysanız, hakkınızda yakalama işlemi yapılmış olsun veya olmasın, bir **ceza avukatı** vasıtasıyla savunma yapmaya başlayabilirsiniz. Eğer suçun mağduruysanız aynı şekilde şikayet hakkınızın etkin bir biçimde savunulması için **ceza avukatı**na başvurabilirsiniz.
 
-[![Ceza Avukatı](http://i.hizliresim.com/WZBOEY.jpg)](https://hizliresim.com/WZBOEY)
+![Ceza Avukatı](https://camo.githubusercontent.com/6bd46c723e1cb37111131c04867b5d471caca274/687474703a2f2f692e68697a6c69726573696d2e636f6d2f575a424f45592e6a7067 "Ceza Avukatı")
 
 
 ###Bir suç ile suçlandığımda yanımda bir ceza avukatı olmasını isteyebilir miyim?
@@ -54,7 +54,7 @@ Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **
 
 Şüpheli serbest bırakılsa da tutuklansa da suç işlediğine dair yeterli şüphe varsa hakkında Asliye Ceza Mahkemesi, Ağır Ceza Mahkemesi veya diğer özel nitelikli suçlara bakmakla görevli mahkemelerde suçlamanın ayrıntılarını içeren bir iddianameyle dava açılır. Mahkeme dava dosyası kendisine gelir gelmez dava dosyasını inceleyerek yapılacak işlemleri, duruşma gününü, dosyada tutuklu sanık varsa tutukluluk hallerine ilişkin kararını içeren “tensip zaptı” adı verilen bir belge düzenler. **Ceza avukatı**, tensip zaptı  düzenlenmeden önce bir dilekçeyle iddianamenin iadesini talep edebilir. Talebi kabul edilirse iddianame iade edilir, eksiklikler giderildikten sonra yeniden dava açılır. 
 
-[![Ceza avukatı](http://i.hizliresim.com/QlDJPv.jpg)](https://hizliresim.com/QlDJPv)
+![Ceza avukatı](https://camo.githubusercontent.com/bac64fdc4a8bdb44d185445280700f56adc83277/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a50762e6a7067 "Ceza Avukatı")
 
 ###Sanık Nedir? Hangi aşamadan itibaren sanık olunur?
 
@@ -102,7 +102,7 @@ Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Tarafl
 
 Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
 
-[![Ağır Ceza Avukatı](http://i.hizliresim.com/3arNZ4.jpg)](https://hizliresim.com/3arNZ4)
+![Ağır Ceza Avukatı](https://camo.githubusercontent.com/591a0d129952129b0dc9dea43139a8ba82b52fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3361724e5a342e6a7067 "Ağır Ceza Avukatı")
 
 ### Ceza Avukatı ve İnfaz Hukuku
 
