@@ -17,7 +17,7 @@ Kişinin işlediği herhangi bir suç nedeniyle hükmedilen ceza veya güvenlik 
 
 Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kararı **adli sicil kaydı**na işlenir. Fakat, mahkeme hükmün açıklanmasının geri bırakılması (HAGB) kararı vermişse, bu karar **adli sicil kaydı**na işlenemez. HAGB kararları teknik olarak mahkumiyet olarak kabul edilmemektedir. Bu nedenle ayrı bir sisteme kaydedilirler.
 
-[![Adli Sicil Kaydının Silinmesi](http://i.hizliresim.com/ngzZzR.jpg)](https://hizliresim.com/ngzZzR "Adli Sicil Kaydı")
+![Adli Sicil Kaydı](https://camo.githubusercontent.com/b98741a6baafa2e204f110778f86332a1e68e101/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e677a5a7a522e6a7067 "Adli Sicil Kaydının Silinmesi")
 
 ###Hangi bilgiler adli sicil kaydına işlenir? Her mahkumiyet kararı adli sicil kaydına işlenir mi?
 
@@ -78,7 +78,8 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 
 * Hükümlünün ölmesi, fiilin suç olmaktan çıkması gibi nedenlerle de arşiv kaydı silinir.
 
-###Adli Sicil Kaydının Silinmesi Yargıtay Kararları  [![Yargıtay Kararları](http://i.hizliresim.com/zV8zNY.jpg)](https://hizliresim.com/zV8zNY "Adli Sicil Kaydı Yargıtay Kararları")
+###Adli Sicil Kaydının Silinmesi Yargıtay Kararları       
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Adli Sicil Kaydı Yargıtay Kararları")
 ----
 
 * *Hükümlü hakkında verilen 3 yıl 1 ay 15 gün hapis cezasının süre itibariyle anayasa'nın 76. maddesi kapsamında kaldığından ve adli sicil kanunu'nun 12. maddesinde öngörülen sürenin geçmemesi nedeniyle 5352 sayılı kanunun geçici 2. maddesinin 2. fıkrası uyarınca arşiv kaydından çıkartılması mümkün değildir.* Bu durumda ya yasaklanmış hakların geri alınması kararı yoluyla arşiv kaydına alınma tarihinden itibaren 15 yıl içinde veya bu karar alınmamışsa 30 yıl içinde silinebilir ( Yargıtay 1. Ceza Dairesi - Esas No: 2014/3725, Karar No: 2014/3727, Tarih: 4.7.2014 ).
