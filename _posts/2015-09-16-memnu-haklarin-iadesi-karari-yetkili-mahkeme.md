@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Memnu Hakların İadesi, Şartları, Yetkili Mahkeme
+title: Memnu Hakların İadesi Şartları, Yetkili Mahkeme
 category: ceza-hukuku
 googleAnahtar: Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy, istanbul avukat
 keywords:  Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, Memnu hakalrın iadesi ve devlet memurluğu, memnu hakların iadesi kararı yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
@@ -8,7 +8,9 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 ---
 ##Memnu Hakların İadesi Nedir?
 
-**Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle, TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir hukuk kurumudur. Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi (yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
+**Memnu hakların iadesi,** diğer bir deyişle **yasaklanmış hakların geri verilmesi,** hükümlü hakkında bir cezaya mahkumiyet nedeniyle TCK dışındaki kanunların meydana getirdiği yasaklılıkları ortadan kaldıran bir ceza hukuku kurumudur.
+
+Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi (yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
 
 [![Memnu Hakların İadesi](http://i.hizliresim.com/L4kjv0.jpg)](https://hizliresim.com/L4kjv0)
 
