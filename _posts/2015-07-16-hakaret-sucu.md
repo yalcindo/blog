@@ -43,7 +43,7 @@ Kamuoyu tarafından yaptıkları işler nedeniyle bilinen, tanınan kişilere (�
 
 Günümüzde **hakaret suçu** en çok çağdaş iletişim araçlarıyla işlenmektedir.  İnternet yoluyla hakaret, kolay ispatlanabilecek bir suç çeşididir. Bu nedenle, e-mail, facebook, skype, messenger, whatssup, twitter vb. gibi sosyal medya araçlarıyla doğrudan mağdurun hedef alınarak hakaret edilmesi de **hakaret suçu**nu oluşturur.
 
-[![İnternet Yoluyla Hakaret Suçu](http://i.hizliresim.com/L4kmg0.jpg)](https://hizliresim.com/L4kmg0 "İnternet Yoluyla Hakaret Suçu")
+![İnternet Yoluyla Hakaret Suçu](https://camo.githubusercontent.com/5e5dd7edda643ac4f81dce5353d2e60068ef7f34/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c346b6d67302e6a7067 "İnternet Yoluyla Hakaret Suçu")
 
 
 Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir **ceza avukatı** ile görüşülmelidir.
@@ -74,7 +74,7 @@ Kurul halinde çalışan kamu görevlilerine görevlerinden dolayı hakaret hali
 
 TCK md. 129/3’e göre hakaret suçunun iki kişi tarafından karşılıklı işlenmesi halinde **“karşılıklı hakaret suçu”** meydana gelir. Karşılıklı hakaretin aynı zaman diliminde gerçekleşmesi şart değildir. Örneğin, medya yoluyla kendisine “maymun” denildiğini öğrenen bir kişinin de karşı tarafa bir gün sonra “yarasa” demesi halinde **karşılıklı hakaret suçu** meydana gelir.
 
-[![Karşılıklı Hakaret Suçu](http://i.hizliresim.com/4k7XOL.jpg)](https://hizliresim.com/4k7XOL "Karşılıklı Hakaret Suçu")
+![Karşılıklı Hakaret Suçu](https://camo.githubusercontent.com/8cb6be5577af7e1a8b8e3230067ed8cd84cb796a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f346b37584f4c2e6a7067 "Karşılıklı Hakaret Suçu")
 
 **Karşılıklı hakaret suçu**nun işlenmesi halinde hakim, taraflardan birine veya her iki tarafa ceza vermeyebilir veya cezayı 1/3’üne kadar indirebilir.
 
