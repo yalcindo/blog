@@ -8,7 +8,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 ---
 
 
-[![Özel Hayatın Gizliliğini İhlal Suçu](http://i.hizliresim.com/Gk6jR6.jpg)](https://hizliresim.com/Gk6jR6 "Özel Hayatın Gizliliği")
+![Özel Hayatın Gizliliğini İhlal Suçu](https://camo.githubusercontent.com/c823192781cff0a309c355192e8c823fe48c4fc9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f476b366a52362e6a7067 "Özel Hayatın Gizliliği")
 
 
 ##Özel Hayatın Gizliliğini İhlal Suçu Nedir?
@@ -65,7 +65,7 @@ TCK md. 139 gereği, **özel hayatın gizliliğini ihlal suçu**nun tüm şekill
 Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir. 
 
 ###Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları     
-[![Yargıtay Kararları](http://i.hizliresim.com/ZVryna.jpg)](https://hizliresim.com/ZVryna "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
 
 ---
 
