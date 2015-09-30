@@ -28,7 +28,7 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 
 (3) Hapis cezası ertelenmişse, cezanın ertelendiğine dair bilgi ile birlikte kişinin tabi bulunduğu denetim süresi de yer almalıdır.  Ayrıca denetim süresinin yükümlülükler uygun ve iyi halli olarak geçirilmesi halinde cezanın infaz edilmiş sayılacağı hususu da **adli sicil kaydı**na işlenir. Eğer ertelenen hapis cezası, denetim süresinin yükümlülüklerine uyulmadığı için cezanın infaz kurumunda çektirilmesine karar verilmişse bu karar da **adli sicil kaydı**na yazılır.
 
-(4) Adli para cezasına ilişkin mahkumiyet hükmü, adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu **adli sicil kaydı**na işlenir. Adli para cezası ile ilgili geniş makalemize şu linkten ulaşabilirsiniz: [Adli Para Cezası](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
+(4) [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)mahkumiyet hükmü ile ilgili bilgiler de **adli sicil kaydı**na işlenir., adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu **adli sicil kaydı**na işlenir. 
 
 (5) Kısa süreli hapis cezasına seçenek yaptırıma mahkumiyet halinde buna dair karar **adli sicil kaydı**nda yer alır.
 
@@ -64,6 +64,10 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 ###Adli Sicil Kaydı Ne Zaman Silinir? Nasıl Silinir?
 
 
+[**Adli Sicil Kanunu**](http://www.adlisicil.adalet.gov.tr/pdf/Kanun.pdf) **adli sicil kaydı**nın ne zaman ve nasıl silineceğini açıkça belirtmiş, uygulamada oluşan tereddütler de Yargıtay tarafından içtihatlar yoluyla giderilmiştir. Buna göre **adli sicil kaydı** şu şekillerde silinebilir: 
+
+
+
 1) Eğer ceza ve güvenlik tedbirinin infazı tamamlanmışsa **adli sicil kaydı** infazın tamamlanmasıyla kendiliğinden silinmelidir. İnfazın tamamlanmasından anlaşılması gereken, ceza hapis cezasıysa bihakkın tahliye tarihi veya denetim süresinin son bulduğu tarihtir. Ceza adli para cezası ise, adli para cezasının ödendiği tarih veya tazyik hapsine çevrilmişse cezaevinden çıkış tarihidir. Örneğin, 3 yıllık kesinleşen cezası için 01.01.2010 tarihinde cezaevine giren, denetimli serbestlik uygulamasından yararlanarak 01.01.2011 tarihinde tahliye edilen bir kişinin **adli sicil kaydı ( sabıka kaydı )** 01.01.2013 tarihinden sonraki gün silinebilir hale gelecektir.
 
 2) Ceza mahkûmiyetini bütün sonuçlarıyla ortadan kaldıran şikayetten vazgeçme veya etkin pişmanlık halinde **adli sicil kaydı** silinir.
@@ -71,6 +75,8 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 3) Ceza zamanaşımının dolması veya genel af veya kişinin ölümü halinde **adli sicil kaydı** silinir.
 
 ###Adli Sicil "Arşiv Kaydı" Ne Zaman Silinir?
+
+**Adli sicil kaydı** ile arşiv kaydı iki farklı kavramdır. Mahkumiyet hükümleri önce **adli sicil kaydı**na alınır, daha sonra belli koşulların gerçekleşmesi halinde, mahkumiyet hükmüne dair bilgiler silinerek arşiv kaydına alınır. Arşiv kaydı belli koşulların gerçekleşmesi halinde silinebilir:
 
 * Kural olarak hükümlüye ait **adli sicil kaydı** cezanın infaz edilmesinden sonra silinir, arşiv kaydına alınır. Arşiv kaydı ise 5 yıl sonra silinir. 
 
@@ -103,6 +109,5 @@ Adli sicil kaydınız silinmemiş ise bir **ceza avukatı**na danışınız. **A
 
 **Adli Sicil Kaydının silinmesi**ne dair dilekçeye şu linkten ulaşabilirsiniz: [Adli Sicil Kaydının Silinmesine İlişkin Dilekçe Örneği](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html). 
 
-Adli Sicil Kanunu'nun güncel tam metni için bakınız: [**ADLİ SİCİL KANUNU**](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5352.pdf)
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
