@@ -28,7 +28,7 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 
 (3) Hapis cezası ertelenmişse, cezanın ertelendiğine dair bilgi ile birlikte kişinin tabi bulunduğu denetim süresi de yer almalıdır.  Ayrıca denetim süresinin yükümlülükler uygun ve iyi halli olarak geçirilmesi halinde cezanın infaz edilmiş sayılacağı hususu da **adli sicil kaydı**na işlenir. Eğer ertelenen hapis cezası, denetim süresinin yükümlülüklerine uyulmadığı için cezanın infaz kurumunda çektirilmesine karar verilmişse bu karar da **adli sicil kaydı**na yazılır.
 
-(4) [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)mahkumiyet hükmü ile ilgili bilgiler de **adli sicil kaydı**na işlenir., adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu **adli sicil kaydı**na işlenir. 
+(4) [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) mahkumiyet hükmü ile ilgili bilgiler de **adli sicil kaydı**na işlenir. Adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu **adli sicil kaydı**na işlenir. 
 
 (5) Kısa süreli hapis cezasına seçenek yaptırıma mahkumiyet halinde buna dair karar **adli sicil kaydı**nda yer alır.
 
