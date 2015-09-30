@@ -14,7 +14,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 ##Özel Hayatın Gizliliğini İhlal Suçu Nedir?
 
 
-**Özel hayatın gizliliği,** insanın sosyal hayat içerisinde sağlıklı bir birey olarak varolması için korunan bir hukuki değerdir. **Özel hayatın gizliliğini ihlal suçu** ile de özel hayata müdahale girişimlerinden bireyin korunması amaçlanmıştır. **Özel hayatın gizliliğini ihlal suçu,** kişinin başkaları tarafından bilinmesini istemediği hayatının özel alanlarına girilmesini cezalandırarak bireye hukuki güvenlik sağlamaktadır.
+**Özel hayatın gizliliği,** insanın sosyal hayat içerisinde sağlıklı bir birey olarak varolması için korunan bir hukuki değerdir. **Özel hayatın gizliliğini ihlal suçu** ile özel hayata müdahale girişimlerinden bireyin korunması amaçlanmıştır. **Özel hayatın gizliliğini ihlal suçu,** kişinin başkaları tarafından bilinmesini istemediği hayatının özel alanlarına girilmesini cezalandırarak bireye hukuki güvenlik sağlar.
 
 ##Özel Hayatın Gizliliğini İhlal Suçunun Şartları (TCK md. 134)
 
@@ -38,7 +38,7 @@ Normal insanların özel hayatın gizliliği alanı daha genişken, tanınmış 
 
 Herhangi bir kişinin güneşlenirken sürekli izlenmesi, fotoğrafının çekilmesi **özel hayatın gizliliğini ihlal suçu**nu oluştururken, ünlü bir sanatçıya karşı aynı mahiyette bir fiil işlenmesi halinde **özel hayatın gizliliği** ihlal edilmiş olmaz.
 
-Siyasetçi, sanatçı, sporcu, kamu hizmeti sunan kişi vb. gibi her grubun kendine özgür bir **özel hayatın gizliliği** kapsamı vardır. Kim ne şekilde ve hangi ölçüde kamuoyu önündeyse o ölçüde **özel hayatının gizliliği** kapsamı değişecektir. Aynı grup içerisinde farklı katmanlarda yer alan kişilerin **özel hayatının gizliliği** kapsamı dahi farklıdır. Örneğin, bir partinin ilçe yöneticisi olarak siyaset yapan kişi ile aynı partide milletvekili olarak siyaset yapan kişi **özel hayatın gizliliğini ihlal suçu** bakımından farklı değerlendirme kriterlerine tabi tutulacaktır.
+Siyasetçi, sanatçı, sporcu, kamu hizmeti sunan kişi vb. gibi her grubun kendine özgü bir **özel hayatın gizliliği** kapsamı vardır. Kim ne şekilde ve hangi ölçüde kamuoyu önündeyse o ölçüde **özel hayatının gizliliği** kapsamı değişecektir. Aynı grup içerisinde farklı katmanlarda yer alan kişilerin **özel hayatının gizliliği** kapsamı dahi farklıdır. Örneğin, bir partinin ilçe yöneticisi olarak siyaset yapan kişi ile aynı partide milletvekili olarak siyaset yapan kişi **özel hayatın gizliliğini ihlal suçu** bakımından farklı değerlendirme kriterlerine tabi tutulacaktır.
 
 ###Özel Hayatın Gizliliğini İhlal Suçunun Ağır Şekli (TCK md. 134/2)
 
