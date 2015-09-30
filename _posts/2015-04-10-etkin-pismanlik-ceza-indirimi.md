@@ -107,10 +107,11 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Hakaret suçunda etkin pişmanlık** hükümlerinin uygulanabileceği bir kanun hükmü yoktur. Ancak bazı koşulların gerçekleşmesi halinde hakaret suçunda **ceza indirimi** almak mümkündür. Hakaret suçu, hakaret edilen kişinin haksız bir fiiline karşılık işlenmişse fail hakkında 1/3’üne kadar ceza indirimi yapılabileceği gibi olayın özelliğine göre faile hiçbir ceza verilmemesi de mümkündür.
 
-**Hakaret suçu,** hakarete uğrayan kişinin faile dönük kasten yaralama fiiline tepki olarak işlenmişse faile ceza verilmez.
+[**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), hakarete uğrayan kişinin faile karşı işlediği kasten yaralama fiiline tepki olarak işlenmişse faile ceza verilmez.
+
 **Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
-Hakaret Suçu ile ilgili daha ayrıntılı bilgi için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
+
 
 ####5-) Kişiyi Hürriyetinden Yoksun Kılma Suçunda Etkin Pişmanlık ve Ceza İndirimi (TCK md.110)
 
@@ -119,15 +120,14 @@ Hakaret Suçu ile ilgili daha ayrıntılı bilgi için bakınız: [**HAKARET SU�
 
 ####6-) Tehdit Suçunda, Şantaj Suçunda, Konut Dokunulmazlığını İhlal Suçunda Etkin Pişmanlık ve Ceza İndirimi
 
-Tehdit suçunda, şantaj suçunda ve konut dokunulmazlığını ihlal suçunda etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
+[**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
 
-Tehdit suçu ile ilgili ayrıntılar için bakınız: [**TEHDİT SUÇU ŞARTLARI VE CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)
 
 ###Ceza İndirimi ve Denetimli Serbestlik Uygulaması
 
-Ceza indirimi, maddi ceza hukukuna ilişkindir. Yani, etkin pişmanlık nedeniyle ceza indirimi mahkemenin verdiği kararda doğrudan ceza indirimi yapmasıyla ilgilidir. Denetimli serbestlik uygulaması ise cezanın infazı ile ilgilidir. Denetimli serbestlik, cezanın infazı aşamasında "iyi halli" hükümlüye sağlanan bir şartlı tahliye kurumudur.
+Ceza indirimi, maddi ceza hukukuna ilişkindir. Yani, etkin pişmanlık nedeniyle ceza indirimi mahkemenin verdiği kararda doğrudan ceza indirimi yapmasıyla ilgilidir.  [**Denetimli Serbestlik Yasası**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) ise cezanın infazı ile ilgilidir. Denetimli serbestlik, cezanın infazı aşamasında "iyi halli" hükümlüye sağlanan bir şartlı tahliye kurumudur.
 
-Denetimli Serbestlik Uygulaması ile ilgili ayrıntılar için bakınız: [**Denetimli Serbestlik Yasası**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+
 
 
 ###Etkin Pişmanlık Ceza İndiriminden Kaç Kez Yararlanılabilir? 
