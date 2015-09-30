@@ -10,7 +10,7 @@ keywords: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezas
 ##Adli Para Cezası Nedir? 
 
 
-TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez. İdari para cezası, kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür. İdari para cezası ayrıntılı bilgi için bakınız: [**İdari Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html)
+TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. İdari para cezası, suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez. [**İdari Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html), kabahat niteliğindeki fiiller için belirlenmiş bir yaptırım türüdür.  
 
 ![Adli Para Cezası](https://camo.githubusercontent.com/42bde062f8f2d9ad68663a755375f1932eb4dd07/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a34412e6a7067 "Adli Para Cezası")
 
@@ -46,14 +46,13 @@ Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama (
 
 ###Adli Para Cezası Ertelenir mi?
 
+[**Cezanın Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kurumu,
+sadece hapis cezaları için uygulanabilir. **Adli para cezasının ertelenmesi,** kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez. **Hapis cezasının paraya çevrilmesi** halinde, hapisten çevrilen bu para cezasının da ertelenmesi mümkün değildir. 
 
-**Adli para cezasının ertelenmesi,** kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında **erteleme** kararı verilemez. (TCK md.51 ) Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak **adli para cezası**na çevrilse bile ertelenmez. **Hapis cezasının paraya çevrilmesi** halinde, hapisten çevrilen bu para cezasının da ertelenmesi mümkün değildir.
-
-Hapis cezasının ertelenmesi koşullarını şu yazımızda inceleyebilirsiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
 
 ###Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
-Hükmün açıklanmasının geri bırakılması, yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. **Hükmün açıklanmasının geri bırakılması,** sanık için adli para cezasından çok daha avantajlı bir durumdur, uygulama şartlarına şu yazımızdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
+[**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. **Hükmün açıklanmasının geri bırakılması,** sanık için adli para cezasından çok daha avantajlı bir hukuki statü meydana getirir.
 
 TCK, bazı suçlara yukarıda açıkladığımız üzere **doğrudan adli para cezası** verilmesini öngörmüştür. Doğrudan adli para cezasına mahkumiyet halinde, adli para cezası verilmesi hakkındaki hükmün açıklanmasının geri bırakılmasına karar verilebilir. 
 
@@ -87,7 +86,7 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 Uygulamada koşullu salıverme ve adli para cezası ilişkisinin bilinmemesi nedeniyle hak kayıpları yaşanmaktadır. Bu konuyla ilgili mutlaka bir **ceza avukatı** ile görüş alışverişi yapılmalıdır.
 
-01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. **Denetimli serbestlik,** adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. Denetimli serbestlik kurumunun ayrıntıları için bakınız: [**Denetimli Serbestlik Nedir?**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. [**Denetimli Serbestlik**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. 
 
 ###Adli Para Cezası Taksitlendirme, Taksitle Ödeme Mümkün mü?
 
