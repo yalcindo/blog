@@ -50,7 +50,7 @@ TCK, aşağıdaki bazı suçlarda bu kurumun uygulanmasını düzenlemiştir:
 
 ####1-) Yağma Suçu (Gasp Suçu) Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-3)
 
-**Yağma suçu (Gasp suçu),** cebir ve tehditle işlenen bir suç olduğundan mağdurda büyük bir yıkım yaratır. Bu nedenle, olayın ortaya çıkarılması ve faillerin cezalandırılması için **etkin pişmanlık** hükümlerine yer verilmiştir. 
+[**Yağma suçu (Gasp suçu)**](http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), cebir ve tehditle işlenen bir suç olduğundan mağdurda büyük bir yıkım yaratır. Bu nedenle, olayın ortaya çıkarılması ve faillerin cezalandırılması için **etkin pişmanlık** hükümlerine yer verilmiştir. 
 
 **Yağma suçu**nu teşkil eden fiili işleyen kişinin, **mahkemede dava açılmadan önce** mağdurun zararını gidermesi veya suçu birlikte işlediği kişileri, azmettireni, yardım edeni açıklaması halinde yağma suçunda ½ oranına kadar indirim yapılır. Örneğin, yağma suçunun nitelikli şeklinde 10 yıl ceza alabilecek bir fail,  ½ oranında **etkin pişmanlık ceza indiriminden** ve takdiri indirimden yararlandığı takdirde toplamda 4 yıl 2 ay hapis cezası alacaktır.
 
@@ -60,7 +60,7 @@ Suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde c
 
 Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
 
-**Yağma suçu**nun unsurları ve cezası ile ilgili daha ayrıntılı açıklamalar için bakınız: [**Yağma Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html)
+
 
 ####2-) Mala Zarar Verme Suçu, Hırsızlık Suçu, Dolandırıcılık Suçu, Güveni Kötüye Kullanma Suçu Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-2)
 
