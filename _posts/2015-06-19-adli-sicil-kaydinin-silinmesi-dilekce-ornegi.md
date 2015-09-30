@@ -64,7 +64,7 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 ###Adli Sicil Kaydı Ne Zaman Silinir? Nasıl Silinir?
 
 
-[**Adli Sicil Kanunu**](http://www.adlisicil.adalet.gov.tr/pdf/Kanun.pdf) **adli sicil kaydı**nın ne zaman ve nasıl silineceğini açıkça belirtmiş, uygulamada oluşan tereddütler de Yargıtay tarafından içtihatlar yoluyla giderilmiştir. Buna göre **adli sicil kaydı** şu şekillerde silinebilir: 
+[**Adli Sicil Kanunu**](http://www.adlisicil.adalet.gov.tr/pdf/Kanun.pdf), **adli sicil kaydı**nın ne zaman ve nasıl silineceğini açıkça belirtmiş, uygulamada oluşan tereddütler de Yargıtay tarafından içtihatlar yoluyla giderilmiştir. Buna göre **adli sicil kaydı** şu şekillerde silinebilir: 
 
 
 
