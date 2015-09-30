@@ -46,15 +46,15 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 
 ##Haksız Tahrik ve Meşru Müdafaa İlişkisi
 
-**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. Mağdura yöneltilen fiilin meşru müdafaa amacıyla veya haksız tahrik altında yöneltilip yöneltilmediği faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
+**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. **Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) hali, failin cezalandırılmaması sonucunu doğurur. Mağdura karşı işlenen fiilin meşru müdafaa amacıyla mı yoksa haksız tahrik altında mı işlendiği, faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
 
-Meşru Müdafaa ile ilgili ayrıntılı yazımız iiçin bakınız: [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html)
+
 
 ##Haksız Tahrik Halinde Ceza İndirim Oranı
 
 **Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
-Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Hakaret suçu ile ilgili ayrıntılı yazı için bakınız: [**HAKARET SUÇU ve CEZASI**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html)
+Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. Kanun, [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) için haksız tahrik kurumunu özel bir şekilde düzenlemiştir.
 
 ##Haksız Tahrik İndirimi Yargıtay Kararları     
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
