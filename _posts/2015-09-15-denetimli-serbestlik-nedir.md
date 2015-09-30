@@ -44,7 +44,7 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 
 Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra **denetimli serbestlik yasası**ndan yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
-[***Açık Cezaevine Ayrılma Şartları***](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
+[**Açık Cezaevine Ayrılma Şartları**](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
 
 
 
@@ -98,7 +98,7 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 
 Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluluğu vardır. Hükümlü, 3 günlük sürenin bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler için de geçerlidir.
 
-Denetimli Serbestlik hükümlerinin nasıl uygulanacağı şu yönetmelikle düzenlenmiştir: [**DENETİMLİ SERBESTLİK YÖNETMELİĞİ**](http://www.resmigazete.gov.tr/eskiler/2013/03/20130305-7.htm)
+Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestlik Yönetmeliği**](http://www.resmigazete.gov.tr/eskiler/2013/03/20130305-7.htm) ile düzenlenmiştir.
 
 ###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
