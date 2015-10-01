@@ -143,7 +143,13 @@ Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dış
 
 * Taraflar arasında boşanma protokolü yapılmıştır. Boşanma protokolünde, "Tarafların mal istemi yoktur" şeklinde bir ibare vardır. Boşanma protokolünde yer alan "mal" kelimesi dar yorumlanamaz. Düzenlenen protokol mahkeme tarafından da onaylandığından davacının **boşanmada mal paylaşımı** talep etme hakkı yoktur (Hukuk Genel Kurulu - Esas: 2013/8-185 , Karar: 2013/1601, Karar Tarihi: 27.11.2013).
 
-* Davalı taraf eşinin kredi kartı borcunu ödediğini ileri sürmüştür. Eşinin kredi kartı borcunu ödemek için 3 bilezik, 500 TL ve 110 Euro bozdurarak eşine veren davalının bu hareketi hukuken bağışlama sayılır. Bu nedenle **boşanmada mal paylaşımı** yapılırken hesaplamada dikkate alınmaması gerekir (Yargıtay 8. Dairesi - Esas: 2011/4041, Karar: 2012/1841, Karar Tarihi: 15.03.2012)
+* Davalı taraf eşinin kredi kartı borcunu ödediğini ileri sürmüştür. Eşinin kredi kartı borcunu ödemek için 3 bilezik, 500 TL ve 110 Euro bozdurarak eşine veren davalının bu hareketi hukuken bağışlama sayılır. Bu nedenle **boşanmada mal paylaşımı** yapılırken hesaplamada dikkate alınmaması gerekir (Yargıtay 8. Dairesi - Esas: 2011/4041, Karar: 2012/1841, Karar Tarihi: 15.03.2012).
+
+
+* Katılma alacağı talep edebilmek için eşlerden birinin diğerinin mal elde etmesine katkı suması zorunlu değildir. Mahkeme, **boşanmada mal paylaşımı** konusu olan taşınmazın sürüm değerini esas alarak, önce eklenecek değerleri eklemeli (MK md. 229), daha sonra denkleştirme yapmalı (MK md. 230), mal nedeniyle elde edilen değerler de malın değerine eklenmeli (MK md. 219), malın bu şekilde bulunan toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (MK md. 231) yarısı üzerinden (MK md.236/1) dava kabul edilmelidir (Yargıtay 8. Dairesi - Esas: 2012/8516, , Karar: 2012/12142, Karar Tarihi: 11.12.2012 ).
+
+
+
   
   
   
