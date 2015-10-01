@@ -117,7 +117,7 @@ Evlilikten önce alınan taşınmazların kira geliri, evlilik içinde elde edil
 ###Eşimin Aldığı Taşınmaza/Otomobile Para Vererek Katkı Sundum, Yaptığım Katkının Değerini Boşanmada Mal Paylaşımı Sırasında Geri Alabilir miyim?
 
 
-Eşlerden biri diğer eşin üzerine kaydedilen herhangi bir taşınır veya taşınmaz malın alınmasını, tamir edilmesini, iyileştirilmesini veya herhangi bir suretle malın değer kazanmasını sağlayacak şekilde katkı sunmuşsa, diğer eşten sunduğu bu katkının güncel değerini **boşanmda mal paylaşımı** sırasında geri isteyebilir. Örnek vermek gerekirse 2005 yılında 100.000 TL'ye alınan bir taşınmaza bir eş 30.000 TL katkı sunmuşsa, 2015 yılında taşınmazın değerini 200.000 TL olarak kabul ettiğimizde katkıyı sunan eşin alacağının güncel bedeli yaklaşık olarak 60.000 TL olacaktır.
+Eşlerden biri diğer eşin üzerine kaydedilen herhangi bir taşınır veya taşınmaz malın alınmasını, tamir edilmesini, iyileştirilmesini veya herhangi bir suretle malın değer kazanmasını sağlayacak şekilde katkı sunmuşsa, diğer eşten sunduğu bu katkının güncel değerini **boşanmada mal paylaşımı** sırasında geri isteyebilir. Örnek vermek gerekirse 2005 yılında 100.000 TL'ye alınan bir taşınmaza bir eş 30.000 TL katkı sunmuşsa, 2015 yılında taşınmazın değerini 200.000 TL olarak kabul ettiğimizde katkıyı sunan eşin alacağının güncel bedeli yaklaşık olarak 60.000 TL olacaktır.
 
 
 ###Evlilik Sırasında %50 Dışında Bir Mal Paylaşımı Belirlemek Mümkün mü?
