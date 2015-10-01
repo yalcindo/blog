@@ -79,16 +79,16 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 
 Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı anda hırsızlık suçu yağma suçuna dönüşür. Fakat failin uyguladığı cebir ve tehdit, hırsızlık suçu tamamlanmadan işlenirse suç **yağma suçu**na dönüşür. Fail, mağdurun zilyetliğine son vererek mağdurun malını elinden aldıktan sonra mağdurun malı geri almak istemesi üzerine failin cebir ve tehdit uygulaması halinde artık yağma suçu oluşmaz. Fail, ilk eyleminden dolayı hırsızlık suçundan, mağdurun malı geri lamak istemesi üzerine cebir ve tehdit uuygulaması halinde ikinci eyleminden dolayı da fiilin niteliğine göre tehdit veya yaralama suçundan cezalandırılır. Örneğin, A şahsı B şahsına ait bilgisayarı dükkanından çalmış, B şahsı A'yı bir süre sonra caddede bilgisayarıyla giderken tesadüfen gmörmüş, A ise B'ye şiddet uygulayarak yaralamış, bilgisayarla kaçmış, birkaç saat sonra  şikayet üzerine yakalanmıştır. Bu olayda A'nın bilgisayarı alması şeklindeki ilk eylem hırsızlık suçunu, ikinci eylem ise yaralama suçunu oluşturur. Bu olayda **yağma suçu** hükümleri uygulanamaz. 
 
-Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç hırsızlık suçundan **yağma suçu**na dönüşür.
+Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç, hırsızlık suçundan **yağma suçu**na dönüşür.
 
 
 ##Yağma Suçunda Etkin Pişmanlık Halinde Ceza İndirimi
 ---
 
 
-**Etkin pişmanlık,** kişinin işlediği fiilden dolayı hiçbir baskı ve zorlama olmadan pişmanlık duyması ve ortaya çıkan haksızlığı telafi edecek davranışlar sergilemesidir.
+[**Etkin Pişmanlık**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), kişinin işlediği fiilden dolayı hiçbir baskı ve zorlama olmadan pişmanlık duyması ve ortaya çıkan haksızlığı telafi edecek davranışlar sergilemesidir.
 
-Etkin pişmanlık kavramının ayrıntıları için bakınız : [**Etkin Pişmanlık ve Ceza İndirimi**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html)
+
 
 **Yağma suçu**nda etkin pişmanlık mümkündür.  Etkin pişmanlık hükümlerinden yararlanmak isteyen kişi Suçu işleyen kişi, suç ortaklarını, azmettirenleri veya suça yardım edenlerin isimlerini verirse etkin pişmanlık hükümlerinden yararlanabilir. Mağdurun uğradığı zararın aynen iade veya tazmin suretiyle giderilmesi de etkin pişmanlık hükümlerinden yararlanmak için yeterlidir. **Gasp suçu**nda suç işlendikten sonra fakat dava açılmadan önce etkin pişmanlıkta bulunursa verilecek ceza yarısına kadar indirilebilir. Dava açıldıktan sonra fakat hüküm verilmeden önce etkin pişmanlıkta bulunulursa verilecek ceza 1/3’üne kadar indirilebilir. 
 
@@ -101,7 +101,7 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 
 ---
 
-* Fail konuta girerek nitelikli **yağma suçu** işlemiş ve mağduru da öldürmüştür. Faile hem nitelikli yağmma suçundan hem de konut dokunulmazlığını ihlal suçundan ceza verilmiştir. Konut dokunulmazlığını ihlal suçu **gasp suçu**nun nitelikli halinin unsurudur. Bu nedenle faile yalnızca nitelikli gasp suçundan ceza verilmesi gerekir, konut dokunulmazlığını ihlal suçundan fail ayrıca cezalandırılamaz (Yargıtay 1. Ceza Dairesi - Esas No: 2014/6186, Karar No: 2015/1738, Tarih: 24.3.2015).
+* Fail konuta girerek nitelikli **yağma suçu** işlemiş ve mağduru da öldürmüştür. Faile hem nitelikli yağma suçundan hem de konut dokunulmazlığını ihlal suçundan ceza verilmiştir. Konut dokunulmazlığını ihlal suçu **gasp suçu**nun nitelikli halinin unsurudur. Bu nedenle faile yalnızca nitelikli gasp suçundan ceza verilmesi gerekir, konut dokunulmazlığını ihlal suçundan fail ayrıca cezalandırılamaz (Yargıtay 1. Ceza Dairesi - Esas No: 2014/6186, Karar No: 2015/1738, Tarih: 24.3.2015).
 
 * Faile ait araç vergi borcu nedeniyle haczedilmiş ve trafik ekiplerince yakalanarak otoparka teslim edilmiştir. Fail kendisine ait aracın yedek anahtarıyla aracı çaılıştırmış, "ne olursa olsun kapıyı kırıp çıkacağım" diyerek otopark görevlisi mağdurun kapıyı açmasını sağlamıştır. Bu durumda TCK 290/2 maddesi yollamasıyla 149/1-d gereği failin nitelikli **yağma suçu** hükümleriyle cezalandırılması gerekir (Yargıtay 6. Ceza Dairesi - Esas No: 2012/20739, Karar No: 2015/38014, Tarih: 4.3.2015).
 
