@@ -133,5 +133,38 @@ Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dış
 
 Özellikle belirtmek gerekir ki, **boşanmada mal paylaşımı davası** açılırken mutlaka belirsiz alacak davası olarak açılmalıdır. 
 
+###Boşanmada Mal Paylaşımı Yargıtay Kararları     
+![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Boşanmada Mal Paylaşımı Yargıtay Kararları")
+
+* Kural olarak taraflar arasında geçerli olan mal rejimi MK md. 225 gereği boşanma davasının açılmasıyla sona erer. **Boşanmada mal paylaşımı** nedenine dayalı alacak hakkı da boşanma dava tarihi itibariyle doğar. Ancak **boşanmada mal paylaşımı** davası, boşanma davasının sonucunu beklemelidir. Boşanma davası bekeletici mesele yapılarak, her iki davanın delilleri bir arada değerlendirilerek sonuca gidilmelidir (Yargıtay 8. Dairesi - Esas: 2013/23669, Karar: 2014/3820, Karar Tarihi: 10.03.2014)
+
+
+* Katkı payı alacağının istenebilmesi için eşler arasındaki evliliğin sona ermesi gerekir. Halihazırda açılmış olan boşanma davasının sonucu beklenerek, evlilik birliği boşanma ile sona erdiğinde, **boşanmada mal paylaşımı** davasına devam edilerek bir karar verilmelidir (Hukuk Genel Kurulu - Esas: 2012/8-268, Karar: 2012/420, Karar Tarihi: 27.06.2012).
+
+* Taraflar arasında boşanma protokolü yapılmıştır. Boşanma protokolünde, "Tarafların mal istemi yoktur" şeklinde bir ibare vardır. Boşanma protokolünde yer alan "mal" kelimesi dar yorumlanamaz. Düzenlenen protokol mahkeme tarafından da onaylandığından davacının **boşanmada mal paylaşımı** talep etme hakkı yoktur (Hukuk Genel Kurulu - Esas: 2013/8-185 , Karar: 2013/1601, Karar Tarihi: 27.11.2013).
+
+* Davalı taraf eşinin kredi kartı borcunu ödediğini ileri sürmüştür. Eşinin kredi kartı borcunu ödemek için 3 bilezik, 500 TL ve 110 Euro bozdurarak eşine veren davalının bu hareketi hukuken bağışlama sayılır. Bu nedenle **boşanmada mal paylaşımı** yapılırken hesaplamada dikkate alınmaması gerekir (Yargıtay 8. Dairesi - Esas: 2011/4041, Karar: 2012/1841, Karar Tarihi: 15.03.2012)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
 
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
