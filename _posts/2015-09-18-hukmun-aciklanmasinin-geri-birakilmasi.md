@@ -81,14 +81,20 @@ Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özellikl
 Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını kabul etmediğini beyan ederse yargıç, **hükmün açıklanmasının geri bırakılması**na karar veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
 
 
-###Hükmün Açıklanmasının Geri Bırakılması ve Denetim Süresi İçinde Yeni Suç İşlenmesi
+###Hükmün Açıklanmasının Geri Bırakılması ve Denetim Süresi İçinde Yeniden Suç İşlenmesi
 
 
 **Hükmün açıklanmasının geri bırakılması** halinde sanık 5 yıl süreyle denetime tabi tutulur. 18 yaşından küçük çocuklar için denetim süresi 3 yıldır. Sanığın bu denetim süresi içinde kasten bir suç işleyip işlememesine göre iki sonuç ortaya çıkar: 
 
 * Sanık denetim süresi içinde kasten bir suç işlemezse ve yargıcın belirlediği diğer yükümlülüklere uygun hareket ederse açıklanması geri bırakılan hüküm ortadan kaldırılarak davanın düşmesine karar verilir. Dava düştükten sonra kişi davadan önceki hukuki durumuna geri döner.
 
-* Sanık, denetim süresi içinde bir suç işlerse veya hakimin belirlediği yükümlülüklere aykırı hareket ederse açıklanması geri bırakılan hüküm mahkeme tarafından açıklanır. Ancak, mahkeme **denetim süresi** içinde suç işlemediği halde hakimin belirlediği yükümlülükleri yerine getirmeyen sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü kurabilir.
+* Sanık, denetim süresi içinde kasıtlı bir suç işler veya hakimin belirlediği yükümlülüklere aykırı hareket ederse açıklanması geri bırakılan hüküm mahkeme tarafından açıklanır.
+
+
+Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında açıklanması geri bırakılan hüküm aynen açıklanır. Suç işleyen sanık hakkında daha önce verilene ceza seçenek yaptırımlara çevrilemez, ertelenemez.
+
+
+**Denetim süresi** içinde suç işlemediği halde hakimin belirlediği denetimli serbestlik yükümlülüklerini yerine getirmeyen sanık hakkındaki hükmün de açıklanmasına karar verilir. Ancak, bu durumda hükmü açıklayan mahkeme sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa suç işlemeyen ancak yükümlülüklere aykırı davranan sanık aleyhine hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü de kurabilir. 
 
 **Denetim süresi içinde yeni suç işlenmesi** halinde, işlendiği iddia edilen ikinci suçun mahkumiyetle kesinleşmesinden sonra işlenen ilk suç nedeniyle verilen **HAGB** kararı açıklanabilir. Nitekim, Yargıtay işlendiği iddia edilen ikinci suç kesinleşmediği halde, birinci suç nedeniyle verilen **HAGB** kararının açıklanmasını hukuka aykırı bulmuştur (Yargıtay Ceza Genel Kurulu - 2008/25 karar, Yargıtay 15. Ceza Dairesi- 2012/45113 karar). 
 
@@ -126,13 +132,15 @@ Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [
 ##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları     
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
 
+* Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar)
+ 
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
 * **Hükmün açıklanmasının geri bırakılması** kararına karşı temyiz yolu kapalı olup bu kararlara ancak itiraz edilebilir. Fakat, sanığın temyiz dilekçesi itiraz dilekçesi olarak kabul edilmeli ve itirazı incelemeye yetkili mahkemeye gönderilmelidir (Yargıtay 15. Ceza Dairesi - 2014/16494 karar).
 
-* Somut olayda hükümlü denetim süresi içerisinde kasıtlı bir suç işlediğinden hükmün açıklanmasına karar verilmiştir. Açıklanması geri bırakılan hüküm açıklanırken hüküm fıkrası değiştirilemez. Ancak, hüküm açıklandıktan sonra hakim cezanın yarısına kadar olan kısmının infaz edilmemesine veya cezanın ertelenmesine veya adli para cezasına çevrilmesine karar verebilir (Yargıtay 13. Ceza Dairesi - 2014/27800 kararı).
+* Somut olayda hükümlü denetim süresi içerisinde yükümlülüklere aykırı davrandığından hükmün açıklanmasına karar verilmiştir. Açıklanması geri bırakılan hüküm açıklanırken hüküm fıkrası değiştirilemez. Ancak, hüküm açıklandıktan sonra hakim cezanın yarısına kadar olan kısmının infaz edilmemesine veya cezanın ertelenmesine veya adli para cezasına çevrilmesine karar verebilir (Yargıtay 13. Ceza Dairesi - 2014/27800 kararı).
 
-* Sanık yararına 62. madde gereği 1/6 indirim yapılırken ve TCK 51. madde gereği erteleme kararı verilirken sanık hakkında mahkemenin olumlu düşünceleri esas alınmış, aynı kararda **hükmün açıklanmasının geri bırakılması** kararı verilmemesinin gerekçesi olarak sanığın olumsuz davaranışları gösterilmiştir. Mahkeme, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesine yol açan olumsuz davranışın ne olduğunu açık açık göstermelidir (Yargıtay 11. Ceza Dairesi - 2014/15637 karar).
+* Sanık yararına 62. madde gereği 1/6 indirim yapılırken ve TCK 51. madde gereği erteleme kararı verilirken sanık hakkında mahkemenin olumlu düşünceleri esas alınmış, aynı kararda **hükmün açıklanmasının geri bırakılması** kararı verilmemesinin gerekçesi olarak sanığın olumsuz davranışları gösterilmiştir. Mahkeme, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesine yol açan olumsuz davranışın ne olduğunu açık açık göstermelidir (Yargıtay 11. Ceza Dairesi - 2014/15637 karar).
 
 * Tehdit ve hakaret suçunun somut olarak meydana getirdiği maddi bir zarar somut olayda mevcut değildir. Bu nedenle sanıktan zararın giderilmesini istemek mümkün değildir. **Hükmün açıklanmasının geri bırakılması**na karar verilmelidir (Yargıtay 5. Ceza Dairesi -  2014/8473).
 
