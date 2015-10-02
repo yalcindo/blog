@@ -80,22 +80,21 @@ TCK md. 129/3’e göre hakaret suçunun iki kişi tarafından karşılıklı i�
 
 ###Hakaret Suçunun Haksız Fiile Bir Tepki Olarak İşlenmesi
 
+[**Haksız Tahrik**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html), genel bir ceza indirimi nedenidir.     
+
+
 TCK md. 129/1’e göre, hakaret suçunun bir haksız fiile tepki olarak işlenmesi halinde faile ceza verilmeyebilir veya cezası 1/3’üne indirilebilir. Örneğin, bahçesindeki ağaçlara zarar veren kişiye hakaret eden bahçe sahibi kendisine karşı işlenen bir haksız fiile tepki olarak **hakaret suçu** işlemiştir.
 
 TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenmesi halinde faile ceza verilmez. Örneğin, yüzüne tokat atarak burnun kanamasına neden olan kişiye hakaret edilmesi halinde faile ceza verilemez.
 
 Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şekilde düzenlenmiştir. 
 
-Haksız tahrik kavramı için bakınız: [**Ceza Hukukunda Haksız Tahrik**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
-
-
-
 ###Hakaret Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
-Hükmün açıklanmasının geri bırakılması (HAGB), sanığın 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, sanığın bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
+[**Hükmün Açıklanmasının Geri Bırakılması (HAGB)**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanığın 5 yıl gözlenmesi ve sanık hakkında verilen hükmün bu süre boyunca hiçbir sonuç doğurmaması, sanığın bu sürede yeni bir suç işlememesi halinde hakkındaki davanın düşmesi olarak açıklanabilir.
+
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
-Hükmün Açıklanmasının Geri Bırakılması ile ilgili ayrıntılı bilgi için bakınız: [**HÜKMÜN AÇIKLANMASININ GERİ BIRAKILMASI**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
 
 ###Hakaret Suçu ve Şikayet Süresi 
 
