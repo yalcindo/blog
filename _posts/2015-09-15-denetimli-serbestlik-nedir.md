@@ -107,6 +107,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 ###8. Denetimli Serbestlik Yasası Yargıtay Kararları      
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
 ---
+
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
 * Hükümlü **denetimli serbestlik yasası** ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün **denetimli serbestlik yasası** uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
