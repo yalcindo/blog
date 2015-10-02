@@ -123,7 +123,7 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
 
-**Hükmün açıklanmasının geri bırakılması kararı,** **[**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) (Sabıka Kaydı)**, kayıtlarında görünmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
+**Hükmün açıklanmasının geri bırakılması kararı,** [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) **(Sabıka Kaydı)** kayıtlarında görünmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
 
 
 
