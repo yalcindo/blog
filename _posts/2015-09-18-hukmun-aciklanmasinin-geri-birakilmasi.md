@@ -39,10 +39,8 @@ Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise
 
 ####(c)	Hükmün Açıklanmasının Geri Bırakılması ve Adli Para Cezası 
 
-
+[**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html), doğrudan verilebileceği gibi hapis cezasından da çevrilebilen bir ceza yaptırımıdır.
 Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**na hükmetmişse bu para cezası hakkında da **hükmün açıklanmasının geri bırakılması kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir **adli para cezası** olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme **adli para cezası** vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **hükmün açıklanmasının geri bırakılması**na karar verilemez.
-
-Adli para cezası ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
 ###2.	HAGB Kararı için Sanığa Dair Şartlar
 
