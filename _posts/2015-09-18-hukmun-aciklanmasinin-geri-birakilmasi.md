@@ -116,16 +116,16 @@ Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında aç
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı mı Hapis Cezasının Ertelenmesi Kararı mı Sanık Lehinedir?
 
-**Hapis cezasının ertelenmesi** kararında mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle **hapis cezasının ertelenmesi** halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **hükmün açıklanmasının geri bırakılması**na karar verilmişse milletvekili olması önünde hiçbir engel yoktur. 
+[**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html), kurumunda mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle **hapis cezasının ertelenmesi** halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **hükmün açıklanmasının geri bırakılması**na karar verilmişse milletvekili olması önünde hiçbir engel yoktur. 
 
-Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz: [**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html)
+Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz.
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
 
-**Hükmün açıklanmasının geri bırakılması kararı,** **adli sicil kaydına (sabıka kaydına)** işlenmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
+**Hükmün açıklanmasının geri bırakılması kararı,** **[**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) (Sabıka Kaydı)**, kayıtlarında görünmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan **sabıka kaydı**nda veya adliyeden alınan **adli sicil kaydı**nda **hükmün açıklanmasının geri bırakılması**na dair karar gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir. 
 
-Adli Sicil Kaydı ile ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+
 
 ##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları     
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
