@@ -44,7 +44,7 @@ Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da ta
 
 **Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir: 
 
-a-	####Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
+####a-	Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
 
 
 **Görevi kötüye kullanma,** herhangi bir kişiye zarar verebilir. Zarar gören kişi, gerçek bir kişi olabileceği gibi tüzel bir kişi de olabilir. Suçun mağduru bir vatandaş da olabilir, bir şirket, vakıf veya dernek de olabilir. 
@@ -53,12 +53,12 @@ a-	####Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
 Fiil nedeniyle herhangi bir kişinin mağduriyetine neden olunmuşsa **görevi kötüye kullanma suçu** oluşur. Mağduriyet, sadece ekonomik zararı ifade etmez.  Kişinin ekonomik, sosyal, siyasi ve medeni her türlü şahsi haklarının ihlal edilmesi mağduriyet kavramı içerisinde değerlendirilir.
 
 
-b-	Kamunun Zararına Sebebiyet Verme Nedeniyle Görevi Kötüye Kullanma Suçu
+####b-	Kamunun Zararına Sebebiyet Verme Nedeniyle Görevi Kötüye Kullanma Suçu
 
  Kamu zararı kavramı, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu’nun 71. maddesinde tanımlanmıştır. Hakim her somut olayda kamu zararının meydana gelip gelmediğini araştırmalıdır. Kamu zararı miktarının kesin olarak tespit edilmesi gerekmez, miktar kesin olarak saptanamasa da işin veya hizmetin mahiyeti dikkate alınarak piyasa rayicinin üstünde veya altında bir alım-satım yapılıp yapılmadığı tespit edilmelidir. Yapılan tespit sonucunda kamunun zarara uğraması ile **görevi kötüye kullanma** fiili arasında açık bir ilişki varsa fail cezalandırılmalıdır.
 
 
-c-	Kişilere Haksız Bir Menfaat Sağlayarak Görevi kötüye Kullanma Suçu
+####c-	Kişilere Haksız Bir Menfaat Sağlayarak Görevi kötüye Kullanma Suçu
 
 TCK'nın 257. maddesine, 08.12.2010 gün ve 6086 sayılı kanunla “haksız kazanç” ibaresinin yerine “haksız menfaat” ibaresi eklenmiştir. Haksız menfaat kavramı, haksız kazanç kavramından daha geniş bir kavramdır. Haksız menfaat, haksız kazancı da kapsar bir şekilde kişilere hukuka aykırı bir şekilde maddi veya manevi kişisel yarar temin edilmesi anlamına gelir. **Görevi kötüye kullanma** fiili sonucunda herhangi bir kişiye haksız menfaat temin edilmişse suç tamamlanmış olur.
 
