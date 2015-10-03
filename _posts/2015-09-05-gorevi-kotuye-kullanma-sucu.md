@@ -20,7 +20,9 @@ keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası,
 
 Mevcut TCK’nın 257. maddesi **görevi ihmal suçu** ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. **Görevi ihmal suçu,** ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir. 
 
+
 ![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
+
 
 ##Görevi Kötüye Kullanma Suçunun Şartları
 
