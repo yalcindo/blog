@@ -40,7 +40,7 @@ Kamu görevinin gereklerine aykırı her türlü fiilin cezai yaptırımla karş
 
 Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da taksirle değil, kasten işlenen bir suçtur.
 
-###3- Görevi Kötüye Kullanma Suçu İçin Kamu Zararı Oluşmalıdır
+###3- Görevi Kötüye Kullanma Suçu Nedeniyle Bir Zarar Oluşmalıdır
 
 **Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir: 
 
