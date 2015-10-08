@@ -102,4 +102,8 @@ HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zar
 
 **Hakaret suçu**nun nitelikli halleri şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
+###Cumhurbaşkanına Hakaret Suçu ve Tutuklama
+
+Cumhurbaşkanına yapılan hakaret suçu ile diğer kamu görevlilerine yapılan hakaret suçu arasında ceza miktarı açısından bir farklılık yoktur. Ama özellikle son dönemlerde Cumhurbaşkanına hakaret suçundan tutuklama kararları verilmektedir. Bu şekilde verilen tutuklama kararları usule aykırıdır. Örneğin, en son attığı tweetler nedeniyle basın savcısı tarafından tutuklama istenen Today's Zaman Gazetesi Genel Yayın Yönetmeni Bülent Keneş hakkındaki uygulamanın hiçbir yasal dayanağı yoktur. Hakaret suçu nedeniyle verilmesi beklenen ceza dikkate alındığında tutuklama istemi orantısız bir istemdir.
+
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
