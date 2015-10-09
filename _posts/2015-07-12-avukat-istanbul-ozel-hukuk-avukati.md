@@ -8,7 +8,7 @@ keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazmin
 ---
 ## Avukat ve Avukatın  Özel Hukuktaki İşlevi
 
-**Avukat,** ister **ceza avukatı** olsun isterse özel hukuk alanında çalışan bir **avukat** olsun temelde işlevi savunma yapmaktır. **Ceza avukatı** nasıl hem mağdurun hem de sanığın haklarını savunuyorsa, bir **tazminat avukatı** da borçlunun veya alacaklının haklarını savunur. 
+**Avukat,** ister **ceza avukatı** olsun isterse özel hukuk alanında çalışan bir **avukat** olsun temelde işlevi savunma yapmaktır. [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) nasıl hem mağdurun hem de sanığın haklarını savunuyorsa, bir **tazminat avukatı** da borçlunun veya alacaklının haklarını savunur. 
 
 Özel hukuk içindeki her alanın kendine özgü bir avukatlık pratiği vardır.  Örneğin, **boşanma avukatı** olarak çalışan avukatlar, aile hukukunun kendine özgü süreçlere sahip olduğunu tarafların birbirini yıpratan bu süreç içerisinde zaman zaman kavga ettiğini, tedbir niteliğinde bazı önlemler alınarak bu sürecin kolaylaştırılması gerektiğini bilirler. **Gayrimenkul avukatı** olarak bilinen avukatlar, gayrimenkule ilişkin davaların birçok faktör nedeniyle uzun süreceğini dava sürecinde çıkan problemlerin aşama aşama çözülerek sonuca gidilmesi gerektiğini bilirler. 
 
