@@ -7,6 +7,7 @@ summary: Kamuoyunda iç güvenlik paketi olarak bilinen "Polis Vazife Salahiyet 
 ---
 
 ---
+
 ##İç Güvenlik Kanunu Nedir
 
 Kamuoyunda **İç Güvenlik Paketi** olarak bilinen kanun tasarısının tam adı *“Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun”* şeklindedir. Kanun tasarısının ilk kelimesinden anlaşılacağı üzere kanunun, toplumda hukuk egemenliğini arttırmak yerine “polis” etkisini arttırarak kamu düzenini sağlamaya çalıştığı görülüyor.
