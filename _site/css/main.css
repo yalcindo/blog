@@ -52,7 +52,7 @@ pre code {
 }
 
 a {
-/*	
+/*
 	color: rgba(80, 160, 228);
 	font-size: 100%;*/
 	color: #1C9CBA;
@@ -162,7 +162,7 @@ h1 {
 }
 
 #posts ul {
-	list-style:none; 
+	list-style:none;
 	margin: auto;
 	padding: 0px;
 }
@@ -256,7 +256,7 @@ background: beige;
 width: 75%;
 float: left;
 padding-left: 3%;
- border-left: 1px dashed #ddd; 
+ border-left: 1px dashed #ddd;
 font-size: 1.15em;
 overflow: hidden;
 /*background: none repeat scroll 0% 0% #FFF;
@@ -285,7 +285,28 @@ blockquote{
 }
 
 .tag { background-color: #008080}
-
+/*********** PRINTING ***********/
+@media print{
+	#side-bar{
+		display:none;
+	}
+	#page{
+		width:100%;
+		padding:0;
+		border:none;
+		border-left:none;
+		margin:0px;
+	}
+	#disqus_thread{
+		display: none;
+	}
+	#fb-root{
+		display:none;
+	}
+	img {
+		display:none;
+	}
+}
 
 /****** Media Queries For Adaptive Layouts******/
 
@@ -313,7 +334,7 @@ blockquote{
 }
 
 /* Tables - Landscape */
-@media 
+@media
 only screen and (max-device-width:1024px),
 only screen and (max-width: 1024px) {
 
@@ -324,7 +345,7 @@ only screen and (max-width: 1024px) {
 }
 
 /* Tables - Verticle */
-@media 
+@media
 only screen and (max-device-width:768px),
 only screen and (max-width: 768px) {
 
@@ -334,7 +355,7 @@ only screen and (max-width: 768px) {
 }
 
 /* Smart Phone */
-@media 
+@media
 only screen and (max-device-width:600px),
 only screen and (max-width: 600px) {
 
@@ -373,4 +394,3 @@ only screen and (max-width: 600px) {
 		width: 100%;
 	}
 }
-
