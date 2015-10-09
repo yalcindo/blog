@@ -20,9 +20,9 @@ ________________________________________________________________________________
 
 
 
-****ÖRNEKTİR :****
+***ÖRNEKTİR :***
 
-****ADLİ PARA CEZASI ÖDEME EMRİ****
+***ADLİ PARA CEZASI ÖDEME EMRİ***
 
 ÖDEME EMRİNİ ÇIKARAN  CUMHURİYET BAŞSAVCILIĞI    : 
 
