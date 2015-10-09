@@ -38,11 +38,11 @@ Hukuken 18 yaşından küçük herkes çocuk olarak kabul edilmektedir. Çocuk h
 
 ###3. CMK Uygulama Servisi
 
-CMK Uygulama Servisi, **İstanbul** Barosu’nun en etkili servisidir. Servis bünyesindeki çok sayıda **avukat** ile ceza soruşturma ve kovuşturmalarında **avukat*** tutma gücü olmayanlara ücretsiz **avukat** yardımı sağlamaktadır.
+CMK Uygulama Servisi, **İstanbul** Barosu’nun en etkili servisidir. Servis bünyesindeki çok sayıda **avukat** ile ceza soruşturma ve kovuşturmalarında **avukat** tutma gücü olmayanlara ücretsiz **avukat** yardımı sağlamaktadır.
 
 **İstanbul avukat** sayısının yüksek olduğu bir kent olsa da insanların bazen özel **avukat** tutmak için gücü bulunmayabilir. Bu hallerde İstanbul Barosu’na başvurulması halinde CMK Uygulama Servisi’nden **avukat** görevlendirilmektedir.
 
-Bu servis ceza soruşturma ve kovuşturmalarını takip eden avukatlardan oluştuğu için bu servis de görev alanların **ceza avukatı** olduğunu söyleyebiliriz. Fakat Türkiye’de **ceza avukatı** adı altında ayrı bir avukatlık alanı yoktur.
+Bu servis ceza soruşturma ve kovuşturmalarını takip eden avukatlardan oluştuğu için bu servis de görev alanların **ceza avukatı** olduğunu söyleyebiliriz. Fakat, Türkiye’de [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) adı altında ayrı bir avukatlık alanı yoktur.
 
 İstanbul Barosu CMK Uygulama Servisi’ne **avukat** tutmak isteyen kişinin kendisi bizzat başvurabileceği gibi 1. derecede bir yakını da servise başvurarak **avukat** talebinde bulunabilir. Kişi gözaltındaysa kendisini gözaltına alan birim aracılığıyla CMK servisinden    **avukat** talebinde bulunabilir. Kişi tutuklu ise tutuklu bulunduğu cezaevinde veya mahkeme vasıtasıyla İstanbul Barosu CMK Uygulama Servisi’nden **avukat** talebinde bulunabilir.
 
