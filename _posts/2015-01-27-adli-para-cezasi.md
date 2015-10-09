@@ -44,6 +44,8 @@ Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (traf
 
 Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama (örneğin, 2 ay veya 4 ay hapis cezası), tehdit, cebir, şantaj, hakaret, kişisel verilerin kaydedilmesi suçu, özel hayatın gizliliğini ihlal suçu, hırsızlık (örneğin, 10 ay hapis cezası), mala zarar verme, güveni kötüye kullanma, bedelsiz senedi kullanma, dolandırıcılık, suç eşyasının satın alınması veya kabul edilmesi, çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, mühür bozma veya fekki, özel belgede sahtecilik, açığa imzanın kötüye kullanılması, bilişim suçları, görevi kötüye kullanma, görevi yaptırmamak için direnme, iftira, suç üstlenme, suç uydurma, yalan tanıklık, suç delillerini yok etme, gizleme veya değiştirme, ses veya görüntülerin kayda alınması (örneğin 8 ay hapis cezası). 
 
+Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına göre adli para cezasına çevrilip çevrilmeyeceğini bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa ediniz.
+
 ###Adli Para Cezası Ertelenir mi?
 
 [**Cezanın Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kurumu,
