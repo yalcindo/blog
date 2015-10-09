@@ -44,7 +44,7 @@ TCK, yargılanan kişinin suç teşkil eden fiil hakkında yaptığı açıklama
 
 ###Etkin Pişmanlık Hangi Suçlarda Uygulanır? Ceza İndirimi Hangi Suçlarda Geçerlidir?
 
-Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamayan faillerin yakalanarak cezalandırılması hem de bilgiyi verenin kısmi olarak affedilmesini sağlayan bir ceza hukuku enstrümanıdır. TCK'da çok sayıda suç için **etkin pişmanlık** nedeniyle **ceza indirimi** öngörülmüştür. Her suç için bir **ceza avukatı** tarafından ayrı ayrı değerlendirme yapılması en sağlıklı yöntem olacaktır. Biz, etkin pişmanlık açısından önemli bulduğumuz suçlara bu makalemizde yer verdik.
+Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamayan faillerin yakalanarak cezalandırılması hem de bilgiyi verenin kısmi olarak affedilmesini sağlayan bir ceza hukuku enstrümanıdır. TCK'da çok sayıda suç için **etkin pişmanlık** nedeniyle **ceza indirimi** öngörülmüştür. Her suç için bir **ceza avukatı** tarafından ayrı ayrı değerlendirme yapılması en sağlıklı yöntem olacaktır. Bu makalemizde etkin pişmanlık açısından önemli bulduğumuz suçlara yer verdiğimizden, makalede analiz edilmemiş diğer suç tipleri için bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşünüz.
 
 TCK, aşağıdaki bazı suçlarda bu kurumun uygulanmasını düzenlemiştir:
 
