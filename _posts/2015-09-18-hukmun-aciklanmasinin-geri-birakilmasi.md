@@ -76,7 +76,7 @@ Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özellikl
 
 ####(d)	Sanığın Hükmün Açıklanmasının Geri Bırakılmasını Kabul Etmediğine Dair Beyanının Olmaması
 
-Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını kabul etmediğini beyan ederse yargıç, **hükmün açıklanmasının geri bırakılması**na karar veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
+Sanık, **hükmün açıklanmasının geri bırakılması** kararını kabul etmediğini beyan ederse yargıç, **HAGB** kararı veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması ve Denetim Süresi İçinde Yeniden Suç İşlenmesi
@@ -92,7 +92,7 @@ Sanık, **hükmün açıklanmasının geri bırakılması (HAGB)** kararını ka
 Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında açıklanması geri bırakılan hüküm aynen açıklanır. Suç işleyen sanık hakkında daha önce verilene ceza seçenek yaptırımlara çevrilemez, ertelenemez.
 
 
-**Denetim süresi** içinde suç işlemediği halde hakimin belirlediği denetimli serbestlik yükümlülüklerini yerine getirmeyen sanık hakkındaki hükmün de açıklanmasına karar verilir. Ancak, bu durumda hükmü açıklayan mahkeme sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa suç işlemeyen ancak yükümlülüklere aykırı davranan sanık aleyhine hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü de kurabilir. 
+Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli serbestlik yükümlülüklerini yerine getirmeyen sanık hakkındaki hükmün de açıklanmasına karar verilir. Ancak, bu durumda hükmü açıklayan mahkeme sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa suç işlemeyen ancak yükümlülüklere aykırı davranan sanık aleyhine hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü de kurabilir. 
 
 **Denetim süresi içinde yeni suç işlenmesi** halinde, işlendiği iddia edilen ikinci suçun mahkumiyetle kesinleşmesinden sonra işlenen ilk suç nedeniyle verilen **HAGB** kararı açıklanabilir. Nitekim, Yargıtay işlendiği iddia edilen ikinci suç kesinleşmediği halde, birinci suç nedeniyle verilen **HAGB** kararının açıklanmasını hukuka aykırı bulmuştur (Yargıtay Ceza Genel Kurulu - 2008/25 karar, Yargıtay 15. Ceza Dairesi- 2012/45113 karar). 
 
@@ -102,7 +102,7 @@ Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında aç
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
 
 
-**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye **dilekçe** verilerek HAGB kararına **itiraz** edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan **itiraz** İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan **itiraz**  İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
+**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
 
 **Hükmün açıklanmasının geri bırakılmasına itiraz,** henüz etkin bir kanun yoluna dönüşmüş değildir. Yapılan itirazlar dosya üzerinden incelenerek karar verilmektedir.
 
@@ -111,12 +111,12 @@ Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında aç
 
 ![HAGB ve Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "HAGB ve Memurluk")
 
-**Hükmün açıklanmasınının geri bırakılması kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
+**HAGB kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı mı Hapis Cezasının Ertelenmesi Kararı mı Sanık Lehinedir?
 
-[**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html), kurumunda mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle **hapis cezasının ertelenmesi** halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **hükmün açıklanmasının geri bırakılması**na karar verilmişse milletvekili olması önünde hiçbir engel yoktur. 
+[**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html), kurumunda mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle **hapis cezasının ertelenmesi** halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **HAGB** kararı verilmişse milletvekili olması önünde hiçbir engel yoktur. 
 
 Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz.
 
@@ -132,7 +132,7 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 * Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar)
  
-* Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **hükmün açıklanmasının geri bırakılması (HAGB)** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
+* Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **HAGB** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
 * **Hükmün açıklanmasının geri bırakılması** kararına karşı temyiz yolu kapalı olup bu kararlara ancak itiraz edilebilir. Fakat, sanığın temyiz dilekçesi itiraz dilekçesi olarak kabul edilmeli ve itirazı incelemeye yetkili mahkemeye gönderilmelidir (Yargıtay 15. Ceza Dairesi - 2014/16494 karar).
 
@@ -146,11 +146,11 @@ Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşün�
 
 ##Hükmün Açıklanmasının Geri Bırakılmasının Avantajları
 
-* **Hükmün açıklanmasının geri bırakılması** kararıyla ortada bir mahkumiyet hükmü olmadığı için kişi masumiyet karinesinden yararlanmaya devam eder. Bu nedenle **HAGB** kararı, kişinin hayatına hiçbir şekilde olumsuz etkide bulunmaz.
+* **HAGB** kararıyla ortada bir mahkumiyet hükmü olmadığı için kişi masumiyet karinesinden yararlanmaya devam eder. Bu nedenle **HAGB** kararı, kişinin hayatına hiçbir şekilde olumsuz etkide bulunmaz.
 
-* **Hükmün açıklanmasının geri bırakılması** kararı adli sicil kaydında özel bir bölüme kaydedildiğinden normal sabıka kaydında gözükmez.
+* **HAGB** kararı adli sicil kaydında özel bir bölüme kaydedildiğinden normal sabıka kaydında gözükmez.
 
-* **Hükmün açıklanmasının geri bırakılması** kararı ileride suç işlenmesi nedeniyle açıklanır, **HAGB** kararı açıklandığından kişinin kararı temyiz hakkı mevcuttur. Yani, kararın Yargıtay'da bozulması için kişiye yeni bir şans tanınır.
+* **HAGB** kararı ileride suç işlenmesi nedeniyle açıklanır, **HAGB** kararı açıklandığından kişinin kararı temyiz hakkı mevcuttur. Yani, kararın Yargıtay'da bozulması için kişiye yeni bir şans tanınır.
 
 
 **Hükmün açıklanmasının geri bırakılması,** bir kereye mahsus olmak üzere yargılanan şahsın kişisel ve sosyal hayatını bozmadan sürdürebilmesi için imkan tanıyan önemli bir ceza usul kurumudur.
