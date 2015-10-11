@@ -35,7 +35,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 ###Ceza Avukatı Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
 
 
-**Avukat,** sanığı yalnızca temsil eder. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan kişi olaya dair bilgi ve görgüsünü kendisi anlatacaktır. **Ceza avukatı,** sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
+**Avukat,** sanığı yalnızca temsil eder. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. **Ceza avukatı,** sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
 
 
 
@@ -51,7 +51,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 ###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
 
-Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar **ceza avukatı** davayı takip etmek zorundadır. Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
+Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
 
 
 ###Ceza Avukatı ve Suç Kavramı
@@ -59,6 +59,6 @@ Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinl
 
 Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da ilintili olduğundan **avukat** toplumu çeşitli yönleriyle görebilen bir sosyolog gibidir. Her suç toplumun ne yönde bir sorunla karşı karşıya olduğunun habercisidir. Ekonomik sorunların arttığı dönemlerde hırsızlık, gasp, dolandırıcılık gibi suçların artması bunun en büyük örneğidir.
 
-Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki **ceza avukatı,** Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Ceza avukatı,** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
+Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki **ceza avukatı,** Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Avukat** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
