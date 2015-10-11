@@ -19,8 +19,7 @@ Savunmanın bu özellikli işlevi nedeniyle **avukat** şüpheli veya sanığı 
 
 ###Ceza Avukatı Adında Ayrı Bir Avukatlık Alanı Var mıdır?
 
-
-Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık alanı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Fakat uygulamada ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden avukatlara halk dilinde ceza avukatı denilmektedir. 
+Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alandaki uzmanlığın artmasını sağlamak için branşlaşmayı teşvik etmektedir. Ancak, Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık alanı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden avukatlara halk dilinde ceza avukatı denilmektedir. 
 
 ###Ağır Ceza Avukatı Ne Demek?
 
@@ -35,7 +34,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 ###Ceza Avukatı Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
 
 
-**Avukat,** sanığı yalnızca temsil eder. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. **Ceza avukatı,** sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
+**Avukat,** sanığın yalnızca hukuki temsilcisidir. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. Ceza muhakemesi, yaşanmış bir olayın mahkemede deliller vasıtasıyla yeniden canlandırılması faaliyetidir. Doğal olarak yaşanmış bir olayın nasıl gerçekleştiğini ancak o olayın parçası olan şahıslar bilebilir. **Ceza avukatı,** sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
 
 
 
@@ -51,7 +50,9 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 ###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
 
-Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
+Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
+
+Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
 
 
 ###Ceza Avukatı ve Suç Kavramı
