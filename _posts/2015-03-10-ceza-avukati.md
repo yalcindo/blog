@@ -13,7 +13,7 @@ keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukat
 
 Avukatlık mesleğinin en zor alanlarından biri ceza avukatlığıdır. Hem kişi özgürlüğü açısından hem mağdur hakları açısından toplumun en hassas sorunlarıyla uğraşır. Esasen her avukatın yaptığı gibi **ceza avukatı** da savunma işlevini yerine getirmeye çalışır. Fakat **ceza avukatı**nın savunma işlevi diğer avukatlık branşlarının savunma işlevinden biraz farklıdır. [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html), doğrudan kişi özgürlüğünü etkileyebilecek bir fonksiyon icra eder.
 
-Savunmanın bu özellikli işlevi nedeniyle **ceza avukatı,** şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
+Savunmanın bu özellikli işlevi nedeniyle **avukat** şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
 
 
 
@@ -24,7 +24,7 @@ Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık a
 
 ###Ağır Ceza Avukatı Ne Demek?
 
-**Ağır ceza avukatı,** ceza avukatı için belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
+**Ağır ceza avukatı,** belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
 
 [![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
 
@@ -59,6 +59,6 @@ Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinl
 
 Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da ilintili olduğundan **avukat** toplumu çeşitli yönleriyle görebilen bir sosyolog gibidir. Her suç toplumun ne yönde bir sorunla karşı karşıya olduğunun habercisidir. Ekonomik sorunların arttığı dönemlerde hırsızlık, gasp, dolandırıcılık gibi suçların artması bunun en büyük örneğidir.
 
-Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki **ceza avukatı,** Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Avukat** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
+Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki avukat, Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Avukat** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
