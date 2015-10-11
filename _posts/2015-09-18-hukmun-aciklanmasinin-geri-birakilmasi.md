@@ -22,7 +22,7 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 
 
 
-**Hükmün açıklanmasının geri bırakılması** için birtakım şartların bir arada bulunması gerekir. Ceza Muhakemesi Kanunu’nun **hükmün açıklanmasının geri bırakılması kararı** için aradığı tüm şartlar vücut bulmadan, hakim,  HAGB  kararı verme yetkisine sahip değildir. Bu şartlar  şunlardır:
+**Hükmün açıklanmasının geri bırakılması** için birtakım şartların bir arada bulunması gerekir. Ceza Muhakemesi Kanunu’nun **HAGB kararı** için aradığı tüm şartlar vücut bulmadan, hakim,  HAGB  kararı verme yetkisine sahip değildir. Bu şartlar  şunlardır:
 
 ###1.	HAGB Kararı için Suça Dair Şartlar 
 
@@ -30,17 +30,17 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 ####(a) Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar 
 
 
-Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçları, 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçların ceza miktarı ne olursa olsun **hükmün açıklanmasının geri bırakılmasına karar** verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır.
+Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçları, 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçların ceza miktarı ne olursa olsun hükmün açıklanmasının geri bırakılmasına karar verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır.
 
 ####(b)	Hapis Cezası Verilen Suçlarda HAGB kararı için Ceza Miktarı Şartı
 
 
-Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise,  2 yıl veya daha az süreli hapis cezası olmalıdır. 18 yaşından küçük **çocuklar için hükmün açıklanmasının geri bırakılması kararı** verilebilmesi için ceza sınırı 3 yıl veya daha az süreli hapis cezasıdır. Suçun niteliğinin (yukarıda açıkladığımız istisnalar hariç), taksirle veya kasten işlenmesinin hiçbir önemi yoktur, önemli olan cezanın miktarıdır. Ceza Muhakemesi Kanunu ceza miktarını mutlak nitelikte bir ölçü kabul etmiştir. Bu yüzden, örneğin, kasten veya taksirle adam yaralama, hırsızlık, dolandırıcılık, hakaret, zarar verme, tehdit, şantaj, uyuşturucu madde kullanma gibi suçlar nedeniyle hükmedilen hapis cezaları süre koşulunu sağladığı takdirde sanık hakkında **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
+Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise,  2 yıl veya daha az süreli hapis cezası olmalıdır. 18 yaşından küçük **çocuklar için hükmün açıklanmasının geri bırakılması kararı** verilebilmesi için ceza sınırı 3 yıl veya daha az süreli hapis cezasıdır. Suçun niteliğinin (yukarıda açıkladığımız istisnalar hariç), taksirle veya kasten işlenmesinin hiçbir önemi yoktur, önemli olan cezanın miktarıdır. Ceza Muhakemesi Kanunu ceza miktarını mutlak nitelikte bir ölçü kabul etmiştir. Bu yüzden, örneğin, kasten veya taksirle adam yaralama, hırsızlık, dolandırıcılık, hakaret, zarar verme, tehdit, şantaj, uyuşturucu madde kullanma gibi suçlar nedeniyle hükmedilen hapis cezaları süre koşulunu sağladığı takdirde sanık hakkında **HAGB kararı** verilebilir.
 
 ####(c)	Hükmün Açıklanmasının Geri Bırakılması ve Adli Para Cezası 
 
 [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html), doğrudan verilebileceği gibi hapis cezasından da çevrilebilen bir ceza yaptırımıdır.
-Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**na hükmetmişse bu para cezası hakkında da **hükmün açıklanmasının geri bırakılması kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir **adli para cezası** olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme **adli para cezası** vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **hükmün açıklanmasının geri bırakılması**na karar verilemez.
+Mahkeme yargılama neticesinde sanık hakkında doğrudan adli para cezasına hükmetmişse bu para cezası hakkında da **HAGB kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir adli para cezası olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme adli para cezası vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **HAGB kararı** verilemez.
 
 ###2.	HAGB Kararı için Sanığa Dair Şartlar
 
@@ -48,9 +48,9 @@ Mahkeme yargılama neticesinde sanık hakkında doğrudan **adli para cezası**n
 
 Sanığın daha önce kasten işlediği bir suçtan dolayı kesinleşmiş mahkumiyeti varsa hakkında **hükmün açıklanmasının geri bırakılması kararı** verilemez. Önceki mahkumiyetinin hapis cezası veya adli para cezası olmasının veya cezanın miktarının hiçbir önemi yoktur. Sanığın önceki mahkumiyetine esas suç kasten işlenmişse hükmün açıklanmasının geri bırakılması kararı verilmesi mümkün değildir.
 
-Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş mahkumiyet kararı olsa bile **hükmün açıklanmasının geri  bırakılması** kararı ( **HAGB** kararı ) verilebilir. Örnek vermek gerekirse, trafik kazası, iş kazası veya başka bir taksirli fiil ile ölüm veya yaralama suçlarından mahkum olmuş bir kişi hakkında sonraki suçu nedeniyle hükmün açıklanmasının geri bırakılması kararı verilebilir.
+Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş mahkumiyet kararı olsa bile **hükmün açıklanmasının geri  bırakılması** kararı verilebilir. Örnek vermek gerekirse, trafik kazası, iş kazası veya başka bir taksirli fiil ile ölüm veya yaralama suçlarından mahkum olmuş bir kişi hakkında sonraki suçu nedeniyle hükmün açıklanmasının geri bırakılması kararı verilebilir.
 
-Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında dnentimli serbestlik tedbiri varsa, hükmün açıklanmasının geri bırakılması kurumundan faydalanabilir. Örneğin, sanığın adli sicil kaydında uyuşturucu madde kullanma suçundan tedavi ve denetimli serbestlik tedbiri yer alsa bile, bu tedbir hukuki niteliği itibarıyle ceza olmadığı için sanık hakkında HAGB kararı verilebilir.
+Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında denetimli serbestlik tedbiri varsa, **HAGB** kurumundan faydalanabilir. Örneğin, sanığın adli sicil kaydında uyuşturucu madde kullanma suçundan tedavi ve denetimli serbestlik tedbiri yer alsa bile, bu tedbir hukuki niteliği itibarıyle ceza olmadığı için sanık hakkında HAGB kararı verilebilir.
 
 ####(b)	Zararın Giderilmesi ve Hükmün Açıklanmasının Geri Bırakılması
 
@@ -72,7 +72,7 @@ Bazı suçların özelliği gereği, kamunun veya kişilerin uğradığı bir za
 
 ####(c)	Mahkemece Sanığın Tekrar Suç İşlemeyeceği Kanaatine Varılması
 
-Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özelliklerini göz önüne alarak yeniden suç işlemeyeceği kanaatine varırsa **hükmün açıklanmasının geri bırakılması** ( **HAGB** ) kararı verir. Hemen belirtelim ki yargıç, sanığın davranışlarını ve kişiliğini sübjektif kriterlere göre değerlendiremez. Yargıtay’ıın yerleşik içtihatlarına göre sanığın duruşma tutanaklarına yansıyan olumsuz bir davranışı ve bilinen olumsuz bir kişilik özelliği yoksa yargıç **HAGB** kararı vermelidir.
+Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özelliklerini göz önüne alarak yeniden suç işlemeyeceği kanaatine varırsa **hükmün açıklanmasının geri bırakılması** kararı verir. Hemen belirtelim ki yargıç, sanığın davranışlarını ve kişiliğini sübjektif kriterlere göre değerlendiremez. Yargıtay’ıın yerleşik içtihatlarına göre sanığın duruşma tutanaklarına yansıyan olumsuz bir davranışı ve bilinen olumsuz bir kişilik özelliği yoksa yargıç **HAGB** kararı vermelidir.
 
 ####(d)	Sanığın Hükmün Açıklanmasının Geri Bırakılmasını Kabul Etmediğine Dair Beyanının Olmaması
 
@@ -111,7 +111,7 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 
 ![HAGB ve Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "HAGB ve Memurluk")
 
-**HAGB kararı,** yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
+**Hükmün açıklanmasının geri bırakılması** kararı, yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı mı Hapis Cezasının Ertelenmesi Kararı mı Sanık Lehinedir?
