@@ -26,11 +26,11 @@ Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin 
 
 * **Memnu hakların iadesi** için üçüncü şart, cezanın infazından başlamak ve cezanın infazından sonra geçirilmesi gereken 3 yıllık süre de dahil olmak üzere bu süre içerisinde hükümlünün yeni bir suç işlememesi ve yaşamını  “iyi halli” olarak sürdürdüğüne dair mahkemede kanaat oluşturmasıdır. Uygulamada mahkemeler, hükümlü suç işlememiş ve açıkça bilinen olumsuz bir özelliği yoksa hükümlüyü “iyi halli” kabul etmektedirler.
 
-**Memnu hakların iadesi** talebinde bulunmak için yetkili mahkemeye bir dilekçe verilmelidir. Memnu hakların iadesi talebini kişi bir **ceza avukatı** veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
+**Memnu hakların iadesi** talebinde bulunmak için yetkili mahkemeye bir dilekçe verilmelidir. Yasaklanmış hakların geri verilmesine dair talepler bir **ceza avukatı** veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
 
 ##Memnu Hakların İadesi Kararı İçin Yetkili Mahkeme
 
-**Memnu hakların iadesi** kararı verme konusunda iki yetkili mahkeme mevcuttur:
+**Yasaklanmış hakların geri verilmesi** kararı verme konusunda iki yetkili mahkeme mevcuttur:
 
 * **Memnu hakların iadesi kararı,** hükümlünün yargılandığı mahkeme tarafından verilebilir. Hükmü veren mahkeme, mahkumiyet hükmünün içeriğine daha kolay ulaşabildiği için yasaklanmış hakların iadesi talebi için en uygun mahkeme asıl hükmü veren mahkemedir.
 
