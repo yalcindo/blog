@@ -73,9 +73,9 @@ işlenirse fail 3 yıldan 7 yıla kadar hapis cezası ile cezalandırılır.
 
 -	 Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında
 
-işlenirse fail hakkında  5 yıldan 10 yıla kadar hapis cezasına hükmolunur. Suçun, bu fıkranın (b) bendinde belirtilen surette, beden veya ruh bakımından kendisini savunamayacak durumda olan kimseye karşı işlenmesi halinde, verilecek ceza üçte biri oranına kadar artırılır.
+işlenirse fail hakkında  5 yıldan 10 yıla kadar hapis cezasına hükmolunur. Hırsızlık suçunun, bu fıkranın (b) bendinde belirtilen surette, beden veya ruh bakımından kendisini savunamayacak durumda olan kimseye karşı işlenmesi halinde, verilecek ceza üçte biri oranına kadar artırılır.
 
-Suçun, sıvı veya gaz hâlindeki enerji hakkında ve bunların nakline, işlenmesine veya depolanmasına ait tesislerde işlenmesi halinde, "5 yıldan 12 yıla kadar hapis cezasına" hükmolunur. Bu fiilin bir örgütün faaliyeti çerçevesinde işlenmesi halinde, "ceza yarı oranında artırılır" ve onbin güne kadar adlî para cezasına hükmolunur  (md. 142/3).
+Hırsızlık suçunun sıvı veya gaz hâlindeki enerji hakkında ve bunların nakline, işlenmesine veya depolanmasına ait tesislerde işlenmesi halinde, "5 yıldan 12 yıla kadar hapis cezasına" hükmolunur. Bu fiilin bir örgütün faaliyeti çerçevesinde işlenmesi halinde, "ceza yarı oranında artırılır" ve onbin güne kadar adlî para cezasına hükmolunur  (md. 142/3).
 
 Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki katına kadar artırılır. (md. 142/5)
 
