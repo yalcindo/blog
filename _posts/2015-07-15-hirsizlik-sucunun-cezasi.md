@@ -101,6 +101,7 @@ Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmala
 
 ##Hırsızlık Suçu Yargıtay Kararları       
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
+
 ---
 
 -	18 yaşından küçük çocuklar sahibinden izinsiz kiraz yemek için ağaca çıkmış, bu arada ağacın dalları da kırılmıştır. Suçun işleniş şekli ve somut olayda suçun konusu malın değerinin azlığı  nedeniyle çocuklar hakkında beraat kararı verilmesi gerekirken hırsızlık suçundan mahkumiyet kararı verilmesi hukuka aykırıdır (Yargıtay 13. Ceza Dairesi – Esas No: 2014/16390, Karar No: 2015/3661, Tarih: 05.03.2015).
