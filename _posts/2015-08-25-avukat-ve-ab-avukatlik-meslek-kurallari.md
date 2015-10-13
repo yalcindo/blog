@@ -62,9 +62,9 @@ Avukat bağımsızlığını zedeleyecek şekilde yargıçlarla ilişkiler geli�
 
 Avukat kendisine iş getiren kimselere işe aracılık yaptıkları gerekçesiyle herhangi bir ücret ödeyemez. 
 
-
-
 **Avukat,** bir davanın karşı tarafıyla o tarafı temsil eden meslektaşının icazeti olmadan doğrudan iletişime geçemez. Prensip olarak doğrudan karşı tarafın avukatı ile iletişime geçilmesi zorunludur.
+
+![Ağır Ceza Avukatı](https://camo.githubusercontent.com/611de88e16b524cca22e85c261f6a971a00b29ca/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6144396a39322e6a7067 "Avukat")
 
 Avukat, bir davada meslektaşından sonra davayı takip edebilir. Ancak meslektaşının ücretini aldığından emin olmalıdır. Meslektaşının ücretini alması için gerekli önlemi almalı ve meslektaşını uyarmalıdır.
 
@@ -73,7 +73,7 @@ Avukat, genç meslektaşlarının yetişmesine katkı sunmalıdır. Nitelikli ge
 Avukat, AB üyesi bir devlette mesleğini ifa eden bir meslektaşının meslek kurallarını çiğnediği kanaatine varırsa durumu önce kendisine bildirmelidir. Meslektaşı aleyhine dava açmadan önce hem kendisinin üye olduğu hem de meslektaşının üye olduğu baroya durum hakkında bilgi verilerek bir dostane çözüm yolu bulunmaya çalışılmalıdır.
 
 
-![Ağır Ceza Avukatı]https://camo.githubusercontent.com/611de88e16b524cca22e85c261f6a971a00b29ca/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6144396a39322e6a7067 "Avukat")
+
 
 ###Avukat - Müvekkil İlişkisi
 
