@@ -34,9 +34,9 @@ Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezae
 ###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Hakkı ( md. 6 )
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/1de687e733c89c54e10bec0972e8c681ba11ec71/687474703a2f2f692e68697a6c69726573696d2e636f6d2f57455a30344e2e6a7067 "Ceza Avukatı")
+![Ceza Avukatı](https://camo.githubusercontent.com/1de687e733c89c54e10bec0972e8c681ba11ec71/687474703a2f2f692e68697a6c69726573696d2e636f6d2f57455a30344e2e6a7067 "Ceza Avukatı")    Kapalı Cezaevi
 
-Kural olarak mahkum olduğu cezasının 1/10’u herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler **açık cezaevine ayrılma** hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
+Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler **açık cezaevine ayrılma** hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
 
 * Müebbet hapis cezasına mahkum olan hükümlü, koşullu salıverilmesine 5 yıl veya daha az bir zaman kaldığında **açık cezaevine ayrılma** hakkına sahiptir. Örneğin, adam öldürme suçundan müebbet hapis cezası almış kişi koşullu salıverilmesine 5 yıl kala **açık cezaevine ayrılma** hakkı kazanır.
 
