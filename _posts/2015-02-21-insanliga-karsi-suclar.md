@@ -37,6 +37,8 @@ Statü’ye göre “**herhangi bir sivil nüfusa karşı yaygın veya sistemati
 
 İnsanlığa karşı işlenen suçlar, soykırım suçuyla karıştırılmamalıdır. **Soykırım suçunda mağdur, ulusal, etnik, ırki, veya dini bir grubun üyesi olduğu için seçilir ve amaç grubun tamamen veya kısmen yok edilmesidir.** İnsanlığa karşı suçlar açısından asıl hedef grup değildir, grubun üyesi olan bireydir. Ama bireylere karşı işlenen eylemler belli bir yoğunluğa ulaşırsa elbette soykırım suçu oluşabilir. 
 
+![Ceza Avukatı](https://camo.githubusercontent.com/117b62d3d019eeabd9da3389f4e3a553ed31878b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e5734706c352e6a7067 "Ceza Avukatı")
+
 **Statü, insanlığa karşı işlenen suçları oldukça geniş tanımlamasına rağmen, cinsiyet kavramının sadece kadın ve erkeği ifade ettiğini açıkça vurgulamıştır** (Statü md. 7/3). Modern dünyada cinsiyet kavramı oldukça tartışılmasına rağmen, insanların sadece kadın ve erkeklerden oluşan kategorik varlıklar olmadığı açıktır. Bu açıdan insanlığa karşı suçlar başlığı altında cinsiyet kavramının kategorik bir tanımına yer verilmesi, hem çağdaş insanlık değerlerine aykırı olmuş hem de büyük bir çelişki yaratmıştır.  
 
 İnsanlığa karşı suçlar da suçun faili herkes olabilir. Ancak vurgulamak gerekir ki madde metninde yer alan fiillerin “yaygın ve sistematik” işlenmesi belli bir organizasyon gerektirmektedir. 
