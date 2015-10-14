@@ -40,6 +40,9 @@ Herhangi bir kişinin güneşlenirken sürekli izlenmesi, fotoğrafının çekil
 
 Siyasetçi, sanatçı, sporcu, kamu hizmeti sunan kişi vb. gibi her grubun kendine özgü bir **özel hayatın gizliliği** kapsamı vardır. Kim ne şekilde ve hangi ölçüde kamuoyu önündeyse o ölçüde **özel hayatının gizliliği** kapsamı değişecektir. Aynı grup içerisinde farklı katmanlarda yer alan kişilerin **özel hayatının gizliliği** kapsamı dahi farklıdır. Örneğin, bir partinin ilçe yöneticisi olarak siyaset yapan kişi ile aynı partide milletvekili olarak siyaset yapan kişi **özel hayatın gizliliğini ihlal suçu** bakımından farklı değerlendirme kriterlerine tabi tutulacaktır.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/7e6738fdf6b88a0a20eacc9cfbdf8f37a1e0f1e9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a586c392e6a7067 "Ceza Avukatı")
+
+
 ###Özel Hayatın Gizliliğini İhlal Suçunun Ağır Şekli (TCK md. 134/2)
 
 Özel hayatın gizlilik alanına ilişkin ses ve görüntülerin “ifşa” edilmesi, **özel hayatın gizliliğini ihlal suçu**nun ağır şeklinin meydana gelmesine neden olur.
