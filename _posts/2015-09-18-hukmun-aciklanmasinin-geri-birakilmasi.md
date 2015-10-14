@@ -42,6 +42,8 @@ Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise
 [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html), doğrudan verilebileceği gibi hapis cezasından da çevrilebilen bir ceza yaptırımıdır.
 Mahkeme yargılama neticesinde sanık hakkında doğrudan adli para cezasına hükmetmişse bu para cezası hakkında da **HAGB kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir adli para cezası olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme adli para cezası vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **HAGB kararı** verilemez.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/d08eb5f2f025aea54077823b3288f55db9d5666d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44395250617a2e6a7067 "Ceza Avukatı")
+
 ###2.	HAGB Kararı için Sanığa Dair Şartlar
 
 ####(a)	Hakkında HAGB Kararı Verilecek Sanığın Daha Önce Kasıtlı Bir Suçtan Mahkum Olmaması
