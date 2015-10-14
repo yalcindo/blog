@@ -39,6 +39,8 @@ Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırın
 
 **Meşru müdafaa,** faile yapılan saldırıyla aynı zamanda yapılmalıdır. Savunma ile saldırı aynı zamanda gerçekleşmemişse meşru savunma hükümleri uygulanamaz. Saldırı başlamadığı veya başlama ihtimalinin düşük olduğu hallerde veya saldırının bittiği hallerde **meşru savunma** hakkı kullanılamaz.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/8e6844eee95c2b512eb8204036b19b5a0041c0e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32356b36384e2e6a7067 "Ceza Avukatı")
+
 
 
 ###2. Meşru Müdafaada Savunmaya Dair Şartlar
