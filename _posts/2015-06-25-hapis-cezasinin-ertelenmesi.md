@@ -48,7 +48,7 @@ Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha �
 Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu **ceza erteleme** kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/039c168ab63224101bccdfd2095f2748df793de3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34386b7a5a4a2e6a7067 "Ceza Avukatı"]
+![Ceza Avukatı](https://camo.githubusercontent.com/039c168ab63224101bccdfd2095f2748df793de3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34386b7a5a4a2e6a7067 "Ceza Avukatı")
 
 
 ###Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler
