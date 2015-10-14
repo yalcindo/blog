@@ -38,6 +38,8 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 
 **Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine, cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/4083f31ff26c61355720a3234e68b0c83b8e5608/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3350617635342e6a7067 "Ceza Avukatı")
+
 Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
 ####a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
