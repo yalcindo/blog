@@ -48,7 +48,7 @@ Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamay
 
 ![Ceza Avukatı](https://camo.githubusercontent.com/a2a97efa98748949eeb870f1ba5976b3bfc81b1a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f31726b5639422e6a7067 "Ceza Avukatı")
 
-TCK, aşağıdaki bazı suçlarda bu kurumun uygulanmasını düzenlemiştir:
+TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" uygulanmasını düzenlemiştir:
 
 ####1-) Yağma Suçu (Gasp Suçu) Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-3)
 
