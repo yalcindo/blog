@@ -59,6 +59,9 @@ Bazı mesleklerin özel meslek kuralları vardır. Hükümlü **memnu hakların 
 
 * Bir mali müşavir sahte belge kullanmaktan 1 yıl hapis cezasına mahkum olmuştur. Cezasının infazından sonra mahkemeden **yasaklanmış hakların geri verilmesi** kararı alarak mesleğe kabulü için ilgili meslek kuruluşu olan TÜRMOB’a başvurmuştur. TÜRMOB mesleğe kabul talebini reddetmiştir. Danıştay, memnu hakların iadesi kararının 3568 sayılı Kanunun 4. maddesinin ( d ) bendine göre ehliyetsizliği ortadan kaldırabileceği, fakat  aynı maddenin ( f ) bendinde “meslek şeref ve haysiyetine uymayan durumları bulunmamak” ibaresi nedeniyle TÜRMOB’un mesleğe kabul başvurusunu reddetmesini haklı bulmuştur ( Danıştay 8. Daire  -  Esas No: 2008/3215, Karar No: 2010/5022, Tarihi: 6.10.2010 ).
 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/c0a7bfecac08e07d324171676ddd5c3d05a51fde/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3267796e2e6a7067 "Ceza Avukatı")
+
 * Bir vatandaş hakkında adam öldürme suçundan ceza mahkumiyetine karar verilmiştir. Cezasını infaz ettikten sonra ilgili mahkemeden **memnu hakların iadesi** kararı almıştır. Hukuk fakültesi bitirdiğinden **avukat** olmak için  Konya Barosu’na staj başvurusu yapmış, baro tarafından bu talebi reddedilmiştir. Danıştay; **yasaklanmış hakların geri verilmesi** kararıyla kişinin Avukatlık Yasasının 5/a maddesine göre ehliyetsizliği ortadan kalkmış ise de, aynı Yasanın 5/c maddesine göre “Avukatlık mesleğine yaraşmayacak tutum ve davranışları çevresince bilinmiş olmak” hükmü nedeniyle ehliyetsizliği devam ettiğine karar vererek avukatlık mesleğine kabul talebinin baro tarafından reddedilmesini haklı bulmuştur ( Danıştay 8. Daire  -  Esas No: 2006/4018, Karar No: 2007/16, Tarihi: 15.1.2007 ).
 
 ###Memnu Hakların İadesi ve Adli Sicil
