@@ -49,6 +49,8 @@ Kirletmek dışındaki tüm fiiller malın bütünlüğünü ortadan kaldıran, 
 Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TCK md. 151/2’ye göre sahipli bir hayvanı haklı bir gerekçe olmadan öldüren kişi **mala zarar verme suçu** hükümlerine göre cezalandırılacaktır.
 
 
+![Ceza Avukatı](https://camo.githubusercontent.com/97f4a31a565a41a24762079cb8e2c0d0466fa09e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f677941726d4c2e6a7067 "Ceza Avukatı")
+
 ###Mala Zarar Verme Suçunun Cezası
 
 ####1- Suçun Basit Şekli
