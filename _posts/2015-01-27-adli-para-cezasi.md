@@ -42,6 +42,8 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 
 Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (trafik kazası gibi) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/9104ba0e15504d8735aa5db3ffdfc5f4d5717eb2/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f43657a612d6176756b6174695f5f313434343832363230395f38382e3232342e3135322e3234362e6a7067 "Ceza Avukatı")
+
 Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama (örneğin, 2 ay veya 4 ay hapis cezası), tehdit, cebir, şantaj, hakaret, kişisel verilerin kaydedilmesi suçu, özel hayatın gizliliğini ihlal suçu, hırsızlık (örneğin, 10 ay hapis cezası), mala zarar verme, güveni kötüye kullanma, bedelsiz senedi kullanma, dolandırıcılık, suç eşyasının satın alınması veya kabul edilmesi, çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, mühür bozma veya fekki, özel belgede sahtecilik, açığa imzanın kötüye kullanılması, bilişim suçları, görevi kötüye kullanma, görevi yaptırmamak için direnme, iftira, suç üstlenme, suç uydurma, yalan tanıklık, suç delillerini yok etme, gizleme veya değiştirme, ses veya görüntülerin kayda alınması (örneğin 8 ay hapis cezası). 
 
 Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına göre adli para cezasına çevrilip çevrilmeyeceğini bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa ediniz.
@@ -86,9 +88,13 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 *	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. **Adli para cezası,** ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-Uygulamada koşullu salıverme ve adli para cezası ilişkisinin bilinmemesi nedeniyle hak kayıpları yaşanmaktadır. Bu konuyla ilgili mutlaka bir **ceza avukatı** ile görüş alışverişi yapılmalıdır.
+01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi denetimli serbestlik hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan denetimli serbestlik kuralı da adli para cezaları açısından 18.06.2014 tarihininden sonra işlenen suçlarda uygulanamaz.  [**Denetimli Serbestlik**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. 
 
-01.03.2008 tarihinden sonra **Adli para cezası ödenmediğinde,** koşullu salıverilme hükümleri uygulanamayacağı gibi **denetimli serbestlik** hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan **denetimli serbestlik** kuralı da adli para cezalarına uygulanamamaktadır. [**Denetimli Serbestlik**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/153ce7723b5714f9e28337dcac5d58b91bd8bf52/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a6c714e6b2e6a7067 "Ceza Avukatı")
+
+
+Uygulamada koşullu salıverme ve adli para cezası ilişkisinin bilinmemesi nedeniyle hak kayıpları yaşanmaktadır. Bu konuyla ilgili mutlaka bir **ceza avukatı** ile görüş alışverişi yapılmalıdır.
 
 ###Adli Para Cezası Taksitlendirme, Taksitle Ödeme Mümkün mü?
 
