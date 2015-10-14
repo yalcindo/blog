@@ -24,6 +24,8 @@ Silahlı çatışma hukuku, Statü’nün tanımladığı savaş suçlarının a
 
 
 Statü’de savaş suçları 8. Maddede düzenlenmiştir. Bu maddede hem uluslararası silahlı çatışmalar hem de iç silahlı çatışmalar esnasında işlenebilecek suçlar tanımlanmıştır. Statü hazırlanırken hangi fiillerin savaş suçu kabul edileceği tartışılmış, bazı devletler uluslararası örf ve adet hukukuyla tanınmış fiillerin savaş suçları olarak tanımlanmasını istemişlerdir. Bazı devletler, 1949 Cenevre Sözleşmeleri ve Ek Protokollerde sayılan fiillerin savaş suçları olarak kabul edilmesini önermişlerdir. İç çatışmaların savaş suçu olarak kabul edilip edilmeyeceği de tartışılmıştır .
+
+![Ceza Avukatı]https://camo.githubusercontent.com/f856e02ad9fcd95528d6c4f7eeca143ec26fbc04/687474703a2f2f692e68697a6c69726573696d2e636f6d2f37506271514c2e6a7067 "Ceza Avukatı")
 	
 Netice itibarıyle, Statü’de savaş suçu fiilleri uluslararası silahlı çatışmaları ve iç silahlı çatışmaları kapsayacak şekilde düzenlenmiştir. Suç fiilleri, toplam 40 adet olup suç sınırlayıcıdır. Savaş suçu sayılan tüm fiiller genel olarak dört başlık altında toplanmıştır.
 
