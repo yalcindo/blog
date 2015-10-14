@@ -46,6 +46,8 @@ TCK, yargılanan kişinin suç teşkil eden fiil hakkında yaptığı açıklama
 
 Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamayan faillerin yakalanarak cezalandırılması hem de bilgiyi verenin kısmi olarak affedilmesini sağlayan bir ceza hukuku enstrümanıdır. TCK'da çok sayıda suç için **etkin pişmanlık** nedeniyle **ceza indirimi** öngörülmüştür. Her suç için bir **ceza avukatı** tarafından ayrı ayrı değerlendirme yapılması en sağlıklı yöntem olacaktır. Bu makalemizde etkin pişmanlık açısından önemli bulduğumuz suçlara yer verdiğimizden, makalede analiz edilmemiş diğer suç tipleri için bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşünüz.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/a2a97efa98748949eeb870f1ba5976b3bfc81b1a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f31726b5639422e6a7067 "Ceza Avukatı")
+
 TCK, aşağıdaki bazı suçlarda bu kurumun uygulanmasını düzenlemiştir:
 
 ####1-) Yağma Suçu (Gasp Suçu) Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-3)
