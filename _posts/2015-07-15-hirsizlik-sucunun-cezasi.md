@@ -41,6 +41,10 @@ Açıkta bırakılmış eşya, mağdurun yaşadığı özel alanlar dışında k
 
 **Hırsızlık suçu** işlenen eşya kullanım veya adet gereği açıkta bırakılan mallardan ise bu durumda suçun basit şekli değil nitelikli şekli söz konusu olur. Örneğin, tarlada açıkta bırakılan tarım aletleri kullanımları gereği açıkta bırakılan eşyalardandır. Bu mallar açıkta olmasına rağmen zilyedinin rızası dışında alındığında **nitelikli hırsızlık suçu** oluşur. 
 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
+
+
 ###4- Nitelikli Hırsızlık Suçu ve Cezası
 
 **Nitelikli hırsızlık suçu** TCK md. 142’de düzenlenmiştir. Buna göre hırsızlık suçunun;
