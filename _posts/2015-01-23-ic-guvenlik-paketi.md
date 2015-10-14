@@ -38,6 +38,11 @@ Polisin silah kullanma yetkisi, yürürlükteki Polis Vazife ve Salahiyet Kanunu
 
 Polisin silah kullanma yetkisi, yanlış bir şekilde molotof kokteylinin silah olarak kabul edildiği  bilgisi üzerinden tartışılmaktadır. Halbuki zaten molotof kokteylini atmak bir tarafa, bu tarz olaylarda elde bulundurmak dahi yürürlükteki TCK md. 174 gereği 3 yıldan 8 yıla kadar hapis cezasıyla cezalandırılmaktadır. Bu maddenin cezası silah taşımadan çok çok daha ağır olup, binlerce insan bu maddeden yargılanıp ağır cezalar almıştır. Tartışmanın molotof kokteyli üzerinden yürütülmesini bilinçli bir manipülasyon olarak görüyoruz. Kanun Tasarısı’nda geçen ***“yaralayıcı ve benzeri silahlarla saldıran”*** ibaresi daha tehlikeli ve öngörülemez sonuçlara yol açabilecek niteliktedir. Çünkü, neyin ***“benzeri silah”*** olduğunu polis takdir edecektir. Hangi cismin yaralamaya neden olabileceğine dair polisin olay anındaki yanlış değerlendirmesi silah kullanmasıyla vahim neticeler doğuracaktır.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/be70122e9a2c27d8f8ce43f8ca243e089e5c9193/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a30316d2e6a7067 "Ceza Avukatı")
+
+
+Silah kullanma yetkisini denetlemek açısından avukata, özellikle ceza avukatı olarak faaliyet gösteren avukatlara büyük bir toplumsal sorumluluk düşmektedir.
+
 
 
 ###Telefon Dinlemelerinde Tek Mahkeme Düzeni
