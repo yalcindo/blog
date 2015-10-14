@@ -4,7 +4,7 @@ title: Tutuklama Koşullarına Dair Değerlendirmeler
 category: ceza-hukuku
 keywords: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama şartları, tutuklama nedenleri, Bakırköy avukat, Ataköy avukat, istanbul avukat, tutukluluk
 googleAnahtar: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama şartları, tutuklama nedenleri, Bakırköy avukat, Ataköy avukat, istanbul 
-summary: Tutuklama kararı, Masumiyet (Suçsuzluk) Karinesi, Tutuklamada Ölçülülük İlkesi, Uluslararası Hukukta Tutuklama Koşulları, İnsan Hakları Avrupa Sözleşmesi’nde Tutuklama Koşulları, Tutuklama ve Ceza Muhakemesi Kanunu başlıklarıyla "alıntı" bir yazıdır.
+summary: Tutuklama kararı, Masumiyet (Suçsuzluk) Karinesi, Tutuklamada Ölçülülük İlkesi, Uluslararası Hukukta Tutuklama Koşulları, İnsan Hakları Avrupa Sözleşmesi’nde Tutuklama Koşulları, Tutuklama ve Ceza Muhakemesi Kanunu başlıklarıyla bir dilekçeden yapılan "alıntı" bir yazıdır.
 
 ---
 
@@ -29,7 +29,12 @@ iii) risk koşulu (kaçma, saklanma; delilleri yok etme, gizleme veya değiştir
 
 ###4.	İnsan Hakları Avrupa Sözleşmesi’nde Tutuklama Koşulları
 
-Tutuklama koşulları açısından Sözleşmenin (m. 5/1) ikinci cümlesi ve (m. 5/1-c) bendi birlikte ele almak gerekmektedir. Sözleşme’nin (m. 5/1) ikinci cümlesi, özgürlükten yoksun bırakmanın ‘hukukun öngördüğü usule’ uygun olması koşulunu getirmektedir. Yine Sözleşme’nin (m. 5/1-c) bendi de, “bir kimsenin suç işlediğinden makul kuşku duyulması üzerine”, “hukuka uygun olarak” olarak tutuklanabileceğini öngörmektedir. Dolayısıyla Sözleşme’nin bir tutuklama kararında aradığı iki temel koşul vardır. Bir tutuklama kararı: 
+Tutuklama koşulları açısından Sözleşmenin (m. 5/1) ikinci cümlesi ve (m. 5/1-c) bendi birlikte ele almak gerekmektedir. Sözleşme’nin (m. 5/1) ikinci cümlesi, özgürlükten yoksun bırakmanın ‘hukukun öngördüğü usule’ uygun olması koşulunu getirmektedir. Yine Sözleşme’nin (m. 5/1-c) bendi de, “bir kimsenin suç işlediğinden makul kuşku duyulması üzerine”, “hukuka uygun olarak” olarak tutuklanabileceğini öngörmektedir. 
+
+![Tutuklama Kararı](https://camo.githubusercontent.com/7ad97e0014135974b0cd06df1837195170d271ef/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a4a564f47672e6a7067 "Tutuklama Kararı")
+
+
+Dolayısıyla Sözleşme’nin bir tutuklama kararında aradığı iki temel koşul vardır. Bir tutuklama kararı: 
 
 i) Sözleşme’nin amacına uygun olması gereken iç hukuka uygun olmalı,
 
@@ -42,6 +47,9 @@ AİHM, Sözleşme’nin (m. 5/ 1) fıkrasındaki ‘hukuka uygun’ ve ‘hukuku
 **b)Makul Kuşku/Şüphe Koşulu**
 
 Sözleşme’nin (m. 5/ 1- c) bendi, yakalama/gözaltı ve **tutuklama** için ayrı kuşku koşulları değil, kişinin ‘suç işlediğinden makul kuşku duyulması’ koşulunu getirmiştir. AİHM, “makul kuşku” deyiminden ne anladığını açıklamıştır: Makul kuşkuya sahip olmak, objektif bir gözlemciyi söz konusu kimsenin suç işlemiş olabileceği konusunda ikna edebilecek maddi olayların veya bilgilerin varlığını gerektirmektedir. Bununla birlikte neyin “makul kuşku” oluşturduğu, olayın nesnel koşullarına bakılarak sonuca varılmalıdır.
+
+
+![Tutuklamaya İtiraz](https://camo.githubusercontent.com/84a279a8ec195e9e88ac8c8d0fd753fc96210b3b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304c6b4562442e6a7067 "Tutuklamaya İtiraz"]
 
 
 ###5. İç Hukukta Tutuklama Koşulları
@@ -61,6 +69,10 @@ Yasal düzenleme kapsamında **tutuklama kararı** verilemeyecek haller öncelik
 ####a)Tutuklama Koşulları
 
 **Tutuklama koşulları** CMK (m. 100)’de Anayasaya göre daha ayrıntılı olarak düzenlenmiştir. Bu maddenin 1. fıkrasına göre **tutuklama kararı** için: i) Kuvvetli suç şüphesinin varlığını gösteren olgular a) TCK kapsamında: 1. Soykırım ve insanlığa karşı suçlar (m. 76, 77, 78), 2. Kasten öldürme (m. 81, 82, 83), 3. Silahla işlenmiş kasten yaralama (m.86/3-e) ve neticesi sebebiyle ağırlaşmış kasten yaralama (m. 87), 4. İşkence(m. 94, 95), 5. Cinsel saldırı (m. 102 -birinci fıkra hariç-), 6. Çocukların cinsel istismarı (m. 103), 7. Hırsızlık (m. 141, 142) ve yağma (m. 148,149), 8. Uyuşturucu veya uyarıcı Madde imal ve ticareti (m. 188), 9. Suç işlemek amacıyla örgüt kurma (m. 220 -iki, yedi ve sekizinci fıkralar hariç-),10. Devletin Güvenliğine Karşı Suçlar (m. 302, 303, 304, 307, 308), 11. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (m. 309, 310, 311, 312, 313, 314, 315); b) 6136 s. Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun’da silah kaçakçılığı (m. 12) suçları; c) 4389 s.Bankalar Kanunu’nda zimmet (m. 22/3-4) suçu; d) 4926 s. Kaçakçılıkla Mücadele Kanunu’nda tanımlanan ve hapis cezasını gerektiren suçlar; e) 2863 s. Kültür ve Tabiat Varlıklarını Koruma Kanunu’nda (m. 68, 74) suçları; f) 6831 s. Orman Kanunu’nda kasten orman yakma (m. 110/4-5)suçları.bulunmalı, ve ii) Bir **‘tutuklama nedeni’** bulunmalıdır. Kuvvetli suç şüphesi, her **tutuklama** veya tutuklamaya devam kararında olmazsa olmaz bir koşuldur. Birinci fıkrada geçen **‘tutuklama nedeni’**nin ne	 anlama geldiği m. 100/2, 3’te açıklanmıştır. Buna göre iki tür **‘tutuklama nedeni’** bulunmaktadır:Yasanın (m. 100/2)’deki birinci tür ‘tutuklama nedeni’, ceza muhakemesinin amacının gerçekleşmesini engelleyecek “risk”leri göstermektedir.Bunlar kaçma, saklanma; delilleri yok etme, gizleme veya değiştirme; tanık, mağdur veya başkaları üzerinde baskı yapma riskleridir. Bu **tutuklama nedeni**ne kısaca “risk koşulu” denebilir. Yasanın (m. 100/3) ikinci tür **‘tutuklama nedeni’**, tutuklamaya konu olacak kişinin işlediğinden şüphelenilen suçların bir katalog halinde gösterildiği normlardır. Uygulamada katalog suçlar olarak da ifade edilen bu **tutuklama nedeni**ne kısaca “katalog suç koşulu” denebilir. Özetle CMK’ya (m. 100) göre şu iki durumdan birinin bulunması halinde **tutuklama** veya tutukluluğun devamına karar verilebileceği söylenebilir: 1. Kuvvetli suç şüphesinin varlığını gösteren olguların bulunması koşulu + risk koşulu veya 2. Kuvvetli suç şüphesinin varlığını gösteren olguların bulunması koşulu + katalog suç koşulu.
+
+
+
+![Ceza Avukatı](https://camo.githubusercontent.com/343f73829f4173f866056b03997162ef4d8db277/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4234304c5a392e6a7067 "Ceza Avukatı")
 
 ####b) Tutuklama Kararı ve Katalog Suç Koşulu
 
