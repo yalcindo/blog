@@ -12,6 +12,9 @@ keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu ş
 **Hakaret suçu,** TCK md. 125-131 arasında şerefe karşı suçlar başlığı altında düzenlenmiştir.  **Hakaret suçu** iki farklı şekilde işlenebilir:  a-) Belli somut bir durum ve olgunun isnat edilmesi suretiyle kişinin şeref ve saygınlığının zedelenmesi, b-) Genel ve soyut nitelikteki söz ve davranışlarla kişinin değersizleştirilmesi, rencide edilmesi.
 Hakaret suçu doğrudan kişinin birey olmaktan kaynaklanan kişilik haklarına saldırıdır. Hakaret suçu ile sosyal bir kavram olan “şeref” ve kişinin özsaygısı korunmaktadır. 
 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/eab02433b9f300d20b161be52f5a882991eb44dc/687474703a2f2f692e68697a6c69726573696d2e636f6d2f51576c326f412e6a7067 "Ceza Avukatı")
+
 ###Hakaret Suçu Nasıl İşlenir? Hangi Sözler Hakaret Suçunu Oluşturur?
 
 **Hakaret suçu**nun vücut bulması için kişinin onur, şeref veya saygınlığını rencide edecek somut bir fiil veya olgu isnat edilmeli veya sövme yoluyla kişinin onur, şeref veya saygınlığına saldırılmalıdır.Görüldüğü üzere, **hakaret suçu**nda önemli olan kişiyi rencide eden, toplum içinde değersizleştiren fiillerin cezalandırılmasıdır.
