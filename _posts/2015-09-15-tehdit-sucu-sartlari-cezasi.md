@@ -53,7 +53,9 @@ Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kı
 
 ###Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
 
-Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle **tehdit suçu**nun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  **Tehdit suçu**nun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir **ceza avukatı** vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır 
+Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle **tehdit suçu**nun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  **Tehdit suçu**nun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir **ceza avukatı** vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır.
+
+![Ceza Avukatı](https://camo.githubusercontent.com/c052d1625e6e007d118f0d12b3181a96a8138f95/687474703a2f2f692e68697a6c69726573696d2e636f6d2f51576c4c76412e6a7067 "Ceza Avukatı")
 
 **Tehdit suçu**nun nitelikli, ağır halleri şunlardır:
 
