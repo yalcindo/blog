@@ -49,7 +49,7 @@ AİHM, Sözleşme’nin (m. 5/ 1) fıkrasındaki ‘hukuka uygun’ ve ‘hukuku
 Sözleşme’nin (m. 5/ 1- c) bendi, yakalama/gözaltı ve **tutuklama** için ayrı kuşku koşulları değil, kişinin ‘suç işlediğinden makul kuşku duyulması’ koşulunu getirmiştir. AİHM, “makul kuşku” deyiminden ne anladığını açıklamıştır: Makul kuşkuya sahip olmak, objektif bir gözlemciyi söz konusu kimsenin suç işlemiş olabileceği konusunda ikna edebilecek maddi olayların veya bilgilerin varlığını gerektirmektedir. Bununla birlikte neyin “makul kuşku” oluşturduğu, olayın nesnel koşullarına bakılarak sonuca varılmalıdır.
 
 
-![Tutuklamaya İtiraz](https://camo.githubusercontent.com/84a279a8ec195e9e88ac8c8d0fd753fc96210b3b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304c6b4562442e6a7067 "Tutuklamaya İtiraz"]
+![Tutuklamaya İtiraz](https://camo.githubusercontent.com/84a279a8ec195e9e88ac8c8d0fd753fc96210b3b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304c6b4562442e6a7067 "Tutuklamaya İtiraz")
 
 
 ###5. İç Hukukta Tutuklama Koşulları
