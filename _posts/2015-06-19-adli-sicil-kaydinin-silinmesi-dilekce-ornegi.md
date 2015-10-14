@@ -45,6 +45,9 @@ Kural olarak ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kar
 (11) Askerî Ceza Kanununa göre verilmiş mahkûmiyet kararlarındaki ferî cezalar **adli sicil kaydı**na işlenir
 
 
+![Ceza Avukatı](https://camo.githubusercontent.com/4f13bbc78c36fcee083b0278cbe9e789ae42bd96/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a4f47522e6a7067 "Ceza Avukatı")
+
+
 
 ###Hangi Kararlar Adli Sicil ve Arşiv Kaydında Yer Almaz?
 
