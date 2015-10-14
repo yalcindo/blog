@@ -12,6 +12,9 @@ summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren suçlarda hukuk
 
 Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nde mahkemenin yargı yetkisine giren suçlara özgü hukuka uygunluk nedenleri mevcuttur.
 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/38685a75433325b7c4437e66554d0373d9bb2898/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c45344438562e6a7067 "Ceza Avukatı")
+
 ####(1)	Amirin Emrini Yerine Getirme
 ---
 
