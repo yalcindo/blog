@@ -9,6 +9,8 @@ summary: Tutuklama kararına itiraz dilekçesi, tutukluluğa itiraz dilekçesi y
 ---
 ---
 
+![Tutuklamaya İtiraz Dilekçesi](https://camo.githubusercontent.com/b1d68654da7def7bfaa55e7a3a5fc1e94b8e36b0/687474703a2f2f692e68697a6c69726573696d2e636f6d2f335061456a412e6a7067 "Tutukluluğa İtiraz Dilekçesi")
+
 ##İSTANBUL  (   )  SULH CEZA MAHKEMESİ'NE
 
 **DOSYA NO			:**
@@ -53,11 +55,16 @@ Tüm bu nedenlerle, şahsım  hakkındaki tutuklama kararının kaldırılması 
 
 **SONUÇ VE TALEP		:** 
 
-Yukarıda açıkladığımız nedenlerle,tutuklama kararının  kaldırılarak şahsımın BİHAKKIN  TAHLİYESİNE, bihakkın tahliyesi mümkün olmadığı  taktirde CMK m.109 gereği ADLİ KONTROL HÜKÜMLERİNDEN  bir veya birden fazla  yükümlülüğe (AYNİ VEYA  KİŞİSEL GÜVENCE dahil olmak üzere) tabi tutulmasına karar verilerek SERBEST BIRAKILMASINA  karar verilmesini saygılarımızla  arz ve talep ederiz.30.11.2011
+Yukarıda açıkladığımız nedenlerle,tutuklama kararının  kaldırılarak şahsımın BİHAKKIN  TAHLİYESİNE, bihakkın tahliyesi mümkün olmadığı  taktirde CMK m.109 gereği ADLİ KONTROL HÜKÜMLERİNDEN  bir veya birden fazla  yükümlülüğe (AYNİ VEYA  KİŞİSEL GÜVENCE dahil olmak üzere) tabi tutulmasına karar verilerek SERBEST BIRAKILMASINA  karar verilmesini saygılarımızla  arz ve talep ederiz.30.09.2015
+
+									 Tutuklamaya İtiraz Eden
+								                ( İmza )	
 
 
-                                                                 Tutuklamaya İtiraz Eden
-		                                                        ( İmza )
+![Ceza Avukatı](https://camo.githubusercontent.com/8db10b0a18f59d292559a4b70f607e4ec9cd5d06/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3279424c2e6a7067 "Ceza Avukatı")
+
+
+                                                                
 
 **Ataköy-Bakırköy - istanbul / Avukat Baran Doğan**
 
