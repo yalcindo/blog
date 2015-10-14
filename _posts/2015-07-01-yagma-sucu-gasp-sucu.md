@@ -66,6 +66,8 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 
 **Yağma suçu**nun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla **gasp suçu** işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç hangi oranda alt sınırdan ayrılacağına kendisi karar verecektir. Fakat, suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
 
+![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
+
 ##Yağma Suçu ve Malın Değerinin Azlığı Hali 
 
 
