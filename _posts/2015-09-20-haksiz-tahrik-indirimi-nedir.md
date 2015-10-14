@@ -40,6 +40,9 @@ Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklan�
 Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
 
+![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
+
+
 ##Haksız Tahrikte Dengenin Bozulması
 
 Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız tahrikte dengenin bozulup bozulmadığı incelenmelidir. Fail, haksız bir eylemle faili tahrik ettikten sonra karşılaştığı tepkiden dolayı tahrik altında kaldığını savunamaz. Ancak failin karşılaştığı tepki, kendi gerçekleştirdiği eylemle karşılaştırıldığında aşırı bir hal almışsa, başka bir deyişle tepkide açık bir oransızlık varsa, bu tepkinin edilmelidir. Örneğin,  A şahsı, B şahsına küfür etmiş, B’de kendisine küfreden  A’yı bıçaklamış, A da belinde bulunan silahla B’yi öldürmüştür. Bu somut vakıada A şahsı ilk haksız hareketi küfür ederek yapmış, B şahsı A’yı bıçaklayarak haksız tahrikte dengeyi bozmuş, A şahsı da kendisini aşırı bir tepkiyle bıçaklayan B’yi **haksız tahrik** altında öldürmüştür. Bu durumda haksız tahrikte denge bozulduğu için ilk haksız hareket  A’dan kaynaklansa bile A **haksız tahrik** hükümlerinden yararlanır.
