@@ -14,6 +14,9 @@ Suçun işlenmesinin etkili bir şekilde önlenebilmesi, iyi bir suç siyasetini
 
 İnceleyeceğimiz ceza hukuku alanı, spor karşılaşmalarında kural ihlallerine yönelik suç tiplerini tanımlamaktadır.Ayrıca her bir oyuncunun, hakemin, seyircilerin, kulübün her bir üyesinin veya tüzel kişi olarak bizzat kulübün yaşamı, beden bütünlüğü, sağlığı, şeref ve haysiyeti, malvarlığı gibi münhasıran spor karşılaşmasına katılan veya spor karşılaşması ile bireysel olarak ilgili bulunan her bir kişiye ait hukuksal yararları korumaktadır.
 
+
+![Ceza Avukatı](https://camo.githubusercontent.com/6b3fa24e84a6a117798aed1cefb67b224388bdc5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4a36345664592e6a7067 "Ceza Avukatı")
+
 **II-TARİHSEL GELİŞİM**
 
 Türkiye’de spor faaliyetinin yapıldığı alanlarda istenmeyen davranışların yaptırıma bağlandığı ilk özel kanun 28.04.2004 tarihli ve 5149 sayılı Spor Müsabakalarında Şiddet ve Düzensizliğin Önlenmesine Dair Kanun’dur. Bu kanunun 12.maddesi Çirkin ve Kötü Tezahürat başlığıyla bir kabahat düzenlemiştir.
