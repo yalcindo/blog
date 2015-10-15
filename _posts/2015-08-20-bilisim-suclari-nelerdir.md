@@ -47,10 +47,12 @@ Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi işlediği bu b
 
 Yargıtay bir kararında eşlerden birinin de diğerine ait facebook adresinin şifresini değiştirerek erişimi engellemesi ve uygunsuz resim paylaşmasını TCK md. 244/2 kapsamında sisteme girişi engelleme ve verileri değiştirme bilişim suçu olarak kabul etmiştir.
 
-![Bilişim Suçları](https://camo.githubusercontent.com/4caa405f9cacec2e5c8d0bd4b7ef50ce3beb8d77/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79526c426f302e6a7067 "Bilişim suçları")
+
 
 ###3- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi (TCK md. 244/3)
 ---
+
+![Bilişim Suçları](https://camo.githubusercontent.com/4caa405f9cacec2e5c8d0bd4b7ef50ce3beb8d77/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79526c426f302e6a7067 "Bilişim suçları")
 
 Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka veya kamu kurumunun bilişim sistemi üzerinden gerçekleştirilmesinin daha ağır şekilde cezalandırılması öngörülmüştür. Bu fıkra bilişim suçunun nitelikli hali olarak kabul edildiğinden **bilişim suçu**nun ikinci fıkradaki cezası yarı oranında arttırılarak ceza 9 aydan 4,5 yıla kadar hapis cezası olmaktadır.
 
