@@ -3,8 +3,8 @@ layout: blog
 title: HAKARET SUÇU ve CEZASI
 category: ceza-hukuku
 googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul avukat
-summary: Hakaret Suçu, Hakaret suçu nedir? Hakaret suçunun cezası nedir? Hangi söz ve davranışlar hakaret suçunu oluşturur? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Hakaret suçu cezası, Alenen hakaret, Hakaret suçu ve hükmün açıklanmasının geri bırakılması, Hakaret suçu ve şikayet süresi.
-keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat,
+summary: Hakaret Suçu, Hakaret suçu nedir? Hakaret suçunun cezası nedir? Hangi söz ve davranışlar hakaret suçunu oluşturur? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Hakaret suçu cezası, Alenen hakaret, Cumhurbaşkanına hakeret suçu, Hakaret suçu ve hükmün açıklanmasının geri bırakılması, Hakaret suçu ve şikayet süresi.
+keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, ağır ceza avukatı, Cumhurbaşkanına hakaret suçu, bakırköy avukat, istanbul avukat, ataköy avukat,
 ---
 
 ##Hakaret Suçu Nedir?
@@ -91,6 +91,16 @@ TCK md. 129/1’e göre, hakaret suçunun bir haksız fiile tepki olarak işlenm
 TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenmesi halinde faile ceza verilmez. Örneğin, yüzüne tokat atarak burnun kanamasına neden olan kişiye hakaret edilmesi halinde faile ceza verilemez.
 
 Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şekilde düzenlenmiştir. 
+
+###Cumhurbaşkanına Hakaret Suçu
+
+Cumhurbaşkanına hakaret suçu, TCK md. 299'da ayrıca düzenlenmiştir. Cumhurbaşkanına hakaret suçu ile Cumhurbaşkanının toplumsal değeri konusunda toplumun sahip olduğu duygu ve düşünceleri sarsan fiil ve sıfatların isnat edilmesi cezalandırılmaktadır.
+
+Cumhurbaşkanına hakaret suçu ile cumhurbaşkanlığı makamının fonksiyonları değil, şerefi korunmak istenmiştir.
+
+Suçun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
+
+Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezasıdır. Suçun alenen işlenmesi halinde verilecek ceza 1/6 oranında arttırılır.
 
 ###Hakaret Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
