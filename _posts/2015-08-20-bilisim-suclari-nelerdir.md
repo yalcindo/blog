@@ -93,7 +93,9 @@ Sahte olarak üretilen veya sahtecilik yapılarak değiştirilen bir banka veya 
 * Bilişim suçları arasında düzenlenen 'kredi kartının kötüye kullanılması bilişim suçu' sadece kredi kartının fiziken kullanılması ile değil, kredi kartı fiziken elde olmadığı halde kart bilgilerinin kullanılmasıyla da oluşur. Bu nedenle sanık TCK md. 245'te düzenlenen **bilişim suçu** çerçevesinde cezalandırılmalıdır (Yargıtay 8. Ceza Dairesi - Esas No: 2013/15238, Karar No: 2014/9843, Tarih: 16.4.2014).
 
 
-* Bilişim suçları, hırsızlık suçu niteliğini almışsabilişim suçu suretiyle hırsızlık suçunu düzenleyen TCK md. 142/2-e
+* Bilişim suçları hırsızlık suçu niteliğini almışsa sanık, **bilişim suçu** suretiyle hırsızlık suçunu düzenleyen TCK md. 142/2-e gereği cezalandırılmalıdır. Mevcut olayda sanık, kontör satan bayiinin bilgiyar programındaki şifreyi ele geçirmiş, kendisine ve başkalrına internet üzerinden kontör göndermiştir. Sanık TCK 142/2-e maddesinde yer alan bilişim suretiyle hırsızlık suçundan cezalandırılmalıdır (Yargıtay 13. Ceza Dairesi - Esas No: 2013/8784, Karar No: 2014/9032, Tarih: 13.3.2014).
+
+* Bilişim suçları elektronik ortamda işlenen suçlardandır. **Bilişim suçları** en çok sosya medya hesapları üzerinden işlenmektedir. Sanık, müştekinin facebook şifresini ele geçirip müştekinin kendi hesabına erişmesini engellemiştir. Bu nedenle TCK md. 244/2'deki **bilişim suçu** işlenmiştir (Yargıtay 8. Ceza Dairesi - Esas No: 2012/33557, Karar No: 2013/25987, Tarih: 1.11.2013).
 
 
 * Sanık, şikayetçiye ait interaktif bankacılık bilgilerini ve şifreyi öğrenerek kendi hesabına internet yoluyla para aktarmıştır. Bu fiil **bilişim suçları** arasında değil, hırsızlık suçu kapsamında düzenlenmiştir. Sanık, TCK md. 142/2-e'de düzenlenen bilişim suretiyle hırsızlık suçundan cezalandırılmaldır (Yargıtay 11. Ceza Dairesi - Esas No: 2011/11569, Karar No: 2011/21245, Tarih: 31.10.2011).
