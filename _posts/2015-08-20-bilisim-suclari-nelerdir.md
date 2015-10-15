@@ -47,6 +47,8 @@ Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi işlediği bu b
 
 Yargıtay bir kararında eşlerden birinin de diğerine ait facebook adresinin şifresini değiştirerek erişimi engellemesi ve uygunsuz resim paylaşmasını TCK md. 244/2 kapsamında sisteme girişi engelleme ve verileri değiştirme bilişim suçu olarak kabul etmiştir.
 
+![Bilişim Suçları](https://camo.githubusercontent.com/4caa405f9cacec2e5c8d0bd4b7ef50ce3beb8d77/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79526c426f302e6a7067 "Bilişim suçları")
+
 ###3- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçlarının, Bir Banka veya Kredi Kurumuna Ya Da Bir Kamu Kurum Veya Kuruluşuna Ait Bilişim Sistemi Üzerinde İşlenmesi (TCK md. 244/3)
 ---
 
@@ -70,6 +72,9 @@ Yargıtay, bir bankanın sistemine girip başka bir hesaba para gönderip bu par
 Gerçek bir kişi kullanılmadan hiç kimseyle yüz yüze gelmeden sadece bilişim sistemi kullanılarak bankalardan haksız çıkar sağlamaya dönük **bilişim suçları** bu fıkraya göre cezalandırılacaktır. Bankaya ait çek, dekont, hesap cüzdanı vs. gibi araçlarla kişilerle muhatap olup onları kandırmakla birlikte bilişim sistemi de kullanılarak bankalardan haksız menfaat temin edilmişse, bu kez **bilişim suçları** değil, TCK md. 158/1-f’deki nitelikli dolandırıcılık suçu işlenmiş olur.
 
 Başkasına ait kredi kartı veya banka kartı bilgilerinin internet üzerinden kullanılarak alışveriş yapılması bu maddedeki **bilişim suçları**nı değil, TCK md. 245’de düzenlenen “banka veya kredi kartlarının kötüye kullanılması” bilişim suçunu oluşturur.
+
+![Bilişim Suçu](https://camo.githubusercontent.com/8aee893bf05d17d65a9870389efe9fcf024c4ad7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584a6f614c362e6a7067 "Bilişim Suçu")
+
 
 ###5- Banka Kartları veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu (TCK md. 245)
 ---
