@@ -126,7 +126,7 @@ Bazı **bilişim suçları** işlendiğinde, sanığa etkin pişmanlık nedeniyl
 
 
 
-
+TCK, bilişim suçu sayısını üç maddeyle sınırlamıştır. Bilişim suçları, teknoloji kullanımına paralel olarak artmaktadır. 
 **Bilişim suçları,** soruşturma zamanında yapıldığı takdirde ispatlanması kolay olan suçlardandırlar. **Bilişim suçu** işleyerek yakalanmayacağını düşünen insanların bir kısmının aslında o sistemi en iyi kullanan insanlar olması şaşırtıcıdır. **Bilişim suçları** işledikleri iddiasıyla yargılanan sanıkların önemli bir kısmı bilişim sistemlerini iyi kullanmayı bildiği halde yakalanmıştır. 
 
 
