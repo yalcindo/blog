@@ -81,7 +81,7 @@ Failin yakarak, yakıcı veya patlayıcı madde kullanarak, toprak kaymasına, �
 
 ###Mala Zarar Verme Suçu ve Etkin Pişmanlık
 
-![Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), işlediği fiilin olumsuz sonuçlarını gideren faile uygulanan bir ceza indirimi nedenidir. **Mala zarar verme suçu** nedeniyle etkin pişmanlık gösteren faile TCK md. 168 gereği ceza indirimi uygulanması gerekir:
+[Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), işlediği fiilin olumsuz sonuçlarını gideren faile uygulanan bir ceza indirimi nedenidir. **Mala zarar verme suçu** nedeniyle etkin pişmanlık gösteren faile TCK md. 168 gereği ceza indirimi uygulanması gerekir:
 
 * Fail, suçu tamamlamasına rağmen henüz hakkında dava açılmamışsa, yani savcılık fail hakkında soruşturma açmasına rağmen henüz iddianameyi mahkemeye vermemişse, zararın bu aşamada giderilmesi halinde failin cezasının 2/3’üne kadarı yargılamayı yapan mahkeme tarafından indirilebilir. Örneğin, mağdurun arabasının camlarını kıran fail, camın bedelini hakkında dava açılmadan önce mağdura öderse bu orandaki ceza indiriminden yararlanacaktır.
 
