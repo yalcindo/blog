@@ -61,7 +61,7 @@ Yönetmelik, bazı suçlar ve cezalar açısından **açık cezaevine geçiş** 
 * İcra-iflas kanunu dışında verilen tazyik hapsi, disiplin veya zorlama hapislerinin tamamı kapalı cezaevinde infaz edilir.
 Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuklanan mahkumların tutukluluk halleri bitene kadar **açık cezaevine ayrılma** hakkını kullanamazlar.
 
-* Açık cezaevindeki çalışma koşullarına uyum sağlayamayacakları idare ve gözlem kurulu kararıyla tespit edilenler **açık cezaevine ayrılma** hakkını kullanmazlar. İdare ve gözlem kurulu kararına bir **ceza avukatı** vasıtasıyla itiraz edilebilir.
+* Açık cezaevindeki çalışma koşullarına uyum sağlayamayacakları idare ve gözlem kurulu kararıyla tespit edilenler **açık cezaevine ayrılma** hakkını kullanmazlar. İdare ve gözlem kurulu kararına bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla itiraz edilebilir.
 
 
 
