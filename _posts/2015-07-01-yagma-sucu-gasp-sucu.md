@@ -68,6 +68,8 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 
 ![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
 
+Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia ve savunmanın mutlaka bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
+
 ##Yağma Suçu ve Malın Değerinin Azlığı Hali 
 
 
