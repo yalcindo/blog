@@ -41,7 +41,7 @@ Polisin silah kullanma yetkisi, yanlış bir şekilde molotof kokteylinin silah 
 ![Ceza Avukatı](https://camo.githubusercontent.com/be70122e9a2c27d8f8ce43f8ca243e089e5c9193/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a30316d2e6a7067 "Ceza Avukatı")
 
 
-Silah kullanma yetkisini denetlemek açısından avukata, özellikle [**ceza avukatı](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faaliyet gösteren avukatlara büyük bir toplumsal sorumluluk düşmektedir.
+Silah kullanma yetkisini denetlemek açısından avukata, özellikle [**ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faaliyet gösteren avukatlara büyük bir toplumsal sorumluluk düşmektedir.
 
 
 
