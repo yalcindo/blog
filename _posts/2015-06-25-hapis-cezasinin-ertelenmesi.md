@@ -56,11 +56,11 @@ Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun vey
 
 **Hapis cezasının ertelenmesi,** hükümlüye uyulması zorunlu birtakım sorumluluklar yükler. Mahkeme **ceza erteleme kararı** verdikten sonra, bir denetim süresi belirler. Bu denetim süresi iki türlüdür; ya mahkeme hükümlü için hiçbir yükümlülük belirlemeden sadece belirlenen sürenin “iyi halli” geçmesini yeterli sayar veya belirlenen denetim süresi içerisinde hükümlünün birtakım yükümlülükleri de yerine getirmesi aranır. 
 
-Tüm koşulları sağladığı için **hapis cezası ertelenen** hükümlü hakkında 1 yıldan az ve 3 yıldan fazla olmamak üzere bir denetim süresi belirlenir. Bu sürenin alt sınırı, mahkum olunan ceza süresinden az olamaz. Yani yargıç, hükümlüye 2 yıl 6 ay ceza vermişse artık 1 yıllık bir denetim süresi belirleyemez, en az 2 yıl 6 aylık bir denetim süresi belirlenmesi gerekir.
+Hakkında **hapis cezası erteleme** kararı verilen hükümlü 1 yıldan az ve 3 yıldan fazla olmamak üzere bir denetim süresine tabi tutulur. Bu sürenin alt sınırı, mahkum olunan ve ceza erteleme kararına konu olan ceza süresinden az olamaz. Yani yargıç, hükümlüye 2 yıl 6 ay ceza vermişse artık 1 yıllık bir denetim süresi belirleyemez, en az 2 yıl 6 aylık bir denetim süresi belirlenmesi gerekir.
 
 Denetim süresi içinde bir meslek veya sanat sahibi olmayan hükümlünün, bu amaçla bir eğitim programına devam ederek bir meslek ve sanat öğrenmesinin sağlanmasına karar verilebilir. Bu durumda örneğin bir hükümlünün 3 yıl boyunca marangozluk atölyesinde bu işi öğrenmesine karar verilebilir.
 
-Bir meslek veya sanat sahibi hükümlünün ise, bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında ücret karşılığında çalıştırılması suretiyle üretime katılımının sağlanmasına karar verilebilir.
+**Ceza erteleme** halinde hükümlü bir meslek veya sanat sahibi ise, hükümlünün bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında ücret karşılığında çalıştırılması suretiyle üretime katılımının sağlanmasına karar verilebilir.
 18 yaşından küçük olan hükümlülerin, bir meslek veya sanat edinmelerini sağlamak amacıyla, gerektiğinde barınma imkânı da bulunan bir eğitim kurumuna devam etmesine, mahkemece karar verilebilir.
 
 Denetim süresi, **hapis cezasının ertelenmesi**ne ilişkin mahkeme kararının kesinleşmesinden sonra başlar. Kural olarak denetim süresi iyi halli geçirildiği takdirde hükümlünün cezası infaz edilmiş sayılır. Fakat hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, hâkimin uyarısına rağmen, uymamakta ısrar etmesi hâlinde; ertelenen cezanın kısmen veya tamamen infaz kurumunda çektirilmesine karar verilir.
@@ -84,7 +84,7 @@ Eğer hakkında **ceza erteleme** kararı verilen kişinin daha önce adli sicil
 ###Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
 
 
-**Hapis cezasının ertelenmesi kararı** temyiz edilebilir. Mahkeme karar verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. **Temyiz incelemesi** Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
+**Hapis cezasının ertelenmesi kararı** temyiz edilebilir. Mahkeme **ceza erteleme** karar verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. **Temyiz incelemesi** Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
 
 
 
