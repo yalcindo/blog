@@ -56,7 +56,9 @@ Yönetmelik, bazı suçlar ve cezalar açısından **açık cezaevine geçiş** 
 
 * Haklarında “iyi halli” olma kararı verilse bile, toplam üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar, **açık cezaevine ayrılma** hakkını kullanamazlar.
 
-* Siyasi suçlardan dolayı mahkum olanlar açık cezaevine geçiş hakkına sahip değildirler. Mahkum cezaevinden koşullu salıverildikten sonra herhangi bir nedenle hakkındaki koşullu salıverilme kararı geri alınırsa, geri alınan cezalarının tamamını kapalı cezaevinde geçirmek zorundadır.
+* Siyasi suçlardan dolayı mahkum olanlar açık cezaevine geçiş hakkına sahip değildirler. 
+
+* Mahkum cezaevinden koşullu salıverildikten sonra herhangi bir nedenle hakkındaki koşullu salıverilme kararı geri alınırsa, geri alınan cezalarının tamamını kapalı cezaevinde geçirmek zorundadır.
 
 * İcra-iflas kanunu dışında verilen tazyik hapsi, disiplin veya zorlama hapislerinin tamamı kapalı cezaevinde infaz edilir.
 Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuklanan mahkumların tutukluluk halleri bitene kadar **açık cezaevine ayrılma** hakkını kullanamazlar.
