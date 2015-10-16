@@ -25,9 +25,11 @@ Türkiye’de spor faaliyetinin yapıldığı alanlarda istenmeyen davranışlar
 Madde 12- Müsabakanın yapılacağı yerde veya yakın çevresindeki yollarda, meydanlarda, caddelerde veya benzeri yerlerde, toplu taşıma araçlarında, umuma açık diğer mekanlarda ferdî veya toplu olarak, takımlar ile taraftarlarını, kulüp başkan ve yöneticilerini, antrenörünü ve sporcularını, hakemleri ve federasyon yöneticilerini, müsabakada görev yapan diğer kişileri, söz veya hareketlerle aşağılayıcı, tahrik ve taciz edici kötü söz niteliğinde slogan atılması ve çirkin tezahüratta bulunulması yasaktır.”
 
 5149 sayılı kanunun yukarıda zikredilen kabahate bağladığı yaptırım ise 19. madde çerçevesinde bazı tedbirlerin uygulanmasıdır.
+
 “Tedbirler
 Madde 19- Üçüncü Bölümde belirtilen yasaklara uymayanlar hakkında; söz konusu fiil, müsabaka alanının seyirciye ayrılmış yerlerinde gerçekleştirilmiş ise bu kişi veya kişiler şartlar müsait olduğu takdirde yetkililer veya güvenlik görevlilerince müsabaka alanı dışına çıkarılır ve haklarında yasal işlemler başlatılır.
 Bu kişi veya kişilerin müsabaka alanı dışına çıkarılmasına, şartlar uygun bulunmadığı takdirde durum her türlü kamera, fotoğraf makinesi gibi teknik araçlarla, tanıkla veya diğer belgelerle tespit edilerek ilgililer hakkında yasal işlem yapılır.”  
+
 Esasen, 5149 sayılı yasa spor yapılan alanlarda meydana gelen düzensizliği gidermek için gerekli önlemleri ve yaptırımları düzenlemiştir. Kanunda suç ve ceza içeren herhangi bir norm olmadığından kısa bir süre sonra yeniden suç ve cezaları belirleyen bir yasal düzenleme yapma gereği ortaya çıkmıştır.
 
 Türkiye’de **spor alanlarında veya çevresinde hakaret içeren tezahürat ve halkı aşağılama suçları** ilk kez 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesi Hakkında Kanun ile yürürlüğe girmiştir. Mevzuatımızda sistematik bir şekilde spor faaliyeti ile ceza hukuku arasında bağ kuran, suç ve cezaları belirleyen ilk kanun 6222 sayılı kanundur.
@@ -36,7 +38,7 @@ Türkiye’de **spor alanlarında veya çevresinde hakaret içeren tezahürat ve
 
 Makalemizde 6222 sayılı kanunun 14.maddesinde hakaret içeren tezahürat başlıklı suç tipini inceleyeceğiz. Kanunun 14.maddesi, ilk fıkrasıyla hakaret içeren tezahüratı, ikinci fıkrasıyla halkı aşağılama suçu olarak adlandırabileceğimiz suç tipini şu şekilde düzenlemiştir:
 
-“**Hakaret içeren tezahürat**
+“**Hakaret içeren tezahürat suçu**
 
 MADDE 14 – (1) Spor alanlarında veya çevresinde taraftarların grup halinde veya münferiden belirli bir kişiyi hedef veya muhatap alıp almadığına bakılmaksızın duyan veya gören kişiler tarafından hakaret olarak algılanacak tarzda aleni olarak söz ve davranışlarda bulunmaları halinde, fiilleri daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, şikayet şartı aranmaksızın, failler hakkında onbeş günden az olmamak üzere adli para cezasına hükmolunur.
 (2) Spor alanlarında veya çevresinde toplum kesimlerini din, dil, ırk, etnik köken, cinsiyet veya mezhep farkı gözeterek hakaret oluşturan söz ve davranışlarda bulunan kişi, fiili daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
