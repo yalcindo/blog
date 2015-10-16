@@ -83,6 +83,8 @@ Hırsızlık suçunun sıvı veya gaz hâlindeki enerji hakkında ve bunların n
 
 Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki katına kadar artırılır. (md. 142/5)
 
+Hırsızlık suçu yüz kızartıcı bir suç olduğundan ceza miktarı ne olursa olsun suçun niteliği nedeniyle yargılanan kişinin tüm hayatını etkileyecek bir suçtur. Bu nedenle hırsızlık suçunda savunma bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılmalıdır.
+
 ###5- Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
 
 *	**Hırsızlık suçu** gece vakti işlenirse faile yukarıda anlattığımız şekilde verilen ceza yarı oranında arttırılır. Yani fail, ister basit hırsızlık suçunu isterse nitelikli hırsızlık suçunu işlesin, suçu gece vakti işlediği takdirde belirlenen temel cezası yarı oranında arttırılır (md. 143)
