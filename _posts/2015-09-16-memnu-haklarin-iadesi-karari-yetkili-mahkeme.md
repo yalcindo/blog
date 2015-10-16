@@ -26,7 +26,7 @@ Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin 
 
 * **Memnu hakların iadesi** için üçüncü şart, cezanın infazından başlamak ve cezanın infazından sonra geçirilmesi gereken 3 yıllık süre de dahil olmak üzere bu süre içerisinde hükümlünün yeni bir suç işlememesi ve yaşamını  “iyi halli” olarak sürdürdüğüne dair mahkemede kanaat oluşturmasıdır. Uygulamada mahkemeler, hükümlü suç işlememiş ve açıkça bilinen olumsuz bir özelliği yoksa hükümlüyü “iyi halli” kabul etmektedirler.
 
-**Memnu hakların iadesi** talebinde bulunmak için yetkili mahkemeye bir dilekçe verilmelidir. Yasaklanmış hakların geri verilmesine dair talepler bir **ceza avukatı** veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
+**Memnu hakların iadesi** talebinde bulunmak için yetkili mahkemeye bir dilekçe verilmelidir. Yasaklanmış hakların geri verilmesine dair talepler bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) veya herhangi bir **avukat** vasıtasıyla da mahkemeye sunabilir.
 
 ##Memnu Hakların İadesi Kararı İçin Yetkili Mahkeme
 
@@ -68,7 +68,7 @@ Bazı mesleklerin özel meslek kuralları vardır. Hükümlü **memnu hakların 
 
 Adli Sicil Kanunu’na göre **memnu hakların iadesi** kararı kişinin adli sicil kaydına ( sabıka kaydına ) işlenir. Böylece **yasaklanmış haklarının geri verilmesi** konusunda kişi hakkında verilen yargı kararına ulaşmak kolaylaşır.
 
-Adli Sicil Kaydının silinmesi ile ilgili bakınız: [**ADLİ SİCİL KAYDININ SİLİNMESİ**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html)
+Memnu hakların iadesi kararı [**adli sicil kaydının silinmesi**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) kararı verildiğinde kayıtlardan çıkarılır.
 
 **Memnu hakların iadesi kararı,** kişinin birçok vatandaşlık hakkını kullanmasına imkan sağladığından hükümlüler için cezanın infazından hemen sonra mutlaka alınması gereken önemli bir mahkeme kararıdır. 
 
