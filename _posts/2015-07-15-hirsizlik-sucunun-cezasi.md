@@ -91,6 +91,9 @@ Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu v
 
 *	**Hırsızlık suçu** konusu malın değeri az ise faile verilen cezada indirim yapılabileceği gibi ceza vermekten de vazgeçilebilir (md. 145)
 
+* Hırsızlık suçu sebebiyle mağdurun  uğradığı zarar giderilirse, sanığa [**etkin pişmanlık nedeniyle ceza indirimi**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html) yapılması mümkündür (TCK md. 168)
+Hırsızlık suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasında, yani  dava açılıncaya kadar giderilirse verilecek cezanın 2/3'üne kadarı indirilir. **Hırsızlık suçu** sebebiyle mağdurun uğradığı maddi zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse sanığa verilecek ceza 1/2 oranında indirilir.
+
 
 
 ###6- Hırsızlık Suçu ve Kullanma Hırsızlığı
@@ -102,6 +105,8 @@ Bir taşınır malı geçici bir süreyle kullanıp iade etmek amacıyla zilyedi
 ##Hırsızlık Suçu Şikayet Süresi
 
 Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmaları gereken suçlardandır. Hırsızlık suçu şikayete tabi olmadığından, bir şikayet süresi de yoktur. Suçun en basit halinde bile 8 yıl olan dava zamanaşımı süresi içerisinde şikayet edildiğinde soruşturma başlatılabilir.
+
+
 
 ##Hırsızlık Suçu Yargıtay Kararları       
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
