@@ -21,7 +21,7 @@ Savunmanın bu özellikli işlevi nedeniyle **avukat**, şüpheli veya sanığı
 
 ###Ağır Ceza Avukatı Adında Ayrı Bir Avukatlık Alanı Var mıdır?
 
-Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alandaki uzmanlığın artmasını sağlamak için branşlaşmayı teşvik etmektedir. Ancak, Türkiye’de bir branş olarak **ağır ceza avukatı** adında ayrı bir avukatlık branşı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden ceza avukatları halk dilinde ağır ceza avukatı olarak adlandırılmaktadır. 
+Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alandaki uzmanlığın artmasını sağlamak için branşlaşmayı teşvik etmektedir. Ancak, Türkiye’de bir branş olarak **ağır ceza avukatı** adında ayrı bir avukatlık branşı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden ceza avukatları halk dilinde bu şekilde adlandırılmaktadır. 
 
 ###Mevzuatta Ağır Ceza Avukatı Var mı?
 
@@ -29,7 +29,7 @@ Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alan
 
 [![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
 
-Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta halk arasındaki bu adlandırmayı karşılayacak bir düzenleme yapılmamıştır. Bu nedenle, ceza avukatı deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ceza avukatı** olarak nitelenen avukat, mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu nedenle **ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere kullanıldığını görmekteyiz.
+Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta halk arasındaki bu adlandırmayı karşılayacak bir düzenleme yapılmamıştır. Bu nedenle, ceza avukatı deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ceza avukatı** olarak nitelenen avukat, mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"** şeklinde beyanda bulunur. Bu nedenle **ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere kullanıldığını görmekteyiz.
 
 
 
@@ -52,7 +52,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 ###Bir Davada Ağır Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
 
-Ağır ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
+Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
 
 Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
 
