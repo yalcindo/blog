@@ -12,7 +12,7 @@ summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kap
 **Açık cezaevi,** ceza miktarının azlığı veya belli bir kısmının kapalı cezaevinde infaz edilmiş olması halinde, iyi halli hükümlünün toplumla yeniden bağ kurması ve üretim faaliyetine katılması için tasarlanmış cezaevi olarak tanımlanmaktadır. **Açık cezaevi**nin içinde çeşitli meslek ve sanatları hükümlüye öğretmeye yarayan iş atölyeleri vardır. Hükümlü, belli bir süre sonra belli aralıklarla dışarıya çıkıp ailesiyle vakit geçirebilmektedir. Firara karşı güvenlik önlemleri sıkı olmayan **açık cezaevine geçiş şartları** bir yönetmelikle düzenlenmiştir.
 
 ![Açık Cezaevi](https://camo.githubusercontent.com/5dcee5101b53e7d276466b9460ab0caedcb0cf54/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a32306d506e2e6a7067 "Açık Cezaevine Geçiş Şartları")          
-Açık Cezaevi
+
 
 
 ##Açık Cezaevine Geçiş Şartları
@@ -36,7 +36,7 @@ Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezae
 ###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Hakkı ( md. 6 )
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/1de687e733c89c54e10bec0972e8c681ba11ec71/687474703a2f2f692e68697a6c69726573696d2e636f6d2f57455a30344e2e6a7067 "Ceza Avukatı")    Kapalı Cezaevi
+![Ceza Avukatı](https://camo.githubusercontent.com/4f5d7c4e2b769e88c010fb827cc6dad9358e2452/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4735357a42722e6a7067 "Ceza Avukatı")   
 
 Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler **açık cezaevine ayrılma** hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
 
