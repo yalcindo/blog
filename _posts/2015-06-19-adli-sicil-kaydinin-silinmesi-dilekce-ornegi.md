@@ -77,6 +77,8 @@ kararlar, **adli sicil kaydı**nda kendilerine mahsus bir bölümde kaydedilirle
 
 3) Ceza zamanaşımının dolması veya genel af veya kişinin ölümü halinde **adli sicil kaydı** silinir.
 
+Uygulamada adli sicil kaydının silinmesi ile ilgili mağduriyetler oluştuğundan hükümlünün hukuki durumunun bir [**ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi hak kaybını önleyecektir.
+
 ###Adli Sicil "Arşiv Kaydı" Ne Zaman Silinir?
 
 **Adli sicil kaydı** ile arşiv kaydı iki farklı kavramdır. Mahkumiyet hükümleri önce **adli sicil kaydı**na alınır, daha sonra belli koşulların gerçekleşmesi halinde, mahkumiyet hükmüne dair bilgiler silinerek arşiv kaydına alınır. Arşiv kaydı belli koşulların gerçekleşmesi halinde silinebilir:
