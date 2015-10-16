@@ -80,5 +80,8 @@ Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini �
 
 
 **Haksız tahrik,** sanığa verilecek cezada önemli oranda indirim imkanı sağladığından savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması failin lehine olacaktır.
+
+
+
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
  
