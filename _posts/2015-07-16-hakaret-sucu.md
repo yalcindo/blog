@@ -49,7 +49,7 @@ Günümüzde **hakaret suçu** en çok çağdaş iletişim araçlarıyla işlenm
 ![İnternet Yoluyla Hakaret Suçu](https://camo.githubusercontent.com/5e5dd7edda643ac4f81dce5353d2e60068ef7f34/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c346b6d67302e6a7067 "İnternet Yoluyla Hakaret Suçu")
 
 
-Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir **ceza avukatı** ile görüşülmelidir.
+Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşülmelidir.
 
 ###Hakaret Suçunun Cezası Nedir?
 
