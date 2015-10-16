@@ -63,7 +63,7 @@ Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile s
 
 Failin eylemi **meşru müdafaa** şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi **meşru savunma** sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
 
-Haksız tahrik indirimi ayrıntılı bilgi için bakınız: [**HAKSIZ TAHRİK ve CEZA İNDİRİMİ**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html)
+[**Haksız tahrik indirimi**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html), işlenen fiili meşru müdafaa gibi hukuka uygun hale getirmez, sadece ceza indirimi hakkı sağlar. 
 
 
 ###Meşru Savunmada (Meşru Müdafaada) Sınırın Aşılması
