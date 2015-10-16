@@ -79,6 +79,6 @@ Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini �
 * Sanık, ceza mahkemesi tarafından **haksız tahrik indirimi** yapılarak cezalandırılmıştır. Ceza davasının sanığı olan kişi maddi tazminat davasının davalısıdır. **Haksız tahrik** nedeniyle ceza mahkemesinde ceza indirimi yapılan davalı aleyhine hukuk mahkemesinde maddi tazminat hesaplanırken maddi tazminattan indirim yapılması gerekir ( Yargıtay 4. Hukuk Dairesi – Esas No: 2012/5199, Karar No: 2013/4685, Tarih: 14.03.2013 ).
 
 
-Haksız tahrik, sanığa verilecek cezada önemli oranda indirim imkanı sağladığından savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması failin lehine olacaktır.
+**Haksız tahrik,** sanığa verilecek cezada önemli oranda indirim imkanı sağladığından savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması failin lehine olacaktır.
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
  
