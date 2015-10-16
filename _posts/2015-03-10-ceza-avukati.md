@@ -33,10 +33,10 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 
 
 
-###Ağır Ceza Avukatı Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
+###Ceza Avukatları Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
 
 
-**Avukat,** sanığın yalnızca hukuki temsilcisidir. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. Ceza muhakemesi, yaşanmış bir olayın mahkemede deliller vasıtasıyla yeniden canlandırılması faaliyetidir. Doğal olarak yaşanmış bir olayın nasıl gerçekleştiğini ancak o olayın parçası olan şahıslar bilebilir. **Ağır ceza avukatı**, sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
+**Avukat,** sanığın yalnızca hukuki temsilcisidir. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. Ceza muhakemesi, yaşanmış bir olayın mahkemede deliller vasıtasıyla yeniden canlandırılması faaliyetidir. Doğal olarak yaşanmış bir olayın nasıl gerçekleştiğini ancak o olayın parçası olan şahıslar bilebilir. **ceza avukatları**, sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
 
 
 
@@ -49,7 +49,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 [![Ağır Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ağır Ceza Avukatı")
 
 
-###Bir Davada Ağır Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
+###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
 
 Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
