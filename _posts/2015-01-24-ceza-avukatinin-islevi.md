@@ -111,10 +111,10 @@ Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık
 İnfaz aşamasında kanunların yanlış yorumu nedeniyle birçok hak kaybı yaşanmaktadır. Örneğin, Türkiye'de son dönemde sık sık denetimli serbestlik yasası ve açık cezaevine geçiş şartları değişmektedir. **Ceza avukatı,** hükümlü müvekkilinin haklarını infaz aşamasında da koruyarak etkin bir hukuki yardım yapmaktadır.
 
 
-###Ceza Avukatlığı, Ceza Avukatı Olmak
+###Ceza Avukatları, Ağır Ceza Avukatları
 
 
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki **ceza avukatlığı,** avukatlığın en zor alanlarından biridir. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **avukat** ararlar. **Ceza avukatı,** müvekkilinin ne zaman nerde soruşturmaya muhatap olacağını bilemeyeceğinden ceza avukatlığı, bazen avukatın iş akışının da düzensizleşmesine yol açar. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle ceza avukatı olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışmaktadır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **avukat** ararlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
 
 
 
