@@ -80,7 +80,7 @@ Görevi kötüye kullanma suçunun temel cezası TCK 257/1 maddesi gereği 6 ayd
 
 Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk (polis, jandarma vs.) gerekse savcılık suçu öğrendiği anda soruşturma işlemlerini kendiliğinden başlatmalıdır.
 
-**Görevi kötüye kullanma suçu,** ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir **ceza avukatı** vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
+**Görevi kötüye kullanma suçu,** ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
 
 ##Görevi Kötüye Kullanma Suçu Yargıtay Kararları        
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Görevi Kötüye Kullanma Suçu Yargıtay Kararları")
