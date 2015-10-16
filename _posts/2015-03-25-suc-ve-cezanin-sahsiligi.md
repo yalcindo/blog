@@ -18,6 +18,6 @@ summary: Suç ve cezanın şahsiliği ilkesi, Ceza sorumluluğunun şahsiliği, 
 
 Devletlerin cezai sorumluluğu açısından da diğer tüzel kişilere benzer bir sorumluluk rejimi olduğunu söylemek mümkündür. Devletler uluslararası hukuk kişiliğine sahip olmaları, hak ve borçlar edinebilmeleri nedeniyle, uluslararası devletler hukuku gereği sorumluluk altındadır. Fakat devletlerin cezai sorumluluğu kabul edilmemektedir. Suç teşkil eden fiil hangi devlet görevlisi tarafından işlenmişse cezai sorumluluk da o şahsa ait olmaktadır.
 
-Kanunlar, **suç ve cezaların şahsiliği ilkesi**nin vücut bulması için birçok mekanizma öngörmüştür. Uygulamada sahada **ceza avukatı** olarak çalışan avukatların gerek kolluk uygulamaları gerekse yargı organlarının uygulamaları açısından bu ilkenin uygulandığını gözetmeleri gerekir.
+Kanunlar, **suç ve cezaların şahsiliği ilkesi**nin vücut bulması için birçok mekanizma öngörmüştür. Uygulamada sahada [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak çalışan avukatların gerek kolluk uygulamaları gerekse yargı organlarının uygulamaları açısından bu ilkenin uygulandığını gözetmeleri gerekir.
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
