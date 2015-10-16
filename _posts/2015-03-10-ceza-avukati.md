@@ -1,65 +1,69 @@
 ---
 layout: blog
-title: Ceza Avukatı
+title: Ağır Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
-summary: Avukat, Ceza avukatı, Ağır ceza avukatı gibi kavramlar ve ceza avukatının savunma işlevi birkaç soruyla özetlenmiştir.
+googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
+summary: Avukat, Ceza avukatı, Ağır ceza avukatı gibi kavramlar ve ceza avukatlarının savunma işlevi birkaç soruyla özetlenmiştir.
 keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
 
 ---
 
-##Ceza  Avukatı ve Savunma
+![Ağır Ceza Avukatı](https://camo.githubusercontent.com/84f7c716f82f119b4f5c8f4746caa9131cf144ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3945454e4f5a2e6a7067 "Ağır Ceza Avukatı")
+
+##Ağır Ceza  Avukatı ve Savunma
 
 
-Avukatlık mesleğinin en zor alanlarından biri ceza avukatlığıdır. Hem kişi özgürlüğü açısından hem mağdur hakları açısından toplumun en hassas sorunlarıyla uğraşır. Esasen her avukatın yaptığı gibi **ceza avukatı** da savunma işlevini yerine getirmeye çalışır. Fakat **ceza avukatı**nın savunma işlevi diğer avukatlık branşlarının savunma işlevinden biraz farklıdır. [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html), doğrudan kişi özgürlüğünü etkileyebilecek bir fonksiyon icra eder.
+Avukatlık mesleğinin en zor çalışma alanlarından biri **ağır ceza avukatı** olarak çalışmaktır. Ağır ceza avukatı, hem kişi özgürlüğü açısından hem mağdur hakları açısından toplumun en hassas sorunlarıyla uğraşır. Esasen her avukatın yaptığı gibi **ağır ceza avukatı**da savunma işlevini yerine getirmeye çalışır. Fakat, ağır ceza avukatının savunma işlevi diğer avukatlık branşlarının savunma işlevinden biraz farklıdır. Ağır ceza avukatı, doğrudan kişi özgürlüğünü ilgilendiren bir alanda fonksiyon icra eder.
 
-Savunmanın bu özellikli işlevi nedeniyle **avukat** şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
+Savunmanın bu özellikli işlevi nedeniyle **avukat**, şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
 
 
 
-###Ceza Avukatı Adında Ayrı Bir Avukatlık Alanı Var mıdır?
+###Ağır Ceza Avukatı Adında Ayrı Bir Avukatlık Alanı Var mıdır?
 
-Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alandaki uzmanlığın artmasını sağlamak için branşlaşmayı teşvik etmektedir. Ancak, Türkiye’de bir branş olarak **ceza avukatı** adında ayrı bir avukatlık alanı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden avukatlara halk dilinde ceza avukatı denilmektedir. 
+Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alandaki uzmanlığın artmasını sağlamak için branşlaşmayı teşvik etmektedir. Ancak, Türkiye’de bir branş olarak **ağır ceza avukatı** adında ayrı bir avukatlık branşı mevcut değildir. 1136 sayılı Avukatlık Kanunu’na göre avukatlar her türlü davada müvekkillerini serbestçe savunabilir. Bu nedenle branşlaşma Türkiye’de yoktur. Ceza davalarına giren, soruşturmalarda şüphelileri savunan, müşteki veya mağdur vekilliği yapan, kısaca ceza hukukuyla ilgili işlemleri takip edip savunma görevi icra eden ceza avukatları halk dilinde ağır ceza avukatı olarak adlandırılmaktadır. 
 
-###Ağır Ceza Avukatı Ne Demek?
+###Mevzuatta Ağır Ceza Avukatı Var mı?
 
 **Ağır ceza avukatı,** belki de halk arasında en çok kullanılan deyimdir. Mevzuatta **ağır ceza avukatı** tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de **avukat,** her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ağır ceza avukatı** denilmektedir. 
 
 [![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
 
-Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta bunun herhangi bir karşılığı yoktur. Bu nedenle, **ağır ceza avukatı** deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ağır ceza avukatı** olarak nitelenen **avukat,** mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu durum da **ağır ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere kullanıldığını görmekteyiz.
+Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta halk arasındaki bu adlandırmayı karşılayacak bir düzenleme yapılmamıştır. Bu nedenle, **ağır ceza avukatı** deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ağır ceza avukatı** olarak nitelenen **avukat,** mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"*** şeklinde beyanda bulunur. Bu nedenle **ağır ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere kullanıldığını görmekteyiz.
 
 
 
-###Ceza Avukatı Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
+###Ağır Ceza Avukatı Duruşmada Sanık Yerine Beyanda Bulunabilir mi?
 
 
-**Avukat,** sanığın yalnızca hukuki temsilcisidir. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. Ceza muhakemesi, yaşanmış bir olayın mahkemede deliller vasıtasıyla yeniden canlandırılması faaliyetidir. Doğal olarak yaşanmış bir olayın nasıl gerçekleştiğini ancak o olayın parçası olan şahıslar bilebilir. **Ceza avukatı,** sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
+**Avukat,** sanığın yalnızca hukuki temsilcisidir. Savunmanın sadece hukuki boyutuyla ilgili müvekkilini mahkeme nezdinde savunur. Yoksa savunduğu kişinin yerine geçip olayı anlatamaz. Yargılanan şahıs olaya dair bilgi ve görgüsünü kendisi anlatacaktır. Ceza muhakemesi, yaşanmış bir olayın mahkemede deliller vasıtasıyla yeniden canlandırılması faaliyetidir. Doğal olarak yaşanmış bir olayın nasıl gerçekleştiğini ancak o olayın parçası olan şahıslar bilebilir. **Ağır ceza avukatı**, sanığı temsilen delil sunabilir, sunulan delilleri değerlendirebilir, gerekli itirazları yapabilir; tanık, müşteki ve yargılama makamı dışında olup yargılamaya katılan diğer kişilere olayı aydınlatmak ve müvekkilini savunmak için sorular sorabilir.
 
 
 
-###Ceza Avukatı Aynı Davada En Fazla Kaç Kişiyi Savunabilir?
+###Ağır Ceza Avukatı Aynı Davada En Fazla Kaç Kişiyi Savunabilir?
 
 
-**Ceza avukatı** aynı davada birden fazla kişiyi savunabilir. Savunduğu kişilerin sayısının önemi yoktur. Aynı anda yüzlerce kişiyi de savunabilir. Önemli olan savunduğu kişiler arasında menfaat çelişkisi olmamasıdır. Yani, avukatın bir kişi hakkında yaptığı savunma, savunduğu diğer kişinin savunma haklarına zarar verebilecek veya onu daha iyi savunmasını engelleyebilecekse iki müvekkil arasında menfaat çelişkisi olduğu kabul edilir. Menfaat çelişkisi oluştuğu durumlarda **avukat** iki müvekkilinden birini savunmayı tercih etmek zorundadır. Aksi takdirde kişilerin savunmaları arasında meydana gelen menfaat çelişkisi nedeniyle savunma hakkı zarar görür.
+**Ağır Ceza avukatı** aynı davada birden fazla kişiyi savunabilir. Savunduğu kişilerin sayısının önemi yoktur. Aynı anda yüzlerce kişiyi de savunabilir. Önemli olan savunduğu kişiler arasında menfaat çelişkisi olmamasıdır. Yani, avukatın bir kişi hakkında yaptığı savunma, savunduğu diğer kişinin savunma haklarına zarar verebilecek veya onu daha iyi savunmasını engelleyebilecekse iki müvekkil arasında menfaat çelişkisi olduğu kabul edilir. Menfaat çelişkisi oluştuğu durumlarda **avukat** iki müvekkilinden birini savunmayı tercih etmek zorundadır. Aksi takdirde kişilerin savunmaları arasında meydana gelen menfaat çelişkisi nedeniyle savunma hakkı zarar görür.
 
 
-[![Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ceza Avukatı")
+[![Ağır Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ağır Ceza Avukatı")
 
 
-###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
+###Bir Davada Ağır Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
 
 
-Ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
+Ağır ceza avukatının görevi takip ettiği davanın karara çıkıp kararın kesinleşmesiyle son bulur. Karar kesinleşinceye kadar davayı takip etmek zorundadır. Karar yerel mahkemede verildikten sonra Yargıtay aşaması başlayacaktır. Avukat, Yargıtay aşamasını da kural olarak takip etmelidir. Aksine sözleşme yapmak mümkündür.
 
 Soruşturma aşamasında avukatlık görevi sadece belli soruşturma işlemleri için ifa edilmekteyse o işlemin sonuçlanmasıyla da avukatın görevi son bulur.
 
 
-###Ceza Avukatı ve Suç Kavramı
+###Ağır Ceza Avukatı ve Suç Kavramı
 
 
 Suç kavramı doğrudan toplumun kültürel, ekonomik ve siyasal yapısıyla da ilintili olduğundan **avukat** toplumu çeşitli yönleriyle görebilen bir sosyolog gibidir. Her suç toplumun ne yönde bir sorunla karşı karşıya olduğunun habercisidir. Ekonomik sorunların arttığı dönemlerde hırsızlık, gasp, dolandırıcılık gibi suçların artması bunun en büyük örneğidir.
 
 Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama vardır. Halbuki avukat, Ceza Muhakemesi Kanunu’nun kendisine verdiği yetkiye dayanarak savunmanın sadece hukuki yönüyle ilgilidir. **Avukat** şüpheli veya sanıkla özdeşleştiği yönünde kanaatlerin oluşmasına neden olacak davranışlardan kaçınmakla yükümlüdür. 
+
+**Ağır ceza avukatları**, hukukunun en çekişmeli en sorunlu alanında mesleki faaliyet icra etmektedir. Özellikle toplum yargılamadaki rolü nedeniyle avukatı taraflarla özdeşleştirdiğinden, **ağır ceza avukatı**, görevini ifa ederken avukatlık meslek etik kurallarına dikkat etmelidir. 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
