@@ -126,7 +126,7 @@ Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği içi
 * Ziraat Bankası kamu bankası niteliğinde olduğundan sanığın ATM'ye zarar verme eylemi, kamu malına zarar verme suçunu düzenleyen TCK 152/1-a maddesi gereği cezalandırılmalıdır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/2231, Karar No: 2012/10565, Tarih: 4.10.2012).
 
 
-**Mala zarar verme suçu** belki de en çok ve en kolay işlenen suçlardan biridir. Suçun basit şeklinin şikayete tabi olması nedeniyle birçok olay adliyeye intikal etmemektedir. Özellikle bu suçun hırsızlık, yağma, dolandırıcılık gibi diğer suçlarla birlikte işlenmesi halinde, suçun bileşik suça dönüşüp dönüşmediği savunma veya iddia görevini üstlenen **ceza avukatı** tarafından titizlikle değerlendirilmesi gerekir.
+**Mala zarar verme suçu** belki de en çok ve en kolay işlenen suçlardan biridir. Suçun basit şeklinin şikayete tabi olması nedeniyle birçok olay adliyeye intikal etmemektedir. Özellikle bu suçun hırsızlık, yağma, dolandırıcılık gibi diğer suçlarla birlikte işlenmesi halinde, suçun bileşik suça dönüşüp dönüşmediği savunma veya iddia görevini üstlenen [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından titizlikle değerlendirilmesi gerekir.
 
 
 **Bakırköy-İstanbul Avukat Baran Doğan**
