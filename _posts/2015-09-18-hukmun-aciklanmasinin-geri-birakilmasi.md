@@ -106,7 +106,7 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 
 **Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
 
-**Hükmün açıklanmasının geri bırakılmasına itiraz,** henüz etkin bir kanun yoluna dönüşmüş değildir. Yapılan itirazlar dosya üzerinden incelenerek karar verilmektedir.
+**Hükmün açıklanmasının geri bırakılmasına itiraz,** henüz etkin bir kanun yoluna dönüşmüş değildir. Yapılan itirazlar hakkında dosya üzerinden inceleme yapılarak karar verilmektedir.
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararının Memurluğa Etkisi Nedir?
 
@@ -118,9 +118,9 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı mı Hapis Cezasının Ertelenmesi Kararı mı Sanık Lehinedir?
 
-[**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html), kurumunda mahkemenin verdiği karar hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle hapis cezasının ertelenmesi halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **HAGB** kararı verilmişse milletvekili olması önünde hiçbir engel yoktur. 
+[**Hapis Cezasının Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kararında mahkemenin verdiği karar, hukuk sisteminde derhal sonuç doğurmaya başlar. Ceza erteleme kararı bir cezanın infazı şeklidir. Halbuki **hükmün açıklanmasının geri bırakılması** kararında ortada hukuki sonuç meydana getirecek bir mahkeme kararı mevcut değildir. Bu nedenle hapis cezasının ertelenmesi halinde sanığın cezası infaz edildiğinden infaz aşamasında birtakım kısıtlamalarla karşılaşacaktır, hatta bazı haklarını kullanmayacaktır. Örneğin, sanık yargılama neticesinde 2 yıl ceza almış ve bu hapis cezası ertelenmişse deneme süresi içinde milletvekili olamaz, ama **HAGB** kararı verilmişse milletvekili olması önünde hiçbir engel yoktur. 
 
-Her iki kavramı karşılaştırmak için bir **ceza avukatı** ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz.
+Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz.
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?) 
