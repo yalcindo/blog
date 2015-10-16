@@ -72,9 +72,9 @@ Denetim süresi, **hapis cezasının ertelenmesi**ne ilişkin mahkeme kararını
 
 **Hapis cezasının ertelenmesi** halinde dahi ortada bir mahkumiyet hükmü vardır. Mahkumiyet hükmü yargılanan kişinin cezaevine girmemesi, velayet-vesayet hakkını kullanması gibi bazı sonuçlar dışında kişinin hayat alanına ceza hukuku müdahalesine neden olur. Hakkında **ceza erteleme** kararı verilen kişinin cezası 1 yıldan fazla ise, ceza infaz edilene kadar memuriyet veya milletvekilliği gibi kamu görevlerine aday dahi olamaz.
 
-**Hapis cezasının ertelenmesi** kurumu, hükmün açıklanmasının geri bırakılması kurumuyla çoğu zaman karıştırılmaktadır. Bu iki kurum arasındaki farkı, hangi kurumun daha çok lehinize olduğunu bir **ceza avukatı** ile görüşmeniz gerekir. **Ceza erteleme** halinde kişi hakkında cezaevine girmek dışında bazı sonuçlar doğuran bir mahkumiyet hükmü vardır, hükmün açıklanmasının geri bırakılması halinde ortada sonuç doğuran bir mahkumiyet hükmü olmadığından bu halde kişi memur da olabilir milletvekili de. 
+**Hapis cezasının ertelenmesi** kurumu, [hükmün açıklanmasının geri bırakılması](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html) kurumuyla çoğu zaman karıştırılmaktadır. Bu iki kurum arasındaki farkı, hangi kurumun daha çok lehinize olduğunu bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşmeniz gerekir. **Ceza erteleme** halinde kişi hakkında cezaevine girmek dışında bazı sonuçlar doğuran bir mahkumiyet hükmü vardır, hükmün açıklanmasının geri bırakılması halinde ortada sonuç doğuran bir mahkumiyet hükmü olmadığından bu halde kişi memur da olabilir milletvekili de. 
 
-Hükmün açıklanmasının geri bırakılmasıyla ilgili ayrıntılı yazımıza şurdan ulaşabilirsiniz: [**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html)
+
 
 ###Bir Kişi Hakkında Kaç Kez Ceza Erteleme Kararı Verilebilir?
 
