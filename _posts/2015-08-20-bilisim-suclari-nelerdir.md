@@ -93,7 +93,7 @@ Sahte olarak üretilen veya sahtecilik yapılarak değiştirilen bir banka veya 
 
 ###Bilişim Suçları ve Etkin Pişmanlık
 
-Bazı **bilişim suçları** işlendiğinde, sanığa [**etkin pişmanlık**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html) nedeniyle ceza indirimi yapılması mümkündür. Bilişim suçları için etkin pişmanlık hükümleri TCK md. 245/5'de düzenlenmiştir. Buna göre yalnızca TCK md. 245/1'de yer alan başkasına ait banka veya kredi kartının sahibinin rızası dışında kullanılması şeklindeki **bilişim suçu** işlendiğinde, şartlarını yerine getirmek kaydıyla, sanık hakkında etkin pişmanlık hükümleri uygulanır.
+Bazı **bilişim suçları** işlendiğinde, sanığa [**etkin pişmanlık nedeniyle ceza indirimi**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html) yapılması mümkündür. Bilişim suçları için etkin pişmanlık hükümleri TCK md. 245/5'de düzenlenmiştir. Buna göre yalnızca TCK md. 245/1'de yer alan başkasına ait banka veya kredi kartının sahibinin rızası dışında kullanılması şeklindeki **bilişim suçu** işlendiğinde, şartlarını yerine getirmek kaydıyla, sanık hakkında etkin pişmanlık hükümleri uygulanır.
 
 **Bilişim suçları** açısından etkin pişmanlık hükümleri TCK md. 168'deki düzenleme çerçevesinde uygulanacaktır. Buna göre, bilişim suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezanın 2/3'üne kadarı indirilir. **Bilişim suçu** nedeniyle mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse sanığa verilecek ceza 1/2 oranında indirilir.
 
