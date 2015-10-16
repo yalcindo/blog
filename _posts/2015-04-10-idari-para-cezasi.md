@@ -42,6 +42,8 @@ Danıştay kararlarına göre, idari işlemlerde itiraz süresinin muhataba bild
 
 Bazı idari kurumların verdiği cezalara karşı özel kanunlarındaki hükümler gereği idare mahkemesine iptal davası açmak gerekir. Örneğin, SGK’nın verdiği idari para cezaları.
 
+İdari para cezasına itiraz konusunda uygulamada ciddi yanlışlıklar yapılmaktadır. Bu nedenle, yüksek meblağlı idari para cezasına yapılan itirazların bir avukat veya [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla yapılması mağduriyetleri önleyecektir.
+
 ###Yoklama Kaçağı, Bakaya Kalma Nedeniyle Verilen İdari Para Cezasına İtiraz Süresi Nedir? Nereye İtiraz Edilir?
 
 
