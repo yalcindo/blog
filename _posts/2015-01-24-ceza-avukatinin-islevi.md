@@ -71,13 +71,13 @@ Mahkemede görülen dava karara bağlanıncaya, temyiz aşamasında temyiz incel
 ###Ceza avukatı ve Ceza davası
 
 
-**Ceza avukatı,** aldığı **ceza davası** dosyasını özenle inceler, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşır. Ceza davası dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
+**Ceza avukatı,** aldığı ceza davası dosyasını özenle inceler, dava dosyasında önemli noktalara dair notlar alarak bu bilgileri müvekkili ile paylaşır. Ceza davası dosyasında müvekkili lehine veya aleyhine yer alan her türlü bilgiyi müvekkiline aktarır. Ceza yargılaması tarafların delilleri tartıştığı, gerektiğinde yeni delil sunduğu önemli bir süreçtir. Bu süreçte ceza avukatının hukuki yardımı birçok güçlüğün aşılmasına yardımcı olur.  
 
 Her **avukat** bilir ki bir ceza davası yargılanan kişinin temel hak ve özgürlüklerine doğrudan müdahaleyle sonuçlanabilecek bir süreç başlatır. Bu nedenle avukat-müvekkil ilişkileri karşılıklı bilgilendirme temelinde, şeffaf bir şekilde yürümelidir.
 
 ###Ceza Davalarında Ceza Avukatı Tutmak Zorunlu mudur?
 
-Türkiye'deki hukuk sisteminde zorunlu avukatlığın kapsamı yasayla tanımlanmıştır. Buna göre, yaşı küçük olanlar, kendini savunamayacak ölçüde malul, sağır ve dilsiz olan şüpheli, sanık veya müştekiler ile alt sınırı 5 yıldan fazla olan bir suçtan yargılanan şüpheli veya sanıklar **ceza avukatı** tutmak zorundadır. **Avukat** tutmaya maddi gücü yeterli olmayan vatandaşlar için Barolar tarafından ücretsiz **avukat** atanır. 
+Türkiye'deki hukuk sisteminde zorunlu avukatlığın kapsamı yasayla tanımlanmıştır. Buna göre, yaşı küçük olanlar, kendini savunamayacak ölçüde malul, sağır ve dilsiz olan şüpheli, sanık veya müştekiler ile alt sınırı 5 yıldan fazla olan bir suçtan yargılanan şüpheli veya sanıklar **ceza avukatı** tutmak zorundadır. Avukat tutmaya maddi gücü yeterli olmayan vatandaşlar için Barolar tarafından ücretsiz **avukat** atanır. 
 
 Yasa, avukat zorunluluğu arasın veya aramasın, ister müşteki olarak ister sanık olarak bir ceza davasının tarafı olan kişilerin **ceza avukatı**ndan profesyonel yardım almaları yargılama sürecine daha aktif katılmalarını sağlar. Bir avukattan hukuki yardım almak, yargılama sırasında meydana gelecek usul hatalarını, yanlış anlamaları ortadan kaldırır. Hakkın etkin bir şekilde ileri sürülmesini sağlar.
 
@@ -100,7 +100,7 @@ Yargılama sırasında olaya dair anlatımı taraflar yapmak zorundadır. Tarafl
 
 ###En iyi ceza avukatı, ağır ceza avukatı gibi söylemlere itibar etmeli miyim?
 
-Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya ağır ceza avukatı gibi sözler bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
+Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık mesleği branşlaşmış değildir. Bu nedenle, en iyi ceza avukatı veya [**ağır ceza avukatı**]( http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukati.html) gibi tanımlamalar bir gerçeği ifade etmez. Bu söylemler halk dilinde yerleşmiş olmasına rağmen avukatlık mesleğinde herhangi bir karşılığı yoktur. **Ceza avukatı,** ilgilendiği ceza davasını avukatlık meslek kurallarına göre takip eder. Yazımızın giriş kısmında da belirttiğimiz üzere, ceza soruşturma ve davalarını takip eden avukata **ceza avukatı** dememizin nedeni anlaşılır olma kaygısıdır. Yoksa avukatlık mesleğinin başına konulan sıfatların bir anlamı bulunmamaktadır.
 
 ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/591a0d129952129b0dc9dea43139a8ba82b52fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3361724e5a342e6a7067 "Ağır Ceza Avukatı")
 
@@ -114,7 +114,7 @@ Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık
 ###Ceza Avukatları, Ağır Ceza Avukatları
 
 
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışmaktadır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında **avukat** ararlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışmaktadır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında bir avukatın hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
 
 
 
