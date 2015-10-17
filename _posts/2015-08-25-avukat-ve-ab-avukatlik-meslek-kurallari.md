@@ -26,7 +26,7 @@ Avukat, mesleğini geçici olarak icra ettiği yerde bulunan üyesi olmadığı 
 
 ##Avukat ve Ceza Avukatı, Boşanma Avukatı, Tazminat Avukatı vb. Gibi Branşlar
 
-AB Avukatlık Meslek Kuralları, mesleki faaliyet yürütülürken ceza avukatı, boşanma avukatı vb. gibi mesleki alanlarda nasıl hareket edileceğine dair somut kriterler koymamıştır. Çünkü birliğe üye bazı ülkelerde ceza avukatı branşı varken bazı ülkelerde branşlaşma söz konusu değildir. AB Avukatlık Meslek Kuralları avukatlık mesleğini ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı gibi alanlarda tarif etmek yerine savunma fonksiyonu üzerinden tarif etmeyi tercih etmiştir. Savunma fonksiyonu ise ister ağır ceza avukatı isterse tazminat avukatı olsun tüm avukatlar tarafından yerine getirilen temel bir fonksiyondur.
+AB Avukatlık Meslek Kuralları, mesleki faaliyet yürütülürken [**Ceza avukatı,**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) boşanma avukatı vb. gibi mesleki alanlarda nasıl hareket edileceğine dair somut kriterler koymamıştır. Çünkü birliğe üye bazı ülkelerde ceza avukatı branşı varken bazı ülkelerde branşlaşma söz konusu değildir. AB Avukatlık Meslek Kuralları avukatlık mesleğini ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı gibi alanlarda tarif etmek yerine savunma fonksiyonu üzerinden tarif etmeyi tercih etmiştir. Savunma fonksiyonu ise ister ağır ceza avukatı isterse tazminat avukatı olsun tüm avukatlar tarafından yerine getirilen temel bir fonksiyondur.
 
 ![Ceza Avukatı](https://camo.githubusercontent.com/aa0b54df6cca8736e952ea1cd5ac8d831a007d38/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3361723952352e6a7067 "Ceza Avukatı")
 
