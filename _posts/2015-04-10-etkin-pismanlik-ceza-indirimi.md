@@ -66,9 +66,9 @@ Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi*
 
 ####2-) Mala Zarar Verme Suçu, Hırsızlık Suçu, Dolandırıcılık Suçu, Güveni Kötüye Kullanma Suçu Nedeniyle Etkin Pişmanlık ve Ceza İndirimi (TCK 168/1-2)
 
-**Mala zarar verme suçu,** doğrudan malvarlığına yönelik bir suç olduğundan **etkin pişmanlık** nedeniyle **ceza indirimi**nin en kolay uygulanabileceği suçlardandır.
+[**Mala zarar verme suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) doğrudan malvarlığına yönelik bir suç olduğundan **etkin pişmanlık** nedeniyle **ceza indirimi**nin en kolay uygulanabileceği suçlardandır.
 
-**Hırsızlık suçu,** gasp suçunun daha hafif halidir. Yani, başkasına ait mal alınırken mağdura cebir ve şiddet uygulanmamaktadır. Bu nedenle bu suç açısından da zararın giderilmesi etkin pişmanlık açısından önem kazanmaktadır.
+[**Hırsızlık suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) gasp suçunun daha hafif halidir. Yani, başkasına ait mal alınırken mağdura cebir ve şiddet uygulanmamaktadır. Bu nedenle bu suç açısından da zararın giderilmesi etkin pişmanlık açısından önem kazanmaktadır.
 
 **Dolandırıcılık suçu,** hile ve desiseyle mağdurun kandırılarak malvarlığı değerlerinin elinden alınması nedeniyle meydana gelir.
 
