@@ -15,7 +15,7 @@ keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukat
 
 Avukatlık mesleğinin en zor çalışma alanlarından biri **ağır ceza avukatı** olarak çalışmaktır. Ağır ceza avukatı, hem kişi özgürlüğü açısından hem mağdur hakları açısından toplumun en hassas sorunlarıyla uğraşır. Esasen her avukatın yaptığı gibi **ağır ceza avukatı**da savunma işlevini yerine getirmeye çalışır. Fakat, ağır ceza avukatının savunma işlevi diğer avukatlık branşlarının savunma işlevinden biraz farklıdır. Ağır ceza avukatı, doğrudan kişi özgürlüğünü ilgilendiren bir alanda fonksiyon icra eder.
 
-Savunmanın bu özellikli işlevi nedeniyle **avukat**, şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
+Savunmanın bu özellikli işlevi nedeniyle [**ceza avukatı**,](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) şüpheli veya sanığı savunurken müdafi olarak adlandırılır. Müdafi Arapça bir kelime olup koruyan, savunan, müdafaa eden anlamlarına gelir. Özel olarak ceza yargılamasında şüpheli veya sanığı savunan, haklarını koruyan ve onları yargılama işlemlerinde temsil eden avukatı tanımlamak için kullanılır.
 
 
 
