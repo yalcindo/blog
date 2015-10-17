@@ -105,6 +105,6 @@ Müvekkil ile  vekalet ücret sözleşmesi yoksa avukat üyesi bulunduğu baronu
 Avukat mesleki faaliyetini yaptığı işle orantılı bir şekilde sigortalayarak güvence altına almalıdır. AB üyesi başka bir ülkede mesleğini yaparken avukat üyesi olduğu baronun bulunduğu yerin sigorta yükümlülüğü kurallarına tabidir.
 
 
-AB Avukatlık Meslek Kuralları birliğe üye ülkelerdeki tüm avukatlar için geçerlidir. İster **ceza avukatı** isterse boşanma avukatı olunsun üye ülkelerde avukatlık yapılırken AB Avukatlık Meslek Kurallarına uyma mecburiyeti vardır.
+AB Avukatlık Meslek Kuralları birliğe üye ülkelerdeki tüm avukatlar için geçerlidir. İster [**ağır ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukati.html) isterse boşanma avukatı olunsun üye ülkelerde avukatlık yapılırken AB Avukatlık Meslek Kurallarına uyma mecburiyeti vardır.
 
 **İstanbul - Bakırköy  Avukat Baran Doğan**
