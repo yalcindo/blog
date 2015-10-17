@@ -82,6 +82,7 @@ Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şik
 
 * Müşteki şezlongda uzanırken mayolu fotoğrafı sanık tarafından çekilerek derginin ön kapağına haber olarak konulmuştur. Olayda kamu yararı olduğuna dair bir bilgi yoktur. Yerel mahkemenin, "plajın kamuya açık alan olup, gizli alan olmadığı" şeklindeki, özel hayatı salt mekana indirgeyen yaklaşımı doğru değildir. Sanık **özel hayatın gizliliğini ihlal suçu**ndan cezalandırılmalıdır (Yargıtay 12. Ceza Dairesi – Esas No: 2011/7345, Karar No: 2012/8936, Tarih No: 03.04.2012).
 
-* **Özel hayatın gizliliğini ihlal suçu,** bir hukuki değer olan kişilerin özel hayatını ve onurunu koruduğundan soruşturma aşamasının titiz bir şekilde yapılması suç faillerinin yakalanması açısından önemlidir. **Özel hayatın gizliliğini ihlal suçu,** günümüzde bazı teknik araçlar kullanılarak işlendiğinden iddia ve savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması maddi gerçeğin ortaya çıkmasına yardımcı olacaktır.
+
+**Özel hayatın gizliliğini ihlal suçu,** bir hukuki değer olan kişilerin özel hayatını ve onurunu koruduğundan soruşturma aşamasının titiz bir şekilde yapılması suç faillerinin yakalanması açısından önemlidir. **Özel hayatın gizliliğini ihlal suçu,** günümüzde bazı teknik araçlar kullanılarak işlendiğinden iddia ve savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması maddi gerçeğin ortaya çıkmasına yardımcı olacaktır.
 
 **Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
