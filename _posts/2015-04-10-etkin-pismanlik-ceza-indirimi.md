@@ -8,8 +8,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Nedeniyle Ceza İndiriminden
 
 ---
 
----
----
+
 
 ##Etkin Pişmanlık Yasası, Etkin Pişmanlık Ceza İndirimi Nedir? 
 
@@ -113,14 +112,20 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
+####5- Bilişim Suçları Etkin Pişmanlık
+
+[**Bilişim Suçları**,](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda işlenen suçlardır. 
+
+Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka veya kredi kartının rızası dışında kullanılması suçunda etkin pişmanlık nedeniyle ceza indirimi mümkündür. Mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezada 2/3’üne kadar ceza indirimi yapılır. Mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse etkin pişmanlık nedeniyle 1/2 oranında ceza indirimi indirilir.
 
 
-####5-) Kişiyi Hürriyetinden Yoksun Kılma Suçunda Etkin Pişmanlık ve Ceza İndirimi (TCK md.110)
+
+####6-) Kişiyi Hürriyetinden Yoksun Kılma Suçunda Etkin Pişmanlık ve Ceza İndirimi (TCK md.110)
 
 
 **Kişiyi hürriyetinden yoksun kılma suçu,** doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle **etkin pişmanlık** hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. TCK, kişiyi hürriyetinden yoksun kılma suçunu işleyen failin, bu suç nedeniyle soruşturma başlamadan mağdurun şahsına zararı dokunmaksızın onu kendiliğinden güvenli bir yere bırakması halinde, 2/3’ne kadarı oranında **ceza indirimi**nden yararlanmasını öngörmüştür.
 
-####6-) Tehdit Suçunda, Şantaj Suçunda, Konut Dokunulmazlığını İhlal Suçunda Etkin Pişmanlık ve Ceza İndirimi
+####7-) Tehdit Suçunda, Şantaj Suçunda, Konut Dokunulmazlığını İhlal Suçunda Etkin Pişmanlık ve Ceza İndirimi
 
 [**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
 
