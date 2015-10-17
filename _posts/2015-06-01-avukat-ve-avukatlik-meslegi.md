@@ -27,7 +27,7 @@ Uygulamada yabancı hukuk bürolarının danışmanlık hizmetini aşacak bir bi
 
 [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html), ceza yargılamalarında sanığa veya müştekiye hukuki yardımda bulunan avukata halk dilinde yerleşik olarak verilen isimdir. Bir davada **ceza avukatı**ndan hukuki yardım talep edebilmek için yapılan yargılamanın ceza yargılaması olması gerekir.
 
-Uluslararası mahkemeler, kurucu sözleşmelerinde belirtilen amaçlar çerçevesinde faaliyette bulunabilirler. Dolayısıyla mahkemenin amacına ve yargılama faaliyetine göre **ceza avukatı**nın mı yoksa başka bir alanda faaliyet gösteren bir avukatın mı savunma yapması gerektiği belirlenmelidir. Örneğin, Uluslararası Ceza Mahkemesi ceza yargılaması yapmak amacıyla kurulduğundan yargılanan kişinin bir **ceza avukatı** vasıtasıyla kendisini temsil ettirmesi en doğru yöntem olacaktır. Ama Uluslararası Adalet Divanı’nda görülen davalarda **ceza avukatı** ile değil, uluslararası hukuk uzmanlarıyla yürütülmelidir. Bu davalarda savunma kadrosu içinde belki bir **ceza avukatı**nın bulunması faydalı olabilir. Ama sadece devletler arasındaki uyuşmazlıkları çözen bir mahkeme olan Uluslararası Adalet Divanı’nda **ceza avukatı**nın hukuki yardımından ziyade uluslararası hukukun teknik boyutunu bilen hukuk uzmanları daha yararlı bir savunma yapabilecektirler.
+Uluslararası mahkemeler, kurucu sözleşmelerinde belirtilen amaçlar çerçevesinde faaliyette bulunabilirler. Dolayısıyla mahkemenin amacına ve yargılama faaliyetine göre **ceza avukatı**nın mı yoksa başka bir alanda faaliyet gösteren bir avukatın mı savunma yapması gerektiği belirlenmelidir. Örneğin, Uluslararası Ceza Mahkemesi ceza yargılaması yapmak amacıyla kurulduğundan yargılanan kişinin bir **ceza avukatı** vasıtasıyla kendisini temsil ettirmesi en doğru yöntem olacaktır. Ama Uluslararası Adalet Divanı’nda görülen davalarda [**ağır ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukati.html) ile değil, uluslararası hukuk uzmanlarıyla yürütülmelidir. Bu davalarda savunma kadrosu içinde belki bir **ceza avukatı**nın bulunması faydalı olabilir. Ama sadece devletler arasındaki uyuşmazlıkları çözen bir mahkeme olan Uluslararası Adalet Divanı’nda **ceza avukatı**nın hukuki yardımından ziyade uluslararası hukukun teknik boyutunu bilen hukuk uzmanları daha yararlı bir savunma yapabilecektirler.
 
 
 ###Avukatların Avrupa İnsan Hakları Mahkemesi’nde (AİHM) Avukatlık Yapma Yetkisi
@@ -76,7 +76,7 @@ Havana kurallarının ikinci bölümünde, yakalanan veya gözaltına alınan ki
 
 ####3. Avukatın Görev ve Sorumlulukları
 
-Havana kurallarının üçüncü bölümünde **avukat**ın görev ve sorumlulukları açıklanmıştır. **Avukat,*** mesleki şeref ve itibarını her zaman korumakla mükelleftir. **Avukat,** her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
+Havana kurallarının üçüncü bölümünde **avukat**ın görev ve sorumlulukları açıklanmıştır. **Avukat,** mesleki şeref ve itibarını her zaman korumakla mükelleftir. **Avukat,** her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
 
 
 
