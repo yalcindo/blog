@@ -85,6 +85,7 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 
 ###Tehdit Suçu ve Yargıtay Kararlar		
 ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
+
 ---
 
 * Sanığın mağdurun işyerine doğru tabanca ile ateş etmesi şeklindeki eylemin, 5237 sayılı Tck'nın 106/2-a maddesinde tanımlanan **silahlı tehdit suçu**nu oluşturduğu gözetilmeden, suç vasfında yanılgıya düşülerek genel güvenliğin kasten tehlikeye sokulması suçundan mahkumiyet kararı verilmesi hukuka aykırıdır. Fail silahlı tehdit suçundan cezalandırılmalıdır (Yargıtay 4. Ceza Dairesi - Esas No: 2014/11609, Karar No: 2015/17483, Tarih: 16.2.2015).
@@ -101,6 +102,9 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 * Belde Belediye Başkanı olan sanığın belde sakinlerinden birinin evini icra yoluyla satın alan şahsın eşini makamına çağırıp "*evi eski sahibine satılması*" hususundaki teklifinin  kabul olunmaması üzerine "*bu evi sana yar etmem, zaten ruhsatı yok yıktırırım*" şeklindeki sözleri **tehdit suçu**nu oluşturur. 	Fiilin mağdur üzerinde ciddi bir korku yaratabilmesi açısından sonuç almaya objektif olarak elverişli ve uygun olması yeterlidir. Ayrıca somut olayda muhatap üzerinde etkili olması gerekli değildir (Yargıtay 4. Ceza Dairesi - Esas No: 2009/13483, Karar No: 2011/17641, Tarih: 18.10.2011).
 
 * Eski kız arkadaşına "*Benden kolay kurtulamazsın, seni bırakmam, inan yüzüne kezzap dökerim*" şeklinde not gönderen failin fiili **tehdit suçu**nu oluşturur. **Tehdit suçu**nun manevi öğesi genel kasttan ibaret olup suçun yasal tanımındaki unsurlarının bilerek ve istenerek işlenmesini ifade eder. **Tehdit suçu**nda, olayda tasarlamanın varlığı aranmadığı gibi, saikin de önemi yoktur	(Yargıtay 4. Ceza Dairesi - Esas No: 2008/2076, Karar No: 2009/14671, Tarih: 16.9.2009).
+
+
+Tehdit suçu, kişinin özel ve sosyal yaşamında huzur içinde yaşama hakkını koruyan bir suçtur. Özellikle nitelikli tehdit suçunun cezası bu işlevine paralel olarak belirlenmiştir.
 
 	
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
