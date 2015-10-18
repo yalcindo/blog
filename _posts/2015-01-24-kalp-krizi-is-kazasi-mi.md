@@ -8,14 +8,12 @@ summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerind
 ---
 
 
-| Yargıtay Kararları  | Esas No                     | Karar No             |
-|:-------------------:|-----------------------------|----------------------|
-|      vvvv           |        bghyny               |      jmjmjö          |
+
 
 
  
 
-| Yargıtay Dairesi           |      Esas No      |  Karar No |  Tarih     |  
+| Yargıtay Dairesi           |      Esas No      |  Karar No |  Tarih     | 
 |---------------------------:|------------------:|----------:|-----------:|
 | Yargıtay 10. Hukuk Dairesi |  2013/3429        |           | 25.12.2012 |
 
