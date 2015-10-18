@@ -8,7 +8,7 @@ summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerind
 ---
 
 
-______________________________________________________________________________________________________________________________
+
  
 
 | Yargıtay Dairesi   |      Esas No      |  Karar No |  Tarih  |  
