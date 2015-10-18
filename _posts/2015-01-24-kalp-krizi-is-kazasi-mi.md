@@ -19,12 +19,6 @@ summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerind
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 
 
 
