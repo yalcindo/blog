@@ -8,17 +8,10 @@ summary: Adli ve İdari para cezası arasındaki fark kısaca anlatılmıştır.
 ---
 
 
-______________________________________________________________________________________________________________________________
 
-**T.C.
-YARGITAY
-18. CEZA DAİRESİ        
-Esas No.
-2015/16
-Karar No.
-2015/737
-Tarihi
-29.04.2015**        
+
+
+
 
 
 **Para cezası,** hem ceza hukukunu hem de idare hukukunu ilgilendiren bir kavramdır. Bu nedenle ana hatlarıyla iki tür **para cezası** olduğu söylenebilir : İdari Para Cezası ve Adli Para Cezası.
@@ -27,8 +20,6 @@ Tarihi
 
 
 Adli Para Cezası, yalnızca mahkemeler tarafından karar verilebilen **para cezası** türüdür. Adli Para Cezası ile ilgi ayrıntılı yazımıza şu linkten ulaşabilirsiniz: [***Adli Para Cezası***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
-
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
