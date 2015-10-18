@@ -10,7 +10,7 @@ summary: Adli ve İdari para cezası arasındaki fark kısaca anlatılmıştır.
 
 
 | Yargıtay Dairesi           |      Esas No      |  Tarih     | 
-|:---------------------------|:-----------------:|-----------:|
+|---------------------------|-----------------|-----------|
 | Yargıtay 10. Hukuk Dairesi |  2013/3429        | 25.12.2012 |
 
 
