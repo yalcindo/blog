@@ -4,7 +4,7 @@ title: Tutuklama Koşullarına Dair Değerlendirmeler
 category: ceza-hukuku
 keywords: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama şartları, tutuklama nedenleri, Bakırköy avukat, Ataköy avukat, istanbul avukat, tutukluluk
 googleAnahtar: Tutuklama, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, tutuklama şartları, tutuklama nedenleri, Bakırköy avukat, Ataköy avukat, istanbul 
-summary: Tutuklama kararı, Masumiyet (Suçsuzluk) Karinesi, Tutuklamada Ölçülülük İlkesi, Uluslararası Hukukta Tutuklama Koşulları, İnsan Hakları Avrupa Sözleşmesi’nde Tutuklama Koşulları, Tutuklama ve Ceza Muhakemesi Kanunu başlıklarıyla bir dilekçeden yapılan "alıntı" bir yazıdır.
+summary: Tutuklama kararı, Masumiyet (Suçsuzluk) Karinesi, Tutuklamada Ölçülülük İlkesi, Uluslararası Hukukta ve İnsan Hakları Avrupa Sözleşmesi’nde Tutuklama Koşulları, Tutuklama ve Ceza Muhakemesi Kanunu başlıklarıyla bir dilekçeden yapılan "alıntı" bir yazıdır.
 
 ---
 
