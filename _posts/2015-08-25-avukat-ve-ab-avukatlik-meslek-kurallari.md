@@ -4,7 +4,7 @@ title: Avukat ve AB Avukatlık Meslek Kuralları
 category: ceza-hukuku
 googleAnahtar: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, Avrupa Birliği Avukatlık Meslek Kuralları, bakırköy avukat, istanbul avukat
 keywords: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, boşanma avukatı, bakırköy avukat, istanbul avukat
-summary: Avukat ve İşlevi, Avrupa Birliği Avukatlık Meslek Kuralları, Avukat ve Ceza Avukatı, Boşanma Avukatı, Tazminat Avukatı vb. gibi Branşlar, Avukat ve Bağımsızlık, Avukat ve Yargıçlarla İlişkiler, Avukat ve Meslektaşlarla İlişkiler, Avukat ve Meslek Sırrı
+summary: Avukat ve İşlevi, Avrupa Birliği Avukatlık Meslek Kuralları, Avukat ve Ceza Avukatı, Boşanma Avukatı, Tazminat Avukatı vb. gibi Branşlar, Avukat ve Bağımsızlık, Avukat ve Yargıçlarla İlişkiler, Avukat ve Meslek Sırrı
 ---
 
 
