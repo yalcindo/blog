@@ -2,7 +2,8 @@
 layout: blog
 title: Boşanmada Eşlerin Eşit Kusuru -Yargıtay Kararı 
 category: medeni-hukuk
-googleAnahtar: boşanma davalarında eşit kusur, boşanmada eşlerin eşit kusuru, avukat, boşanma avukatı, ataköy avukat, istanbul avukat, Avukat Baran Doğan
+googleAnahtar: boşanma davalarında eşit kusur, boşanmada eşlerin eşit kusuru, avukat, boşanma avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+summary: Boşanma Davası Maddi-Manevi Tazminat, Boşanmada Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat
 ---
 **ÖZET**
 
@@ -24,4 +25,4 @@ KARAR : 1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun seb
 
 SONUÇ : Temyiz edilen hükmün yukarıda 2. bentte gösterilen sebeple kusur belirlemesi ve tazminatlar yönünden BOZULMASINA, hükmün bozma kapsamı dışında kalan temyize konu diğer bölümlerinin ise yukarıda l. bentte gösterilen sebeple ONANMASINA, temyiz peşin harcının yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle, 28.05.2014 tarihinde karar verildi.
 
-***Ataköy - Avukat Baran Doğan***
+***Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan***
