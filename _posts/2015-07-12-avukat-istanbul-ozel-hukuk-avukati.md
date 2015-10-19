@@ -3,8 +3,8 @@ layout: blog
 title: Özel Hukuk İlişkilerinde Avukat
 category: medeni-hukuk
 googleAnahtar: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, boşanmada mal paylaşımı
-summary: Avukat ve Avukatın Özel Hukukta Savunma İşlevi, Ceza Avukatı, Tazminat Avukatı, Gayrimenkul Avukatı, Boşanma Avukatı olarak nitelenen avukatların kendine özgü özellikler arzeden savunma faaliyeti, boşanmada mal paylaşımı 
-keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, boşanmada mal paylaşımı 
+summary: Avukat ve Avukatın Özel Hukukta Savunma İşlevi, Ceza Avukatı, Tazminat Avukatı, Gayrimenkul Avukatı, Boşanma Avukatı olarak nitelenen avukatların kendine özgü özellikler arzeden savunma faaliyeti, Boşanmada Mal Paylaşımı 
+keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, Boşanmada Mal Paylaşımı 
 ---
 ## Avukat ve Avukatın  Özel Hukuktaki İşlevi
 
