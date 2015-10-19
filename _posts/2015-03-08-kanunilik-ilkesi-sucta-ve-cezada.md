@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Suçta ve Cezada Kanunilik İlkesi (NULLUM CRİMEN NULLA POENA SİNE LEGE)
+title: Suçta ve Cezada Kanunilik İlkesi (Kanunsuz Suç ve Ceza Olmaz)
 category: ceza-hukuku
 googleAnahtar: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat
