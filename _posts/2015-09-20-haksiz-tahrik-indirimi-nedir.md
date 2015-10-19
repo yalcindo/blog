@@ -4,7 +4,7 @@ title: Ceza Hukukunda Haksız Tahrik İndirimi
 category: ceza-hukuku
 googleAnahtar: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları Nelerdir? Haksız Tahrikte Dengenin Bozulması Kavramı, Haksız tahrik Nedeniyle Ceza İndirim Oranı, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Öldürme ve Adam Yaralama Suçunda Haksız Tahrik İndirimi
+summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları Nelerdir? Haksız Tahrikte Dengenin Kavramı, Haksız tahrik Nedeniyle Ceza İndirim Oranı, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Öldürme ve Adam Yaralama Suçunda Haksız Tahrik İndirimi
 ---
 
 ##Haksız Tahrik Nedir?
