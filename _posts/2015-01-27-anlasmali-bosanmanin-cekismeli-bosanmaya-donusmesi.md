@@ -2,8 +2,10 @@
 layout: blog
 title: Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi - Yargıtay Kararı 
 category: medeni-hukuk
-googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, ataköy avukat, Avukat Baran Doğan
+googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, ataköy avukat, 
+summary: Anlaşmalı Boşanma, Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi, Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat
 ---
+
 **ÖZET**
 
 Yargıtay tarafından bir boşanma davasında, evlilik birliği içerisinde eşine hakaret eden kadın ile eşiyle ilgilenmeyip zamanını kendi ailesiyle geçiren erkek eşit kusurlu sayılmıştır. Eşlerin eşit kusuru halinde taraflardan herhangi biri lehine maddi-manevi tazminata hükmedilmeyeceği karara bağlanmıştır.
@@ -26,4 +28,4 @@ Davalı ile boşanma ve fer'i sonuçlarında anlaştıklarını belirterek boşa
 
 SONUÇ : Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 08.05.2014 gününde oybirliğiyle karar verildi.
 
-**Ataköy - Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
