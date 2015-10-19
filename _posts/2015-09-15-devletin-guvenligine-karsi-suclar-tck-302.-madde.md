@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: TCK 302. MADDE VE ÖZELLİKLERİ
+title: Siyasi Suçlar-1:Devletin Güvenliğine karşı Suçlar (TCK 302. Madde)
 category: ceza-hukuku
 googleAnahtar: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat 
 keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat 
 summary: TCK 302. maddede “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenen suç tipi incelenmiştir.
 ---
 
-##TCK 302. MADDENİN UYGULAMA KOŞULLARI
+##TCK 302. Maddenin Uygulama Koşulları
 
 
 TCK 302. madde, TCK’nın  “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenmiştir:
@@ -44,7 +44,7 @@ TCK md. 302’deki suç, bir tehlike suçu olup, yukarda açıklanan belirli ama
 
 
 
-##TCK Md. 302 SUÇ VASFININ 	DEĞERLENDİRİLMESİ
+##TCK 302. Madde Suç Vasfının Değerlendirilmesi
 
 Zarar sonucu doğurmaya uygun olmayan eylemler, TCK 302. maddedeki suç kapsamında değerlendirilemez. Eylemin zarar sonucu doğurmaya elverişli olup olmadığı soyut ve genel bir değerlendirme dışında, eylemin işlenme şekli, zamanı, toplumda meydana getirdiği etki, örgütsel bağlılığı ile ölçülür.
 
