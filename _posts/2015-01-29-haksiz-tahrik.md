@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Kasten Adam Öldürme Haksız Tahrik - Yargıtay Kararları    
+title: Kasten Adam Öldürme Haksız Tahrik - Yargıtay Kararı    
 category: ceza-hukuku
 googleAnahtar: haksız tahrik, kasten adam öldürme, şüpheden sanık yararlanır, avukat, ceza avukatı, ağır ceza avukatı
 summary: Haksız Tahrik, Kasten Adam Öldürme Suçunda Haksız Tahrik, Şüpheden Sanık Yararlanır İlkesi
