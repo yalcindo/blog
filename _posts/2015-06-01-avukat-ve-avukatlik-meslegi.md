@@ -3,7 +3,7 @@ layout: blog
 title: Avukat ve Uluslararası Alanda Avukatlık
 category: ceza-hukuku
 googleAnahtar: Avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat,
-summary: Avukat ve Avukatlık Tekeli, Avukat ve Avukatlık Mesleğinn Coğrafi Sınırları, Uluslararası Mahkemelerde Avukatlık, Ceza Avukatı veya Başka Alanlarda Çalışan Avukatların Uluslararası Mahkemelerde Nasıl Avukatlık Yapabilecekleri Anlatılmıştır.
+summary: Avukat ve Avukatlık Tekeli, Avukat ve Avukatlık Mesleğinn Coğrafi Sınırları, Uluslararası Mahkemelerde Avukatlık, Ceza Avukatı veya Diğer Avukatların Uluslararası Mahkemelerde Nasıl Avukatlık Yapabilecekleri Anlatılmıştır.
 keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakırköy avukat, istanbul avukat
 ---
 
