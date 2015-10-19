@@ -3,7 +3,7 @@ layout: blog
 title: İdari Para Cezası
 category: ceza-hukuku
 googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy ataköy avukat
-summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? İdari Para Cezası İtiraz Süresi, İdari Para Cezasına Nereye İtiraz Edilir,Yetkili Mahkeme? İdari Para Cezası Nereye Ödenir? Bakaya ve Yoklama Kaçağı Para Cezası
+summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? İdari Para Cezası Nereye Ödenir ve İtiraz Süresi, İdari Para Cezasına Nereye İtiraz Edilir, Yetkili Mahkeme? Bakaya ve Yoklama Kaçağı Para Cezası
 keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
 ---
 
