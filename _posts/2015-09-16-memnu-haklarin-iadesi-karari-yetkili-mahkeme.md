@@ -4,7 +4,7 @@ title: Memnu Hakların İadesi Şartları, Yetkili Mahkeme
 category: ceza-hukuku
 googleAnahtar: Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy, istanbul avukat
 keywords:  Memnu hakların iadesi, yasaklanmış hakların geri verilmesi, Memnu hakalrın iadesi ve devlet memurluğu, memnu hakların iadesi kararı yetkili mahkeme, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? Memnu hakların iadesi şartları, Memnu hakların iadesi kararı, Memnu hakların iadesi kararı için yetkili mahkeme, Devlet memurluğu ve memnu hakların iadesi, Milletvekilliği ve memnu hakların iadesi kararı, Memnu hakların iadesi kararı verilirse idare hükümlüyü memuriyete kabul etmek zorunda mı? 
+summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? Memnu hakların iadesi şartları, Memnu hakların iadesi kararı için yetkili mahkeme, Milletvekilliği, Devlet memurluğu ve memnu hakların iadesi kararı 
 ---
 ##Memnu Hakların İadesi Nedir?
 
