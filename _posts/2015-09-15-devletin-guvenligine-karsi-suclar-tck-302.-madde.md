@@ -78,7 +78,7 @@ Somut ağır zarar tehlikesi TCK md. 302’nin en önemli ölçütüdür. Somut 
 Örneğin, işlenen yasadışı herhangi bir eylemde insan ölme ihtimalinin yüksek 	olması veya çok sayıda işyerinin örgüt faaliyeti çerçevesinde yakılması halinde, 	sonuç gerçekleşmese bile somut ağır zarar tehlikesinin var olduğu kabul 	edilmektedir.
 
 
-####e- Nedensellik Bağı İçinde Gittikçe Ağırlaşan Fiiller ve TCK 302. Madde
+###e- Nedensellik Bağı İçinde Gittikçe Ağırlaşan Fiiller ve TCK 302. Madde
 
 Mevcut dosyadaki sanıkların fiillerin gelişim seyri tek yönlü ve doğrusaldır. Sanıklar hakkında çeşitli biçimlerde süren ve gittikçe ağırlaşan fiiller işlediklerine dair bir iddia da yoktur. Sanıkların tamamı siyasi faaliyet çerçevesinde yürüttükleri eylemlerle suçlanmaktadır. 
 
