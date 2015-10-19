@@ -4,7 +4,7 @@ title: Kalp Krizi İş Kazası Sayılır mı?
 category: is-hukuku
 googleAnahtar: Kalp Krizi İş Kazası Sayılır mı? ataköy avukat, bakırköy avukat, avukat baran doğan 
 keywords: Kalp Krizi İş Kazası Sayılır mı? ataköy avukat, bakırköy avukat, İstanbul avukat avukat baran doğan 
-summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerinde kalp krizi geçirerek vefat etti. İşverene dava açtık, yerel mahkeme kalp krizini iş kazası olarak kabul etmeyerek davayı reddetti. Kararı temyiz etmemiz üzerine Yargıtay, işyerinde kalp krizi nedeniyle ölümün iş kazası olduğuna karar vererek yerel mahkeme kararını lehimize bozma kararı verdi.
+summary: Avukatlık yaptığımız bir davada, kalp krizini iş kazası saymayan yerel mahkeme kararını temyiz etmemiz üzerine, Yargıtay kalp krizinin iş kazası sayılması gerektiğine, davamızın kabul edilmesi gerektiğine karar verdi.
 ---
 
 
@@ -13,9 +13,9 @@ summary: Avukatlık yaptığımız bir davada, müvekkillerin yakını işyerind
 
  
 
-| Yargıtay Dairesi           |      Esas No      |  Tarih     | 
-|:---------------------------|:-----------------:|-----------:|
-| Yargıtay 10. Hukuk Dairesi |  2013/3429        | 25.12.2012 |
+| Yargıtay Dairesi                   |      Esas No      |  Tarih     | 
+|:-----------------------------------|:-----------------:|-----------:|
+| Yargıtay 10. Hukuk Dairesi         |  2013/3429        | 25.12.2012 |
 
 
 
