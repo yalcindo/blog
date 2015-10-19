@@ -50,11 +50,11 @@ Zarar sonucu doğurmaya uygun olmayan eylemler, TCK 302. maddedeki suç kapsamı
 
 ###a-	Eylemin İşleniş Şekli ve TCK 302. Madde
 
-	Eylem özel olarak “matuf fiili” gerçekleştirmeye uygun bir şekilde işlenmelidir. 	Somut eylemin işlenme şekli, matuf fiili gerçekleştirmeye uygun ve elverişli 	olmalıdır. Eylemin işlenme şekli ile TCK md. 302’de düzenlenen suçun konusu 	arasında bir illiyet bağı olmalıdır. 
+Eylem özel olarak “matuf fiili” gerçekleştirmeye uygun bir şekilde işlenmelidir. Somut eylemin işlenme şekli, matuf fiili gerçekleştirmeye uygun ve elverişli olmalıdır. Eylemin işlenme şekli ile TCK md. 302’de düzenlenen suçun konusu 	arasında bir illiyet bağı olmalıdır. 
 	
 Failin işlediği eylemin işlenme şeklinin kendisi vehamet arzetmelidir. Örneğin, devletin silahlı güçleriyle veya başka bir ülke silahlı güçleriyle bir çatışmaya katılmak, vehamet arzeden bir eylem olarak kabul edilmektedir . Örgüt adına zorla para alınması da vehamet arzeden eylem  olarak  değerlendirilmektedir .
 
- TCK md. 302’deki suç ceza hukuku doktrininde ve Yargıtay’ın yerleşik içtihatlarında bir “amaç suç” olarak kabul edilmektedir. Sanık, “amaç suçu” gerçekleştirmek için çeşitli “araç suçlar” işlemelidir. Dava dosyasında yargılanan sanıkların işlediği iddia edilen fiiller başlı başına herhangi bir “araç suç” teşkil etmemektedir. 
+TCK md. 302’deki suç ceza hukuku doktrininde ve Yargıtay’ın yerleşik içtihatlarında bir “amaç suç” olarak kabul edilmektedir. Sanık, “amaç suçu” gerçekleştirmek için çeşitli “araç suçlar” işlemelidir. Dava dosyasında yargılanan sanıkların işlediği iddia edilen fiiller başlı başına herhangi bir “araç suç” teşkil etmemektedir. 
 
 
 
