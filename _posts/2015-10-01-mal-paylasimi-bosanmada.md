@@ -3,7 +3,7 @@ layout: blog
 title: Boşanmada Mal Paylaşımı
 category: medeni-hukuk
 googleAnahtar: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halinde evlilik mallarının paylaşımı, mal paylaşımı kanunu, boşanma avukatı, bakırköy avukat, ataköy avukat
-summary: Boşanmada mal paylaşımı nasıl yapılır? Mal paylaşımı sözleşmesi mümkün mü? Anlaşmalı boşanmada mal paylaşımı nasıl yapılır? Evlenmeden önce alınan mallar ile evlilikten sonra alınan mallar eşler arasında ortak mıdır? Evlilik sırasında miras kalan veya bağışlanan mallar ortak mıdır? evlilikten önce alınan malların kira geliri eşler arasında paylaşıma dahil midir?
+summary: Boşanma ve Mal Paylaşımı, Boşanmada mal paylaşımı nasıl yapılır? Mal paylaşımı sözleşmesi, Anlaşmalı boşanmada mal paylaşımı, Evlenmeden önce alınan mallar ile evlilikten sonra alınan mallar eşler arasında ortak mıdır? 
 keywords: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halinde evlilik mallarının paylaşımı, mal paylaşımı kanunu, evlenmeden önce alınan mallar, evlilik öncesi alınan mallar, avukat, boşanma avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 ---
 ##Boşanmada Mal Paylaşımı Nedir?
