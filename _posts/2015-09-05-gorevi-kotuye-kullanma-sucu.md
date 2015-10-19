@@ -3,7 +3,7 @@ layout: blog
 title: Görevi Kötüye Kullanma Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, ihmal suretiyle görevi kötüye kullanma, ceza avukatı, ağır ceza avukatı, istanbul bakırköy avukat
-summary: Görevi kötüye kullanma Nedir? Görevi Kötüye Kullanma Suçunun Şartları, Haksız Menfaat Sağlama, Kamunun Zarara Uğratılması, Kişilerin Mağduriyetine Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu, Görevi Kötüye Kullanma Suçu ve Şikayet, Görevi Kötüye Kullanma Suçu Yargıtay Kararları
+summary: Görevi Kötüye Kullanma Nedir? Görevi Kötüye Kullanma Suçunun Şartları, Görevi İhmal, İhmal Suretiyle Görevi Kötüye Kullanma Suçu, Görevi Kötüye Kullanma Suçu ve Şikayet, Görevi Kötüye Kullanma Suçu Yargıtay Kararları
 keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, görevi ihmal suçu, ihmal suretiyle görevi kötüye kullanma suçu, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, bakırköy avukat
 ---
 
