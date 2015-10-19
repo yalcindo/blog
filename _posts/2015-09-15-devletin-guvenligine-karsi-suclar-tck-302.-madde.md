@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Siyasi Suçlar - 1:" Devletin Güvenliğine karşı Suçlar " (TCK 302. Madde)
+title: Siyasi Suçlar - 1: Devletin Güvenliğine karşı Suçlar (TCK 302. Madde)
 category: ceza-hukuku
 googleAnahtar: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat 
 keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat 
