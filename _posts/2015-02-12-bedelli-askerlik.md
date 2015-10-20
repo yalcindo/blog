@@ -4,7 +4,7 @@ title: Bedelli Askerlik Parasının İadesi Davası
 category: hukuk-haberleri
 googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, ceza avukatı, bakırköy ataköy avukat, istanbul avukat
 keywords: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
-summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi ilgili açtığımız dava sürecine ilişkin BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Dava süreci ile ilgili düzenli olarak burdan bilgi yayınlanacaktır.
+summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi davasına dair BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Davayla ilgili bilgiler burdan yayınlanacaktır.
 ---
 [Bakanlıktan Bedelli Parasının İadesi İstendi - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Eski-bedelliden-yararlanan-avukat-12-bin-TL-sinin-iadesini-istedi_8237-CHMTYxODIzNy8x)
 ---
