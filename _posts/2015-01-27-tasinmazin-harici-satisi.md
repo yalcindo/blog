@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Taşınmazın Haricen Satışı ve Ecrimisil - Yargıtay Kararı
+title: Taşınmazın Haricen Satışı ve Ecrimisil
 category: gayrimenkul-hukuku
 googleAnahtar: taşınmazın haricen satışı, Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat, Avukat Baran Doğan
 summary: Taşınmazın Harici Satışı, Ecrimisil, El Atmanın Önlenmesi Yargıtay Kararı
