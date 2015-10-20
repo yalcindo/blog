@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Boşanma Davasında Maddi-Manevi Tazminat Miktarı -Yargıtay Kararı 
+title: Boşanma Davasında Maddi-Manevi Tazminat Miktarı
 category: medeni-hukuk
 googleAnahtar: boşanma davasında maddi ve manevi tazminat miktarı, avukat, ataköy avukat, boşanma avukatı
-summary: Boşanma Davasında Maddi-Manevi Tazminat Miktarı, Boşanmada Maddi-Manevi Tazminat Nasıl Belirlenir, Kişilik Haklarına Saldırı ve Maddi-manevi Tazminatı
+summary: Boşanma Davasında Maddi-Manevi Tazminat Miktarı, Boşanmada Maddi-Manevi Tazminat Nasıl Belirlenir, Kişilik Haklarına Saldırı ve Maddi-manevi Tazminatı Yargıtay Kararı
 ---
 
 **ÖZET**
