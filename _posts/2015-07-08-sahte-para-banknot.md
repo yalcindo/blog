@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  Sahte Paraya Dair Merkez Bankası'nın Cevapları
+title:  Sahte Para Soruşturması
 category: hukuk-haberleri
 googleAnahtar: Sahte para, piyasaya sürülen sahte para,  avukat, avukat baran doğan
 summary: Piyasaya sürülen sahte paraya dair Merkez Bankası'na cevaplaması istemiyle sorulara sorulmuş, Merkez Bankası, 'Gizli' ibareli cevap yazısı ile cevaplamıştır.
