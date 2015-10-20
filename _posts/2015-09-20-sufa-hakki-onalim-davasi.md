@@ -4,7 +4,7 @@ title: Şufa Hakkı (Önalım Hakkı) Davası
 category: gayrimenkul-hukuku
 googleAnahtar: şufa hakkı, önalım hakkı, şufa davası, önalım davası, şufa hakkını kullanma süresi, avukat, gayrimenkul avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: Şufa hakkı, önalım hakkı, şufa davası, önalım davası, şufa hakkını kullanma süresi, avukat, gayrimenkul avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Şufa Hakkı ( Önalım Hakkı ) Nedir? Şufa davası veya önalım davası nasıl açılır? Şufa hakkını kullanma şartları nelerdir? Paydaşlar arasında şufa hakkı kullanılabilir mi? Şufa hakkını kullanma süresi ne kadardır? Paylı mülkiyet dışında şufa davası açılabilir mi? Şufa davası konusu payın alıcısının noter marifetiyle bildirim yükümlülüğü ve şufa hakkı ile ilgili örnek yargıtay kararlarına yer verilmiştir.
+summary: Şufa Hakkı (Önalım Hakkı) Nedir? Şufa Davası veya Önalım Davası, Şufa hakkını kullanma şartları, Paydaşlar Arasında Şufa Hakkı Kullanılabilir mi? Şufa hakkını kullanma süresi, Noterle Bildirim Yükümlülüğü, Şufa Hakkı Yargıtay Kararları
 ---
 
 ##Şufa  Hakkı  (Önalım Hakkı) Nedir?
