@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Boşanmada Eşlerin Eşit Kusuru -Yargıtay Kararı 
+title: Boşanmada Eşlerin Eşit Kusuru  
 category: medeni-hukuk
 googleAnahtar: boşanma davalarında eşit kusur, boşanmada eşlerin eşit kusuru, avukat, boşanma avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 summary: Boşanma Davası Maddi-Manevi Tazminat, Boşanmada Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat
