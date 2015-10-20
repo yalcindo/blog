@@ -4,7 +4,7 @@ title: İstanbul Barosu, Adliyeler ve İstanbul'da Avukat
 category: ceza-hukuku
 googleAnahtar: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
 keywords: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
-summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul Adliyeleri tanıtılmış, Bakırköy ve İstanbul adliyelerinin özelliklerine yer verilmiş, İstanbul Barosu ve İstanbul'da avukatın önemi, Avukat Hakları Merkezi gibi merkezler anlatılmıştır.
+summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul Adliyeleri tanıtılmış, Bakırköy ve İstanbul adliyelerinin özellikleri, İstanbul Barosu ve İstanbul'da Avukat, Avukat Hakları Merkezi gibi merkezler anlatılmıştır.
 ---
 
 
