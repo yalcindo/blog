@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Belirli İş Sözleşmesinde Kıdem Tazminatı - Yargıtay Kararı
+title: Belirli İş Sözleşmesinde Kıdem Tazminatı 
 category: is-hukuku
 googleAnahtar: Kıdem tazminatı, belirli iş sözleşmesi, belirsiz iş sözleşmesi, avukat, Avukat Baran Doğan
 summary: Kıdem tazminatı Nedir? Kıdem Tazminatı Alacağı, Kıdem Tazminatı Almanın Şartları, Belirli Süreli İş Sözleşmesi
