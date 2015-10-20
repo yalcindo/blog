@@ -4,7 +4,7 @@ title: İzale-i Şuyu (Ortaklığın Giderilmesi) Davası
 category: gayrimenkul-hukuku
 googleAnahtar: İzale-i şuyu davası, ortaklığın giderilmesi davası, ortaklığın satış veya aynen taksim suretiyle giderilmesi gayrimenkul avukatı, bakırköy avukat, istanbul avukat
 keywords: İzale-i şuyu davası, ortaklığın giderilmesi davası, ortaklığın satış veya aynen taksim suretiyle giderilmesi gayrimenkul avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: İzale-i Şuyu Davası ( Ortaklığın Giderilmesi Davası ) Nedir? Ortaklığın Giderilmesi Davası Kime Karşı Açılır? Ortaklığın Giderilmesi Davasında Yetkili ve Görevli Mahkeme Hangisidir? İzale-i Şuyu Davasında Mahkeme Harç ve Giderleri Nelerdir? Ortaklığın Aynen Taksim Suretiyle Giderilmesi ve Satış Suretiyle İzale-i Şuyu
+summary: İzale-i Şuyu Davası (Ortaklığın Giderilmesi Davası) Nedir? Ortaklığın Giderilmesi Davası Kime Karşı Açılır? Ortaklığın Giderilmesi Davasında Yetkili ve Görevli Mahkeme, İzale-i Şuyu Davasında Mahkeme Harç ve Giderleri, Ortaklığın Aynen Taksim ve Satış Suretiyle İzale-i Şuyu
 
 ---
 
