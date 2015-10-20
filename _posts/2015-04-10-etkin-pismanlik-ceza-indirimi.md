@@ -4,7 +4,7 @@ title: Bazı Suçlarda Ceza İndirimi ve Etkin Pişmanlık
 category: ceza-hukuku
 googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, etkin pişmanlık yasası, etkin pişmanlık tck, istanbul avukat, bakırköy avukat, ataköy 
 keywords: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, etkin pişmanlık yasası, etkin pişmanlık tck, ağır ceza avukatı, istanbul avukat, bakırköy avukat, ataköy avukat
-summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık Suçu, Mala Zarar Verme, Yağma Suçu (Gasp Suçu), Dolandırıcılık Suçu, Güveni Kötüye Kullanma, Uyuşturucu Madde Kullanma Suçu ve Ceza İndirimi 
+summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık Suçu, Mala Zarar Verme, Yağma Suçu (Gasp Suçu), Dolandırıcılık Suçu, Güveni Kötüye Kullanma, Uyuşturucu Madde Kullanma Suçu Ceza İndirimi 
 
 ---
 
