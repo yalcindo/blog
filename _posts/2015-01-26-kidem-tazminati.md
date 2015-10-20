@@ -3,7 +3,7 @@ layout: blog
 title: Kıdem Tazminatı
 category: is-hukuku
 googleAnahtar: Kıdem tazminatı, kıdem tazminatı almanın şartları, hangi hallerde kıdem tazminatı alınır? avukat, ataköy avukat, bakırköy avukat, istanbul avukat
-summary: Kıdem tazminatı almanın şartları, işçinin hangi hallerde iş sözleşmesini feshederek kıdem tazminatı alabileceği, hangi hallerde kıdem tazminatı alamayacağı başlıklar halinde kısaca anlatılmıştır.
+summary: Kıdem Tazminatı Nedir? Kıdem tazminatı almanın şartları, İşçinin iş sözleşmesini feshederek kıdem tazminatı alma hakkı, İşçinin kıdem tazminatı alamayacağı haller, İşverenin Kıdem Tazminatı Alma Hakkı başlıklar halinde incelenmiştir.
 keywords: kıdem tazminatı, kıdem tazminatı almanın şartları, hangi hallerde kıdem tazminatı alınır? avukat, ataköy avukat, bakırköy avukat, istanbul avukat
 ---
 
