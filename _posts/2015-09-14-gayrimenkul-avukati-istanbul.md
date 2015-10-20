@@ -4,7 +4,7 @@ title: Gayrimenkul Avukatının İşlevi
 category: gayrimenkul-hukuku
 googleAnahtar: Gayrimenkul avukatı, avukat, gayrimenkul davası, taşınmaz tapu iptal ve tescil davası, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı
 keywords:  Gayrimenkul avukatı, avukat, gayrimenkul davası, taşınmaz tapu iptal ve tescil davası, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı
-summary: Gayrimenkul avukatı, Gayrimenkul avukatının işlevi, tapu iptal ve tescil davasında gayrimenkul avukatı, taşınmaz davlarında ortaklığın giderilmesi ve gayrimenkul avukatı, müdahalenin önlenmesi ve gayrimenkul avukatı başlıklarıyla gayrimenkul avukatının özellikleri açıklanmıştır.
+summary: Gayrimenkul avukatı, Gayrimenkul avukatının işlevi, tapu iptal ve tescil davasında gayrimenkul avukatı, taşınmaz davlarında ortaklığın giderilmesi ve gayrimenkul avukatı, müdahalenin önlenmesi ve gayrimenkul avukatının özellikleri açıklanmıştır.
 ---
 
 
