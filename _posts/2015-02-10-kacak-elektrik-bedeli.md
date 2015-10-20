@@ -1,7 +1,6 @@
 ---
 layout: blog
-googleAnahtar: Avukat Baran Dogan satis hizmeti davasi 
-title: SAYAÇ OKUMA/PAREKENDE SATIŞ HİZMETİ/DAĞITIM VE İLETİM BEDELLERİNİN TÜKETİCİDEN TAHSİL EDİLEMEMESİ
+title: Kaçak Elektrik Bedeli Kararı
 category: hukuk-haberleri
 googleAnahtar: Kaçak elektrik bedeli, sayaç okuma bedeli, kayıp kaçak bedelinin iadesi
 summary: Kayıp-kaçak, dağıtım, sayaç okuma, parekende satış hizmeti ve iletim bedellerinin, tüketiciye iade edilmesi Yargıtay tarafından kararlaştırılmıştır.
