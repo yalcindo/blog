@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: İş Kazasında Yaralanan İşçinin Ailesi Manevi Tazminat Alabilir mi?
+title: Yaralanan İşçinin Ailesi Manevi Tazminat Alabilir mi?
 category: is-hukuku
 googleAnahtar: İş kazasında yaralanan işçinin yakınlarına manevi tazminat, maluliyetten dolayı manevi tazminat, ataköy avukat, bakırköy avukat, istanbul avukat
 keywords: Yaralının yakınlarına manevi tazminat, maluliyetten dolayı manevi tazminat, ataköy avukat, bakırköy avukat, istanbul avukat, Avukat Baran Dogan
