@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Kamulaştırma Bedelinin Tespiti - Yargıtay Kararı
+title: Kamulaştırma Bedelinin Tespiti
 category: gayrimenkul-hukuku
 googleAnahtar: Kamulaştırma bedeli, kamulaştırma bedeli nasıl belirlenir, avukat, Avukat Baran Doğan, ataköy avukat
 summary: Kamulaştırma, Kamulaştırma Bedeli, Kamulaştırma Bedel Tespiti ile ilgili Yargıtay Kararı
