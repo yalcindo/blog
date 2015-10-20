@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi - Yargıtay Kararı 
+title: Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi 
 category: medeni-hukuk
 googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, ataköy avukat, 
-summary: Anlaşmalı Boşanma, Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi, Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat
+summary: Anlaşmalı Boşanma, Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi, Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat Yargıtay Kararı
 ---
 
 **ÖZET**
