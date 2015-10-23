@@ -32,6 +32,8 @@ Kaba ve nezaketsiz davranışlar **hakaret suçu**nu oluşturmaz. Örneğin, ki�
 
 Beddua niteliğindeki sözler **hakaret suçu**nu oluşturmaz. Örneğin, “allah seni bildiği gibi yapsın”, “allah belanı versin”, “cehenneme kadar yolun var” gibi sözler beddua niteliğinde sözler olduğundan Yargıtay tarafından **hakaret suçu** olarak kabul edilmemektedir.
 
+Yargıtay, isim belirtmeden "hırsız var" diye bağırmayı hakaret suçu saymamıştır. Çünkü, söz konusu durumda suçun unsuru olan "matufiyet" unsuru (suçun bir kişiye yöneltilmesi) gerçekleşmediğinden sanığa hakaret suçu nedeniyle ceza verilmemesine karar vermiştir.
+
 Kamuoyu tarafından yaptıkları işler nedeniyle bilinen, tanınan kişilere (Örneğin, futbolcular, sanatçılar, özellikle politikacılar) yönelik eleştiriler, normal kişilere yöneltilen eleştirilerden daha sert ve ağır olabilir. Bu kişilerin normal kişilere göre eleştiriye daha açık olmaları ve eleştiriye tahammül etmeleri gerekir. Bir siyasetçiye, “senden bu memlekete hayır gelmez, bütün memleketi sattın” demek ancak ağır eleştiri olarak nitelenebilir, ama hakaret değildir.
 
 ###Hakaret Suçunun Mağdurun Yüzüne Karşı veya Yokluğunda İşlenmesi 
