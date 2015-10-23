@@ -86,6 +86,7 @@ Ceza muhakemesinde deliller arasındaki boşluklar,akıl yürütme yoluyla doldu
 **SONUÇ VE İSTEM	:**  
 
 Yukarıda açıkladığımız gerekçelerle veya mahkemenizin resen gözeteceği gerekçelerle, usul ve yasaya aykırı yerel mahkeme kararının BOZULMASINI talep ederiz. 10.10.2015
-							                                	Sanık Müdafii                   
-							                                	**Avukat Baran Doğan**
+							                                
+												Sanık Müdafii                  
+												**Avukat Baran Doğan**
 								                                
