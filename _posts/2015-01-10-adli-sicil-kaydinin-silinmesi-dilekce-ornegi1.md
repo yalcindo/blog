@@ -46,9 +46,9 @@ EK	:
 
 
 
-                                                                                    İSTEMDE BULUNAN
+ >                                                                                   İSTEMDE BULUNAN
  										
-                                                                                   ( İsim ve İmza )
+>                                                                                   ( İsim ve İmza )
                                                                                    
   
   
