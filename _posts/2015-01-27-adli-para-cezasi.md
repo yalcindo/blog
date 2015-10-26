@@ -106,16 +106,19 @@ Hakim, **adli para cezası**nın bir kerede ödenmesine de karar verebilir. Haki
 Hakim, hükmettiği **adli para cezası**nı **taksitlendirme**yebilir veya ödenmesi için belirli bir süre de vermeyebilir. Bu durumda karar kesinleştikten sonra infaz için savcılığa verilir. İnfaz savcılığı hükümlüye ödeme emri göndererek **adli para cezasının ödenmesi**ni ister. Hükümlüye ödeme emri tebliğ edilmesinden itibaren 1 ay içinde, hükümlü, adli para cezasının 1/3'ünü öderse, kalanı iki eşit takside bölünerek tahsil edilebilir. Bu şekilde yapılan **taksitlendirme** işleminden herkes yararlanabilir.
 
 
-###Adli Para Cezası Nereye Ödenir? Nasıl Ödenir? Adli Para Cezasına İtiraz Edilebilir mi?
+###Adli Para Cezası Nereye ve Nasıl Ödenir? 
 
 
 Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
+
+
+###Adli Para Cezası Temyiz Sınırı, İtiraz
 
 Adli para cezası mahkeme tarafından verildiğinden mahkeme kararına **itiraz** veya temyiz mümkündür. Fakat infaz aşamasına gelmiş **adli para cezasına  itiraz** edilemez.
 
 **Adli para cezasına itiraz,** verilen adli para cezası hakkında hükmün açıklanmasının geri bırakılması (HAGB) kararı verilmesi halinde mümkündür. 
 
-**Adli para cezasının temyizi** ise HAGB dışındaki kararlarda mümkün olmakla birlikte, doğrudan hükmedilen adli para cezası için temyiz sınırı mevcuttur. Buna göre, doğrudan hükmedilen 3000 TL'nin altındaki adli para cezaları temyiz edilemez. Fakat, hapis cezasından çevrilen adli para cezasının miktarı ne olursa olsun temyiz edilebilir. 
+Adli para cezasının temyizi ise HAGB dışındaki kararlarda mümkün olmakla birlikte, doğrudan hükmedilen adli para cezası için temyiz sınırı mevcuttur. **Adli para cezası temyiz sınırı,** doğrudan hükmedilen 3000 TL ve altındaki altındaki adli para cezaları için geçerlidir. Yani, doğrudan verilen 3000 TL ve altındaki adli para cezaları temyiz edilemez. Fakat, hapis cezasından çevrilen adli para cezaları için temyiz sınırı yoktur, hapis cezasından çevrilen adli para cezalarının miktarı ne olursa olsun temyiz edilebilirler. 
 
 ###Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
