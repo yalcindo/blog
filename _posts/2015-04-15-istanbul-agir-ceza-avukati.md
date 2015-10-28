@@ -35,6 +35,9 @@ Suçun nitelikli hallerini ispat etmek bazen zor olabilir, ceza avukatı bu hall
 Meşru müdafaa (meşru savunma) da adam öldürme suçu açısından ağır ceza avukatının dikkat etmesi gereken bir kavramdır. Meşru müdafaa halinde faile ceza verilmez. Filin meşru savunma altında işlenip işlenmediği çok hassas bir değerlendirme gerektirdiğinden ceza avukatı, bu hususa dair delillerin soruşturma aşamasından itibaren toplanmasını ve meşru savunmanın ispatlanmasını sağlamalıdır.
 
 
+![Ağır Ceza Avukatı](https://camo.githubusercontent.com/5128725cfb59d8a717d6fffeb82260a5c3732af2/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5636446135522e6a7067 "Ağır Ceza Avukatı")
+
+
 ###Nitelikli Dolandırıcılık Suçu ve Ağır Ceza Avukatı
 
 Nitelikli dolandırıcılık suçu, birçok farklı şekillerde işlenebilen malvarlığı suçlarındandır. **Ağır ceza avukatı** nitelikli dolandırıcılık suçuna dair bir dava dosyasıyla ilgilendiğinde suçun hukuk bilgisi dışından teknik bilgi gerektirip gerektirmediğini araştırmalıdır. Bazı nitelikli dolandırıcılık suçu halleri hukuk bilgisi dışında teknik bilgi yardımı alınmasını gerektirebilir. Bu hallerde davanın savunma avukatı konunun uzmanından mütalaa almalıdır. Mesela, bilişim yoluyla nitelikli dolandırıcılık suçu (TCK md. 158/1-f) işlenmesi halinde, delillerin ortaya konulması açısından bilişim sisteminin incelenmesi gerekebilir. Ceza avukatı, bilişim sisteminin incelenmesi ihtiyacı ortaya çıktığında, bunu bir uzman vasıtasıyla yapmalıdır.
