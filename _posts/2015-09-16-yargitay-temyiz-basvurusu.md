@@ -73,7 +73,7 @@ Yargıtay, temyiz incelemesi sonucu hükmü bozarsa hükmün yine kesinleşmez.
 
 Temyiz incelemesi sonucu bozma halinde dosya yeniden yerel mahkemeye gelir ve bozma çerçevesinde taraflar davet edilerek yeniden bir yargılama yapılır. Yapılacak yeni yargılamada verilen hüküm de taraflarca temyiz edilebilir.
 
-Son olarak şunu belirtmek gerekir ki temyiz başvurusunun bir **ceza avukatı** vasıtasıyla yapılması bozma nedenlerinin daha anlaşılır bir şekilde Yargıtay incelemesine sunulmasını sağlar.
+Son olarak şunu belirtmek gerekir ki temyiz başvurusunun bir [**ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla yapılması bozma nedenlerinin daha anlaşılır bir şekilde Yargıtay incelemesine sunulmasını sağlar.
 
 
 
