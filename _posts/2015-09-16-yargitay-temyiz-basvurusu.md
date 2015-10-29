@@ -61,7 +61,7 @@ Süresinde yapılan temyiz başvurusu hükmün kesinleşmesini engeller. Yani ye
 Temyiz incelemesi, kural olarak dosya üzerinden yapılır. Ancak sanığa verilen ceza 10 yıl veya üzerindeyse, sanık, müdahil, cumhuriyet savcısının talebi üzerine veya Yargıtay tarafından kendiliğinden hükmün temyiz incelemesi duruşmalı yapılabilir.
 Sanık tutuksuz yargılanmakta ise temyiz duruşmasında kendi hazır bulunabileceği gibi avukatı da hazır bulunabilir. Ancak sanık tutuklu ise temyiz duruşmasında hazır bulunma hakkı yoktur (CMK 299/2).
 
-[Yargıtay Temyiz Dilekçesi](https://camo.githubusercontent.com/e162db5ffa0d03ce19c3582b3a7ff183767598a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f317270594a312e6a7067 "Yargıtay Temyiz Dilekçesi")
+![Yargıtay Temyiz Dilekçesi](https://camo.githubusercontent.com/e162db5ffa0d03ce19c3582b3a7ff183767598a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f317270594a312e6a7067 "Yargıtay Temyiz Dilekçesi")
 
 
 ###Temyiz İncelemesi Sonucu Onama veya Bozma
