@@ -32,7 +32,7 @@ Cumhuriyet savcısı sanığın lehine veya aleyhine temyiz başvurusu yapabilir
 ###Temyiz Başvurusu Nasıl Yapılır?
 
 
-Temyiz başvurusu, hükmü veren mahkemeye bir [Temyiz Dilekçesi](http://barandogan.av.tr/blog/ceza-hukuku/temyiz-dilekcesi-ornegi.html) verilerek yapılır. Temyiz dilekçesinde temyiz nedenlerine yer verilmelidir.
+Temyiz başvurusu, hükmü veren mahkemeye bir [**Temyiz Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/temyiz-dilekcesi-ornegi.html) verilerek yapılır. Temyiz dilekçesinde temyiz nedenlerine yer verilmelidir.
 
 Sanık, cezaevinde tutuklu veya hükümlü olarak tutuluyorsa temyiz başvurusunu bulunduğu cezaevi müdürlüğüne temyiz dilekçesi vererek kullanabilir.
 
@@ -73,7 +73,7 @@ Yargıtay, temyiz incelemesi sonucu hükmü bozarsa hükmün yine kesinleşmez.
 
 Temyiz incelemesi sonucu bozma halinde dosya yeniden yerel mahkemeye gelir ve bozma çerçevesinde taraflar davet edilerek yeniden bir yargılama yapılır. Yapılacak yeni yargılamada verilen hüküm de taraflarca temyiz edilebilir.
 
-Temyiz başvurusunun bir **ceza avukatı** vasıtasıyla yapılması bozma nedenlerinin daha anlaşılır bir şekilde Yargıtay incelemesine sunulmasını sağlar.
+Son olarak şunu belirtmek gerekir ki temyiz başvurusunun bir **ceza avukatı** vasıtasıyla yapılması bozma nedenlerinin daha anlaşılır bir şekilde Yargıtay incelemesine sunulmasını sağlar.
 
 
 
