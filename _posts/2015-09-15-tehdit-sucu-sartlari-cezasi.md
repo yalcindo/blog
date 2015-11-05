@@ -41,7 +41,7 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ###Tehdit Suçu ve Kavga Sırasında Söylenen Sözler
 
-Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kızgınlıkla söylenen sözlerdir.  **Tehdit suçu,** tasarlanarak işlenebilen bir suçtur. Kişi tasarlamadan, bir kavgada aniden tehdit içeren sözler söylemişse bu sözlerin **tehdit suçu**nu oluşturması mümkün değildir. Yargıtay, kavga sırasında hiddetle söylenen sözlerin tehdit suçunu oluşturmayacağına dair yerleşik içtihat oluşturmuştur. Kavgada hiddetle söylenen sözler ancak karşı tarafın haksız tahrik savunmasında bir anlam ifade edebilir. 
+Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kızgınlıkla söylenen sözlerdir.  Kişi karşı tarafı kasten korkutmayı veya endişeye sevketmeyi amaçlamadan, bir kavgada aniden tehdit içeren sözler söylemişse bu sözlerin **tehdit suçu**nu oluşturması mümkün değildir. Yargıtay, kavga sırasında hiddetle söylenen sözlerin tehdit suçunu oluşturmayacağına dair yerleşik içtihat oluşturmuştur. Kavgada hiddetle söylenen sözler ancak karşı tarafın haksız tahrik savunmasında bir anlam ifade edebilir. 
 
 ###Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
 
