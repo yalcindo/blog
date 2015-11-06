@@ -96,7 +96,7 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/153ce7723b5714f9e28337dcac5d58b91bd8bf52/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a6c714e6b2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/153ce7723b5714f9e28337dcac5d58b91bd8bf52/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a6c714e6b2e6a7067 "Ceza Avukatı")
 
 
 Uygulamada koşullu salıverme ve adli para cezası ilişkisinin bilinmemesi nedeniyle hak kayıpları yaşanmaktadır. Bu konuyla ilgili mutlaka bir **ceza avukatı** ile görüş alışverişi yapılmalıdır.
