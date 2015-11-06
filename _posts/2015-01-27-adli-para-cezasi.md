@@ -16,7 +16,7 @@ TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cez
 <div style=”text-align:center;”>
 <img src="https://camo.githubusercontent.com/42bde062f8f2d9ad68663a755375f1932eb4dd07/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a34412e6a7067" alt="Adli Para Cezası" title="Adli Para Cezası" width=”20px” height=”20px”/>
 </div>
-
+###![Adli Para Cezası](https://camo.githubusercontent.com/42bde062f8f2d9ad68663a755375f1932eb4dd07/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a34412e6a7067 "Adli Para Cezası")
 
 ###Kaç Çeşit Adli Para Cezası Vardır?
 
@@ -46,7 +46,7 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 
 Taksirle adam yaralama, Taksirle adam öldürme gibi taksirle işlenebilen (trafik kazası gibi) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
 
 Kasten işlenen şu suçlar adli para cezasına çevrilebilir: Kasten yaralama (örneğin, 2 ay veya 4 ay hapis cezası), tehdit, cebir, şantaj, hakaret, kişisel verilerin kaydedilmesi suçu, özel hayatın gizliliğini ihlal suçu, hırsızlık (örneğin, 10 ay hapis cezası), mala zarar verme, güveni kötüye kullanma, bedelsiz senedi kullanma, dolandırıcılık, suç eşyasının satın alınması veya kabul edilmesi, çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, mühür bozma veya fekki, özel belgede sahtecilik, açığa imzanın kötüye kullanılması, bilişim suçları, görevi kötüye kullanma, görevi yaptırmamak için direnme, iftira, suç üstlenme, suç uydurma, yalan tanıklık, suç delillerini yok etme, gizleme veya değiştirme, ses veya görüntülerin kayda alınması (örneğin 8 ay hapis cezası). 
 
