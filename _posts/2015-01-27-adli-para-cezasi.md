@@ -21,7 +21,7 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört farklı yöntemle adl
 
 *	**Doğrudan Verilen Adli Para Cezası:** TCK’da herhangi bir suçun karşılığı doğrudan **adli para cezası** olarak düzenlenmiş ise hakim doğrudan verilen adli para cezasına hükmeder. Örneğin, TCK 182/1 maddesi gereği “Taksirle Çevrenin Kirletilmesi”  doğrudan **adli para cezası**nı gerektirmektedir. 
 
-* **Seçimlik Ceza Olan Adli Para Cezası:** TCK’da herhangi bir suçun karşılığı olarak hapis cezası veya adli para cezası yaptırımlarından yalnız birinin uygulanması seçimlik olarak öngörüldüğünde hükmedilen adli para cezası, seçimlik ceza olan adli para cezasıdır. Örneğin, Basit tıbbi müdahale ile giderilebilecek kasten yaralama suçunda 4 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilebilir.
+* **Seçimlik Ceza Olan Adli Para Cezası:**  TCK’da herhangi bir suçun karşılığı olarak hapis cezası veya adli para cezası yaptırımlarından yalnız birinin uygulanması seçimlik olarak öngörüldüğünde hükmedilen adli para cezası, seçimlik ceza olan adli para cezasıdır. Örneğin, Basit tıbbi müdahale ile giderilebilecek kasten yaralama suçunda 4 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilebilir.
 
 * **Hapis Cezasından Çevrilen Adli Para Cezası:** Kasten işlenen suçlarda bir yıl ve altındaki hapis cezaları, **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (Örn, trafik kazası neticesinde 2 yıl 6 ay ceza verilse bile) ise ceza miktarına bakılmaksızın tüm cezalar **adli para cezası**na çevrilebilir. 
 
