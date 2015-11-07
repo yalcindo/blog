@@ -59,9 +59,9 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. TCK, [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) açısından haksız tahrik kurumunu özel bir hükümle düzenlemiştir.
 
-##Haksız Tahrik İndirimi Yargıtay Kararları     
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
+##Haksız Tahrik İndirimi Yargıtay Kararları  
 
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
 ---
 
 * Şikayetçi, sanığın arabasına taş atmış, uyarılara rağmen taş atmaya devam etmiştir. Sanık şikayetçiye karşı yaralama işlediği eyleminin, şikayetçinin kendisine taş atmasından etkilenerek  işlediğini savunmuştur. Olayın gelişim tarzına göre sanık **haksız tahrik** hükümlerinden yararlandırılmalıdır ( Yargıtay 3. Ceza Dairesi – Esas No: 2014/34604, Karar No: 2015/11953, Tarih: 02.04.2015 ).
