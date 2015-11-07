@@ -1,17 +1,17 @@
 ---
 layout: blog
-title: Ceza Hukukunda Meşru Müdafaa (Meşru Savunma)
+title: Meşru Müdafaa (Meşru Savunma)
 category: ceza-hukuku
 googleAnahtar: Meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
 keywords:  meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, meşru savunmada sınırın aşılması, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
-summary: Meşru Müdafaa ( Meşru Savunma ) Nedir? Meşru Müdafaanin Şartları, Meşru Savunmada Saldırıya İlişkin Şartlar, Meşru Müdafaanın Savunmaya İlişkin Şartları, Meşru Müdafaada Sınırın Aşılması, Meşru Savunmaya İlişkin Yargıtay Kararları
+summary: Meşru Müdafaa (Meşru Savunma) Nedir? Meşru Müdafaanin Şartları, Meşru Savunmada Saldırıya İlişkin Şartlar, Meşru Müdafaanın Savunmaya İlişkin Şartları, Meşru Müdafaada Sınırın Aşılması, Meşru Savunmaya İlişkin Yargıtay Kararları
 ---
 
 ##Meşru Müdafaa (Meşru Savunma) Nedir?
 
 **Meşru müdafaa,** diğer bir deyişle **meşru savunma,** kendisine veya başkasına yönelmiş haksız bir saldırıya karşı o anki durum ve imkanlarla saldırı ile orantılı bir şekilde saldırıyı engellemek için işlenen fiildir. **Meşru savunma,** ceza hukukunda bir hukuka uygunluk nedenidir. Saldırıyı defetmek için orantılı karşı güç kullanan kimse, **meşru müdafaa** hükümleri gereği cezalandırılmaktan kurtulur.
 
-![Meşru Müdafaa Nedir](https://camo.githubusercontent.com/f78542260f980013c33dc9c37f5069703784fdcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e677a424c522e6a7067 "Meşru Müdafaa")
+###![Meşru Müdafaa Nedir](https://camo.githubusercontent.com/f78542260f980013c33dc9c37f5069703784fdcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e677a424c522e6a7067 "Meşru Müdafaa")
 
 ##Meşru Müdafaanın (Meşru Savunma) Şartları
 
@@ -39,7 +39,7 @@ Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırın
 
 **Meşru müdafaa,** faile yapılan saldırıyla aynı zamanda yapılmalıdır. Savunma ile saldırı aynı zamanda gerçekleşmemişse meşru savunma hükümleri uygulanamaz. Saldırı başlamadığı veya başlama ihtimalinin düşük olduğu hallerde veya saldırının bittiği hallerde **meşru savunma** hakkı kullanılamaz.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/8e6844eee95c2b512eb8204036b19b5a0041c0e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32356b36384e2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/8e6844eee95c2b512eb8204036b19b5a0041c0e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32356b36384e2e6a7067 "Ceza Avukatı")
 
 
 
@@ -82,7 +82,7 @@ Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine d�
 **Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
 ###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları         
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Meşru Müdafaa Yargıtay Kararları")
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Meşru Müdafaa Yargıtay Kararları")
 ---
 
 * Maktul ile fail arasında tarla konusunda uyuşmazlık bulunmaktadır. Maktul, fail tarlada çalışırken silahını ve 28 adet fişeğini alarak  tarlaya gitmiş, bunu haber alan fail jandarmaya bilgi vermiş ve içinde 4 fişek bulunan silahıyla kendisini maktulün geldiği yerin ters yönünde konumlandırmıştır. Maktul gelir gelmez silahını ateşlemiş, fail kolundan yaralanmış ve traktörlerinin camı da kırılmıştır. Fail maktulün bir daha silahına fişek doldurduğu sırada ateş ederek maktulü öldürmüştür. Fail hakkında **meşru müdafaa** nedeniyle kasten adam öldürme suçundan beraat kararı verilmelidir (Yargıtay 1. Ceza Dairesi – Esas No: 2013/2321,  Karar No: 2014/5460, Tarih: 24.11.2014).
