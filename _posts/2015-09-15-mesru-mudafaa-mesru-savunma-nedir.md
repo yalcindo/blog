@@ -81,7 +81,8 @@ Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, o
 Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine düşmektedir. Böylece failin davranışlarını yönlendirme yeteneğinde bir azalma meydana gelmektedir. Failin içinde bulunduğu psikolojik ortam meşru savunmada sınırın aşılıp aşılmadığının tespitinde önem kazanır. Eğer fail, korku ve telaşla değil de bir kin ve intikam duygusuyla saldırıya cevap verirse meşru savunmada sınırın aşılmasından değil haksız tahrik hükümlerinin uygulanmasından bahsedilebilir. 
 **Meşru müdafaa**da sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
 
-###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları         
+###Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları     
+
 ###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Meşru Müdafaa Yargıtay Kararları")
 ---
 
