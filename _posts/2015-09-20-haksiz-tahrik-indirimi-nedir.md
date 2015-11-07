@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ceza Hukukunda Haksız Tahrik İndirimi
+title: Haksız Tahrik İndirimi
 category: ceza-hukuku
 googleAnahtar: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
@@ -11,7 +11,7 @@ summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları, Haksız Tahrikte Denge
 
 **Haksız tahrik,** kişinin haksız bir fiilin kendisinde meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesi halinde ceza sorumluluğunu azaltan bir **ceza indirimi** nedenidir.  **Haksız tahrik** altında suç işleyen kişinin kusur yeteneğinde bir azalma söz konusudur. Kusur yeteneğinde azalma meydana gelen fail, haksız tahrik altında suç işlediğinden ceza indiriminden yararlanır.
 
-![Haksız Tahrik Ceza İndirimi](https://camo.githubusercontent.com/2b7035669783ef35fa1042ff7a7a7810af52a369/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6b67347961572e6a7067 "Haksız Tahrik")
+###![Haksız Tahrik Ceza İndirimi](https://camo.githubusercontent.com/2b7035669783ef35fa1042ff7a7a7810af52a369/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6b67347961572e6a7067 "Haksız Tahrik")
 
 ## Haksız Tahrik Şartları
 
@@ -40,7 +40,7 @@ Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklan�
 Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
 
 
 ##Haksız Tahrikte Dengenin Bozulması
@@ -60,7 +60,7 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. TCK, [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) açısından haksız tahrik kurumunu özel bir hükümle düzenlemiştir.
 
 ##Haksız Tahrik İndirimi Yargıtay Kararları     
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
 
 ---
 
@@ -70,13 +70,13 @@ Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini �
 
 * Bakkallık yapan mağdur, failin eşinin elini tutarak “seninle görüşelim, konuşalım” demiştir. Aile büyükleri araya girerek bu sorunu tatlıya bağlamıştır. Bu olaydan sonra sokakta karşılaştıklarında mağdur faile “ne bakıyorsun lan” demiştir. Mağdura av tüfeğiyle yakından ateş eden fail adam öldürmeye teşebbüs suçundan yargılanmalıdır. Mağdurdan kaynaklanan söz ve davranışlar nedeniyle failin cezasından 1/2 oranında yapılan indirim fazladır. TCK’nın 29. Maddesine göre 1/4 ile 3/4 oranları arasında yapılması gereken indirim, sanıkla eşine yönelen **haksız tahrik** oluşturan söz ve davranışların niteliği dikkate alınarak asgari orana yakın bir indirim olmalıdır ( Yargıtay 1. Ceza Dairesi – Esas No: 2013/6098,  Karar No: 2015/330, Tarih: 29.01.2015).
 
-* Sanığın aşamalarda değişmeyen "... olay tarihinde polislere ne olduğunu, ne amaçla geldiklerini, Savcılıktan emniyetten izin alıp almadıklarını sorduğu, polislerin de yok diyerek dalga geçtikleri, üzerine çullandıkları, hatta balkondan atlamak suretiyle içeriye girip evin içinde kendisini dövdükleri,..." şeklindeki savunması, bu hususu doğrulayan adli rapor içeriği üzerinde durularak olayın başlangıcı ve gelişimi irdelenip hakkında TCK'nın 29. maddesi gereği **haksız tahrik** hükümlerinin uygulanması gerekip gerekmediğinin karar yerinde tartışılmalıdır ( Yargıtay 5. Ceza Dairesi – Esas No: 2013/11849,  Karar No: 2015/1407, Tarih: 20.01.2015 ).
+* Sanığın aşamalarda değişmeyen "... olay tarihinde polislere ne olduğunu, ne amaçla geldiklerini, Savcılıktan emniyetten izin alıp almadıklarını sorduğu, polislerin de yok diyerek dalga geçtikleri, üzerine çullandıkları, hatta balkondan atlamak suretiyle içeriye girip evin içinde kendisini dövdükleri,..." şeklindeki savunması, bu hususu doğrulayan adli rapor içeriği üzerinde durularak olayın başlangıcı ve gelişimi irdelenip sanık hakkında TCK'nın 29. maddesi gereği **haksız tahrik** hükümlerinin uygulanması gerekip gerekmediğinin karar yerinde tartışılması gerekir ( Yargıtay 5. Ceza Dairesi – Esas No: 2013/11849,  Karar No: 2015/1407, Tarih: 20.01.2015 ).
 
 * Maktulün eylemi sanığa hakaret etmekten ibarettir. Hakaretin oluşturduğu **haksız tahrik** altında maktulü öldüren faile 15 yıl ceza verilmiştir. TCK’nın 29. maddesine göre faile **haksız tahrik** nedeniyle 12 yıl ile 18 yıl arasında bir ceza belirlenmelidir.  Mağdurun hakaretten ibaret eylemi nedeniyle ceza verilirken en asgari oranda indirim yapılarak faile 18 yıl ceza verilmelidir ( Yargıtay 1. Ceza Dairesi – Esas No: 2014/2290,  Karar No: 2014/3973, Tarih: 17.09.2014 ).
 
 * Elinde kırık bira şişesi olan maktul hem failin üzerine yürümüş hem de tehdit ve küfür içeren sözler söylemiştir. Fail haksız tahrik altında maktulü bıçakla öldürmüştür. Fail hakkında haksız tahrik hükümleri uygulanarak 18 yıl ceza verilmiştir. Maktulün sergilediği haksız hareketin ulaştığı boyut dikkate alındığında faile verilen 18 yıl ceza fazladır. TCK’nın 29. maddesi gereği 12 yıl ile 18 yıl arasında uygun bir ceza tayin edilmelidir (Yargıtay 1. Ceza Dairesi – Esas No: 2014/2551,  Karar No: 2014/3485, Tarih: 11.06.2014)
 
-* Sanık, ceza mahkemesi tarafından **haksız tahrik indirimi** yapılarak cezalandırılmıştır. Ceza davasının sanığı olan kişi maddi tazminat davasının davalısıdır. **Haksız tahrik** nedeniyle ceza mahkemesinde ceza indirimi yapılan davalı aleyhine hukuk mahkemesinde maddi tazminat hesaplanırken maddi tazminattan indirim yapılması gerekir ( Yargıtay 4. Hukuk Dairesi – Esas No: 2012/5199, Karar No: 2013/4685, Tarih: 14.03.2013 ).
+* Sanık, ceza mahkemesi tarafından **haksız tahrik indirimi** yapılarak cezalandırılmıştır. Ceza davasının sanığı olan kişi, aynı zamanda maddi tazminat davasının davalısıdır. **Haksız tahrik** nedeniyle ceza mahkemesinde ceza indirimi yapılan davalı aleyhine hukuk mahkemesinde maddi tazminat hesaplanırken maddi tazminattan indirim yapılması gerekir ( Yargıtay 4. Hukuk Dairesi – Esas No: 2012/5199, Karar No: 2013/4685, Tarih: 14.03.2013 ).
 
 
 **Haksız tahrik,** sanığa verilecek cezada önemli oranda indirim imkanı sağladığından savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması failin lehine olacaktır.
