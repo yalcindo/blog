@@ -30,7 +30,7 @@ Adli para cezası, yalnız mahkemeler tarafından bir suçun karşılığı olar
 
 **İdari para cezası,** cezanın muhatabı olan kişiye gönderildiğinde bu cezaya **itiraz süresinin ve itiraz mercii**nin gösterilmesi gerekir. Fakat uygulamada para cezalarının usulsüz bir şekilde muhataplarına tebliğ edildiği, itiraz süresi ve itiraz edilecek merciin gösterilmediği görülmektedir. İtiraz süresi ve merciinin tebligatta gösterilmesi zorunluluğunun önemi şu ki bazı idari kurumların özel kanunlarında 15 günlük genel itiraz süresinden ayrı bir itiraz süresi mevcuttur. 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/53ed5125cbab76b91651b335bb712c24e48cf542/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750624e41722e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/53ed5125cbab76b91651b335bb712c24e48cf542/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750624e41722e6a7067 "Ceza Avukatı")
 
 Danıştay kararlarına göre, idari işlemlerde itiraz süresinin muhataba bildirilmemesi halinde uygulanacak itiraz süresi 60 gündür (Danıştay 14. Dairesi – 2013/697 karar). Devletin idari kurumları tarafından düzenlenen idari yaptırım kararlarında, idari yaptırım kararına karşı hangi mahkemeye gidileceği veya varsa itiraz edilecek başka idari makam, bu idari idari makamın ve başvuru sürelerinin gösterilmesi hukuki bir gerekliliktir, bu gereklilik ise ilgili makamların takdirinde olmayıp, en üst hukuki norm olan Anayasanın bağlayıcılığının zorunlu bir sonucudur.
 
