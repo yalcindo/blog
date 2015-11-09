@@ -17,7 +17,7 @@ summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma H�
 
 
 
-![Hırsızlık Suçu](https://camo.githubusercontent.com/3aadaf0ee3bd424a4f1835749a39d25765369a3c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44394d30796c2e6a7067 "Hırsızlık Suçu")
+###![Hırsızlık Suçu](https://camo.githubusercontent.com/3aadaf0ee3bd424a4f1835749a39d25765369a3c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44394d30796c2e6a7067 "Hırsızlık Suçu")
 
 **Hırsızlık suçu**nun unsurları ve özellikleri şunlardır:
 
@@ -35,14 +35,14 @@ Mal üzerinde zilyetlik hakkına sahip kişinin zilyetliği hukuka aykırı veya
 
 Hırsızlık suçunun oluşması için malın zilyedin egemenlik alanından çıkarılması, mal üzerinde fail tarafından fiili hakimiyet kurularak zilyetliğin elde edilmesi gerekir. Fail malı bulunduğu yerden aldıktan hemen sonra kesintisiz takip sonucu yakalanırsa fail **hırsızlık suçu**  ile değil, bu suça teşebbüs ile yargılanmalıdır. Çünkü, kesintisiz takip sonucu yakalanan fail malı tümüyle fiili hakimiyeti altına alamadığında suç tamamlanmamış sayılır. Ancak takip sırasında failin bir süre gözden kaybolduktan sonra takibin kesilmesi ve failin daha sonra tekrar görülerek yakalanması halinde **hırsızlık suçu** tamamlanmış sayılır.
 
-###3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya, 
+###3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya 
 
 Açıkta bırakılmış eşya, mağdurun yaşadığı özel alanlar dışında kalan cadde, sokak, park, bahçe, sahil kenarları ve bu gibi yerlere benzeyen halka açık yerlerde bırakılan eşyayı tarif etmektedir. Hırsızlık suçunun basit temel şekli, TCK  md. 141’de düzenlenen açıkta bırakılan eşya hakkındadır.
 
 **Hırsızlık suçu** işlenen eşya kullanım veya adet gereği açıkta bırakılan mallardan ise bu durumda suçun basit şekli değil nitelikli şekli söz konusu olur. Örneğin, tarlada açıkta bırakılan tarım aletleri kullanımları gereği açıkta bırakılan eşyalardandır. Bu mallar açıkta olmasına rağmen zilyedinin rızası dışında alındığında **nitelikli hırsızlık suçu** oluşur. 
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
 
 
 ###4- Nitelikli Hırsızlık Suçu ve Cezası
@@ -104,14 +104,15 @@ Bir taşınır malı geçici bir süreyle kullanıp iade etmek amacıyla zilyedi
 
 **Kullanma hırsızlığı suçu** şikayete tabi bir suçtur. Kullanma hırsızlığı halinde suçun cezası yarı oranında indirilir. Ancak kullanma hırsızlığı konusu malın başka bir suç işlemek için kullanılmış olması halinde bu hüküm uygulanmaz (md. 146). Örneğin, otopark sahibine teslim edilen bir aracı, otopark sahibinin arkadaşlarından biri uyuşturucu malın nakli için kullanıp iade ederse bu madde hükümleri değil, hırsızlık suçuna ilişkin genel hükümler uygulanacaktır.
 
-##Hırsızlık Suçu Şikayet Süresi
+###Hırsızlık Suçu Şikayet Süresi
 
 Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmaları gereken suçlardandır. Hırsızlık suçu şikayete tabi olmadığından, bir şikayet süresi de yoktur. Suçun en basit halinde bile 8 yıl olan dava zamanaşımı süresi içerisinde şikayet edildiğinde soruşturma başlatılabilir.
 
 
 
-##Hırsızlık Suçu Yargıtay Kararları       
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
+###Hırsızlık Suçu Yargıtay Kararları  
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
 
 ---
 
@@ -126,7 +127,6 @@ Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmala
 
 -	Sanık motosikleti çalmaya çalışırken motosikletin elektrik kablolarını da kesmiştir. Elektrik kabloları motosikletten bağımsız bir mal değildir. Bu nedenle sadece hırsızlık suçundan ceza verilmesi gerekirken ayrıca mala zarar verme suçundan ceza verilmesi hukuka aykırıdır (Yargıtay Ceza Genel Kurulu – Esas No: 2013/2-687, Karar No: 2014/228, Tarih: 06.05.2014).
 
-Hırsızlık suçu, malvarlığı değerlerini koruyan en temmel suçtur. Bu nedenle, mala zarar verme, yağma (gasp), dolandırıcılık, 
-güveni kötüye kullanma gibi birçok suç ile kesişen fiiler içermektedir.
+**Hırsızlık suçu,** malvarlığı değerlerini koruyan en temmel suçtur. Bu nedenle, mala zarar verme, yağma (gasp), dolandırıcılık, güveni kötüye kullanma gibi birçok suç ile kesişen fiiler içermektedir.
 
 **İstanbul- Bakırköy Avukat Baran Doğan** 
