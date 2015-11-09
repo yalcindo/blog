@@ -19,7 +19,7 @@ summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zara
 
 Mala zarar verme suçu genel kast ile işlenebilen bir suçtur. Failin mala zarar verme fiilini gerçekleştirirken özel bir amaçla hareket edip etmemesinin bir önemi yoktur.
 
-![Mala Zarar Verme](https://camo.githubusercontent.com/16ed7fc823d910be51db03deaf7accccb6995bac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32375771302e6a7067 "Mala Zarar Verme Suçu")
+###![Mala Zarar Verme](https://camo.githubusercontent.com/16ed7fc823d910be51db03deaf7accccb6995bac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32375771302e6a7067 "Mala Zarar Verme Suçu")
 
 **Mala zarar verme,** seçimlik hareketlerle işlenebilen bir fiildir. **Mala zarar verme** fiilinin kaç farklı şekilde icra edilebileceği sınırlı bir şekilde TCK md. 151’de ifade edilmiştir. Kanunda sınırlı bir şekilde sayılan eylemler dışında mala zarar verme suçu işlenemez. TCK’ya göre **mala zarar verme** fiili, 6 farklı şekilde işlenebilir:
 
@@ -49,7 +49,7 @@ Kirletmek dışındaki tüm fiiller malın bütünlüğünü ortadan kaldıran, 
 Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TCK md. 151/2’ye göre sahipli bir hayvanı haklı bir gerekçe olmadan öldüren kişi **mala zarar verme suçu** hükümlerine göre cezalandırılacaktır.
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/97f4a31a565a41a24762079cb8e2c0d0466fa09e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f677941726d4c2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/97f4a31a565a41a24762079cb8e2c0d0466fa09e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f677941726d4c2e6a7067 "Ceza Avukatı")
 
 ###Mala Zarar Verme Suçunun Cezası
 
@@ -111,9 +111,11 @@ Suçun basit şekli en temel şekli, yani en az cezayı gerektiren şeklidir. Bu
 
 Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği için daha ağır cezayı gerektiren şeklidir. Bu suçun nitelikli şekilleri  şikayete tabi değildir. Yani, mağdur şikayetçi olmasa bile savcılık tarafından suç kendiliğinden kovuşturulmalıdır.
 
-###Mala Zarar Verme Suçu Yargıtay Kararları       
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Mala Zarar Verme Suçu Yargıtay Kararları")
+###Mala Zarar Verme Suçu Yargıtay Kararları   
 
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Mala Zarar Verme Suçu Yargıtay Kararları")
+
+---
 
 * Hırsızlık suçunun konusunu oluşturan araca çalındıktan sonra zarar verilmesi halinde, ayrıca sanığa mala zarar verme suçundan ceza verilemez. Sanık polisin takibi sonucu yakalandığından suça konu araç ve cep telefonunun iade edilmesi nedeniyle TCK 168. madde çerçevesinde etkin pişmanlık indirimi uygulanamaz (Yargıtay 2. Ceza Dairesi – Esas No: 2013/31868, Karar No: 2014/23837, Tarih: 20.10.2014).
 
