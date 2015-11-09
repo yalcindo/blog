@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Haksız Tahrik İndirimi
+title: Haksız Tahrik Ceza İndirimi
 category: ceza-hukuku
 googleAnahtar: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
