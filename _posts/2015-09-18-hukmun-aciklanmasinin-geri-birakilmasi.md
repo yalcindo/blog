@@ -15,7 +15,7 @@ summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas�
 **Hükmün açıklanmasının geri bırakılması,** sanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi boyunca kasıtlı bir suç işlenmez ve yükümlülüklere uygun davranılırsa ceza kararının ortadan kaldırılması ve davanın düşmesine yol açan bir cezanın bireyselleştirilmesi kurumudur.  Erteleme, takdiri indirim gibi bireyselleştirme kurumlarında mahkeme kararı birtakım hukuki sonuçlar doğrururken, **hükmün açıklanmasının geri bırakılması** kurumunda ortada sonuç doğuracak bir mahkeme hükmü yoktur. Mahkeme, hukuk sisteminde sonuç doğuracak şekilde kararını henüz açıklamamış, açıklamayı geri bırakmıştır. **HAGB kararı,** kişinin medeni, siyasi veya özel yaşamına hiçbir kısıtlama getirmeden adeta sanığa ikinci bir şans tanır. **HAGB** kararı, suç işleyen kişinin hayatına ceza hukuku müdahalesini adeta askıya almaktadır.
 
 
-![Hükmün Açıklanmasının Geri Bırakılması HAGB](https://camo.githubusercontent.com/db77a9990b5ddf66facabadca9375fe9a482d6b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a79792e6a7067 "Hükmün Açıklanmasının Geri Bırakılması")
+###![Hükmün Açıklanmasının Geri Bırakılması HAGB](https://camo.githubusercontent.com/db77a9990b5ddf66facabadca9375fe9a482d6b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a79792e6a7067 "Hükmün Açıklanmasının Geri Bırakılması")
 
 
 ##Hükmün Açıklanmasının Geri Bırakılması Şartları?
@@ -42,7 +42,7 @@ Mahkemenin yaptığı yargılama neticesinde hükmettiği ceza hapis cezası ise
 [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html), doğrudan verilebileceği gibi hapis cezasından da çevrilebilen bir ceza yaptırımıdır.
 Mahkeme yargılama neticesinde sanık hakkında doğrudan adli para cezasına hükmetmişse bu para cezası hakkında da **HAGB kararı** verilebilir. Burda dikkat edilmesi gereken husus adli para cezasının doğrudan verilen bir adli para cezası olmasıdır. **Hapis cezasından çevrilen adli para cezaları için hükmün açıklanmasının geri bırakılması kararı** verilmesi mümkün değildir. Bir örnek vermek gerekirse, hakaret suçunda mahkeme sanığa, 3 ay - 2 yıl arası hapis cezası veya adli para cezası verebilir. Mahkeme hapis cezası vermek yerine doğrudan adli para cezası verirse hükmedilen adli para cezası hakkında **hükmün açıklanmasının geri bırakılması**na karar verilebilir. Fakat, mahkeme adli para cezası vermek yerine önce 4 ay hapis cezası verip daha sonra verdiği hapis cezasını adli para cezasına çevirirse, artık bu adli para cezası açısından **HAGB kararı** verilemez.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/d08eb5f2f025aea54077823b3288f55db9d5666d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44395250617a2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/d08eb5f2f025aea54077823b3288f55db9d5666d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44395250617a2e6a7067 "Ceza Avukatı")
 
 ###2.	HAGB Kararı için Sanığa Dair Şartlar
 
@@ -111,7 +111,7 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 ###Hükmün Açıklanmasının Geri Bırakılması Kararının Memurluğa Etkisi Nedir?
 
 
-![HAGB ve Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "HAGB ve Memurluk")
+###![HAGB ve Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "HAGB ve Memurluk")
 
 **Hükmün açıklanmasının geri bırakılması** kararı, yargılanan kişiye verilen ikinci bir şanstır. **HAGB** kararı kişinin mevcut hukuki statüsünde olumsuz bir değişiklik olmasını engelleyen bir kurumdur. Hakkında **HAGB** kararı verilen kişi memur da olabilir, milletvekili de olabilir. Hakkında **HAGB** kararı verilen kişinin mahkumiyete esas cezası ne olursa memuriyetten veya başkaca bir kamu görevinden atılması mümkün değildir. 
 
@@ -130,7 +130,10 @@ Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barando
 
 
 ##Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları     
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hükmün Açıklanmasının Geri Bırakılması Yargıtay Kararları")
+
+---
 
 * Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar)
  
