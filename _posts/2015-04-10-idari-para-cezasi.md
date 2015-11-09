@@ -14,7 +14,7 @@ keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para c
 
 **İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle **idari para cezası ödenmezse** hapis cezasına çevrilemez. **İdari para cezası ödenmezse,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
-![İdari Para Cezası](https://camo.githubusercontent.com/38c248661240813e39c1adc7c5f8ff4b3461ed65/687474703a2f2f692e68697a6c69726573696d2e636f6d2f356b505736442e6a7067 "İdari Para Cezası")
+###![İdari Para Cezası](https://camo.githubusercontent.com/38c248661240813e39c1adc7c5f8ff4b3461ed65/687474703a2f2f692e68697a6c69726573696d2e636f6d2f356b505736442e6a7067 "İdari Para Cezası")
 
 **İdari para cezaları**na örnek vermek gerekirse, trafik cezaları, SGK tarafından işverene kesilen cezalar, yoklama kaçağı veya bakaya kalma kabahatleri nedeniyle Askeri Ceza Kanunu gereği verilen cezalar, imar kirliliği nedeniyle belediye encümeni tarafından verilen cezalar sayılabilir.
 
@@ -57,7 +57,7 @@ Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen ki�
 5510 sayılı SGK Kanunu’nu ( md. 83, 85, 86), Sosyal Güvenlik Kurumu’nun verdiği **idari para cezaları**na karşı genel itiraz yolundan ayrı bir itiraz yolu düzenlemiştir. SGK’nın verdiği idari para cezalarına karşı doğrudan mahkemeye dava açmak mümkün değildir. Dava açamadan önce idari itiraz yollarının kullanılması gerekir. SGK bünyesinde İdari Para Cezasına İtiraz Komisyonları bulunmaktadır. Hakkında idari para cezası verilen kişi veya kurum öncelikle para cezasına karşı, SGK bünyesindeki İdari Para Cezası İtiraz Komisyonu’na 15 gün içinde bizzat veya iadeli taahhütlü mektupla itiraz edebilir. **İdari Para Cezasına İtiraz** Komisyonu, ilgili kişinin itirazını reddederse, red kararının tebliğinden itibaren 30 gün içinde İdare Mahkemesi’ne cezanın iptali için dava açılmalıdır.
 
 
-![SGK İdari Para Cezası](https://camo.githubusercontent.com/eb9a71fee64b41641093f9739b3514a058eed875/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e346171766b2e6a7067 "SGK İdari Para Cezası")
+###![SGK İdari Para Cezası](https://camo.githubusercontent.com/eb9a71fee64b41641093f9739b3514a058eed875/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e346171766b2e6a7067 "SGK İdari Para Cezası")
 
 Sigortasız çalıştırma, eksik gün veya kazanç bildirimi nedeniyle SGK tarafından prim borcu tahakkuk ettirilen ve prim borcunun ödenmesi için tebligat yapılan işverenler, tebliğ tarihinden itibaren 1 ay içinde prim borcunu tahakkuk ettiren ünitenin Ünite Prim Tahakkuk İtiraz Komisyonu’na itiraz etmelidir. İtiraz reddedildiği takdirde işverenin 1 ay içinde yetkili Sosyal Güvenlik Kurumu İl Müdürlüğü’nün bulunduğu yerdeki İş Mahkemesi’ne dava açması gerekir. 
 
@@ -66,7 +66,7 @@ Sigortasız çalıştırma, eksik gün veya kazanç bildirimi nedeniyle SGK tara
 
 Trafik para cezasına karşı itiraz yeri Sulh Ceza Hakimliği'dir. Fakat, trafik idari para cezasıyla birlikte aracın da trafikten men edilmesine karar verilebilir. Böyle bir karar verilmişse, yetkili mahkeme Sulh Ceza Hakimliği değil, kararı veren polis biriminin bulunduğu yerin İdare Mahkemesidir. İdare Mahkemesi, hem trafik para cezasının hem de trafikten men kararının iptali açısından yetkili mahkemedir. Dava açama süresi kararın tebliğinden itibaren 60 gündür.
 
-![Trafik İdari Para Cezası](https://camo.githubusercontent.com/25fdfc838498513397fe6a5f0761398e48f9318b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f326b4c6747302e6a7067 "Trafik İdari Para Cezası")
+###![Trafik İdari Para Cezası](https://camo.githubusercontent.com/25fdfc838498513397fe6a5f0761398e48f9318b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f326b4c6747302e6a7067 "Trafik İdari Para Cezası")
 
 ###Sürücü Belgesinin Geçici Olarak Geri Alınması Kararına Karşı Nereye İtiraz edilir? İtiraz Süresi Nedir?
 
