@@ -20,7 +20,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 
 **Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
 
-![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
+###![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
 ###3. Denetimli Serbestlik Kaç Yıl 
 
@@ -38,7 +38,7 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 
 **Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine, cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
 
 Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
@@ -109,7 +109,8 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
 
 ###8. Denetimli Serbestlik Yasası Yargıtay Kararları      
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
 
 ---
 
