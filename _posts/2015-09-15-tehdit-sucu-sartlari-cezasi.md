@@ -13,7 +13,7 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ##Tehdit Suçu Kimler Aleyhine İşlenebilir?
 
-![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
+###![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
 
 
 **Tehdit suçu** ancak gerçek kişiler aleyhine işlenebilir. Tüzel kişiler aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
@@ -55,7 +55,7 @@ Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kı
 
 Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle **tehdit suçu**nun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  **Tehdit suçu**nun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
 
 **Tehdit suçu**nun nitelikli, ağır halleri şunlardır:
 
@@ -83,8 +83,9 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 
 **Tehdit suçu**nun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, **tehdit suçu**nun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
-###Tehdit Suçu ve Yargıtay Kararlar		
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
+###Tehdit Suçu ve Yargıtay Kararlar
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
 
 ---
 
@@ -94,17 +95,17 @@ Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzeri
 
 * "*Dua et meslek mensubumsun ve de üstelik resmisin yoksa, bana ayak üstü tehditler savuracak adamı burada döverdim*" şeklindeki sözler ileride gerçekleşmesi haksız bir saldırı niteliğinde olmadığından **tehdit suçunun şartları** oluşmamıştır (Yargıtay 4. Ceza Dairesi - Esas No: 2011/17253, Karar No: 2013/13806, Tarih: 7.5.2013).
 
-* "*Kardeşim karşımdan çek git, ben seni tanımıyorum, bu araziye kimse çivi çakamaz, burada herhangi bir çivi dahi çakılsa burayı tekrar darmadağın eder, tekrar yıkarım*" şeklindeki sözler, failin daha önce aynı fiili işlemiş olması nedeniyle tehdit kastıyla söylendiğinden **tehdit suçu**nu meydana getirir (Yargıtay 15. Ceza Dairesi - Esas No: 2012/7645, Karar No: 2012/42149, Tarih: 26.9.2012).
+* "Kardeşim karşımdan çek git, ben seni tanımıyorum, bu araziye kimse çivi çakamaz, burada herhangi bir çivi dahi çakılsa burayı tekrar darmadağın eder, tekrar yıkarım" şeklindeki sözler, failin daha önce aynı fiili işlemiş olması nedeniyle tehdit kastıyla söylendiğinden **tehdit suçu**nu meydana getirir (Yargıtay 15. Ceza Dairesi - Esas No: 2012/7645, Karar No: 2012/42149, Tarih: 26.9.2012).
 
 * Fail, bindiği taksiden inerek taksiciye ücretini ödemeyeceğini söylemiştir. Taksicinin "haraç mı alıyorsun" sözü üzerine silahını çıkararak "evet haraç alıyorum" şeklindeki sözleri yağma suçunu değil, TCK 106/2-a'daki **silahla tehdit suçu**nu oluşturur (Yargıtay Ceza Genel Kurulu - Esas No: 2012/6-1290, Karar No: 2013/35, Tarih: 5.2.2013).
 
 
-* Belde Belediye Başkanı olan sanığın belde sakinlerinden birinin evini icra yoluyla satın alan şahsın eşini makamına çağırıp "*evi eski sahibine satılması*" hususundaki teklifinin  kabul olunmaması üzerine "*bu evi sana yar etmem, zaten ruhsatı yok yıktırırım*" şeklindeki sözleri **tehdit suçu**nu oluşturur. 	Fiilin mağdur üzerinde ciddi bir korku yaratabilmesi açısından sonuç almaya objektif olarak elverişli ve uygun olması yeterlidir. Ayrıca somut olayda muhatap üzerinde etkili olması gerekli değildir (Yargıtay 4. Ceza Dairesi - Esas No: 2009/13483, Karar No: 2011/17641, Tarih: 18.10.2011).
+* Belde Belediye Başkanı olan sanığın belde sakinlerinden birinin evini icra yoluyla satın alan şahsın eşini makamına çağırıp "evini eski sahibine satılması hususundaki teklifinin  kabul olunmaması üzerine "bu evi sana yar etmem, zaten ruhsatı yok yıktırırım şeklindeki sözleri **tehdit suçu**nu oluşturur. Fiilin mağdur üzerinde ciddi bir korku yaratabilmesi açısından sonuç almaya objektif olarak elverişli ve uygun olması yeterlidir. Ayrıca somut olayda muhatap üzerinde etkili olması gerekli değildir (Yargıtay 4. Ceza Dairesi - Esas No: 2009/13483, Karar No: 2011/17641, Tarih: 18.10.2011).
 
-* Eski kız arkadaşına "*Benden kolay kurtulamazsın, seni bırakmam, inan yüzüne kezzap dökerim*" şeklinde not gönderen failin fiili **tehdit suçu**nu oluşturur. **Tehdit suçu**nun manevi öğesi genel kasttan ibaret olup suçun yasal tanımındaki unsurlarının bilerek ve istenerek işlenmesini ifade eder. **Tehdit suçu**nda, olayda tasarlamanın varlığı aranmadığı gibi, saikin de önemi yoktur	(Yargıtay 4. Ceza Dairesi - Esas No: 2008/2076, Karar No: 2009/14671, Tarih: 16.9.2009).
+* Eski kız arkadaşına "Benden kolay kurtulamazsın, seni bırakmam, inan yüzüne kezzap dökerim" şeklinde not gönderen failin fiili **tehdit suçu**nu oluşturur. **Tehdit suçu**nun manevi öğesi genel kasttan ibaret olup suçun yasal tanımındaki unsurlarının bilerek ve istenerek işlenmesini ifade eder. **Tehdit suçu**nda, olayda tasarlamanın varlığı aranmadığı gibi, saikin de önemi yoktur	(Yargıtay 4. Ceza Dairesi - Esas No: 2008/2076, Karar No: 2009/14671, Tarih: 16.9.2009).
 
 
-Tehdit suçu, kişinin özel ve sosyal yaşamında huzur içinde yaşama hakkını koruyan bir suçtur. Özellikle nitelikli tehdit suçunun cezası bu işlevine paralel olarak belirlenmiştir.
+**Tehdit suçu,** kişinin özel ve sosyal yaşamında huzur içinde yaşama hakkını koruyan bir suçtur. Özellikle nitelikli tehdit suçunun cezası bu işlevine paralel olarak belirlenmiştir.
 
 	
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
