@@ -76,14 +76,14 @@ Mağdurun algılama yeteneği sarhoşluk, akıl zayıflığı, akıl hastalığ�
 
 Kamu meslek kuruluşları kullanılarak, örneğin barolar, odalar, sendikalar araç olarak kullanılarak **dolandırıcılık suçu**  işlenmesi halinde de TCK 158/1-d uygulanır.
 
-Siyasi partiler, dernekler veya vakıflar kullanılarak **dolandırıcılık suçu** işlenmesi halinde yine TCK 158/1-d maddesi uygulanır.
+Siyasi partiler, dernekler veya vakıflar kullanılarak **nitelikli dolandırıcılık suçu** işlenmesi halinde yine TCK 158/1-d maddesi uygulanır.
 
 
 ###4. Kamu Kurum ve Kuruluşları Zararına Nitelikli Dolandırıcılık Suçu (TCK 158/1-e)
 
 **Dolandırıcılık suçu** işlenirken bazen kamu kurum ve kuruluşları araç olarak kullanılmamasına rağmen suçun neticesinde kamu zararı doğabilir. **Nitelikli dolandırıcılık suçu,** kamu kurum ve kuruluşlarının zararına olarak işlenirse TCK 158/1-e maddesi uygulanır. 
 
-Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi için fiilin kamu kurum ve kuruluşlarının mal varlığına zarar vermek maksadıyla işlenmesi gerekir. Zarar vermek, kamu kurumundan hakkı olmayan bir parayı almak ya da bir borcu geri vermemek şeklinde olabilir. Bu suçun mağduru kamu kurum ve kuruluşunun tüzel kişiliğidir.
+Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi için fiilin kamu kurum ve kuruluşlarının mal varlığına zarar vermek maksadıyla işlenmesi gerekir. Zarar vermek, kamu kurumundan hakkı olmayan bir parayı almak ya da bir borcu geri vermemek şeklinde olabilir. Bu şekildeki **nitelikli dolandırıcılık suçu** mağduru kamu kurum ve kuruluşunun tüzel kişiliğidir.
 
 ###5. Bilişim Sistemlerinin Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
@@ -99,7 +99,7 @@ Banka veya kredi kurumları ekonomik hayatın vazgeçilmez unsurlarıdır. Banka
 
 Nitelikli dolandırıcılık suçunun bu şeklinde dikkat edilmesi gereken husus bankanın doğrudan araç olarak kullanılmasıdır. Yoksa failin hileli davranışları yaptıktan sonra bankayı sadece bir ödeme vasıtası olarak kullanması halinde **dolandırıcılık suçu** bu maddeye göre cezalandırılamaz. Örneğin, kendisini tanınan bir markanın satış temsilcisi olarak tanıtıp mağdura ucuz mal temin edeceğini söyleyerek aldatan şahsın banka hesabına para yatırılması halinde nitelikli dolandırıcılık suçu değil, TCK 157. Maddedeki basit dolandırıcılık suçu oluşur.
 
-Başkasına ait banka veya kredi kartının haksız bir şekilde ele geçirilerek hesaplardan para çekilmesi **dolandırıcılık suçu** değil, TCK 245. maddede düzenlenen Banka veya Kredi Kartının Haksız Kullanılması suçu oluşur.
+Başkasına ait banka veya kredi kartının haksız bir şekilde ele geçirilerek hesaplardan para çekilmesi **nitelikli dolandırıcılık suçu** değil, TCK 245. maddede düzenlenen Banka veya Kredi Kartının Haksız Kullanılması suçu oluşur.
 
 ###![Banka Dolandırıcılık Suçu Cezası](https://camo.githubusercontent.com/f555838ba1724be31547ea8053c927890ee3657e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c394471396c2e6a7067 "Dolandırıcılık Suçu Cezası")
 
@@ -156,7 +156,7 @@ Failin  dava açılmadan önce, yani soruşturma aşamasında mağdurun zararın
 
 * Facebbok, twitter, instagram ve diğer internet siteleri üzerinden birçok dolandırıcılık suçu işlenebilmektedir. Sanık da sahibinden.com internet sitesi üzerinden araba satışı için mağdurlardan kaparo almış, fakat daha sonra telefonlarına ulaşılamamıştır. Sanığın fiili bilişim sistemlerinin araç olarak kullanılması suretiyle dolandırıcılık suçunu oluşturur (Yargıtay 15. Ceza Dairesi – Esas No: 2013/9591, Karar No: 2015/22310, Tarih: 11.3.2015).
 
-* Sanık, kardeşinin kimlik bilgilerini kullanarak Turkcell A.Ş.’den telefon hattı açtırmış, hattı kullandıktan sonra borcu ödememiştir. Sanık, kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık suçu işlemiştir. Bu nedenle TCK 158/1-d maddesi gereği cezalandırılmalıdır (Yargıtay 15. Ceza Dairesi – Esas No: 2014/3385, Karar No: 2015/461, Tarih: 14.1.2015).
+* Sanık, kardeşinin kimlik bilgilerini kullanarak Turkcell A.Ş.’den telefon hattı açtırmış, hattı kullandıktan sonra borcu ödememiştir. Sanık, kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle **nitelikli dolandırıcılık suçu** işlemiştir. Bu nedenle TCK 158/1-d maddesi gereği cezalandırılmalıdır (Yargıtay 15. Ceza Dairesi – Esas No: 2014/3385, Karar No: 2015/461, Tarih: 14.1.2015).
 
 * Sanık kendisini bazen Zükarneyn, bazen Dabbetü’l -arz olarak tanıtarak mağdurlardan para almış, kendisine verilen paranın Allah’a verildiğini ifade etmiştir. Sanığın bu şekildeki nitelikli hileyle  dini inanç ve duyguları istismar etmesi nedeniyle nitelikli dolandırıcılık suçu şartları oluşmuştur (Yargıtay 15. Ceza Dairesi – Esas No: 2011/14419, Karar No: 2012/39544, Tarih: 20.06.2012).
 
