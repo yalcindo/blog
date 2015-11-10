@@ -44,7 +44,7 @@ Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da ta
 
 ###3- Görevi Kötüye Kullanma Suçu Nedeniyle Bir Zarar Oluşmalıdır
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/413d11a9c9821dec95635fd634b5dd77a176c9b0/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f63657a612d6176756b6174695f5f313434343834333433315f38382e3232342e3135322e3234362e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/9f9e6be2c9c61c636d46a9d98176fd725907bc32/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a59726c79592e6a7067 "Ceza Avukatı")
 
 **Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir: 
 
