@@ -4,7 +4,7 @@ title: Görevi Kötüye Kullanma Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, ihmal suretiyle görevi kötüye kullanma, ceza avukatı, ağır ceza avukatı, istanbul bakırköy avukat
 summary: Görevi Kötüye Kullanma Nedir? Görevi Kötüye Kullanma Suçunun Şartları, Görevi İhmal, İhmal Suretiyle Görevi Kötüye Kullanma Suçu, Görevi Kötüye Kullanma Suçu ve Şikayet, Görevi Kötüye Kullanma Suçu Yargıtay Kararları
-keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, görevi ihmal suçu, ihmal suretiyle görevi kötüye kullanma suçu, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, bakırköy avukat
+keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, görevi ihmal suçu, ihmal suretiyle görevi kötüye kullanma suçu, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, bakırköy avukat, florya avukat
 ---
 
 
@@ -21,7 +21,7 @@ keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası,
 Mevcut TCK’nın 257. maddesi **görevi ihmal suçu** ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. **Görevi ihmal suçu,** ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir. 
 
 
-![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
+###![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
 
 
 ##Görevi Kötüye Kullanma Suçunun Şartları
@@ -44,7 +44,7 @@ Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da ta
 
 ###3- Görevi Kötüye Kullanma Suçu Nedeniyle Bir Zarar Oluşmalıdır
 
-![Ceza Avukatı](https://camo.githubusercontent.com/413d11a9c9821dec95635fd634b5dd77a176c9b0/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f63657a612d6176756b6174695f5f313434343834333433315f38382e3232342e3135322e3234362e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/413d11a9c9821dec95635fd634b5dd77a176c9b0/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f63657a612d6176756b6174695f5f313434343834333433315f38382e3232342e3135322e3234362e6a7067 "Ceza Avukatı")
 
 **Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir: 
 
@@ -82,8 +82,11 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 
 **Görevi kötüye kullanma suçu,** ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
 
-##Görevi Kötüye Kullanma Suçu Yargıtay Kararları        
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Görevi Kötüye Kullanma Suçu Yargıtay Kararları")
+##Görevi Kötüye Kullanma Suçu Yargıtay Kararları     
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Görevi Kötüye Kullanma Suçu Yargıtay Kararları")
+
+---
 
 
 * Cumhuriyet savcısı olan sanık, kendi sorumluluğundaki 216 dosyanın çoğunda 7 yıl gibi bir süre ile işlem yapmamıştır. Bu durum dosyalardaki mağdurların haklarını elde etmelerini geciktirmiş ve soruşturmaların uzun sürmesi nedeniyle şüphelilerin hukuki durumu da belirsiz bırakılmış, şartları varsa şüphelilerin bir an önce aklanmaları ihtimali engellenmiştir. Sanığın suçu **görevi ihmal** suretiyle **görevi kötüye kullanma suçu**nu oluşturur. Dosya sayısının birden çok olması nedeniyle sanığın zincirleme suç hükümleri gereği TCK 257/2 ve 43/1 maddeleri gereği görevi kötüye kullanma suçundan cezalandırılması gerekir (Yargıtay Ceza Genel Kurulu – Esas No: 2014/5-277, Karar No: 2014/476, Tarih: 04.11.2014).
@@ -103,7 +106,7 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 **Görevi kötüye kullanma,** kamu hizmetini aksatan gerek bireye gerek kamuya zarar verilmesine neden olan önemli bir fiil olduğundan **görevi kötüye kullanma suçu** TCK’da kamu görevlileri açısından temel bir suç olarak düzenlenmiştir.
 
 
-**Bakırköy-İstanbul / Avukat Baran Doğan**
+**Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
 
 
 
