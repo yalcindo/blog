@@ -12,7 +12,7 @@ summary: Memnu hakların iadesi (Yasaklanmış hakların geri verilmesi) nedir? 
 
 Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin tüm yasaklanmış haklarını da geri kazanacağını belirtmektedir. Fakat, TCK dışındaki bazı özel kanunlar hükümlünün mahkumiyet nedeniyle bazı hakları kullanmasını engelleyen hükümler taşımaktadır. Örneğin, hükümlünün TCK’ya göre cezası infaz edildiği halde; avukatlık, milletvekilliği, mali müşavirlik, devlet memurluğu gibi meslekleri yapması ilgili mesleklerin özel kanunları ile yasaklanmıştır.  Hükümlünün bu yasaklılık halinden kurtulmak için ayrıca mahkemeye başvurarak **memnu hakların iadesi (yasaklanmış hakların geri verilmesi)** kararı alması gerekir. 
 
-![Memnu Hakların İadesi](https://camo.githubusercontent.com/7703e035b6a51f91f30047eff6502da56d496f72/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c346b6a76302e6a7067 "Memnu Hakların İadesi")
+###![Memnu Hakların İadesi](https://camo.githubusercontent.com/7703e035b6a51f91f30047eff6502da56d496f72/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c346b6a76302e6a7067 "Memnu Hakların İadesi")
 
 Özetle, **memnu hakların iadesi,** TCK dışındaki kanunların ceza mahkumiyetine bağladığı olumsuz sonuçları ortadan kaldırmak için düzenlenmiştir.
 
@@ -34,7 +34,7 @@ Yürürlükte bulunan 5237 sayılı TCK, cezanın infazı ile birlikte kişinin 
 
 * **Memnu hakların iadesi kararı,** hükümlünün yargılandığı mahkeme tarafından verilebilir. Hükmü veren mahkeme, mahkumiyet hükmünün içeriğine daha kolay ulaşabildiği için yasaklanmış hakların iadesi talebi için en uygun mahkeme asıl hükmü veren mahkemedir.
 
-![Memnu Hakların İadesi Yetkili Mahkeme](https://camo.githubusercontent.com/d72a65133f138f858c2cf2a0f7ed347796ba6e9c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3361726b4a352e6a7067 "Memnu Hakların İadesi Yetkili Mahkeme")
+###![Memnu Hakların İadesi Yetkili Mahkeme](https://camo.githubusercontent.com/d72a65133f138f858c2cf2a0f7ed347796ba6e9c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3361726b4a352e6a7067 "Memnu Hakların İadesi Yetkili Mahkeme")
 
 * Hükümlü, hükmü veren mahkeme dışında bir yerde ikamet ediyorsa ikamet ettiği yerde bulunan ve mahkumiyet hükmünü veren mahkemeyle aynı dereceli bir mahkemeye başvurarak **memnu hakların iadesi** talebinde bulunabilir. Örneğin, İzmir 1. Ağır Ceza Mahkemesi’nde yargılanarak hakkında mahkumiyet hükmü verilen kişinin ikametgahı İstanbul’da ise İstanbul Nöbetçi Ağır Ceza Mahkemesi’ne başvurarak da **yasaklanmış hakların geri verilmesi** talebinde bulunabilir. Bu durumda İstanbul’daki mahkeme İzmir’deki mahkemeden mahkumiyet hükmünü ve ilgili evrakları getirterek memnu hakların iade edilip edilmeyeceğine karar verir.
 
@@ -44,7 +44,7 @@ Hemen belirtelim ki, hükümlünün bu iki mahkemeden herhangi birini tercih etm
 
 Devlet Memurları Kanunu ( 657 sayılı yasa ), 48/A-5 maddesi, Türk Ceza Kanununun 53. maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına mahkum olanların memuriyete kabul edilmeyeceği yönünde bir düzenleme içermektedir. Aynı kanun, affa uğramış olsa bile bazı yüz kızartıcı suçları işleyenlerin memuriyet hakkını kaybettiğini ifade etmektedir.
 
-![Memnu Hakların İadesi Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "Yasaklanmış Hakların Geri Alınması ve Memurluk")
+###![Memnu Hakların İadesi Memuriyet](https://camo.githubusercontent.com/175a5683fd4f2c859f0413b41932dc8578d46867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33617234576a2e6a7067 "Yasaklanmış Hakların Geri Alınması ve Memurluk")
 
 Hükümlü hakkında **memnu hakların iadesi kararı** verilirse yasaklanmış tüm haklarına kavuşur. Memnu hakların iadesi kararı memuriyet önündeki engelleri de kaldırır. Devlet memurluğu koşulları ne olursa olsun kişi **yasaklanmış hakların geri alınması** kararı almışsa memurluk hakkına kavuşur. Ancak açıktan atama kuralları gereği 657 sayılı yasanın 92. maddesi çerçevesinde idarenin hükümlüyü memurluğa kabul edip etmemede takdir hakkı vardır. Söz konusu takdir hakkı ölçüsüz olmayıp idari yargı denetimine tabidir.
 
@@ -60,7 +60,7 @@ Bazı mesleklerin özel meslek kuralları vardır. Hükümlü **memnu hakların 
 * Bir mali müşavir sahte belge kullanmaktan 1 yıl hapis cezasına mahkum olmuştur. Cezasının infazından sonra mahkemeden **yasaklanmış hakların geri verilmesi** kararı alarak mesleğe kabulü için ilgili meslek kuruluşu olan TÜRMOB’a başvurmuştur. TÜRMOB mesleğe kabul talebini reddetmiştir. Danıştay, memnu hakların iadesi kararının 3568 sayılı Kanunun 4. maddesinin ( d ) bendine göre ehliyetsizliği ortadan kaldırabileceği, fakat  aynı maddenin ( f ) bendinde “meslek şeref ve haysiyetine uymayan durumları bulunmamak” ibaresi nedeniyle TÜRMOB’un mesleğe kabul başvurusunu reddetmesini haklı bulmuştur ( Danıştay 8. Daire  -  Esas No: 2008/3215, Karar No: 2010/5022, Tarihi: 6.10.2010 ).
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/c0a7bfecac08e07d324171676ddd5c3d05a51fde/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3267796e2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/c0a7bfecac08e07d324171676ddd5c3d05a51fde/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3267796e2e6a7067 "Ceza Avukatı")
 
 * Bir vatandaş hakkında adam öldürme suçundan ceza mahkumiyetine karar verilmiştir. Cezasını infaz ettikten sonra ilgili mahkemeden **memnu hakların iadesi** kararı almıştır. Hukuk fakültesi bitirdiğinden **avukat** olmak için  Konya Barosu’na staj başvurusu yapmış, baro tarafından bu talebi reddedilmiştir. Danıştay; **yasaklanmış hakların geri verilmesi** kararıyla kişinin Avukatlık Yasasının 5/a maddesine göre ehliyetsizliği ortadan kalkmış ise de, aynı Yasanın 5/c maddesine göre “Avukatlık mesleğine yaraşmayacak tutum ve davranışları çevresince bilinmiş olmak” hükmü nedeniyle ehliyetsizliği devam ettiğine karar vererek avukatlık mesleğine kabul talebinin baro tarafından reddedilmesini haklı bulmuştur ( Danıştay 8. Daire  -  Esas No: 2006/4018, Karar No: 2007/16, Tarihi: 15.1.2007 ).
 
