@@ -20,7 +20,7 @@ Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. **Mal paylaşım
 Her iki dönem açısından da temel kural **evlenmeden önce alınan mallar** kimin üzerine kayıtlıysa onun kişisel malı sayılır ve **boşanmada mal paylaşımı**nda hesaba katılmaz.
 
 
-![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşianmada Mal Paylaşımı")
+###![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşianmada Mal Paylaşımı")
 
 ###Boşanmada Mal Paylaşımı Nasıl Yapılır?
 
@@ -72,7 +72,7 @@ Mevcut Medeni Kanuna göre yasal mal rejimi “**Edinilmiş Mallara Katılma Rej
 ###Evlilik İçinde Alınan Malların Boşanmada Mal Paylaşımına Dahil Edilmemesi İçin Ne Yapılmalı? 
 
 
-![Boşanmada Mal Paylaşımı Sözleşmesi](https://camo.githubusercontent.com/2645e0c0f78020377973bda3f32e0a481491c887/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a47414c622e6a7067 "Mal Paylaşımı Sözleşmesi")
+###![Boşanmada Mal Paylaşımı Sözleşmesi](https://camo.githubusercontent.com/2645e0c0f78020377973bda3f32e0a481491c887/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a47414c622e6a7067 "Mal Paylaşımı Sözleşmesi")
 
 Eşler evlilik içinde edindikleri mallarını paylaşmak istemiyorlarsa buna uygun bir **mal paylaşımı** sözleşmesi yapabilirler. Eşler evlenirken veya evlendikten sonra diledikleri mal rejimini seçebilirler. Eşler, Mal Ayrılığı Rejimini sözleşme yaparak seçebilir. Böylece her eş evlilik içinde kazandığı mal üzerinde tek başına hak sahibi olur. Boşanma esnasında diğer eş evlilik içerisinde edinilmiş mal üzerinde hak talebinde bulunamaz. Mal Ayrılığı Sözleşmesi, iki şekilde yapılabilir. Birinci yöntem evlilik sırasında evlendirme memurluğuna bir dilekçe verilerek eşler arasında Mal Ayrılığı Rejimi’nin seçildiğinin bildirilmesidir. İkinci yöntem ise noterde Mal Ayrılığı Sözleşmesi yapılmasıdır. Noterde yapılacak sözleşme evlilikten önce veya sonra her zaman yapılabilir. Yani, eşler evlendikten 5 yıl sonra dahi notere giderek Mal Ayrılığı Sözleşmesi yapabilirler. **Boşanma halinde evlilik mallarının paylaşımı,** bu sözleşmeyle sağlandığından boşanma sırasında çiftler arasında ortaya çıkması muhtemel bir uyuşmazlık engellenmektedir. 
 
@@ -107,7 +107,7 @@ Manevi tazminatlar, kişisel mal olarak kabul edildiğinden **boşanmada mal pay
 ###Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
 
 
-![Boşanma Mal Paylaşımı](https://camo.githubusercontent.com/f5d9eaa3ad10da36bf8122e8cf923a9a9c023107/687474703a2f2f692e68697a6c69726573696d2e636f6d2f716c365934712e6a7067 "Mal Paylaşımı")
+###![Boşanma Mal Paylaşımı](https://camo.githubusercontent.com/f5d9eaa3ad10da36bf8122e8cf923a9a9c023107/687474703a2f2f692e68697a6c69726573696d2e636f6d2f716c365934712e6a7067 "Mal Paylaşımı")
 
 
 Evlilikten önce alınan taşınmazların kira geliri, evlilik içinde elde edilen mal sayıldığından, **boşanma** halinde **mal paylaşımı** sırasında diğer eş bu kira gelirlerinin yarısı üzerinde hak sahibi olur. Çünkü taşınmaz mal, evlilikten önce alınsa da malın getirdiği gelir evlilik içerisinde elde edilmektedir. Fakat bir sözleşmeyle diğer eşin bu gelirleri talep etmeyeceği hususu hüküm altına alınabilir.
@@ -133,8 +133,11 @@ Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dış
 
 Özellikle belirtmek gerekir ki, **boşanmada mal paylaşımı davası** açılırken mutlaka belirsiz alacak davası olarak açılmalıdır. 
 
-###Boşanmada Mal Paylaşımı Yargıtay Kararları     
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Boşanmada Mal Paylaşımı Yargıtay Kararları")
+###Boşanmada Mal Paylaşımı Yargıtay Kararları  
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Boşanmada Mal Paylaşımı Yargıtay Kararları")
+
+---
 
 * Kural olarak taraflar arasında geçerli olan mal rejimi MK md. 225 gereği boşanma davasının açılmasıyla sona erer. **Boşanmada mal paylaşımı** nedenine dayalı alacak hakkı da boşanma dava tarihi itibariyle doğar. Ancak **boşanmada mal paylaşımı** davası, boşanma davasının sonucunu beklemelidir. Boşanma davası bekeletici mesele yapılarak, her iki davanın delilleri bir arada değerlendirilerek sonuca gidilmelidir (Yargıtay 8. Dairesi - Esas: 2013/23669, Karar: 2014/3820, Karar Tarihi: 10.03.2014)
 
