@@ -19,7 +19,7 @@ TCK ve Ceza İnfaz Kanunu'na göre kural olarak kişi işlediği bir suçtan dol
 **Hapis cezasının ertelenmesi,** 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir (TCK  md. 51). **Cezanın ertelenmesi** için ceza miktarının **ceza erteleme**ye uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
 
 
-![Ceza Erteleme](https://camo.githubusercontent.com/75f8eb71d6933564198518970068df91c9eeb253/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a4c5941512e6a7067 "Hapis Cezasının Ertelenmesi")
+###![Ceza Erteleme](https://camo.githubusercontent.com/75f8eb71d6933564198518970068df91c9eeb253/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a4c5941512e6a7067 "Hapis Cezasının Ertelenmesi")
 
 
 ###Hapis Cezasının Ertelenmesi, Ceza Erteleme Şartları
@@ -48,7 +48,7 @@ Yargılanan kişiye verilen **hapis cezanın ertelenmesi** için kişinin daha �
 Hakim tüm koşullar gerçekleşse bile **cezanın ertelenmesi**ni mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu **ceza erteleme** kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/039c168ab63224101bccdfd2095f2748df793de3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34386b7a5a4a2e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/039c168ab63224101bccdfd2095f2748df793de3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34386b7a5a4a2e6a7067 "Ceza Avukatı")
 
 
 ###Hapis Cezasının Ertelenmesi Halinde Denetim Süresi ve Yükümlülükler
