@@ -23,11 +23,11 @@ Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suç
 
 **Dolandırıcılık suçu,** birçok farklı hareket tarzıyla işlenebilecek bir suçtur. Ancak tüm hareketlerin ortak altyapısını teşkil eden, dolandırıcılık suçunun şartları olarak nitelenebilecek üç koşul vardır:
 
-* 1. Fiili işleyen kişi tarafından hileli hareketler icra edilmelidir. Mağdurun inceleme eğilimini ortadan kaldıracak davranışlar fail tarafından sergilenmelidir.
+*  1. Fiili işleyen kişi tarafından hileli hareketler icra edilmelidir. Mağdurun inceleme eğilimini ortadan kaldıracak davranışlar fail tarafından sergilenmelidir.
 
-* 2. Fiili işleyen kişi tarafından yapılan hileli hareketler herhangi bir kimseyi aldatacak özellikte olmalıdır.
+*  2. Fiili işleyen kişi tarafından yapılan hileli hareketler herhangi bir kimseyi aldatacak özellikte olmalıdır.
 
-* 3. Mağdurun veya başkasının zararına, kendisi veya başkası yararına haksız bir fayda elde edilmelidir. Fiili işleyen kişi, kendisi veya başkası lehine fayda elde etmek için bilerek ve isteyerek hileli hareketler icra etmeli, mağdura verilen zarar ile fiili işleyenin eylemi arasında uygun illiyet bağı mevcut olmalıdır. Zarar, objektif şahsi ölçüler dikkate alınarak belirlenecek ekonomik zarardır.
+*  3. Mağdurun veya başkasının zararına, kendisi veya başkası yararına haksız bir fayda elde edilmelidir. Fiili işleyen kişi, kendisi veya başkası lehine fayda elde etmek için bilerek ve isteyerek hileli hareketler icra etmeli, mağdura verilen zarar ile fiili işleyenin eylemi arasında uygun illiyet bağı mevcut olmalıdır. Zarar, objektif şahsi ölçüler dikkate alınarak belirlenecek ekonomik zarardır.
 
 
 ##Dolandırıcılık Suçu ve Hile
