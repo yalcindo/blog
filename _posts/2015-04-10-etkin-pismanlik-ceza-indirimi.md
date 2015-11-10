@@ -69,7 +69,7 @@ Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi*
 
 [**Hırsızlık suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) gasp suçunun daha hafif halidir. Yani, başkasına ait mal alınırken mağdura cebir ve şiddet uygulanmamaktadır. Bu nedenle bu suç açısından da zararın giderilmesi etkin pişmanlık açısından önem kazanmaktadır.
 
-**Dolandırıcılık suçu,** hile ve desiseyle mağdurun kandırılarak malvarlığı değerlerinin elinden alınması nedeniyle meydana gelir.
+[**Dolandırıcılık suçu,**]( http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) hile ve desise ile mağdurun kandırılarak malvarlığı değerlerinin elinden alınması nedeniyle meydana gelir.
 
 **Güveni kötüye kullanma suçu,** kendisine tevdi edilen malvarlığı değerlerinin tevdi amacının dışında kendisine veya başkasına menfaat sağlama amacıyla kullanılma yoluyla oluşur. 
 
