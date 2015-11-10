@@ -9,7 +9,7 @@ summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve C
 
 ##Dolandırıcılık Suçu - Nitelikli Dolandırıcılık Suçu Nedir?
 
-**Dolandırıcılık suçu,** failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. **Nitelikli dolandırıcılık suçu** ise suçun belli dini, sosyal, mesleki, teknolojik araçların, kamu kurumlarının kullanılarak suçun işlenmesidir.
+**Dolandırıcılık suçu,** failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. **Nitelikli dolandırıcılık suçu** ise suçun belli dini, sosyal, mesleki, teknolojik araçların veya kamu kurumlarının araç olarak kullanılarak işlenmesidir.
 
 Dolandırıcılık suçunun meydana gelmesi için haksız bir çıkar sağlanması gerekir. Dolandırıcılık suçunun teşebbüs aşamasında kaldığının kabulü için de, hazırlık hareketlerinin bitmesi  ve  haksız çıkar elde etmeye yönelik icra hareketlerine başlanılması  gerekir.
 
