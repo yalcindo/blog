@@ -8,7 +8,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 ---
 
 
-![Özel Hayatın Gizliliğini İhlal Suçu](https://camo.githubusercontent.com/c823192781cff0a309c355192e8c823fe48c4fc9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f476b366a52362e6a7067 "Özel Hayatın Gizliliği")
+###![Özel Hayatın Gizliliğini İhlal Suçu](https://camo.githubusercontent.com/c823192781cff0a309c355192e8c823fe48c4fc9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f476b366a52362e6a7067 "Özel Hayatın Gizliliği")
 
 
 ##Özel Hayatın Gizliliğini İhlal Suçu Nedir?
@@ -40,7 +40,7 @@ Herhangi bir kişinin güneşlenirken sürekli izlenmesi, fotoğrafının çekil
 
 Siyasetçi, sanatçı, sporcu, kamu hizmeti sunan kişi vb. gibi her grubun kendine özgü bir **özel hayatın gizliliği** kapsamı vardır. Kim ne şekilde ve hangi ölçüde kamuoyu önündeyse o ölçüde özel hayatının gizliliği kapsamı değişecektir. Aynı grup içerisinde farklı katmanlarda yer alan kişilerin **özel hayatının gizliliği** kapsamı dahi farklıdır. Örneğin, bir partinin ilçe yöneticisi olarak siyaset yapan kişi ile aynı partide milletvekili olarak siyaset yapan kişi **özel hayatın gizliliğini ihlal suçu** bakımından farklı değerlendirme kriterlerine tabi tutulacaktır.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/7e6738fdf6b88a0a20eacc9cfbdf8f37a1e0f1e9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a586c392e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/7e6738fdf6b88a0a20eacc9cfbdf8f37a1e0f1e9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a586c392e6a7067 "Ceza Avukatı")
 
 
 ###Özel Hayatın Gizliliğini İhlal Suçunun Ağır Şekli (TCK md. 134/2)
@@ -68,7 +68,8 @@ TCK md. 139 gereği, **özel hayatın gizliliğini ihlal suçu**nun tüm şekill
 Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir. 
 
 ###Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları     
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
 
 ---
 
