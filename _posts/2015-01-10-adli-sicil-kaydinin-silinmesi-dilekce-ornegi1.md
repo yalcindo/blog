@@ -34,7 +34,7 @@ Ekte sunduğum **adli sicil kaydı**nda görüleceği üzere aldığım tüm cez
 
 Mahkeme tarafından verilen tüm cezalar infaz edilmiş ve gerekli tüm yasal süreler geçmiş olmasına rağmen **sabıka kaydı**mda halen bu cezalara dair bilgiler görünmektedir. 
 
-**Adli sicil kaydı**nda bu bilgilerin olması hem iş hayatımı hem de diğer sosyal hayatımı olumsuz etkilemektedir. Resmi ve özel yapacağım herhangi bir işlemde hak kaybına ve mağduriyete yol açması için **adli sicil kaydı**nda görülen sabıka kaydımın silinmesini talep ediyorum.
+**Adli sicil kaydı**nda bu bilgilerin olması hem iş hayatımı hem de diğer sosyal hayatımı olumsuz etkilemektedir. Resmi ve özel yapacağım herhangi bir işlemde hak kaybına ve mağduriyete yol açmaması için **adli sicil kaydı**nda görülen sabıka kaydımın silinmesini talep ediyorum.
 
 **SONUÇ ve İSTEM	:**
 
