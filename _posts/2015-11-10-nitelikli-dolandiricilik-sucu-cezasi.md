@@ -17,7 +17,7 @@ Dolandırıcılık suçunun meydana gelmesi için haksız bir çıkar sağlanmas
 
 ##Dolandırıcılık Suçu Şikayet Süresi
 
-Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suçun işlendiğini öğrenir öğrenmez kendiliğinden soruşturma yapmak ve suçun işlendiği kanaatindeyse kamu davası açmak zorundadır. Dolandırıcılık suçu için şikayet süresi yoktur. Ancak suçun en basit halinde dava zamanaşımı süresi 8 yıl olduğundan en gç 8 yıl içinde şikayet hakkının kullanılarak olayın savcılığa bildirilmesi gerekir.
+Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suçun işlendiğini öğrenir öğrenmez kendiliğinden soruşturma yapmak ve suçun işlendiği kanaatindeyse kamu davası açmak zorundadır. Dolandırıcılık suçu için şikayet süresi yoktur. Ancak suçun en basit halinde dava zamanaşımı süresi 8 yıl olduğundan en geç 8 yıl içinde şikayet hakkının kullanılarak olayın savcılığa bildirilmesi gerekir.
 
 ##Dolandırıcılık Suçunun Şartları
 
