@@ -47,9 +47,8 @@ EK	:
 
 
  >                                                                                   İSTEMDE BULUNAN
- 										
->                                                                                   ( İsim ve İmza )
-                                                                                   
+                                                                                    ( İsim ve İmza )
+ 
   
   
   **Bakırköy-istanbul / Avukat Baran Doğan**
