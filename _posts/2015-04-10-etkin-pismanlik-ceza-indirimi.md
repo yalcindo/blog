@@ -17,7 +17,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak **etkin pişmanlık ve ceza indirimi** kurumlarından bahsedeceğiz.
 
-[![Etkin Pişmanlık Ceza İndirimi](http://i.hizliresim.com/8bqnDa.jpg)](https://hizliresim.com/8bqnDa "Etkin Pişmanlık")
+###[![Etkin Pişmanlık Ceza İndirimi](http://i.hizliresim.com/8bqnDa.jpg)](https://hizliresim.com/8bqnDa "Etkin Pişmanlık")
 
 
 ###Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır?
@@ -41,11 +41,11 @@ TCK, yargılanan kişinin suç teşkil eden fiil hakkında yaptığı açıklama
 
 **Etkin pişmanlık** nedeniyle hangi suçlarda ne oranda ceza indirimi yapılabileceğine her suç için ayrı ayrı aşağıda değinilecektir.
 
-###Etkin Pişmanlık Hangi Suçlarda Uygulanır? Ceza İndirimi Hangi Suçlarda Geçerlidir?
+###Etkin Pişmanlık Ceza İndirimi Hangi Suçlarda Uygulanır?
 
 Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamayan faillerin yakalanarak cezalandırılması hem de bilgiyi verenin kısmi olarak affedilmesini sağlayan bir ceza hukuku enstrümanıdır. TCK'da çok sayıda suç için **etkin pişmanlık** nedeniyle **ceza indirimi** öngörülmüştür. Her suç için bir **ceza avukatı** tarafından ayrı ayrı değerlendirme yapılması en sağlıklı yöntem olacaktır. Bu makalemizde etkin pişmanlık açısından önemli bulduğumuz suçlara yer verdiğimizden, makalede analiz edilmemiş diğer suç tipleri için bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşünüz.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/a2a97efa98748949eeb870f1ba5976b3bfc81b1a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f31726b5639422e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/a2a97efa98748949eeb870f1ba5976b3bfc81b1a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f31726b5639422e6a7067 "Ceza Avukatı")
 
 TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" uygulanmasını düzenlemiştir:
 
@@ -103,7 +103,7 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Uyuşturucu madde kullanan kişi** hakkında satın alma, kullanma veya bulundurma suçlarından soruşturma başlatılmadan önce resmi makamlara başvurup tedavi edilmesini isterse yine hakkında cezaya hükmolunmaz.
 
-####4-) Hakaret Suçunda Ceza İndirimi
+####4-) Hakaret Suçunda Etkin Pişmanlık ve Ceza İndirimi
 
 
 **Hakaret suçunda etkin pişmanlık** hükümlerinin uygulanabileceği bir kanun hükmü yoktur. Ancak bazı koşulların gerçekleşmesi halinde hakaret suçunda **ceza indirimi** almak mümkündür. Hakaret suçu, hakaret edilen kişinin haksız bir fiiline karşılık işlenmişse fail hakkında 1/3’üne kadar ceza indirimi yapılabileceği gibi olayın özelliğine göre faile hiçbir ceza verilmemesi de mümkündür.
@@ -112,7 +112,7 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
-####5- Bilişim Suçları Etkin Pişmanlık
+####5- Bilişim Suçları ve Etkin Pişmanlık
 
 [**Bilişim Suçları**,](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda işlenen suçlardır. 
 
@@ -127,7 +127,7 @@ Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka vey
 
 ####7-) Tehdit Suçunda, Şantaj Suçunda, Konut Dokunulmazlığını İhlal Suçunda Etkin Pişmanlık ve Ceza İndirimi
 
-[**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir.
+[**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir. Bu nedenle bu suçlarda etkin pişmanlık hükümleri uygulanamaz.
 
 
 ###Ceza İndirimi ve Denetimli Serbestlik Uygulaması
