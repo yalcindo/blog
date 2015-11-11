@@ -7,7 +7,7 @@ keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, doland�
 summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve Cezası, Banka ve Kredi Kurumları Araç Yapılarak Dolandırıcılık Suçu, Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu, Dolandırıcılık Suçu Yargıtay Kararları
 ---
 
-##Dolandırıcılık Suçu - Nitelikli Dolandırıcılık Suçu Nedir?
+##Dolandırıcılık Suçu Nedir?
 
 **Dolandırıcılık suçu,** failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. **Nitelikli dolandırıcılık suçu** ise suçun belli dini, sosyal, mesleki, teknolojik araçların veya kamu kurumlarının araç olarak kullanılarak işlenmesidir.
 
@@ -38,7 +38,7 @@ Nitelikli bir yalan yoksa  **dolandırıcılık suçu** şartları oluşmaz. Hil
 
 ###![Nitelikli Dolandırıcılık Suçu](https://camo.githubusercontent.com/590697e4bdbcca7678d5095081dd1a87dd1325cb/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f446f6c616e6469726963696c696b2d737563755f5f313434373136333634395f37382e3137322e3135382e3136312e6a7067 "Nitelikli Dolandırıcılık Suçu")
 
-##Nitelikli Dolandırıcılık Suçu Unsurları ve Şartları
+##Nitelikli Dolandırıcılık Suçunun Unsurları ve Şartları
 
 **Nitelikli dolandırıcılık suçu,** TCK’nın 158. Maddesinde düzenlenmiştir.  **Nitelikli dolandırıcılık suçu,** dolandırıcılık teşkil eden fiilin şu şekillerde işlenmesi halinde söz konusu olur:
 
@@ -60,7 +60,7 @@ Nitelikli bir yalan yoksa  **dolandırıcılık suçu** şartları oluşmaz. Hil
 
 * Sigorta bedelini almak maksadıyla işlenmesi.
 
-###1. Dinin İstismar Edilmesi ve Nitelikli Dolandırıcılık Suçu
+###1. Dinin İstismar Edilmesi Suretiyle Nitelikli Dolandırıcılık Suçu
 
 Din, bir inanç sistemi,  dini inanç ise bir dine inanan ve o dine üye olan kişinin duyguları olarak tarif edilebilir.
 
@@ -117,14 +117,14 @@ Banka veya kredi kurumlarından kredi almak için belli prosedürlerin yerine ge
 
 Hukuki ilişkiye dayanan herhangi bir alacağı tahsil amacıyla **dolandırıcılık suçu** işlenmesi halinde suçun takibi şikayete bağlıdır. Şikayet halinde faile 6 aydan 1 yıla kadar hapis cezası veya adli para cezası verilir. Bu maddedeki cezalar seçimliktir, yani mahkeme ya hapis cezası vermeli ya da adli para cezası vermelidir. Her iki cezanın aynı anda verilmesi mümkün değildir.
 
-###Dolandırıcılık Suçu Cezası
+###Dolandırıcılık Suçunun Cezası
 
 
-####1. Basit Dolandırıcılık Suçu Cezası (TCK md. 157)
+####1. Basit Dolandırıcılık Suçuunun Cezası (TCK md. 157)
 
 Basit **dolandırıcılık suçunun cezası** TCK md. 157’de düzenlenmiştir. Buna göre, basit dolandırıcılık suçunda fail 1 yıldan 5 yıla hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. Madde metninde hapis cezası ve adli para cezası birlikte aynı yaptırımın birer parçası olarak düzenlenmiştir. Yani faile hem hapis cezası hem de adli para cezası aynı anda verilecektir. Faile verilecek adli para cezasının miktarı meydana gelen zararın büyüklüğüne göre belirlenecektir.
 
-####2. Nitelikli Dolandırıcılık Suçu Cezası
+####2. Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
 
 **Nitelikli dolandırıcılık suçunun cezası** TCK md. 158’de düzenlenmiştir. Buna göre nitelikli dolandırıcılık suçu işleyen fail, 2 yıldan 7 yıla kadar hapis cezası ve beşbin güne kadar adli para cezası ile cezalandırılır. Ancak,  kamu kurum ve kuruluşlarının zararına olarak, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle, banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla veya sigorta bedelini almak maksadıyla suçun işlenmesi hallerinde suçun cezasının alt sınırı 3 yıldan az olamaz, verilecek adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
