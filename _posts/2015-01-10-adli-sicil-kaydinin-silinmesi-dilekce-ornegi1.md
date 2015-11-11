@@ -4,12 +4,12 @@ title: Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 category: ceza-hukuku
 googleAnahtar: Adli sicil kaydının silinmesi dilekçe örneği, sabıka kaydının silinmesi, adli sicil kaydı silme, ağır ceza avukatı, Ataköy avukat, bakırköy-İstanbul avukat
 summary: Adli sicil kaydının silinmesi (Sabıka kaydının silinmesi) dilekçe örneği
-keywords: adli sicil kaydı, sabıka kaydı, adli sicil kaydının silinmesi dilekçe örneği, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+keywords: adli sicil kaydı, sabıka kaydı, adli sicil kaydının silinmesi dilekçe örneği, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat, florya avukat
 ---
 
 
 
-***Adli Sicil Kaydının Silinmesi Dilekçe Örneği aşağıdadır. Dilekçe PTT vasıtasıyla iadeli taahütlü bir şekilde "Adli Sicil ve İstatistik Genel Müdürlüğü -Adres: Tuna cad. No:10 Yenişehir/Ankara" adresine gönderilmelidir.***    
+*Adli Sicil Kaydının Silinmesi Dilekçe Örneği aşağıdadır. Dilekçe PTT vasıtasıyla iadeli taahütlü bir şekilde "Adli Sicil ve İstatistik Genel Müdürlüğü -Adres: Tuna cad. No:10 Yenişehir/Ankara" adresine gönderilmelidir.* 
 _____________________________________________________________________________________________________________________________   
 
   >**T.C.**
@@ -51,4 +51,4 @@ EK	:
  
   
   
-  **Bakırköy-istanbul / Avukat Baran Doğan**
+  **Florya-Bakırköy-istanbul / Avukat Baran Doğan**
