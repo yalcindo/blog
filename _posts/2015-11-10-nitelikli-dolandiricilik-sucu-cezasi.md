@@ -2,7 +2,7 @@
 layout: blog
 title: DOLANDIRICILIK SUÇU VE CEZASI
 category: ceza-hukuku
-googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat
+googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, florya avukat, bakırköy avukat, istanbul avukat
 keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat
 summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve Cezası, Banka ve Kredi Kurumları Araç Yapılarak Dolandırıcılık Suçu, Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu, Dolandırıcılık Suçu Yargıtay Kararları
 ---
