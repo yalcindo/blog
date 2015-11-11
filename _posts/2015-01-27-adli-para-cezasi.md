@@ -118,7 +118,7 @@ Adli para cezası mahkeme tarafından verildiğinden mahkeme kararına **itiraz*
 
 **Adli para cezasına itiraz,** verilen adli para cezası hakkında hükmün açıklanmasının geri bırakılması (HAGB) kararı verilmesi halinde mümkündür. 
 
-Adli para cezasının temyizi ise HAGB dışındaki kararlarda mümkün olmakla birlikte, doğrudan hükmedilen adli para cezası için temyiz sınırı mevcuttur. **Adli para cezası temyiz sınırı,** doğrudan hükmedilen 3000 TL ve altındaki altındaki adli para cezaları için geçerlidir. Yani, doğrudan verilen 3000 TL ve altındaki adli para cezaları temyiz edilemez. Fakat, hapis cezasından çevrilen adli para cezaları için temyiz sınırı yoktur, hapis cezasından çevrilen adli para cezalarının miktarı ne olursa olsun temyiz edilebilirler. 
+Adli para cezasının temyizi ise HAGB dışındaki kararlarda mümkün olmakla birlikte, doğrudan hükmedilen adli para cezası için temyiz sınırı mevcuttur. **Adli para cezası temyiz sınırı,** doğrudan hükmedilen 3000 TL ve altındaki adli para cezaları için geçerlidir. Yani, doğrudan verilen 3000 TL (dahil) ve altındaki adli para cezaları temyiz edilemez. Fakat, hapis cezasından çevrilen adli para cezaları için temyiz sınırı yoktur, hapis cezasından çevrilen adli para cezalarının miktarı ne olursa olsun temyiz edilebilirler. 
 
 ###Adli Para Cezası Ödenmezse En fazla Ne Kadar Hapis Yatılır?   
 
