@@ -43,15 +43,19 @@ Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli ol
 ###![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
 
 
-##Haksız Tahrikte Dengenin Bozulması
-
-Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız tahrikte dengenin bozulup bozulmadığı incelenmelidir. Fail, haksız bir eylemle faili tahrik ettikten sonra karşılaştığı tepkiden dolayı tahrik altında kaldığını savunamaz. Ancak failin karşılaştığı tepki, kendi gerçekleştirdiği eylemle karşılaştırıldığında aşırı bir hal almışsa, başka bir deyişle tepkide açık bir oransızlık varsa, bu tepkinin edilmelidir. Örneğin,  A şahsı, B şahsına küfür etmiş, B’de kendisine küfreden  A’yı bıçaklamış, A da belinde bulunan silahla B’yi öldürmüştür. Bu somut vakıada A şahsı ilk haksız hareketi küfür ederek yapmış, B şahsı A’yı bıçaklayarak haksız tahrikte dengeyi bozmuş, A şahsı da kendisini aşırı bir tepkiyle bıçaklayan B’yi **haksız tahrik** altında öldürmüştür. Bu durumda haksız tahrikte denge bozulduğu için ilk haksız hareket  A’dan kaynaklansa bile A **haksız tahrik** hükümlerinden yararlanır.
-
 ##Haksız Tahrik ve Meşru Müdafaa İlişkisi
 
 **Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) hali, failin cezalandırılmaması sonucunu doğurur. Mağdura karşı işlenen fiilin meşru müdafaa amacıyla mı yoksa haksız tahrik altında mı işlendiği, faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
 
 
+
+##Haksız Tahrikte Dengenin Bozulması
+
+Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız tahrikte dengenin bozulup bozulmadığı incelenmelidir. Fail, haksız bir eylemle faili tahrik ettikten sonra karşılaştığı tepkiden dolayı tahrik altında kaldığını savunamaz. Ancak failin karşılaştığı tepki, kendi gerçekleştirdiği eylemle karşılaştırıldığında aşırı bir hal almışsa, başka bir deyişle tepkide açık bir oransızlık varsa, bu tepkinin edilmelidir. Örneğin,  A şahsı, B şahsına küfür etmiş, B’de kendisine küfreden  A’yı bıçaklamış, A da belinde bulunan silahla B’yi öldürmüştür. Bu somut vakıada A şahsı ilk haksız hareketi küfür ederek yapmış, B şahsı A’yı bıçaklayarak haksız tahrikte dengeyi bozmuş, A şahsı da kendisini aşırı bir tepkiyle bıçaklayan B’yi **haksız tahrik** altında öldürmüştür. Bu durumda haksız tahrikte denge bozulduğu için ilk haksız hareket  A’dan kaynaklansa bile A **haksız tahrik** hükümlerinden yararlanır.
+
+
+
+![Haksız Tahrik Ceza İndirimi](https://camo.githubusercontent.com/461a21b11d7beb904b124a65d3ae1faf5fd8220a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a793736612e6a7067 "Haksız Tahrik")
 
 ##Haksız Tahrik Halinde Ceza İndirim Oranı
 
