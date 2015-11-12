@@ -86,7 +86,7 @@ Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı 
 Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç, hırsızlık suçundan **yağma suçu**na dönüşür.
 
 
-##Yağma Suçunda Etkin Pişmanlık Halinde Ceza İndirimi
+##Yağma Suçu ve Etkin Pişmanlık Halinde Ceza İndirimi
 ---
 
 
