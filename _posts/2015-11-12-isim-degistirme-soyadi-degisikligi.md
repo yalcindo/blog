@@ -4,7 +4,7 @@ title: İsim Değiştirme ve Soyadı Değişikliği Davası
 category: medeni-hukuk
 googleAnahtar: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, florya avukat, bakırköy avukat, istanbul avukat
 keyword: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, florya avukat, bakırköy avukat, istanbul avukat
-summary: İsim Değiştirme Davası, Soyadı Değiştirme Davası, İsim ve Soyadı Değişikliği Davası Yetkili Mahkeme, Ad ve Soyisim Değiştirme Dava Dilekçesi ve Dava Prosedürü, 
+summary: İsim Değiştirme Davası, Soyadı Değiştirme Davası, İsim ve Soyadı Değişikliği Davası Yetkili Mahkeme, Ad ve Soyisim Değiştirme Dava Dilekçesi ve Dava Dilekçesinin İçeriği, Gerekli Evraklar ve Prosedür
 ---
 [Yeni İsminizi Nasıl Alırsınız? - ***HABERTÜRK GAZETESİ PAZAR EKİ RÖPORTAJ***](http://www.haberturk.com/yasam/haber/1059411-yeni-isminizi-nasil-alirsiniz)
 ---
