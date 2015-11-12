@@ -92,8 +92,13 @@ imza atmayan bir kez de görüşmeye gitmeyen kişinin **denetimli serbestlik ya
 
 Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
+###6. Denetimli serbestlik ve Adli Para Cezası
 
-###6. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
+
+[**Adli para cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) ödenmezse hükümlü önce kamuya yararlı işte çalışmaya davet edilir, kamuya yararlı işte çalışma şartı da hükümlü tarafından yerine getirilmezse adli para cezası hapis cezasına çevrilir. Adli para cezası ödenmediği için hapis cezasına çevrilirse hükümlü hakkında denetimli serbestlik kanunu hükümleri uygulanamaz. **Denetimli serbestlik,** yalnızca mahkeme tarafından verilen doğrudan hapis cezaları için uygulanabilecek bir kurumdur. Bu nedenle, adli para cezaları için bir koşullu salıverilme biçimi olan denetimli serbestlik uygulanamaz.
+
+
+###7. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
 
 
 **Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik yasası**nı ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani **denetimli serbestlik** dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
@@ -104,11 +109,11 @@ Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 g�
 
 Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestlik Yönetmeliği**](http://www.resmigazete.gov.tr/eskiler/2013/03/20130305-7.htm) ile düzenlenmiştir.
 
-###7. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
+###8. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. Açıkçası **denetimli serbestlik süresi**nin arttırılması yönünde kısa vadeli bir kanun çalışması mevcut değil. Cezaevlerinin doluluk oranının yüksek olması nedeniyle **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından tartışılmasına rağmen somut bir adım henüz yok. 
 
-###8. Denetimli Serbestlik Yasası Yargıtay Kararları      
+###9. Denetimli Serbestlik Yasası Yargıtay Kararları      
 
 ###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
 
