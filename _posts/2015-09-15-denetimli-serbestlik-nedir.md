@@ -95,7 +95,7 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 ###6. Denetimli serbestlik ve Adli Para Cezası
 
 
-[**Adli para cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) ödenmezse hükümlü önce kamuya yararlı işte çalışmaya davet edilir, kamuya yararlı işte çalışma şartı da hükümlü tarafından yerine getirilmezse adli para cezası hapis cezasına çevrilir. Adli para cezası ödenmediği için hapis cezasına çevrilirse hükümlü hakkında denetimli serbestlik kanunu hükümleri uygulanamaz. **Denetimli serbestlik,** yalnızca mahkeme tarafından verilen doğrudan hapis cezaları için uygulanabilecek bir kurumdur. Bu nedenle, adli para cezaları için bir koşullu salıverilme biçimi olan denetimli serbestlik uygulanamaz.
+[**Adli para cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) ödenmezse hükümlü önce kamuya yararlı bir işte çalışmaya davet edilir, kamuya yararlı işte çalışma şartı da hükümlü tarafından yerine getirilmezse adli para cezası hapis cezasına çevrilir. Adli para cezası ödenmediği için hapis cezasına çevrilirse hükümlü hakkında denetimli serbestlik kanunu hükümleri uygulanamaz. **Denetimli serbestlik,** yalnızca mahkeme tarafından verilen doğrudan hapis cezaları için uygulanabilecek bir kurumdur. Bu nedenle, adli para cezaları için bir koşullu salıverilme biçimi olan denetimli serbestlik uygulanamaz.
 
 
 ###7. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
