@@ -14,7 +14,7 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 **Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. **Yağma suçu,** hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
 
 
-![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
+###![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
 
 ##Yağma Suçunun (Gasp Suçunun) Şartları
 ---
@@ -66,7 +66,7 @@ Bu hallerde, **gasp suçu**nun nitelikli şekli işlendiğinden suçun cezası d
 
 **Yağma suçu**nun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla **gasp suçu** işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç hangi oranda alt sınırdan ayrılacağına kendisi karar verecektir. Fakat, suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
 
 Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia ve savunmanın mutlaka bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
 
@@ -102,8 +102,9 @@ Yani, silahla tek başına **yağma suçu** işleyen kişi dava açılmadan önc
 
 
 
-##Yağma Suçu Yargıtay Kararları        
-![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
+##Yağma Suçu Yargıtay Kararları    
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
 
 ---
 
