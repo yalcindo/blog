@@ -132,7 +132,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 ###9. Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
 
 
-[**Adli sicil kaydının silinmesi,**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesine ve belli koşulların gerçekleşmesi halinde mümkündür. **Denetimli serbestlik yasası uygulaması** da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. **Denetimli serbestlik** uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
+[**Adli sicil kaydının silinmesi,**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. **Denetimli serbestlik yasası uygulaması** da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. **Denetimli serbestlik** uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
 
 
 
