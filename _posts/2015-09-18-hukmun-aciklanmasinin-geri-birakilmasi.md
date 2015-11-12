@@ -91,14 +91,14 @@ Sanık, **hükmün açıklanmasının geri bırakılması** kararını kabul etm
 * Sanık, denetim süresi içinde kasıtlı bir suç işler veya hakimin belirlediği yükümlülüklere aykırı hareket ederse açıklanması geri bırakılan hüküm mahkeme tarafından açıklanır.
 
 
-Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında açıklanması geri bırakılan hüküm aynen açıklanır. Suç işleyen sanık hakkında daha önce verilene ceza seçenek yaptırımlara çevrilemez, ertelenemez.
+Denetim süresi içerisinde yeniden kasıtlı suç işleyen sanık hakkında açıklanması geri bırakılan hüküm aynen açıklanır. Suç işleyen sanık hakkında daha önce verilen ceza seçenek yaptırımlara çevrilemez, ertelenemez.
 
 
 Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli serbestlik yükümlülüklerini yerine getirmeyen sanık hakkındaki hükmün de açıklanmasına karar verilir. Ancak, bu durumda hükmü açıklayan mahkeme sanığın cezasının yarısına kadar olan bir kısmının infaz edilmemesine karar verebilir. Mahkeme, koşulları varsa suç işlemeyen ancak yükümlülüklere aykırı davranan sanık aleyhine hükmedilen hapis cezasını erteleyebilir veya adli para cezası gibi seçenek bir yaptırıma çevirerek yeni bir mahkumiyet hükmü de kurabilir. 
 
 **Denetim süresi içinde yeni suç işlenmesi** halinde, işlendiği iddia edilen ikinci suçun mahkumiyetle kesinleşmesinden sonra işlenen ilk suç nedeniyle verilen **HAGB** kararı açıklanabilir. Nitekim, Yargıtay işlendiği iddia edilen ikinci suç kesinleşmediği halde, birinci suç nedeniyle verilen **HAGB** kararının açıklanmasını hukuka aykırı bulmuştur (Yargıtay Ceza Genel Kurulu - 2008/25 karar, Yargıtay 15. Ceza Dairesi- 2012/45113 karar). 
 
-Önemle belirtmek gerekir ki, 28.06.2014 tarihine kadar işlenen suçlarda birden fazla kere **hükmün açıklanmasının geri bırakılması** verilebilir. Bu tarihten sonra işlenen suçlarda birden fazla kere **HAGB** kararı verilmesi yapılan açık kanuni düzenleme nedeniyle mümkün değildir.
+Önemle belirtmek gerekir ki, 28.06.2014 tarihine kadar işlenen suçlarda birden fazla kere **hükmün açıklanmasının geri bırakılması** verilebilir. Bu tarihten sonra işlenen suçlarda birden fazla kere **HAGB** kararı verilmesi kanuni düzenleme nedeniyle mümkün değildir.
 
 
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
