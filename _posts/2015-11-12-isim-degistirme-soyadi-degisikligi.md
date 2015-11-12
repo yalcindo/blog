@@ -7,7 +7,7 @@ keyword: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği dava
 summary: İsim Değiştirme Davası, Soyadı Değiştirme Davası, İsim ve Soyadı Değişikliği Davası Yetkili Mahkeme, Ad ve Soyisim Değiştirme Dava Dilekçesi ve Dava Dilekçesinin İçeriği, Gerekli Evraklar ve Prosedür
 ---
 
-[Yeni İsminizi Nasıl Alırsınız? - ***HABERTÜRK GAZETESİ PAZAR EKİ RÖPORTAJ***](http://www.haberturk.com/yasam/haber/1059411-yeni-isminizi-nasil-alirsiniz)
+[Yeni İsminizi Nasıl Alırsınız? - ***HABERTÜRK GAZETESİ PAZAR EKİ RÖPORTAJIMIZ***](http://www.haberturk.com/yasam/haber/1059411-yeni-isminizi-nasil-alirsiniz)
 
 ---
 
