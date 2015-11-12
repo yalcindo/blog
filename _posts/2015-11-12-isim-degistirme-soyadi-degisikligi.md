@@ -6,8 +6,12 @@ googleAnahtar: isim değiştirme, soyadı değiştirme, ad soyadı değişikliğ
 keyword: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, florya avukat, bakırköy avukat, istanbul avukat
 summary: İsim Değiştirme Davası, Soyadı Değiştirme Davası, İsim ve Soyadı Değişikliği Davası Yetkili Mahkeme, Ad ve Soyisim Değiştirme Dava Dilekçesi ve Dava Dilekçesinin İçeriği, Gerekli Evraklar ve Prosedür
 ---
+
 [Yeni İsminizi Nasıl Alırsınız? - ***HABERTÜRK GAZETESİ PAZAR EKİ RÖPORTAJ***](http://www.haberturk.com/yasam/haber/1059411-yeni-isminizi-nasil-alirsiniz)
+
 ---
+
+
 ##İsim Değiştirme veya Soyadı Değişikliğinin Hukuki Niteliği
 
 **İsim değiştirme veya soyadı değişikliği,** kişinin şahsına sıkı surette bağlı olan hukuki niteliği itibariyle bir şahıs varlığı hakkını kullanmasıdır. İnsanın en önemli kimliklerinden biri ad ve soyadı olarak kabul edilir. Kişiler, toplum içinde ad ve soyadı ile bilindiğinden **isim ve soyadı değiştirme** belli bir hukuki prosedüre bağlıdır.
