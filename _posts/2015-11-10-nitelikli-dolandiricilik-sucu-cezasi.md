@@ -13,6 +13,8 @@ summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve C
 
 Dolandırıcılık suçunun meydana gelmesi için haksız bir çıkar sağlanması gerekir. Dolandırıcılık suçunun teşebbüs aşamasında kaldığının kabulü için de, hazırlık hareketlerinin bitmesi  ve  haksız çıkar elde etmeye yönelik icra hareketlerine başlanılması  gerekir.
 
+###![Dolandırıcılık Suçu](https://camo.githubusercontent.com/760fef8591c635b8a648ef2132de249b7ae06ca8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f394531674e722e6a7067 "Dolandırıcılık Suçu")
+
 
 
 ##Dolandırıcılık Suçu Şikayet Süresi
@@ -35,6 +37,9 @@ Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suç
 Dolandırıcılık suçunun unsurlarından olan hile, nitelikli bir yalandır. Hile teşkil eden yalan belli ölçüde ağır ve yoğun olmalı, ustaca sergilenerek mağdurun yalanı kontrol ihtimaline imkan vermemelidir. Dolandırıcılık suçu şartlarının oluşabilmesi için fail, kullandığı hile ile mağduru yanıltmalı, aldatıcı davranış ve yalanlara itibar eden mağdurdan haksız çıkar elde etmelidir. Hilenin aldatıcı bir yalan olup olmadığı olayın özellikleri dikkate alınarak değerlendirilmeli. Mağdurun sübjektif durumu, eğitimi, fiil ile ilişki biçimi, yapılan hilenin şekli, hile için belge kullanılmışsa gizlenen veya değiştirilen belgenin özellikleri ayrı ayrı dikkate alınmalıdır.
 
 Nitelikli bir yalan yoksa  **dolandırıcılık suçu** şartları oluşmaz. Hileli davranışın faili aldatacak nitelikte olması gerekir. Basit bir yalan dolandırıcılık suçunun unsuru olan hileli hareket olarak kabul edilemez.  Yargılama sırasında hileli hareketin ne olduğu ortaya konulmalı, mağdur üzerindeki etkisi itibariyle aldatıcı olup olmadığı araştırılmalı, mağdurun iyi niyeti ve güven duygularının kötüye kullanılıp kullanılmadığına dikkat edilmelidir.
+
+
+###![Nitelikli Dolandırıcılık Suçu](https://camo.githubusercontent.com/2add074b8bb4b9b8bb2e3ac7677209c85ff8bd18/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f42365676502e6a7067 "Nitelikli Dolandırıcılık Suçu")
 
 
 
@@ -89,6 +94,8 @@ Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi 
 
 
 **Bilişim sistemleri kullanılarak dolandırıcılık suçu** işlenmesi halinde fail TCK 158/1-f maddesi gereği cezalandırılır. Bilişim sistemlerinin kullanılması demek, bilgisayar, cep telefonu, internet gibi araçların kullanılmasıdır. Örneğin, facebook, twitter vs. gibi sosyal medya araçları üzerinden mağdurun hileli davranışlarla aldatılması suretiyle para, kontör  istenmesi  gibi yönetmlerle haksız menfaat sağlanması bilişim sistemleri kullanılarak nitelikli dolandırıcılık suçunu teşkil eder.
+
+###![Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu](https://camo.githubusercontent.com/adfcad31e1923e5ef1c647010f947b840297e364/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a4c7156442e6a7067 "Bilişim Sistemlerini Kullanarak Dolandırıcılık suçu")
 
 ###6. Banka veya Kredi Kurumunun Araç Olarak Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
