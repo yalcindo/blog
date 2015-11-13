@@ -43,10 +43,6 @@ Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli ol
 ###![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
 
 
-##Haksız Tahrik ve Meşru Müdafaa İlişkisi
-
-**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) hali, failin cezalandırılmaması sonucunu doğurur. Mağdura karşı işlenen fiilin meşru müdafaa amacıyla mı yoksa haksız tahrik altında mı işlendiği, faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
-
 
 
 ##Haksız Tahrikte Dengenin Bozulması
@@ -62,6 +58,11 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 **Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. TCK, [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) açısından haksız tahrik kurumunu özel bir hükümle düzenlemiştir.
+
+
+##Haksız Tahrik ve Meşru Müdafaa İlişkisi
+
+**Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) hali, failin cezalandırılmaması sonucunu doğurur. Mağdura karşı işlenen fiilin meşru müdafaa amacıyla mı yoksa haksız tahrik altında mı işlendiği, faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
 
 ##Haksız Tahrik İndirimi Yargıtay Kararları  
 
