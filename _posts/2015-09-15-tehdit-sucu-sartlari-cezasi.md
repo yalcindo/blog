@@ -30,11 +30,11 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ###Tehdit Suçunun Şartları
 
-* **Tehdit suçu**nun meydana gelmesi ağır ve haksız bir zarara uğratılacağının mağdura bildirilmesi gerekir. Tehdit, gerçekleşmesi failin iradesine bağlı olan ve gelecekte gerçekleşecek olan bir kötülüğün, fail tarafından gerçekleşecek gibi gösterilmesidir.
+* **Tehdit suçu**nun meydana gelmesi ağır ve haksız bir zarara uğratılacağının mağdura bildirilmesi gerekir. Tehdit, gerçekleşmesi failin iradesine bağlı olan ve gelecekte gerçekleşme ihtimali olan bir kötülüğün, fail tarafından gerçekleşecek gibi gösterilmesidir.
 
-* Tehdit, mağdurun karar verme ve özgür hareket etme özgürlüüğünü kısıtlamalı, mağdurun iç huzurunu bozacak ve onu endişeye sevkedecek nitelikte olmalıdır. Fiil endişe yaratmaya elverişli değilse **tehdit suçu** oluşmaz.
+* Tehdit, mağdurun karar verme ve özgür hareket etme özgürlüüğünü kısıtlamalı, mağdurun iç huzurunu bozacak ve onu endişeye sevkedecek nitelikte olmalıdır. Fiil, endişe yaratmaya elverişli değilse **tehdit suçu** oluşmaz.
 
-* **Tehdit suçu**nun manevi unsuru açısından genel kast yeterlidir. Suçu işleyenin tehdit fiilini bilerek ve isteyerek işlemesi, verileceği söylenen zararın haksız olması yeterlidir.  Tehdit fiilinde korkutuculuk, ürkütücülük, ciddiyet olmalıdır, aksi takdirde tehdit kastının varlığından bahsedilemez.
+* **Tehdit suçu**nun manevi unsuru açısından genel kast yeterlidir. Suçu işleyenin tehdit fiilini bilerek ve isteyerek işlemesi, mağdura verileceği söylenen zararın haksız olması yeterlidir.  Tehdit fiilinde korkutuculuk, ürkütücülük, ciddiyet olmalıdır, aksi takdirde tehdit kastının varlığından bahsedilemez.
 
 * **Tehdit şuçunun şartları**nın oluşup oluşmadığı olaysal değerlendirilmelidir. Fail ile mağdurun içinde bulundukları ortam, söylenen sözler, karşılıklı icra edilen davranışlar, sözlerin söylenme nedeni ve söylendiği koşullar dikkate alınarak tehdit suçunun şartlarının oluşup oluşmadığı tartışılmalıdır. Ayrıca fail ve mağdurun kimlikleri, konumları ve kişilik özellikleri de tehdit suçunun şartları açısından ipuçları verdiğinden fiil ile birlikte değerlendirilmelidir.
 
