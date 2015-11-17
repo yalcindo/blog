@@ -61,6 +61,9 @@ Suçun konusu olan resmi belgenin kamu görevlisi tarafından düzenlenmesi gere
 
 Resmi evrakta sahtecilik suçunun vücut bulması için belgenin mutlaka belirli bir şekilde düzenlenmesi şartı yoktur. Herhangi bir şekilde düzenlenen resmi evrak suçun konusunu olabilir. Ancak, TCK dışındaki herhangi bir kanun, bazı resmi belgeler için özel şekil şartları öngörmüşse belgenin o kanunda belirtilen usul ve şekil şartlarına uygun düzenlenmesi gerekir. Örneğin, 3 kişilik kurul halinde hazırlanan bir bilirkişi raporunda bir bilirkişinin imzası eksikse resmi belgede usul eksikliği vardır. Bu belge üzerinde bir kişi tarafından tahrifat yapılsa bile **resmi evrakta sahtecilik** suçu oluşmaz. Çünkü, imza eksikliği nedeniyle evrak kanunda belirtilen usul ve şekil şartlarına sahip değildir. 
 
+
+###![Resmi Belgede Sahtecilik Suçu](https://camo.githubusercontent.com/4e03fd1cf29797d7845b063beb79411af3068319/687474703a2f2f692e68697a6c69726573696d2e636f6d2f61305a4c30342e6a7067 "Resmi Belgede Sahtecilik Suçu")
+
 ###2- Resmi Evrakta Sahtecilik Suçu ve Zarar Olasılığı
 
 **Resmi belgede sahtecilik** suçu hem kamu güvenini bozmalı hem de kişilerin haklarını ihlal ederek zarar olasılığı doğurmalıdır. Suçun konusu resmi evrakın somut bir zarar meydana getirmesi şart değildir. Mahkeme, yargılama sırasında suçun unsurlarının tespiti amacıyla belgenin meydana getirdiği somut zararı değil, zarar olasılığının var olup olmadığını araştırmalıdır. Zarar olasılığı doğurmaya elverişli olmayan evrak, **resmi belgede sahtecilik** suçunu oluşturmaz.
@@ -123,16 +126,18 @@ Sahteliği sabit olana kadar geçerli belgeler özel kanunlar düzenlenmiştir. 
 
 **Resmi evrakta sahtecilik suçu cezası,** işlenen suçun basit ve nitelikli hallerine göre farklılık arz etmektedir. Buna göre;
 
-**Resmi belgede sahtecilik suçu,** resmi bir belgenin sahte olarak düzenlenmesi, başkalarını aldatacak şekilde değiştirilmesi veya kullanılması şeklindeki suçun basit haliyle işlenirse sanığa verilecek ceza 2 yıldan 5 yıla kadar hapis cezasıdır (TCK md. 204/1)
+* **Resmi belgede sahtecilik suçu,** resmi bir belgenin sahte olarak düzenlenmesi, başkalarını aldatacak şekilde değiştirilmesi veya kullanılması şeklindeki suçun basit haliyle işlenirse sanığa verilecek ceza 2 yıldan 5 yıla kadar hapis cezasıdır (TCK md. 204/1)
 
-Kamu görevlisinin görevinden kaynaklanan görevi kötüye kullanma suretiyleı, resmi belgeyi sahte olarak düzenlemesi, değiştirmesi, kullanması halinde **resmi evrakta sahtecilik** suçunun cezası 3 yıldan 8 yıla kadar hapis cezasıdır (TCK md. 204/2).
-
-
-**Resmi belgede sahtecilik** suçunun maddi konusu olan belge, sahteliği ispatlanıncaya (sabit oluncaya) kadar geçerli olan resmi belgelerden ise yukarıdaki fıkralara göre belirlenen suçun cezası 1/2 oranında arttırılır.
-
-Sağlık mensubu kişilerin (ebe, hemşire, doktor ve diğer tüm çalışanlar vs.) gerçeğe aykırı belge düzenleyerek kamunun veya kişilerin zararına yol açması veya herhangi bir haksız menfaat elde etmesi halinde resmi belgede sahtecilik suçu hükümleri gereği cezalandırılırlar (TCK md. 210/2 - 2. cümle).
+* Kamu görevlisinin görevinden kaynaklanan görevi kötüye kullanma suretiyleı, resmi belgeyi sahte olarak düzenlemesi, değiştirmesi, kullanması halinde **resmi evrakta sahtecilik** suçunun cezası 3 yıldan 8 yıla kadar hapis cezasıdır (TCK md. 204/2).
 
 
+* **Resmi belgede sahtecilik** suçunun maddi konusu olan belge, sahteliği ispatlanıncaya (sabit oluncaya) kadar geçerli olan resmi belgelerden ise yukarıdaki fıkralara göre belirlenen suçun cezası 1/2 oranında arttırılır.
 
-Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir ceza avukatı ile savunma yapılmalıdır. Resmi evrakta sahtecilik suçu, kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
+* Sağlık mensubu kişilerin (ebe, hemşire, doktor ve diğer tüm çalışanlar vs.) gerçeğe aykırı belge düzenleyerek kamunun veya kişilerin zararına yol açması veya herhangi bir haksız menfaat elde etmesi halinde resmi belgede sahtecilik suçu hükümleri gereği cezalandırılırlar (TCK md. 210/2 - 2. cümle).
+
+
+
+Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir ceza avukatı ile savunma yapılmalıdır. **Resmi evrakta sahtecilik suçu,** kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
+
+**Bakırköy-İstanbul Avukat Baran Doğan**
 
