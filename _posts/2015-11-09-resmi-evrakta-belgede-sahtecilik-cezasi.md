@@ -113,13 +113,14 @@ TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) olarak sa
 
 Sahteliği ispatlanıncaya kadar (sabit oluncaya kadar) geçerli belgelerde **evrakta sahtecilik suçu** işlendiğinde, suçun daha ağır ceza gerektiren şekli işlenmiş olur.
 
-Hukuken iki grup resmi belge olduğu kabul edilir: 1- *Sahteliği ispatlanıncaya kadar geçerli resmi belge*, 2-* Aksi ispatlanana kadar geçerli resmi belge*
+Hukuken iki grup resmi belge olduğu kabul edilir: 1- *Sahteliği ispatlanıncaya kadar geçerli resmi belge*, 2-*Aksi ispatlanana kadar geçerli resmi belge*
 
-*Sahteliği ispatlanıncaya kadar geçerli olan belgeler*, resmi kurumlar nezdinde tam güvenirliliğe sahip olup kesin delil niteliğindedirler. Örneğin, hakim tarafından tutulan duruşma tutanakları sahteliği sabit oluncaya kadar geçerli belgelerdendir. Bu belgelerin aksi başka delillerle ispatlanamaz, ancak sahte oldukları ispatlanabilir. Önceki örneğe dönecek olursak, hakimin tuttuğu duruşma tutanağına duruşmanın oluş biçimi ile ilgili yazdığı herhangi bir şeyin aksi ispatlanamaz, duruşmanın hakimin tuttuğu duruşma tutanağından farklı cereyan ettiği iddia ve ispat olunamaz. Ancak duruşma tutanağının hakim tarafından tutulmadığı, sahte olduğu ileri sürülebilir. 
+* *Sahteliği ispatlanıncaya kadar geçerli olan belgeler*, resmi kurumlar nezdinde tam güvenirliliğe sahip olup kesin delil niteliğindedirler. Örneğin, hakim tarafından tutulan duruşma tutanakları sahteliği sabit oluncaya kadar geçerli belgelerdendir. Bu belgelerin aksi başka delillerle ispatlanamaz, ancak sahte oldukları ispatlanabilir. Önceki örneğe dönecek olursak, hakimin tuttuğu duruşma tutanağına duruşmanın oluş biçimi ile ilgili yazdığı herhangi bir şeyin aksi ispatlanamaz, duruşmanın hakimin tuttuğu duruşma tutanağından farklı cereyan ettiği iddia ve ispat olunamaz. Ancak duruşma tutanağının hakim tarafından tutulmadığı, sahte olduğu ileri sürülebilir. 
 
-*Aksi ispatlanana kadar geçerli belgeler*, resmi evrak olarak yine güvenilirliğe sahip olmakla birlikte aksi her zaman ispatlanabilen belgelerdendir. Yani, herhangi bir devlet kurumunun düzenlediği bir evrak (örn, trafik cezası tutanağı) bu kategoriye girer.
+* *Aksi ispatlanana kadar geçerli belgeler*, resmi evrak olarak yine güvenilirliğe sahip olmakla birlikte aksi her zaman ispatlanabilen belgelerdendir. Yani, herhangi bir devlet kurumunun düzenlediği bir evrak (örn, trafik cezası tutanağı) bu kategoriye girer.
 
 Kanun yalnızca birinci gruptaki belgelerde, yani sahteliği ispatlanıncaya kadar (sabit oluncaya kadar) geçerli belgelerde işlendiğinde **resmi evrakta sahtecilik suçu cezası* daha ağır hale gelir.
+
 Sahteliği sabit olana kadar geçerli belgeler özel kanunlar düzenlenmiştir. Şu belgeler sahteliği ispatlanana kadar geçerli belge olarak kabul edilir: 1- Mahkeme İlamları, 2- Noterlerde Düzenleme Biçiminde Tanzim Edilen Evraklar, 3- Duruşma Tutanakları, 4- Seçim Tutanakları, 5- Belediye Ceza Tutanakları (1608 sayılı Kanun md.6), 6- İlam Niteliğindeki Belgeler (İİK md. 38), 7- Kaçakçılıkla Mücadele Kanunu gereği tutulan suç tutanakları, 8- Sayıştay İlamları.
 
 ###8- Resmi Evrakta (Belgede) Sahtecilik Suçu Cezası
