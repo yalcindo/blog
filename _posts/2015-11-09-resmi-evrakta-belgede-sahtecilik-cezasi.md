@@ -25,15 +25,15 @@ Yukarıdaki dört seçimlik hareketten herhangi birinin fail tarafından işlenm
 
 ##Resmi Evrakta Sahtecilik ve Mağdur
 
-Resmi evrakta sahtecilik suçu bir kişi aleyhine işlense bile suçun mağduru daima devlet olarak kabul edilmektedir. Fail suçu işleyerek kamu güvenini zedelemiştir. İşlenen suç nedeniyle maddi-manevi zarar gören gerçek kişiler mağdur değil, “suçtan zarar gören” sıfatıyla soruşturma ve kovuşturmada şikayetçi olup yargılamaya katılabilirler (Yargıtay Ceza Genel Kurulu – 2014/202 K.).
+**Resmi evrakta sahtecilik suçu** bir kişi aleyhine işlense bile suçun mağduru daima devlet olarak kabul edilmektedir. Fail suçu işleyerek kamu güvenini zedelemiştir. İşlenen suç nedeniyle maddi-manevi zarar gören gerçek kişiler mağdur değil, “suçtan zarar gören” sıfatıyla soruşturma ve kovuşturmada şikayetçi olup yargılamaya katılabilirler (Yargıtay Ceza Genel Kurulu – 2014/202 K.).
 
 ##Resmi Evrakta Sahtecilik ve Şikayet Süresi
 
-TCK’da şikayete tabi suçlarda şikayet süresi genel olarak fiilin işlenmesinden itibaren 6 aydır. Resmi evrakta sahtecilik suçu cezası nedeniyle şikayete tabi olmadığından herhangi bir şikayet süresi yoktur. Ancak, bu suçun zamanaşımı süresi en basit halde dahi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatmak zorundadır.
+TCK’da şikayete tabi suçlarda şikayet süresi genel olarak fiilin işlenmesinden itibaren 6 aydır. **Resmi evrakta sahtecilik suçu cezası** nedeniyle şikayete tabi olmadığından herhangi bir şikayet süresi yoktur. Ancak, bu suçun zamanaşımı süresi en basit halde dahi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatmak zorundadır.
 
 ##Resmi Evrakta (Belgede) Sahtecilik Suçunun Şartları, Unsurları
 
-Resmi evrakta sahtecilik suçunun maddi konusu resmi bir belgedir. Aldatıcılık özelliğine sahip resmi belgenin ve suçun özellikleri, suçun kamu görevlisi tarafından işlenmesi hallerine aşağıda tek tek değinilecektir.
+**Resmi evrakta sahtecilik** suçunun maddi konusu resmi bir belgedir. Aldatıcılık özelliğine sahip resmi belgenin ve suçun özellikleri, suçun kamu görevlisi tarafından işlenmesi hallerine aşağıda tek tek değinilecektir.
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/556165a09c35d71ae31fb33001c04d8a1e27502d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79524f4530372e6a7067 "Ceza Avukatı")
 
@@ -43,11 +43,11 @@ Resmi evrakta sahtecilik suçunun maddi konusu resmi bir belgedir. Aldatıcılı
 
 ####a- Resmi Belgede Sahtecilik Yazılı Belge Üzerinde İşlenebilir
 
-Suçun konusu olan resmi belge, yazılı olmalı ve belgede mutlaka bir dil kullanılmaldır. Resmi belgede kullanılan dil Türkçe dışında yaşayan veya ölü bir dil de olabilir. Ancak okunabilen evraklar resmi belgede sahtecilik suçunun konusu olabilir. Orjinali okunamayan ve içeriği anlaşılmayan belgeler zarar olasılığı doğurmayacağından resmi belgede sahtecilik suçunun konusunu oluşturamazlar.
+Suçun konusu olan resmi belge, yazılı olmalı ve belgede mutlaka bir dil kullanılmaldır. Resmi belgede kullanılan dil Türkçe dışında yaşayan veya ölü bir dil de olabilir. Ancak okunabilen evraklar resmi belgede sahtecilik suçunun konusu olabilir. Orjinali okunamayan ve içeriği anlaşılmayan belgeler zarar olasılığı doğurmayacağından **resmi belgede sahtecilik** suçunun konusunu oluşturamazlar.
 
 ####b- Resmi Evrakta Sahtecilik Delil Değerine Sahip Belge Üzerinde İşlenebilir
 
-Resmi evrakta sahtecilik, ancak delil değerine sahip resmi belge üzerinde işlenebilir. Resmi belgenin delil değeri yoksa, yani herhangi bir hukuki değeri yoksa suç da oluşmaz. Belgenin bir hakkın doğumuna veya sona ermesine ilişkin ispat gücüne sahip olması gerekir. Hukuki bir iddiaya esas teşkil edebilme niteliği olmayan belgeler üzerinde resmi belgede sahtecilik suçu oluşmaz. Hukuken delil niteliğine sahip evraklar “Mahsus Evrak” ve “Tesadüfi Evrak” olmak üzere iki ayrılırlar. Mahsus evrak, özellikle belli bir konuda delil olarak düzenlenen resmi belgedir. Örneğin, noterden verilen vekaletname, mahkeme ilamı, icra dairesi ödeme emri, nüfus cüzdanı, pasaport, araç ruhsatı vs. gibi evraklar mahsus evrak niteliğindedir. Tesadüfi Evrak ise belli bir konuda delil olarak düzenlenmemesine rağmen içeriği nedeniyle sonradan delil niteliği kazanan belgedir. Örneğin, iki tüccar arasında yazılan bir mektup, içeriği nedeniyle ticari bir davada delil olarak kullanılabilir.
+**Resmi evrakta sahtecilik,** ancak delil değerine sahip resmi belge üzerinde işlenebilir. Resmi belgenin delil değeri yoksa, yani herhangi bir hukuki değeri yoksa suç da oluşmaz. Belgenin bir hakkın doğumuna veya sona ermesine ilişkin ispat gücüne sahip olması gerekir. Hukuki bir iddiaya esas teşkil edebilme niteliği olmayan belgeler üzerinde resmi belgede sahtecilik suçu oluşmaz. Hukuken delil niteliğine sahip evraklar “Mahsus Evrak” ve “Tesadüfi Evrak” olmak üzere iki ayrılırlar. Mahsus evrak, özellikle belli bir konuda delil olarak düzenlenen resmi belgedir. Örneğin, noterden verilen vekaletname, mahkeme ilamı, icra dairesi ödeme emri, nüfus cüzdanı, pasaport, araç ruhsatı vs. gibi evraklar mahsus evrak niteliğindedir. Tesadüfi Evrak ise belli bir konuda delil olarak düzenlenmemesine rağmen içeriği nedeniyle sonradan delil niteliği kazanan belgedir. Örneğin, iki tüccar arasında yazılan bir mektup, içeriği nedeniyle ticari bir davada delil olarak kullanılabilir.
 
 ####c- Resmi Belgeyi “Düzenleyen” Belgeden Anlaşılmalıdır
 
@@ -55,11 +55,11 @@ Resmi evrakta sahtecilik, ancak delil değerine sahip resmi belge üzerinde işl
 
 ####d-Resmi Belge Mutlaka Kamu Görevlisi Tarafından Düzenlenmeli
 
-Suçun konusu olan resmi belgenin kamu görevlisi tarafından düzenlenmesi gerekir. Kamu görevlisi suçun konusu olan resmi belgeyi düzenlemeye yetkili olmalıdır. Kamu görevlisinin resmi evrakı düzenleme yetkisi yoksa resmi evrakta sahtecilik suçu da oluşmaz. Kanundaki özel hüküm gereği bazı belgeler kamu görevlisi tarafından düzenlenmese bile resmi evrakta sahtecilik suçunun konusunu oluşturur. Kamu görevlisi tarafından düzenlenmese bile resmi belgede sahtecilik suçunun meydana gelmesine neden olan belgeler şunlardır: Bono veya çek gibi kambiyo senetleri, emtiayı temsil eden belge, hisse senedi, tahvil, vasiyetname.
+Suçun konusu olan resmi belgenin kamu görevlisi tarafından düzenlenmesi gerekir. Kamu görevlisi suçun konusu olan resmi belgeyi düzenlemeye yetkili olmalıdır. Kamu görevlisinin resmi evrakı düzenleme yetkisi yoksa resmi evrakta sahtecilik suçu da oluşmaz. Kanundaki özel hüküm gereği bazı belgeler kamu görevlisi tarafından düzenlenmese bile **resmi evrakta sahtecilik** suçunun konusunu oluşturur. Kamu görevlisi tarafından düzenlenmese bile resmi belgede sahtecilik suçunun meydana gelmesine neden olan belgeler şunlardır: Bono veya çek gibi kambiyo senetleri, emtiayı temsil eden belge, hisse senedi, tahvil, vasiyetname.
 
 ####e- Resmi Belgede Sahtecilik ve Belgenin Özel Şekil Koşulları
 
-Resmi evrakta sahtecilik suçunun vücut bulması için belgenin mutlaka belirli bir şekilde düzenlenmesi şartı yoktur. Herhangi bir şekilde düzenlenen resmi evrak suçun konusunu olabilir. Ancak, TCK dışındaki herhangi bir kanun, bazı resmi belgeler için özel şekil şartları öngörmüşse belgenin o kanunda belirtilen usul ve şekil şartlarına uygun düzenlenmesi gerekir. Örneğin, 3 kişilik kurul halinde hazırlanan bir bilirkişi raporunda bir bilirkişinin imzası eksikse resmi belgede usul eksikliği vardır. Bu belge üzerinde bir kişi tarafından tahrifat yapılsa bile **resmi evrakta sahtecilik** suçu oluşmaz. Çünkü, imza eksikliği nedeniyle evrak kanunda belirtilen usul ve şekil şartlarına sahip değildir. 
+**Resmi evrakta sahtecilik** suçunun vücut bulması için belgenin mutlaka belirli bir şekilde düzenlenmesi şartı yoktur. Herhangi bir şekilde düzenlenen resmi evrak suçun konusunu olabilir. Ancak, TCK dışındaki herhangi bir kanun, bazı resmi belgeler için özel şekil şartları öngörmüşse belgenin o kanunda belirtilen usul ve şekil şartlarına uygun düzenlenmesi gerekir. Örneğin, 3 kişilik kurul halinde hazırlanan bir bilirkişi raporunda bir bilirkişinin imzası eksikse resmi belgede usul eksikliği vardır. Bu belge üzerinde bir kişi tarafından tahrifat yapılsa bile **resmi evrakta sahtecilik** suçu oluşmaz. Çünkü, imza eksikliği nedeniyle evrak kanunda belirtilen usul ve şekil şartlarına sahip değildir. 
 
 
 ###![Resmi Belgede Sahtecilik Suçu](https://camo.githubusercontent.com/4e03fd1cf29797d7845b063beb79411af3068319/687474703a2f2f692e68697a6c69726573696d2e636f6d2f61305a4c30342e6a7067 "Resmi Belgede Sahtecilik Suçu")
