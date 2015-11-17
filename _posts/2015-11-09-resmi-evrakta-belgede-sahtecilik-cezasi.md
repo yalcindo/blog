@@ -113,7 +113,7 @@ TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) olarak sa
 
 Sahteliği ispatlanıncaya kadar (sabit oluncaya kadar) geçerli belgelerde **evrakta sahtecilik suçu** işlendiğinde, suçun daha ağır ceza gerektiren şekli işlenmiş olur.
 
-Hukuken iki grup resmi belge olduğu kabul edilir: 1- *Sahteliği ispatlanıncaya kadar geçerli resmi belge*, 2-*Aksi ispatlanana kadar geçerli resmi belge*
+Hukuken iki grup resmi belge olduğu kabul edilir: 1- *Sahteliği ispatlanıncaya kadar geçerli resmi belge*, 2-*Aksi ispatlanana kadar geçerli resmi belge.*
 
 * *Sahteliği ispatlanıncaya kadar geçerli olan belgeler*, resmi kurumlar nezdinde tam güvenirliliğe sahip olup kesin delil niteliğindedirler. Örneğin, hakim tarafından tutulan duruşma tutanakları sahteliği sabit oluncaya kadar geçerli belgelerdendir. Bu belgelerin aksi başka delillerle ispatlanamaz, ancak sahte oldukları ispatlanabilir. Önceki örneğe dönecek olursak, hakimin tuttuğu duruşma tutanağına duruşmanın oluş biçimi ile ilgili yazdığı herhangi bir şeyin aksi ispatlanamaz, duruşmanın hakimin tuttuğu duruşma tutanağından farklı cereyan ettiği iddia ve ispat olunamaz. Ancak duruşma tutanağının hakim tarafından tutulmadığı, sahte olduğu ileri sürülebilir. 
 
