@@ -35,14 +35,14 @@ TCK’da şikayete tabi suçlarda şikayet süresi genel olarak fiilin işlenmes
 
 Resmi evrakta sahtecilik suçunun maddi konusu resmi bir belgedir. Aldatıcılık özelliğine sahip resmi belgenin ve suçun özellikleri, suçun kamu görevlisi tarafından işlenmesi hallerine aşağıda tek tek değinilecektir.
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/556165a09c35d71ae31fb33001c04d8a1e27502d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79524f4530372e6a7067 "Ceza Avukatı"]
+###![Ceza Avukatı](https://camo.githubusercontent.com/556165a09c35d71ae31fb33001c04d8a1e27502d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79524f4530372e6a7067 "Ceza Avukatı")
 
 ###1- Resmi Evrakta (Belgede) Sahtecilik Suçu ve Resmi Belge
 
 **Resmi evrakta sahtecilik** suçunun konusunu oluşturan belge bazı özelliklere sahip olmalıdır. Suçun konusu olan belgenin özellikleri şunlardır: 
 
-  ####a- Resmi Belgede Sahtecilik Yazılı Belge Üzerinde İşlenebilir
-  
+####a- Resmi Belgede Sahtecilik Yazılı Belge Üzerinde İşlenebilir
+
 Suçun konusu olan resmi belge, yazılı olmalı ve belgede mutlaka bir dil kullanılmaldır. Resmi belgede kullanılan dil Türkçe dışında yaşayan veya ölü bir dil de olabilir. Ancak okunabilen evraklar resmi belgede sahtecilik suçunun konusu olabilir. Orjinali okunamayan ve içeriği anlaşılmayan belgeler zarar olasılığı doğurmayacağından resmi belgede sahtecilik suçunun konusunu oluşturamazlar.
 
 ####b- Resmi Evrakta Sahtecilik Delil Değerine Sahip Belge Üzerinde İşlenebilir
