@@ -72,7 +72,7 @@ Suçun konusu olan resmi belgenin kamu görevlisi tarafından düzenlenmesi gere
 
 **Resmi belgede sahtecilik** suçunun en önemli şartlarından biri belgenin “aldatıcılık” özelliğine sahip olmasıdır. Zarar olasılığının doğması için evrakta yapılan sahteciliğin çok sayıda insanı aldatacak özellikte olması gerekir. Belgedeki aldatıcılık özelliği objektif olarak mevcut olmalıdır. Belgenin objektif özellikleri sebebiyle değil de, belgenin muhatabı olan şahsın kişisel hatası, dikkatsizliği veya özensizliği nedeniyle zarar olasılığı doğmuşsa aldatıcılıktan bahsedilemez. Mağdur veya suçtan zarar gören şahıstan kaynaklanan kişisel hatalar iğfalin meydana gelmesine neden olmuşsa **resmi belgede sahtecilik** suçu oluşmaz. 
 
-Sahtecilik belgeden açıkça anlaşılıyorsa o belgenin aldatma yeteneği olmadığından, suçun unsusu olan “aldatıcılık” özelliğinin gerçekleştiği ileri sürülemez.  
+Sahtecilik belgeden açıkça anlaşılıyorsa o belgenin aldatma yeteneği olmadığından, suçun unsuru olan “aldatıcılık” özelliğinin gerçekleştiği ileri sürülemez.  
 
 Belgenin aldatma yeteneği olmamasına rağmen, belgenin verildiği devlet kurumu görevlisinin dikkatsizliği yüzünden işlem yapılsa bile **resmi belgede sahtecilik** suçu oluşmaz.
 
