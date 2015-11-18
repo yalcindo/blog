@@ -71,6 +71,8 @@ Hükümlünün **denetimli serbestlik yasası**ndan yararlanabilmesi için “iy
 
 Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
+###![Denetimli Serbestlik](https://camo.githubusercontent.com/e88e514054c89bf7ff499210de4cb55ce5813ee6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32713152312e6a7067 "Denetimli Serbestlik")
+
 ###5. Denetimli Serbestliğe Uymama
 
 
