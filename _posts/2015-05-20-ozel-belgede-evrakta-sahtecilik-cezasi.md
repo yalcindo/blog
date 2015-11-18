@@ -60,7 +60,7 @@ Kanun maddesindeki bu seçimlik hareketi icra eden fail, özel belgeyi sahte ola
 
 
 
-###[Özel Belgede Sahtecilik](https://camo.githubusercontent.com/dddd06a7e2dd69cafaa31cfe90eb34c4721772fa/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584a7a4145352e6a7067 "Özel Belgede Sahtecilik")
+###![Özel Belgede Sahtecilik](https://camo.githubusercontent.com/dddd06a7e2dd69cafaa31cfe90eb34c4721772fa/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584a7a4145352e6a7067 "Özel Belgede Sahtecilik")
 
 
 ###Hangi Belgeler Özel Evrakta Sahtecilik Suçunun Konusu Olabilir?
