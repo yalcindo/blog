@@ -108,11 +108,20 @@ Düzenleyici isim-soyisim veya sadece imzadan tespit edilebilir. Önemli olan d�
 
 ###Özel Evrakta Sahtecilik Suçu ve Zarar İhtimali Bulunması
 
-**Özel evrakta sahtecilik suçu,** kamu güvenini karşı işlenen suçlardandır. Düzenlenen, değiştirilen veya kullanılan özel belgenin zarar doğurma ihtimali yoksa **özel evrakta sahtecilik suçu** da oluşmaz.  Özel belgenin somut bir zarara sebebiyet vermesi şart değildir, önemli olan zarar ihtimali doğurup doğurmadığıdır. Zarar sonucu doğurmaya hukuken elverişli olmayan bir belge suç oluşturmaz.
+**Özel evrakta sahtecilik suçu,** kamu güvenini karşı işlenen suçlardandır. Evrakta sahtecilik suçu, çoğu zaman başka suçlar işlemek için bir araç suç olarak kullanılır. Bu nedenle, kamu güveninin yanı sıra gerek bireylerin gerekse kurumların menfaatleri de ihlal edilmektedir. Özel belgede sahtecilik suçunun meydana gelmesi için belgenin "zarar ihtimali" mevcut olmalıdır. 
+
+Düzenlenen, değiştirilen veya kullanılan özel belgenin zarar doğurma ihtimali yoksa **özel evrakta sahtecilik suçu** da oluşmaz.  Özel belgenin somut bir zarara sebebiyet vermesi şart değildir, önemli olan zarar ihtimali doğurup doğurmadığıdır. Zarar sonucu doğurmaya hukuken elverişli olmayan bir belge bu suçu oluşturmaz.
 
 ###Özel Belgede Sahtecilik Suçu ve Belgenin Aldatma Yeteneği
 
-Tüm sahtecilik suçlarında, suçun unsuru olarak suçun konusu olan evrakın aldatma yeteneğine sahip olması aranır. Zarar ihtimalinin olup olmadığının tespiti ancak evrakın çok sayıda kişiyi aldatma yeteneğine sahip olup olmadığıyla ölçülür. Özel belgede aldatıcılık yeteneğinin olup olmadığı, suç mağdurunun kişisel özelliklerine göre değil, özel belgenin objektif özelliklerine göre tespit edilir. Belgenin aldatma yeteneğinin tespiti amacıyla mahkemeler tarafından bilirkişi incelemesi yapılmaktadır. 
+Tüm sahtecilik suçlarında, suçun unsuru olarak suçun konusu olan evrakın aldatma yeteneğine sahip olması aranır. Zarar ihtimalinin olup olmadığının tespiti ancak evrakın çok sayıda kişiyi aldatma yeteneğine sahip olup olmadığıyla ölçülür. Özel belgede aldatıcılık yeteneğinin olup olmadığı, suç mağdurunun kişisel özelliklerine göre değil, özel belgenin objektif özelliklerine göre tespit edilir.
+
+Özel belgede yapılan sahteciliğin ilk bakışta herkes tarafından anlaşılması mümkünse, bu durumda **özel evrakta sahtecilik** suçu oluşmaz.
+
+Belgenin aldatma yeteneğinin olup olmadığının mutlaka araştırılması gerekir. Uygulamadan belgenin aldatma yeteneğine sahip olup olmadığının tespiti amacıyla mahkemeler tarafından bilirkişi incelemesi yapılmaktadır. 
+
+
+###![Ceza Avukatı](https://camo.githubusercontent.com/977721fdb3a666fb88f4bf53b2e4e80ab4bf74ce/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235304130762e6a7067 "Ceza Avukatı")
 
 
 
