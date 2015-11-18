@@ -117,7 +117,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
-Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaz hukukuna dair kurallar derhal uygulanmak zorundadır. Yani bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanır.
+**Denetimli serbestlik,** bir infaz hukuku kurumudur. İnfaz hukukuna dair kurallar derhal uygulanmak zorundadır. Yani bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanır.
 
 01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalma veya kalma hakkını elde ettiği halde kendi isteği dışında açık cezaevine çıkamama koşulunu yerine getirmek zorundadır.
 
