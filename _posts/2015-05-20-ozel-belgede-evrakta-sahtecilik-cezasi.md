@@ -18,17 +18,23 @@ summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun
 
 TCK 207. maddede düzenlenen **Özel evrakta sahtecilik,** üç farklı seçimlik hareketle kasten işlenebilen bir suçtur: 
 
-Özel bir belgenin sahte olarak düzenlenip kullanılması,
+* Özel bir belgenin sahte olarak düzenlenip kullanılması,
 
-Gerçek bir özel belgenin başkalarını aldatacak şekilde değiştirilerek kullanılması,
+* Gerçek bir özel belgenin başkalarını aldatacak şekilde değiştirilerek kullanılması,
 
-Sahte olduğunu bilerek özel belge kullanma.
+* Sahte olduğunu bilerek özel belge kullanma.
 
 Yukarıdaki üç seçimlik hareketten herhangi birinin işlenmesiyle **özel belgede sahtecilik** suçu oluşur. Yukarıdaki üç eylemin, aynı fail tarafından ayrı ayrı zamanlarda, fakat aynı özel belgeyle işlenmesi halinde de faile tek bir ceza verilir.
 
 ##Özel Evrakta (Belgede) Sahtecilik ve Şikayet Süresi
 
-Şikayete bağlı suçlarda fiilin işlenmesinden itibaren 6 ay içerisinde şikayet edilmemesi halinde şikayet hakkı ortadan kalkar (TCK md. 73). **Özel belgede sahtecilik suçu** şikayete bağlı suçlardan değildir, bu nedenle herhangi bir şikayet süresi yoktur. Ancak, **özel evrakta sahtecilik** suçunun dava zamanaşımı süresi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatır. Şikayet bizzat yapılabileceği gibi bir **ceza avukatı** vasıtasıyla da yapılabilir.
+Şikayete bağlı suçlarda fiilin işlenmesinden itibaren 6 ay içerisinde şikayet edilmemesi halinde şikayet hakkı ortadan kalkar (TCK md. 73). **Özel belgede sahtecilik suçu** şikayete bağlı suçlardan değildir, bu nedenle herhangi bir şikayet süresi yoktur. 
+
+Ancak, **özel evrakta sahtecilik** suçunun dava zamanaşımı süresi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatır. Şikayet bizzat yapılabileceği gibi bir **ceza avukatı** vasıtasıyla da yapılabilir.
+
+
+
+###![Özel Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/50e28fbf7b9c3eefe2f6b1b92aab0c460fc15e6a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f62596f6d71472e6a7067 "Özel Evrakta Sahtecilik Suçu")
 
 
 ##Özel Belgede (Evrakta) Sahtecilik Suçunun Seçimlik Hareketleri
@@ -45,13 +51,16 @@ Sahte kira sözleşmesi veya gider pusulaları düzenleyip vergi dairesine verme
 ###2- Özel Belgenin Değiştirilmesi ve Kullanılması Suçu (TCK md. 207/1)
 
 Kanun maddesindeki bu seçimlik hareket ile suçun işlenebilmesi için öncelikle ortada gerçek bir özel belge bulunmalıdır. Gerçek özel belge ekleme, çıkarma veya kazıma yoluyla değiştirilerek kullanılmalıdır.  Belgeye yapılan eklemeler veya çıkarmalar belgenin hukuki delil değerini değiştirmelidir. Yapılan değişiklikle özel belgeden hasıl olacak hukuki sonucun farklılaştırılması gerekir. Özel evrakta yer alan yazının değiştirilmesi veya yeni yazı eklenmesi, imza ve tarihin silinmesi veya değiştirilmesi *özel belgenin değiştirilmesi ve kullanılması* suçunu meydana getirir.
+
 ###3- Sahte Olduğu Bilinen Özel Belgenin Kullanılması (TCK md. 207/2)
 
 Kanun maddesindeki bu seçimlik hareketi icra eden fail, özel belgeyi sahte olarak düzenleyen veya değiştiren kişi değildir. Suçun faili, daha önce başkası tarafından sahte olarak düzenlenmiş veya değiştirilmiş bir özel belgeyi sadece kullanan kişidir.
+
 Önemle belirtmek gerekir ki, özel belgenin sahte olarak düzenlendiğinin veya değiştirildiğinin fail tarafından bilinmesi ve fiilin istenerek işlenmesi gerekir. 
 
 
-###![Özel Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/50e28fbf7b9c3eefe2f6b1b92aab0c460fc15e6a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f62596f6d71472e6a7067 "Özel Evrakta Sahtecilik Suçu")
+
+###[Özel Belgede Sahtecilik](https://camo.githubusercontent.com/dddd06a7e2dd69cafaa31cfe90eb34c4721772fa/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584a7a4145352e6a7067 "Özel Belgede Sahtecilik")
 
 
 ###Hangi Belgeler Özel Evrakta Sahtecilik Suçunun Konusu Olabilir?
@@ -89,6 +98,9 @@ Sahte düzenlenen kira sözleşmesinin notere onaylatılması, noter işleminde 
 
 **Özel belgede sahtecilik** suçunun konusu olan yazılı evrakın “özel belge” olarak kabulü için üçüncü şart belgeyi düzenleyen şahsın metinden anlaşılabilmesidir. Düzenleyiciden kastedilen şey, özel belgeyi bizzat yazan kişi değil, belgenin adına düzenlendiği kişidir. Örneğin, “X” kişi adına düzenlenen bir taahhüt belgesini fiilen “Y” kişisi yazmış olabilir, “Y” yazmış olmasına rağmen imzayı atan “X” olduğu için özel belgenin düzenleyicisi “X” olarak kabul edilir. 
 Düzenleyici isim-soyisim veya sadece imzadan tespit edilebilir. Önemli olan düzenleyicinin kim olduğunun özel belgeden anlaşılmasıdır.
+
+
+
 
 
 ###Özel Evrakta Sahtecilik Suçu ve Zarar İhtimali Bulunması
