@@ -79,7 +79,7 @@ Sahte düzenlenen kira sözleşmesinin notere onaylatılması, noter işleminde 
 
 
 
-
+###![Özel Belgede Sahtecilik Cezası](https://camo.githubusercontent.com/39696198f0c625c56df3dcd3216ef4fb68b9b0cf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f56364a6438502e6a7067 "Özel Belgede Sahtecilik Cezası")
 
 
 ###Özel Evrakta (Belgede) Sahtecilik Suçunun Şartları, Unsurları
@@ -100,6 +100,9 @@ Sahte düzenlenen kira sözleşmesinin notere onaylatılması, noter işleminde 
 Düzenleyici isim-soyisim veya sadece imzadan tespit edilebilir. Önemli olan düzenleyicinin kim olduğunun özel belgeden anlaşılmasıdır.
 
 
+###![Özel Evrakta Sahtecilik Cezası](https://camo.githubusercontent.com/ca86e3c77260435986d78c51ed4ca9b6ac4f53e5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f33503430566a2e6a7067 "Özel Evrakta Sahtecilik Cezası")
+
+
 
 
 
@@ -110,6 +113,8 @@ Düzenleyici isim-soyisim veya sadece imzadan tespit edilebilir. Önemli olan d�
 ###Özel Belgede Sahtecilik Suçu ve Belgenin Aldatma Yeteneği
 
 Tüm sahtecilik suçlarında, suçun unsuru olarak suçun konusu olan evrakın aldatma yeteneğine sahip olması aranır. Zarar ihtimalinin olup olmadığının tespiti ancak evrakın çok sayıda kişiyi aldatma yeteneğine sahip olup olmadığıyla ölçülür. Özel belgede aldatıcılık yeteneğinin olup olmadığı, suç mağdurunun kişisel özelliklerine göre değil, özel belgenin objektif özelliklerine göre tespit edilir. Belgenin aldatma yeteneğinin tespiti amacıyla mahkemeler tarafından bilirkişi incelemesi yapılmaktadır. 
+
+
 
 ### Özel Belgeyi Bozmak, Yok Etmek veya Gizlemek Suçu (TCK md. 208)
 
