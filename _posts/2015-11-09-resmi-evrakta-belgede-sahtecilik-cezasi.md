@@ -100,11 +100,15 @@ Sahte resmi belge hem fail tarafından düzenlenmiş hem de kullanılmış ise y
 
 **Resmi evrakta sahtecilik** suçunun nitelikli (ağırlaştırılmış) halleri şunlardır: a-Kamu görevlisinin resmi belgeyi sahte olarak düzenlemesi, değiştirmesi, kullanması (TCK 204/2). b- Belgenin sahteciliği ispatlanıncaya kadar geçerli belgelerden olması (TCK 204/3).  
 
-####a- Kamu Görevlisinin Resmi Belgeyi Sahte Olarak Düzenlemesi, Değiştirmesi, Kullanması Suçu (TCK md. 204/2)
+####a- Kamu Görevlisi veya Memurun Resmi Belgede (Evrakta) Sahtecilik Suçu (TCK md. 204/2)
 
-Bu fıkrada suçun daha ağır ceza gerektiren nitelikli şekli düzenlenmiştir. Bu fıkrada tanzim edilen suç, yalnızca kamu görevlisi tarafından işlenebilir. Kamu görevlisi **resmi evrakta sahtecilik** suçunu görevini kötüye kullanma suretiyle işlemelidir. Kamu görevlisi, görevinden dolayı suçun konusu resmi belgeyi düzenleme, değiştirme ve kullanma yetkisine sahip olmalıdır. **Resmi evrakta sahtecilik** suçunu işleyen kamu görevlisi evrakı düzenlemeye veya kullanmaya yetkili değilse, bu fıkra hükümlerine göre değil TCK md. 2014/1 fıkra hükümlerine göre cezalandırılmalıdır.
+Kamu görevlisi olan kişinin veya memurun resmi belgede (evrakta) sahtecilik suçu işlemesi suçun nitelikli hali olarak düzenlenmiştir. Kamu görevlisi veya memurun resmi belgeyi sahte olarak düzenlemesi veya değiştirmesi veya kullanması  halinde suçun daha ağır ceza gerektiren nitelikli şekliyle cezalandırılmayı gerektirir.
 
-###![Kamu Görevlisinin Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/e5393649549127d176f96240e53a56a7c3693355/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4d574d30504e2e6a7067 "Kamu Görevlisinin Resmi Evrakta Sahteciliği")
+Bu fıkrada tanzim edilen suç, yalnızca kamu görevlisi veya memur tarafından işlenebilir. Kamu görevlisi veya memur **resmi evrakta sahtecilik** suçunu görevini kötüye kullanma suretiyle işlemelidir. 
+
+Kamu görevlisi veya memur, görevinden dolayı suçun konusu resmi belgeyi düzenleme, değiştirme ve kullanma yetkisine sahip olmalıdır. **Resmi evrakta sahtecilik** suçunu işleyen kamu görevlisi veya memur, evrakı düzenlemeye veya kullanmaya yetkili değilse, bu fıkra hükümlerine göre değil, TCK md. 2014/1 fıkra hükümlerine göre cezalandırılır.
+
+###![Kamu Görevlisi veya Memurun Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/e5393649549127d176f96240e53a56a7c3693355/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4d574d30504e2e6a7067 "Kamu Görevlisi veya Memurun Resmi Evrakta Sahteciliği")
 
 
 TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
