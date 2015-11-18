@@ -107,7 +107,7 @@ Bu fıkrada suçun daha ağır ceza gerektiren nitelikli şekli düzenlenmiştir
 ###![Kamu Görevlisinin Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/e5393649549127d176f96240e53a56a7c3693355/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4d574d30504e2e6a7067 "Kamu Görevlisinin Resmi Evrakta Sahteciliği")
 
 
-TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) olarak sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
+TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
 
 ####b- Sahteciliği İspatlanıncaya Kadar Geçerli Belgelerde Evrakta Sahtecilik Suçu (TCK 204/3)
 
