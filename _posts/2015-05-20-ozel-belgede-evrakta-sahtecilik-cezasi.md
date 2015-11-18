@@ -9,7 +9,7 @@ summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun
 
 ##Özel Evrakta (Belgede) Sahtecilik Nedir?
 
-**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. **Özel Evrakta sahtecilik suçu** ile resmi evrakta sahtecilik suçu arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
+**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. **Özel Evrakta sahtecilik suçu** ile [**Resmi Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
 
 ###![Özel Belgede Sahtecilik Suçu](https://camo.githubusercontent.com/3f008483007f6c791884aebb859fb9d88324987a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676c576a762e6a7067 "Özel Belgede Sahtecilik Suçu")
 
@@ -30,7 +30,7 @@ Yukarıdaki üç seçimlik hareketten herhangi birinin işlenmesiyle **özel bel
 
 Şikayete bağlı suçlarda fiilin işlenmesinden itibaren 6 ay içerisinde şikayet edilmemesi halinde şikayet hakkı ortadan kalkar (TCK md. 73). **Özel belgede sahtecilik suçu** şikayete bağlı suçlardan değildir, bu nedenle herhangi bir şikayet süresi yoktur. 
 
-Ancak, **özel evrakta sahtecilik** suçunun dava zamanaşımı süresi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatır. Şikayet bizzat yapılabileceği gibi bir **ceza avukatı** vasıtasıyla da yapılabilir.
+Ancak, **özel evrakta sahtecilik** suçunun dava zamanaşımı süresi 8 yıl olduğundan, suçun 8 yıl içinde savcılığa bildirilmesi halinde savcılık soruşturma başlatır. Şikayet bizzat yapılabileceği gibi bir [**Ceza Avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla da yapılabilir.
 
 
 
@@ -118,7 +118,7 @@ Tüm sahtecilik suçlarında, suçun unsuru olarak suçun konusu olan evrakın a
 
 Özel belgede yapılan sahteciliğin ilk bakışta herkes tarafından anlaşılması mümkünse, bu durumda **özel evrakta sahtecilik** suçu oluşmaz.
 
-Belgenin aldatma yeteneğinin olup olmadığının mutlaka araştırılması gerekir. Uygulamadan belgenin aldatma yeteneğine sahip olup olmadığının tespiti amacıyla mahkemeler tarafından bilirkişi incelemesi yapılmaktadır. 
+Belgenin aldatma yeteneğinin olup olmadığının mutlaka araştırılması gerekir. Uygulamadan belgenin aldatma yeteneğine sahip olup olmadığının tespiti amacıyla mahkemeler tarafından bilirkişi incelemesi yapılmaktadır. Evrakın incelenmesi süreçleri, bazı teknik bilgiler gerektirdiğinden yargılama aşamasında müdafaanın bir **ceza avukatı** vasıtasıyla yapılması itiraz haklarının daha etkin kullanılmasını sağlar.
 
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/977721fdb3a666fb88f4bf53b2e4e80ab4bf74ce/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235304130762e6a7067 "Ceza Avukatı")
