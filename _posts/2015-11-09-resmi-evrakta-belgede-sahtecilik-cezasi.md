@@ -19,7 +19,7 @@ summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun
 
 * Sahte resmi belgenin kullanılması.
 
-Yukarıdaki üç seçimlik hareketten herhangi birinin fail tarafından işlenmesiyle **resmi evrakta (belgede) sahtecilik** meydana gelir. Resmi evrakta sahtecilik suçu ile [Özel Evrakta Sahtecilik Suçu](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) arasındaki en önemli fark, birincisinde sahtecilik konusu evrak aslının yetkili resmi memur tarafından düzenlenmesidir.
+Yukarıdaki üç seçimlik hareketten herhangi birinin fail tarafından işlenmesiyle **resmi evrakta (belgede) sahtecilik** meydana gelir. Resmi evrakta sahtecilik suçu ile [**Özel Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) arasındaki en önemli fark, birincisinde sahtecilik konusu evrak aslının yetkili resmi memur tarafından düzenlenmesidir.
  
 ###![Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/093021669e6971fc6810333581aff5af33864f3f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32716a58312e6a7067 "Resmi Evrakta Sahtecilik Suçu")
 
