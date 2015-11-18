@@ -11,15 +11,15 @@ summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun
 
 ##Resmi Evrakta Sahtecilik Suçu Nedir?
 
-**Resmi evrakta (belgede) sahtecilik suçu,** kamu güvenine karşı suçlar arasında TCK 204. maddede yer alır. **Resmi evrakta sahtecilik,** üç farklı seçimlik hareketle kasten işlenebilen bir suçtur: 
+**Resmi evrakta (belgede) sahtecilik suçu,** kamu güvenine karşı suçlar arasında TCK 204. maddede düzenlenmiştir. **Resmi evrakta sahtecilik,** üç farklı seçimlik hareketle kasten işlenebilen bir suçtur: 
 
 * Sahte resmi belge üretilmesi veya mevcut resmi belgenin gerçeğe aykırı düzenlenmesi,
 
 * Gerçek bir resmi belgenin başkalarını aldatacak şekilde değiştirilmesi, 
 
-* Sahte resmi belgenin kullanılması
+* Sahte resmi belgenin kullanılması.
 
-Yukarıdaki üç seçimlik hareketten herhangi birinin fail tarafından işlenmesiyle **resmi evrakta (belgede) sahtecilik** meydana gelir.
+Yukarıdaki üç seçimlik hareketten herhangi birinin fail tarafından işlenmesiyle **resmi evrakta (belgede) sahtecilik** meydana gelir. Resmi evrakta sahtecilik suçu ile [Özel Evrakta Sahtecilik Suçu](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) arasındaki en önemli fark, birincisinde sahtecilik konusu evrak aslının yetkili resmi memur tarafından düzenlenmesidir.
  
 ###![Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/093021669e6971fc6810333581aff5af33864f3f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32716a58312e6a7067 "Resmi Evrakta Sahtecilik Suçu")
 
@@ -138,7 +138,7 @@ Sahteliği sabit olana kadar geçerli belgeler özel kanunlar düzenlenmiştir. 
 
 
 
-Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir ceza avukatı ile savunma yapılmalıdır. **Resmi evrakta sahtecilik suçu,** kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
+Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir [**Ceza Avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile savunma yapılmalıdır. **Resmi evrakta sahtecilik suçu,** kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
 
 **Bakırköy-İstanbul Avukat Baran Doğan**
 
