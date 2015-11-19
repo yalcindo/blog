@@ -84,13 +84,13 @@ TCK md. 204/1, **resmi evrakta sahtecilik** suçu için bazı seçimlik hareketl
 
 Suçun oluşması için belgenin düzenlenmesi fiili yeterli olup ayrıca kullanılması şart değildir. Evrakın aldatma yeteneği varsa kullanılmasa bile resmi belgeyi sahte olarak düzenleme suçu oluşur.
 
-###5- Resmi Belgeyi Başkalarını Aldatacak Biçimde Değiştirme Suçu (TCK md. 204/1)
+###5- Resmi Belgeyi Başkalarını Aldatacak Biçimde Değiştirme Suçu [**(TCK md. 204/1)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 Bu seçimlik hareketle suçun işlenebilmesi için öncelikle kamu görevlisi tarafından görevinden dolayı düzenlenen gerçeğe uygun bir resmi belgenin mevcut olması gerekir. Gerçeğe uygun olarak kamu görevlisi tarafından düzenlenen belgeye, delil olma özelliklerini veya hukuki farklılık yaratacak unsurların eklenmesi veya çıkarılması bu suçun oluşmasına neden olur. Resmi belgedeki bir yazının değiştirilmesi veya yazı eklenmesi, imzanın silinmesi, belge üzerindeki tarihin değiştirilmesi veya silinmesi, belgenin kazınmak suretiyle tahrif edilmesi halinde, yapılan bu değişikliklerle belgenin aldatıcılık vasfı varsa “resmi belgeyi başkalarını aldatacak biçimde değiştirme suçu” meydana gelir.
 
 Belgenin karalanması, lekelenmesi veya kimyasal araçlar kullanılarak yazıların silinmesi mümkündür. Belge üzerinde bulunan harf veya rakamların amaca uygun hale getirilmesi de mümkün olup bu yöneteme “sürsarj metodu” denilmektedir. Örneğin, 3 rakamının 8 yapılması gibi. Tüm bu hallerde mahkeme tarafından bilirkişi incelemesi yaptırılarak **resmi belgede sahtecilik** suçunun oluşup oluşmadığı araştırılır.
 
-###6- Sahte Resmi Belgeyi Kullanma Suçu (TCK 204/1)
+###6- Sahte Resmi Belgeyi Kullanma Suçu [**(TCK md. 204/1)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 Sahte resmi belgeyi kullanma suçu, ancak sahte olarak üretilmiş, taklit edilmiş veya değiştirilmiş resmi niteliği olan bir belgenin mevcudiyeti ve bu belgenin fail tarafından kullanılması halinde vücut bulur. Herhangi bir kimse tarafından kendisine verilen sahte resmi belgeyi kullanan fail suçu işlemiş olur. Belgeyi kullanan failin belgenin sahte olduğunu bilmesi ve sahteliğini bilerek kullanması gerekir. Fail kullandığı belgenin sahte olduğunu bilmiyorsa cezalandırılması mümkün değildir. Örneğin, sahte ehliyet üreten kişi “resmi belgeyi sahte olarak düzenleme suçu”nu işler, bu ehliyeti düzenleyen kişiden alıp kullanan kişi “sahte resmi belgeyi kullanma suçu”nu işler.
 
@@ -100,7 +100,7 @@ Sahte resmi belge hem fail tarafından düzenlenmiş hem de kullanılmış ise y
 
 **Resmi evrakta sahtecilik** suçunun nitelikli (ağırlaştırılmış) halleri şunlardır: a-Kamu görevlisinin resmi belgeyi sahte olarak düzenlemesi, değiştirmesi, kullanması (TCK 204/2). b- Belgenin sahteciliği ispatlanıncaya kadar geçerli belgelerden olması (TCK 204/3).  
 
-####a- Kamu Görevlisi veya Memurun Resmi Belgede (Evrakta) Sahtecilik Suçu (TCK md. 204/2)
+####a- Kamu Görevlisi veya Memurun Resmi Belgede (Evrakta) Sahtecilik Suçu [**(TCK md. 204/2)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 Kamu görevlisi olan kişinin veya memurun resmi belgede (evrakta) sahtecilik suçu işlemesi suçun nitelikli hali olarak düzenlenmiştir. Kamu görevlisi veya memurun resmi belgeyi sahte olarak düzenlemesi veya değiştirmesi veya kullanması  halinde suçun daha ağır ceza gerektiren nitelikli şekliyle cezalandırılmayı gerektirir.
 
@@ -111,9 +111,9 @@ Kamu görevlisi veya memur, görevinden dolayı suçun konusu resmi belgeyi düz
 ###![Kamu Görevlisi veya Memurun Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/e5393649549127d176f96240e53a56a7c3693355/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4d574d30504e2e6a7067 "Kamu Görevlisi veya Memurun Resmi Evrakta Sahteciliği")
 
 
-TCK md. 6/1-c gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
+[**TCK md. 6/1-c**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3281) gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
 
-####b- Sahteciliği İspatlanıncaya Kadar Geçerli Belgelerde Evrakta Sahtecilik Suçu (TCK 204/3)
+####b- Sahteciliği İspatlanıncaya Kadar Geçerli Belgelerde Evrakta Sahtecilik Suçu [**(TCK md. 204/1)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 Sahteliği ispatlanıncaya kadar (sabit oluncaya kadar) geçerli belgelerde **evrakta sahtecilik suçu** işlendiğinde, suçun daha ağır ceza gerektiren şekli işlenmiş olur.
 
@@ -138,7 +138,7 @@ Sahteliği sabit olana kadar geçerli belgeler özel kanunlar düzenlenmiştir. 
 
 * **Resmi belgede sahtecilik** suçunun maddi konusu olan belge, sahteliği ispatlanıncaya (sabit oluncaya) kadar geçerli olan resmi belgelerden ise yukarıdaki fıkralara göre belirlenen suçun cezası 1/2 oranında arttırılır.
 
-* Sağlık mensubu kişilerin (ebe, hemşire, doktor ve diğer tüm çalışanlar vs.) gerçeğe aykırı belge düzenleyerek kamunun veya kişilerin zararına yol açması veya herhangi bir haksız menfaat elde etmesi halinde resmi belgede sahtecilik suçu hükümleri gereği cezalandırılırlar (TCK md. 210/2 - 2. cümle).
+* Sağlık mensubu kişilerin (ebe, hemşire, doktor ve diğer tüm çalışanlar vs.) gerçeğe aykırı belge düzenleyerek kamunun veya kişilerin zararına yol açması veya herhangi bir haksız menfaat elde etmesi halinde resmi belgede sahtecilik suçu hükümleri gereği cezalandırılırlar [**(TCK md. 210/2 - 2. Cümle)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5158)
 
 
 
