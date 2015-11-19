@@ -78,7 +78,7 @@ Belgenin aldatma yeteneği olmamasına rağmen, belgenin verildiği devlet kurum
 
 Ayrıca özel bir kanun devlet kurumlarına ibraz edilen belgenin sahte olup olmadığının araştırılmasını zorunlu kılıyorsa, araştırma yapmadan belgenin kabul edilmesi halinde **resmi belgede sahtecilik** suçu oluşmaz. Örneğin, Yargıtay, diploma denkliği için yabancı ülkeden diploması olmadığı halde gerçek dışı bir diplomayla başvuran kişinin **resmi belgede sahtecilik** suçunu işlemediğine karar vermiştir. Çünkü bu konuyla ilgili yönetmelik, özel olarak idari kuruma diplomanın sahte olup olmadığını araştırma zorunluluğu getirmiştir. Kurum araştırma yapmadan diplomayı kabul etse bile **resmi belgede sahtecilik** suçu meydana gelmez (Yargıtay - 11. CD. 4570/2836 K.)
 
-###4- Resmi Belgeyi Sahte Olarak “Düzenleme” Suçu (TCK md. 204/1)
+###4- Resmi Belgeyi Sahte Olarak “Düzenleme” Suçu [**(TCK md. 204/1)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 TCK md. 204/1, **resmi evrakta sahtecilik** suçu için bazı seçimlik hareketler öngörmüştür. Söz konusu seçimlik hareketlerden biri de “resmi belgeyi sahte olarak düzenleme” fiilidir.  Bir belgenin resmi belge gibi gerçekmiş gibi üretilmesi veya düzenlenmesi suretiyle bu fiil işlenir. Belge, kısmen veya tamamen gerçeğe aykırı üretilmişse suç oluşur.  Belgenin form, şekil, amblem ve diğer yazı özellikleri yönünden taklit edilmesi de “düzenleme” suçu için yeterlidir. Örneğin, nüfus müdürlüğü tarafından verilen Nüfus Cüzdanının şekil yönünden taklit edilerek üretilmesi resmi belgeyi sahte olarak düzenleme suçunu oluşturur. 
 
