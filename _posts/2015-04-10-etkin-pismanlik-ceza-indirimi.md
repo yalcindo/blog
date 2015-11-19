@@ -155,9 +155,9 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 **İftira suçu** nedeniyle dava açıldıktan sonra, fakat hüküm verilmeden önce iftiradan dönülmesi halinde verilecek cezada 2/3 oranında **ceza indirimi** yapılır.
 
-*İftira suçu** nedeniyle hüküm verildikten sonra, fakat hüküm infaza verilmeden önce iftiradan dönülmesi halinde verilecek cezada 1/2 nispetinde ceza indirimi yapılır.
+**İftira suçu** nedeniyle hüküm verildikten sonra, fakat hüküm infaza verilmeden önce iftiradan dönülmesi halinde verilecek cezada 1/2 nispetinde ceza indirimi yapılır.
 
-*İftira suçu** sebebiyle verilen mahkumiyet hükmünün infazına başlandıktan sonra, iftiradan dönülmesi halinde verilecek cezada 1/3 nispetinde ceza indirimi yapılır
+**İftira suçu** sebebiyle verilen mahkumiyet hükmünün infazına başlandıktan sonra, iftiradan dönülmesi halinde verilecek cezada 1/3 nispetinde ceza indirimi yapılır
 
 İftira suçunun oluşmasına neden olan fiil mağdur hakkında  sadece idari yaptırım kararı uygulanmasını gerektiriyorsa, iftira suçu nedeniyle mağdur hakkında idari yaptırım kararı uygulanmadan önce iftiradan dönülürse faile verilecek cezada 1/2 oranında, idari yaptırım kararı uygulandıktan sonra iftiradan dönülürse 1/3 oranında **ceza indirimi** yapılır.
 
