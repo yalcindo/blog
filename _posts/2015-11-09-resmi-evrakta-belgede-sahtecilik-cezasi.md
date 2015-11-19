@@ -113,7 +113,7 @@ Kamu görevlisi veya memur, görevinden dolayı suçun konusu resmi belgeyi düz
 
 [**TCK md. 6/1-c**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3281) gereği kamu görevlisi (tanık, bilirkişi, avukat vs.) sayılan kişilerin de işledikleri fiiller bu fıkra hükmüne göre cezalandırılır.
 
-####b- Sahteciliği İspatlanıncaya Kadar Geçerli Belgelerde Evrakta Sahtecilik Suçu [**(TCK md. 204/1)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
+####b- Sahteciliği İspatlanıncaya Kadar Geçerli Belgelerde Evrakta Sahtecilik Suçu [**(TCK md. 204/3)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5152)
 
 Sahteliği ispatlanıncaya kadar (sabit oluncaya kadar) geçerli belgelerde **evrakta sahtecilik suçu** işlendiğinde, suçun daha ağır ceza gerektiren şekli işlenmiş olur.
 
