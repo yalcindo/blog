@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Yargıtay Temyiz Başvurusu ve Süresi
+title: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusu
 category: ceza-hukuku
 googleAnahtar: Temyiz, temyiz başvurusu, yargıtay temyiz süresi, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
 keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, temyiz başvuru dilekçesi, temyiz süresi
