@@ -126,7 +126,7 @@ Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka vey
 
 
 
-###![Uyuşturucu Madde Kullanma Suçu](https://camo.githubusercontent.com/1e9cd0852da7c6ce01430ffe9ea03aebc2246fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f71527a4550642e6a7067 "Uyuşturucu Madde Kullanma Suçu")
+###![Uyuşturucu Madde Kullanma Suçu Etkin Pişmanlık](https://camo.githubusercontent.com/1e9cd0852da7c6ce01430ffe9ea03aebc2246fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f71527a4550642e6a7067 "Uyuşturucu Madde Kullanma Suçu Etkin Pişmanlık")
 
 
 
