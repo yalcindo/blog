@@ -166,10 +166,12 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 
 
-####10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu [**(TCK md. 109)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3940) ve Etkin Pişmanlık Ceza İndirimi[**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
+####10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu ve Etkin Pişmanlık [**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
 
 
-**Kişiyi hürriyetinden yoksun kılma suçu,** doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle **etkin pişmanlık** hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. TCK, kişiyi hürriyetinden yoksun kılma suçunu işleyen failin, bu suç nedeniyle soruşturma başlamadan mağdurun şahsına zararı dokunmaksızın onu kendiliğinden güvenli bir yere bırakması halinde, 2/3’ne kadarı oranında **ceza indirimi**nden yararlanmasını öngörmüştür.
+**Kişiyi hürriyetinden yoksun kılma suçu,** doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle **etkin pişmanlık** hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. 
+
+TCK, **kişiyi hürriyetinden yoksun kılma suçu** [**(TCK md. 109)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3940) işleyen failin, bu suç nedeniyle soruşturma başlamadan mağdurun şahsına zararı dokunmaksızın onu kendiliğinden güvenli bir yere bırakması halinde, 2/3’ne kadarı oranında **ceza indirimi**nden yararlanmasını öngörmüştür.
 
 ####11-) Tehdit Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu ve Etkin Pişmanlık Ceza İndirimi
 
