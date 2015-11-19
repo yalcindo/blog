@@ -49,7 +49,7 @@ Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamay
 
 **TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" uygulanmasını düzenlemiştir:**
 
-####1-) Yağma Suçu (Gasp Suçu) ve Etkin Pişmanlık Ceza İndirimi [**(TCK 168/1-3)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5116)
+###1-) Yağma Suçu (Gasp Suçu) ve Etkin Pişmanlık Ceza İndirimi [**(TCK 168/1-3)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5116)
 
 [**Yağma suçu (Gasp suçu)**](http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), cebir ve tehditle işlenen bir suç olduğundan mağdurda büyük bir yıkım yaratır. Bu nedenle, olayın ortaya çıkarılması ve faillerin cezalandırılması için **etkin pişmanlık** hükümlerine yer verilmiştir. 
 
@@ -67,7 +67,7 @@ Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi*
 
 
 
-####2-) Mala Zarar Verme Suçu, Hırsızlık Suçu, Dolandırıcılık Suçu, Güveni Kötüye Kullanma Suçu Nedeniyle Etkin Pişmanlık ve Ceza İndirimi [**(TCK 168/1-2)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5116)
+###2-) Mala Zarar Verme Suçu, Hırsızlık Suçu, Dolandırıcılık Suçu, Güveni Kötüye Kullanma Suçu Nedeniyle Etkin Pişmanlık ve Ceza İndirimi [**(TCK 168/1-2)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5116)
 
 [**Mala zarar verme suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) doğrudan malvarlığına yönelik bir suç olduğundan **etkin pişmanlık** nedeniyle **ceza indirimi**nin en kolay uygulanabileceği suçlardandır.
 
@@ -98,7 +98,7 @@ Yukarıdaki tüm suçların, haklarında ayrılık kararı verilmiş eşler, ayn
 ###![Ceza İndirimi](https://camo.githubusercontent.com/344695f96d4a329f58f26a6d4a77c932e2d08fcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38516a314a572e6a7067 "Ceza İndirimi")
 
 
-####3-) Kullanmak için Uyuşturucu Satın Alma, Satma, Kabul Etme, Uyuşturucu Madde Bulundurma ve Kullanmak Suçlarında Etkin Pişmanlık ve Ceza İndirimi [**(TCK md. 192)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5140)
+###3-) Kullanmak için Uyuşturucu Satın Alma, Satma, Kabul Etme, Uyuşturucu Madde Bulundurma ve Kullanmak Suçlarında Etkin Pişmanlık ve Ceza İndirimi [**(TCK md. 192)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5140)
 
 
 Uyuşturucu madde ticareti veya imali suçu işleyen şahıs, suç, resmi kurumlar tarafından öğrenilmeden diğer suç ortaklarını ve uyuşturucu maddelerin saklandığı yeri veya imal edildiği yeri yetkili mercilere bildirirse, suç ortakları veya uyuşturucu madde yakalandığı takdirde hakkında cezaya hükmolunmaz. Görüldüğü üzere TCK bu suçlarda soruşturma öncesine gitmiş, daha soruşturma başlamadan failin **etkin pişmanlık** göstermesi halinde cezalandırılmamasının yolunu açmıştır.
@@ -109,7 +109,7 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Uyuşturucu madde kullanan kişi** hakkında satın alma, kullanma veya bulundurma suçlarından soruşturma başlatılmadan önce resmi makamlara başvurup tedavi edilmesini isterse yine hakkında cezaya hükmolunmaz.
 
-####4-) Hakaret Suçu ve Etkin Pişmanlık Ceza İndirimi
+###4-) Hakaret Suçu ve Etkin Pişmanlık Ceza İndirimi
 
 
 **Hakaret suçunda etkin pişmanlık** hükümlerinin uygulanabileceği bir kanun hükmü yoktur. Ancak bazı koşulların gerçekleşmesi halinde hakaret suçunda **ceza indirimi** almak mümkündür. Hakaret suçu, hakaret edilen kişinin haksız bir fiiline karşılık işlenmişse fail hakkında 1/3’üne kadar ceza indirimi yapılabileceği gibi olayın özelliğine göre faile hiçbir ceza verilmemesi de mümkündür.
@@ -118,7 +118,7 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 **Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
-####5-) Bilişim Suçları ve Etkin Pişmanlık
+###5-) Bilişim Suçları ve Etkin Pişmanlık
 
 [**Bilişim Suçları**,](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda işlenen suçlardır. 
 
@@ -130,7 +130,7 @@ Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka vey
 
 
 
-####6-) Zimmet Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK 248. Madde)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5196)
+###6-) Zimmet Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK 248. Madde)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5196)
 
 **Zimmet suçu,** kamu görevlisinin zilyedliği kendisine verilen veya koruma ve gözetimine bırakılan malı kendisinin veya başkasının zimmetine geçirmesi ile oluşur.
 
@@ -140,7 +140,7 @@ Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka vey
 
 **Zimmet suçu** işlendiği iddiasıyla dava açıldıktan sonra, fakat hüküm verilmeden önce etkin pişmanlık gerçekleşirse sanığa verilecek cezanın 1/3'ü indirilir.
 
-####7-) Rüşvet Suçu ve Etkin Pİşmanlık Ceza İndirimi [**(TCK md. 254)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5202)
+###7-) Rüşvet Suçu ve Etkin Pİşmanlık Ceza İndirimi [**(TCK md. 254)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5202)
 
 **Rüşvet suçu,** kamu görevlisinin görevini yerine getirmesiyle ilgili bir işi yapması veya yapmaması için menfaat sağlanması veya sağlanan menfaatin alınmasıyla oluşur. Rüşvet suçu, hem rüşveti alanın hem de rüşveti verenin cezalandırılmasını öngörmektedir. 
 
@@ -151,7 +151,7 @@ Rüşvet alan ve veren dışında, rüşvet suçuna katılan (örneğin, rüşve
 Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine rüşvet veren kişi hakkında **etkin pişmanlık** sebebiyle **ceza indirimi** hükümleri uygulanamaz.
 
 
-####8-) İrtikap Suçu ve Etkin Pişmanlık Ceza İndirimi
+###8-) İrtikap Suçu ve Etkin Pişmanlık Ceza İndirimi
 
 **İrtikap suçu,** kamu görevlisinin herhangi bir kimseyi, görevinin sağladığı nüfuzu kötüye kullanarak yarar sağlamaya veya yarar sağlama konusunda vaatte bulunmaya zorlamasıyla oluşur. **İrtikap** kelime anlamı itibariyle yiyicilik anlamına gelir.
 
@@ -159,7 +159,7 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 ###![Zimmet Suçu Etkin Pişmanlık](https://camo.githubusercontent.com/b9a23adde3746f170de911b99b82b45c85bc3a64/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d35304564312e6a7067 "Zimmet Suçu Etkin Pişmanlık")
 
-####9-) İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK md. 269)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
+###9-) İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK md. 269)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
 
 **İftira suçu,** failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
 
@@ -176,14 +176,14 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 İftira suçunun oluşmasına neden olan fiil mağdur hakkında  sadece idari yaptırım kararı uygulanmasını gerektiriyorsa, iftira suçu nedeniyle mağdur hakkında idari yaptırım kararı uygulanmadan önce iftiradan dönülürse faile verilecek cezada 1/2 oranında, idari yaptırım kararı uygulandıktan sonra iftiradan dönülürse 1/3 oranında **ceza indirimi** yapılır.
 
 
-####10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu ve Etkin Pişmanlık [**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
+###10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu ve Etkin Pişmanlık [**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
 
 
 **Kişiyi hürriyetinden yoksun kılma suçu,** doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle **etkin pişmanlık** hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. 
 
 TCK, kişiyi hürriyetinden yoksun kılma suçu [**(TCK md. 109)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3940) işleyen failin, bu suç nedeniyle soruşturma başlamadan mağdurun şahsına zararı dokunmaksızın onu kendiliğinden güvenli bir yere bırakması halinde, 2/3’ne kadarı oranında **ceza indirimi**nden yararlanmasını öngörmüştür.
 
-####11-) Tehdit Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu ve Etkin Pişmanlık Ceza İndirimi
+###11-) Tehdit Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu ve Etkin Pişmanlık Ceza İndirimi
 
 [**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir. Bu nedenle bu suçlarda etkin pişmanlık hükümleri uygulanamaz.
 
