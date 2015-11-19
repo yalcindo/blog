@@ -118,11 +118,11 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 
 Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka veya kredi kartının rızası dışında kullanılması suçunda etkin pişmanlık nedeniyle ceza indirimi mümkündür. Mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezada 2/3’üne kadar ceza indirimi yapılır. Mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse etkin pişmanlık nedeniyle 1/2 oranında ceza indirimi indirilir.
 
-###6- Zimmet Suçu ve Etkin Pişmanlık Sebebiyle Ceza İndirimi
+###6- Zimmet Suçu ve Etkin Pişmanlık Ceza İndirimi [**TCK 248. Madde**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5196)
 
 **Zimmet suçu,** kamu görevlisinin zilyedliği kendisine verilen veya koruma ve gözetimine bırakılan malı kendisinin veya başkasının zimmetine geçirmesi ile oluşur.
 
-**Zimmet suçu etkin pişmanlık** hükümleri [**TCK 248. Madde**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5196) içerisinde düzenlenmiştir. Kanuna göre, soruşturma başlamadan önce, yani daha savcılık öğrenmeden zimmete geçirilen mal iade edilir veya kamunun uğradığı zarar giderilirse verilecek cezanın 2/3'ü indirilir. Yani 6 yıl ceza alabilecek bir failin cezası, etkin pişmanlık ceza indirimi ile 2 yıla inecektir.
+**Zimmet suçu etkin pişmanlık** hükümleri TCK md. 248'de düzenlenmiştir. Kanuna göre, soruşturma başlamadan önce, yani daha savcılık öğrenmeden zimmete geçirilen mal iade edilir veya kamunun uğradığı zarar giderilirse verilecek cezanın 2/3'ü indirilir. Yani 6 yıl ceza alabilecek bir failin cezası, etkin pişmanlık ceza indirimi ile 2 yıla inecektir.
 
 **Zimmet suçu** ile ilgili soruşturma başlamasına rağmen henüz dava açılmadan zimmete geçirilen mal iade edilir veya zarar giderilirse, verilecek ceza 1/2 oranında indirilir.
 
