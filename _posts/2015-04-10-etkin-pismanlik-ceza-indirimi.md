@@ -17,7 +17,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak **etkin pişmanlık ve ceza indirimi** kurumlarından bahsedeceğiz.
 
-###[![Etkin Pişmanlık Ceza İndirimi](http://i.hizliresim.com/8bqnDa.jpg)](https://hizliresim.com/8bqnDa "Etkin Pişmanlık")
+###[![Etkin Pişmanlık Ceza İndirimi](https://camo.githubusercontent.com/1e6ba6d33d8e56efa96de202c210ab2c704cd54e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3862716e44612e6a7067 "Etkin Pişmanlık")
 
 
 ###Etkin Pişmanlık Nedeniyle Ceza İndiriminden Nasıl ve Ne Şekilde Yararlanılır?
