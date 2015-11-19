@@ -10,7 +10,7 @@ summary: TCK 302. maddede “Devletin Güvenliğine Karşı Suçlar” bölümü
 ##TCK 302. Maddenin Uygulama Koşulları
 
 
-TCK 302. madde, TCK’nın  “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenmiştir:
+[**TCK 302. Madde**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5251), TCK’nın  “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenmiştir:
 
 
 “Devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği altına koymaya veya Devletin bağımsızlığını zayıflatmaya veya birliğini bozmaya veya Devletin egemenliği altında bulunan topraklardan bir kısmını Devlet idaresinden ayırmaya yönelik bir fiil işleyen kimse, ağırlaştırılmış müebbet hapis cezası ile cezalandırılır….”
@@ -54,8 +54,7 @@ Eylem özel olarak “matuf fiili” gerçekleştirmeye uygun bir şekilde işle
 	
 Failin işlediği eylemin işlenme şeklinin kendisi vehamet arzetmelidir. Örneğin, devletin silahlı güçleriyle veya başka bir ülke silahlı güçleriyle bir çatışmaya katılmak, vehamet arzeden bir eylem olarak kabul edilmektedir . Örgüt adına zorla para alınması da vehamet arzeden eylem  olarak  değerlendirilmektedir .
 
-TCK md. 302’deki suç ceza hukuku doktrininde ve Yargıtay’ın yerleşik içtihatlarında bir “amaç suç” olarak kabul edilmektedir. Sanık, “amaç suçu” gerçekleştirmek için çeşitli “araç suçlar” işlemelidir. Dava dosyasında yargılanan sanıkların işlediği iddia edilen fiiller başlı başına herhangi bir “araç suç” teşkil etmemektedir. 
-
+TCK md. 302’deki suç ceza hukuku doktrininde ve Yargıtay’ın yerleşik içtihatlarında bir “amaç suç” olarak kabul edilmektedir. Sanık, “amaç suçu” gerçekleştirmek için çeşitli “araç suçlar” işlemelidir.
 
 
 
@@ -67,29 +66,28 @@ Failin, dini veya milli bir bayramda veya yasadışı örgüt açısından önem
 
 ###c-	Sanıkların Örgüt İçindeki Konumları ve TCK 302. Madde
 
-Sanıkların örgütsel ilişkisinin sürekli ve yoğun olması, örgütsel bağlılık TCK 302. maddesinin uygulama ölçütlerinden biridir. Sanıkların örgütle doğrudan veya dolaylı bir bağı olduğuna dair delil yoktur.
+Sanıkların örgütsel ilişkisinin sürekli ve yoğun olması, örgütsel bağlılık TCK 302. maddesinin uygulama ölçütlerinden biridir. Sanıkların örgütle doğrudan veya dolaylı bir bağını ispatlauan somut deliller olması gerekir.
 
-Mevcut dosyada sanıkların örgüt içinde özel veya genel bir görev veya talimat aldığına veya rapor verdiğine dair somut hiçbir delil mevcut değildir.
+Sanıkların örgüt içinde özel veya genel bir görev veya talimat aldığına veya rapor verdiğine dair somut hiçbir delil mevcut değildir.
 
 ###d-	Somut Ağır Zarar Tehlikesi ve TCK 302. Madde
 
 Somut ağır zarar tehlikesi TCK md. 302’nin en önemli ölçütüdür. Somut 	zararın gerçekleşmesi aranmaz, sadece zarar tehlikesinin meydana gelmesi 	yeterlidir. Somut ağır zarar iki şekilde meydana gelebilir: Bedensel ağır zarar 	tehlikesi veya malvarlığı ile ilgili ağır zarar tehlikesi.
 	    
-Örneğin, işlenen yasadışı herhangi bir eylemde insan ölme ihtimalinin yüksek 	olması veya çok sayıda işyerinin örgüt faaliyeti çerçevesinde yakılması halinde, 	sonuç gerçekleşmese bile somut ağır zarar tehlikesinin var olduğu kabul 	edilmektedir.
+Örneğin, işlenen yasadışı herhangi bir eylemde insan ölme ihtimalinin yüksek 	olması veya çok sayıda işyerinin örgüt faaliyeti çerçevesinde yakılması halinde, sonuç gerçekleşmese bile somut ağır zarar tehlikesinin var olduğu kabul 	edilmektedir.
 
 
 ###e- Nedensellik Bağı İçinde Gittikçe Ağırlaşan Fiiller ve TCK 302. Madde
 
-Mevcut dosyadaki sanıkların fiillerin gelişim seyri tek yönlü ve doğrusaldır. Sanıklar hakkında çeşitli biçimlerde süren ve gittikçe ağırlaşan fiiller işlediklerine dair bir iddia da yoktur. Sanıkların tamamı siyasi faaliyet çerçevesinde yürüttükleri eylemlerle suçlanmaktadır. 
+Sanık fiillerin gelişim seyri tek yönlü ve doğrusal değil, gittikçe ağırlaşan ve birbiriyle nedensellik bağı içinde amaç suçu gerçekleştirmeye çalışan bir yönde ilerlemelidir. Sanık, çeşitli biçimlerde süren ve gittikçe ağırlaşan fiiller işlemelidir. Sadece siyasi faaliyet çerçevesinde yürütülen faaliyetler bu suçun oluşumuna sebebiyet veremez. 
 
 e-	Saik ve TCK 302. Madde
 
 TCK 302. maddenin uygulaması açısından sanığın hangi saikle hareket ettiği de önemlidir. Sanığın saiki çeşitli delil araçları vasıtasıyla anlaşılmaya çalışılacaktır. Mevcut dosyada sanıkların TCK md. 302’nin uygulama koşulları açısından genel bir kastı yoktur. Sanıkların siyasi faaliyetleri ve bu çerçevede icra ettikleri hareketler incelendiğinde TCK md. 302’deki “matuf fiil”in işlenmesi amacını güden fiiller değil, tam tersine demokratik sistemin işleyişini sağlayan filler ortaya koydukları anlaşılmaktadır. 
 
-TCK MD.302’deki suçun yasal unsurları ve ölçütleri Yargıtay’ın yerleşik içtihatlarıyla teorize edilmiştir. Yargıtay içtihatlarında, maddede belirtilen “elverişli fiili” işlemeye uygun icra hareketlerinin cezalandırılabilineceği tespit edilmiştir. Buna göre, matuf fiili işlemeye elverişli, birbirini izleyen, nedensellik bağı içinde bulunan ve gittikçe ağırlaşan fiillerin işlenmesi halinde sanıkların 302. maddeden cezalandırılması mümkündür. Müvekkil sanıklar açısından söz konusu maddenin uygulanması mümkün değildir.
+TCK MD.302’deki suçun yasal unsurları ve ölçütleri Yargıtay’ın yerleşik içtihatlarıyla teorize edilmiştir. Yargıtay içtihatlarında, maddede belirtilen “elverişli fiili” işlemeye uygun icra hareketlerinin cezalandırılabilineceği tespit edilmiştir. Buna göre, matuf fiili işlemeye elverişli, birbirini izleyen, nedensellik bağı içinde bulunan ve gittikçe ağırlaşan fiillerin işlenmesi halinde sanıkların 302. maddeden cezalandırılması mümkündür. 
 
-
-##TCK Md.302 ve TCK Md. 314/2 AYNI ANDA UYGULANAMAZ
+##TCK Md.302 ve [**TCK Md. 314/2**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5268) AYNI ANDA UYGULANAMAZ
 
 TCK md. 302/2 şu hükmü içermektedir: “Bu suçun işlenmesi sırasında başka suçların işlenmesi halinde, ayrıca bu suçlardan dolayı ilgili hükümlere göre cezaya hükmolunur.”
 
