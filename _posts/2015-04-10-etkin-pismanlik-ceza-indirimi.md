@@ -47,7 +47,7 @@ Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamay
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/a2a97efa98748949eeb870f1ba5976b3bfc81b1a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f31726b5639422e6a7067 "Ceza Avukatı")
 
-TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" uygulanmasını düzenlemiştir:
+***TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" uygulanmasını düzenlemiştir:**
 
 ####1-) Yağma Suçu (Gasp Suçu) ve Etkin Pişmanlık Ceza İndirimi [**(TCK 168/1-3)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5116)
 
@@ -60,6 +60,10 @@ TCK, aşağıdaki bazı suçlarda "Etkin Pişmanlık Nedeniyle Ceza İndirimi" u
 Suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir.
 
 Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
+
+
+###![Ceza İndirimi](https://camo.githubusercontent.com/d39d32d1d46abb7216c97329f172e482c8f2569a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34384e6c64592e6a7067 "Ceza İndirimi")
+
 
 
 
@@ -91,6 +95,8 @@ Yukarıdaki tüm suçların, haklarında ayrılık kararı verilmiş eşler, ayn
 
 **Gasp suçunda** olduğu gibi burdaki tüm suçlarda  da suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
 
+###![Ceza İndirimi](https://camo.githubusercontent.com/344695f96d4a329f58f26a6d4a77c932e2d08fcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38516a314a572e6a7067 "Ceza İndirimi")
+
 
 ####3-) Kullanmak için Uyuşturucu Satın Alma, Satma, Kabul Etme, Uyuşturucu Madde Bulundurma ve Kullanmak Suçlarında Etkin Pişmanlık ve Ceza İndirimi [**(TCK md. 192)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5140)
 
@@ -117,6 +123,12 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 [**Bilişim Suçları**,](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda işlenen suçlardır. 
 
 Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka veya kredi kartının rızası dışında kullanılması suçunda etkin pişmanlık nedeniyle ceza indirimi mümkündür. Mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezada 2/3’üne kadar ceza indirimi yapılır. Mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse etkin pişmanlık nedeniyle 1/2 oranında ceza indirimi indirilir.
+
+
+
+###![Uyuşturucu Madde Kullanma Suçu](https://camo.githubusercontent.com/1e9cd0852da7c6ce01430ffe9ea03aebc2246fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f71527a4550642e6a7067 "Uyuşturucu Madde Kullanma Suçu")
+
+
 
 ####6-) Zimmet Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK 248. Madde)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5196)
 
@@ -145,6 +157,8 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 İrtikap suçu, etkin pişmanlık sebebiyle ceza indirimi olmayan suçlardaındır. Ancak, sağlanan menfaatin değeri ve mağdurun ekonomik durumu gözetilerek irtikap suçunu işleyen kişiye verilecek cezada, 1/2 oranında **ceza indirimi** yapılabilir.
 
+###![Zimmet Suçu Etkin Pişmanlık](https://camo.githubusercontent.com/b9a23adde3746f170de911b99b82b45c85bc3a64/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d35304564312e6a7067 "Zimmet Suçu Etkin Pişmanlık")
+
 ####9-) İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK md. 269)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
 
 **İftira suçu,** failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
@@ -162,10 +176,6 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 İftira suçunun oluşmasına neden olan fiil mağdur hakkında  sadece idari yaptırım kararı uygulanmasını gerektiriyorsa, iftira suçu nedeniyle mağdur hakkında idari yaptırım kararı uygulanmadan önce iftiradan dönülürse faile verilecek cezada 1/2 oranında, idari yaptırım kararı uygulandıktan sonra iftiradan dönülürse 1/3 oranında **ceza indirimi** yapılır.
 
 
-
-
-
-
 ####10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu ve Etkin Pişmanlık [**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
 
 
@@ -176,6 +186,10 @@ TCK, kişiyi hürriyetinden yoksun kılma suçu [**(TCK md. 109)**](http://www.t
 ####11-) Tehdit Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu ve Etkin Pişmanlık Ceza İndirimi
 
 [**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), şantaj suçu ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir. Bu nedenle bu suçlarda etkin pişmanlık hükümleri uygulanamaz.
+
+
+###![Etkin Pişmanlık Ceza İndirimi](https://camo.githubusercontent.com/27f552b0caaafe2695aa542a009dfd6130d72d28/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c456a516e562e6a7067 "Etkin Pişmanlık Ceza İndirimi")
+
 
 
 ###Ceza İndirimi ve Denetimli Serbestlik Uygulaması
