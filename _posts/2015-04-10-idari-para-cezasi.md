@@ -68,9 +68,11 @@ Trafik para cezasına karşı itiraz yeri Sulh Ceza Hakimliği'dir. Fakat, trafi
 
 ###![Trafik İdari Para Cezası](https://camo.githubusercontent.com/25fdfc838498513397fe6a5f0761398e48f9318b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f326b4c6747302e6a7067 "Trafik İdari Para Cezası")
 
-###Sürücü Belgesinin Geçici Olarak Geri Alınması Kararına Karşı Nereye İtiraz edilir? İtiraz Süresi Nedir?
+###Sürücü Belgesinin (Ehliyetin) Geçici Olarak Geri Alınmasına Karşı Nereye İtiraz edilir? İtiraz Süresi Nedir?
 
-2918 sayılı Kanunu'nun 112. maddesi 2013 yılında değiştirilmiştir. Bu kanun değişikliğine göre, sürücü belgesinin geri alınması kararına karşı Sulh Ceza Hakimliği'ne itiraz edilebilir. İtiraz süresi 15 gündür.
+Sürücü belgesinin (Ehliyetin) geri alınması kararı idari bir yaptırım kararı olmasına rağmen, 2918 sayılı Kanunu'nun 112. maddesindeki özel düzenleme nedeniyle, bu karara karşı idari para cezaları gibi Sulh Ceza Hakimliklerine itiraz edilir. İtiraz süresi, idari yaptırım kararının alındığı günden itibaren 15 gündür.
+
+Sürücü belgesinin geri alınması kararı, bir suç nedeniyle mahkemeler tarafından verilmişse mahkeme kararına itiraz prosedürü içinde itiraz edilmelidir. Mahkemenin bir suç nedeniyle sürücü belgesini geri alma kararı vermişse Sulh Ceza Hakimliği'ne değil, kararı veren mahkeme nezdinde Ceza Muhakemesi Kanunu hükümlerine göre itiraz edilmelidir.
 
 ###Sigara İçme İdari Para Cezası Nereye Ödenir? Nereye İtiraz Edilir?
 
