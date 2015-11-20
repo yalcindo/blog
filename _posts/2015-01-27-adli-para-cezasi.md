@@ -79,6 +79,8 @@ TCK, hapis veya adli para cezalarından herhangi birinin sanığa ceza olarak ve
 
 **Hapis cezasından çevrilen adli para cezaları hakkında hükmün açıklanmasının geri bırakılması kararı verilemez.**
 
+###![Ceza Avukatı](https://camo.githubusercontent.com/6dc919e15d1feea3db7d481699c96a304c5c9867/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a594e6f6d672e6a7067 "Ceza Avukatı")
+
 ###Adli Para Cezasının Ödenmemesi, Adli Para Cezası Ödeme Yoluyla Cezaevindeki Hükümlü Tahliye Olur mu?
 
 
@@ -90,6 +92,9 @@ Tüm **adli para cezaları** için, ne şekilde verilmiş olursa olsun (yukarıd
 
 
 18 yaşından küçük çocuklara verilen **adli para cezası** ödenmese bile hapse çevrilemez. **Adli para cezasının ödenmemesi,** hiçbir geliri olmayan küçük çocukların cezaevine girmesine neden olursa hukuk sisteminin kendi içinde çelişkiye düşmesine neden olurdu. Fakat, çocuklara verilen **adli para cezası**nın tahsili amacıyla diğer kamu alacakları için izlenen usul ile icra işlemleri yapılabilir. 
+
+
+###![Adli Para Cezası](https://camo.githubusercontent.com/59bfe8393b09bfb9db4760f5a4ceac5e447d2736/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a594e6f4f342e6a7067 "Adli Para Cezası")
 
 
 ###Adli Para Cezalarında İndirim veya Koşullu Salıverilme Hükümlerinden Yararlanmak Mümkün mü?
@@ -125,6 +130,8 @@ Hakim, hükmettiği **adli para cezası**nı **taksitlendirme**yebilir veya öde
 
 
 Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
+
+###![Adli Para Cezası](https://camo.githubusercontent.com/cd459e4e475755ba4476b7f161e6d0ccde11c820/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c456a354a6f2e6a7067 "Adli Para Cezası")
 
 
 ###Adli Para Cezası Temyiz Sınırı, İtiraz
