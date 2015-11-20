@@ -49,6 +49,12 @@ Suç şüphesi altında olan kişi yakalanmış veya gözaltına alınmışsa **
 
 **Ceza avukatı**, müvekkili tutuklandığı takdirde kendisiyle cezaevinde konuşulanların duyulamayacağı özel bir mekanda yüz yüze görüşebilir. Cezaevinde görüşme sayısına ilişkin herhangi bir sınırlama olmadığı gibi vekalet ibrazı da gerekli değildir.
 
+###Ceza Avukatı ve Soruşturmanın Gizliliği Kavramı
+
+Her soruşturma işlemi kural olarak gizlidir. Ancak gizlilik soruşturmanın tarafı olmayan sujeler açısından geçerlidir. Yani, soruşturmanın gizli olması **ceza avukatı** tarafından  dosyanın incelenmesine engel bir durum değildir.
+
+"Kısıtlama kararı" kavramı ile "soruşturmanın gizliliği kavramı tamamen birbirinden farklı kavramlardır. Dosyadaki evrakın incelenmemesi için Kısıtlama kararı verildiğinde, artık o evrak ceza avukatı tarafından da incelenemez. Ancak, mahkeme tarafından verilen bir kısıtlama kararı yoksa, sadece soruştumanın gizliliği gerekçe gösterilerek ceza avukatı tarafından dosyanın incelenmesi ve örnek alınması engellenemez.
+
 ###Mahkeme Aşamasında Ceza Avukatı
 
 
@@ -114,7 +120,7 @@ Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık
 ###Ceza Avukatları, Ağır Ceza Avukatları
 
 
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışmaktadır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında bir avukatın hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında bir avukatın hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
 
 
 
