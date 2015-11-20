@@ -57,7 +57,7 @@ Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlen
 * **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Tarfik Güvenliğini Tehlikeye Sokma Suçu.
 
 
-* **Kamu Güvenine Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu,](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu.
+* **Kamu Güvenine Karşı Suçlar:** [**Özel Belgede Sahtecilik Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu.
 
 * **Diğer Suçlar:** [**Bilişim Suçları,**](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) Görevi Yaptırmamak İçin Direnme Suçu, [**Görevi Kötüye Kullanma Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html) İftira Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Ses veya Görüntülerin Kayda Alınması Suçu(örneğin 8 ay hapis cezası), Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu,  Mühür Bozma (Fekki) Suçu.
 
