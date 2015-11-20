@@ -99,7 +99,7 @@ Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri,
 
 **İdari para cezaları,** genel olarak mal müdürlüklerine ödenir. Şunu belirtmek gerekir ki, bazı kurumların verdiği idari para cezaları, cezayı veren kurum tarafından tarafından tahsil edilmektedir. Karmaşaya yol açmaması için kanun,  idari para cezası kişiye tebliğ edildiğinde nereye ödeneceğinin de kişiye bildirilmesini zorunlu kılmıştır.
 
-**İdari para cezası**nın peşin ödenmesi halinde, cezanın 1/4’ü oranında indirim yapılmaktadır. Erken ödeme yapmak isteyen kişi, cezanın kendisine tebliğinden itibaren 15 gün içinde cezayı ödemesi gerekir. Cezanın erken ödenmesi cezaya itiraz edilmesine engel değildir. Kişi bira taraftan cezayı öderken diğer taraftan cezaya itiraz edebilir.
+**İdari para cezası**nın peşin ödenmesi halinde, cezanın 1/4’ü oranında indirim yapılmaktadır. Erken ödeme yapmak isteyen kişi, cezanın kendisine tebliğinden itibaren 15 gün içinde cezayı ödemesi gerekir. Cezanın erken ödenmesi cezaya itiraz edilmesine engel değildir. Kişi bir taraftan cezayı öderken diğer taraftan cezaya itiraz edebilir.
 
 SGK tarafından verilen **idari para cezaları** kurumun kendisi tarafından tahsil edilmekte olup bizzat kuruma, bankalara veya PTT şubelerine ödenebilmektedir.
 
