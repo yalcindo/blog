@@ -84,6 +84,10 @@ Sigara içme yasağı ihlal edildiğinde her yıl değişen oranlarda **idari pa
 
 **Sigara içme idari para cezası,** nereye ödenir sorusunun cevabı, yani ödeme yeri sigara içme cezası tutanağı üzerinde mevcuttur. Sigara içme idari para cezası Mal Müdürlüklerine ödenir. Örneğin, Bakırköy'de bir cafede sigara içen bir kişiye verilen **sigara içme para cezası,** Bakırköy Mal Müdürlüğü'ne ödenebilir. **Sigara içme para cezası,** vergi dairelerine ödenemez, çünkü hukuki niteliği itibariyle idari para cezası olduğundan Kaymakamlık bünsesinde olan Mal Müdürlüğü'ne ödenir.
 
+
+###![Sigara İçme İdari Para Cezası](https://camo.githubusercontent.com/69071f5496772a7bf2e9f6c78fee7b007bd9c966/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676a5841722e6a7067 "Sigara İçme İdari Para Cezası")
+
+
 **Sigara içme para cezasına itiraz,** para cezasının verildiği yerin bağlı olduğu Sulh Ceza Hakimliği'ne yapılır. İtiraz süresi, sigara içme para cezasının verildiği günden başlamak üzere 15 gündür. Örneğin, Bakırköy'de 01.01.2016 tarihinde verilen sigara içme para cezasına karşı en geç 16.01.2016 tarihine kadar (15 gün içinde) Bakırköy Sulh Ceza Hakimliği'ne itiraz edilmesi gerekir. 
 
 Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri, sigara içme para cezasına esas teşkil eden olgular, itirazı temellendirecek her türlü delil veya bilgi dilekçeye eklenmelidir. İtirazı incelemeye yetkili Sulh Ceza Hakimliği, itirazı haklı bulursa idari para cezasını iptal eder.
