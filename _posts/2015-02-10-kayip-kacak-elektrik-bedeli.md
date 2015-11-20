@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Kaçak Elektrik Bedeli Kararı
+title: Kayıp Kaçak Elektrik Bedeli Kararı
 category: hukuk-haberleri
-googleAnahtar: Kaçak elektrik bedeli, sayaç okuma bedeli, kayıp kaçak bedelinin iadesi
+googleAnahtar: kayıp kaçak bedeli, Kaçak elektrik bedeli, sayaç okuma bedeli, kayıp kaçak bedelinin iadesi
 summary: Kayıp-kaçak, dağıtım, sayaç okuma, parekende satış hizmeti ve iletim bedellerinin, tüketiciye iade edilmesi Yargıtay tarafından kararlaştırılmıştır.
 ---
 
@@ -19,27 +19,27 @@ K. 2014/13588
 T. 20.10.2014
 
 
-**SAYAÇ OKUMA/PAREKENDE SATIŞ HİZMETİ/DAĞITIM VE İLETİM BEDELLERİNİN TÜKETİCİDEN TAHSİL EDİLEMEMESİ** ( Elektrik Enerjisi Kullanan Sanayi Ticarî ve Mesken Abonelerine Aktif Tüketim Bedeli Dışında Ek Bir Mâli Yük ve Külfet Getirdiği/Bedellere İlişkin EPDK'nca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Şeffaflık Ve Düşük Maliyetli Enerji Temini Temel İlkelerini Taşımadığı - Elektrik Piyasası Kanunu'nun Temel Amaçları Ve İlkelerine Aykırı Olduğu/Hukuk Devleti Ve Adalet Düşünceleri İle Bağdaşmadığı )
+**KAYIP KAÇAK BEDELİ, SAYAÇ OKUMA/PAREKENDE SATIŞ HİZMETİ/DAĞITIM VE İLETİM BEDELLERİNİN TÜKETİCİDEN TAHSİL EDİLEMEMESİ** ( Elektrik Enerjisi Kullanan Sanayi Ticarî ve Mesken Abonelerine Aktif Tüketim Bedeli Dışında Ek Bir Mâli Yük ve Külfet Getirdiği/Bedellere İlişkin EPDK'nca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Şeffaflık Ve Düşük Maliyetli Enerji Temini Temel İlkelerini Taşımadığı - Elektrik Piyasası Kanunu'nun Temel Amaçları Ve İlkelerine Aykırı Olduğu/Hukuk Devleti Ve Adalet Düşünceleri İle Bağdaşmadığı )
 
-**ELEKTRİK ENERJİSİ KULLANAN SANAYİ TİCARİ VE MESKEN ABONELERİ** (Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği/Bedellerle İlgili EPDK'nca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Elektrik Piyasası Kanunu'nun Temel Amaçları Ve İlkelerine Aykırı Olduğu - Elektrik Kaybını Önleme Ve Hırsızlıkları Engelleme Veya Hırsızı Takip Edip Bedeli Ondan Tahsil Etme Görevinin de Bizzat Enerjinin Sahibi Bulunan Dağıtım Şirketlerine Ait Olduğu)
+**KAYIP KAÇAK BEDELİ, ELEKTRİK ENERJİSİ KULLANAN SANAYİ TİCARİ VE MESKEN ABONELERİ** (Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği/Bedellerle İlgili EPDK'nca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Elektrik Piyasası Kanunu'nun Temel Amaçları Ve İlkelerine Aykırı Olduğu - Elektrik Kaybını Önleme Ve Hırsızlıkları Engelleme Veya Hırsızı Takip Edip Bedeli Ondan Tahsil Etme Görevinin de Bizzat Enerjinin Sahibi Bulunan Dağıtım Şirketlerine Ait Olduğu)
 
 **KAYIP KAÇAK BEDELİ İADESİ** ( Elektrik Enerjisinin Nakli Esnasında Meydana Gelen Kayıp İle Başka Kişiler Tarafından Kaçak Kullanmak/Hırsızlanmak Suretiyle Kullanılan Elektrik Bedellerinin, Kurallara Uyan Abonelerden Tahsili Yoluna Gitmek Hukuk Devleti Ve Adalet Düşünceleri İle Bağdaşmadığı - Elektrik Kaybını Önleme Ve Hırsızlıkları Engelleme Veya Hırsızı Takip Edip Bedeli Ondan Tahsil Etme Görevinin Bizzat Enerjinin Sahibi Bulunan Dağıtım Şirketlerine Ait Olduğu/Bedellerle İlgili Enerji Piyasası Düzenleme Kurumunca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Şeffaflık Ve Düşük Maliyetli Enerji Temini Temel İlkelerini Taşımadığı )
 
-**ŞEFFAFLIK VE DÜŞÜK MALİYETLİ ENERJİ TEMİNİ İLKESİ** (Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği - Bedellerle İlgili Enerji Piyasası Düzenleme Kurumunca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Elektrik Piyasası Kanununun Temel Amaçları Ve İlkelerine Aykırı Olduğu )
+**KAYP KAÇAK BEDELİ, ŞEFFAFLIK VE DÜŞÜK MALİYETLİ ENERJİ TEMİNİ İLKESİ** (Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği - Bedellerle İlgili Enerji Piyasası Düzenleme Kurumunca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Elektrik Piyasası Kanununun Temel Amaçları Ve İlkelerine Aykırı Olduğu )
 
-**TÜKETİCİ HAKEM HEYETİ KARARINA İTİRAZ DAVASI** ( Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği/Hukuk Devleti Ve Adalet Düşünceleri İle Bağdaşmadığı - Elektrik Kaybını Önleme Ve Hırsızlıkları Engelleme Veya Hırsızı Takip Edip Bedeli Ondan Tahsil Etme Görevinin Bizzat Enerjinin Sahibi Bulunan Dağıtım Şirketlerine Ait Olduğu/Bedellerle İlgili Enerji Piyasası Düzenleme Kurumunca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Şeffaflık Ve Düşük Maliyetli Enerji Temini Temel İlkelerini Taşımadığı )
+**KAYIP KAÇAK BEDELİ, TÜKETİCİ HAKEM HEYETİ KARARINA İTİRAZ DAVASI** ( Kayıp Kaçak ile Sayaç Okuma Parekende Satış Hizmeti Dağıtım ve İletim Bedellerinin Tüketiciden Tahsil Edilemeyeceği/Hukuk Devleti Ve Adalet Düşünceleri İle Bağdaşmadığı - Elektrik Kaybını Önleme Ve Hırsızlıkları Engelleme Veya Hırsızı Takip Edip Bedeli Ondan Tahsil Etme Görevinin Bizzat Enerjinin Sahibi Bulunan Dağıtım Şirketlerine Ait Olduğu/Bedellerle İlgili Enerji Piyasası Düzenleme Kurumunca Çıkarılan Yönetmelik Kurul Kararları Ve Tebliğlerinin Şeffaflık Ve Düşük Maliyetli Enerji Temini Temel İlkelerini Taşımadığı )
 
 4077/m. 6
 
 4628/m. 4
 
-ÖZET : Kayıp-kaçak bedeli hakkında verilen ve Dairece de benimsenen HGK'nın 21.05.2014 günlü ve 2013/7-2454 Esas, 2014/679 Karar sayılı kararında da belirtildiği üzere; Elektrik enerjisinin nakli esnasında meydana gelen kayıp ile başka kişiler tarafından kaçak kullanmak (hırsızlanmak) suretiyle kullanılan elektrik bedellerinin, kurallara uyan abonelerden tahsili yoluna gitmek hukuk devleti ve adalet düşünceleri ile bağdaşmaz.
+ÖZET : **Kayıp-kaçak bedeli** hakkında verilen ve Dairece de benimsenen HGK'nın 21.05.2014 günlü ve 2013/7-2454 Esas, 2014/679 Karar sayılı kararında da belirtildiği üzere; Elektrik enerjisinin nakli esnasında meydana gelen kayıp ile başka kişiler tarafından kaçak kullanmak (hırsızlanmak) suretiyle kullanılan elektrik bedellerinin, kurallara uyan abonelerden tahsili yoluna gitmek hukuk devleti ve adalet düşünceleri ile bağdaşmaz.
 
 Elektrik kaybını önleme ve hırsızlıkları engelleme veya hırsızı takip edip, bedeli ondan tahsil etme görevi de bizzat enerjinin sahibi bulunan dağıtım şirketlerine aittir.
 
 Elektrik dağıtım şirketlerinin; EPDK kurul kararları ve tebliğleri çerçevesinde, elektrik kullanan abonelerin faturalarına yansıtarak aldıkları, kayıp-kaçak, sayaç okuma, perakende satış hizmet, iletim sistemi kullanım ve dağıtım bedellerinin elektrik enerjisi kullananlara (sanayi, ticarî ve mesken abonelerine) aktif tüketim bedeli dışında ek bir mâli yük ve külfet getirdiği izahtan varestedir.
 
-Nihai tüketici olan abonenin; kayıp-kaçak bedeli gibi davacı dağıtım şirketi tarafından faturalara yansıtılan; dağıtım bedeli, sayaç okuma bedeli, parekende satış hizmeti bedeli ve iletim bedelinin hangi miktarda olduğunu apaçık denetleyebilmesi ve hangi hizmetin karşılığında ne bedel ödediğini bilmesi, eş söyleyişle şeffaf bir hukuk devletinin vazgeçilmez unsurlarındandır.
+Nihai tüketici olan abonenin; **kayıp-kaçak bedeli** gibi davacı dağıtım şirketi tarafından faturalara yansıtılan; dağıtım bedeli, sayaç okuma bedeli, parekende satış hizmeti bedeli ve iletim bedelinin hangi miktarda olduğunu apaçık denetleyebilmesi ve hangi hizmetin karşılığında ne bedel ödediğini bilmesi, eş söyleyişle şeffaf bir hukuk devletinin vazgeçilmez unsurlarındandır.
 
 Davaya konu bedeller ile ilgili olarak Enerji Piyasası Düzenleme Kurumunca kanunun verdiği genel ve soyut yetkiye dayanarak çıkarılan yönetmelik, kurul kararları ve tebliğlerinin de, Elektrik Piyasası Kanununun temel amaçları ve ilkelerinden olan, şeffaflık ve düşük maliyetli enerji temini unsurlarını taşıdığının kabulü de mümkün değildir.
 
