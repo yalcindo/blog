@@ -107,7 +107,9 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
 
 
-**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
+**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. 
+
+Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
 
 **Hükmün açıklanmasının geri bırakılmasına itiraz,** henüz etkin bir kanun yoluna dönüşmüş değildir. Yapılan itirazlar hakkında dosya üzerinden inceleme yapılarak karar verilmektedir.
 
