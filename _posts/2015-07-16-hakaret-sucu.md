@@ -55,22 +55,22 @@ Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek
 
 ###Hakaret Suçunun Cezası Nedir?
 
-####1-) Hakaret Suçunun Basit Şekli
+####1-) Basit Hakaret Suçu Cezası
 
 
 **Hakaret suçunun cezası,** suçun basit veya nitelikli şekillerinden hangisinin işlendiğine göre farklılık arz eder. Suçun basit şeklinde, yani kamu görevlisi olmayan bir kişinin yüzüne karşı hakaret halinde, **hakaret suçunun cezası** 3 aydan 2 yıla kadar hapis veya adli para cezasıdır. Suçun basit şeklindev hakim ya hapis cezası ya da adli para cezası verecektir. Her iki cezanın aynı anda verilmesi mümkün değildir. Hakim gerekçeli kararında neden hapis cezası veya adli para cezası verdiğini de açıkça gerekçelendirmek zorundadır.
 
-####2-) Hakaret Suçunun Nitelikli Şekli
+####2-) Nitelikli Hakaret Suçu Cezası
 
 
 Suçun nitelikli hallerinde **hakaret suçunun cezası,** 1 yıl ile 2 yıl arasındadır. Mağdurun kamu görevlisi olması (avukat, hakim, memur vs.) ve hakaretin görevinden dolayı yapılmış olması, kişinin mensup olduğu dinin kutsal değerlerine veya din özgürlüğünün kullanılmasına hakaret edilmesi **hakaret suçu**nun cezası ağırlaştırılmış nitelikli şekli olarak kabul edilmektedir.
 
-####3-) Alenen Hakaret
+####3-) Alenen Hakaret Suçu Cezası
 
 
 Hakaretin alenen işlenmesi halinde ceza 1/6 oranında ayrıca arttırılacaktır. Örneğin, bir tv programında veya bir caddede bağırarak hakaret etmek **hakaret suçu**nun aleni bir şekilde işlenmesine neden olur.
 
-####4-) Kurul Halinde Çalışan Kamu Görevlilerine Hakaret Suçu
+####4-) Kurul Halinde Çalışan Kamu Görevlilerine Hakaret Suçu Cezası
 
 
 Kurul halinde çalışan kamu görevlilerine görevlerinden dolayı hakaret halinde zincirleme suç hükümleri gereği belirlenen cezanın miktarı ayrıca 1/4’ten 3/4’e kadar arttırılır. Örneğin, bilirkişi heyetine veya mahkeme heyetine hakaret suçlarında suçun nitelikli şeklinden belirlenen ceza arttırılacaktır. 
@@ -94,13 +94,13 @@ TCK md. 129/2’ye göre, hakaret suçunun yaralama suçuna tepki olarak işlenm
 
 Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şekilde düzenlenmiştir. 
 
-###Cumhurbaşkanına Hakaret Suçu
+###Cumhurbaşkanına Hakaret Suçu ve Cezası
 
-Cumhurbaşkanına hakaret suçu, TCK md. 299'da ayrıca düzenlenmiştir. Cumhurbaşkanına hakaret suçu ile Cumhurbaşkanının toplumsal değeri konusunda toplumun sahip olduğu duygu ve düşünceleri sarsan fiil ve sıfatların isnat edilmesi cezalandırılmaktadır.
+**Cumhurbaşkanına hakaret suçu,** TCK md. 299'da ayrıca düzenlenmiştir. Cumhurbaşkanına hakaret suçu ile Cumhurbaşkanının toplumsal değeri konusunda toplumun sahip olduğu duygu ve düşünceleri sarsan fiil ve sıfatların isnat edilmesi cezalandırılmaktadır. **Cumhurbaşkanına hakaret suçu,** uygulamada eleştiri niteliğindeki söz ve davranışların da hakaret olarak cezalandırılmasına neden olduğundan, ceza hukukunun genel ilkelerine uygun olarak TCK 125. madde içerisinde bir fıkra şeklinde yeniden düzenlenmelidir.
 
-Cumhurbaşkanına hakaret suçu ile cumhurbaşkanlığı makamının fonksiyonları değil, şerefi korunmak istenmiştir.
+**Cumhurbaşkanına hakaret suçu** ile cumhurbaşkanlığı makamının fonksiyonları, işlevi, yerine getirdiği görev değil, Cumhurbaşkanının şerefi korunmak istenmektedir.
 
-Suçun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
+Cumhurbaşkanına hakaret suçunun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
 
 Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezasıdır. Suçun alenen işlenmesi halinde verilecek ceza 1/6 oranında arttırılır.
 
