@@ -207,7 +207,7 @@ Ceza indirimi, maddi ceza hukukuna ilişkindir. Yani, etkin pişmanlık nedeniyl
 ###Sabıkalı Kişiler Etkin Pişmanlık Hükümlerinden Yararlanabilir mi?
 
 
-Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları yerine getirmesi yeterlidir. Kişinin daha önce sabıkalı olmaması etkin pişmanlık hükümlerinin uygulanmasına engel değildir.
+Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları yerine getirmesi yeterlidir. Kişinin daha önce sabıkalı olması etkin pişmanlık hükümlerinin uygulanmasına engel değildir.
 
 
 **Etkin pişmanlık nedeniyle ceza indirimi,** birçok suçun ortaya çıkmasına ve suç faillerinin yakalanmasına hizmet ettiği için önemli bir ceza hukuku kurumu olarak kabul edilmektedir.
