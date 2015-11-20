@@ -72,6 +72,22 @@ Trafik para cezasına karşı itiraz yeri Sulh Ceza Hakimliği'dir. Fakat, trafi
 
 2918 sayılı Kanunu'nun 112. maddesi 2013 yılında değiştirilmiştir. Bu kanun değişikliğine göre, sürücü belgesinin geri alınması kararına karşı Sulh Ceza Hakimliği'ne itiraz edilebilir. İtiraz süresi 15 gündür.
 
+###Sigara İçme İdari Para Cezası Nereye Ödenir? Nereye İtiraz Edilir?
+
+
+4207 Sayılı Tütün Mamullerinin İçilmesi Yasaklanan Yerler Kanunu'nın 2. maddesine göre bazı kapalı mekanlarda sigara içme yasağı vardır. Sigara içme yasağı olan yerler, sağlık hizmetlerinin sunulduğu hastane, tıp merkezi, aile sağlığı merkezleri, eğitim – öğretim faaliyetinin yürütüldüğü tüm okul, sürücü kursu, dersane gibi yerler, kültür faaliyetinde bulunulan kütüphane, sergi, müze gibi yerler, tüm kapalı spor salonları, toplu taşıma araçları, toplu taşıma araçlarının bekleme yerleri, kamu kurum ve kuruluşlarında ise, en az beş kişinin görev yaptığı kapalı mekânlarda sigara içme yasağı vardır. 
+
+
+Sigara içme yasağı ihlal edildiğinde her yıl değişen oranlarda **idari para cezası** verilmektedir. Sigara içme yasağının ihlali nedeniyle **idari para cezası,** hem sigara içem kişiye hem de söz konusu yer bir cafe, restaurant vb gibi bir işyeri ise işyeri sahibine de verilir.
+
+**Sigara içme idari para cezası,** nereye ödenir sorusunun cevabı, yani ödeme yeri sigara içme cezası tutanağı üzerinde mevcuttur. Sigara içme idari para cezası Mal Müdürlüklerine ödenir. Örneğin, Bakırköy'de bir cafede sigara içen bir kişiye verilen **sigara içme para cezası,** Bakırköy Mal Müdürlüğü'ne ödenebilir. **Sigara içme para cezası,** vergi dairelerine ödenemez, çünkü hukuki niteliği itibariyle idari para cezası olduğundan Kaymakamlık bünsesinde olan Mal Müdürlüğü'ne ödenir.
+
+**Sigara içme para cezasına itiraz,** para cezasının verildiği yerin bağlı olduğu Sulh Ceza Hakimliği'ne yapılır. İtiraz süresi, sigara içme para cezasının verildiği günden başlamak üzere 15 gündür. Örneğin, Bakırköy'de 01.01.2016 tarihinde verilen sigara içme para cezasına karşı en geç 16.01.2016 tarihine kadar (15 gün içinde) Bakırköy Sulh Ceza Hakimliği'ne itiraz edilmesi gerekir. 
+
+Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri, sigara içme para cezasına esas teşkil eden olgular, itirazı temellendirecek her türlü delil veya bilgi dilekçeye eklenmelidir. İtirazı incelemeye yetkili Sulh Ceza Hakimliği, itirazı haklı bulursa idari para cezasını iptal eder.
+
+###![Sigara İçme İdari Para Cezası](https://camo.githubusercontent.com/69071f5496772a7bf2e9f6c78fee7b007bd9c966/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676a5841722e6a7067 "Sigara İçme İdari Para Cezası")
+
 
 ###İdari Para Cezaları Nereye Ödenir?
 
