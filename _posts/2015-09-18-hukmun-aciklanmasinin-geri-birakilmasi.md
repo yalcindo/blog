@@ -81,6 +81,9 @@ Mahkeme, sanığın duruşmadaki tutum ve davranışlarını, kişilik özellikl
 Sanık, **hükmün açıklanmasının geri bırakılması** kararını kabul etmediğini beyan ederse yargıç, **HAGB** kararı veremez. Çoğu sanığın **"hükmün açıklanmasının geri bırakılmasını kabul etmeli miyim"** şeklindeki sorusu ile karşılaşılır. HAGB kararı verilmesini kabul edip etmemeyi somut olaya göre değerlendirmek gerekirse de, davaların büyük bir çoğunluğunda kabul etmek sanığın lehinedir. 
 
 
+###![Hükmün Açıklanmasının Geri Bırakılması](https://camo.githubusercontent.com/0a7ad7fd71aeb0153ca0c001c5ff9251d412b4e0/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235703452302e6a7067 "Hükmün Açıklanmasının Geri Bırakılması")
+
+
 ###Hükmün Açıklanmasının Geri Bırakılması ve Denetim Süresi İçinde Yeniden Suç İşlenmesi
 
 
