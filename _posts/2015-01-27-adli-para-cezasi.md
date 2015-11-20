@@ -40,11 +40,26 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 ###Adli Para Cezasına Çevrilen Suçlar?
 
 
-Taksirle adam yaralama, taksirle adam öldürme gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza adli para cezasına çevrilebilir.
+Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
 
-**Kasten işlenen şu suçların cezası adli para cezasına çevrilebilir:** Kasten Adam Yaralama Suçu (örneğin, 2 ay veya 4 ay hapis cezası), [**Tehdit Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, [**Hakaret Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu, Suç delillerini yok etme, gizleme veya değiştirme, [**Özel Hayatın Gizliliğini İhlal Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html) Suç eşyasının satın alınması veya kabul edilmesi, mühür bozma veya fekki, [**Hırsızlık Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), [**Mala Zarar Verme Suçu,**]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) güveni kötüye kullanma, bedelsiz senedi kullanma, [**Dolandırıcılık Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) Çevrenin kasten veya taksirle kirletilmesi, imar kirliliği, bozulmuş veya değiştirilmiş gıda veya ilaçların ticareti, Özel belgede sahtecilik suçu, Açığa imzanın kötüye kullanılması, [**Bilişim Suçları,**](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) Görevi yaptırmamak için direnme suçu, [**Görevi Kötüye Kullanma Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html) İftira suçu, Suç üstlenme, Suç uydurma, Yalan tanıklık suçu, Ses veya görüntülerin kayda alınması (örneğin 8 ay hapis cezası). 
+**Kasten işlenip adli para cezasına çevrilebilecek bazı suçlar aşağıdadır:**
+
+* **Hayata Karşı Suçlar:** Kasten Adam Yaralama Suçu (örneğin, 2 ay veya 4 ay hapis cezası).
+
+* **Hürriyete Karşı Suçlar:**[**Tehdit Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu. 
+
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [**Hakaret Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu,  [**Özel Hayatın Gizliliğini İhlal Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
+
+* **Malvarlığına Karşı Suçlar:** [**Hırsızlık Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [**Mala Zarar Verme Suçu,**]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) Güveni Kötüye Kullanma Suçu, Bedelsiz Senedi Kullanma Suçu, [**Dolandırıcılık Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html).
+
+* **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Tarfik Güvenliğini Tehlikeye Sokma Suçu.
+
+
+* **Kamu Güvenine Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu,](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu.
+
+* **Diğer Suçlar:** [**Bilişim Suçları,**](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) Görevi Yaptırmamak İçin Direnme Suçu, [**Görevi Kötüye Kullanma Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html) İftira Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Ses veya Görüntülerin Kayda Alınması Suçu(örneğin 8 ay hapis cezası), Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu,  Mühür Bozma (Fekki) Suçu.
 
 Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına göre adli para cezasına çevrilip çevrilmeyeceğini bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa ediniz.
 
