@@ -69,7 +69,8 @@ Yönetmelik, bazı suçlar ve cezalar açısından **açık cezaevine geçiş** 
 * Mahkum cezaevinden koşullu salıverildikten sonra herhangi bir nedenle hakkındaki koşullu salıverilme kararı geri alınırsa, geri alınan cezalarının tamamını kapalı cezaevinde geçirmek zorundadır.
 
 * İcra-iflas kanunu dışında verilen tazyik hapsi, disiplin veya zorlama hapislerinin tamamı kapalı cezaevinde infaz edilir.
-Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuklanan mahkumların tutukluluk halleri bitene kadar **açık cezaevine ayrılma** hakkını kullanamazlar.
+
+* Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuklanan mahkumlar, diğer suçtan tutukluluk halleri bitene kadar **açık cezaevine ayrılma** hakkını kullanamazlar.
 
 * Açık cezaevindeki çalışma koşullarına uyum sağlayamayacakları idare ve gözlem kurulu kararıyla tespit edilenler **açık cezaevine ayrılma** hakkını kullanmazlar. İdare ve gözlem kurulu kararına bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla itiraz edilebilir.
 
@@ -107,11 +108,6 @@ Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hüküml�
 
 
 Disiplin cezası nedeniyle birden fazla kere kapalı cezaevine iade edilen hükümlüler, disiplin cezasının kaldırılmasından itibaren 1 yıl boyunca iyi halli hükümlü olarak cezası infaz edildikten sonra **açık cezaevine ayrılma hakkı** kazanır.
-
-
-
-
-
 
 
 
