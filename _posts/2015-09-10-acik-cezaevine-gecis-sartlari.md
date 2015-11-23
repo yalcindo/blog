@@ -33,10 +33,13 @@ Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezae
 
 * Ceza miktarı ne olursa olsun, siyasi suçlar, örgüt faaliyeti çerçevesinde işlenen suçlar ve cinsel dokunulmazlığa karşı işlenen suçlarda doğrudan **açık cezaevine geçiş** hakkı yoktur. Örneğin, cinsel taciz suçundan 2 yıl ceza alan bir kişi ceza miktarı düşük olsa bile doğrudan açık cezaevine geçemez.
 
-###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Hakkı ( md. 6 )
-
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/4f5d7c4e2b769e88c010fb827cc6dad9358e2452/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4735357a42722e6a7067 "Ceza Avukatı")   
+
+###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Hakkı (md. 6)
+
+
+
 
 Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler **açık cezaevine ayrılma** hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
 
