@@ -77,17 +77,28 @@ Kapalı cezaevindeyken **firar suçu** (hükümlü veya tutuklunun cezaevinden k
  geçtikten sonra, cezaevi disiplin kurulu hükümlü hakkında "iyi hal" kararı verebilir. iyi hal kararı ile birlikte hükümlü koşullu salıverilme hakkını yeniden kazanır. Ancak, kapalı cezaevindeyken firar eden hükümlü **açık cezaevine geçiş*** hakkını kaybeder.
  
  
-Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade edilir. Açık cezaevindeyken firar eden işleyen hükümlünün tekrar açık cezaevine geçiş hakkı elde edebilmesi için şu şartlar gereklidir:
+Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade edilir. Açık cezaevindeyken firar suçu işlediği için kapalı cezaevine gönderilen hükümlünün tekrar açık cezaevine geçiş hakkı elde edebilmesi için şu şartlar gereklidir:
 
-* Firar Suçu Nedeniyle Disiplin Cezasının İnfazı: Hükümlü firar suçu işlediği için hakkında hücreye koyma cezası uygulanır. 
+* **a- Firar Suçu Nedeniyle Disiplin Cezasının İnfazı:** Hükümlü firar suçu işlediği için hakkında 11 günden 20 güne hücreye koyma cezası uygulanır. Açık cezaevine geçebilmesi için hükümlü hakkında verilen hücreye koyma cezası infaz edilmelidir.
+
+* **b- Disiplin Cezasının Kaldırılması ve "İyi Halli Hükümlü" Statüsünün Yeniden Kazanılması:** Hükümlü, açık cezaevindeyken işlediği firar suçu  nedeniyle verilen hücreye koyma cezasını infaz ettikten sonra  disiplin cezasının kaldırılması ve "iyi halli hükümlü" statüsünü yeniden kazanmalıdır. Hükümlünün disiplin cezasının kaldırılması ve iyi halli hükümlü statüsünü yeniden kazanması için disiplin cezasının infazından itibaren 1 yıl geçmesi gerekir. Disiplin cezasının infazından itibaren 1 yıl geçtikten sonra cezaevi disiplin kurulu kararı ile hükümlünün disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü geri verilebilir (5257 Sayılı Ceza İnfaz Kanunu md. 48-4/f) 
+
+* **c- İyi Halli Hükümlü Statüsü Elde Ediltiktem Sonra Geçmesi Gereken Süre:** Cezaevi disiplin kurulu kararı ile disiplin cezası kaldırılıp "iyi halli hükümlü" statüsü elde eden hükümlünün, bu hakkı elde etmesinden itibaren de 1 yıl süre geçtikten sonra açık cezaevine ayrılma hakkı doğar [**Açık Cezaevine Ayrılma Yönetmeliği**](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=) md. 13/2). 
+
+İkinci kez firar suçu işleyen hükümlüler, firar tarihine kadar kesinleşmiş olan cezaları ile koşullu salıverilme tarihine kadar kesinleşen tüm cezalarını kapalı cezaevinde infaz ederler (Açık Cezaevine Ayrılma Yönetmeliği md. 8/2-c).
 
 
 
 
 
-Açık Cezaevine Ayrılma Yönetmeliği'nin tam metni için bakınız: [**Açık Cezaevine Ayrılma Yönetmeliği**](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16564&MevzuatIliski=0&sourceXmlSearch=)
 
-Açık cezaevi ve denetimli serbestlik uygulaması ilişkisi için bakınız: [**Denetimli Serbestlik Uygulaması**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html)
+
+
+
+
+Açık cezaevine geçiş hakkı ve [**Denetimli Serbestlik Uygulaması**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) arasında çok sıkı bir ilişki vardır. 01.01.2016 tarihinden itibaren denetimli serbestlikten yararlanmak isteyen hükümlülerin açık cezaevinde 6 ay kalması zorunlu hale gelmiştir.
+
+
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan** 
