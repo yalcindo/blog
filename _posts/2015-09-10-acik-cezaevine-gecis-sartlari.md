@@ -103,6 +103,9 @@ Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade ed
 İkinci kez firar suçu işleyen hükümlüler, firar tarihine kadar kesinleşmiş olan cezaları ile koşullu salıverilme tarihine kadar kesinleşen tüm cezalarını kapalı cezaevinde infaz ederler (Açık Cezaevine Ayrılma Yönetmeliği md. 8/2-c).
 
 
+
+###![Disiplin Cezası ve Açık Cezaevine Geçiş](https://camo.githubusercontent.com/864ca908a16d3da653a0cee89a6f98f168b0ab5a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4436586e6e5a2e6a7067 "Disiplin Cezası ve Açık Cezaevine Geçiş")
+
 ###Disiplin Cezası ve Açık Cezaevine Ayrılma Hakkı
 
 Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir. Disiplin cezası kaldırılıp "iyi halli hükümlü" statüsüne kavuşan hükümlü, disiplin cezasının kaldırılmasından itibaren 6 aylık bir "deneme süresi" için  kapalı cezaevinde iyi halli olarak kalmak zorundadır. Disiplin cezasının kaldırılmasından sonra kapalı cezaevinde 6 ay daha iyi halli olarak cezası infaz edilen hükümlü **açık cezaevine ayrılma** hakkı kazanır (Açık Cezaevine Ayrılma Yönetmeliği md. 13/1).
