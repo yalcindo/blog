@@ -49,6 +49,9 @@ Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçi
 
 * Cinsel saldırı, çocukların cinsel istismarı, hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 2 yıl veya daha az süre kalması halinde **açık cezaevine ayrılma** hakkı kazanır.
 
+
+###![Açık Cezaevine Ayrılma](https://camo.githubusercontent.com/3d243fe45d85c2e4918da677bd02fb4568952f27/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384c4e6b372e6a7067 "Açık Cezaevine Ayrılma")
+
 ###3. Açık Cezaevine Geçiş Hakkı Olmayan Hükümlüler ( md. 8)
 
 Yönetmelik, bazı suçlar ve cezalar açısından **açık cezaevine geçiş** uygulamasını yasaklamıştır. Bu suç tipleriyle veya cezalarla mahkum olanların **açık cezaevine ayrılma** hakkı mevcut değildir.
