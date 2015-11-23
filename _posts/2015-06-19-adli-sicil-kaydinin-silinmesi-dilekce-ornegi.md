@@ -85,7 +85,7 @@ Uygulamada adli sicil kaydının silinmesi ile ilgili mağduriyetler oluştuğun
 
 * Kural olarak hükümlüye ait **adli sicil kaydı** cezanın infaz edilmesinden sonra silinir, arşiv kaydına alınır. Arşiv kaydı ise 5 yıl sonra silinir. 
 
-* Arşiv kaydına alınan mahkumiyet hükmü TCK dışındaki kanunların ceza mahkumiyetine bağladığı hak yoksunluklarına neden olan bir mahkumiyet ise; cezanın infazından sonra yasaklanmış hakların geri verilmesi kararı alınması halinde kaydın arşive alınması koşullarının oluştuğu itibaren 15 yıl, yasaklanmış hakların geri alınması kararı alınmamışsa kaydın arşive alınma koşullarının oluştuğu tarihinden itibaren 30 yıl geçemesiyle arşiv kaydı silinir. **Bu hüküm nedeniyle ceza mahkumiyetlerinin büyük bir kısmı 15 yıl veya 30 yıl süresince arşiv kaydında kalmaktadır.**
+* Arşiv kaydına alınan mahkumiyet hükmü TCK dışındaki kanunların ceza mahkumiyetine bağladığı hak yoksunluklarına neden olan bir mahkumiyet ise; cezanın infazından sonra yasaklanmış hakların geri verilmesi kararı alınması halinde kaydın arşive alınması koşullarının oluştuğu itibaren 15 yıl, yasaklanmış hakların geri alınması kararı alınmamışsa kaydın arşive alınma koşullarının oluştuğu tarihinden itibaren 30 yıl geçmesiyle arşiv kaydı silinir. **Bu hüküm nedeniyle ceza mahkumiyetlerinin büyük bir kısmı 15 yıl veya 30 yıl süresince arşiv kaydında kalmaktadır.**
 
 * Hükümlünün ölmesi, fiilin suç olmaktan çıkması gibi nedenlerle de arşiv kaydı silinir.
 
