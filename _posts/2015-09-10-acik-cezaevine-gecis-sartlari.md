@@ -25,6 +25,8 @@ Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezae
 
 * Kasıtlı suçlardan üç yıl veya daha az hapis cezasına mahkum olan hükümlüler doğrudan **açık cezaevine geçiş**hakkına sahiptir. Örneğin, adam yaralama, dolandırıcılık, hürriyeti tahdit, mala zarar verme, tehdit gibi suçlarda mahkumun aldığı cezanın 3 yıl veya altında olması halinde **açık cezaevine geçiş** hakkına sahiptir.
 
+* Cezaları yüksek güvenlikli cezaevlerinde veya kapalı cezaevlerinin yüksek güvenlikli kısımlarında infaz edilen hükümlüler, toplam cezalarının 1/3'ünü bu cezaevlerinde "iyi halli" olarak geçirip koşullu salıverilmelerine 3 yıl veya daha az süre kalınca açık cezaevine geçiş hakkını kazanabilirler.
+ 
 * Taksirli suçlarda ise beş yıl veya altında bir cezaya mahkum olan hükümlüler doğrudan açık cezaevine geçiş hakkına sahiptir. Örneğin, ölümlü trafik kazası veya iş kazası nedeniyle 5 yıl veya altında ceza alanlar doğrudan **açık cezaevine geçiş** hakkına sahiptir.
 
 * Hükümlü hakkında adli para cezası verildiği halde bu adli para cezası ödenmediği için hapis cezasına çevrilmişse bu ceza da doğrudan açık cezaevinde infaz edilir.
@@ -75,7 +77,7 @@ Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuk
 
 ###Kapalı Cezaevinden Açık Cezaevine Ayırma Kararı
 
-Kapalı cezaevinde bulunan hükümlü açık cezaevine geçmek istediğini yazılı bir dilekçeyle bildirdiği takdirde **açık cezaevine geçiş** işlemleri başlatılır. Talep olmadan idare kendiliğinden mahkumu açık cezaevine göndermez. Mahkumun açık cezaevine geçme talebi idare tarafından değerlendirilerek **açık cezaevine ayrılma şartları**nı taşıdığı anlaşıldığı takdirde, idare ve gözlem kurulu mahkum hakkında **açık cezaevine ayrılma** kararı verir. Hükümlü böylece cezasının denetimli serbestlikle tahliyesine kadar geçecek süresini açık cezaevinde geçirir.
+Kapalı cezaevinde bulunan hükümlü açık cezaevine geçmek istediğini yazılı bir dilekçeyle bildirdiği takdirde **açık cezaevine geçiş** işlemleri başlatılır. Talep olmadan idare kendiliğinden mahkumu açık cezaevine göndermez. Mahkumun açık cezaevine geçme talebi idare tarafından değerlendirilerek **açık cezaevine ayrılma şartları**nı taşıdığı anlaşıldığı takdirde, idare ve gözlem kurulu, mahkum hakkında **açık cezaevine ayrılma** kararı verir. Hükümlü böylece cezasının denetimli serbestlikle tahliyesine kadar geçecek süresini açık cezaevinde geçirir.
 
 ###![Firar ve Açık Cezaevine Ayrılma Şartları](https://camo.githubusercontent.com/1059bd18258dfe8c09a6891d96ad5bff42f7da14/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304e565a37442e6a7067 "Firar ve Açık Cezaevine Ayrılma Şartları")
 
@@ -98,7 +100,11 @@ Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade ed
 
 ###Disiplin Cezası ve Açık Cezaevine Ayrılma Hakkı
 
-Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir. Disiplin cezası kaldırılıp "iyi halli hükümlü" statüsüne kavuşan hükümlü, disiplin cezasının kaldırılmasından itibaren 6 ay süreyle kapalı cezaevinde iyi halli olarak kalmak zorundadır. Disiplin cezasının kaldırılmasından sonra kapalı cezaevinde 6 ay daha iyi halli olarak cezası infaz edilen hükümlü **açık cezaevine ayrılma** hakkı kazanır. 
+Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir. Disiplin cezası kaldırılıp "iyi halli hükümlü" statüsüne kavuşan hükümlü, disiplin cezasının kaldırılmasından itibaren 6 aylık bir "deneme süresi" için  kapalı cezaevinde iyi halli olarak kalmak zorundadır. Disiplin cezasının kaldırılmasından sonra kapalı cezaevinde 6 ay daha iyi halli olarak cezası infaz edilen hükümlü **açık cezaevine ayrılma** hakkı kazanır (Açık Cezaevine Ayrılma Yönetmeliği md. 13/1).
+
+İdare ve Gözlem Kurulu, disiplin cezasının kaldırılmasından sonra  kapalı cezaevinde geçirilmesi gereken 6 aylık deneme süresini beklemeden hükümlü hakkında açık cezaevine geçiş kararı verebilir.
+
+
 
 Disiplin cezası nedeniyle birden fazla kere kapalı cezaevine iade edilen hükümlüler, disiplin cezasının kaldırılmasından itibaren 1 yıl boyunca iyi halli hükümlü olarak cezası infaz edildikten sonra **açık cezaevine ayrılma hakkı** kazanır.
 
