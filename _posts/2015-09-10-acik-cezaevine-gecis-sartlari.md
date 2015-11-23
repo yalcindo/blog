@@ -74,7 +74,7 @@ Kapalı cezaevinde bulunan hükümlü açık cezaevine geçmek istediğini yazı
 ###Firar suçu ve Açık Cezaevine Geçiş Hakkı
 
 Kapalı cezaevindeyken **firar suçu** (hükümlü veya tutuklunun cezaevinden kaçması suçu)  işleyenler, firar suçu işlemeden önce kesinleşen cezalarını tahliye olana kadar kapalı cezaevinde geçirmek zorundadır (Açık Cezaevine Ayrılma Yönetmeliği md. 8/2-c). Hükümlü, firar suçu işlediği için "iyi halli" hükümlü statüsünü de kaybeder. **Firar suçu** işleyip koşullu salıverilme hükümlerinden yararlanmak isteyen hükümlü iyi hali yeniden kazanmalıdır. Hükümlünün, iyi hali yeniden kazanılabilmesi için firar suçu nedeniyle verilen disiplin cezasının infaz edilmesi ve infazın üzerinden 1 yıl süre geçmesi gerekir (5275 sayılı Ceza İnfaz Kanunu md. 48/4-f). **Firar suçu** nedeniyle verilen disiplin cezasının üzerinden 1 yıl
- geçtikten sonra, cezaevi disiplin kurulu hükümlü hakkında "iyi hal" kararı verebilir. iyi hal kararı ile birlikte hükümlü koşullu salıverilme hakkını yeniden kazanır. Ancak, kapalı cezaevindeyken firar eden hükümlü **açık cezaevine geçiş*** hakkını kaybeder.
+ geçtikten sonra, cezaevi disiplin kurulu hükümlü hakkında "iyi hal" kararı verebilir. iyi hal kararı ile birlikte hükümlü koşullu salıverilme hakkını yeniden kazanır. Ancak, kapalı cezaevindeyken firar eden hükümlü **açık cezaevine geçiş** hakkını kaybeder.
  
  
 Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade edilir. Açık cezaevindeyken firar suçu işlediği için kapalı cezaevine gönderilen hükümlünün tekrar açık cezaevine geçiş hakkı elde edebilmesi için şu şartlar gereklidir:
