@@ -19,7 +19,7 @@ summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kap
 
 **Açık cezaevine geçiş şartları,** açık cezaevine ayrılma yönetmeliği ile düzenlenmiştir. Yönetmelikle kimlerin kapalı cezaevine girmeden doğrudan **açık cezaevine geçiş** hakkı olduğu, kimlerin kapalı cezaevinden **açık cezaevine ayrılma** hakkına sahip olduğu ve açık cezaevine geçiş hakkı olmayan hükümlülerin kimler olduğu ifade edilmiştir.
 
-###1. Doğrudan Açık Cezaevine Geçiş Hakkı ( md. 5 )
+###1. Doğrudan Açık Cezaevine Geçiş Hakkı (md. 5)
 
 Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezaevine hiç girmeden aldığı cezanın miktarı veya niteliği nedeniyle doğrudan açık cezaevine konularak cezasının infaz edilmesidir.
 
@@ -47,9 +47,13 @@ Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçi
 
 * Müebbet hapis cezasına mahkum olan hükümlü, koşullu salıverilmesine 5 yıl veya daha az bir zaman kaldığında **açık cezaevine ayrılma** hakkına sahiptir. Örneğin, adam öldürme suçundan müebbet hapis cezası almış kişi koşullu salıverilmesine 5 yıl kala **açık cezaevine ayrılma** hakkı kazanır.
 
-* Cezasını yüksek güvenlik cezaevinde ( örneğin, F Tipi Cezaevi ) veya kapalı cezaevinin yüksek güvenlikli bölümlerinde ( Örneğin, T tipinin yüksek güvenlikli bölümünde ) geçiren hükümlünün **açık cezaevine ayrılma** hakkı kazanması için cezasının 1/3’ünün bu cezaevlerinde “iyi halli” infaz edilmiş olası ve koşullu salıverilmesine 3 yıl veya daha az kalması gerekir.
+* Cezasını yüksek güvenlik cezaevinde ( örneğin, F Tipi Cezaevi ) veya kapalı cezaevinin yüksek güvenlikli bölümlerinde ( Örneğin, T tipinin yüksek güvenlikli bölümünde ) geçiren hükümlünün **açık cezaevine ayrılma** hakkı kazanması için cezasının 1/3’ünün bu cezaevlerinde “iyi halli” infaz edilmiş olması ve koşullu salıverilmesine 3 yıl veya daha az bir süre kalması gerekir.
 
 * Cinsel saldırı, çocukların cinsel istismarı, hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 2 yıl veya daha az süre kalması halinde **açık cezaevine ayrılma** hakkı kazanır.
+
+* Yürürlükten kaldırılan 4422 Sayılı Çıkar Amaçlı Suç Örgütleri ile Mücadele Kanunu2nun 14. maddesi gereği etkin pişmanlık hükümlerinden yararlanan hükümlüler, koşullu salıverilmelerine 2 yıldan daha az süre kalması halinde açık cezaevine ayrılma hakkını kazanır.
+
+* Birden fazla cezası infaz edilen hükümlü hakkında cezaların toplanması kararı alındığında, açık kuruma ayrılmada esas alınacak suç, koşullu salıverilme tarihine en az sürenin arandığı suçtur. Örneğin, aynı hükümlü ile ilgili kasten adam yaralama suçu nedeniyle 2 yıl, hırsızlık suçu nedeniyle 2 yıl olarak verilen cezalar hakkında toplama kararı alındığında, açık cezaevine geçiş hakkı için ölçü alınacak suç vasfı hırsızlık suçu değil, kasten adam yaralama suçudur. Görüldüğü üzere birden fazla cezaların toplanması kararı, hükümlünün açık cezaevine geçiş koşullarını kolaylaştırmaktadır.
 
 
 ###![Açık Cezaevine Ayrılma](https://camo.githubusercontent.com/3d243fe45d85c2e4918da677bd02fb4568952f27/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384c4e6b372e6a7067 "Açık Cezaevine Ayrılma")
