@@ -29,7 +29,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 
 Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
 
-Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine ceza süresi itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan hükümlüler 31.12.2015 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
+Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza mikatarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan hükümlüler 31.12.2015 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
 0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde **denetimli serbestlik yasası** yoluyla serbest bırakılabilecektir.
 
@@ -121,7 +121,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 **Denetimli serbestlik,** bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanmalıdır.
 
-01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
+01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
 ###10. Denetimli Serbestlik Yasası Yargıtay Kararları      
 
