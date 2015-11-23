@@ -71,9 +71,9 @@ Kapalı cezaevinde hükümlü olarak tutulduğu sırada başka bir suçtan tutuk
 
 Kapalı cezaevinde bulunan hükümlü açık cezaevine geçmek istediğini yazılı bir dilekçeyle bildirdiği takdirde **açık cezaevine geçiş** işlemleri başlatılır. Talep olmadan idare kendiliğinden mahkumu açık cezaevine göndermez. Mahkumun açık cezaevine geçme talebi idare tarafından değerlendirilerek **açık cezaevine ayrılma şartları**nı taşıdığı anlaşıldığı takdirde, idare ve gözlem kurulu mahkum hakkında **açık cezaevine ayrılma** kararı verir. Hükümlü böylece cezasının denetimli serbestlikle tahliyesine kadar geçecek süresini açık cezaevinde geçirir.
 
-###Firar suçu Açık Cezaevine Geçiş Hakkı
+###Firar suçu ve Açık Cezaevine Geçiş Hakkı
 
-Kapalı cezaevindeyken **firar suçu** (hükümlü veya tutuklunun cezaevinden kaçması suçu)  işleyenler, firar suçu işlemeden önce kesinleşen cezalarını tahliye olana kadar kapalı cezaevinde geçirmek zorundadır (Açık Cezaevine Ayrılam Yönetmeliği md. 8/2-c). Hükümlü, firar suçu işlediği için "iyi halli" hükümlü statüsünü de kaybeder. **Firar suçu** işleyip koşullu salıverilme hükümlerinden yararlanmak isteyen hükümlü iyi hali yeniden kazanmalıdır. Hükümlünün, iyi hali yeniden kazanılabilmesi için firar suçu nedeniyle verilen disiplin cezasının infaz edilmesi ve infazın üzerinden 1 yıl süre geçmesi gerekir (5275 sayılı Ceza İnfaz Kanunu md. 48/4-f). **Firar suçu** nedeniyle verilen disiplin cezasının üzerinden 1 yıl
+Kapalı cezaevindeyken **firar suçu** (hükümlü veya tutuklunun cezaevinden kaçması suçu)  işleyenler, firar suçu işlemeden önce kesinleşen cezalarını tahliye olana kadar kapalı cezaevinde geçirmek zorundadır (Açık Cezaevine Ayrılma Yönetmeliği md. 8/2-c). Hükümlü, firar suçu işlediği için "iyi halli" hükümlü statüsünü de kaybeder. **Firar suçu** işleyip koşullu salıverilme hükümlerinden yararlanmak isteyen hükümlü iyi hali yeniden kazanmalıdır. Hükümlünün, iyi hali yeniden kazanılabilmesi için firar suçu nedeniyle verilen disiplin cezasının infaz edilmesi ve infazın üzerinden 1 yıl süre geçmesi gerekir (5275 sayılı Ceza İnfaz Kanunu md. 48/4-f). **Firar suçu** nedeniyle verilen disiplin cezasının üzerinden 1 yıl
  geçtikten sonra, cezaevi disiplin kurulu hükümlü hakkında "iyi hal" kararı verebilir. iyi hal kararı ile birlikte hükümlü koşullu salıverilme hakkını yeniden kazanır. Ancak, kapalı cezaevindeyken firar eden hükümlü **açık cezaevine geçiş*** hakkını kaybeder.
  
  
@@ -87,6 +87,10 @@ Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade ed
 
 İkinci kez firar suçu işleyen hükümlüler, firar tarihine kadar kesinleşmiş olan cezaları ile koşullu salıverilme tarihine kadar kesinleşen tüm cezalarını kapalı cezaevinde infaz ederler (Açık Cezaevine Ayrılma Yönetmeliği md. 8/2-c).
 
+
+###Disiplin Cezası ve Açık Cezaevine Ayrılma Hakkı
+
+Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir.
 
 
 
