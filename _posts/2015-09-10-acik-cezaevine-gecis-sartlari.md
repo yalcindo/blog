@@ -98,7 +98,7 @@ Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade ed
 
 ###Disiplin Cezası ve Açık Cezaevine Ayrılma Hakkı
 
-Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir.
+Hakkında disiplin cezası verildiği için kapalı kuruma gönderilen hükümlüler, disiplin cezasının infaz edilmesinden itibaren belli bir süre geçtikten sonra (disiplin suçunun niteliğine göre 1 ay, 3 ay, 6 ay veya 1 yıl) disiplin cezasının kaldırılmasını talep edebilirler. Cezaevi disiplin kurulu kararı ile hükümlü hakkındaki disiplin cezası kaldırılarak, hükümlüye "iyi halli hükümlü" statüsü yeniden verilir. Disiplin cezası kaldırılıp "iyi halli hükümlü" statüsüne kavuşan hükümlü, disiplin cezasının kaldırılmasından itibaren 6 ay süreyle kapalı cezaevinde iyi halli olarak kalmak zorundadır. Disiplin cezasının kaldırılmasından sonra, kapalı cezaevinde 6 ay daha iyi halli olarak cezası infaz edilen hükümlü **açık cezaevine ayrılma** hakkı kzanır. 
 
 
 
