@@ -4,7 +4,7 @@ title: Açık Cezaevine Geçiş (Ayrılma) Şartları
 category: ceza-hukuku
 googleAnahtar: Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords:  Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kapalı Cezaevinden Açık Cezaevine Ayrılma Şartları, Açık Cezaevine Nasıl Geçilir? Hangi Mahkumlar Açık Cezaevine Geçebilir? Hangi Suçlarda Açık Cezaevine Geçilemez?
+summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kapalı Cezaevinden Açık Cezaevine Ayrılma Şartları, Açık Cezaevine Nasıl Geçilir? Firar Suçu ve Açık Cezaevine Geçiş, Disiplin Suçu Cezasının İnfazı ve Açık Cezaevine Ayrılma
 ---
 
 ##Açık Cezaevi Nedir?
