@@ -3,7 +3,7 @@ layout: blog
 title: Ağır Ceza Avukatı ve Savunma
 category: ceza-hukuku
 googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul avukat, bakırköy avukat
-summary: Ağır ceza avukatı veya ceza avukatı gibi kavramlar ve ağır ceza avukatlarının savunma işlevi kasten adama öldürme suçu, nitelikli dolandırıcılık suçu ve yağma suçu çerçevesinde tanıtılmaya çalışılmıştır.
+summary: Ağır ceza avukatı veya ceza avukatı gibi kavramlar ve ağır ceza avukatlarının savunma işlevi, kasten adama öldürme suçu, nitelikli dolandırıcılık suçu, zimmet suçu ve yağma suçu çerçevesinde tanıtılmıştır.
 keywords: Ağır Ceza avukatı, avukat, ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat, ceza avukatları, ağır ceza avukatları
 ---
 
@@ -40,7 +40,7 @@ Meşru müdafaa (meşru savunma) da adam öldürme suçu açısından ağır cez
 
 ###Nitelikli Dolandırıcılık Suçu ve Ağır Ceza Avukatı
 
-Nitelikli dolandırıcılık suçu, birçok farklı şekillerde işlenebilen malvarlığı suçlarındandır. **Ağır ceza avukatı** nitelikli dolandırıcılık suçuna dair bir dava dosyasıyla ilgilendiğinde suçun hukuk bilgisi dışından teknik bilgi gerektirip gerektirmediğini araştırmalıdır. Bazı nitelikli dolandırıcılık suçu halleri hukuk bilgisi dışında teknik bilgi yardımı alınmasını gerektirebilir. Bu hallerde davanın savunma avukatı konunun uzmanından mütalaa almalıdır. Mesela, bilişim yoluyla nitelikli dolandırıcılık suçu (TCK md. 158/1-f) işlenmesi halinde, delillerin ortaya konulması açısından bilişim sisteminin incelenmesi gerekebilir. Ceza avukatı, bilişim sisteminin incelenmesi ihtiyacı ortaya çıktığında, bunu bir uzman vasıtasıyla yapmalıdır.
+[**Nitelikli dolandırıcılık suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) birçok farklı şekillerde işlenebilen malvarlığı suçlarındandır. **Ağır ceza avukatı** nitelikli dolandırıcılık suçuna dair bir dava dosyasıyla ilgilendiğinde suçun hukuk bilgisi dışından teknik bilgi gerektirip gerektirmediğini araştırmalıdır. Bazı nitelikli dolandırıcılık suçu halleri hukuk bilgisi dışında teknik bilgi yardımı alınmasını gerektirebilir. Bu hallerde davanın savunma avukatı konunun uzmanından mütalaa almalıdır. Mesela, bilişim yoluyla nitelikli dolandırıcılık suçu (TCK md. 158/1-f) işlenmesi halinde, delillerin ortaya konulması açısından bilişim sisteminin incelenmesi gerekebilir. Ceza avukatı, bilişim sisteminin incelenmesi ihtiyacı ortaya çıktığında, bunu bir uzman vasıtasıyla yapmalıdır.
 
 Nitelikli dolandırıcılık suçunun bir hukuki ilişkiye dayanan alacağı tahsil amacıyla işlenmesi halinde fail hakkında ceza indirimi uygulanmaktadır (TCK md. 159). Savunmayı yapan avukat, fail hakkında bu maddenin uygulanma ihtimali varsa delillerin bu yönüyle ortaya konulmasını sağlamalıdır.
 
@@ -49,11 +49,26 @@ Nitelikli dolandırıcılık suçu, suçun neden olduğu zarar giderildiğinde c
 
 ###Yağma Suçu ve Ağır Ceza Avukatı
 
-Yağma suçu, hem kişi özgürlüğünü hem de malvarlığı değerlerini hedefleyen en ağır suçlardan biridir.  **Ağır ceza avukatı,** yağma suçu dosyasını incelerken suç vasfının doğru şekilde belirlenip belirlenmediğine dikkat etmelidir. Yağma suçu, şiddet ve tehditle işlenen bir hırsızlık suçu olarak nitelenebilir. O yüzden hırsızlık suçu ile yağma suçu birbirine karıştırılabilmektedir. Fiilin işlenmesi sırasında şiddet veya tehdit olup olmadığı sağlıklı bir savunma için yeterince incelenmelidir. 
+[**Yağma suçu,**]( http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html) hem kişi özgürlüğünü hem de malvarlığı değerlerini hedefleyen en ağır suçlardan biridir.  **Ağır ceza avukatı,** yağma suçu dosyasını incelerken suç vasfının doğru şekilde belirlenip belirlenmediğine dikkat etmelidir. Yağma suçu, şiddet ve tehditle işlenen bir hırsızlık suçu olarak nitelenebilir. O yüzden hırsızlık suçu ile yağma suçu birbirine karıştırılabilmektedir. Fiilin işlenmesi sırasında şiddet veya tehdit olup olmadığı sağlıklı bir savunma için yeterince incelenmelidir. 
 
 Yağma suçu da hukuki ilişkiye dayanan alacağın tahsili amacıyla işlenirse failin cezasından indirim yapılabilecektir. Alacağın tahsili amacıyla suçun işlenip işlenmediği savunmayı yapan avukat tarafından etraflıca incelenmelidir.
 
 Suçun meydana getirdiği zararın giderilmesi halinde ceza indirimi yağma suçu açısından da geçerlidir.  Ceza avukatı, bir ceza indirim hali olan zararın giderilmesi olgusunun zamanına göre uygun bir ceza indirimi yapılmasını savunmalıdır.
+
+###Zimmet Suçu ve Ağır Ceza Avukatı
+
+**Zimmet suçu,** kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. **Zimmet suçu,** esasen görevi kötüye kullanma suçunun özel bir şeklidir.
+
+**Ağır ceza avukatı,** zimmet suçu yargılamasında mutlaka kamu görevlisinin yaptığı işin teknik boyutu konusunda ayrıntılı bilgi almalıdır. Çünkü, kamu görevlisinin yaptığı işin teknik açıdan görev sayılıp sayılmayacağı zimmet suçu yargılamasında oldukça önemlidir. **Ağır ceza avukatı,** zimmet suçunun oluşup oluşmadığı konusunda detaylı bir hesap raporu alınması gereken bir husus tespit ederse, konunun uzman bilirkişilerden savunmayı güçlendirecek özel bilirkişi raporu alarak mahkemeye sunmalıdır.
+
+**Zimmet suçu,** suçun temel şekli itibariyle ceza miktarı 5 yıl ile 12 yıl arasında olan ağır ceza mahkmesinin yetkisine giren suçlardandır. Nitelikli zimmet suçu, 7.5 yıldan 18 yıla kadar hapis czeası gerektiren bir suçtur. Bu nedenle ağır ceza avukatı, zimmet suçu davasında tüm delilleri müvekkiliyle değerlendirerek, görev ilişkisini ve suçun oluşup oluşmadığını tartışmalıdır.
+
+**Zimmet suçu,** etkin pişmanlık hükümleri uygulanabilecek suçlardandır. Zimmet suçu nedeniyle etkin pişmanlık uygulanıp uygulanmayacağı, hangi aşamada ne kadar indirim yapılabileceği **ağır ceza avukatı** tarafından müvekkile bilgi olarak sunulmalıdır.
+
+
+
+
+
 
 **Ağır ceza avukatı,** hem sanık hakları açısından hem de maddi gerçeğin ortaya çıkarılması açısından yargının temel kurucu aktörlerinden biridir. 
 
