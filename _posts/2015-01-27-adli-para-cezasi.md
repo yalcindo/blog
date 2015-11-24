@@ -50,7 +50,7 @@ Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlen
 
 * **Hürriyete Karşı Suçlar:**[*Tehdit Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu. 
 
-* **Özel Hayata ve Şerefe Karşı Suçlar:** [*Hakaret Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu,  [*Özel Hayatın Gizliliğini İhlal Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [*Hakaret Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu,  [*Özel Hayatın Gizliliğini İhlal Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
 
 * **Malvarlığına Karşı Suçlar:** [*Hırsızlık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Mala Zarar Verme Suçu,*]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) Güveni Kötüye Kullanma Suçu, Bedelsiz Senedi Kullanma Suçu, [*Dolandırıcılık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html).
 
