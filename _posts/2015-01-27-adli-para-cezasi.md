@@ -52,7 +52,7 @@ Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlen
 
 * **Özel Hayata ve Şerefe Karşı Suçlar:** [*Hakaret Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu,  [*Özel Hayatın Gizliliğini İhlal Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
 
-* **Malvarlığına Karşı Suçlar:** [*Hırsızlık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Mala Zarar Verme Suçu,*]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) Güveni Kötüye Kullanma Suçu, Bedelsiz Senedi Kullanma Suçu, [*Dolandırıcılık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html).
+* **Malvarlığına Karşı Suçlar:** [*Hırsızlık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Mala Zarar Verme Suçu,*]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) Güveni Kötüye Kullanma Suçu, Bedelsiz Senedi Kullanma Suçu, [*Dolandırıcılık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html).
 
 * **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Tarfik Güvenliğini Tehlikeye Sokma Suçu.
 
