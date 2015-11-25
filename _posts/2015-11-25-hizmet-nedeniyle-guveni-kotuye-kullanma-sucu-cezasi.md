@@ -11,7 +11,7 @@ keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye
 
 ##Güveni Kötüye Kullanma Nedir?
 
-**Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan hizmet ilişkisinin kötüye kullanılması suretiyle **güveni kötüye kullanma suçu** işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
+**Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan *hizmet ilişkisinin* kötüye kullanılması suretiyle **güveni kötüye kullanma suçu** işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
 
 Güveni kötüye kullanma suçu (emniyeti suistimal suçu) beş farklı şekilde meydana gelebilir:
 
