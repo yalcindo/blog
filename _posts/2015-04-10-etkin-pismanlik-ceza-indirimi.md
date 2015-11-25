@@ -75,7 +75,7 @@ Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi*
 
 [**Dolandırıcılık suçu,**]( http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) hile ve desise ile mağdurun kandırılarak malvarlığı değerlerinin elinden alınması nedeniyle meydana gelir.
 
-[**Güveni Kötüye Kullanma Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html),** kendisine tevdi edilen malvarlığı değerlerinin tevdi amacının dışında kendisine veya başkasına menfaat sağlama amacıyla kullanılma yoluyla oluşur. 
+[**Güveni Kötüye Kullanma Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), kendisine tevdi edilen malvarlığı değerlerinin tevdi amacının dışında kendisine veya başkasına menfaat sağlama amacıyla kullanılma yoluyla oluşur. 
 
 **Mala zarar verme suçu, dolandırıcılık suçu, hırsızlık suçu, güveni kötüye kullanma suçu, işlediği iddia edilen kişi;**
 
