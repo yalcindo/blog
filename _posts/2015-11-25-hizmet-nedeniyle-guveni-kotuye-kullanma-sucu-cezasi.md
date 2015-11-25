@@ -107,13 +107,13 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 ####1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
 
-Hırsızlık suçu, sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
+[*Hırsızlık suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
 Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
 ####2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
-Dolandırıcılık suçu, mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
+[*Dolandırıcılık suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
 
 Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim ettiği mal üzerinde gerçekleşir. Failin haksız bir çıkar sağlaması şart olmayıp, zilyetliğin devri amacına aykırı kullanım veya devir olgusunun inkar edilmesi suçun işlenmesi için yeterlidir.
 
@@ -162,7 +162,7 @@ Hükmün açıklanmasının geri bırakılması, sanık hakkında verilen karar�
 
 * Sanık, Tarım Kredi Kooperatifinde yetkili memur olarak çalışırken kredi kullanan üyelerden topladığı parayı kendi kişisel hesabına geçirmiştir. Sanığın fiili, **hizmet nedeniyle güveni kötüye kullanma** değil, zimmet suçunu oluşturur (Yargıtay 5. Ceza Dairesi – Esas No: 2012/6626, Karar No: 2012/10286).
 
-Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir ceza avukatı ile birlikte yapılması yararlı olacaktır.
+Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir [**Ceza Avukatı*](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
 
 
 **Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
