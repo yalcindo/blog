@@ -162,7 +162,7 @@ Hükmün açıklanmasının geri bırakılması, sanık hakkında verilen karar�
 
 * Sanık, Tarım Kredi Kooperatifinde yetkili memur olarak çalışırken kredi kullanan üyelerden topladığı parayı kendi kişisel hesabına geçirmiştir. Sanığın fiili, **hizmet nedeniyle güveni kötüye kullanma** değil, zimmet suçunu oluşturur (Yargıtay 5. Ceza Dairesi – Esas No: 2012/6626, Karar No: 2012/10286).
 
-Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir [**Ceza Avukatı*](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
+Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir [**Ceza Avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
 
 
 **Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
