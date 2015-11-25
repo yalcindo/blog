@@ -107,19 +107,20 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 ####1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
 
-[*Hırsızlık suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
+[Hırsızlık suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
 Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
 ####2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
-[*Dolandırıcılık suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
+[Dolandırıcılık suçu](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
 
 Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim ettiği mal üzerinde gerçekleşir. Failin haksız bir çıkar sağlaması şart olmayıp, zilyetliğin devri amacına aykırı kullanım veya devir olgusunun inkar edilmesi suçun işlenmesi için yeterlidir.
 
 ####3-) Zimmet Suçu ve Emniyeti Suistimal Suçu
 
 Zimmet suçu, görevi nedeniyle kendisine teslim edilen malvarlığı değerleri üzerinde işlenebilir. Zimmet suçu ancak bir kamu görevlisi tarafından işlenebilir. **Emniyeti suiistimal suçu** herkes tarafından işlenebilen ve güven ilişkisine dayalı bir suçtur.
+
 Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak bir malvarlığı değerini kendi hesabına geçirirse **hizmet nedeniyle güveni kötüye kullanma** değil, zimmet suçu oluşur. Kamu görevlisine görevi ile bağlantılı değil de kişisel güven ilişkisine dayalı olarak bir malın zilyetliğinin devri sonucu suç oluşursa, bu durumda zimmet suçu değil, basit emniyeti suistimal suçu meydana gelir.
 
 ###Güveni Kötüye Kullanma Suçu Cezası
