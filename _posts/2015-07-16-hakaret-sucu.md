@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: HAKARET SUÇU ve CEZASI
+title: Hakaret Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul avukat
 summary: Hakaret suçu nedir? Hakaret suçunun cezası nedir? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Alenen hakaret, Cumhurbaşkanına hakaret suçu, Hakaret suçu şikayet süresi
@@ -115,7 +115,7 @@ HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zar
 
 **Hakaret suçu**nun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
 
-Nitelikli **hakaret suçu** şikayete tabi değildir. Bu nedenle herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
+Nitelikli **hakaret suçu** şikayete tabi değildir. Bu nedenle suçun nitelikli halleri için herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
 
 
