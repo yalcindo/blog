@@ -19,11 +19,11 @@ Güveni kötüye kullanma suçu (emniyeti suiistimal suçu) beş farklı şekild
 
 * **Hizmet nedeniyle güveni kötüye kullanma** (TCK md. 155/2),
 
-* Meslek veya sana nedeniyle güveni kötüye kullanma (TCK md. 155/2),
+* Meslek veya sana nedeniyle emniyeti suiistimal (TCK md. 155/2),
 
 * Ticaret sebebiyle güveni kötüye kullanma (TCK md. 155/2),
 
-* Başkasının mallarını yönetmek  yetkisi çerçevesinde tevdi ve teslim edilen mallar ile ilgili güveni kötüye kullanma  (TCK md. 155/2).
+* Başkasının mallarını yönetmek  yetkisi çerçevesinde tevdi ve teslim edilen mallar ile ilgili emniyeti suiistimal  (TCK md. 155/2).
 
 ##Güveni Kötüye Kullanma Suçu Şikayet Süresi
 
