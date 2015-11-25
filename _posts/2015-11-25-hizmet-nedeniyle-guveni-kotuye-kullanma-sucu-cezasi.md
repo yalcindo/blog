@@ -13,17 +13,17 @@ keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye
 
 **Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan hizmet ilişkisinin kötüye kullanılması suretiyle **güveni kötüye kullanma suçu** işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
 
-Güveni kötüye kullanma suçu (emniyeti suiistimal suçu) beş farklı şekilde meydana gelebilir:
+Güveni kötüye kullanma suçu (emniyeti suistimal suçu) beş farklı şekilde meydana gelebilir:
 
 * Zilyetliğin devir amacı dışında kullanılması şeklindeki basit güveni kötüye kullanma suçu (TCK md. 155/1),
 
 * **Hizmet nedeniyle güveni kötüye kullanma** (TCK md. 155/2),
 
-* Meslek veya sana nedeniyle emniyeti suiistimal (TCK md. 155/2),
+* Meslek veya sana nedeniyle emniyeti suistimal (TCK md. 155/2),
 
 * Ticaret sebebiyle güveni kötüye kullanma (TCK md. 155/2),
 
-* Başkasının mallarını yönetmek  yetkisi çerçevesinde tevdi ve teslim edilen mallar ile ilgili emniyeti suiistimal  (TCK md. 155/2).
+* Başkasının mallarını yönetmek  yetkisi çerçevesinde tevdi ve teslim edilen mallar ile ilgili emniyeti suistimal  (TCK md. 155/2).
 
 ##Güveni Kötüye Kullanma Suçu Şikayet Süresi
 
@@ -133,7 +133,7 @@ Suçun nitelikli halleri işlenirse, yani hizmet nedeniyle güveni kötüye kull
 
 ###Güveni Kötüye Kullanma Suçu ve Etkin Pişmanlık
 
- Etkin pişmanlık, suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, görevi kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
+[Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, görevi kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
 
 Etkin pişmanlık, savcılık soruşturması aşamasında gösterilirse güveni kötüye kullanma suçu cezası, 2/3 oranına kadar indirilebilir. Yani, 1 yıl ceza alabilecek fail etkin pişmanlık hükümleri uygulanırsa 4 ay ceza alabilir. Failin etkin pişmanlık hükümlerinden yararlanabilmesi için suça ilişkin bilgi vermesi ve varsa suç ortaklarını, azmettireni, yardım edeni açıklamalı veya mağdurun uğradığı zararı gidermelidir.
 
@@ -143,7 +143,7 @@ Yapılan soruşturma neticesinde mahkemede dava açıldıktan sonra, fakat henü
 
 Hükmün açıklanmasının geri bırakılması, sanık hakkında verilen kararın belli bir süre sonuç doğurmaması, bu süre içerisinde yükümlüklere uyulduğu ve kasıtlı suç işlenmediği takdirde ceza davasının düşmesi sonucunu doğuran bir hukuki yoldur.
 
-**Emniyeti suiistimal suçu** nedeniyle herhangi bir zarar oluşmuşsa, sanığın hükmün açıklanmasının geri bırakılması kurumundan faydalanabilmesi için zararı karşılaması gerekir. **Emniyeti suiistimal suçu** nedeniyle herhangi bir zarar yoksa, sanığın mağdura hiçbir ödeme yapmasına gerek olmadan hükmün açıklanmasının geri bırakılması kurumundan faydalanması mümkündür.
+**Emniyeti suistimal suçu** nedeniyle herhangi bir zarar oluşmuşsa, sanığın hükmün açıklanmasının geri bırakılması kurumundan faydalanabilmesi için zararı karşılaması gerekir. **Emniyeti suistimal suçu** nedeniyle herhangi bir zarar yoksa, sanığın mağdura hiçbir ödeme yapmasına gerek olmadan hükmün açıklanmasının geri bırakılması kurumundan faydalanması mümkündür.
 
 ###Güveni Kötüye Kullanma Suçu Yargıtay Kararları
 
