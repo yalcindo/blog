@@ -123,6 +123,8 @@ Zimmet suçu, görevi nedeniyle kendisine teslim edilen malvarlığı değerleri
 
 Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak bir malvarlığı değerini kendi hesabına geçirirse **hizmet nedeniyle güveni kötüye kullanma** değil, zimmet suçu oluşur. Kamu görevlisine görevi ile bağlantılı değil de kişisel güven ilişkisine dayalı olarak bir malın zilyetliğinin devri sonucu suç oluşursa, bu durumda zimmet suçu değil, basit emniyeti suistimal suçu meydana gelir.
 
+###![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/31eb537f413c2a4ff1b6e72e5f5d65108f7006fb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f796f6d76474e2e6a7067 "Güveni Kötüye Kullanma")
+
 ###Güveni Kötüye Kullanma Suçu Cezası
 
 **Güveni kötüye kullanma suçu cezası,** suçun nitelikli veya basit hallerinden hangisinin işlendiğine göre değişir.
