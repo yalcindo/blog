@@ -165,7 +165,7 @@ Hükmün açıklanmasının geri bırakılması, sanık hakkında verilen karar�
 Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir ceza avukatı ile birlikte yapılması yararlı olacaktır.
 
 
-***Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
 
 
 
