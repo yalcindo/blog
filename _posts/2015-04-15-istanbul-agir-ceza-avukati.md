@@ -67,7 +67,11 @@ Zimmet suçu, etkin pişmanlık hükümleri uygulanabilecek suçlardandır. Zimm
 
 ###İhaleye Fesat Karıştırma Suçu ve Ağır Ceza Avukatı
 
-**İhaleye fesat karıştırma suçu**, kamu kurumlarının mal veya hizmet alımları ile kiralamalara ilişkin ihalelere fesat karıştırlmasıyla işlenen bir suçtur. Hileli davranışlarla bazı kimselerin ihaleye girmsini engellemek, yeterliliği olmayan kişi veya şirketlerin ihaleye katılımını sağlamak, malların şartnamedeki özelliklerine aykırı bir şekilde değerlendirmey alınması, gizli tutulması gereken bilgilerin saklanmayıp başkalarına aktarılması gibi hareketler ihaleye fesat karıştırma suçu oluşturur. 
+**İhaleye fesat karıştırma suçu**, kamu kurumlarının mal veya hizmet alımları ile kiralamalara ilişkin ihalelere fesat karıştırlmasıyla işlenen bir suçtur. Hileli davranışlarla bazı kimselerin ihaleye girmesini engellemek, yeterliliği olmayan kişi veya şirketlerin ihaleye katılımını sağlamak, malların şartnamedeki özelliklerine aykırı bir şekilde değerlendirmey alınması, gizli tutulması gereken bilgilerin saklanmayıp başkalarına aktarılması gibi hareketler ihaleye fesat karıştırma suçu oluşturur. 
+
+İhaleye fesat karıştırma suçu, bağlı hareketli bir suçtur. Yani, suçun kanuni tanımında sınırlı bir şekilde sayılan hareketlerden birinin gerçekleşmesiyle suç oluşur. Kanuni tanımda yer almayan benzer nitelikteki hareketler suçun meydana gelmesine sebep olamaz.
+
+**Ağır ceza avukatı**, ihaleye fesat karıştırma neticesinin doğmasına neden olan hareketleri tek tek değerlendirmeli, yargılama konusu fiilin TCK  235. maddede sınırlı bir şekilde sayılan hareketlerden olup olmadığını mahkemede tartışmalıdır. 
 
 
 
