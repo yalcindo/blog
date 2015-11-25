@@ -127,7 +127,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 25.11.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
 
-Denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda bir çalışma mevcut. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz
+Denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda bir çalışma mevcut. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz.
 
 
 ###10. Denetimli Serbestlik Yasası Yargıtay Kararları      
