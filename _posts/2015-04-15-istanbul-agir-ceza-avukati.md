@@ -69,6 +69,8 @@ Zimmet suçu, suçun temel şekli itibariyle ceza miktarı 5 yıl ile 12 yıl ar
 
 Zimmet suçu, etkin pişmanlık hükümleri uygulanabilecek suçlardandır. Zimmet suçu nedeniyle etkin pişmanlık uygulanıp uygulanmayacağı, hangi aşamada ne kadar indirim yapılabileceği avukat tarafından müvekkile bilgi olarak sunulmalıdır.
 
+Zimmet suçu istatistiksel açıdan en çok Türkiye'nin İstanbul kentinde işlenmektedir.
+
 ###![istanbul ağır ceza avukatı](https://camo.githubusercontent.com/e03c5eec7772b00b322008094dd48de25aa65ad3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d37645952562e6a7067 "Ağır Ceza Avukatı")
 
 ###İhaleye Fesat Karıştırma Suçu ve Ağır Ceza Avukatı
