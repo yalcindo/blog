@@ -32,7 +32,7 @@ Suçun nitelikli hallerini ispat etmek bazen zor olabilir, ceza avukatı bu hall
 
 **Ağır ceza avukatı**, kasten adam öldürme suçunda haksız tahrik bulunup bulunmadığını özellikle araştırmalıdır. Suçun haksız tahrik altında işlenmesi halinde faile verilecek cezada indirim yapılabilecektir. Haksız tahrikin derecesi yapılacak indirimin oranını da belirleyecektir. Olayda haksız tahrik olup olmadığı, haksız tahrik varsa ne derecede olduğu ceza avukatı tarafından araştırılmalıdır.
 
-Meşru müdafaa (meşru savunma) da adam öldürme suçu açısından ağır ceza avukatının dikkat etmesi gereken bir kavramdır. Meşru müdafaa halinde faile ceza verilmez. Filin meşru savunma altında işlenip işlenmediği çok hassas bir değerlendirme gerektirdiğinden ceza avukatı, bu hususa dair delillerin soruşturma aşamasından itibaren toplanmasını ve meşru savunmanın ispatlanmasını sağlamalıdır.
+Meşru müdafaa (meşru savunma) da adam öldürme suçu açısından avukatın dikkat etmesi gereken bir kavramdır. Meşru müdafaa halinde faile ceza verilmez. Filin meşru savunma altında işlenip işlenmediği çok hassas bir değerlendirme gerektirdiğinden ceza avukatı, bu hususa dair delillerin soruşturma aşamasından itibaren toplanmasını ve meşru savunmanın ispatlanmasını sağlamalıdır.
 
 
 ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/d54eed6bab26f4a1be7b8122bd2b18d63efefc2d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d356f3638792e6a7067 "Ağır Ceza Avukatı")
