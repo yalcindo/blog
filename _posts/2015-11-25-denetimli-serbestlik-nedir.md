@@ -123,6 +123,13 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
+###Denetimli Serbestlik ile İlgili Kanun Tasarısı
+
+Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 25.11.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
+
+Denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda bir çalışma mevcut. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz
+
+
 ###10. Denetimli Serbestlik Yasası Yargıtay Kararları      
 
 ###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
