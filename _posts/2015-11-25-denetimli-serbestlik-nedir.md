@@ -64,12 +64,12 @@ Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonr
 ####c. Hükümlünün İyi Halli Olması Şartı
 
 
-Hükümlünün **denetimli serbestlik yasası**ndan yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığına cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
+Hükümlünün denetimli serbestlik yasasından yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığı, cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
 ####d. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
 
 
-**Denetimli serbestlik uygulaması** ancak hükümlünün talebi halinde uygulanabilir. **Denetimli serbestlik yasası,** kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken **denetimli serbestlik yasası**ndan yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
+**Denetimli serbestlik uygulaması** ancak hükümlünün talebi halinde uygulanabilir. **Denetimli serbestlik yasası,** kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
 
 Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
@@ -78,18 +78,18 @@ Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan son
 ###5. Denetimli Serbestliğe Uymama
 
 
-Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. **Denetimli serbestliğe uymama** halinde kişinin yararlandığı infaz şekli ortadan kalkar. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
+Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. **Denetimli serbestliğe uymama** halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
 ####a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 
 
-Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde **denetimli serbestlik yasası**nı ihlal etmiş sayılır. **Denetimli serbestlik yasası** ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
+Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. **Denetimli serbestlik yasası** ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
 
 ####b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
 
 
 Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde **denetimli serbestlik yasası** ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
-imza atmayan bir kez de görüşmeye gitmeyen kişinin **denetimli serbestlik yasası**nı ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
+imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
 
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 
@@ -105,7 +105,7 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 ###7. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
 
 
-**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak **denetimli serbestlik yasası**nı ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani **denetimli serbestlik** dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
+**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak denetimli serbestlik yasasını ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani **denetimli serbestlik** dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
 
 **Denetimli serbestlik** uygulamasında hükümlüler en çok imza ihlali yapmaktadır. İmzaya gitmemek de önemli bir denetimli serbestlik kuralının ihlalidir. Üst üste iki kez imza ihlali yapanların denetimli serbestlik kararı geri alınır.
 
@@ -115,7 +115,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###8. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
-**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. **Denetimli serbestlik süresi**nin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, **denetimli serbestlik süresi**nin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
+**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. **Denetimli serbestlik süresi**nin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
 
 ###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
