@@ -61,7 +61,7 @@ Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiy
 
 ###3-) Güveni Kötüye Kullanma Suçu ve Haksız Yarar Sağlama
 
-Güveni kötüye kullanılması suçu,  TCK 155. maddede zilyetliğin kötüye kullanılması veya devir olgusunun inkar edilmesi suretiyle “kendisinin veya başkasının yararına olarak”  mal üzerinde tasarrufta bulunulması halinde cezalandırılmaktadır. Her ne kadar maddede geçen “yararına olarak” ifadesi, failin haksız bir yarar elde etmesi gerektiği intibaı uyandırsa da, bu suç tipinde failin somut bir yarar sağlaması şart değildir. Suçun işlenmesiyle somut bir zarar oluşması da şart değildir. Zilyetlik konusu malda zilyetliğin devir amacı dışında tasarrufta bulunulması veya devir olgusunun inkar edilmesi suçun vücut bulması için yeterlidir.
+**Güveni kötüye kullanılması suçu,**  TCK 155. maddede zilyetliğin kötüye kullanılması veya devir olgusunun inkar edilmesi suretiyle “kendisinin veya başkasının yararına olarak”  mal üzerinde tasarrufta bulunulması halinde cezalandırılmaktadır. Her ne kadar maddede geçen “yararına olarak” ifadesi, failin haksız bir yarar elde etmesi gerektiği intibaı uyandırsa da, bu suç tipinde failin somut bir yarar sağlaması şart değildir. Suçun işlenmesiyle somut bir zarar oluşması da şart değildir. Zilyetlik konusu malda zilyetliğin devir amacı dışında tasarrufta bulunulması veya devir olgusunun inkar edilmesi suçun vücut bulması için yeterlidir.
 
 
 
@@ -82,13 +82,13 @@ Vekalet sözleşmelerinde de süreklilik arz eden bir hizmet ilişkisi vardır. 
 
 ###Ticaret İlişkisi Nedeniyle Güveni Kötüye Kullanma Suçu
 
-Ticari güven ilişkisi, ekonomik hayatın sürdürülebilmesi için oldukça önemlidir. TCK, ticari güven ilişkisinin kötüye kullanılmasını suçun nitelikli şekli olarak kabul etmiştir. Şirketler arasında yapılan taşıma sözleşmeleri, eser sözleşmeleri gibi sözleşmeler nedeniyle bir ticari ilişki kurulabilmektedir. Ticari ilişkinin gereği olarak bir mal zilyede teslim edildiğinde malın tasarruf amacı dışında kullanılması ticaret ilişkisi nedeniyle güveni kötüye kullanma suçunu oluşturur. Örneğin, kendisine teslim edilen taşınır malı İstanbul iline götürmesi gereken şirket, başka bir ihtiyacı karşılamak için kullanması halinde ticaret ilişkisi nedeniyle güveni kötüye kullanma suçu oluşur.
+Ticari güven ilişkisi, ekonomik hayatın sürdürülebilmesi için oldukça önemlidir. TCK, ticari güven ilişkisinin kötüye kullanılmasını suçun nitelikli şekli olarak kabul etmiştir. Şirketler arasında yapılan taşıma sözleşmeleri, eser sözleşmeleri gibi sözleşmeler nedeniyle bir ticari ilişki kurulabilmektedir. Ticari ilişkinin gereği olarak bir mal zilyede teslim edildiğinde malın tasarruf amacı dışında kullanılması ticaret ilişkisi nedeniyle güveni kötüye kullanma suçunu oluşturur. Örneğin, kendisine teslim edilen taşınır malı İstanbul iline götürmesi gereken şirket, başka bir ihtiyacı karşılamak için kullanması halinde ticaret ilişkisi nedeniyle **güveni kötüye kullanma suçu** oluşur.
 
 
 
 ###Meslek veya Sanatın İcrası Gereği Kendisine Bırakılan Eşya Üzerinde Güveni Kötüye Kullanma 
 
-Bazı mesleklerin icrası güven ilişkisi çerçevesinde bir malın teslim edilmesine bağlıdır. Mesleği icra eden kişiye teslim edilen mal üzerinde teslim amacı dışında tasarrufta bulunulursa, mesleğin icrası gereği kendisine bırakılan eşya üzerinde  güveni kötüye kullanma suçu oluşur. Örneğin, terzilik, ayakkabı tamirciliği gibi bir mesleği icra eden kişiye teslim edilen bir malın amacı dışında kullanılması halinde bu suç oluşur.
+Bazı mesleklerin icrası güven ilişkisi çerçevesinde bir malın teslim edilmesine bağlıdır. Mesleği icra eden kişiye teslim edilen mal üzerinde teslim amacı dışında tasarrufta bulunulursa, mesleğin icrası gereği kendisine bırakılan eşya üzerinde  **güveni kötüye kullanma suçu** oluşur. Örneğin, terzilik, ayakkabı tamirciliği gibi bir mesleği icra eden kişiye teslim edilen bir malın amacı dışında kullanılması halinde bu suç oluşur.
 
 ###Başkasına Ait Malları Yönetme Yetkisi Çerçevesinde Tevdi ve Teslim Edilen Mal Hakkında Güveni Kötüye Kullanma 
 
@@ -109,7 +109,7 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 [Hırsızlık suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
-Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
+**Güveni kötüye kullanma suçu** ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
 ####2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
@@ -134,7 +134,7 @@ Suçun nitelikli halleri işlenirse, yani hizmet nedeniyle güveni kötüye kull
 
 ###Güveni Kötüye Kullanma Suçu ve Etkin Pişmanlık
 
-[Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, görevi kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
+[Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, **güveni kötüye kullanma suçu** cezası etkin pişmanlık nedeniyle indirilir. 
 
 Etkin pişmanlık, savcılık soruşturması aşamasında gösterilirse güveni kötüye kullanma suçu cezası, 2/3 oranına kadar indirilebilir. Yani, 1 yıl ceza alabilecek fail etkin pişmanlık hükümleri uygulanırsa 4 ay ceza alabilir. Failin etkin pişmanlık hükümlerinden yararlanabilmesi için suça ilişkin bilgi vermesi ve varsa suç ortaklarını, azmettireni, yardım edeni açıklamalı veya mağdurun uğradığı zararı gidermelidir.
 
