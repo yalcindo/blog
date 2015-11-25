@@ -104,7 +104,7 @@ Açık cezaevindeyken firar suçu işleyen hükümlü, kapalı cezaevine iade ed
 
 
 
-###![Disiplin Cezası ve Açık Cezaevine Geçiş](https://camo.githubusercontent.com/864ca908a16d3da653a0cee89a6f98f168b0ab5a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4436586e6e5a2e6a7067 "Disiplin Cezası ve Açık Cezaevine Geçiş")
+###![Disiplin Cezası ve Açık Cezaevine Geçiş Şartları](https://camo.githubusercontent.com/864ca908a16d3da653a0cee89a6f98f168b0ab5a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4436586e6e5a2e6a7067 "Disiplin Cezası ve Açık Cezaevine Geçiş Şartları")
 
 ###Disiplin Cezası ve Açık Cezaevine Ayrılma Hakkı
 
@@ -115,7 +115,7 @@ Disiplin cezası nedeniyle birden fazla kere kapalı cezaevine iade edilen hük�
 
 
 
-Açık cezaevine geçiş hakkı ve [**Denetimli Serbestlik Uygulaması**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) arasında çok sıkı bir ilişki vardır. 01.01.2016 tarihinden itibaren denetimli serbestlikten yararlanmak isteyen hükümlülerin açık cezaevinde 6 ay kalması zorunlu bir koşul haline gelmiştir.
+Açık cezaevine geçiş şartları ve [**Denetimli Serbestlik Uygulaması**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) arasında çok sıkı bir ilişki vardır. 01.01.2016 tarihinden itibaren denetimli serbestlikten yararlanmak isteyen hükümlülerin açık cezaevinde 6 ay kalması zorunlu bir koşul haline gelmiştir.
 
 
 
