@@ -8,7 +8,7 @@ keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukat
 
 ---
 
-![Ağır Ceza Avukatı](https://camo.githubusercontent.com/84f7c716f82f119b4f5c8f4746caa9131cf144ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3945454e4f5a2e6a7067 "Ağır Ceza Avukatı")
+###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/84f7c716f82f119b4f5c8f4746caa9131cf144ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3945454e4f5a2e6a7067 "Ağır Ceza Avukatı")
 
 ##Ağır Ceza  Avukatı ve Savunma
 
@@ -27,7 +27,7 @@ Avukatlık tüm dünyada giderek branşlaşmaktadır. Çoğu ülke, mesleki alan
 
 **Ağır ceza avukatı,** belki de halk arasında en çok kullanılan deyimdir. Mevzuatta ceza avukatı tanımlamasına denk düşen bir düzenleme yoktur. Daha önce de açıkladığımız üzere Türkiye'de avukat ,her türlü davaya girme yetkisine sahiptir. Ağır ceza davaları ceza hukukunun en önemli bölümünü teşkil ettiğinden uygulamada bu davalara giren avukatlara **ceza avukatı** denilmektedir. 
 
-[![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
+###![Ağır Ceza Avukatı](http://i.hizliresim.com/aD9j92.jpg)](https://hizliresim.com/aD9j92 "Ağır Ceza Avukatı")
 
 Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderken mevzuatta halk arasındaki bu adlandırmayı karşılayacak bir düzenleme yapılmamıştır. Bu nedenle, ceza avukatı deyimi adliye pratiği içerisinde doğmuştur. Esasen, **ceza avukatı** olarak nitelenen avukat, mahkemelerde her türlü ceza davasına da bakmaktadır. Örneğin, asliye ceza mahkemesinde yargılanan bir sanık **avukat** ararken çoğu zaman **"ağır ceza avukatı arıyorum"** şeklinde beyanda bulunur. Bu nedenle **ceza avukatı** kavramının tüm ceza davalarına giren avukatı ifade etmek üzere kullanıldığını görmekteyiz.
 
@@ -46,7 +46,7 @@ Günümüzde her meslek gibi avukatlık mesleği de uzmanlaşmaya doğru giderke
 **Ağır Ceza avukatı** aynı davada birden fazla kişiyi savunabilir. Savunduğu kişilerin sayısının önemi yoktur. Aynı anda yüzlerce kişiyi de savunabilir. Önemli olan savunduğu kişiler arasında menfaat çelişkisi olmamasıdır. Yani, avukatın bir kişi hakkında yaptığı savunma, savunduğu diğer kişinin savunma haklarına zarar verebilecek veya onu daha iyi savunmasını engelleyebilecekse iki müvekkil arasında menfaat çelişkisi olduğu kabul edilir. Menfaat çelişkisi oluştuğu durumlarda **avukat** iki müvekkilinden birini savunmayı tercih etmek zorundadır. Aksi takdirde kişilerin savunmaları arasında meydana gelen menfaat çelişkisi nedeniyle savunma hakkı zarar görür.
 
 
-[![Ağır Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ağır Ceza Avukatı")
+###![Ağır Ceza avukatı](http://i.hizliresim.com/3ar9R5.jpg)](https://hizliresim.com/3ar9R5 "Ağır Ceza Avukatı")
 
 
 ###Bir Davada Ceza Avukatının Görevi Ne Zamana Kadar Sürer?
