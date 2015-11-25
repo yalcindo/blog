@@ -55,6 +55,10 @@ Yağma suçu da hukuki ilişkiye dayanan alacağın tahsili amacıyla işlenirse
 
 Suçun meydana getirdiği zararın giderilmesi halinde ceza indirimi yağma suçu açısından da geçerlidir.  Avukat, mağdrun uğradığı zararın giderilmesi halinde bir ceza indirim hali olan etkin pişmanlık hükümleri gereği ceza indirimi yapılmasını savunmalıdır.
 
+Özellikle yağma suçunun yoğun işlendiği şehirlerden biri olan İstanbul ağır ceza avukatı olarak çalışan avukatların, en karmaşık gasp suçu yargılamalarına katıldığı bir kenttir.
+
+###![İstanbul Ağır Ceza Avukatı](https://camo.githubusercontent.com/ff6b5b8724002302067cf5a2e58741936968f8ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6b4c416d52792e6a7067 "İstanbul Ağır Ceza Avukatı")
+
 ###Zimmet Suçu ve Ağır Ceza Avukatı
 
 **Zimmet suçu**, kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. Zimmet suçu, esasen görevi kötüye kullanma suçunun özel bir şeklidir.
