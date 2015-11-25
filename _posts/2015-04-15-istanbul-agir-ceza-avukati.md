@@ -53,17 +53,23 @@ Nitelikli dolandırıcılık suçu, suçun neden olduğu zarar giderildiğinde c
 
 Yağma suçu da hukuki ilişkiye dayanan alacağın tahsili amacıyla işlenirse failin cezasından indirim yapılabilecektir. Alacağın tahsili amacıyla suçun işlenip işlenmediği savunmayı yapan avukat tarafından etraflıca incelenmelidir.
 
-Suçun meydana getirdiği zararın giderilmesi halinde ceza indirimi yağma suçu açısından da geçerlidir.  Ceza avukatı, bir ceza indirim hali olan zararın giderilmesi olgusunun zamanına göre uygun bir ceza indirimi yapılmasını savunmalıdır.
+Suçun meydana getirdiği zararın giderilmesi halinde ceza indirimi yağma suçu açısından da geçerlidir.  Avukat, mağdrun uğradığı zararın giderilmesi halinde bir ceza indirim hali olan etkin pişmanlık hükümleri gereği ceza indirimi yapılmasını savunmalıdır.
 
 ###Zimmet Suçu ve Ağır Ceza Avukatı
 
-**Zimmet suçu,** kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. **Zimmet suçu,** esasen görevi kötüye kullanma suçunun özel bir şeklidir.
+**Zimmet suçu,** kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. Zimmet suçu, esasen görevi kötüye kullanma suçunun özel bir şeklidir.
 
-**Ağır ceza avukatı,** zimmet suçu yargılamasında mutlaka kamu görevlisinin yaptığı işin teknik boyutu konusunda ayrıntılı bilgi almalıdır. Çünkü, kamu görevlisinin yaptığı işin teknik açıdan görev sayılıp sayılmayacağı zimmet suçu yargılamasında oldukça önemlidir. **Ağır ceza avukatı,** zimmet suçunun oluşup oluşmadığı konusunda detaylı bir hesap raporu alınması gereken bir husus tespit ederse, konunun uzman bilirkişilerden savunmayı güçlendirecek özel bilirkişi raporu alarak mahkemeye sunmalıdır.
+**Ağır ceza avukatı,** zimmet suçu yargılamasında mutlaka kamu görevlisinin yaptığı işin teknik boyutu konusunda ayrıntılı bilgi almalıdır. Çünkü, kamu görevlisinin yaptığı işin teknik açıdan görev sayılıp sayılmayacağı zimmet suçu yargılamasında oldukça önemlidir. Zimmet suçunun oluşup oluşmadığı konusunda detaylı bir hesap raporu alınması gereken bir husus tespit edilirse, konunun uzman bilirkişilerden savunmayı güçlendirecek özel bilirkişi raporu alınarak mahkemeye sunulmalıdır.
 
-**Zimmet suçu,** suçun temel şekli itibariyle ceza miktarı 5 yıl ile 12 yıl arasında olan ağır ceza mahkmesinin yetkisine giren suçlardandır. Nitelikli zimmet suçu, 7.5 yıldan 18 yıla kadar hapis czeası gerektiren bir suçtur. Bu nedenle ağır ceza avukatı, zimmet suçu davasında tüm delilleri müvekkiliyle değerlendirerek, görev ilişkisini ve suçun oluşup oluşmadığını tartışmalıdır.
+Zimmet suçu, suçun temel şekli itibariyle ceza miktarı 5 yıl ile 12 yıl arasında olan ağır ceza mahkmesinin yetkisine giren suçlardandır. Nitelikli zimmet suçu, 7.5 yıldan 18 yıla kadar hapis czeası gerektiren bir suçtur. Bu nedenle ağır ceza avukatı, zimmet suçu davasında tüm delilleri müvekkiliyle değerlendirerek, görev ilişkisini ve suçun oluşup oluşmadığını tartışmalıdır.
 
-**Zimmet suçu,** etkin pişmanlık hükümleri uygulanabilecek suçlardandır. Zimmet suçu nedeniyle etkin pişmanlık uygulanıp uygulanmayacağı, hangi aşamada ne kadar indirim yapılabileceği **ağır ceza avukatı** tarafından müvekkile bilgi olarak sunulmalıdır.
+Zimmet suçu, etkin pişmanlık hükümleri uygulanabilecek suçlardandır. Zimmet suçu nedeniyle etkin pişmanlık uygulanıp uygulanmayacağı, hangi aşamada ne kadar indirim yapılabileceği avukat tarafından müvekkile bilgi olarak sunulmalıdır.
+
+###İhaleye Fesat Karıştırma Suçu ve Ağır Ceza Avukatı
+
+**İhaleye fesat karıştırma suçu,** kamu kurumlarının mal veya hizmet alımları ile kiralamalara ilişkin ihalelere fesat karıştırlmasıyla işlenen bir suçtur. Hileli davranışlarla bazı kimselerin ihaleye girmsini engellemek, yeterliliği olmayan kişi veya şirketlerin ihaleye katılımını sağlamak, malların şartnamedeki özelliklerine aykırı bir şekilde değerlendirmey alınması, gizli tutulması gereken bilgilerin saklanmayıp başkalarına aktarılması gibi hareketler ihaleye fesat karıştırma suçu oluşturur. 
+
+
 
 
 
