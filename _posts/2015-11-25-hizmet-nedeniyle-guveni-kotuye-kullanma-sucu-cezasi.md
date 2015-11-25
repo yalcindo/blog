@@ -103,7 +103,7 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 ![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/3a35e1c68ae0e0743df13f590dc5697b06089e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f67566e5867352e6a7067 "Güveni Kötüye Kullanma Suçu")
 
 
-###Güveni Kötüye Kullanma Suçu ile Diğer Bazı Suçların İlişkisi
+###Güveni Kötüye Kullanma Suçu ile Diğer Bazı Suçlar Arasındaki İlişki
 
 ####1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
 
