@@ -12,7 +12,7 @@ keywords: Ağır Ceza avukatı, avukat, ceza avukatı, ceza davası, ceza avukat
 
 **Ağır ceza avukatı**, mevzuatta görev tanımı yapılmış bir avukatlık branşı değildir. Türkiye’de uzmanlaşma olmadığı halde halk arasında ağır ceza mahkemesinin yetkisine giren avukatları tanımlamak için **ağır ceza avukatı** sözü kullanılır. Uygulamada asliye ceza mahkemesinin yetkisine giren davalara giren avukatlar içinde bu deyimin kullanıldığı görülmektedir. Biz de makalemizde halk arasında kullanılan biçimiyle **ağır ceza avukatı** kavramını kullanmayı tercih ediyoruz.
 
-![Ağır Ceza Avukatı](https://camo.githubusercontent.com/5128725cfb59d8a717d6fffeb82260a5c3732af2/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5636446135522e6a7067 "Ağır Ceza Avukatı")
+###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/5128725cfb59d8a717d6fffeb82260a5c3732af2/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5636446135522e6a7067 "Ağır Ceza Avukatı")
 
 ##Ağır Ceza Avukatı ve Savunma
 
@@ -35,7 +35,7 @@ Suçun nitelikli hallerini ispat etmek bazen zor olabilir, ceza avukatı bu hall
 Meşru müdafaa (meşru savunma) da adam öldürme suçu açısından avukatın dikkat etmesi gereken bir kavramdır. Meşru müdafaa halinde faile ceza verilmez. Filin meşru savunma altında işlenip işlenmediği çok hassas bir değerlendirme gerektirdiğinden ceza avukatı, bu hususa dair delillerin soruşturma aşamasından itibaren toplanmasını ve meşru savunmanın ispatlanmasını sağlamalıdır.
 
 
-![Ağır Ceza Avukatı](https://camo.githubusercontent.com/d54eed6bab26f4a1be7b8122bd2b18d63efefc2d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d356f3638792e6a7067 "Ağır Ceza Avukatı")
+###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/d54eed6bab26f4a1be7b8122bd2b18d63efefc2d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d356f3638792e6a7067 "Ağır Ceza Avukatı")
 
 
 ###Nitelikli Dolandırıcılık Suçu ve Ağır Ceza Avukatı
