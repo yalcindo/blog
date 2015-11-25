@@ -119,8 +119,7 @@ Yazımızın ilk paragrafında da anlattığımız üzere Türkiye'de avukatlık
 
 ###Ceza Avukatları, Ağır Ceza Avukatları
 
-
-Hukuk fakültesinde eğitim gören pek çok öğrenci **ceza avukatı** olmak ister. Halbuki ceza avukatları, avukatlığın en zor alanında çalışır. Bu alan, avukatın özel hayatıyla iş hayatının iç içe geçmesine neden olur. İnsanlar bir soruşturmaya muhatap olduklarında bir avukatın hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini de zorunlu kılar.
+Ceza avukatları, avukatlık mesleğinin en zor alanlarından birinde çalışmaktadır. Bu alan, avukatın özel hayatı ve sosyal hatı ile iş hayatı arasında bir düzen ve disiplin oluşturmasını zorunlu kılar. İnsanlar anvak bir soruşturmaya muhatap olduklarında ceza avukatının hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı önlem alarak hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini gerektirir.
 
 
 
