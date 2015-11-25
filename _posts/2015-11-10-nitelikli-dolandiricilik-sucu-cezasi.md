@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: DOLANDIRICILIK SUÇU VE CEZASI
+title: Dolandırıcılık Suçu, Şartları ve Cezası
 category: ceza-hukuku
 googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, florya avukat, bakırköy avukat, istanbul avukat
 keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat
