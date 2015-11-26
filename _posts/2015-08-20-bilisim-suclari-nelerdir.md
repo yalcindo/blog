@@ -100,6 +100,13 @@ Bazı **bilişim suçları** işlendiğinde, sanığa [**etkin pişmanlık neden
 **Bilişim suçları** açısından etkin pişmanlık hükümleri TCK md. 168'deki düzenleme çerçevesinde uygulanacaktır. Buna göre, bilişim suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezanın 2/3'üne kadarı indirilir. **Bilişim suçu** nedeniyle mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse sanığa verilecek ceza 1/2 oranında indirilir.
 
 
+###Bilişim Suçları ve Hükmün Açıklanmasının Geri Bırakılması
+
+[Hükmün açıklanmasının geri bırakılması](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hiçbir hukuki sonuç doğurmaması, belirli bir denetim süresi olumlu geçerse davanın düşürülmesidir.
+
+
+
+
 
 
 
