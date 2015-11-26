@@ -25,7 +25,7 @@ Adli Para Cezası, yalnızca mahkemeler tarafından karar verilebilen **para cez
 
 Adli Para cezası ile İdari Para Cezası arasındaki en büyük fark, adli para cezası ödenmediği takdirde kişinin hapse girmesine neden olabilir. İdari para cezası ödenmediği takdirde hapse çevrilmesi mümkün değildir. Ödenmeyen idari para cezasının tahsili amacıyla  icra takibi başlatılabilir, ama hiçbir şekilde kişinin hapse girmesi söz konusu olamaz.
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Çok Fazla")
+
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
