@@ -102,7 +102,15 @@ Bazı **bilişim suçları** işlendiğinde, sanığa [**etkin pişmanlık neden
 
 ###Bilişim Suçları ve Hükmün Açıklanmasının Geri Bırakılması
 
-[Hükmün açıklanmasının geri bırakılması](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hiçbir hukuki sonuç doğurmaması, belirli bir denetim süresi olumlu geçerse davanın düşürülmesidir.
+[Hükmün açıklanmasının geri bırakılması (HAGB)](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hiçbir hukuki sonuç doğurmaması, sanık hakkındaki denetim süresi olumlu geçerse davanın düşürülmesidir. HAGB kararı sanığa verilen ikinci bir şanstır. Sanık hakkında HAGB kararı verildiğinde sanığın medeni ve siyasi hiçbir hakkına sınırlama gelmediği gibi adli sicil kaydı da olmaz. Bilişim suçları için de HAGB kararı verilebilir.
+
+HAGB uygulaması açısından **bilişim suçları** kanunda öngörülen ceza miktarına göre ayrı ayrı değerlendirilmelidir. Şu bilişim suçları hakkında HAGB kararı verilebilir: 1- Bilişim Sistemine Girme Bilişim Suçu, 2- Sistemi Engelleme, Bozma, Verileri Yok Etme Bilişim Suçu, 3- İkinci maddedeki suçların haksız çıkar sağlama veya banka bilişim sistemi üzerinde işlenmesine dair Bilişim Suçu.
+
+**Bilişim suçları** içerisinde HAGB uygulanması mümkün olmayan tek **bilişim suçu**, Banka  veya Kredi Kartlarının Kötüye Kullanılması Yoluyla Bilişim Suçu'dur.
+
+Ceza miktarı açısından yukarıda açıkladığımız bilişim suçları ile ilgili HAGB kararı verilmesi için varsa mağdurun zararı karşılanmalıdır. Bilişim suçları işlendiğinde çoğu zaman maddi bir zarar da ortaya çıkmaktadır. İşlenen **bilişim suçu** nedeniyle ortaya çıkan zarar, mağdurun mevcut parasal durumunda bir azalma şeklinde olabileceği gibi mağdura ait bilişim sisteminin zarar görmesi şeklinde de olabilir. Her iki halde de işlenen bilişim suçu nedeni ile mağdura doğrudan bir zarar verilmiştir. Mağdura bu şekilde verilen zarar sanık tarafından karşılandıktan sonra **bilişim suçu** ile ilgili HAGB kararı verilebilir.
+
+
 
 
 
