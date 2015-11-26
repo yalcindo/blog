@@ -10,7 +10,7 @@ summary: Adli ve İdari para cezası arasındaki fark kısaca anlatılmıştır.
 
 
 
-
+##Para Cezası Nedir
 
 **Para cezası,** hem ceza hukukunu hem de idare hukukunu ilgilendiren bir kavramdır. Bu nedenle ana hatlarıyla iki tür **para cezası** olduğu söylenebilir : İdari Para Cezası ve Adli Para Cezası.
 
@@ -19,8 +19,13 @@ summary: Adli ve İdari para cezası arasındaki fark kısaca anlatılmıştır.
 
 Adli Para Cezası, yalnızca mahkemeler tarafından karar verilebilen **para cezası** türüdür. Adli Para Cezası ile ilgi ayrıntılı yazımıza şu linkten ulaşabilirsiniz: [***Adli Para Cezası***](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html)
 
+###Para Cezası Ödenmezse Ne olur
+
 
 
 Adli Para cezası ile İdari Para Cezası arasındaki en büyük fark, adli para cezası ödenmediği takdirde kişinin hapse girmesine neden olabilir. İdari para cezası ödenmediği takdirde hapse çevrilmesi mümkün değildir. Ödenmeyen idari para cezasının tahsili amacıyla  icra takibi başlatılabilir, ama hiçbir şekilde kişinin hapse girmesi söz konusu olamaz.
+
+###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Çok Fazla")
+
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
