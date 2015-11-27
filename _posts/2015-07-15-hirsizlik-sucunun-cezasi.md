@@ -45,7 +45,7 @@ Açıkta bırakılmış eşya, mağdurun yaşadığı özel alanlar dışında k
 ###![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
 
 
-###4- Nitelikli Hırsızlık Suçu ve Cezası
+###Nitelikli Hırsızlık Suçu ve Cezası
 
 **Nitelikli hırsızlık suçu** TCK md. 142’de düzenlenmiştir. Buna göre hırsızlık suçunun;
 
@@ -85,7 +85,7 @@ Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu v
 
 Hırsızlık suçu yüz kızartıcı bir suç olduğundan ceza miktarı ne olursa olsun suçun niteliği nedeniyle yargılanan kişinin tüm hayatını etkileyecek bir suçtur. Bu nedenle hırsızlık suçunda savunma bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılmalıdır.
 
-###5- Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
+###Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
 
 *	**Hırsızlık suçu** gece vakti işlenirse faile yukarıda anlattığımız şekilde verilen ceza yarı oranında arttırılır. Yani fail, ister basit hırsızlık suçunu isterse nitelikli hırsızlık suçunu işlesin, suçu gece vakti işlediği takdirde belirlenen temel cezası yarı oranında arttırılır (md. 143)
 
@@ -98,7 +98,7 @@ Hırsızlık suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasın
 
 
 
-###6- Hırsızlık Suçu ve Kullanma Hırsızlığı
+###Hırsızlık Suçu ve Kullanma Hırsızlığı
 
 Bir taşınır malı geçici bir süreyle kullanıp iade etmek amacıyla zilyedinin rızası dışında bulunduğu yerden alan kişi kullanma hırsızlığı suçunu işlemiş olur. **Kullanma hırsızlığı suçu,**  failin malı geçici olarak hakimiyeti altına alıp kullanmasıyla tamamlanmış olur.  
 
