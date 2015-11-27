@@ -113,7 +113,7 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 
 HAGB kararına itirazı incelemeye yetkili mahkemeler şu şekilde belirlenir (CMK md. 268): 
 
-* **1- Asliye Ceza Mahkemesi'nin Hükmettiği HAGB Kararına Yapılan İtirazı İncelemeye Yetkili Mahkeme:** HAGB kararı, Asliye Ceza Mahkemesi tarafından verilmişse itirazı incelemeye yetkili mahkeme o adliyedeki Ağır Ceza Mahkemesi'dir. Aynı adliyede Ağır Ceza Mahkemesi yoksa, Asliye Ceza Mahkemesi'nin yargı çevresinde bulunduğu Ağır Ceza Mahkemesi'ne itiraz edilebilir. 
+* **1- Asliye Ceza Mahkemesi'nin Hükmettiği HAGB Kararına Yapılan İtirazı İncelemeye Yetkili Mahkeme:** HAGB kararı, Asliye Ceza Mahkemesi tarafından verilmişse, hükmün açıklanmasının geri bırakılması kararına itirazı incelemeye yetkili mahkeme, o adliyedeki Ağır Ceza Mahkemesi'dir. Aynı adliyede Ağır Ceza Mahkemesi yoksa, Asliye Ceza Mahkemesi'nin yargı çevresinde bulunduğu Ağır Ceza Mahkemesi'ne itiraz edilebilir. 
  
 Hemen belirtmek gerkir ki, Çocuk Mahkemeleri ve Fikri Sınai Ceza Mahkemeleri, Asliye Ceza Mahkemesi derecesinde kabul edilir.
 
