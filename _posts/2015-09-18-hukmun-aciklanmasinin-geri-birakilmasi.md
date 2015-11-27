@@ -58,7 +58,9 @@ Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında denet
 
 İşlenen suç nedeniyle mağdur veya kamu bir zarara uğramışsa, **hükmün açıklanmasının geri bırakılması**na karar verilebilmesi için uğranılan bu zararın giderilmesi gerekir. Suç nedeniyle oluşan zarardan kasıt maddi zararlardır, manevi zararlar uğranılan zarar kapsamında değildir.  Zararın giderilmesi, zararın konusu olan şey aynen verilebiliyorsa aynen iade yoluyla, aynen iade edilemeyecek bir şey ise tazmin suretiyle giderilmesi yoluyla mümkün olur. Örnek vermek gerekirse, cep telefonu çalınan kişiye cep telefonunun aynen iade edilmesi veya bedelinin ödenmesi **zararın giderilmesi** olarak kabul edilir. Suç nedeniyle oluşan dolaylı zararlar, CMK md. 231’deki  “uğranılan zarar” kapsamına dahil değildir. Örneğin,  işlenen suç nedeniyle mağdurun çalışamaması, iş güç kaybı “uğranılan zarar” kavramına dahil olmayan dolaylı zararlar olarak kabul edilmektedir.
 
-Ceza hakimi, zararı basit bir şekilde araştırmalı ve yaklaşık bir miktar belirlemelidir. Zarar miktarı açık değilse zararın belirlenmesinin tarafların subjektif adaletine terkedilmemesi gerekir.Ceza hakiminin yaptığı bu tespit kesin nitelikte bir tespit olmayıp ayrıca hukuk mahkemesinde tazminat davası açmaya engel değildir.
+Ceza hakimi, zararı basit bir şekilde araştırmalı ve yaklaşık bir miktar belirlemelidir. Zarar miktarı açık değilse zararın belirlenmesinin tarafların subjektif adaletine terkedilmemesi gerekir. Ceza mahkemesi, suç nedeniyle oluşan zararı yaklaşık olarak tespit ederek ceza uyuşmazlığını çözmelidir. Bazen zararın yaklaşık olarak tespit edilmesi dahi hakimin bilgisini aşan bir teknik bilgi gerektirebilir. Bu durumda da mahkeme, zararın yaklaşık olarak tespiti için bilirkişi incelemesi yaptırarak zararı tespit etmelidir.
+
+Ceza hakiminin yaptığı bu tespit kesin nitelikte bir tespit olmayıp ayrıca hukuk mahkemesinde tazminat davası açmaya engel değildir.
 
 Kamunun veya mağdurun uğradığı zararın denetim süresi içinde taksitlerle ödenmesi koşuluyla da **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
 
