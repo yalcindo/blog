@@ -109,7 +109,17 @@ Denetim süresi içinde suç işlemediği halde hakimin belirlediği denetimli s
 ###Hükmün Açıklanmasının Geri Bırakılması Kararına İtiraz Edilebilir mi? HAGB kararı Temyiz Edilebilir mi?
 
 
-**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı yerinde görmezse, **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. Örneğin, İstanbul 3. Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz İstanbul  4. Asliye Ceza Mahkemesi’ne, İstanbul 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz İstanbul 2. Ağır Ceza Mahkemesi'ne incelenmek üzere gönderilir. 
+**Hükmün açıklanmasının geri bırakılması** kararına karşı Yargıtay’a temyiz yoluna gidilemez. Ancak 7 günlük süre içinde **hükmün açıklanmasının geri bırakılmasına itiraz** edilebilir. Kararı veren mahkeme hangisi ise o mahkemeye dilekçe verilerek HAGB kararına itiraz edilebilir. Kararı veren mahkeme itirazı önce kendisi değerlendirir ve itiraz üzerine yapacağı inceleme ile kendi verdiği kararı düzeltebilir. Hagb kararı veren mahkeme, kararına yapılan itirazı yerinde görmezse **itiraz dilekçesi**ni itirazı incelemeye yetkili mahkemeye gönderir. 
+
+HAGB kararına itirazı incelemeye yetkili mahkemeler şu şekilde belirlenir (CMK md. 268): 
+
+* **1- Asliye Ceza Mahkemesi'nin Hükmettiği HAGB Kararına Yapılan İtirazı İncelemeye Yetkili Mahkeme:** HAGB kararı, Asliye Ceza Mahkemesi tarafından verilmişse itirazı incelemeye yetkili mahkeme o adliyedeki Ağır Ceza Mahkemesi'dir. Aynı adliyede Ağır Ceza Mahkemesi yoksa, Asliye Ceza Mahkemesi'nin yargı çevresinde bulunduğu Ağır Ceza Mahkemesi'ne itiraz edilebilir. 
+ 
+Hemen belirtmek gerkir ki, Çocuk Mahkemeleri ve Fikri Sınai Ceza Mahkemeleri, Asliye Ceza Mahkemesi derecesinde kabul edilir.
+
+* ***Asliye Ceza Mahkemesi'nin HAGB Kararına İtirazı İncelemeye Yetkili Mahkemeler İçin Örnekler***:  Örnek-1: İstanbul Asliye Ceza Mahkemesi’nin verdiği HAGB kararına yapılan itiraz, İstanbul Ağır Ceza Mahkemesi’ne yapılmalıdır. Örnek 2: Büyükçekmece Asliye Ceza Mahkemesi'nin verdiği HAGB kararına itirazı incelemeye yetkili mahkeme, Bakırköy Ağır Ceza Mahkemesi'dir. Çünkü, Büyükçekmece Adliyesi'nde Ağır Ceza Mahkemesi yoktur, bu nedenle Büyükçekmece Adliyesi'nin yargı çevresinde bulunduğu Bakırköy Ağır Ceza Mahkemesi, HAGB kararına yapılan itirazı incelemeye yetkilidir. 
+
+* **2- Ağır Ceza Mahkemesi'nin Hükmettiği HAGB Kararına İtiraz:** Ağır Ceza Mahkemesi'nin hükmettiği HAGB karına itirazı incelemeye yetkili mahkeme, kararı veren mahkemeyi sıra numarası olarak izleyen Ağır Ceza Mahkemesi'dir. Örneğin, Bakırköy 1. Ağır Ceza Mahkemesi’nin verdiği HAGB kararına karşı yapılan itiraz, Bakırköy 2. Ağır Ceza Mahkemesi tarafından incelenir. HAGB kararı veren Ağır Ceza Mahkemesi o adliyedeki tek Ağır Ceza Mahkemesi ise, HAGB karına itirazı incelemeye yetkili mahkeme  o adliyeye en yakın Ağır Ceza Mahkemesi'dir. Örneğin, Silivri Ağır Ceza Mahkemesi'nin verdiği HAGB kararına karşı itirazı incelemeye yetkili mahkeme Bakırköy Ağır Ceza Mahkemesi'dir. Silivri Adliyesinde tek Ağır Ceza Mahkemesi mevcut olduğundan en yakın Ağır Ceza Mahkemesi Bakırköy Adliyesi'ndedir.
 
 Yargıtay kararlarına göre kendisine **itiraz dilekçesi**ni incelemek üzere dava dosyası gönderilen mahkeme, itiraz edilen kararı hem usul  hem esas açısından denetimden geçirecektir.
 
@@ -143,10 +153,8 @@ Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barando
 ---
 
 * Suç nedeniyle oluşan zarar tam olarak bilinmiyorsa, hakim zararı yaklaşık olarak belirleyip sanığın belirlenen zarar miktarını ödeyip ödememesine göre, sanığın **HAGB** kararı verilmesi talebi hakkında karar vermelidir. Bazen zararın tespiti, hakimin genel bilgisini aşan teknik inceleme gerektirebilir. Bu durumda hakim, yaklaşık zararın tespit edilmesi için bilirkişi incelemesi yaptırmalı, sonucuna göre **hükmün açıklanmasının geri bırakılması kararı** verip vermeyeceğini kararlaştırmalıdır (Yargıtay Ceza Genel Kurulu - Esas No: 2008/11-250, Karar No: 2009/13; Yargıtay 2. Ceza Dairesi - Esas No:2009/2119, Karar No: 2009/17270).  
-*
+
 * Sanığın önceki mahkumiyetine esas sabıka kaydının (adli sicil kaydının) adli sicil kaydından silinmesi koşulları oluşmuşsa, artık sanığın sabıkası olduğu gerekçesiyle, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesi hukuka aykırıdır. Önceki mahkumiyete esas adli sicil kaydının silinmesi koşulları oluşmuşsa, sabıka kaydında mahkumiyet bilgilerinin yer almasının önemi yoktur, sanık hakkında HAGB kararı verilmelidir (Yargıtay Ceza Genel Kurulu - Esas No: 2011/3-479, Karar No: 2012/145).
-
-
 
 
 * Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar).
