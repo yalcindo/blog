@@ -54,7 +54,7 @@ Taksirle işlenen suçlar bakımından sanık hakkında önceden kesinleşmiş m
 
 Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında denetimli serbestlik tedbiri varsa, **HAGB** kurumundan faydalanabilir. Örneğin, sanığın adli sicil kaydında uyuşturucu madde kullanma suçundan tedavi ve denetimli serbestlik tedbiri yer alsa bile, bu tedbir hukuki niteliği itibarıyle ceza olmadığı için sanık hakkında HAGB kararı verilebilir.
 
-* ####(b)	Suç Nedeniyle Uğranılan Zararın Giderilmesi ve Hükmün Açıklanmasının Geri Bırakılması
+####(b)	Suç Nedeniyle Uğranılan Zararın Giderilmesi ve Hükmün Açıklanmasının Geri Bırakılması
 
 İşlenen suç nedeniyle mağdur veya kamu bir zarara uğramışsa, **hükmün açıklanmasının geri bırakılması**na karar verilebilmesi için uğranılan bu zararın giderilmesi gerekir. Suç nedeniyle oluşan zarardan kasıt maddi zararlardır, manevi zararlar uğranılan zarar kapsamında değildir.  Zararın giderilmesi, zararın konusu olan şey aynen verilebiliyorsa aynen iade yoluyla, aynen iade edilemeyecek bir şey ise tazmin suretiyle giderilmesi yoluyla mümkün olur. Örnek vermek gerekirse, cep telefonu çalınan kişiye cep telefonunun aynen iade edilmesi veya bedelinin ödenmesi **zararın giderilmesi** olarak kabul edilir. Suç nedeniyle oluşan dolaylı zararlar, CMK md. 231’deki  “uğranılan zarar” kapsamına dahil değildir. Örneğin,  işlenen suç nedeniyle mağdurun çalışamaması, iş güç kaybı “uğranılan zarar” kavramına dahil olmayan dolaylı zararlar olarak kabul edilmektedir.
 
