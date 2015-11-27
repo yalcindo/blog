@@ -142,7 +142,14 @@ Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barando
 
 ---
 
-* Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar)
+* Suç nedeniyle oluşan zarar tam olarak bilinmiyorsa, hakim zararı yaklaşık olarak belirleyip sanığın belirlenen zarar miktarını ödeyip ödememesine göre, sanığın **HAGB** kararı verilmesi talebi hakkında karar vermelidir. Bazen zararın tespiti, hakimin genel bilgisini aşan teknik inceleme gerektirebilir. Bu durumda hakim, yaklaşık zararın tespit edilmesi için bilirkişi incelemesi yaptırmalı, sonucuna göre **hükmün açıklanmasının geri bırakılması kararı** verip vermeyeceğini kararlaştırmalıdır (Yargıtay Ceza Genel Kurulu - Esas No: 2008/11-250, Karar No: 2009/13; Yargıtay 2. Ceza Dairesi - Esas No:2009/2119, Karar No: 2009/17270).  
+*
+* Sanığın önceki mahkumiyetine esas sabıka kaydının (adli sicil kaydının) adli sicil kaydından silinmesi koşulları oluşmuşsa, artık sanığın sabıkası olduğu gerekçesiyle, sanık hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmemesi hukuka aykırıdır. Önceki mahkumiyete esas adli sicil kaydının silinmesi koşulları oluşmuşsa, sabıka kaydında mahkumiyet bilgilerinin yer almasının önemi yoktur, sanık hakkında HAGB kararı verilmelidir (Yargıtay Ceza Genel Kurulu - Esas No: 2011/3-479, Karar No: 2012/145).
+
+
+
+
+* Denetim süresi içerisinde yeni bir suç işlenmesi halinde açıklanması geri bırakılan hüküm açıklanır. Yeni bir suç işlenmesi nedeniyle **hükmün açıklanmasının geri bırakılması** kararının kaldırılarak hükmün açıklanmasına karar verildiğinde, bu yeni verilen hükümde ceza seçenek yaptırımlara çevrilemez ve ertelenemez. Cezanın ertelenmesi veya seçenek yaptırımlara çevrilmesi ihtimali, sadece sanığın denetim süresi içinde suç işlememesi ancak belirlenen yükümlülüklere aykırı davranması halinde mümkündür (Yargıtay 7. Ceza Dairesi - 2015/1330 / Yargıtay 2. czea Dairesi -2014/25119 karar).
  
 * Ceza Muhakamesi Kanunu (CMK) 231/6-c maddesi gereği giderilmesi gereken zarar basit bir yöntemle tespit edilmesi mümkün olan zarardır. Mevcut olayda vergi inceleme raporu ve benzeri delillerle ortaya çıkan kamunun uğradığı zararı ödeyip ödemeyecekleri sanıklardan sorulmalı, ödedikleri takdirde **HAGB** kararı verilmelidir (Yargıtay 5. Ceza Dairesi - 2014/10013 karar).
 
@@ -155,6 +162,8 @@ Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barando
 * Tehdit ve hakaret suçunun somut olarak meydana getirdiği maddi bir zarar somut olayda mevcut değildir. Bu nedenle sanıktan zararın giderilmesini istemek mümkün değildir. **Hükmün açıklanmasının geri bırakılması**na karar verilmelidir (Yargıtay 5. Ceza Dairesi -  2014/8473).
 
 * Uyuşturucu madde kullanma suçu nedeniyle sanık hakkında daha önce denetimli serbestlik ve tedavi tedbiri uygulanmamışsa, hakkında **hükmün açıklanmasının geri bırakılması** kararı verilmesi zorunludur (Yargıtay 10 Ceza Dairesi - 2014/5249 karar).
+
+
 
 ##Hükmün Açıklanmasının Geri Bırakılmasının Avantajları
 
