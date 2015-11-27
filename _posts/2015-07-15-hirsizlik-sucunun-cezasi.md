@@ -11,15 +11,19 @@ summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma H�
 
 **Hırsızlık suçu**, başkasının zilyedi olduğu taşınır bir malı zilyedin rızası olmadığı halde kendisine veya başkasına yarar sağlamak amacıyla bulunduğu yerden alınmasıyla meydana gelir.  **Hırsızlık suçu**, malvarlığı değerlerine karşı  ve ekonomik bir çıkar elde etmek amacıyla işlenen suçlardandır.
 
-##Hırsızlık Suçunun Unsurları
+###![Hırsızlık Suçu](https://camo.githubusercontent.com/8ffe70e1ab7026792508139ef654fa3087175ba8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a6c596137422e6a7067 "Hırsızlık Suçu")
+
+
+##Hırsızlık Suçunun Şartları ve Unsurları
 
 **Hırsızlık suçu** ile fail mağdurun malvarlığını azaltır veya tamamen elinden alır. Malvarlığına karşı işlenen bir suç olduğundan “Malvarlığına Karşı Suçlar”  bölümünde TCK’nın 141-147. maddeleri arasında düzenlenmiştir. **Hırsızlık suçu** en çok işlenen ekonomik suçlardan olduğundan nitelikli hallerinde fiil sayısı en çok olan suçlardan biridir. 
 
 
 
-###![Hırsızlık Suçu](https://camo.githubusercontent.com/8ffe70e1ab7026792508139ef654fa3087175ba8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a6c596137422e6a7067 "Hırsızlık Suçu")
 
-**Hırsızlık suçu**nun unsurları ve şartları şunlardır:
+
+**Hırsızlık suçunun unsurları ve şartları şunlardır:**
+
 
 ###1- Hırsızlık Suçunun Konusu Taşınır Maldır
 
