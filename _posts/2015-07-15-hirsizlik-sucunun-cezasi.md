@@ -85,7 +85,7 @@ Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu v
 
 Hırsızlık suçu yüz kızartıcı bir suç olduğundan ceza miktarı ne olursa olsun suçun niteliği nedeniyle yargılanan kişinin tüm hayatını etkileyecek bir suçtur. Bu nedenle hırsızlık suçunda savunma bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılmalıdır.
 
-###![Hırsızlık Suçu](https://camo.githubusercontent.com/b6e2b67c9862b4be19769d9eea73bac26c63cbfa/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3971455156382e6a7067 "Hırsızlık Suçu")
+###![Hırsızlık Suçu](https://camo.githubusercontent.com/70ca3f2a3477573d7d68d6a495d0f588d9687b00/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304e4c3142572e6a7067 "Hırsızlık Suçu")
 
 ###Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
 
