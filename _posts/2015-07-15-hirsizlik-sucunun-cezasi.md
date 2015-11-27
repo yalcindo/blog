@@ -17,7 +17,7 @@ summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma H�
 
 
 
-###![Hırsızlık Suçu](https://camo.githubusercontent.com/3aadaf0ee3bd424a4f1835749a39d25765369a3c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f44394d30796c2e6a7067 "Hırsızlık Suçu")
+###![Hırsızlık Suçu](https://camo.githubusercontent.com/8ffe70e1ab7026792508139ef654fa3087175ba8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a6c596137422e6a7067 "Hırsızlık Suçu")
 
 **Hırsızlık suçu**nun unsurları ve şartları şunlardır:
 
