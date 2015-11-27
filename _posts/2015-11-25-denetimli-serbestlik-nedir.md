@@ -115,7 +115,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###8. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
-**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olacağı söylentileriyle sıkça karşılaşıyoruz. **Denetimli serbestlik süresi**nin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
+**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olması gerektiği yönünde tartışmalar yürütülmektedir. **Denetimli serbestlik süresi**nin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
 
 ###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
@@ -127,10 +127,10 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 25.11.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
 
-Denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda bir çalışma mevcut. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz.
+Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda düzenlemeler yapılacaktır. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz.
 
 
-###10. Denetimli Serbestlik Yasası Yargıtay Kararları      
+###Denetimli Serbestlik Yasası Yargıtay Kararları      
 
 ###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
 
