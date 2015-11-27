@@ -23,21 +23,26 @@ Fail, mağdurun kendisine dönük haksız bir fiil gerçekleştireceği zannıyl
 
 ###2- Tahrik Oluşturan Fiil  “Haksız Bir Fiil” Olmalı
 
-Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklanıyorsa fail **haksız tahrik** nedeniyle ceza indiriminden yararlanamaz.  Fiilin haksız bir fiil olup olmadığı her somut olayda ayrı ayrı değerlendirilmelidir. Örnek vermek gerekirse, İstanbul’da komşu olan Ahmet  ve Ali adında iki komşu olduğunu kabul edelim.  Ahmet,  çöpü kapı önüne koyan komşusunu akşam vakti geç saatlerde uyarmış, komşusu Ali de Ahmet’in geç saatte kapısına gelmesine sinirlenerek yaşanan tartışmada Ali’yi bıçaklamıştır. Bu vakıada Ahmet’in fiili, apartman kurallarına aykırı davranan komşusu Ali’yi uyarmaktan ibarettir.  Saatin geç olması bir görgü kuralının ihlalidir. Geç vakitte kapının çalınması gerekçe gösterilerek ceza indiriminden yararlanılamaz. Çünkü fiil haksız bir fiil değildir.
+Mağdur tarafından faile karşı ika edilen fiil haklı bir nedenden kaynaklanıyorsa fail **haksız tahrik** nedeniyle ceza indiriminden yararlanamaz.  Fiilin haksız bir fiil olup olmadığı her somut olayda ayrı ayrı değerlendirilmelidir. Örnek vermek gerekirse, İstanbul’da komşu olan Ahmet  ve Ali adında iki komşu olduğunu kabul edelim.  Ahmet,  çöpü kapı önüne koyan komşusunu akşam vakti geç saatlerde uyarmış, komşusu Ali de Ahmet’in geç saatte kapısına gelmesine sinirlenerek yaşanan tartışmada Ali’yi bıçaklamıştır. Bu vakıada Ahmet’in fiili, apartman kurallarına aykırı davranan komşusu Ali’yi uyarmaktan ibarettir.  Saatin geç olması bir görgü kuralının ihlalidir. Geç vakitte kapının çalınması gerekçe gösterilerek ceza indiriminden yararlanılamaz. Çünkü fiil, haksız bir fiil değildir.
 
-###3-  Fail Öfke veya Şiddetli Elemin Etkisi Altında Kalmalı
+###3-  Fail, Öfke veya Şiddetli Elemin Etkisi Altında Kalmalı
 
 **Haksız tahrik** altında hukuka aykırı bir fiil işleyen fail öfkeyle veya şiddetli bir elemin tesiriyle  hareket etmelidir. Failin öfkelenip öfkelenmediği veya şiddetli bir elemin tesiri altında hareket edip etmediği işlediği fiilden önceki davranışlarından anlaşılabilir. Örneğin, bir kişi kendisine küfrederken karşı tarafı sakinleştiren, ama bir hafta sonra ticari bir anlaşmazlık nedeniyle mağduru bıçaklayan kişi ceza indiriminden yararlanamaz.
 
-###4- İşlenen Suç Öfke ve Elemin Oluşturduğu Ruhi Durumun Sonucu Olmalı
+###4- İşlenen Suç, Öfke ve Elemin Oluşturduğu Ruhi Durumun Sonucu Olmalı
 
 Öfke veya eleme neden olan haksız fiil, failde ruhsal bir değişiklik yaratır. Failin ruh hali haksız fiilden önceki duruma göre oldukça değişmelidir.  Fail bir ruhsal tepki olarak mağdura karşı bir suç işlemelidir. Fail ruhsal bir tepkiyle değil de soğukkanlı bir şekilde mağdura karşı bir suç işlerse **haksız tahrik** hükümlerinden istifade edemez. Örneğin,  Bakırköy’de yaşayan Erkan, Büyükçekmece’de yaşayan Mehmet’i aralarındaki bir anlaşmazlık nedeniyle öldürmeyi 1 aydan beri planlamış, olay günü Bakırköy’den Büyükçekmece’ye kadar silahlı bir şekilde gelmiş, mağdurun eve dönmesini saatlerce beklemiş, mağdur gelince de kapıda mağdurla tartışmış ve mağdur kendisine hakaret etmiştir. Hakaretten sonra mağduru öldürmüştür. Erkan’ın mağdura karşı işlediği fiil hakaretten kaynaklanan ruhi bir tepki olarak işlenmiş değildir. Fiil tasarlanmıştır, ruhsal bir tepkiyle işlenmediği için de haksız tahrik hükümleri uygulanamaz. 
 
-###5- Haksız Tahrik Teşkil Eden Fiil Mağdurdan Çıkmalıdır
+###5- Haksız Tahrik İndirimi Uygulanabilmesi İçin İlk Haksız Hareket Mağdurdan Çıkmalıdır
 
-**Haksız tahrik** indiriminin uygulanması açsısından temel kural, ilk haksız hareketin mağdurdan sadır olmasıdır. Failin ceza indiriminden yararlanabilmesi için haksız tahrik teşkil eden fiilin bizzat mağdurdan kaynaklanması gerekir. Üçüncü kişilerin haksız fiili nedeniyle mağdura karşı bir suç işleyen fail haksız tahrik hükümlerinden istifade edemez. Örneğin, A şahsının kendisine “şerefsiz”  diyerek küfür etmesine sinirlenen B’nin, elindeki bıçakla A’nın kardeşini bıçaklaması halinde **haksız tahrik** hükümleri B hakkında uygulanamaz. Çünkü mağdurun kendisine karşı haksız bir fiili yoktur.
+ Haksız tahrik uygulamasında ilk haksız hareketin hangi taraftan kaynaklandığı çok önemlidir. İlk haksız hareketi fail kendisi yapmışsa, ceza indiriminden yararlanamaz. **Haksız tahrik** uygulamasında temel kural, ilk haksız hareketin mağdurdan sadır olmasıdır. Örneğin; Mehmet bir konu üzerine konuşurlerken aniden sinirlenmiş ve arkadaşı Ali'ye yumruk atmıştır. Yumruğa sinirlenen Ali de karşılık vererek Mehmet'e yumruk atmıştır. Mehmet, kendisine karşılık verilmesine sinirlenerek Ali'yi silahla vurarak öldürmüş ve hakkında kasten  adam öldürme suçu nededeniyle dava açılmıştır. Bu somut olayda, adam öldürme suçu nedeniyle yargılanan Mehmet'in haksız tahrik indirimi hükümlerinden yararlanması mümkün değildir. Çünkü, ilk yumruğu atarak ilk haksız harekete kendisi neden olmuştur.
+ 
+Bir kavga sırasında ilk haksız hareketin hangi taraftan kaynaklandığı şüpheye yer bırakmayacak bir şekilde anlaşılamıyorsa, "şüpheden sanık yararlanır" ilkesi gereği, bu durum sanık lehine yorumlanarak TCK 29. maddede düzenlenen haksız tahrik indirimi hükümleri sanık hakkında uygulanır (Yargıtay Ceza Genel Kurulu -  Esas No: 2002/4-238, Karar No: 367, Tarih: 22.10.2002). 
+ 
+ 
+Failin ceza indiriminden yararlanabilmesi için haksız tahrik teşkil eden fiilin bizzat mağdurdan kaynaklanması gerekir. Üçüncü kişilerin haksız fiili nedeniyle mağdura karşı bir suç işleyen fail haksız tahrik hükümlerinden istifade edemez. Örneğin, A şahsının kendisine “şerefsiz”  diyerek küfür etmesine sinirlenen B’nin, elindeki bıçakla A’nın kardeşini bıçaklaması halinde **haksız tahrik** hükümleri B hakkında uygulanamaz. Çünkü mağdurun kendisine karşı haksız bir fiili yoktur.
 
-Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan haksız fiilin mağdurdan sadır etmiş olmasıdır.
+Mağdurun ilk haksız hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan ilk haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/881b019b5f094969d03fdde9dc859e3d25af07e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f76524c36576d2e6a7067 "Ceza Avukatı")
@@ -45,7 +50,7 @@ Mağdurun hareketi faile veya failin yakınlarına yönelik olabilir. Önemli ol
 
 
 
-##Haksız Tahrikte Dengenin Bozulması
+###Haksız Tahrikte Dengenin Bozulması
 
 Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız tahrikte dengenin bozulup bozulmadığı incelenmelidir. Fail, haksız bir eylemle faili tahrik ettikten sonra karşılaştığı tepkiden dolayı tahrik altında kaldığını savunamaz. Ancak failin karşılaştığı tepki, kendi gerçekleştirdiği eylemle karşılaştırıldığında aşırı bir hal almışsa, başka bir deyişle tepkide açık bir oransızlık varsa, bu tepkinin edilmelidir. Örneğin,  A şahsı, B şahsına küfür etmiş, B’de kendisine küfreden  A’yı bıçaklamış, A da belinde bulunan silahla B’yi öldürmüştür. Bu somut vakıada A şahsı ilk haksız hareketi küfür ederek yapmış, B şahsı A’yı bıçaklayarak haksız tahrikte dengeyi bozmuş, A şahsı da kendisini aşırı bir tepkiyle bıçaklayan B’yi **haksız tahrik** altında öldürmüştür. Bu durumda haksız tahrikte denge bozulduğu için ilk haksız hareket  A’dan kaynaklansa bile A **haksız tahrik** hükümlerinden yararlanır.
 
@@ -60,11 +65,11 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. TCK, [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) açısından haksız tahrik kurumunu özel bir hükümle düzenlemiştir.
 
 
-##Haksız Tahrik ve Meşru Müdafaa İlişkisi
+###Haksız Tahrik ve Meşru Müdafaa İlişkisi
 
 **Ceza avukatı,** mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoksa meşru müdafaa savunması mı yapılması gerektiğini dikkatli bir şekilde analiz etmelidir. Çünkü, meşru müdafaa olarak düşünülen bir fiil, ulaştığı boyut itibariyle haksız tahrik derecesinde kalabilir. [**Ceza Hukukunda Meşru Müdafaa**](http://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) hali, failin cezalandırılmaması sonucunu doğurur. Mağdura karşı işlenen fiilin meşru müdafaa amacıyla mı yoksa haksız tahrik altında mı işlendiği, faile ceza verilip verilmeyeceğini, ceza verilecekse hangi miktarda bir ceza verileceğini tayin edecektir.
 
-##Haksız Tahrik İndirimi Yargıtay Kararları  
+###Haksız Tahrik İndirimi Yargıtay Kararları  
 
 ###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Haksız Tahrik Yargıtay Kararları")
 
