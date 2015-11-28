@@ -1,5 +1,5 @@
 permalink: /:categories/:title.html
-url: "http://barandogan.av.tr"
+url: "https://barandogan.av.tr"
 baseurl: /blog
 full_name: "Avukat Baran Doğan"
 first_name: "Baran"
@@ -13,6 +13,7 @@ aboutme: "Marmara Üniversitesi Hukuk Fakültesi’nde devam ederek 2000 yılın
 twitter: "baran_dogan"
 facebook: "Avukatbarandogan"
 linkined_url: "https://www.linkedin.com/pub/baran-dogan/99/851/710"
+enforce_ssl: "barandogan.av.tr"
 exclude:
 - README.md
 - Rakefile
