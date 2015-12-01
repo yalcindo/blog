@@ -84,7 +84,7 @@ Zimmet suçu istatistiksel açıdan en çok Türkiye'nin İstanbul kentinde işl
 
 ###Bilişim Suçları ve Ağır Ceza Avukatı
 
-[**Bilişim suçları**](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), internet, bilgisayar, cep telefonu, banka pos cihazları vb. gibi teknolojik araçlar kullanılarak suç işlenmesidir. Bilişim suçları, şu suçlardan oluşmaktadır: 1- Bilişim sistemine girme bilişim suçu, 2- Sistemi Engelleme, bozma, verileri yok etme veya değiştirme bilişim suçları, 3- Haksız çıkar sağlanan bilişim suçları, 4- Banka veya kredi kurumlarının araç olarak kullanılması suretiyle bilişim suçları, 5- Banka kartları veya kredi kartlarının kötüye kullanılması suretiyle bilişim suçu.
+[**Bilişim suçları**](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), bilgisayar, cep telefonu, banka pos cihazları vb. gibi teknolojik araçlar veya internet kullanılarak suç işlenmesiyle oluşur. Bilişim suçları, şu suçlardan ibarettir: 1- Bilişim sistemine girme bilişim suçu, 2- Sistemi Engelleme, bozma, verileri yok etme veya değiştirme bilişim suçları, 3- Haksız çıkar sağlanan bilişim suçları, 4- Banka veya kredi kurumlarının araç olarak kullanılması suretiyle bilişim suçları, 5- Banka kartları veya kredi kartlarının kötüye kullanılması suretiyle bilişim suçu.
 
 Görüldüğü üzere bilişim suçları çok çeşitli biçimlerde işlenebilen suçlardandır. İnternetin sosyal hayatın bir parçası haline gelmesi sebebiyle, insanlar internet aracılığıyla her türlü iletişimi gerçekleştirmektedir. İnsanların sosyal hayatının bir bölümünün internete taşınması (alışveriş, sohbet, oyun vs.), bu ortamlarda bilişim suçlarının da işlenmesine neden olmaktadır.
 
