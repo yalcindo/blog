@@ -82,7 +82,11 @@ Zimmet suçu istatistiksel açıdan en çok Türkiye'nin İstanbul kentinde işl
 **Ağır ceza avukatı**, ihaleye fesat karıştırma neticesinin doğmasına neden olan hareketleri tek tek değerlendirmeli, yargılama konusu fiilin TCK  235. maddede sınırlı bir şekilde sayılan hareketlerden olup olmadığını mahkemede tartışmalıdır. 
 
 
+###Bilişim Suçları ve Ağır Ceza Avukatı
 
+Bilişim suçları, internet, bilgisayar, cep telefonu, banka pos cihazları vb. gibi teknolojik araçlar kullanılarak suç işlenmesidir. Bilişim suçları, şu suçlardan oluşmaktadır: 1- Bilişim sistemine girme bilişim suçu, 2- Sistemi Engelleme, bozma, verileri yok etme veya değiştirme bilişim suçları, 3- Haksız çıkar sağlanan bilişim suçları, 4- Banka veya kredi kurumlarının araç olarak kullanılması suretiyle bilişim suçları, 5- Banka kartları veya kredi kartlarının kötüye kullanılması suretiyle bilişim suçu.
+
+Ağır ceza avukatı, bilişim suçları nedeniyle yargılama yapılan bir davada ihtiyaç duyduğunda mutlaka teknik danışmanlık almalıdır. Bilişim suçları, özel soruşturma ve kovuşturma yöntemleri izlenerek açığa çıkartılan suçlardandır. Özellikle suçun ortaya çıkartılması amacıyla bilirkişiler vasıtasıyla teknik incelemeler yapılarak elde edilen veriler sayesinde faillere ulaşılmaktadır. teknik verilerin yetersiz olduğu durumlarda ceza muhakemesi hukukunun klasik delil yöntemleri de suçu ispat edebilmektedir. Örneğin, faili teknik incelemelerle tespit edilemeyen bir bilişim suçu, bazen tanık beyanlarıyla dahi ispatlanabilmektedir. 
 
 
 
