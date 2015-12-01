@@ -49,14 +49,14 @@ Yargıtay bir kararında eşlerden birinin de diğerine ait facebook adresinin �
 
 
 
-###3- İkinci Fıkradaki Bilişim Suçlarının, Banka, Kredi Kurumu veya Kamu Kurumuna Ait Bilişim Sistemi Üzerinde İşlenmesi (TCK md. 244/3)
+###3- Banka, Kredi Kurumu veya Kamu Kurumuna Ait Bilişim Sistemi Üzerinde İşlenen Bilişim Suçları (TCK md. 244/3)
 ---
 
 ###![Bilişim Suçları](https://camo.githubusercontent.com/4caa405f9cacec2e5c8d0bd4b7ef50ce3beb8d77/687474703a2f2f692e68697a6c69726573696d2e636f6d2f79526c426f302e6a7067 "Bilişim suçları")
 
 Sistemi engelleme, bozma, verileri yok etme veya değiştirme bilişim suçlarının, bir banka veya kredi kurumuna ya da bir kamu kurum veya kuruluşuna ait bilişim sistemi üzerinde işlenmesi halinde, bu tür **bilişim suçları** ile ilgili TCK md. 244/3 hükümleri uygulanır.
 
-Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka veya kamu kurumunun bilişim sistemi üzerinden gerçekleştirilmesinin daha ağır şekilde cezalandırılması öngörülmüştür. Bu fıkra bilişim suçunun nitelikli hali olarak kabul edildiğinden **bilişim suçu**nun ikinci fıkradaki cezası yarı oranında arttırılarak ceza 9 aydan 4,5 yıla kadar hapis cezası olmaktadır.
+Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka veya kamu kurumunun bilişim sistemi üzerinden gerçekleştirilmesi TCK md. 244/3 ile ayrıca daha ağır şekilde cezalandırılması öngörülmüştür. Bu fıkra bilişim suçunun nitelikli hali olarak kabul edildiğinden **bilişim suçu**nun ikinci fıkradaki cezası yarı oranında arttırılarak ceza 9 aydan 4,5 yıla kadar hapis cezası olmaktadır.
 
 Şüphelinin amacı sistemin işleyişini engellemek veya verileri değiştirmek veya yok etmekse bu **bilişim suçu** hükümleri uygulanacaktır. Yoksa şüpheli aynı zamanda kendisi için haksız bir kazanç elde etmek niyetindeyse bu fıkra değil, aşağıda değineceğimiz TCK md. 244/4'de düzenlenen bilişim suçu hükümleri uygulanacaktır. 
 
@@ -64,7 +64,7 @@ Yukarıda ikinci fıkrada anlattığımız **bilişim suçu** fiillerin banka ve
 
 Yargıtay, bir internet sitesi üzerinden araç satışı için kaparo alan şahsın gerçekten aracın sahibi olmaması karşısında işlenen suçu **bilişim suçu** değil, TCK 158/f’de tanımlanan nitelikli dolandırıcılık suçu olarak kabul etmiştir.
 
-###4- İkinci Fıkradaki Bilişim Suçları Yoluyla Haksız Çıkar Sağlamak (TCK md. 244/4)
+###4- Haksız Çıkar Sağlama Yoluyla Bilişim Suçları (TCK md. 244/4)
 ---
 
 Sistemi engelleme, verileri değiştirme veya yok etme gibi fiillerle fail kendisine veya başkasına haksız bir çıkar sağlıyorsa bu **bilişim suçu** kapsamında cezalandırılacaktır. Bu fıkra kapsamındaki bilişim suçunun cezası 2 yıldan 6 yıla kadar hapis ve 5 bin güne kadar adli para cezasıdır. Yani, fail hem hapis cezasıyla hem de adli para cezasıyla aynı anda cezalandırılmaktadır.
