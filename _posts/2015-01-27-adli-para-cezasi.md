@@ -33,7 +33,7 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört farklı yöntemle adl
 
 Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, hakaret gibi) hükmedilen hapis cezasının miktarı 1 yıl veya altındaysa, hapis cezası **adli para cezası**na çevrilebilir. Taksirle işlenen suçlarda (örn, trafik kazası veya iş kazası neticesinde ölüm gibi) ise suçun cezasının paraya çevrilmesi için bir ceza sınırı yoktur. Taksirle işlenen suçlarda, hükmedilen cezanın miktarı ne olursa olsun (örneğin, taksirle işlenen bir suçtan 5 yıl hapis cezası verilse dahi ) her zaman paraya çevrilebilir. Suç taksirle işlenen suçlardan değilse, 2 yıl, 3 yıl veya 4 yıl gibi cezaların adli para cezasına çevrilmesi mümkün değildir. 
 
-Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur, verilen hapis cezasını paraya çevirmek zorundadır. Eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı paraya çevirmek zorundadır. Ayrıca, yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyükse hakim verdiği 1 yıl veya altındaki cezaları paraya çevirmek zorundadır.
+Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur,  eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı adli para cezasına veya seçenek yaptırımlara çevirmek zorundadır. Ayrıca,  yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyük olması halinde de, hakim,  1 yıl veya altındaki hapis cezasını adli para cezasına veya seçenek yaprırımlara çevirmek zorundadır.
 
 
 
