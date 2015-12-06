@@ -7,6 +7,8 @@ keywords: İftira suçu, iftira atma, iftira suçu cezası, iftira suçu şartla
 summary: İftira suçu nedir? İftira Suçu Şikayet Süresi, İftira Atma Suçu Şartları, İftira Suçu Cezası, İftira Suçu Etkin Pişmanlık, Başkalarının Kimlik Bilgilerini Kullanma
 ---
 
+###![İftira Suçu Nedir](https://camo.githubusercontent.com/1ec06baf6d1c655dd7e50ea5c3f4f1ac7e709c51/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7138764f615a2e6a7067 "İftira suçu Nedir") 
+
 ##İftira Suçu Nedir?
 
 **İftira suçu,** hakkında savcılık soruşturması açılması veya idari yaptırım uygulanmasını sağlamak için bir kimseye hukuka aykırı bir fiil isnat edilmesidir. Yani, fail masum olduğunu bildiği bir kişiye suç atmaktadır. Mağdurun “hukuka aykırı bir fiil işlemediğini bildiği halde” iftira atma, **iftira suçu şartları** açısından en önemli olgudur. İftira suçu ile mağdura somut ve belirli bir fiil isnat edilmektedir. Belirsiz bir fiil isnat edilmesi halinde iftira suçu oluşmaz.
@@ -15,6 +17,8 @@ summary: İftira suçu nedir? İftira Suçu Şikayet Süresi, İftira Atma Suçu
 
 **İftira suçu,** şikayete tabi suçlardan değildir. Suçun mağduru hem kişidir hem de iftira nedeniyle soruşturma başlatan veya idari yaptırım kararı uygulayan kamu makamlarıdır. Bu nedenle iftira suçunun soruşturulması veya kovuşturulması mağdurun şikayetine bağlı değildir. Savcılık suçun işlendiğini öğrendiği anda soruşturma başlatmak zorundadır. İftira suçu ile ilgili herhangi bir şikayet süresi olmamasına rağmen, savcılık suçun işlenmesinden itibaren 8 yıl içinde, yani dava zamanaşımı süresi içinde soruşturma başlatmalıdır. 8 yıllık dava zamanaşımı süresi geçtikten sonra iftira suçu soruşturulamaz.
 
+
+###![İftira Suçu](https://camo.githubusercontent.com/a049e79762af237a4fc5b0d6a0e32238355e186d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e674430764e2e6a7067 "İftira suçu") 
 
 
 ##İftira Suçu Şartları, Unsurları [(TCK md. 267)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5216)
@@ -37,6 +41,9 @@ Mağdura isnat edilen fiil nedeniyle idarenin veya savcılığın harekete geçm
 
 Somut bir vakıada fiile dair hukuka uygunluk nedeni varsa, hukuka aykırı bir fiil işlendiğini zannederek şikayet eden kişinin hatası suç kastını ortadan kaldırır. Örneğin, gece kaldırım taşlarını söken bir şahıs hakkında mala zarar verme suçu işlediği iddiasıyla şikayetçi olunmuştur. Fakat, kaldırım taşlarını söken kişi belediyeye bağlı bir taşeron firmanın işçisi çıkmış ve işi gereği bu işi yaptığı anlaşılmıştır. Bu durumda şikayetçi olan kişinin iftira suçu işlediği kabul edilemez. Kişinin olayı değerlendirme konusunda yaptığı hata, suç işleme kastının olmadığını gösteriyor.
 
+###![Ceza Avukatı](https://camo.githubusercontent.com/e03c5eec7772b00b322008094dd48de25aa65ad3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d37645952562e6a7067 "Ceza Avukatı")
+
+
 
 
 ###4- İftira Suçu İşleme Biçimleri
@@ -56,6 +63,10 @@ Basın yayın yoluyla işlenen iftira suçu nedeniyle yargılanan kişi hakkınd
 ###Başkasına Ait Kimlik Bilgilerinin Kullanılması Suretiyle İftira Suçu [(TCK md. 268)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5217)
 
 Başkasına ait kimlik bilgilerinin kullanılması en sık işlenen suçlardan biridir. Başkasına ait kimlik bilgileri birçok farklı nedenle kullanılabilir. İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma yapılmasını engellemek amacıyla, başkasına ait kimliği veya kimlik bilgilerini kullanan kimse, iftira suçuna ilişkin hükümlere göre cezalandırılır. Başkasının kimlik bilgilerini suç işlemek için kullanan kişi koşulları varsa [Resmi Evrakta Sahtecilik Suçu]( https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) hükümlerine göre cezalandırılır. Bu madde hükümleri, başkasının kimlik bilgilerinin kullanılması suretiyle, sadece kendisi hakkındaki somut bir soruşturma ve kovuşturma yapılmasını engellemeye çalışan kişi hakkında uygulanır. Başkasının kimlik bilgilerini kullanan kişi adeta üçüncü bir kişiye iftira atıyormuş gibi iftira suçu hükümleri çerçevesinde cezalandırılır.
+
+
+###![İftira Suçu](https://camo.githubusercontent.com/29145a5baf3bbe4c43e7d3e68e8a274305656ec6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e67445231592e6a7067 "İftira suçu") 
+
 
 ###Nitelikli İftira Suçu
 
@@ -78,9 +89,9 @@ Nitelikli iftira suçu, iftiranın maddi delil ve eserlerinin de fail tarafında
 Mağdura atılan iftira neticesinde, mağdur ile ilgili hapis cezası dışında adli veya idari bir yaptırım uygulanmışsa; iftira eden kişi, 3 yıldan 7 yıla kadar hapis cezası ile cezalandırılır (TCK md. 267/7).
 
 
+###![İftira Suçu Cezası](https://camo.githubusercontent.com/384c8d7c7925b5362a8158019fcb8f8dfdb924f8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5957363762412e6a7067 "İftira Suçu Cezası") 
 
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/e03c5eec7772b00b322008094dd48de25aa65ad3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d37645952562e6a7067 "Ceza Avukatı")
 
 ###İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [(TCK md. 269)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
 
