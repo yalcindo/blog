@@ -65,14 +65,17 @@ Basın yayın yoluyla işlenen iftira suçu nedeniyle yargılanan kişi hakkınd
 Başkasına ait kimlik bilgilerinin kullanılması en sık işlenen suçlardan biridir. Başkasına ait kimlik bilgileri birçok farklı nedenle kullanılabilir. İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma yapılmasını engellemek amacıyla, başkasına ait kimliği veya kimlik bilgilerini kullanan kimse, iftira suçuna ilişkin hükümlere göre cezalandırılır. Başkasının kimlik bilgilerini suç işlemek için kullanan kişi koşulları varsa [Resmi Evrakta Sahtecilik Suçu]( https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) hükümlerine göre cezalandırılır. Bu madde hükümleri, başkasının kimlik bilgilerinin kullanılması suretiyle, sadece kendisi hakkındaki somut bir soruşturma ve kovuşturma yapılmasını engellemeye çalışan kişi hakkında uygulanır. Başkasının kimlik bilgilerini kullanan kişi adeta üçüncü bir kişiye iftira atıyormuş gibi iftira suçu hükümleri çerçevesinde cezalandırılır.
 
 
-###![İftira Suçu](https://camo.githubusercontent.com/29145a5baf3bbe4c43e7d3e68e8a274305656ec6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e67445231592e6a7067 "İftira suçu") 
 
 
-###Nitelikli İftira Suçu
+###Suçun Maddi Delillerinin Üretilmesi - Nitelikli İftira Suçu
 
 Nitelikli iftira suçu, iftiranın maddi delil ve eserlerinin de fail tarafından üretilmesiyle suçun işlenmesidir. Suçun nitelikli halinde fail, hem iftira atmakta hem de iftira konusu fiilin işlendiğine dair delilleri üretmektedir.
 
 Örneğin; aynı işyerinde çalıştığı arkadaşının arabasına habersiz bir şekilde şirkete ait bir eşyayı koyduktan sonra arkadaşı hakkında hırsızlık suçu işlediği iddiasıyla şikayetçi olan şahıs nitelikli iftira suçu işlemiş sayılır.
+
+###![İftira Suçu](https://camo.githubusercontent.com/29145a5baf3bbe4c43e7d3e68e8a274305656ec6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e67445231592e6a7067 "İftira suçu") 
+
+
 
 ###İftira Suçu Cezası
 
