@@ -53,7 +53,7 @@ Etkin pişmanlık kurumu, hem suçun aydınlatılması hem ortaya çıkarılamay
 
 [**Yağma suçu (Gasp suçu)**](http://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), cebir ve tehditle işlenen bir suç olduğundan mağdurda büyük bir yıkım yaratır. Bu nedenle, olayın ortaya çıkarılması ve faillerin cezalandırılması için **etkin pişmanlık** hükümlerine yer verilmiştir. 
 
-**Yağma suçu**nu teşkil eden fiili işleyen kişinin, **mahkemede dava açılmadan önce** mağdurun zararını gidermesi veya suçu birlikte işlediği kişileri, azmettireni, yardım edeni açıklaması halinde yağma suçunda ½ oranına kadar indirim yapılır. Örneğin, yağma suçunun nitelikli şeklinde 10 yıl ceza alabilecek bir fail,  ½ oranında **etkin pişmanlık ceza indiriminden** ve takdiri indirimden yararlandığı takdirde toplamda 4 yıl 2 ay hapis cezası alacaktır.
+Yağma suçunu teşkil eden fiili işleyen kişinin, mahkemede dava açılmadan önce mağdurun zararını gidermesi veya suçu birlikte işlediği kişileri, azmettireni, yardım edeni açıklaması halinde yağma suçunda ½ oranına kadar indirim yapılır. Örneğin, yağma suçunun nitelikli şeklinde 10 yıl ceza alabilecek bir fail,  ½ oranında etkin pişmanlık ceza indirimi ve takdiri indirimden yararlandığı takdirde toplamda 4 yıl 2 ay hapis cezası alacaktır.
 
 **Gasp suçu**nu işleyen kişi, mahkemede dava açıldıktan sonra fakat hüküm verilmeden önce söz konusu bilgileri verir veya zararı giderirse yargılamanın bu aşamasında 1/3 oranında indirimden yararlanır.
 
@@ -87,13 +87,13 @@ Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi*
 
 Örneğin, nitelikli hırsızlık suçunda 2 yıl ceza alabilecek bir sanık, mahkemede dava açıldıktan fakat hüküm verilmeden önce mağdurun uğradığı zararı giderirse **etkin pişmanlık** hükümlerinden yararlanır, cezasından ½ oranında indirim yapıldığında takdiri indirimle birlikte cezası toplam 10 aya inebilir.
 
-**Hırsızlık suçunda,** malın değerinin az olması veya hırsızlığı yapanın zorunlu ihtiyacını karşılamak için fiili işlemiş olması halinde failin **cezasından indirim** yapılabileceği gibi faile ceza verilmeyebilir. Ayrıca hırsızlık suçunda, hırsızlık konusu mal üzerinde suçu işleyenin de ortaklığı varsa veya bir alacağı tahsil amacıyla yapılmışsa ceza indirimi uygulanarak 2 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilir.
+Hırsızlık suçunda, malın değerinin az olması veya hırsızlığı yapanın zorunlu ihtiyacını karşılamak için fiili işlemiş olması halinde failin **cezasından indirim** yapılabileceği gibi faile ceza verilmeyebilir. Ayrıca hırsızlık suçunda, hırsızlık konusu mal üzerinde suçu işleyenin de ortaklığı varsa veya bir alacağı tahsil amacıyla yapılmışsa ceza indirimi uygulanarak 2 aydan 1 yıla kadar hapis veya adli para cezasına hükmedilir.
 
 Yukarıda anlatılan tüm suçların eşlerden biri aleyhine işlenmesi halinde, üstsoy veya altsoy ile bu derecede kayın hısımları aleyhine işlenmesi halinde, aynı konutta birlikte yaşayan kardeşlerden biri aleyhine işlenmesi halinde fail hakkında cezaya hükmolunamaz.
 
 Yukarıdaki tüm suçların, haklarında ayrılık kararı verilmiş eşler, aynı konutta yaşamayan kardeşler, amca, dayı, hala, teyze, yeğen veya ikinci dereceye kadar kayın hısımları arasında işlenmesi halinde ilgili akraba hakkında şikayet üzerine ½ oranında **ceza indirimi** yapılır.
 
-**Gasp suçunda** olduğu gibi burdaki tüm suçlarda  da suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
+Gasp suçunda olduğu gibi burdaki tüm suçlarda  da suç konusu malın kısmen geri verilmesi veya kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra **etkin pişmanlık nedeniyle ceza indirimi**nden yararlanılamaz.
 
 ###![Ceza İndirimi](https://camo.githubusercontent.com/344695f96d4a329f58f26a6d4a77c932e2d08fcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38516a314a572e6a7067 "Ceza İndirimi")
 
@@ -112,11 +112,11 @@ Yukarıda belirttiğimiz suçlar ortaya çıktıktan sonra, yani resmi makamlar 
 ###4-) Hakaret Suçu ve Etkin Pişmanlık Ceza İndirimi
 
 
-**Hakaret suçunda etkin pişmanlık** hükümlerinin uygulanabileceği bir kanun hükmü yoktur. Ancak bazı koşulların gerçekleşmesi halinde hakaret suçunda **ceza indirimi** almak mümkündür. Hakaret suçu, hakaret edilen kişinin haksız bir fiiline karşılık işlenmişse fail hakkında 1/3’üne kadar ceza indirimi yapılabileceği gibi olayın özelliğine göre faile hiçbir ceza verilmemesi de mümkündür.
+Hakaret suçunda etkin pişmanlık hükümlerinin uygulanabileceği bir kanun hükmü yoktur. Ancak bazı koşulların gerçekleşmesi halinde hakaret suçunda **ceza indirimi** almak mümkündür. Hakaret suçu, hakaret edilen kişinin haksız bir fiiline karşılık işlenmişse fail hakkında 1/3’üne kadar ceza indirimi yapılabileceği gibi olayın özelliğine göre faile hiçbir ceza verilmemesi de mümkündür.
 
 [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), hakarete uğrayan kişinin faile karşı işlediği kasten yaralama fiiline tepki olarak işlenmişse faile ceza verilmez.
 
-**Hakaret suçu** karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
+Hakaret suçu karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
 ###5-) Bilişim Suçları ve Etkin Pişmanlık
 
@@ -134,17 +134,17 @@ Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka vey
 
 **Zimmet suçu,** kamu görevlisinin zilyedliği kendisine verilen veya koruma ve gözetimine bırakılan malı kendisinin veya başkasının zimmetine geçirmesi ile oluşur.
 
-**Zimmet suçu etkin pişmanlık** hükümleri TCK md. 248'de düzenlenmiştir. Kanuna göre, soruşturma başlamadan önce, yani daha savcılık öğrenmeden zimmete geçirilen mal iade edilir veya kamunun uğradığı zarar giderilirse verilecek cezanın 2/3'ü indirilir. Yani 6 yıl ceza alabilecek bir failin cezası, etkin pişmanlık ceza indirimi ile 2 yıla inecektir.
+Zimmet suçu etkin pişmanlık hükümleri TCK md. 248'de düzenlenmiştir. Kanuna göre, soruşturma başlamadan önce, yani daha savcılık öğrenmeden zimmete geçirilen mal iade edilir veya kamunun uğradığı zarar giderilirse verilecek cezanın 2/3'ü indirilir. Yani 6 yıl ceza alabilecek bir failin cezası, etkin pişmanlık ceza indirimi ile 2 yıla inecektir.
 
-**Zimmet suçu** ile ilgili soruşturma başlamasına rağmen henüz dava açılmadan zimmete geçirilen mal iade edilir veya zarar giderilirse, verilecek ceza 1/2 oranında indirilir.
+Zimmet suçu ile ilgili soruşturma başlamasına rağmen henüz dava açılmadan zimmete geçirilen mal iade edilir veya zarar giderilirse, verilecek ceza 1/2 oranında indirilir.
 
-**Zimmet suçu** işlendiği iddiasıyla dava açıldıktan sonra, fakat hüküm verilmeden önce etkin pişmanlık gerçekleşirse sanığa verilecek cezanın 1/3'ü indirilir.
+Zimmet suçu işlendiği iddiasıyla dava açıldıktan sonra, fakat hüküm verilmeden önce etkin pişmanlık gerçekleşirse sanığa verilecek cezanın 1/3'ü indirilir.
 
 ###7-) Rüşvet Suçu ve Etkin Pİşmanlık Ceza İndirimi [**(TCK md. 254)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5202)
 
 **Rüşvet suçu,** kamu görevlisinin görevini yerine getirmesiyle ilgili bir işi yapması veya yapmaması için menfaat sağlanması veya sağlanan menfaatin alınmasıyla oluşur. Rüşvet suçu, hem rüşveti alanın hem de rüşveti verenin cezalandırılmasını öngörmektedir. 
 
-Rüşveti alan veya almak için anlaşan kamu görevlisi, soruşturma makamları **rüşvet suçu** işlendiğini öğrenmeden önce, rüşvet konusu şeyi soruşturmaya yetkili makamlara teslim eder ve durumu haber verirse **etkin pişmanlık** hükümleri gereği hakkında ceza verilmez. Aynı şekilde rüşvet veren veya vermek için anlaşan kişi de durumu soruşturmaya yetkili makamlar öğrenmeden önce haber verirse **etkin pişmanlık** hükümleri hakkında  ceza verilmez.
+Rüşveti alan veya almak için anlaşan kamu görevlisi, soruşturma makamları rüşvet suçu işlendiğini öğrenmeden önce, rüşvet konusu şeyi soruşturmaya yetkili makamlara teslim eder ve durumu haber verirse **etkin pişmanlık** hükümleri gereği hakkında ceza verilmez. Aynı şekilde rüşvet veren veya vermek için anlaşan kişi de durumu soruşturmaya yetkili makamlar öğrenmeden önce haber verirse **etkin pişmanlık** hükümleri hakkında  ceza verilmez.
 
 Rüşvet alan ve veren dışında, rüşvet suçuna katılan (örneğin, rüşvete aracı olan kişiler) diğer kişilerin ekin pişmanlık duyarak durumdan soruşturma makamlarını haberdar etmesi halinde, rüşvet suçu nedeniyle haklarında cezaya hükmedilmez. 
 
@@ -153,7 +153,7 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 ###8-) İrtikap Suçu ve Etkin Pişmanlık Ceza İndirimi
 
-**İrtikap suçu,** kamu görevlisinin herhangi bir kimseyi, görevinin sağladığı nüfuzu kötüye kullanarak yarar sağlamaya veya yarar sağlama konusunda vaatte bulunmaya zorlamasıyla oluşur. **İrtikap** kelime anlamı itibariyle yiyicilik anlamına gelir.
+**İrtikap suçu,** kamu görevlisinin herhangi bir kimseyi, görevinin sağladığı nüfuzu kötüye kullanarak yarar sağlamaya veya yarar sağlama konusunda vaatte bulunmaya zorlamasıyla oluşur. İrtikap kelime anlamı itibariyle yiyicilik anlamına gelir.
 
 İrtikap suçu, etkin pişmanlık sebebiyle ceza indirimi olmayan suçlardaındır. Ancak, sağlanan menfaatin değeri ve mağdurun ekonomik durumu gözetilerek irtikap suçunu işleyen kişiye verilecek cezada, 1/2 oranında **ceza indirimi** yapılabilir.
 
@@ -161,17 +161,17 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 ###9-) İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK md. 269)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
 
-**İftira suçu,** failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
+![**İftira suçu**](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
 
-**İftira suçu** işleyen kişinin, iftira atılan kişi hakkında adli veya idari soruşturma başlamadan önce iftirasından dönmesi halinde hakkında hükmedilecek cezadan 4/5 oranında **ceza indirimi** uygulanır.
+İftira suçu işleyen kişinin, iftira atılan kişi hakkında adli veya idari soruşturma başlamadan önce iftirasından dönmesi halinde hakkında hükmedilecek cezadan 4/5 oranında **ceza indirimi** uygulanır.
 
-**İftira suçu** işleyen kişinin, iftira atılan hakkında soruşturma başladıktan sonra, fakat dava açılmadan önce iftirasından dönemesi halinde hakkında verilecek cezada, 3/4 oranında etkin pişmanlık nedeniyle **ceza indirimi** uygulanır.
+İftira suçu işleyen kişinin, iftira atılan hakkında soruşturma başladıktan sonra, fakat dava açılmadan önce iftirasından dönemesi halinde hakkında verilecek cezada, 3/4 oranında etkin pişmanlık nedeniyle **ceza indirimi** uygulanır.
 
-**İftira suçu** nedeniyle dava açıldıktan sonra, fakat hüküm verilmeden önce iftiradan dönülmesi halinde verilecek cezada 2/3 oranında **ceza indirimi** yapılır.
+İftira suçu nedeniyle dava açıldıktan sonra, fakat hüküm verilmeden önce iftiradan dönülmesi halinde verilecek cezada 2/3 oranında **ceza indirimi** yapılır.
 
 **İftira suçu** nedeniyle hüküm verildikten sonra, fakat hüküm infaza verilmeden önce iftiradan dönülmesi halinde verilecek cezada 1/2 nispetinde ceza indirimi yapılır.
 
-**İftira suçu** sebebiyle verilen mahkumiyet hükmünün infazına başlandıktan sonra, iftiradan dönülmesi halinde verilecek cezada 1/3 nispetinde ceza indirimi yapılır
+İftira suçu sebebiyle verilen mahkumiyet hükmünün infazına başlandıktan sonra, iftiradan dönülmesi halinde verilecek cezada 1/3 oranında ceza indirimi yapılır.
 
 İftira suçunun oluşmasına neden olan fiil mağdur hakkında  sadece idari yaptırım kararı uygulanmasını gerektiriyorsa, iftira suçu nedeniyle mağdur hakkında idari yaptırım kararı uygulanmadan önce iftiradan dönülürse faile verilecek cezada 1/2 oranında, idari yaptırım kararı uygulandıktan sonra iftiradan dönülürse 1/3 oranında **ceza indirimi** yapılır.
 
