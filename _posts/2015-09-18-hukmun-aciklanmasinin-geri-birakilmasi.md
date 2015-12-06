@@ -7,7 +7,7 @@ keywords: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmas
 summary: Hükmün açıklanmasının geri bırakılması, hükmün açıklanmasının geri bırakılması (HAGB) nedir, hükmün açıklanmasının geri bırakılması şartları, hagb kararının adli sicil kaydına işlenip işlenmediği anlatılmıştır.
 ---
 
-
+###![Hükmün Açıklanmasının Geri Bırakılması](https://camo.githubusercontent.com/0ed7096c3bdd8c15afa356fd35f57a666896fbcd/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6756506a305a2e6a7067 "Hükmün Açıklanmasının Geri Bırakılması")
 
 ##Hükmün Açıklanmasının Geri Bırakılması Nedir? (HAGB Nedir?)
 
