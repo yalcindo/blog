@@ -161,7 +161,7 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 ###9-) İftira Suçu ve Etkin Pişmanlık Ceza İndirimi [**(TCK md. 269)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5218)
 
-![**İftira suçu**](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
+[**İftira suçu**](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), failin, işlemediğini bildiği halde bir kimse hakkında soruşturma başlatılması veya idari bir yaptırım uygulanması için hukuka aykırı bir fiil isnat etmesiyle meydana gelir.
 
 İftira suçu işleyen kişinin, iftira atılan kişi hakkında adli veya idari soruşturma başlamadan önce iftirasından dönmesi halinde hakkında hükmedilecek cezadan 4/5 oranında **ceza indirimi** uygulanır.
 
