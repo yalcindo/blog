@@ -54,7 +54,7 @@ Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlen
 
 * **Malvarlığına Karşı Suçlar:** [*Hırsızlık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Mala Zarar Verme Suçu,*]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) [*Güveni Kötüye Kullanma Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu, [*Dolandırıcılık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html).
 
-* **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Tarfik Güvenliğini Tehlikeye Sokma Suçu.
+* **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Trafik Güvenliğini Tehlikeye Sokma Suçu.
 
 
 * **Kamu Güvenine Karşı Suçlar:** [*Özel Belgede Sahtecilik Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu.
