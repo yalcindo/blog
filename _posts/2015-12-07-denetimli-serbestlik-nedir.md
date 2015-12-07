@@ -131,7 +131,7 @@ Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süres
 
 ###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
 
-Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suç tipleri açısından uygulanamaz. Koşulları aşağıda belirtilen hükmlülerin 01.01.2016 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
+Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suçlar açısından uygulanamaz. Koşulları aşağıda belirtilen mahkumların 01.01.2016 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
 
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
 * İkinci defa tekerrür hükümleri uygulanan mahkumlar,
@@ -140,7 +140,7 @@ Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suç tipleri açısı
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
 
 
-Denetimli serbestlik, tüm suç tiplerine uygulanması gereken bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
+Denetimli serbestlik, istisnalar dışında tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
 
 * **Malvarlığına Karşı Suçlar:** [*Dolandırıcılık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [*Hırsızlık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Yağma Suçu*](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [*Mala Zarar Verme Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [*Güveni Kötüye Kullanma Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, Taksirle Adam Öldürme Suçu, Taksirle Adam Yaralama Suçu.
