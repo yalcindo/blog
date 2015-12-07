@@ -18,20 +18,20 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 ###2. Denetimli Serbestlik Yasası
 
 
-**Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya **denetimli serbestlik yasası** denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için **“denetimli serbestlik yasası”** kavramını kullanacağız.
+**Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya denetimli serbestlik yasası denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için “denetimli serbestlik yasası” kavramını kullanacağız.
 
 ###![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
 ###3. Denetimli Serbestlik Kaç Yıl 
 
 
-**Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun **denetimli serbestlik yasası**ndan yararlanması mümkün değildir.
+**Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir.
 
-Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı **denetimli serbestlik yasası** uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
+Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
 
 Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza mikatarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan hükümlüler 31.12.2015 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
-0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde **denetimli serbestlik yasası** yoluyla serbest bırakılabilecektir.
+0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde denetimli serbestlik yasası yoluyla serbest bırakılabilecektir.
 
 Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
 
@@ -48,18 +48,18 @@ Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için b
 
 
 
-Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra **denetimli serbestlik yasası**ndan yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
+Son 6 ayını cezaevinde geçirme şartı 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. Maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra denetimli serbestlik yasasından yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
-[**Açık Cezaevine Ayrılma Şartları**](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden **denetimli serbestlik yasası**ndan yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
+[**Açık Cezaevine Ayrılma Şartları**](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden denetimli serbestlik yasasından yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
 
 
 
-Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da **denetimli serbestlik yasası**ndan yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için **denetimli serbestlik yasası**ndan yararlanabilir.
+Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da denetimli serbestlik yasasından yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için denetimli serbestlik yasasından yararlanabilir.
 
 ####b. Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı
 
 
-Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz, toplam cezasının 1/5’ini çocuk cezaevinde geçiren hükümlü **denetimli serbestlik yasası**ndan yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
+Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz, toplam cezasının 1/5’ini çocuk cezaevinde geçiren hükümlü denetimli serbestlik yasasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
 
 ####c. Hükümlünün İyi Halli Olması Şartı
 
@@ -78,7 +78,7 @@ Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan son
 ###5. Denetimli Serbestliğe Uymama
 
 
-Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. **Denetimli serbestliğe uymama** halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
+Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. Denetimli serbestliğe uymama halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
 ####a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 
@@ -94,7 +94,7 @@ imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasa
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 
 
-Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
+Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
 ###6. Denetimli serbestlik ve Adli Para Cezası
 
@@ -105,9 +105,9 @@ Hükümlü **denetimli serbestlik yasası**ndan faydalanarak tahliye olduktan so
 ###7. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
 
 
-**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak denetimli serbestlik yasasını ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani **denetimli serbestlik** dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
+**Denetimli serbestliğe uymama,** hükümlünün daha ağır sonuçlarla karşılaşmasına neden olabilir. Prensip olarak denetimli serbestlik yasasını ihlal eden hükümlü, cezasının koşullu salıverilme tarihine kadar olan kısmının infaz edilmesi için tekrar cezaevine alınır. Ancak dışarda **denetimli serbestlik kanunu** uygulamasından yararlanarak geçirdiği süreler cezasından indirilir. Yani denetimli serbestlik dosyası kapatılana kadar kişinin dışarda geçirdiği süreler aynen cezaevinde geçirilmiş gibi kabul edilir.
 
-**Denetimli serbestlik** uygulamasında hükümlüler en çok imza ihlali yapmaktadır. İmzaya gitmemek de önemli bir denetimli serbestlik kuralının ihlalidir. Üst üste iki kez imza ihlali yapanların denetimli serbestlik kararı geri alınır.
+Denetimli serbestlik uygulamasında hükümlüler en çok imza ihlali yapmaktadır. İmzaya gitmemek de önemli bir denetimli serbestlik kuralının ihlalidir. Üst üste iki kez imza ihlali yapanların denetimli serbestlik kararı geri alınır.
 
 Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluluğu vardır. Hükümlü, 3 günlük sürenin bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler için de geçerlidir.
 
@@ -115,7 +115,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###8. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
-**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olması gerektiği yönünde tartışmalar yürütülmektedir. **Denetimli serbestlik süresi**nin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
+**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olması gerektiği yönünde tartışmalar yürütülmektedir. Denetimli serbestlik süresinin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
 
 ###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
@@ -161,11 +161,11 @@ Denetimli serbestlik, tüm suç tiplerine uygulanması gereken bir koşullu sal�
 
 * Hükümlü **denetimli serbestlik yasası** ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün **denetimli serbestlik yasası** uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
 
-* Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı **denetimli serbestlik yasası**ndan yararlanılamaz. **Denetimli serbestlik yasası**ndan ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
+* Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı denetimli serbestlik yasasından yararlanılamaz. Denetimli serbestlik yasasından ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
 
 * Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile **denetimli serbestlik yasası**ndan ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
 
-* Hükümlü, **denetimli serbestlik yasası**ndan yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
+* Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
 ###Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
 
