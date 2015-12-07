@@ -167,7 +167,7 @@ Denetimli serbestlik, tüm suç tiplerine uygulanması gereken bir koşullu sal�
 
 * Hükümlü, **denetimli serbestlik yasası**ndan yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
-###9. Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
+###Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
 
 
 [**Adli sicil kaydının silinmesi,**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. **Denetimli serbestlik yasası uygulaması** da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. **Denetimli serbestlik** uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
