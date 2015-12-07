@@ -28,4 +28,6 @@ Adli Para cezası ile İdari Para Cezası arasındaki en büyük fark, adli para
 
 
 
+
+
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
