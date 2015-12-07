@@ -129,6 +129,33 @@ Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalış
 
 Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda düzenlemeler yapılacaktır. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz.
 
+###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
+
+Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suç tipleri açısından uygulanamaz. Koşulları aşağıda belirtilen hükmlülerin 01.01.2016 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
+
+* Ağırlaştırılmış hapis cezası alan hükümlüler,
+* İkinci defa tekerrür hükümleri uygulanan mahkumlar,
+* Siyasi suçlardan dolayı mahkum olanlar,
+* Cezası infaz edilmekteyken başka bir suçtan tutuklanan hkümlülerin tutukluluğu bitinceye kadar,
+* Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
+
+
+Denetimli serbestlik, tüm suç tiplerine uygulanması gereken bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
+
+
+* **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, Taksirle Adam Öldürme Suçu, Taksirle Adam Yaralama Suçu.
+
+* **Hürriyete Karşı Suçlar:**[**Tehdit Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu. 
+
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [**Hakaret Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [**Özel Hayatın Gizliliğini İhlal Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
+
+* **Malvarlığına Karşı Suçlar:** [**Dolandırıcılık Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [**Hırsızlık Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [**Yağma Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [**Mala Zarar Verme Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [**Güveni Kötüye Kullanma Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
+
+* **Kamu Güvenine Karşı Suçlar:** [**Özel Belgede Sahtecilik Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu, [**Resmi Evrakta Sahtecilik Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html).
+
+* **Diğer Bazı Suçlar:** [**Bilişim Suçları**](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [**Görevi Kötüye Kullanma Suçu,**](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html) [**İftira Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Ses veya Görüntülerin Kayda Alınması Suçu, Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu,  Mühür Bozma (Fekki) Suçu.
+
+
 
 ###Denetimli Serbestlik Yasası Yargıtay Kararları      
 
