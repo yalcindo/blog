@@ -136,7 +136,7 @@ Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suç tipleri açısı
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
 * İkinci defa tekerrür hükümleri uygulanan mahkumlar,
 * Siyasi suçlardan dolayı mahkum olanlar,
-* Cezası infaz edilmekteyken başka bir suçtan tutuklanan hkümlülerin tutukluluğu bitinceye kadar,
+* Cezası infaz edilmekteyken başka bir suçtan tutuklanan hükümlülerin tutukluluğu bitinceye kadar,
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
 
 
