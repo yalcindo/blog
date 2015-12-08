@@ -21,7 +21,7 @@ summary: Meşru Müdafaa (Meşru Savunma) Nedir? Meşru Müdafaanin Şartları, 
 
 Saldırıya dair şartlar,  tamamen karşı taraftan kaynaklanan ve saldırının ağırlığını bu çerçevede yapılacak savunmanın sınırlarını çizen şartlardır. Bu şartlar şunlardır:
 
-####a. Meşru Savunma Yapılacak Bir Saldırı Bulunmalıdır: 				
+####a. Meşru Savunma Hali İçin Bir Saldırı Buluınmalıdır
 
 Meşru savunmanın ilk koşulu bir saldırı bulunmalıdır. Saldırı kavramını geniş anlamak gerekir. Başladığı takdirde savunma yapma imkanını ortadan kaldıracak veya savunma yapmayı güçleştirecek bir saldırı başlamış bir saldırı olarak değerlendirilmektedir. Yine, bittiği halde tekrarlanmasından endişe duyulan bir saldırı da henüz sona ermemiş bir saldırı olarak kabul edilmektedir.  Bu ihtimallerin tamamında saldırı vardır ve **meşru savunma** hakkının kullanılabilmesi için ilk koşul gerçekleşmiştir.
 
