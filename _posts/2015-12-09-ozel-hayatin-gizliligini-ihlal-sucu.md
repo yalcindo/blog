@@ -16,7 +16,7 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 
 **Özel hayatın gizliliği,** insanın sosyal hayat içerisinde sağlıklı bir birey olarak varolması için korunan bir hukuki değerdir. Özel hayatın gizliliğini ihlal suçu ile özel hayata müdahale girişimlerinden bireyin korunması amaçlanmıştır. Özel hayatın gizliliğini ihlal suçu, kişinin başkaları tarafından bilinmesini istemediği hayatının özel alanlarına girilmesini cezalandırarak bireye hukuki güvenlik sağlar.
 
-##Özel Hayatın Gizliliğini İhlal Suçu Şartları [*(TCK md. 134)*](http://www.turkhukuksitesi.com/mevzuat.php?mid=4987)
+##Özel Hayatın Gizliliğini İhlal Suçu Şartları [(TCK md. 134)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4987)
 
 Birey sosyal hayatın farklı katmanlarında kendi hayatına ait farklı varoluş biçimleriyle ortaya çıkar. **Özel hayatın gizliliği suçu** ile yalnızca bireyin “özel hayatının gizliliği” kapsamında olan alana müdahale edilmesi halinde cezalandırılması söz konusudur. 
 
