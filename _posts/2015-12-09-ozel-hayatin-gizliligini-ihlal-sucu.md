@@ -64,7 +64,7 @@ Suçun basit şekli için örnek vermek gerekirse, bir kimsenin yatak odasını 
 
 ###Özel Hayatın Gizliliğini İhlal Suçu ve Şikayet Süresi
 
-[*TCK md. 139*](http://www.turkhukuksitesi.com/mevzuat.php?mid=5008) gereği, özel hayatın gizliliğini ihlal suçunun tüm şekilleri şikayete tabidir. Yani, mağdur şikayetçi olmadan savcılığın soruşturma yapması, mahkemenin kovuşturma yapması mümkün değildir. Şikayet süresi, mağdurun fiili işlendiğini ve fiili işleyen kişiyi öğrendiği tarihten başlamak üzere 6 aydır. Örneğin; Mağdur, aleyhine özel hayatın gizliliğini ihlal suçu işlendiğini 01.01.2016 tarihinde öğrenmiş, suçu işleyen kişiyi de 01.09.2016 tarihinde öğrenmiş olsun. Bu somut olayda mağdurun 6 aylık şikayet hakkı süresi, 01.09.2016 tarihinde başlar, 01.03.2017 tarihinde sona erer.
+[TCK md. 139](http://www.turkhukuksitesi.com/mevzuat.php?mid=5008) gereği, özel hayatın gizliliğini ihlal suçunun tüm şekilleri şikayete tabidir. Yani, mağdur şikayetçi olmadan savcılığın soruşturma yapması, mahkemenin kovuşturma yapması mümkün değildir. Şikayet süresi, mağdurun fiili işlendiğini ve fiili işleyen kişiyi öğrendiği tarihten başlamak üzere 6 aydır. Örneğin; Mağdur, aleyhine özel hayatın gizliliğini ihlal suçu işlendiğini 01.01.2016 tarihinde öğrenmiş, suçu işleyen kişiyi de 01.09.2016 tarihinde öğrenmiş olsun. Bu somut olayda mağdurun 6 aylık şikayet hakkı süresi, 01.09.2016 tarihinde başlar, 01.03.2017 tarihinde sona erer.
 
 Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir. 
 
