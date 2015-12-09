@@ -74,7 +74,7 @@ Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şik
 
 ---
 
-* Yaşı küçük mağdur çocuğun kavga görüntülerinin kaydedilmesi TCK md. 134/1 ikinci cümlesi, bu görüntülerin internet ortamında yayılması da TCK md. 134/2 maddesi ihlal edilmiş olur. Her iki sanık açısından da özel hayatın gizliliğini ihlal suçu oluşmuştur. Ancak, mağdurun annesi polis ifadesinde şikayetten vazgeçmiştir, şikayetten vazgeçtikten sonra tekrar şikayetçi olunamaz, bu nedenle dava hakkında düşme kararı verilmesi gerekir ((Yargıtay 12. Ceza Dairesi – Esas No: 2014/16728, Karar No: 2015/1677).
+* Yaşı küçük mağdur çocuğun kavga görüntülerinin kaydedilmesi TCK md. 134/1 ikinci cümlesi, bu görüntülerin internet ortamında yayılması da TCK md. 134/2 maddesi ihlal edilmiş olur. Her iki sanık açısından da özel hayatın gizliliğini ihlal suçu oluşmuştur. Ancak, mağdurun annesi polis ifadesinde şikayetten vazgeçmiştir, şikayetten vazgeçtikten sonra tekrar şikayetçi olunamaz, bu nedenle dava hakkında düşme kararı verilmesi gerekir (Yargıtay 12. Ceza Dairesi – Esas No: 2014/16728, Karar No: 2015/1677).
 
 * Sanık, ortak kullanılan çatı katının bir bölümünde gizli bir delik açarak alt kattaki komşusunun yatak odasını gözetlemiştir. Şikayetçilerin bilinmesini istemedikleri konutları içerisindeki özel yaşamlarına müdahale eden sanığın fiili özel hayatın gizliliğini ihlal suçunu oluşturur. Fiil defalarca işlendiğinden zincirleme suç hükümleri gereği alt sınırdan ayrılarak daha yüksek ceza verilmesi gerekir (Yargıtay 12. Ceza Dairesi – Esas No: 2012/25893, Karar No: 2013/20214, Tarih No: 16.09.2013).
 
