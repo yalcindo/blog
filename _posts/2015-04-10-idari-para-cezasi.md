@@ -2,7 +2,7 @@
 layout: blog
 title: İdari Para Cezası
 category: ceza-hukuku
-googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy ataköy avukat
+googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy istanbul avukat
 summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? İdari Para Cezası Nereye Ödenir, İdari Para Cezasına Nereye İtiraz Edilir, Süresi ve Yetkili Mahkeme? Bakaya ve Yoklama Kaçağı Para Cezası
 keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
 ---
@@ -92,7 +92,6 @@ Sigara içme yasağı ihlal edildiğinde her yıl değişen oranlarda **idari pa
 
 Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri, sigara içme para cezasına esas teşkil eden olgular, itirazı temellendirecek her türlü delil veya bilgi dilekçeye eklenmelidir. İtirazı incelemeye yetkili Sulh Ceza Hakimliği, itirazı haklı bulursa idari para cezasını iptal eder.
 
-###![Sigara İçme İdari Para Cezası](https://camo.githubusercontent.com/69071f5496772a7bf2e9f6c78fee7b007bd9c966/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676a5841722e6a7067 "Sigara İçme İdari Para Cezası")
 
 
 ###İdari Para Cezaları Nereye Ödenir?
