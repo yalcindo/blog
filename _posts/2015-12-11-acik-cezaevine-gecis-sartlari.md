@@ -19,7 +19,7 @@ summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kap
 
 **Açık cezaevine geçiş şartları,** açık cezaevine ayrılma yönetmeliği ile düzenlenmiştir. Yönetmelikle kimlerin kapalı cezaevine girmeden doğrudan **açık cezaevine geçiş** hakkı olduğu, kimlerin kapalı cezaevinden **açık cezaevine ayrılma** hakkına sahip olduğu ve açık cezaevine geçiş hakkı olmayan hükümlülerin kimler olduğu ifade edilmiştir.
 
-###1. Doğrudan Açık Cezaevine Geçiş Şartları (md. 5)
+###1. Doğrudan Açık Cezaevine Geçiş Şartları (md.5)
 
 Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezaevine hiç girmeden aldığı cezanın miktarı veya niteliği nedeniyle doğrudan açık cezaevine konularak cezasının infaz edilmesidir.
 
@@ -38,7 +38,7 @@ Doğrudan **açık cezaevine geçiş** hakkından kasıt, mahkumun kapalı cezae
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/4f5d7c4e2b769e88c010fb827cc6dad9358e2452/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4735357a42722e6a7067 "Ceza Avukatı")   
 
-###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Şartları (md. 6)
+###2. Kapalı Cezaevinden Açık Cezaevine Ayrılma Şartları (md.6)
 
 
 
@@ -49,16 +49,16 @@ Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçi
 
 * Cezasını yüksek güvenlik cezaevinde ( örneğin, F Tipi Cezaevi ) veya kapalı cezaevinin yüksek güvenlikli bölümlerinde ( Örneğin, T tipinin yüksek güvenlikli bölümünde ) geçiren hükümlünün **açık cezaevine ayrılma** hakkı kazanması için cezasının 1/3’ünün bu cezaevlerinde “iyi halli” infaz edilmiş olması ve koşullu salıverilmesine 3 yıl veya daha az bir süre kalması gerekir.
 
-* Cinsel saldırı, çocukların cinsel istismarı, hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 2 yıl veya daha az süre kalması halinde **açık cezaevine ayrılma** hakkı kazanır.
+* Cinsel saldırı, çocukların cinsel istismarı, hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 2 yıl veya daha az süre kalması halinde **açık cezaevine ayrılma** hakkı kazanır. Örneğin; bu suçlardan 9 yıl ceza alan bir şahsın koşullu salıverilme süresi 6 yıl, denetimli serbestlikten yararlanarak tahliye süresi 5 yıldır. Aynı şahsın açık cezaevine geçiş hakkı kazanabilmesi için 4 yıl kapalı cezaevinde kalması gerekir.
 
-* Yürürlükten kaldırılan 4422 Sayılı Çıkar Amaçlı Suç Örgütleri ile Mücadele Kanunu2nun 14. maddesi gereği etkin pişmanlık hükümlerinden yararlanan hükümlüler, koşullu salıverilmelerine 2 yıldan daha az süre kalması halinde açık cezaevine ayrılma hakkını kazanır.
+* Yürürlükten kaldırılan 4422 Sayılı Çıkar Amaçlı Suç Örgütleri ile Mücadele Kanunu'nun 14. maddesi gereği etkin pişmanlık hükümlerinden yararlanan hükümlüler, koşullu salıverilmelerine 2 yıldan daha az süre kalması halinde açık cezaevine ayrılma hakkını kazanır.
 
 * Birden fazla cezası infaz edilen hükümlü hakkında cezaların toplanması kararı alındığında, açık kuruma ayrılmada esas alınacak suç, koşullu salıverilme tarihine en az sürenin arandığı suçtur. Örneğin, aynı hükümlü ile ilgili kasten adam yaralama suçu nedeniyle 2 yıl, hırsızlık suçu nedeniyle 2 yıl olarak verilen cezalar hakkında toplama kararı alındığında, açık cezaevine geçiş hakkı için ölçü alınacak suç vasfı hırsızlık suçu değil, kasten adam yaralama suçudur. Görüldüğü üzere birden fazla cezaların toplanması kararı, hükümlünün açık cezaevine geçiş koşullarını kolaylaştırmaktadır.
 
 
 ###![Açık Cezaevine Ayrılma](https://camo.githubusercontent.com/3d243fe45d85c2e4918da677bd02fb4568952f27/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384c4e6b372e6a7067 "Açık Cezaevine Ayrılma")
 
-###3. Açık Cezaevine Geçiş Hakkı Olmayan Hükümlüler ( md. 8)
+###3. Açık Cezaevine Geçiş Hakkı Olmayan Hükümlüler (md.8)
 
 Yönetmelik, bazı suçlar ve cezalar açısından **açık cezaevine geçiş** uygulamasını yasaklamıştır. Bu suç tipleriyle veya cezalarla mahkum olanların **açık cezaevine ayrılma** hakkı mevcut değildir.
 
