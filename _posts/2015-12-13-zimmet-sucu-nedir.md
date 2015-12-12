@@ -15,7 +15,7 @@ summary: Zimmet nedir? Zimmet Suçu Nedir? Kullanma Zimmeti Suçu nedir? Zimmet 
 
 **Zimmet suçu**, şikayete bağlı olan suçlardan olmadığından savcılık suçun işlendiğini öğrenir öğrenmez soruşturma başlatmak zorundadır. Suç, kamu idaresinin güvenirliğine ve işleyişine karşı işlenen suçlardan olduğundan savcılık bu tip suçları hassasiyetle soruşturmaktadır. Zimmet suçu ile ilgili dava zamanaşımı süresi 15 yıldır. Suç işlendiğinin savcılığa bildirilmesiyle bu süre içerisinde soruşturma ve kovuşturma yapılabilir. 
 
-![Zimmet Suçu Nedir](https://camo.githubusercontent.com/9f53eb794da371624adccd65af26bae6b388150b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384436306d2e6a7067 "Zimmet Suçu Nedir")
+###![Zimmet Suçu Nedir](https://camo.githubusercontent.com/9f53eb794da371624adccd65af26bae6b388150b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384436306d2e6a7067 "Zimmet Suçu Nedir")
 
 
 ##Zimmet Suçu Şartları [(TCK md. 247)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5195)
@@ -37,7 +37,7 @@ Kamu görevlisi bir malı kullanmışsa, bu kullanmanın malın mülkiyet hakkı
  
  
  
-![Zimmet Suçu](https://camo.githubusercontent.com/509f79fc819bade9e79b4f0fa59e886d2e7dcb53/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c7244335a582e6a7067 "Zimmet Suçu")
+###![Zimmet Suçu](https://camo.githubusercontent.com/509f79fc819bade9e79b4f0fa59e886d2e7dcb53/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c7244335a582e6a7067 "Zimmet Suçu")
 
 ###Nitelikli Zimmet Suçu Nedir? (TCK md. 247/2)
 
@@ -55,7 +55,7 @@ Kullanma zimmeti suçu açısından önemli noktalardan biri de failin fiili iş
 
 TCK md. 249 gerekçesinde, kullanma zimmeti suçunun gerek biçim gerekse süre açısından bazı durumlarda hoşgörüyle karşılanabileceği ifade edilerek mahkemelerin her kullanma fiili nedeniyle faile ceza verilmesi  önlenmek istenmiştir.
 
-![Zimmet Suçu Cezası](https://camo.githubusercontent.com/b465dac39a43fd03ab4b55be9fa05a7df3ba671b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4a6b47716c6f2e6a7067 "Zimmet Suçu Cezası")
+###![Zimmet Suçu Cezası](https://camo.githubusercontent.com/b465dac39a43fd03ab4b55be9fa05a7df3ba671b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4a6b47716c6f2e6a7067 "Zimmet Suçu Cezası")
 
 
 ###Zimmet Suçunun Cezası
@@ -69,7 +69,7 @@ TCK md. 249 gerekçesinde, kullanma zimmeti suçunun gerek biçim gerekse süre 
 * **Kullanma Zimmeti Suçu Cezası:** Kullanma zimmeti suçu cezası, failin suç konusu malı geçici bir süre kullanıp iade etmesi nedeniyle faile verilen cezadır. Kullanma zimmeti suçunun cezası, suçun temel şeklinde faile verilecek cezada  1/2  oranına kadar indirim yapılarak belirlenir. Örneğin, İstanbul  Bahçelievler Vergi Dairesi Müdürü vergi dairesi hesabına yatırılan parayı 3 gün boyunca kullandıktan sonra hesaba iade etse, suçun temel şeklinin cezası en az 5 yıl olarak belirlendikten sonra bu cezada 1/2  oranına kadar indirim yapılarak kullanma zimmeti suçunun cezası belirlenir. Mahkeme suçun işleniş biçimine göre faile 1/4, 1/3 veya 1/2 oranında indirim yapabilir. İndirim oranı olayın özellikleri dikkate alınarak yargılama neticesinde hakim tarafından belirlenir. Ancak kullanma zimmeti suçu indirim oranı 1/2 oranını geçemez.
 
 
-![Zimmet Suçu Cezası](https://camo.githubusercontent.com/9b8373bd22a13cbe8f3744265d13bab215d91e3c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f614d41644e342e6a7067 "Zimmet Suçu Cezası")
+###![Zimmet Suçu Cezası](https://camo.githubusercontent.com/9b8373bd22a13cbe8f3744265d13bab215d91e3c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f614d41644e342e6a7067 "Zimmet Suçu Cezası")
 
 
 
