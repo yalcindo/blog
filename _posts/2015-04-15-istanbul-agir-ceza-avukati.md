@@ -61,7 +61,7 @@ Suçun meydana getirdiği zararın giderilmesi halinde ceza indirimi yağma suç
 
 ###Zimmet Suçu ve Ağır Ceza Avukatı
 
-**Zimmet suçu**, kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. Zimmet suçu, esasen görevi kötüye kullanma suçunun özel bir şeklidir.
+[Zimmet suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html), kamu görevlisinin görevi sebebiyle kendisine teslim edilen veya muhafaza etmekle sorumlu olduğu malı kendisi veya başkasının zimmetine geçirilmesiyle oluşur. Zimmet suçu, esasen görevi kötüye kullanma suçunun özel bir şeklidir.
 
 **Ağır ceza avukatı**, zimmet suçu yargılamasında mutlaka kamu görevlisinin yaptığı işin teknik boyutu konusunda ayrıntılı bilgi almalıdır. Çünkü, kamu görevlisinin yaptığı işin teknik açıdan görev sayılıp sayılmayacağı zimmet suçu yargılamasında oldukça önemlidir. Zimmet suçunun oluşup oluşmadığı konusunda detaylı bir hesap raporu alınması gereken bir husus tespit edilirse, konunun uzman bilirkişilerden savunmayı güçlendirecek özel bilirkişi raporu alınarak mahkemeye sunulmalıdır.
 
