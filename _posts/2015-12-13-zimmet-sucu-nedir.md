@@ -9,7 +9,7 @@ summary: Zimmet nedir? Zimmet Suçu Nedir? Kullanma Zimmeti Suçu nedir? Zimmet 
 
 ##Zimmet Suçu Nedir
 
-**Zimmet suçu**, kamu görevlisi olan şahsın görevi nedeniyle zilyetliği kendisine verilmiş olan veya gözetimiyle sorumlu olduğu mallar üzerinde görev çerçevesine aykırı bir şekilde tasarrufta bulunması, bu malları kendisinin veya irtibatlı bulunduğu bir başkasının zimmetine geçirmesidir. Zimmet suçu, ancak kamu görevlisi tarafından işlenebilir. Kamu görevlisi olmayan kişiler zimmet suçu sebebiyle değil, koşulları varsa hırsızlık suçu veya güveni kötüye kullanma suçu nedeniyle yargılanabilirler.
+**Zimmet suçu**, kamu görevlisi olan şahsın görevi nedeniyle zilyetliği kendisine verilmiş olan veya gözetimiyle sorumlu olduğu mallar üzerinde görev çerçevesine aykırı bir şekilde tasarrufta bulunması, bu malları kendisinin veya irtibatlı bulunduğu bir başkasının zimmetine geçirmesi olarak tanımlanabilir. Zimmet suçu, ancak kamu görevlisi (devlet memuru, avukat, bilirkişi vs.) tarafından işlenebilir. Kamu görevlisi olmayan kişiler zimmet suçu sebebiyle değil, koşulları varsa hırsızlık suçu veya güveni kötüye kullanma suçu nedeniyle yargılanabilirler.
 
 ##Zimmet Suçu Şikayet Süresi
 
