@@ -112,7 +112,7 @@ Uygulamada adli sicil kaydının silinmesi ile ilgili mağduriyetler oluştuğun
 ###Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 
 
-Cezanız infaz edilmesine rağmen adli sicil kaydınız silinmemiş ise bir [Ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) ile durumu mütalaa ediniz. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir [**Adli Sicil Kaydının Silinmesi Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html) ile  başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT vasıtasıyla gönderebilirsiniz. 
+Cezanız infaz edilmesine rağmen adli sicil kaydınız silinmemiş ise bir [Ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) ile durumu mütalaa ediniz. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir [**Adli Sicil Kaydının Silinmesi Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html) ile  başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT şubesi vasıtasıyla gönderebilirsiniz. 
 
 
 **Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
