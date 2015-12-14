@@ -60,6 +60,9 @@ Sanık kasıtlı bir suçtan mahkum olmadığı halde adli sicil kaydında denet
 
 * **Zararın Tespiti ve Bilirkişi İncelemesi:** Ceza hakimi, zararı basit bir şekilde araştırmalı ve yaklaşık bir miktar belirlemelidir. Zarar miktarı açık değilse zararın belirlenmesinin tarafların subjektif adaletine terkedilmemesi gerekir. Ceza mahkemesi, suç nedeniyle oluşan zararı yaklaşık olarak tespit ederek ceza uyuşmazlığını çözmelidir. Bazen zararın yaklaşık olarak tespit edilmesi dahi hakimin bilgisini aşan bir teknik bilgi gerektirebilir. Bu durumda da mahkeme, zararın yaklaşık olarak tespiti için bilirkişi incelemesi yaptırarak zararı tespit etmelidir.
 
+* **Mağdurun Uğradığı Zararın Kısmen Giderilmesi:** Mağdurun uğradığı zarar tamamen değil, kısmen giderildiği takdirde HAGB kararı verilebilmesi için mağdurun HAGB kararı verilmesine rıza göstermesi gerekir. Mağdur veya müştekinin, zarar kısmen karşılandığında onayı yoksa sanık hakkında HAGB hükümleri uygulanamaz. Mağdur veya müştekinin zararın kısmen ödenmesini kabul etmesi, HAGB kararı verilmesine rıza gösterdikleri anlamına gelmez. Zararın kısmen tazmini halinde HAGB hükümlerinin uygulanması için mağdur veya müştekinin hükmün açıklanmasının geri bırakılması kararı verilmesine  ayrıca ve açıkça  rıza göstermesi gerekir.
+
+
 Ceza hakiminin yaptığı bu tespit kesin nitelikte bir tespit olmayıp ayrıca hukuk mahkemesinde tazminat davası açmaya engel değildir.
 
 Kamunun veya mağdurun uğradığı zararın denetim süresi içinde taksitlerle ödenmesi koşuluyla da **hükmün açıklanmasının geri bırakılması kararı** verilebilir.
