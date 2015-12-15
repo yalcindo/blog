@@ -121,7 +121,9 @@ h1 {
     font-family: "Doppio One";
 }
 
-
+.twitter-share-button{
+	vertical-align: bottom;
+}
 #links {
 }
 
