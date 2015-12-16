@@ -33,14 +33,14 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört farklı yöntemle adl
 
 Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, hakaret gibi) hükmedilen hapis cezasının miktarı 1 yıl veya altındaysa, hapis cezası adli para cezasına çevrilebilir. Taksirle işlenen suçlarda (örn, trafik kazası veya iş kazası neticesinde ölüm gibi) ise suçun cezasının paraya çevrilmesi için bir ceza sınırı yoktur. Taksirle işlenen suçlarda, hükmedilen cezanın miktarı ne olursa olsun (örneğin, taksirle işlenen bir suçtan 5 yıl hapis cezası verilse dahi ) her zaman paraya çevrilebilir. Suç taksirle işlenen suçlardan değilse, 2 yıl, 3 yıl veya 4 yıl gibi cezaların adli para cezasına çevrilmesi mümkün değildir. 
 
-Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur,  eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı adli para cezasına veya seçenek yaptırımlara çevirmek zorundadır. Ayrıca,  yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyük olması halinde de, hakim,  1 yıl veya altındaki hapis cezasını adli para cezasına veya seçenek yaprırımlara çevirmek zorundadır.
+Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur,  eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı adli para cezasına veya seçenek yaptırımlara çevirmek zorundadır. Ayrıca,  yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyük olması halinde de, hakim,  1 yıl veya altındaki hapis cezasını adli para cezasına veya seçenek yaprırımlara çevirmek zorundadır (TCK md.50/3).
 
 
 
 ###Adli Para Cezasına Çevrilen Suçlar?
 
 
-Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir.
+Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir (TCK md. 50/4).
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
 
@@ -59,8 +59,7 @@ Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına 
 ###Adli Para Cezası Ertelenir mi?
 
 [**Cezanın Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kurumu,
-sadece hapis cezaları için uygulanabilir. Adli para cezasının ertelenmesi, kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında erteleme kararı verilemez (TCK md.51). Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak adli para cezasına çevrilse bile ertelenmez. Hapis cezasının paraya çevrilmesi halinde, hapisten çevrilen bu para cezasının da ertelenmesi mümkün değildir. 
-
+sadece hapis cezaları için uygulanabilir. Adli para cezasının ertelenmesi, kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında erteleme kararı verilemez (TCK md.51). Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak adli para cezasına çevrilse bile ertelenemez. 
 
 ###Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
@@ -77,9 +76,13 @@ TCK, hapis veya adli para cezalarından herhangi birinin sanığa ceza olarak ve
 ###Adli Para Cezasının Ödenmemesi, Adli Para Cezası Ödeme Yoluyla Cezaevindeki Hükümlü Tahliye Olur mu?
 
 
-Tüm adli para cezaları için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye, bir adli para cezası ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye davet edilir. Adli para cezasının ödenmemesi, hükümlünün belli bir prosedüre göre bazı yükümlülükler içerisine girmesini gerektirir. Adli Para Cezası Ödeme emri üzerine adli para cezası ödenmezse, Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarı hapis cezasına çevrilerek, hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine uymaması hâlinde, çalıştığı günler hapis cezasından mahsup edilir, kalan kısım hapse çevrilir. Hapse çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur. Süresinde ödenmeyen ve çalışmayla ilgili denetimli serbestlik kurallarına uymayan hükümlü ile ilgili adli para cezası, hapse çevrildikten sonra ödenirse, hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
+Tüm adli para cezaları için, ne şekilde verilmiş olursa olsun (yukarıda açıkladığımız tüm şekillerde verilen adli para cezaları) hükümlüye bir adli para cezası ödeme emri tebliğ edilir. Tebliğ olunan ödeme emriyle hükümlü, belli süre içinde adli para cezasını ödemeye veya kamuya yararlı işte çalışma tedbirini kabul ediyorsa, kabul ettiğini beyan etmeye davet edilir.
 
-Adli para cezasının ödenmemesi, hükümlünün tüm haklarını kaybetmesine yol açmaz. Hükümlü ödeme yaparak her zaman cezadan kurtulabilir. 
+* Hükümlü kamuya yararlı işte çalışmayı kabul ederse; hükümlünün iki saat çalışması karşılığı bir gün olmak üzere kamuya yararlı bir işte çalıştırılmasına karar verilir. Böylelikle hükümlü kamuya yararlı işte çalışarak tüm cezasını infaz edebilir. Günlük çalışma süresi, en az iki saat ve en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir. Hükümlünün, hakkında hazırlanan programa ve denetimli serbestlik görevlilerinin bu kapsamdaki uyarı ve önerilerine uymaması hâlinde; çalıştığı günler hapis cezasından mahsup edilir, kalan kısım ise hapis cezasına çevrilir. Hapis cezasına çevrilen cezanın infazı için hükümlü tutuklanarak cezaevine konulur.
+
+* Adli para cezasını ödemeyen ve kamuya yararlı işte çalışma isteminde bulunmayan hükümlü, belli bir prosedüre göre bazı yükümlülükler içerisine girer. Adli Para Cezası Ödeme Emri üzerine, adli para cezası ödenmez ve kamuya yararlı işte çalışma tedbiri süresi içinde kabul edilmezse; Cumhuriyet Savcısının kararı ile hükümlüye verilen para cezasının ödenmeyen kısmı hapis cezasına çevrilir. Süresinde ödenmeyen veya çalışmayla ilgili denetimli serbestlik kurallarına uymayan hükümlü ile ilgili adli para cezası, hapse çevrildikten sonra ödenirse hükümlü tahliye edilir. Yani, tüm adli para cezaları, ne şekilde hapse çevrilmiş olursa olsun, hükümlü hapisteyken ödenerek tahliyesi sağlanabilir.
+
+Adli para cezasının ödenmemesi, hükümlünün tüm haklarını kaybetmesine yol açmaz. Hükümlü ödeme yaparak her zaman hapis cezasından kurtulabilir. 
 
 ###18 Yaşından Küçük Çocuklar Hakkında Hükmedilen Adli Para Cezası Ödenmezse Ne Olur?
 
