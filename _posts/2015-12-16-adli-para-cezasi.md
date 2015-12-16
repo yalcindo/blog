@@ -10,7 +10,7 @@ keywords: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezas
 ##Adli Para Cezası Nedir? 
 
 
-TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. [***İdari Para Cezası,***](http://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html) suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez.  
+TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. [***İdari Para Cezası,***](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html) suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez.  
 
 ###![Adli Para Cezası](https://camo.githubusercontent.com/42bde062f8f2d9ad68663a755375f1932eb4dd07/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a34412e6a7067 "Adli Para Cezası")
 
@@ -46,24 +46,24 @@ Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlen
 
 **Kasten işlenip adli para cezasına çevrilebilecek bazı suçlar aşağıdadır:**
 
-* **Malvarlığına Karşı Suçlar:** [*Dolandırıcılık Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [*Hırsızlık Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [*Mala Zarar Verme Suçu,*]( http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) [*Güveni Kötüye Kullanma Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
+* **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** Kasten Adam Yaralama Suçu (örneğin, 2 ay veya 4 ay hapis cezası).
-* **Hürriyete Karşı Suçlar:**[*Tehdit Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
-* **Özel Hayata ve Şerefe Karşı Suçlar:** [*Hakaret Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) Kişisel Verilerin Kaydedilmesi Suçu,  [*Özel Hayatın Gizliliğini İhlal Suçu*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html). 
+* **Hürriyete Karşı Suçlar:**[Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html). 
 * **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Trafik Güvenliğini Tehlikeye Sokma Suçu.
-* **Kamu Güvenine Karşı Suçlar:** [*Özel Belgede Sahtecilik Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) Açığa İmzanın Kötüye Kullanılması Suçu.
-* **Diğer Suçlar:** [*Bilişim Suçları,*](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) Görevi Yaptırmamak İçin Direnme Suçu, [*Görevi Kötüye Kullanma Suçu,*](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html) İftira Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Ses veya Görüntülerin Kayda Alınması Suçu(örneğin 8 ay hapis cezası), Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu,  Mühür Bozma (Fekki) Suçu.
+* **Kamu Güvenine Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), Açığa İmzanın Kötüye Kullanılması Suçu.
+* **Diğer Suçlar:** [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), İftira Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Ses veya Görüntülerin Kayda Alınması Suçu(örneğin 8 ay hapis cezası), Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu,  Mühür Bozma (Fekki) Suçu.
 
-Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına göre adli para cezasına çevrilip çevrilmeyeceğini bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa ediniz.
+Hakkınızda bir ceza davası varsa, suçun niteliği ve olası ceza miktarına göre adli para cezasına çevrilip çevrilmeyeceğini bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa ediniz.
 
 ###Adli Para Cezası Ertelenir mi?
 
-[**Cezanın Ertelenmesi**](http://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kurumu,
+[**Cezanın Ertelenmesi**](https://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) kurumu,
 sadece hapis cezaları için uygulanabilir. Adli para cezasının ertelenmesi, kanuni engel nedeniyle mümkün değildir. TCK' da ancak hapis cezalarının ertelenebileceği düzenlendiğinden adli para cezaları hakkında erteleme kararı verilemez (TCK md.51). Kişinin mahkum olduğu hapis cezası, seçenek yaptırım olarak adli para cezasına çevrilse bile ertelenemez. 
 
 ###Adli Para Cezası Hakkında Hükmün Açıklanmasının Geri Bırakılması Kararı Verilebilir mi?
 
-[**Hükmün Açıklanmasının Geri Bırakılması**](http://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. Hükmün açıklanmasının geri bırakılması, sanık için adli para cezasından çok daha avantajlı bir hukuki statü meydana getirir.
+[**Hükmün Açıklanmasının Geri Bırakılması**](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), yargılanan kişi hakkında verilen mahkumiyet hükmünün hiçbir sonuç doğurmaması olarak tarif edilebilir. Kişi 5 yıl gibi bir süreyle denetime tabi tutulur, denetim süresinde suç işlenmezse hakkındaki mahkumiyet kararı ortadan kalkar. Hükmün açıklanmasının geri bırakılması, sanık için adli para cezasından çok daha avantajlı bir hukuki statü meydana getirir.
 
 TCK, bazı suçlara yukarıda açıkladığımız üzere doğrudan adli para cezası verilmesini öngörmüştür. Doğrudan adli para cezasına mahkumiyet halinde, adli para cezası verilmesi hakkındaki hükmün açıklanmasının geri bırakılmasına karar verilebilir. 
 
@@ -104,7 +104,9 @@ Adli para cezası yaptırımının infazına ilişkin hukuk sistemimizde birçok
 
 *	**01.03.2008- Tarihinden Bugüne Kadar Olan Dönem:** Bu tarihten sonra işlenen suçlarda hiçbir şekilde koşullu salıverilme uygulamasından yararlanılamaz. Hakimin yargılama sırasında doğrudan, gün üzerinden veya hapis cezasından çevirdiği para cezası aynen ödenmek zorundadır. Adli para cezası, ödenmediği takdirde hakim, 1 gün karşılığında ne kadar para ödenmesine karar vermişse o miktar üzerinden hapse çevrilir. Kişi hapse konulduktan sonra, adli para cezasını ödemek isterse yattığı süre düşülerek kalan süre hangi miktar üzerinden hapse çevirme işlemi yapılmışsa o miktar üzerinden paraya çevrilir.
 
-01.03.2008 tarihinden sonra adli para cezası ödenmediğinde, koşullu salıverilme hükümleri uygulanamayacağı gibi denetimli serbestlik hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan denetimli serbestlik kuralı da adli para cezaları açısından  uygulanamaz.  [**Denetimli Serbestlik**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. 
+01.03.2008 tarihinden sonra adli para cezası ödenmediğinde, koşullu salıverilme hükümleri uygulanamayacağı gibi denetimli serbestlik hükümleri de uygulanamaz. Ceza İnfaz Kanunu m.105/A’da öngörülen koşullu salıverilmeye 1 yıl kaldığında uygulanan denetimli serbestlik kuralı da adli para cezaları açısından  uygulanamaz. 
+
+[**Denetimli Serbestlik**](https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), bir koşullu salıverilme tedbiri olup adli para cezasından kaynaklanmayan hapis cezaları için geçerlidir. 
 
 
 
@@ -125,7 +127,7 @@ Hakim, hükmettiği adli para cezasını taksitlendirmeyebilir veya ödenmesi i�
 ###Adli Para Cezası Nereye ve Nasıl Ödenir? 
 
 
-Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
+Adli para cezası verilmesine dair hüküm kesinleştikten sonra infazı amacıyla Cumhuriyet Savcılığı'na verilir. Adli Para Cezası'nın nereye ve nasıl ödeneceğine dair ayrıntılı prosedür şu linkte yazdığımız yazıda mevcuttur: [**Adli Para Cezası Nereye Ödenir?**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi-nereye-odenir.html)
 
 ###![Adli Para Cezası](https://camo.githubusercontent.com/cd459e4e475755ba4476b7f161e6d0ccde11c820/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c456a354a6f2e6a7067 "Adli Para Cezası")
 
@@ -147,7 +149,7 @@ Mahkemenin hükmettiği adli para cezası, yukarıda açıkladığımız şekild
 ###Adli Para Cezası Sicile İşler mi? Adli Sicil/Sabıka Kaydı Bilgilerini Nasıl Silebilirim? 
 
 
-Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır. Adli para cezasına ilişkin [**Adli Sicil Kaydının Silinmesi**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html), Adli Sicil ve İstatistik Genel Müdürlüğü tarafından kendiliğinden yapılır. Kendiliğinden silinmeyen kayıtlar için dilekçeyle kaydın silinmesi talep edilmelidir. 
+Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır. Adli para cezasına ilişkin [**Adli Sicil Kaydının Silinmesi**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html), Adli Sicil ve İstatistik Genel Müdürlüğü tarafından kendiliğinden yapılır. Kendiliğinden silinmeyen kayıtlar için dilekçeyle kaydın silinmesi talep edilmelidir. 
 
 ###Adli Para Cezası Sorgulama
 
