@@ -35,12 +35,13 @@ Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, do
 
 Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
 
+
+###![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
+
 ###4. Denetimli Serbestlik Şartları
 
 
 Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
-
-###![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
 
 Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
@@ -93,6 +94,9 @@ imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasa
 
 Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa denetimli serbestlik kanunu nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
+
+
+
 ###6. Denetimli serbestlik ve Adli Para Cezası
 
 
@@ -109,6 +113,8 @@ Denetimli serbestlik uygulamasında hükümlüler en çok imza ihlali yapmaktad�
 Hükümlünün tahliye olduktan sonra denetimli serbestlik müdürlüğüne 3 gün içinde müracaat zorunluluğu vardır. Hükümlü, 3 günlük sürenin bitiminden itibaren 2 gün içinde müracaat etmezse hakkında TCK md. 292’de düzenlenen “Hükümlü ve Tutuklunun Kaçması” gereği soruşturma başlatılır. Aynı durum, kapalı cezaevine iade kararı verilip de 2 gün içinde en yakın Cumhuriyet Başsavcılığına müracaat etmeyen hükümlüler için de geçerlidir.
 
 Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestlik Yönetmeliği**](http://www.resmigazete.gov.tr/eskiler/2013/03/20130305-7.htm) ile düzenlenmiştir.
+
+###![Denetimli Serbestlik](https://camo.githubusercontent.com/55fec71127dfd60059e55a93e79e1fa205607967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f36717a6b6d6b2e6a7067 "Denetimli Serbestlik")
 
 ###8. Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
