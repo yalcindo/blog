@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Bazı Suçlarda Ceza İndirimi ve Etkin Pişmanlık
+title: Etkin Pişmanlık ve Ceza İndirimi
 category: ceza-hukuku
 googleAnahtar: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, etkin pişmanlık yasası, etkin pişmanlık tck, istanbul avukat, bakırköy avukat, ataköy 
 keywords: Etkin pişmanlık, ceza indirimi, Ceza avukatı, etkin pişmanlık nedir, etkin pişmanlık yasası, etkin pişmanlık tck, ağır ceza avukatı, istanbul avukat, bakırköy avukat, ataköy avukat
