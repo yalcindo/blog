@@ -18,16 +18,16 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 ###2. Denetimli Serbestlik Yasası
 
 
-**Denetimli serbestlik yasası** olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya denetimli serbestlik yasası denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için “denetimli serbestlik yasası” kavramını kullanacağız.
+Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesiyle getirilen düzenlemeleri ifade etmektedir. Bu yasaya denetimli serbestlik yasası denilmesinin sebebi 5275 sayılı Ceza İnfaz Kanunu’na yapılan bir ilaveyle birçok kişinin cezaevinden tahliyesinin sağlanmış olmasıdır. Biz de anlaşılır olabilmek için “denetimli serbestlik yasası” kavramını kullanacağız.
 
 ###![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
 ###3. Denetimli Serbestlik Kaç Yıl 
 
 
-**Denetimli serbestlik yasası,** ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir.
+Denetimli serbestlik yasası, ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir.
 
-Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde **denetimli serbestlik** tedbiri yoluyla tahliyesini talep edebilecektir. 
+Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2015 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2017 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2016 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. 
 
 Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza mikatarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan hükümlüler 31.12.2015 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
@@ -38,11 +38,11 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 ###4. Denetimli Serbestlik Şartları
 
 
-**Denetimli serbestlik yasası,** cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
+Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
 
-Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
+Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
 ####a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
 
@@ -50,7 +50,7 @@ Hükümlünün **denetimli serbestlik** uygulamasından yararlanabilmesi için b
 
 Son 6 ayını cezaevinde geçirme şartı, 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra denetimli serbestlik yasasından yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
-[**Açık Cezaevine Ayrılma Şartları**](http://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu kapalı cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden denetimli serbestlik yasasından yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir **ceza  avukatı** ile görüşülmelidir.
+[**Açık Cezaevine Ayrılma Şartları**](https://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu kapalı cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden denetimli serbestlik yasasından yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir ceza  avukatı ile görüşülmelidir.
 
 
 
@@ -66,37 +66,37 @@ Hükümlünün denetimli serbestlik yasasından yararlanabilmesi için “iyi ha
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
 
 
-**Denetimli serbestlik uygulaması** ancak hükümlünün talebi halinde uygulanabilir. **Denetimli serbestlik yasası,** kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
+Denetimli serbestlik uygulaması ancak hükümlünün talebi halinde uygulanabilir. Denetimli serbestlik yasası, kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
 
-Hükümlü **denetimli serbestlik yasası** gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
+Hükümlü denetimli serbestlik yasası gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
 ###![Denetimli Serbestlik](https://camo.githubusercontent.com/e88e514054c89bf7ff499210de4cb55ce5813ee6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32713152312e6a7067 "Denetimli Serbestlik")
 
 ###5. Denetimli Serbestliğe Uymama
 
 
-Hükümlü **denetimli serbestlik yasası** ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. Denetimli serbestliğe uymama halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
+Hükümlü denetimli serbestlik yasası ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. Denetimli serbestliğe uymama halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
 ####a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 
 
-Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. **Denetimli serbestlik yasası** ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
+Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. Denetimli serbestlik yasası ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
 
 ####b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
 
 
-Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde **denetimli serbestlik yasası** ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
+Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde denetimli serbestlik yasası ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
 imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
 
 ####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 
 
-Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa **denetimli serbestlik kanunu** nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
+Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa denetimli serbestlik kanunu nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
 ###6. Denetimli serbestlik ve Adli Para Cezası
 
 
-[**Adli para cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) ödenmezse hükümlü önce kamuya yararlı bir işte çalışmaya davet edilir, kamuya yararlı işte çalışma şartı da hükümlü tarafından yerine getirilmezse adli para cezası hapis cezasına çevrilir. Adli para cezası ödenmediği için hapis cezasına çevrilirse hükümlü hakkında denetimli serbestlik kanunu hükümleri uygulanamaz. **Denetimli serbestlik,** yalnızca mahkeme tarafından verilen doğrudan hapis cezaları için uygulanabilecek bir kurumdur. Bu nedenle, adli para cezaları için bir koşullu salıverilme biçimi olan denetimli serbestlik uygulanamaz.
+[**Adli para cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) ödenmezse hükümlü önce kamuya yararlı bir işte çalışmaya davet edilir, kamuya yararlı işte çalışma şartı da hükümlü tarafından yerine getirilmezse adli para cezası hapis cezasına çevrilir. Adli para cezası ödenmediği için hapis cezasına çevrilirse hükümlü hakkında denetimli serbestlik kanunu hükümleri uygulanamaz. Denetimli serbestlik, yalnızca mahkeme tarafından verilen doğrudan hapis cezaları için uygulanabilecek bir kurumdur. Bu nedenle, adli para cezaları için bir koşullu salıverilme biçimi olan denetimli serbestlik uygulanamaz.
 
 
 ###7. Denetimli Serbestlik Yasası'nın İhlali ve Sonuçları
@@ -116,7 +116,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
-**Denetimli serbestlik,** bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanmalıdır.
+Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanmalıdır.
 
 01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
@@ -142,13 +142,13 @@ Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; bir kez tek
 
 Denetimli serbestlik, istisnalar dışında tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
 
-* **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](http://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](http://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
+* **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, Taksirle Adam Öldürme Suçu, Taksirle Adam Yaralama Suçu.
-* **Hürriyete Karşı Suçlar:** [Tehdit Suçu](http://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
-* **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](http://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](http://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html),
+* **Hürriyete Karşı Suçlar:** [Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html),
 Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
-* **Kamu Güvenine ve Adliyeye Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu](http://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), Açığa İmzanın Kötüye Kullanılması Suçu, [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), Mühür Bozma (Fekki) Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Yalan Yere Yemin Suçu, Suçu Bildirmeme Suçu, Ses veya Görüntülerin Kayda Alınması Suçu, Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu, Hükümlü ve Tutuklunun Kaçması Suçu (Fira Suçu). 
-* **Diğer Bazı Suçlar:** [Bilişim Suçları](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](http://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
+* **Kamu Güvenine ve Adliyeye Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), Açığa İmzanın Kötüye Kullanılması Suçu, [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), Mühür Bozma (Fekki) Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Yalan Yere Yemin Suçu, Suçu Bildirmeme Suçu, Ses veya Görüntülerin Kayda Alınması Suçu, Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu, Hükümlü ve Tutuklunun Kaçması Suçu (Fira Suçu). 
+* **Diğer Bazı Suçlar:** [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
 
 
 
@@ -158,20 +158,20 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 
 ---
 
-* Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda **denetimli serbestlik yasası** uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
+* Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda denetimli serbestlik yasası uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
-* Hükümlü **denetimli serbestlik yasası** ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün **denetimli serbestlik yasası** uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
+* Hükümlü denetimli serbestlik yasası ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün denetimli serbestlik yasası uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
 
 * Hükümlünün aynı mahkeme kararıyla hem hapis cezasına hem de adli para cezasına mahkum olması halinde, cezaların sıraya konularak infazı gereklidir. Her ceza için ayrı ayrı denetimli serbestlik yasasından yararlanılamaz. Denetimli serbestlik yasasından ancak bir kez yararlanılabilir (Yargıtay 11. Ceza Dairesi - 2014/7852 karar).
 
-* Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile **denetimli serbestlik yasası**ndan ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
+* Hükümlü hakkında farklı mahkemelerce verilen kasten yaralama ve uyuşturucu madde ticaretine dair mahkumiyetler toplanararak toplam 5 yıl 10 ay hapis cezası tespit edilmiştir. Hükümlü iki farklı mahkeme kararı olsa bile denetimli serbestlik yasasından ancak bir kez yararlanabilir (Yargıtay 10. Ceza Dairesi - 2014/467 karar).
 
 * Hükümlü, denetimli serbestlik yasasından yararlanarak tahliye olduktan sonra, denetim süresi içinde yeniden bir suç işlemiş ve söz konusu suça ilişkin mahkemece verilen mahkumiyet hükmü kesinleşmiştir. Bu durumda hükümlü, denetimli serbestlik hükümlerine aykırı hareket ettiğinden her iki suça ilişkin hapis cezası cezaevinde infaz edilmelidir (Yargıtay 11. Ceza Dairesi - 2014/459 karar).
 
 ###Denetimli Serbestlik Sorgulama ve Adli Sicil Kaydı
 
 
-[**Adli sicil kaydının silinmesi,**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. **Denetimli serbestlik yasası uygulaması** da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. **Denetimli serbestlik** uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
+[**Adli sicil kaydının silinmesi,**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. Denetimli serbestlik yasası uygulaması da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. Denetimli serbestlik uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
 
 
 
