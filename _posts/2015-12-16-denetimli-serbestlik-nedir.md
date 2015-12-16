@@ -56,17 +56,14 @@ Son 6 ayını cezaevinde geçirme şartı, 5275 sayılı Ceza İnfaz Kanunu’nu
 
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da denetimli serbestlik yasasından yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için denetimli serbestlik yasasından yararlanabilir.
 
-####b. Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı
+* **Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı:** Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz. Mahkum olduğu cezanın 1/5’ini çocuk cezaevinde geçiren çocuk hükümlü, diğer koşulları yerine getirmek kaydıyla denetimli serbestlik yasasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
 
-
-Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz, toplam cezasının 1/5’ini çocuk cezaevinde geçiren hükümlü denetimli serbestlik yasasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
-
-####c. Hükümlünün İyi Halli Olması Şartı
+####b. Hükümlünün İyi Halli Olması Şartı
 
 
 Hükümlünün denetimli serbestlik yasasından yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığı, cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
-####d. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
+####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
 
 
 **Denetimli serbestlik uygulaması** ancak hükümlünün talebi halinde uygulanabilir. **Denetimli serbestlik yasası,** kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
@@ -125,9 +122,9 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ###Denetimli Serbestlik ile İlgili Kanun Tasarısı
 
-Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 25.11.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
+Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 16.12.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
 
-Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda düzenlemeler yapılacaktır. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz.
+Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda düzenlemeler yapılacaktır. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz. 
 
 ###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
 
@@ -140,6 +137,8 @@ Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suçlar açısından 
 * Cezası infaz edilmekteyken başka bir suçtan tutuklanan hükümlülerin tutukluluğu bitinceye kadar,
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
 
+
+Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; bir kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik uygulamasından yararlanabilir. Ancak, ikinci kez tekerrür hükümleri uygulanan hükümlünün denetimli serbestlik uygulamasından yararlanması mümkün değildir.
 
 Denetimli serbestlik, istisnalar dışında tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
 
