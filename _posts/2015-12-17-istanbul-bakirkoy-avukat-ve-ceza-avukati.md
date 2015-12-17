@@ -73,7 +73,7 @@ Bakırköy adliyesi aynı zamanda bir ağır ceza mahkemesi çevresine sahiptir.
 
 Bakırköy adliyesinde İş Mahkemesi, Aile Mahkemesi, Tüketici Mahkemesi, Asliye Ticaret Mahkemesi gibi mahkemeler de ihtisas mahkemeleri olarak bu adliye bünyesinde yer almaktadır.
 
-**Bakırköy** adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyelerin ağır ceza çevresi olduğundan bu mahkemelere gelen ağır ceza davaları Bakırköy adliyesinde görülmektedir. 
+Bakırköy adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyelerin ağır ceza çevresi olduğundan bu mahkemelere gelen ağır ceza davaları Bakırköy adliyesinde görülmektedir. 
 
 [![Bakırköy Avukat Adliye](http://i.hizliresim.com/d21pJn.jpg)](https://hizliresim.com/d21pJn "Bakırköy Adliyesi")
 
