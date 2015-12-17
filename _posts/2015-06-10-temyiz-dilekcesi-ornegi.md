@@ -8,9 +8,9 @@ keywords: Temyiz, temyiz dilekçesi, temyiz dilekçe örneği, ceza avukatı, a�
 ---
 
 
-Bakırköy Ağır Ceza Mahkemesi tarafından **"Güveni Kötüye Kullanma Suçu"** ile **"Resmi Evrakta Sahtecilik Suçu"** nedeniyle bir sanık hakkında verilen kararın **temyiz dilekçesi** aşağıdadır.
+Bakırköy Ağır Ceza Mahkemesi tarafından [**"Güveni Kötüye Kullanma Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html) ile [**"Resmi Evrakta Sahtecilik Suçu"**]( https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) nedeniyle bir sanık hakkında verilen kararın **temyiz dilekçesi** aşağıdadır.
 
-**Temyiz dilekçesi,** bizzat yargılanan sanık, sanığın eşi, yasal temsilcisi veya bir **ceza avukatı** aracılığıyla mahkemeye verilebilir.
+**Temyiz dilekçesi,** bizzat yargılanan sanık, sanığın eşi, yasal temsilcisi veya bir [**Ceza Avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla mahkemeye verilebilir.
 
 
 
