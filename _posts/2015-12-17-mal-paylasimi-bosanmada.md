@@ -9,7 +9,7 @@ keywords: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halind
 ##Boşanmada Mal Paylaşımı Nedir?
 
 
-**Boşanmada mal paylaşımı,** boşanan insanlar tarafından sistem tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, **mal paylaşımı** sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan **boşanmada mal paylaşımı** sistemini anlaşılır bir şekilde anlatmak istedik.
+**Boşanmada mal paylaşımı,** sistem uygulayıcılar tarafından tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Taraflar açısından da çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, **mal paylaşımı** sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan **boşanmada mal paylaşımı** sistemini anlaşılır bir şekilde anlatmak istedik.
 
 Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. Mal paylaşımı konusunda 01.01.2002 tarihinden önceki dönemin tabi olduğu hukuki kurallar ile bu tarihten sonraki dönemin tabi olduğu hukuki kurallar tamamen farklıdır. 
 
