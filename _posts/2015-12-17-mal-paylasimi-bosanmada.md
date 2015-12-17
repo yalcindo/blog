@@ -152,7 +152,7 @@ Boşanmada mal paylaşımı davalarında bir zamanaşımı süresi mevcuttur. Bo
 * Katılma alacağı talep edebilmek için eşlerden birinin diğerinin mal elde etmesine katkı suması zorunlu değildir. Mahkeme, **boşanmada mal paylaşımı** konusu olan taşınmazın sürüm değerini esas alarak, önce eklenecek değerleri eklemeli (MK md. 229), daha sonra denkleştirme yapmalı (MK md. 230), mal nedeniyle elde edilen değerler de malın değerine eklenmeli (MK md. 219), malın bu şekilde bulunan toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (MK md. 231) yarısı üzerinden (MK md.236/1) dava kabul edilmelidir (Yargıtay 8. Dairesi - Esas: 2012/8516, , Karar: 2012/12142, Karar Tarihi: 11.12.2012 ).
 
 
-Boşanmada mal paylaşımı sistemi, evli çiftlerin boşandıktan sonraki hayatına sosyo-ekonomik zemin sağlayan önemli bir medeni hukuk kurumudur. Boşanmada mal paylaşımı davası; yargılama usulü, delil toplama biçimi ve hakimin resen kullandığı yetkiler dikkate alındığında özgün nitelikte bir özel hukuk davasıdır.
+Boşanmada mal paylaşımı sistemi, evli çiftlerin boşandıktan sonraki hayatına sosyo-ekonomik zemin sağlayan önemli bir medeni hukuk kurumudur. Boşanmada mal paylaşımı davası; yargılama usulü, delil toplama biçimi ve hakimin resen kullandığı yetkiler dikkate alındığında özgün nitelikte bir özel hukuk davasıdır. Bu nedenle boşanmada mal paylaşımı davasının bir [**Boşanma Avukatı**](https://barandogan.av.tr/blog/medeni-hukuk/bosanma-avukati.html) vasıtasıyla takip edilmesi hakkın etkin kullanımı açısından faydalı olacaktır.
 
 
 
