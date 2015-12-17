@@ -53,7 +53,7 @@ Müvekkil sanık hakkında TCK md.43/1 gereği Zincirleme Suç hükümlerinin te
 
 **3. MAHKEMENİN MÜVEKKİL HAKKINDAKİ CEZAYA GEREKÇE GÖSTERDİĞİ DELİLLER, DUYDUĞUNU SÖYLEYEN TANIK BEYANI (HEARSAY) VE GÖRGÜYE DAYANMAYAN MÜŞTEKİ ANLATIMIDIR**				
 
-.....…A.Ş.’nin çalışanı olan tanık M.D., müvekkilimin kendisine “.... Bey birtakım dolaplar çeviriyor,oradan da paralar kazanıyor, bizi de ortak etti vs…” dediğini tanık olarak beyan etmiş, yerel mahkeme de bu ifadeyi müvekkili cezalandırmanın en önemli dayanağı yapmıştır. Tanık M.D’nin beyanı DUYDUĞUNU SÖYLEYEN TANIK (HEARSAY) niteliğindedir. Hearsay tanıkların beyanı kural olarak tek başına hukuki değere sahip değildir. Bu şekildeki tanıklık bir delile ulaşmanın vasıtası olarak kabul edilebilir ya da somut teknik başkaca delil varsa hearsay tanığın söyledikleri de “belirti” olarak kabul edilebilir. Fakat yerel mahkemenin yanlış değerlendirdiği gibi hearsay tanık beyanları ceza muhakemesinde doğrudan delil olarak, hele hele tek delil olarak asla kabul edilemezler.
+.....…A.Ş.’nin çalışanı olan tanık M.D., müvekkilimin kendisine 01.01.2016 tarihinde  “.... Bey birtakım dolaplar çeviriyor,oradan da paralar kazanıyor, bizi de ortak etti vs…” dediğini tanık olarak beyan etmiş, yerel mahkeme de bu ifadeyi müvekkili cezalandırmanın en önemli dayanağı yapmıştır. Tanık M.D’nin beyanı DUYDUĞUNU SÖYLEYEN TANIK (HEARSAY) niteliğindedir. Hearsay tanıkların beyanı kural olarak tek başına hukuki değere sahip değildir. Bu şekildeki tanıklık bir delile ulaşmanın vasıtası olarak kabul edilebilir ya da somut teknik başkaca delil varsa hearsay tanığın söyledikleri de “belirti” olarak kabul edilebilir. Fakat yerel mahkemenin yanlış değerlendirdiği gibi hearsay tanık beyanları ceza muhakemesinde doğrudan delil olarak, hele hele tek delil olarak asla kabul edilemezler.
 
 Yerel mahkemenin gerekçeli kararında delil olarak dayandığı müşteki beyanları görgüye dayalı değildir. Müşteki sosyal olayın oluş biçiminden kendi beyanlarını derlemiştir. Yoksa suç isnadlarının dayanağı olan hiçbir iddiayı somut olarak  görmemiştir. Bu nedenle beyanlarının delil değeri yoktur.
  
@@ -85,8 +85,7 @@ Ceza muhakemesinde deliller arasındaki boşluklar,akıl yürütme yoluyla doldu
 
 **SONUÇ VE İSTEM	:**  
 
-Yukarıda açıkladığımız gerekçelerle veya mahkemenizin resen gözeteceği gerekçelerle, usul ve yasaya aykırı yerel mahkeme kararının BOZULMASINI talep ederiz. 10.10.2015
-							                                
-												Sanık Müdafii                  
-												Avukat Baran Doğan
-								                                
+Yukarıda açıkladığımız gerekçelerle veya mahkemenizin resen gözeteceği gerekçelerle, usul ve yasaya aykırı yerel mahkeme kararının BOZULMASINI talep ederiz. 16.12.2016	
+
+Sanık Müdafii                  
+Avukat Baran Doğan
