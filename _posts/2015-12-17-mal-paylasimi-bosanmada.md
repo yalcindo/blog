@@ -25,7 +25,7 @@ Her iki dönem açısından da temel kural evlenmeden önce alınan mallar kimin
 ###Boşanmada Mal Paylaşımı Nasıl Yapılır?
 
 
-Mal paylaşımının esası evlilik içerisinde elde edilen malların paylaşılmasıdır. Bu nedenle evlilikten önce elde edilen mallar hiçbir surette mal paylaşımına dahil edilemez. Evlilik içerisinde elde edilen malların paylaşımında kural, malların yarı yarıya paylaşımı ise de bu kuralın paylaşım oranını değiştiren bazı uygulama esasları vardır. Boşanma sırasında mallar paylaşılırken anahatlarıyla şöyle bir prosedür işlemeye başlar:
+Boşanmada mal paylaşımının esası evlilik içerisinde elde edilen malların paylaşılmasıdır. Bu nedenle evlilikten önce elde edilen mallar hiçbir surette mal paylaşımına dahil edilemez. Evlilik içerisinde elde edilen malların paylaşımında kural, malların yarı yarıya paylaşımı ise de bu kuralın paylaşım oranını değiştiren bazı uygulama esasları vardır. Boşanma sırasında mallar paylaşılırken anahatlarıyla şöyle bir prosedür işlemeye başlar:
 
 **1- Boşanmada mal paylaşımı yapılırken öncelikle her eş kendi kişisel mallarını geri alır, yani bu mallar paylaşıma dahil edilmez. Kişisel mal sayılan bu mallar şunlardır:**
 
