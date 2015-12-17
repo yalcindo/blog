@@ -142,7 +142,7 @@ Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgele
 Özel belgenin başka bir suçun işlenmesi sırasında kullanılması halinde, fail, hem özel evrakta sahtecilik suçundan hem de işlenen diğer suçtan ayrı ayrı cezalandırılır (TCK md. 212).
 
 
-Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyen bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
+Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu, kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyerek kamu düzenini bozan bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
 
 
 **Bakırköy-İstanbul Avukat Baran Doğan**
