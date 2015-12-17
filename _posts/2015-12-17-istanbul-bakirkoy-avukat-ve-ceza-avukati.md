@@ -12,7 +12,7 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 İstanbul Barosu, avukat sayısı bakımından dünyanın en büyük barosudur. Baro levhasında avukat sicil numarası 50.000 rakamını geçmiştir. Fakat baroya kayıtlı avukatların bir kısmı aktif olarak avukatlık yapmamaktadır. Bu nedenle İstanbul avukat sayısının 40.000 civarında olduğunu söylemek mümkündür.
 
-İstanbul Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. İstanbul gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. İstanbul Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, **Avukat** Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
+İstanbul Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. İstanbul gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. İstanbul Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, Avukat Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
 
 [![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg)](https://hizliresim.com/d21pDp "İstanbul Barosu")
 
