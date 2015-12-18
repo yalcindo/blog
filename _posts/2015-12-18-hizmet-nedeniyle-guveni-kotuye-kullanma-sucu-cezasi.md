@@ -2,7 +2,7 @@
 layout: blog
 title: Güveni Kötüye Kullanma Suçu (Emniyeti Suistimal Suçu)
 category: ceza-hukuku
-googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu,  ceza avukatı, ağır ceza avukatı, bakırköy avukat
+googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, İstanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat
 summary: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları
 keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Şartları ve Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları, Florya Avukat, ceza avukatı, bakırköy avukat
 ---
@@ -27,7 +27,7 @@ Güveni kötüye kullanma suçu (emniyeti suistimal suçu) beş farklı şekilde
 
 ##Güveni Kötüye Kullanma Suçu Şikayet Süresi
 
-**Güveni kötüye kullanma suçu,** basit ve nitelikli hal olmak üzere iki şekilde işlenebilir. Suçun basit şekli şikayete tabidir. Şikayet süresi, suçun işlendiğinin ve failinin öğrenildiği tarihten başlamak üzere 6 aydır. Suça dair şikayet hakkı 6 ay içerisinde kullanılmaz ise, bir daha aynı fiil ile ilgili şikayet hakkı kullanılamaz.
+Güveni kötüye kullanma suçu, basit ve nitelikli hal olmak üzere iki şekilde işlenebilir. Suçun basit şekli şikayete tabidir. Şikayet süresi, suçun işlendiğinin ve failinin öğrenildiği tarihten başlamak üzere 6 aydır. Suça dair şikayet hakkı 6 ay içerisinde kullanılmaz ise, bir daha aynı fiil ile ilgili şikayet hakkı kullanılamaz.
 Suçun nitelikli hallerinde şikayet süresi yoktur. Suçun nitelikli hallerinin zamanaşımı süresi 15 yıldır. Zamanaşımı süresi içinde şikayet hakkı kullanılabilir.
 
 
@@ -51,9 +51,9 @@ Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiy
 
 * **a- Zilyetliğin Devri:** Emniyeti suistimal suçunun oluşması için malın zilyetliğinin suçu işleyen kişiye devredilmesi gerekir. Zilyetliği devredilen mal, taşınır veya taşınmaz bir mal olabilir. Taşınır mal, “misli bir mal” (aynısı olan mal) ise zilyetliği devredilen malın misli olan herhangi bir mal geri mal sahibine teslim edilemezse suç oluşur. Örneğin, kendisine bir düğünde kullanılmak üzere verilen bir takıyı satan kişi, aynı takıdan mal sahibine satın alıp geri verirse suç vücut bulmaz. Ancak, misli olmayan (aynısı olmayan) malların değeri kadar para verilmesi emniyeti suiistimal suçunun oluşmasını engellemez. Maddi zararın karşılanması yazımızda değineceğimiz üzere sadece bir ceza indirimi nedenidir. Zilyetlik, ya malın belirli bir şekilde kullanılması ya da malın muhafazası için faile devredilmelidir. Örneğin, kendisine muhafaza etmek için bırakılan çek veya senedi, ciro ederek ticari faaliyetinde kullanan kişi, çek veya senedi zilyetliğin devir amacı dışında kullandığı için ticaret sebebiyle güveni kötüye kullanma suçu oluşur.	
 
-* **b- Zilyetliğin Bizzat Malın Sahibi Tarafından Devri Gerekir:** Suçun meydan gelmesi için zilyetlik, suçu işleyen kişiye rızai bir şekilde “bizzat” devredilmesi gerekir. Zilyede bizzat teslim edilmemiş bir malda tasarruf edilmesi halinde başka suçlar meydana gelir. Örneğin, babasına teslim edilen bir malı satan kişi bu maddedeki suçu değil, hırsızlık suçunu işlemiş olur. Çünkü mal kendisine değil babasına teslim edilmiştir. Suçu işleyen kişi, zilyetliği mal sahibinin rızası veya bilgisi dışında ele geçirmişse **emniyeti suistimal suçu** değil, işlenen fiilin özelliklerine göre hırsızlık suçu, yağma suçu, dolandırıcılık suçu veya mala zarar verme suçu meydana gelebilir.	
+* **b- Zilyetliğin Bizzat Malın Sahibi Tarafından Devri Gerekir:** Suçun meydan gelmesi için zilyetlik, suçu işleyen kişiye rızai bir şekilde “bizzat” devredilmesi gerekir. Zilyede bizzat teslim edilmemiş bir malda tasarruf edilmesi halinde başka suçlar meydana gelir. Örneğin, babasına teslim edilen bir malı satan kişi bu maddedeki suçu değil, hırsızlık suçunu işlemiş olur. Çünkü mal kendisine değil babasına teslim edilmiştir. Suçu işleyen kişi, zilyetliği mal sahibinin rızası veya bilgisi dışında ele geçirmişse emniyeti suistimal suçu değil, işlenen fiilin özelliklerine göre hırsızlık suçu, yağma suçu, dolandırıcılık suçu veya mala zarar verme suçu meydana gelebilir.	
 
-* **c- Zilyetliğin Devri Amacı Dışında Tasarruf veya Devir Olgusunun İnkarı:**  Fail, zilyetliğin devir amacı dışında tasarrufta bulunmalı veya bu devir olgusunu inkâr etmelidir. Malın sahibi olan kişi (gerçek kişi, şirket, vakıf vs.), zilyetliği belli bir şekilde kullanılmak üzere zilyet olan kişiye devreder. Zilyet, malı sahibine geri teslim edene kadar devir amacına uygun kullanırsa suç oluşmaz. Ancak, zilyet malı devir amacı dışında kullanırsa, kendisine teslim edilen malı malın sahibiymiş gibi  satar, rehneder, tüketir, değiştirir,  bozar vb. şekillerde tasarrufta bulunursa **güveni kötüye kullanma suçu** oluşur. Örneğin, Finansal Kiralama Sözleşmesi gereği, sözleşme feshedilirse iade edilmesi gereken iş makinası, kiracı tarafından iade edilmezse suç oluşur.	Fail, mal sahibi tarafından rızai bir şekilde kendisine devredilen malın devredilmesi olgusunu inkar ederse yine suç oluşur. Örneğin, kendisine bankaya yatırmak üzere teslim edilen parayı teslim almadığını ileri süren failin, parayı teslim aldığı ispatlanırsa suç işlenmiş olur.
+* **c- Zilyetliğin Devri Amacı Dışında Tasarruf veya Devir Olgusunun İnkarı:**  Fail, zilyetliğin devir amacı dışında tasarrufta bulunmalı veya bu devir olgusunu inkâr etmelidir. Malın sahibi olan kişi (gerçek kişi, şirket, vakıf vs.), zilyetliği belli bir şekilde kullanılmak üzere zilyet olan kişiye devreder. Zilyet, malı sahibine geri teslim edene kadar devir amacına uygun kullanırsa suç oluşmaz. Ancak, zilyet malı devir amacı dışında kullanırsa, kendisine teslim edilen malı malın sahibiymiş gibi  satar, rehneder, tüketir, değiştirir,  bozar vb. şekillerde tasarrufta bulunursa güveni kötüye kullanma suçu oluşur. Örneğin, Finansal Kiralama Sözleşmesi gereği, sözleşme feshedilirse iade edilmesi gereken iş makinası, kiracı tarafından iade edilmezse suç oluşur.	Fail, mal sahibi tarafından rızai bir şekilde kendisine devredilen malın devredilmesi olgusunu inkar ederse yine suç oluşur. Örneğin, kendisine bankaya yatırmak üzere teslim edilen parayı teslim almadığını ileri süren failin, parayı teslim aldığı ispatlanırsa suç işlenmiş olur.
 
 
 
@@ -61,7 +61,7 @@ Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiy
 
 ###3-) Güveni Kötüye Kullanma Suçu ve Haksız Yarar Sağlama
 
-**Güveni kötüye kullanılması suçu,**  TCK 155. maddede zilyetliğin kötüye kullanılması veya devir olgusunun inkar edilmesi suretiyle “kendisinin veya başkasının yararına olarak”  mal üzerinde tasarrufta bulunulması halinde cezalandırılmaktadır. Her ne kadar maddede geçen “yararına olarak” ifadesi, failin haksız bir yarar elde etmesi gerektiği intibaı uyandırsa da, bu suç tipinde failin somut bir yarar sağlaması şart değildir. Suçun işlenmesiyle somut bir zarar oluşması da şart değildir. Zilyetlik konusu malda zilyetliğin devir amacı dışında tasarrufta bulunulması veya devir olgusunun inkar edilmesi suçun vücut bulması için yeterlidir.
+Güveni kötüye kullanılması suçunun meydana gelmesi için failin haksız yarar sağlaması şart değildir. TCK 155. maddede zilyetliğin kötüye kullanılması veya devir olgusunun inkar edilmesi suretiyle “kendisinin veya başkasının yararına olarak”  mal üzerinde tasarrufta bulunulması halinde cezalandırılmaktadır. Her ne kadar maddede geçen “yararına olarak” ifadesi, failin haksız bir yarar elde etmesi gerektiği intibaı uyandırsa da, bu suç tipinde failin somut bir yarar sağlaması şart değildir. Suçun işlenmesiyle somut bir zarar oluşması da şart değildir. Zilyetlik konusu malda zilyetliğin devir amacı dışında tasarrufta bulunulması veya devir olgusunun inkar edilmesi suçun vücut bulması için yeterlidir.
 
 
 
@@ -74,21 +74,21 @@ Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiy
 
 **Hizmet nedeniyle güveni kötüye kullanma,** suçun nitelikli şekillerinden biridir. TCK md. 155/2 hizmet nedeniyle güvenin kötüye kullanılması halinde suçun cezasını daha ağırlaştırmıştır.
 
-Malın mülkiyet hakkı sahibinin zilyet ile kurduğu sözleşme, hizmet ilişkisi şeklinde ise **hizmet nedeniyle güveni kötüye kullanma** suçu meydana gelir. Taraflar arasındaki hizmet ilişkisinde bir süreklilik olmalıdır. Sürekli bir ilişki olmadan zilyet, malın mülkiyet hakkı sahibinin geçici bir talebini yerine getirirken suçu işlerse, suçun basit şekli meydana gelir. Ayrıca suçun konusu olan hizmet ilişkisinin bir ücret veya bu mahiyette sayılabilecek bir çıkar karşılığında kurulması gerekir.
+Malın mülkiyet hakkı sahibinin zilyet ile kurduğu sözleşme, hizmet ilişkisi şeklinde ise hizmet nedeniyle güveni kötüye kullanma suçu meydana gelir. Taraflar arasındaki hizmet ilişkisinde bir süreklilik olmalıdır. Sürekli bir ilişki olmadan zilyet, malın mülkiyet hakkı sahibinin geçici bir talebini yerine getirirken suçu işlerse, suçun basit şekli meydana gelir. Ayrıca suçun konusu olan hizmet ilişkisinin bir ücret veya bu mahiyette sayılabilecek bir çıkar karşılığında kurulması gerekir.
 
-İş sözleşmesi gibi sözleşmelerde belli ölçüde süreklilik arz eden hizmet ilişkileri kurulmaktadır. Örneğin, işyeri sahibine tamir için bırakılan aracı tamir etmesi gereken işçi, aracı tamir etmek yerine gezmek için kullanıp yaptığı kaza sonucu araçta hasar meydana gelirse **hizmet nedeniyle güveni kötüye kullanma** suçu oluşur. 
+İş sözleşmesi gibi sözleşmelerde belli ölçüde süreklilik arz eden hizmet ilişkileri kurulmaktadır. Örneğin, işyeri sahibine tamir için bırakılan aracı tamir etmesi gereken işçi, aracı tamir etmek yerine gezmek için kullanıp yaptığı kaza sonucu araçta hasar meydana gelirse hizmet nedeniyle güveni kötüye kullanma suçu oluşur. 
 
-Vekalet sözleşmelerinde de süreklilik arz eden bir hizmet ilişkisi vardır. Örneğin, Avukat – müvekkil ilişkisi bir vekalet ilişkisidir. Avukata vekalet görevi çerçevesinde tevdi edilen değerli evrakın, **avukat** tarafından kasten yırtılması halinde **hizmet sebebiyle güveni kötüye kullanma** suçu oluşur.
+Vekalet sözleşmelerinde de süreklilik arz eden bir hizmet ilişkisi vardır. Örneğin, Avukat – müvekkil ilişkisi bir vekalet ilişkisidir. Avukata vekalet görevi çerçevesinde tevdi edilen değerli evrakın, avukat tarafından kasten yırtılması halinde hizmet sebebiyle güveni kötüye kullanma suçu oluşur.
 
 ###Ticaret İlişkisi Nedeniyle Güveni Kötüye Kullanma Suçu
 
-Ticari güven ilişkisi, ekonomik hayatın sürdürülebilmesi için oldukça önemlidir. TCK, ticari güven ilişkisinin kötüye kullanılmasını suçun nitelikli şekli olarak kabul etmiştir. Şirketler arasında yapılan taşıma sözleşmeleri, eser sözleşmeleri gibi sözleşmeler nedeniyle bir ticari ilişki kurulabilmektedir. Ticari ilişkinin gereği olarak bir mal zilyede teslim edildiğinde malın tasarruf amacı dışında kullanılması ticaret ilişkisi nedeniyle güveni kötüye kullanma suçunu oluşturur. Örneğin, kendisine teslim edilen taşınır malı İstanbul iline götürmesi gereken şirket, başka bir ihtiyacı karşılamak için kullanması halinde ticaret ilişkisi nedeniyle **güveni kötüye kullanma suçu** oluşur.
+Ticari güven ilişkisi, ekonomik hayatın sürdürülebilmesi için oldukça önemlidir. TCK, ticari güven ilişkisinin kötüye kullanılmasını suçun nitelikli şekli olarak kabul etmiştir. Şirketler arasında yapılan taşıma sözleşmeleri, eser sözleşmeleri gibi sözleşmeler nedeniyle bir ticari ilişki kurulabilmektedir. Ticari ilişkinin gereği olarak bir mal zilyede teslim edildiğinde malın tasarruf amacı dışında kullanılması ticaret ilişkisi nedeniyle güveni kötüye kullanma suçunu oluşturur. Örneğin, kendisine teslim edilen taşınır malı İstanbul iline götürmesi gereken şirket, başka bir ihtiyacı karşılamak için kullanması halinde ticaret ilişkisi nedeniyle güveni kötüye kullanma suçu oluşur.
 
 
 
 ###Meslek veya Sanatın İcrası Gereği Kendisine Bırakılan Eşya Üzerinde Güveni Kötüye Kullanma 
 
-Bazı mesleklerin icrası güven ilişkisi çerçevesinde bir malın teslim edilmesine bağlıdır. Mesleği icra eden kişiye teslim edilen mal üzerinde teslim amacı dışında tasarrufta bulunulursa, mesleğin icrası gereği kendisine bırakılan eşya üzerinde  **güveni kötüye kullanma suçu** oluşur. Örneğin, terzilik, ayakkabı tamirciliği gibi bir mesleği icra eden kişiye teslim edilen bir malın amacı dışında kullanılması halinde bu suç oluşur.
+Bazı mesleklerin icrası güven ilişkisi çerçevesinde bir malın teslim edilmesine bağlıdır. Mesleği icra eden kişiye teslim edilen mal üzerinde teslim amacı dışında tasarrufta bulunulursa, mesleğin icrası gereği kendisine bırakılan eşya üzerinde  güveni kötüye kullanma suçu oluşur. Örneğin, terzilik, ayakkabı tamirciliği gibi bir mesleği icra eden kişiye teslim edilen bir malın amacı dışında kullanılması halinde bu suç oluşur.
 
 ###Başkasına Ait Malları Yönetme Yetkisi Çerçevesinde Tevdi ve Teslim Edilen Mal Hakkında Güveni Kötüye Kullanma 
 
@@ -109,7 +109,7 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 [Hırsızlık suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
-**Güveni kötüye kullanma suçu** ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
+Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
 ####2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
@@ -119,9 +119,9 @@ Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim etti�
 
 ####3-) Zimmet Suçu ve Emniyeti Suistimal Suçu
 
-Zimmet suçu, görevi nedeniyle kendisine teslim edilen malvarlığı değerleri üzerinde işlenebilir. Zimmet suçu ancak bir kamu görevlisi tarafından işlenebilir. **Emniyeti suiistimal suçu** herkes tarafından işlenebilen ve güven ilişkisine dayalı bir suçtur.
+[Zimmet suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html), görevi nedeniyle kendisine teslim edilen malvarlığı değerleri üzerinde işlenebilir. Zimmet suçu ancak bir kamu görevlisi tarafından işlenebilir. Emniyeti suistimal suçu herkes tarafından işlenebilen ve güven ilişkisine dayalı bir suçtur.
 
-Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak bir malvarlığı değerini kendi hesabına geçirirse **hizmet nedeniyle güveni kötüye kullanma** değil, zimmet suçu oluşur. Kamu görevlisine görevi ile bağlantılı değil de kişisel güven ilişkisine dayalı olarak bir malın zilyetliğinin devri sonucu suç oluşursa, bu durumda zimmet suçu değil, basit emniyeti suistimal suçu meydana gelir.
+Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak bir malvarlığı değerini kendi hesabına geçirirse hizmet nedeniyle güveni kötüye kullanma değil, zimmet suçu oluşur. Kamu görevlisine görevi ile bağlantılı değil de kişisel güven ilişkisine dayalı olarak bir malın zilyetliğinin devri sonucu suç oluşursa, bu durumda zimmet suçu değil, basit emniyeti suistimal suçu meydana gelir.
 
 ###![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/31eb537f413c2a4ff1b6e72e5f5d65108f7006fb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f796f6d76474e2e6a7067 "Güveni Kötüye Kullanma")
 
@@ -136,7 +136,7 @@ Suçun nitelikli halleri işlenirse, yani hizmet nedeniyle güveni kötüye kull
 
 ###Güveni Kötüye Kullanma Suçu ve Etkin Pişmanlık
 
-[Etkin pişmanlık](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, **güveni kötüye kullanma suçu** cezası etkin pişmanlık nedeniyle indirilir. 
+[Etkin pişmanlık](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, güveni kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
 
 Etkin pişmanlık, savcılık soruşturması aşamasında gösterilirse güveni kötüye kullanma suçu cezası, 2/3 oranına kadar indirilebilir. Yani, 1 yıl ceza alabilecek fail etkin pişmanlık hükümleri uygulanırsa 4 ay ceza alabilir. Failin etkin pişmanlık hükümlerinden yararlanabilmesi için suça ilişkin bilgi vermesi ve varsa suç ortaklarını, azmettireni, yardım edeni açıklamalı veya mağdurun uğradığı zararı gidermelidir.
 
@@ -144,9 +144,9 @@ Yapılan soruşturma neticesinde mahkemede dava açıldıktan sonra, fakat henü
 
 ###Emniyeti Suistimal Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
-Hükmün açıklanmasının geri bırakılması, sanık hakkında verilen kararın belli bir süre sonuç doğurmaması, bu süre içerisinde yükümlüklere uyulduğu ve kasıtlı suç işlenmediği takdirde ceza davasının düşmesi sonucunu doğuran bir hukuki yoldur.
+[Hükmün açıklanmasının geri bırakılması](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın belli bir süre sonuç doğurmaması, bu süre içerisinde yükümlüklere uyulduğu ve kasıtlı suç işlenmediği takdirde ceza davasının düşmesi sonucunu doğuran bir hukuki yoldur.
 
-**Emniyeti suistimal suçu** nedeniyle herhangi bir zarar oluşmuşsa, sanığın hükmün açıklanmasının geri bırakılması kurumundan faydalanabilmesi için zararı karşılaması gerekir. **Emniyeti suistimal suçu** nedeniyle herhangi bir zarar yoksa, sanığın mağdura hiçbir ödeme yapmasına gerek olmadan hükmün açıklanmasının geri bırakılması kurumundan faydalanması mümkündür.
+Emniyeti suistimal suçu nedeniyle herhangi bir zarar oluşmuşsa, sanığın hükmün açıklanmasının geri bırakılması kurumundan faydalanabilmesi için zararı karşılaması gerekir. Emniyeti suistimal suçu nedeniyle herhangi bir zarar yoksa, sanığın mağdura hiçbir ödeme yapmasına gerek olmadan hükmün açıklanmasının geri bırakılması kurumundan faydalanması mümkündür.
 
 ###Güveni Kötüye Kullanma Suçu Yargıtay Kararları
 
