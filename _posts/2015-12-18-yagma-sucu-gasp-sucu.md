@@ -36,7 +36,7 @@ Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın z
 ---
 
 
-###1- Gasp Suçunun Basit Şekli: 
+###1- Gasp Suçunun Basit Şekli [TCK md.148](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
 
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütüyle bağlantısı olmaksızın, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır. Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
