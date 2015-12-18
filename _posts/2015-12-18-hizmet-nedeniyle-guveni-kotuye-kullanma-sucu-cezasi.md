@@ -125,7 +125,7 @@ Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak 
 
 ###![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/31eb537f413c2a4ff1b6e72e5f5d65108f7006fb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f796f6d76474e2e6a7067 "Güveni Kötüye Kullanma")
 
-###Güveni Kötüye Kullanma Suçu Cezası
+###Güveni Kötüye Kullanma Suçu Cezası [TCK md.155](http://www.turkhukuksitesi.com/mevzuat.php?mid=5095)
 
 **Güveni kötüye kullanma suçu cezası,** suçun nitelikli veya basit hallerinden hangisinin işlendiğine göre değişir.
 Suçun yukarıda anlattığımız temel şeklinde, yani basit güveni kötüye kullanma suçu cezası,  6 aydan 2 yıla kadar hapis cezası ve adli para cezasıdır. Kanun, suçun cezası olarak hem hapis cezasına hem de adli para cezasına birlikte hükmedilmesi gerektiğini ifade etmiştir.
