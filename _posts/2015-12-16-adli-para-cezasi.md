@@ -40,7 +40,7 @@ Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirin
 ###Adli Para Cezasına Çevrilen Suçlar?
 
 
-Taksirle adam yaralama suçu, taksirle adam öldürme suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir (TCK md. 50/4).
+[Taksirle adam yaralama suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), taksirle adam öldürme suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir (TCK md. 50/4).
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
 
