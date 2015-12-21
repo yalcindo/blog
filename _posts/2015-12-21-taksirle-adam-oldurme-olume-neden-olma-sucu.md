@@ -24,7 +24,7 @@ Taksirle adam öldürme suçu şikayete tabi bir suç değildir. Savcılık suç
 
 Taksirle işlenen fiil neticesinde ölüm ve yaralanmalar meydana gelmesine rağmen yaralı olanlar soruşturma aşamasında şikayetten vazgeçmiş ve olayda sadece tek ölüm varsa yetkili mahkeme yine ASLİYE CEZA MAHKEMESİ’dir. 
 
-Örneğin;  İstanbul Bahçelievler ilçesinde meydana gelen trafik kazası neticesinde 1 kişi ölmüş,  2 kişi yaralanmıştır. Yaralılar, soruşturma aşamasında şikayetten vazgeçtiği takdirde yetkili ve görevli mahkeme Bakırköy Asliye Ceza Mahkemesi, şikayete devam ettiklerinde Bakırköy Ağır Ceza Mahkemesi’dir.
+Örneğin;  İstanbul Bahçelievler ilçesinde meydana gelen trafik kazası neticesinde 1 kişi ölmüş,  2 kişi yaralanmıştır. Yaralılar, soruşturma aşamasında şikayetten vazgeçtiği takdirde yetkili ve görevli mahkeme Bakırköy Asliye Ceza Mahkemesi, şikayete devam ettiklerinde Bakırköy Ağır Ceza Mahkemesi’dir.  Ağır Ceza Mahkemesi'nde yapılan yargılamada savunmanın bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) tarafından yapılması daha uygun olacaktır.
 
 
 ###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/7b0dad6ae5180d719e0326681c93bee8a9e12928/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38446e7042722e6a7067 "Ağır Ceza Avukatı")
@@ -76,13 +76,13 @@ Bilinçli taksirle adam öldürme suçunun cezası ise yukarıdaki maddeye göre
 
 ###Taksirle Adam Öldürme Suçu ve Hükmün Açıklanmasının Geri Bırakılması (HAGB)
 
-Hükmün açıklanmasının geri bırakılması, fail hakkında verilen mahkumiyet hükmünün 5 yıl süre ile hüküm doğurmaması ve bu süre sonunda cezanın kendiliğinden düşmesiyle sonuçlanan faile ikinci bir şans veren ceza hukuku kurumudur.
+[Hükmün açıklanmasının geri bırakılması](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), fail hakkında verilen mahkumiyet hükmünün 5 yıl süre ile hüküm doğurmaması ve bu süre sonunda cezanın kendiliğinden düşmesiyle sonuçlanan faile ikinci bir şans veren ceza hukuku kurumudur.
 Bilinçli taksir halinde hükmün açıklanmasının geri bırakılması ceza miktarı nedeniyle mümkün değildir. 
 Taksirle adam öldürme suçu halinde ise ceza miktarı 2 yıl veya altında olduğunda hükmün açıklanmasının geri bırakılması (HAGB) mümkündür. Hagb kararı verilmesi için mağdurun ölüm nedeniyle uğradığı maddi zararın karşılanması zorunludur. Mağdurun zararı giderildiği taktirde mahkeme tarafından HAGB kararı verilebilir.
 
 ### Taksirle Adam Öldürme Suçu ve Cezanın Adli Para Cezasına Çevrilmesi
 
-Taksirle adam öldürme suçu, “adli para cezası”  seçenek yaptırımı açısından özellikli bir durum arz etmektedir.  Taksirle adam öldürme  suçu nedeniyle yapılan yargılamada verilecek cezanın miktarı ne olursa olsun, isterse faile 15 yıl ceza verilsin, bu ceza koşulları varsa adli para cezasına çevrilebilir.  Yani taksirli suçlarda cezanın adli para cezasına çevrilmesi açısından bir ceza süresi sınırı yoktur.
+Taksirle adam öldürme suçu, [“Adli Para Cezası”](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) seçenek yaptırımı açısından özellikli bir durum arz etmektedir.  Taksirle adam öldürme  suçu nedeniyle yapılan yargılamada verilecek cezanın miktarı ne olursa olsun, isterse faile 15 yıl ceza verilsin, bu ceza koşulları varsa adli para cezasına çevrilebilir.  Yani taksirli suçlarda cezanın adli para cezasına çevrilmesi açısından bir ceza süresi sınırı yoktur.
 
  Bilinçli taksirle ölüme neden olma suçunda ise verilecek cezanın adli para cezasına çevrilmesi mümkün değildir.
 
