@@ -18,7 +18,7 @@ keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksir
 
 Taksirle adam öldürme suçu şikayete tabi bir suç değildir. Savcılık suçun işlendiğini öğrenir öğrenmez fail hakkında resen soruşturma yapar ve kamu davasını açar. Söz konusu suç için TCK’da belirlenen dava zamanaşımı süresi 15 yıldır. Yani savcılık bir kimsenin taksirle öldürüldüğünü ölümden itibaren 15 yıl içinde haber alırsa soruşturma başlatabilir. Dava zamanaşımı süresi geçtikten sonra soruşturma yapılamaz.
 
-##Taksirle veya Bilinçli Taksirle Ölüme Neden Olma Suçunda Görevli Mahkeme
+###Taksirle veya Bilinçli Taksirle Ölüme Neden Olma Suçunda Görevli Mahkeme
 
 **Taksirle ölüme neden olma suçunda**, yani ister genel taksirle isterse bilinçli taksirle işlenmiş olsun  görevli mahkeme ASLİYE CEZA MAHKEMESİ’dir. Ancak taksirli fiil neticesinde en az 1 ölüm ile birlikte en az 1 yaralanma gerçekleşmişse suçu yargılama yetkisi AĞIR CEZA MAHKEMESİ’ndedir. 
 
