@@ -134,7 +134,7 @@ Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süres
 
 ###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
 
-Denetimli serbestlik, 01.01.2016 tarihinden itibaren bazı suçlar açısından uygulanamaz. Koşulları aşağıda belirtilen mahkumların 01.01.2016 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
+Denetimli serbestlik, 31.12.2020 tarihinden itibaren bazı suçlar açısından uygulanamaz. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
 
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
 * İkinci defa tekerrür hükümleri uygulanan mahkumlar,
@@ -149,7 +149,7 @@ Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; bir kez tek
 Denetimli serbestlik, istisnalar dışında tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
-* **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, Taksirle Adam Öldürme Suçu, Taksirle Adam Yaralama Suçu.
+* **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, [Taksirle Adam Öldürme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), Taksirle Adam Yaralama Suçu.
 * **Hürriyete Karşı Suçlar:** [Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
 * **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html),
 Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
