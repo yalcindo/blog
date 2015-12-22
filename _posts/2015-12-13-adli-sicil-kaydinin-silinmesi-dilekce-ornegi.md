@@ -19,7 +19,7 @@ Kural olarak, ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet ka
 
 ###![Adli Sicil Kaydı](https://camo.githubusercontent.com/b98741a6baafa2e204f110778f86332a1e68e101/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e677a5a7a522e6a7067 "Adli Sicil Kaydının Silinmesi")
 
-###Hangi bilgiler adli sicil kaydına işlenir? [Adli Sicil Kanunu md.4](http://www.turkhukuksitesi.com/mevzuat.php?mid=9636)
+###Hangi bilgiler adli sicil kaydına işlenir? [(Adli Sicil Kanunu md.4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=9636)
 
 
 1- Hapis cezasına mahkumiyet kararları adli sicil kaydına işlenir. Hapis cezası nedeniyle kişi cezaevine konulduktan belli bir müddet sonra şartlı/koşullu salıverilmişse, koşullu salıverilme (tahliye) kararı da adli sicil kaydına işlenir. Koşullu salıverilmede denetim süresinin uzatılmasına ve koşullu salıverilme kararının geri alınmasına dair karar da adli sicil kaydına işlenir.
@@ -49,7 +49,7 @@ Kural olarak, ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet ka
 
 
 
-###Hangi Kararlar Adli Sicil ve Arşiv Kaydında Yer Almaz? [Adli Sicil Kanunu md.5](http://www.turkhukuksitesi.com/mevzuat.php?mid=9637)
+###Hangi Kararlar Adli Sicil ve Arşiv Kaydında Yer Almaz? [(Adli Sicil Kanunu md.5)](http://www.turkhukuksitesi.com/mevzuat.php?mid=9637)
 
 
 1- Disiplin suçlarına ve sırf askerî suçlara ilişkin mahkûmiyet hükümleri adli sicil kaydında yer almaz.
