@@ -11,7 +11,7 @@ keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksir
 
 ##Taksirle Adam Öldürme Nedir?
 
-**Taksirle adam öldürme**, dikkat ve özen yükümlülüğüne aykırı bir kusurlu davranış ile “öngörmeyerek” bir kimsenin hayatına son verilmesidir.  **Bilinçli taksirle adam öldürme** ise yapılan  kusurlu davranış ile bir kimsenin ölebileceğinin fail tarafından “öngörülmesine” rağmen davranışın yapılmasıdır.  İster normal taksirle adam öldürme suçu olsun isterse bilinçli taksirle adam öldürme suçu olsun; her iki halde de failin ortaya çıkan “adam öldürme” sonucunu istememesi halinde taksirli sorumluluk meydana gelir. Fail, “adam öldürme”  neticesini bilerek ve isteyerek fiili gerçekleştiriyorsa taksirle adama öldürme suçu değil, kasten adam öldürme suçu söz konusu olur.
+**Taksirle adam öldürme**, dikkat ve özen yükümlülüğüne aykırı bir kusurlu davranış ile “öngörmeyerek” bir kimsenin hayatına son verilmesidir.  **Bilinçli taksirle adam öldürme** ise yapılan  kusurlu davranış ile bir kimsenin ölebileceğinin fail tarafından “öngörülmesine” rağmen davranışın yapılmasıdır.  İster normal taksirle adam öldürme suçu olsun isterse bilinçli taksirle adam öldürme suçu olsun; her iki halde de failin ortaya çıkan “adam öldürme” sonucunu istememesi halinde taksirli sorumluluk meydana gelir. Fail, “adam öldürme”  neticesini bilerek ve isteyerek fiili gerçekleştiriyorsa taksirle adam öldürme suçu değil, kasten adam öldürme suçu söz konusu olur.
 
 ##Taksirle Adam Öldürme Suçu Şikayet Süresi
 
@@ -24,7 +24,7 @@ Taksirle adam öldürme suçu şikayete tabi bir suç değildir. Savcılık suç
 
 Taksirle işlenen fiil neticesinde ölüm ve yaralanmalar meydana gelmesine rağmen yaralı olanlar soruşturma aşamasında şikayetten vazgeçmiş ve olayda sadece tek ölüm varsa yetkili mahkeme yine ASLİYE CEZA MAHKEMESİ’dir. 
 
-Örneğin;  İstanbul Bahçelievler ilçesinde meydana gelen trafik kazası neticesinde 1 kişi ölmüş,  2 kişi yaralanmıştır. Yaralılar, soruşturma aşamasında şikayetten vazgeçtiği takdirde yetkili ve görevli mahkeme Bakırköy Asliye Ceza Mahkemesi, şikayete devam ettiklerinde Bakırköy Ağır Ceza Mahkemesi’dir.  Ağır Ceza Mahkemesi'nde yapılan yargılamada savunmanın bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) tarafından yapılması daha uygun olacaktır.
+Örneğin;  İstanbul Bahçelievler ilçesinde meydana gelen trafik kazası neticesinde 1 kişi ölmüş,  2 kişi yaralanmıştır. Yaralılar, soruşturma aşamasında şikayetten vazgeçtiği takdirde yetkili ve görevli mahkeme Bakırköy Asliye Ceza Mahkemesi, şikayete devam ettiklerinde Bakırköy Ağır Ceza Mahkemesi’dir.  
 
 
 ###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/7b0dad6ae5180d719e0326681c93bee8a9e12928/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38446e7042722e6a7067 "Ağır Ceza Avukatı")
@@ -86,6 +86,6 @@ Taksirle adam öldürme suçu, [“Adli Para Cezası”](https://barandogan.av.t
 
  Bilinçli taksirle ölüme neden olma suçunda ise verilecek cezanın adli para cezasına çevrilmesi mümkün değildir.
 
-**Taksirle adam öldürme**, özellikle bilinçli taksirle adam öldürme suçu  fiilin vehameti ve cezanın miktarı nedeniyle savunmanın bir ceza avukatı vasıtasıyla yapılması yararlı olacak bir fiildir.
+**Taksirle adam öldürme**, özellikle bilinçli taksirle adam öldürme suçu, fiilin vehameti ve cezanın miktarı nedeniyle savunmanın bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla yapılması yararlı olacak bir suç türüdür.
 
 **Şirinevler-Bahçelievler-İstanbul   Avukat Baran Doğan**
