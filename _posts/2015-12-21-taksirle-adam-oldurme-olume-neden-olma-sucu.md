@@ -43,13 +43,15 @@ Bilinçli taksir faile verilen cezanın daha ağır hale gelmesine neden olduğu
 
 **Bilinçli taksirle adam öldürme haline bazı örnekler;**
 
-Hastanın ameliyat edilmesi sırasında hemşirenin doktora kullanılmış ameliyat malzemesi vermesi, doktorun da daha önce kullanıldığını bile bile ameliyat sırasında bu malzemeleri kullanması neticesinde hastanın ölmesi bilinçli taksirle adam öldürme suçunu teşkil eder. Bu somut durumda hem hemşire hem doktor bilinçli taksirle adam öldürme suçu nedeniyle cezalandırılır. Çünkü,  hem hemşire hem doktor kullanılmış malzemenin enfeksiyon vs. gibi nedenlerle ölüme neden olacağını biliyor, ancak hastanın ölmesini istemiyor. Hemşire ve doktor,  ölüm sonucunun gerçekleşebileceğini “öngördükleri” için genel taksirle değil, bilinçli taksirle adam öldürme suçu hükümleri gereği cezalandırılır. 
-
-Yüksek oranda alkol aldığı halde araba sürerek trafik kazası neticesinde ölüme neden olan şahıs,  fiili bilinçli taksirle işlediğinden faile bilinçli taksir hükümlerine göre ceza verilir. Çünkü,  fail yüksek alkol alarak araç süren bir kimsenin ölüme neden olabileceğini öngörmesine rağmen arabayı sürmüştür.
-
-Kırmızı ışıkta geçerek  trafik kazası neticesinde bir kimsenin ölümüne neden olan kişi bilinçli taksir hükümlerine göre sorumlu olur. Fail, kırmızı ışıkta geçtiğinde trafik kazası neticesinde ölüme neden olabileceğini öngörmesine rağmen fiili işlemektedir.
+* Hastanın ameliyat edilmesi sırasında hemşirenin doktora kullanılmış ameliyat malzemesi vermesi, doktorun da daha önce kullanıldığını bile bile ameliyat sırasında bu malzemeleri kullanması neticesinde hastanın ölmesi bilinçli taksirle adam öldürme suçunu teşkil eder. Bu somut durumda hem hemşire hem doktor bilinçli taksirle adam öldürme suçu nedeniyle cezalandırılır. Çünkü,  hem hemşire hem doktor kullanılmış malzemenin enfeksiyon vs. gibi nedenlerle ölüme neden olacağını biliyor, ancak hastanın ölmesini istemiyor. Hemşire ve doktor,  ölüm sonucunun gerçekleşebileceğini “öngördükleri” için genel taksirle değil, bilinçli taksirle adam öldürme suçu hükümleri gereği cezalandırılır. 
 
 ###![Doktor Hatası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/a7a67036db3fcf8f82b702dabd9f76a410066ef0/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d316c766e322e6a7067 "Taksirle Adam Öldürme")
+
+* Yüksek oranda alkol aldığı halde araba sürerek trafik kazası neticesinde ölüme neden olan şahıs,  fiili bilinçli taksirle işlediğinden faile bilinçli taksir hükümlerine göre ceza verilir. Çünkü,  fail yüksek alkol alarak araç süren bir kimsenin ölüme neden olabileceğini öngörmesine rağmen arabayı sürmüştür.
+
+* Kırmızı ışıkta geçerek  trafik kazası neticesinde bir kimsenin ölümüne neden olan kişi bilinçli taksir hükümlerine göre sorumlu olur. Fail, kırmızı ışıkta geçtiğinde trafik kazası neticesinde ölüme neden olabileceğini öngörmesine rağmen fiili işlemektedir.
+
+
 
 
 ###Trafik Kazası  Neticesinde Adam Öldürme Suçu  ve Yargılama 
@@ -70,9 +72,9 @@ Trafik kazası nedeniyle yapılan yargılamalarda mutlaka olay yerinde keşif ya
 Taksirli suçlarda faile ceza verilirken “asli kusur” – “tali kusur” ayrımına göre faile verilecek ceza belirlenir. Fail asli kusurlu ise  olayın oluş şekli dikkate alınarak suçun kanunda belirlenen cezanın alt sınırından daha yukarısında bir ceza belirlenmelidir. Fail tali kusurlu ise kanunda belirlenen cezanın alt sınırından ceza belirlenmelidir. 
 
 
-**Taksirle adam öldürme suçunun cezası**, 2  yıldan 6 yıla kadar hapis cezasıdır.  Taksirle adam öldürme neticesinde  “iki  veya daha fazla kişi ölmüş” veya “bir kişi ölmüş ve bir veya birden fazla kişi yaralanmışsa” suçun cezası 2 yıldan 15 yıla kadar hapis cezasıdır.  
+* **Taksirle adam öldürme suçunun cezası**, 2  yıldan 6 yıla kadar hapis cezasıdır.  Taksirle adam öldürme neticesinde  “iki  veya daha fazla kişi ölmüş” veya “bir kişi ölmüş ve bir veya birden fazla kişi yaralanmışsa” suçun cezası 2 yıldan 15 yıla kadar hapis cezasıdır.  
 
-Bilinçli taksirle adam öldürme suçunun cezası ise yukarıdaki maddeye göre belirlenen cezanın 1/3’ten 1/2 oranına kadar arttırılmasıyla tespit edilir. Örneğin; taksirle adam öldürme neticesinde 3 yıl ceza alacak bir fail, bilinçli taksir halinde 4 yıl ile 4,5 yıl arası ceza alabilir.
+* Bilinçli taksirle adam öldürme suçunun cezası ise yukarıdaki maddeye göre belirlenen cezanın 1/3’ten 1/2 oranına kadar arttırılmasıyla tespit edilir. Örneğin; taksirle adam öldürme neticesinde 3 yıl ceza alacak bir fail, bilinçli taksir halinde 4 yıl ile 4,5 yıl arası ceza alabilir.
 
 ###Taksirle Adam Öldürme Suçu ve Hükmün Açıklanmasının Geri Bırakılması (HAGB)
 
