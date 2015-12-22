@@ -2,9 +2,9 @@
 layout: blog
 title: Haksız Tahrik Ceza İndirimi
 category: ceza-hukuku
-googleAnahtar: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
+googleAnahtar: Haksız tahrik, Ağır Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları, Haksız Tahrikte Dengenin Bozulması, Haksız tahrik Ceza İndirim Oranı, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Yaralama ve Öldürme Suçunda Haksız Tahrik İndirimi
+summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları, Haksız Tahrikte Dengenin Bozulması, Haksız tahrik Ceza İndirimi, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Yaralama ve Adam Öldürme Suçunda Haksız Tahrik İndirimi
 ---
 
 ##Haksız Tahrik Nedir?
@@ -60,7 +60,14 @@ Fail ve mağdurun karşılıklı haksız fiillerde bulunması halinde haksız ta
 
 ###![Haksız Tahrik Ceza İndirimi](https://camo.githubusercontent.com/461a21b11d7beb904b124a65d3ae1faf5fd8220a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a793736612e6a7067 "Haksız Tahrik")
 
-##Haksız Tahrik Halinde Ceza İndirim Oranı
+###Ağır Haksız Tahrik - Hafif Haksız Tahrik Ayrımı
+
+Ağır haksız tahrik, tahrikin derecesinin ağır ve şiddetli olması; hafif haksız tahrik ise faile yönelen haksız hareketin elem ve üzüntüye sebebiyet vermesiyle birlikte tahrikin daha önemsiz bir boyutta kalması halini tarif eder.
+
+Yürürlükte bulunan 5237 sayılı TCK, "ağır haksız tahrik" - "hafif haksız tahrik" ayrımını kaldırmıştır. Mevcut TCK'nın 29. maddesi, "ağır haksız tahrik" - "hafif haksız tahrik" ayrımı yerine, haksız tahrik uygulaması nedeniyle indirimin belirlenen alt sınır ve üst sınır arasında mahkeme tarafından yapılmasını düzenlemiştir. Mahkeme, haksız tahrik indirimi yaparken olayın özellikleri, olaydan önce ve olay sırasında tarafların davranışları, failin içinde bulunduğu koşullar vb. gibi kriterleri dikkate alarak daha önce verilen yargısal kararlar ışığında indirim oranını belirleyecektir. Mahkeme, takdir hakkını somut vakıaya uygun kullanmak zorundadır. Hemen belirtelim ki; haksız tahrik indirimi konusunda yerel mahkemelerin yanlış uygulama içeren çok sayıda kararı Yargıtay tarafından bozulmaktadır. 
+
+
+###Haksız Tahrik Halinde Ceza İndirim Oranı [(TCK md.29)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3307)
 
 **Haksız tahrik**  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
