@@ -42,7 +42,7 @@ Bazı durumlarda ilk haksız hareket failden kaynaklansa bile, aşağıda açık
 Bir kavga sırasında ilk haksız hareketin hangi taraftan kaynaklandığı şüpheye yer bırakmayacak bir şekilde anlaşılamıyorsa, "şüpheden sanık yararlanır" ilkesi gereği, bu durum sanık lehine yorumlanarak TCK 29. maddede düzenlenen haksız tahrik indirimi hükümleri sanık hakkında uygulanır (Yargıtay Ceza Genel Kurulu -  Esas No: 2002/4-238, Karar No: 367, Tarih: 22.10.2002). 
  
  
-Failin ceza indiriminden yararlanabilmesi için haksız tahrik teşkil eden fiilin bizzat mağdurdan kaynaklanması gerekir. Üçüncü kişilerin haksız fiili nedeniyle mağdura karşı bir suç işleyen fail haksız tahrik hükümlerinden istifade edemez. Örneğin, A şahsının kendisine “şerefsiz”  diyerek küfür etmesine sinirlenen B’nin, elindeki bıçakla A’nın kardeşini bıçaklaması halinde **haksız tahrik** hükümleri B hakkında uygulanamaz. Çünkü mağdurun kendisine karşı haksız bir fiili yoktur.
+Failin ceza indiriminden yararlanabilmesi için haksız tahrik teşkil eden fiilin bizzat mağdurdan kaynaklanması gerekir. Üçüncü kişilerin haksız fiili nedeniyle mağdura karşı bir suç işleyen fail haksız tahrik hükümlerinden istifade edemez. Örneğin, A şahsının kendisine “şerefsiz”  diyerek küfür etmesine sinirlenen B’nin, elindeki bıçakla A’nın kardeşini bıçaklaması halinde haksız tahrik hükümleri B hakkında uygulanamaz. Çünkü mağdurun kendisine karşı haksız bir fiili yoktur.
 
 Mağdurun ilk haksız hareketi faile veya failin yakınlarına yönelik olabilir. Önemli olan ilk haksız fiilin mağdurdan sadır etmiş olmasıdır.
 
