@@ -64,10 +64,10 @@ Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şart
 
 Hükümlünün denetimli serbestlik yasasından yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığı, cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
-####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinde Bulunması 
+####c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talepli Dilekçe Vermesi 
 
 
-Denetimli serbestlik uygulaması ancak hükümlünün talebi halinde uygulanabilir. Denetimli serbestlik yasası, kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar.
+Denetimli serbestlik tedbiri ancak hükümlünün talebi halinde uygulanabilir. Denetimli serbestlik yasası, kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar. Hükümlü, denetimli serbestlikten yararlanma talebini bir [Denetimli Serbestlikten Yararlanma Dilekçesi](https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlikten-yararlanma-dilek%C3%A7esi-ornegi.html) ile İnfaz Hakimliği'ne bildirdiğinde, İnfaz Hakimliği bu taleple ilgili en kısa sürede karar vermek zorundadır.
 
 Hükümlü denetimli serbestlik yasası gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
