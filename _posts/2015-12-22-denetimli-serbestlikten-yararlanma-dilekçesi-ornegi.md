@@ -42,5 +42,6 @@ ________________________________________________________________________________
 Hükümlü Ahmet Reyhan
 	(imza)
 	
-	
-	**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
+
+
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
