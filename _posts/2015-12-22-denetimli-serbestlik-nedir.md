@@ -49,7 +49,7 @@ Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı
 
 
 
-Son 6 ayını cezaevinde geçirme şartı, 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. maddesi gereği 31.12.2015 tarihine kadar uygulanmayacaktır. Bu tarihten sonra denetimli serbestlik yasasından yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
+Son 6 ayını cezaevinde geçirme şartı, 5275 sayılı Ceza İnfaz Kanunu’nun geçici 4. maddesi gereği 31.12.2020 tarihine kadar uygulanmayacaktır. Bu tarihten sonra denetimli serbestlik yasasından yararlanarak tahliye olmak isteyen hükümlülerin son 6 ayını açık cezaevinde geçirmiş olması gerekir (md.105/A-1).
 
 [**Açık Cezaevine Ayrılma Şartları**](https://barandogan.av.tr/blog/ceza-hukuku/acik-cezaevine-gecis-sartlari.html),  22.08.2015 tarihinde yapılan bir yönetmelik değişikliğiyle yeniden düzenlenmiştir. Yeni yönetmeliğe göre toplam cezasının 1/10'unu kapalı cezaevinde geçiren ve koşullu salıverilmesine belli bir süre kalan kişi açık cezaevine ayrılma hakkı kazanmaktadır. Açık cezaevine ayrılma koşulları daha kolay hale getirildiğinden denetimli serbestlik yasasından yararlanmak da kolaylaşmıştır. Eski uygulamada kişilerin açık cezaevine geçme hakkı kazanması için cezasının 1/5'ini kapalı cezaevinde geçirmesi gerekirdi. Yeni yönetmelik ile bazı suçlar için açık cezaevine geçme koşulları diğer suçlardan daha zordur. Her hükümlünün öznel durumunun değerlendirilmesi için bir ceza  avukatı ile görüşülmelidir.
 
@@ -126,27 +126,27 @@ Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları 
 
 01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
-###Denetimli Serbestlik ile İlgili Kanun Tasarısı
-
-Hükümetin denetimli serbestlik uygulamasına dair yeni bir düzenleme çalışması içinde olduğunu 16.12.2015 tarihi itibariyle öğrenmiş bulunuyoruz. 
-
-Yeni denetimli serbestlik yasası değişikliği ile denetimli serbestlik süresi, 5275 sayılı yasanın 105/A maddesinin uygulama koşulları, 6 ay şartının uygulama biçimi konusunda düzenlemeler yapılacaktır. Ancak bu çalışma henüz bir kanun tasarısına dönüşmüş değil. Yapılan hükümet çalışması kanun tasarısına dönüşür dönüşmez, kanun tasarısının ayrıntılarına ve nasıl uygulanacağına sitemizde yer vereceğiz. 
-
 ###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
 
-Denetimli serbestlik, 31.12.2020 tarihinden itibaren bazı suçlar açısından uygulanamaz. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
+Denetimli serbestlik, 31.12.2020 tarihinden sonra bazı suçlar açısından uygulanamayacaktır. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
 
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
 * İkinci defa tekerrür hükümleri uygulanan mahkumlar,
 * Örgütlü suçlardan mahkum olanlar,
-* Siyasi suçlardan dolayı mahkum olanlar,
+* Siyasi suçlardan dolayı mahkum olanlar.
+
+Bazı hükümlüler de şartları denetimli serbestlik yasası uygulamasından geçici olarak yararlanamazlar:
+
 * Cezası infaz edilmekteyken başka bir suçtan tutuklanan hükümlülerin tutukluluğu bitinceye kadar,
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
 
+###Denetimli Serbestlik ve Suçta Tekerrür
 
-Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; bir kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik uygulamasından yararlanabilir. Ancak, ikinci kez tekerrür hükümleri uygulanan hükümlünün denetimli serbestlik uygulamasından yararlanması mümkün değildir.
+Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir.Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
 
-Denetimli serbestlik, istisnalar dışında tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik uygulanabilecek suçlara bazı örnekler aşağıdadır:
+Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden yararlanması mümkün değildir.
+
+Denetimli serbestlik, halihazırda tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik tedbiri uygulanan suçlara bazı örnekler aşağıdadır:
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** Kasten Adam Öldürme Suçu, Kasten Adam Yaralama Suçu, [Taksirle Adam Öldürme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), Taksirle Adam Yaralama Suçu.
