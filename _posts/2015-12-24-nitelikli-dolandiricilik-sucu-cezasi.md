@@ -119,6 +119,8 @@ Hemen belirtelim ki; sigorta bedelini almak amacıyla nitelikli dolandırıcıl�
 
 Banka veya kredi kurumlarından kredi almak için belli prosedürlerin yerine getirilmesi gerekir. Kredi açılmasını sağlamak için bankalar müşteriden birçok evrak istemektedir. Kimlik  ve adres bilgileri ile mali bilgiler hakkında bankaya doğru bilgi verilmesi gerekir. Kredi açılmasını sağlamak için mali durumu veya diğer bilgiler konusunda gerçek dışı evraklar düzenleyerek bankadan kredi çekilmesi halinde,  TCK 158/1-j’de düzenlenen Kredi Açılmasını Sağlamak Amacıyla **Nitelikli Dolandırıcılık Suçu** meydana gelir.
 
+Uygulamada sahte nüfus cüzdanı, ehliyet veya geçerli diğer kimlik belgelerinin önce sahte olarak üretildiği, daha sonra bu belgelerle kredi temini için bankalara başvurulduğu görülmektedir. Aynı şekilde bazı şirketler, yüksek miktarlarda kredi alabilmek için aktiflerinde mevcut olmayan malvarlığı değerlerine sahip olduklarına dair defter veya evrak tanzim etmekte, sahte bilançolar düzenleyerek kredi başvurusunda bulunmaktadır. Tüm bu haller TCK 158/1-j maddesinde düzenlenen suçun nitelikli halinin meydana gelmesine yol açar.
+
 
 ###9. Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Dolandırıcılık Suçu (TCK md. 159)
 
@@ -171,7 +173,9 @@ Dolandırıcılık suçu nedeniyle etkin pişmanlık hükümleri gereği ceza in
 
 * Sanık annesinin sağlığında verdiği ve ölümü ile geçersiz kalan vekâletnameleri kullanarak annesinin adına yatan maaşları bankadan çekmiştir. Banka somut olayda ödeme vasıtası olup suçun işlenmesinde araç olarak kullanılmamıştır. Sanığın suçu  5237 Sayılı T.C.K.'nun 158/1-e kapsamında kamu kurumu aleyhine teselsül eden nitelikli dolandırıcılık suçunu oluşturur  (Yargıtay 11. Ceza Dairesi – Esas No: 2010/2358, Karar No: 2011/600, Tarih: 09.02.2011).
 
-**Dolandırıcılık suçu** veya suçun daha ağır şekli olan **nitelikli dolandırıcılık suçu** teknolojinin gelişmesiyle farklı boyutlar kazanmıştır. Dolandırıcılık suçu, birçok farklı icrai hareketle işlenebildiğinden hukuk uygulayıcılarının her yeni vakıada suçun işlenip işlenmediği noktasındaki değerlendirmeyi hile, aldatma gibi kavramlar ışığında değerlendirmesi gerekir. 
+**Dolandırıcılık suçu** veya suçun daha ağır şekli olan **nitelikli dolandırıcılık suçu** teknolojinin gelişmesiyle farklı boyutlar kazanmıştır. Dolandırıcılık suçu, bazı suçlarla kesişen fiiller içerdiğinden suç vasfının tespiti açısından şu suçlarla birlikte değerlendirilmelidir: [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), [Yağma (Gasp) Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html).   
+
+**Dolandırıcılık suçu,** birçok farklı icrai hareketle işlenebildiğinden hukuk uygulayıcılarının her yeni vakıada suçun işlenip işlenmediği noktasındaki analizi hile, aldatma gibi kavramlar ışığında yapması gerekir. 
 
 **Florya-Bakırköy-İstanbul Avukat Baran Doğan**
 
