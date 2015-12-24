@@ -126,7 +126,7 @@ Uygulamada sahte nüfus cüzdanı, ehliyet veya geçerli diğer kimlik belgeleri
 
 Hukuki ilişkiye dayanan herhangi bir alacağı tahsil amacıyla dolandırıcılık suçu işlenmesi halinde suçun takibi şikayete bağlıdır. Bu maddenin uygulanabilmesi için öncelikle ortada geçerli bir hukuki ilişki olmalıdır. Mağdurun iradesi hile yoluyla aldatılarak birtakım hukuki işlemler yapılması, örneğin sözleşmeler düzenlenmesi, tek başına mağdur ile fail arasında bir hukuki ilişki olduğunu göstermez. Hukuki ilişki tarafların özgür iradesiyle ve dolandırıcılık teşkil eden fiilden önce kurulmuş olmalıdır.
 
-Mağdurun bu fiil nedeniyle şikayeti halinde faile 6 aydan 1 yıla kadar hapis cezası veya adli para cezası verilir. Bu maddedeki cezalar seçimliktir, yani mahkeme ya hapis cezası vermeli ya da adli para cezası vermelidir. Suçu işleyen kişiye her iki cezanın aynı anda verilmesi mümkün değildir.
+Mağdurun bu fiil nedeniyle şikayetçi olması halinde, faile 6 aydan 1 yıla kadar hapis cezası veya adli para cezası verilir. Bu maddedeki cezalar seçimliktir, yani mahkeme ya hapis cezası vermeli ya da adli para cezası vermelidir. Suçu işleyen kişiye her iki cezanın aynı anda verilmesi mümkün değildir.
 
 ###Dolandırıcılık Suçunun Cezası
 
