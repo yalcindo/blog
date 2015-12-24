@@ -120,22 +120,22 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 **Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olması gerektiği yönünde tartışmalar yürütülmektedir. Denetimli serbestlik süresinin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
 
-###9. Denetimli Serbestlik ve 01.01.2016 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
+###9. Denetimli Serbestlik ve 01.01.2020 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
 Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanmalıdır.
 
-01.01.2016 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2016 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
+01.01.2020 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2020 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
 ###Denetimli Serbestlik Yasası ve Uygulanan Bazı Suç Tipleri
 
-Denetimli serbestlik, 31.12.2020 tarihinden sonra bazı suçlar açısından uygulanamayacaktır. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
+Denetimli serbestlik, 31.12.2020 tarihinden sonra bazı hükümlüler açısından uygulanamayacaktır. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
 
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
 * İkinci defa tekerrür hükümleri uygulanan mahkumlar,
 * Örgütlü suçlardan mahkum olanlar,
 * Siyasi suçlardan dolayı mahkum olanlar.
 
-Bazı hükümlüler de şartları denetimli serbestlik yasası uygulamasından geçici olarak yararlanamazlar:
+Bazı hükümlüler de denetimli serbestlik yasası uygulamasından geçici olarak yararlanamazlar:
 
 * Cezası infaz edilmekteyken başka bir suçtan tutuklanan hükümlülerin tutukluluğu bitinceye kadar,
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
