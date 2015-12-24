@@ -30,7 +30,7 @@ TCK’daki düzenlemeye göre yargılanan bir şahsa dört farklı yöntemle adl
 
 ###Hapis Cezasının Adli Para Cezasına Çevrilmesi Şartları
 
-* Hapis cezasının para cezasına çevrilmesi kararı, mahkeme tarafından bazı olgular gözlenerek verilir. Suçlunun kişiliği, sosyal ve ekonomik durumu, yargılama sürecinde duyduğu pişmanlık ve suçun işlenmesindeki özellikler mahkeme tarafından tek tek değerlendirilir. Örneğin, suçu işlediği için pişmanlık göstermeyen, saldırgan, hakkında suçta tekerrür hükümleri uygulanan bir failin, mahkum olduğu hapis cezası mahkeme tarafından para cezasına çevrilmez. 
+Hapis cezasının para cezasına çevrilmesi kararı, mahkeme tarafından bazı olgular gözlenerek verilir. Suçlunun kişiliği, sosyal ve ekonomik durumu, yargılama sürecinde duyduğu pişmanlık ve suçun işlenmesindeki özellikler mahkeme tarafından tek tek değerlendirilir. Örneğin, suçu işlediği için pişmanlık göstermeyen, saldırgan, hakkında suçta tekerrür hükümleri uygulanan bir failin, mahkum olduğu hapis cezası mahkeme tarafından para cezasına çevrilmez. 
 
 * **Kasten İşlenen Suçlar:** Kasten işlenen suçlarda (örn, kasten yaralama, hırsızlık, basit dolandırıcılık gibi) hükmedilen hapis cezasının miktarı 1 yıl veya altındaysa, hapis cezası adli para cezasına çevrilebilir. 
 
