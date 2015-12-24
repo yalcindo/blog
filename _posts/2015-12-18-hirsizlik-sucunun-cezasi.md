@@ -39,7 +39,7 @@ Mal üzerinde zilyetlik hakkına sahip kişinin zilyetliği hukuka aykırı veya
 
 Hırsızlık suçunun oluşması için malın zilyedin egemenlik alanından çıkarılması, mal üzerinde fail tarafından fiili hakimiyet kurularak zilyetliğin elde edilmesi gerekir. Fail malı bulunduğu yerden aldıktan hemen sonra kesintisiz takip sonucu yakalanırsa fail hırsızlık suçu  ile değil, bu suça teşebbüs ile yargılanmalıdır. Çünkü, kesintisiz takip sonucu yakalanan fail malı tümüyle fiili hakimiyeti altına alamadığında suç tamamlanmamış sayılır. Ancak takip sırasında failin bir süre gözden kaybolduktan sonra takibin kesilmesi ve failin daha sonra tekrar görülerek yakalanması halinde hırsızlık suçu tamamlanmış sayılır.
 
-###3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya [TCK md. 141](http://www.turkhukuksitesi.com/mevzuat.php?mid=5015)
+###3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya [(TCK md. 141)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5015)
 
 Açıkta bırakılmış eşya, mağdurun yaşadığı özel alanlar dışında kalan cadde, sokak, park, bahçe, sahil kenarları ve bu gibi yerlere benzeyen halka açık yerlerde bırakılan eşyayı tarif etmektedir. Hırsızlık suçunun basit temel şekli, TCK  md. 141’de düzenlenen açıkta bırakılan eşya hakkındadır.
 
@@ -49,7 +49,7 @@ Hırsızlık suçu işlenen eşya kullanım veya adet gereği açıkta bırakıl
 ###![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
 
 
-###Nitelikli Hırsızlık Suçu ve Cezası [TCK md.142](http://www.turkhukuksitesi.com/mevzuat.php?mid=5021)
+###Nitelikli Hırsızlık Suçu ve Cezası [(TCK md.142)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5021)
 
 **Nitelikli hırsızlık suçu** TCK md. 142’de düzenlenmiştir. Buna göre hırsızlık suçunun;
 
@@ -93,11 +93,11 @@ Hırsızlık suçu yüz kızartıcı bir suç olduğundan ceza miktarı ne olurs
 
 ###Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
 
-*	Hırsızlık suçu gece vakti işlenirse faile yukarıda anlattığımız şekilde verilen ceza yarı oranında arttırılır. Yani fail, ister basit hırsızlık suçunu isterse nitelikli hırsızlık suçunu işlesin, suçu gece vakti işlediği takdirde belirlenen temel cezası yarı oranında arttırılır [TCK md.143](http://www.turkhukuksitesi.com/mevzuat.php?mid=5028)
+*	Hırsızlık suçu gece vakti işlenirse faile yukarıda anlattığımız şekilde verilen ceza yarı oranında arttırılır. Yani fail, ister basit hırsızlık suçunu isterse nitelikli hırsızlık suçunu işlesin, suçu gece vakti işlediği takdirde belirlenen temel cezası yarı oranında arttırılır [(TCK md.143)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5028)
 
-*	Hırsızlık suçunun paydaş olunan veya üzerinde iştirak halinde mülkiyet ilişkisi bulunan mal üzerinde ortaklardan biri tarafından işlenmesi veya hukuki bir ilişkiye dayanan alacağı tahsil etmek amacıyla işlenmesi halinde fail 2 aydan 1 yıla kadar hapis veya adli para cezası ile cezalandırılır. Suçun bu halinin işlenmesi halinde soruşturma yapılması mağdurun şikayetine bağlıdır [TCK md.144](http://www.turkhukuksitesi.com/mevzuat.php?mid=5032)
+*	Hırsızlık suçunun paydaş olunan veya üzerinde iştirak halinde mülkiyet ilişkisi bulunan mal üzerinde ortaklardan biri tarafından işlenmesi veya hukuki bir ilişkiye dayanan alacağı tahsil etmek amacıyla işlenmesi halinde fail 2 aydan 1 yıla kadar hapis veya adli para cezası ile cezalandırılır. Suçun bu halinin işlenmesi halinde soruşturma yapılması mağdurun şikayetine bağlıdır [(TCK md.144)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5032)
 
-*	Hırsızlık suçu konusu malın değeri az ise faile verilen cezada indirim yapılabileceği gibi ceza vermekten de vazgeçilebilir [TCK md.145](http://www.turkhukuksitesi.com/mevzuat.php?mid=5037)
+*	Hırsızlık suçu konusu malın değeri az ise faile verilen cezada indirim yapılabileceği gibi ceza vermekten de vazgeçilebilir [(TCK md.145)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5037)
 
 * Hırsızlık suçu sebebiyle mağdurun  uğradığı zarar giderilirse, sanığa [**Etkin Pişmanlık**](http://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html) nedeniyle ceza indirimi yapılması mümkündür (TCK md. 168)
 
@@ -109,7 +109,7 @@ Hırsızlık suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasın
 
 Bir taşınır malı geçici bir süreyle kullanıp iade etmek amacıyla zilyedinin rızası dışında bulunduğu yerden alan kişi kullanma hırsızlığı suçunu işlemiş olur. **Kullanma hırsızlığı suçu,**  failin malı geçici olarak hakimiyeti altına alıp kullanmasıyla tamamlanmış olur.  
 
-Kullanma hırsızlığı suçu şikayete tabi bir suçtur. Kullanma hırsızlığı halinde suçun cezası yarı oranında indirilir. Ancak kullanma hırsızlığı konusu malın başka bir suç işlemek için kullanılmış olması halinde bu hüküm uygulanmaz [TCK md.146](http://www.turkhukuksitesi.com/mevzuat.php?mid=5040). Örneğin, otopark sahibine teslim edilen bir aracı, otopark sahibinin arkadaşlarından biri uyuşturucu malın nakli için kullanıp iade ederse bu madde hükümleri değil, hırsızlık suçuna ilişkin genel hükümler uygulanacaktır.
+Kullanma hırsızlığı suçu şikayete tabi bir suçtur. Kullanma hırsızlığı halinde suçun cezası yarı oranında indirilir. Ancak kullanma hırsızlığı konusu malın başka bir suç işlemek için kullanılmış olması halinde bu hüküm uygulanmaz [(TCK md.146)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5040). Örneğin, otopark sahibine teslim edilen bir aracı, otopark sahibinin arkadaşlarından biri uyuşturucu malın nakli için kullanıp iade ederse bu madde hükümleri değil, hırsızlık suçuna ilişkin genel hükümler uygulanacaktır.
 
 ###Hırsızlık Suçu Şikayet Süresi
 
