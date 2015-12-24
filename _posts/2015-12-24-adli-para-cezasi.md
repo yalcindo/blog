@@ -36,6 +36,8 @@ Hapis cezasının para cezasına çevrilmesi kararı, mahkeme tarafından bazı 
 
 * **Taksirle İşlenen Suçlar:** Taksirle işlenen suçlarda (örn, trafik kazası veya iş kazası neticesinde ölüm gibi) ise hapis cezasının paraya çevrilmesi için bir ceza sınırı yoktur. Taksirle işlenen suçlarda, hükmedilen cezanın miktarı ne olursa olsun (örneğin, taksirle işlenen bir suçtan 5 yıl hapis cezası verilse dahi ) her zaman paraya çevrilebilir. Suç taksirle işlenen suçlardan değilse; 2 yıl, 3 yıl veya 4 yıl gibi hapis cezalarının adli para cezasına çevrilmesi mümkün değildir. 
 
+* **Bilinçli Taksirle İşlenen Suçlar:** Bilinçli taksirle işlenen suçlar nedeniyle hükmedilen hapis cezaları 1 yıl veya altında ise para cezasına çevrilebilir. Taksirli suçlara ilişkin hapis cezası miktarının dikkate alınmaması şeklindeki kural "bilinçli taksir" halinde uıygulanmaz (TCK md. 50/4). 
+
 
 
 * Yukarıda bahsettiğimiz hapis cezalarının paraya çevrilmesi hakimin takdirindedir. Fakat bazı durumlarda hakimin takdir hakkı yoktur,  eğer hükmolunan ceza 30 gün ve daha az süreli hapis cezası ise hakim, bu cezayı adli para cezasına veya seçenek yaptırımlara çevirmek zorundadır. Ayrıca,  yargılanan kişinin yaşı 18’den küçük veya 65 yaşından büyük olması halinde de, hakim,  1 yıl veya altındaki hapis cezasını adli para cezasına veya seçenek yaprırımlara çevirmek zorundadır (TCK md.50/3).
