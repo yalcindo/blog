@@ -146,6 +146,8 @@ Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre
 
 Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden yararlanması mümkün değildir.
 
+###Denetimli Serbestlik ve Uygulandığı Bazı Suçlar
+
 Denetimli serbestlik, halihazırda tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik tedbiri uygulanan suçlara bazı örnekler aşağıdadır:
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
