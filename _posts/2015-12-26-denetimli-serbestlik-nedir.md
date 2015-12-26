@@ -140,13 +140,7 @@ Bazı hükümlüler de denetimli serbestlik yasası uygulamasından geçici olar
 * Cezası infaz edilmekteyken başka bir suçtan tutuklanan hükümlülerin tutukluluğu bitinceye kadar,
 * Üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar.
 
-###Denetimli Serbestlik ve Suçta Tekerrür
 
-Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir.Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
-
-Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden yararlanması mümkün değildir.
-
-###Denetimli Serbestlik ve Uygulandığı Bazı Suçlar
 
 Denetimli serbestlik, halihazırda tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik tedbiri uygulanan suçlara bazı örnekler aşağıdadır:
 
@@ -158,6 +152,12 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 * **Kamu Güvenine ve Adliyeye Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), Açığa İmzanın Kötüye Kullanılması Suçu, [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), Mühür Bozma (Fekki) Suçu, Suç Üstlenme Suçu, Suç Uydurma Suçu, Yalan Tanıklık Suçu, Yalan Yere Yemin Suçu, Suçu Bildirmeme Suçu, Ses veya Görüntülerin Kayda Alınması Suçu, Suç Delillerini Yok Etme, Gizleme veya Değiştirme Suçu, Hükümlü ve Tutuklunun Kaçması Suçu (Firar Suçu). 
 * **Diğer Bazı Suçlar:** [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
 
+
+###Denetimli Serbestlik ve Suçta Tekerrür
+
+Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir.Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
+
+Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden yararlanması mümkün değildir.
 
 
 ###Denetimli Serbestlik Yasası Yargıtay Kararları      
