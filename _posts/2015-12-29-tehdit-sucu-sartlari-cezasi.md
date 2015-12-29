@@ -33,9 +33,9 @@ Tehdit suçunun yaşam hakkına yönelik basit şeklinde ve diğer tüm ağır h
 
 ###Tehdit Suçunun Şartları
 
-* Tehdit suçunun meydana gelmesi ağır ve haksız bir zarara uğratılacağının mağdura bildirilmesi gerekir. Tehdit, gerçekleşmesi failin iradesine bağlı olan ve gelecekte gerçekleşme ihtimali olan bir kötülüğün, fail tarafından gerçekleşecek gibi gösterilmesidir.
+* Tehdit suçunun meydana gelmesi için ağır ve haksız bir zarara uğratılacağının mağdura bildirilmesi gerekir. Tehdit, gerçekleşmesi failin iradesine bağlı olan ve gelecekte gerçekleşme ihtimali olan bir kötülüğün, fail tarafından gerçekleşecek gibi gösterilmesidir.
 
-* Tehdit, mağdurun karar verme ve özgür hareket etme özgürlüüğünü kısıtlamalı, mağdurun iç huzurunu bozacak ve onu endişeye sevkedecek nitelikte olmalıdır. Fiil, endişe yaratmaya elverişli değilse tehdit suçu oluşmaz.
+* Tehdit, mağdurun karar verme ve özgür hareket etme özgürlüğünü kısıtlayacak, mağdurun iç huzurunu bozacak ve onu endişeye sevkedecek nitelikte olmalıdır. Fiil, endişe yaratmaya elverişli değilse tehdit suçu oluşmaz.
 
 * Tehdit suçunun manevi unsuru açısından genel kast yeterlidir. Suçu işleyenin tehdit fiilini bilerek ve isteyerek işlemesi, mağdura verileceği söylenen zararın haksız olması yeterlidir.  Tehdit fiilinde korkutuculuk, ürkütücülük, ciddiyet olmalıdır, aksi takdirde tehdit kastının varlığından bahsedilemez.
 
@@ -85,6 +85,14 @@ Tehdit suçu işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit 
 ####6.  Özel İşaretlerle Tehdit Suçu
 
 Tehdit suçunun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, tehdit suçunun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
+
+###Tehdit Suçu ve Hükmün Açıklanmasının Geri Bırakılması
+
+[Hükmün açıklanmasının geri bırakılması](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hukuk sisteminde hiçbir sonuç doğurmaması ve iyi halli geçirilen belli bir denetim süresi sonunda davanın düşmesiyle neticelenen bir muhakeme hukuku kurumudur.
+
+Hükmün açıklanmasının geri bırakılması, tehdit suçu açısından da uygulanabilir. Mağdur, tehdit suçu nedeniyle genellikle doğrudan maddi bir zarara uğramaz. Bu nedenle hükmün açıklanamsının geri bırakılması kurumunun bu suç açısından uygulanabilmesi için zararın giderilmesi koşulu aranmaz.
+
+
 
 ###Tehdit Suçu ve Yargıtay Kararlar
 
