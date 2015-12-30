@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Güveni Kötüye Kullanma Suçu (Emniyeti Suistimal Suçu)
+title: Güveni Kötüye Kullanma Suçu (Emniyeti Suistimal)
 category: ceza-hukuku
 googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, İstanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat
 summary: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları
