@@ -101,6 +101,9 @@ Müsadere, kaçakçılık suçları ile mücadele için etkin bir güvenlik tedb
 * Kaçak eşyanın yasak eşya olması veya toplum ve çevre sağlığına zararlı olması. 
 
 
+###![Ceza Avukatı](https://camo.githubusercontent.com/84f7c716f82f119b4f5c8f4746caa9131cf144ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3945454e4f5a2e6a7067 "Ceza Avukatı")
+
+
 ###Müsadere Kararı İnfaz Zamanaşımı [(TCK md. 70)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3852)
 
 Müsadere yargılaması dava zamanaşımı itibariyle genel hükümlere tabidir. Ancak, müsadere kararı verildikten sonra bu kararın uygulanabilmesi için TCK’da ayrı bir müsadere kararının infazına dair bir zamanaşımı süresi söz konusudur. Mahkeme tarafından müsadere kararı alındıktan sonra, bu kararın kesinleşmesinden itibaren 20 yıl içinde infaz edilmesi gerekir. Aksi takdirde kararın infaz kabiliyeti kalmaz.
