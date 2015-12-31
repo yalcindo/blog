@@ -7,7 +7,8 @@ summary: Taksirle Adam Öldürme Nedir? Taksirle Adam Öldürme Suçu Şikayet S
 keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksirle ölüme neden olma, bilinçli taksirle adam öldürme suçu, Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul ağır ceza avukatı, bahçelievler avukat
 ---
 
-###![Taksirle Adam Öldürme Suçu](https://camo.githubusercontent.com/069cade404e2afa6a7f59c3440cc054da77a5995/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584c574f726a2e6a7067 "Taksirle Adam Öldürme")
+###![Trafik Kazası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/9d6b77135226d09b26cf4e3941245c4d4fa94149/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f3732516a332e6a7067 "Taksirle Adam Öldürme")
+
 
 ##Taksirle Adam Öldürme Nedir?
 
@@ -64,7 +65,8 @@ Trafik kazası neticesinde taksirle ölüme neden olma suçu nedeniyle yapılan 
 
 Trafik kazası nedeniyle yapılan yargılamalarda mutlaka olay yerinde keşif yapılmalıdır. Mümkünse olayın tanıkları ve tarafları keşif mahalinde dinlenmeli, sorular sorularak olay aydınlatılmaya çalışılmalıdır. Trafik kazasını tespit eden mobese kameraları, özel işyeri kameraları veya diğer özel çekimler varsa yargılama sırasında bu kayıtlar incelenerek durumu tespit eden bir bilirkişi raporu hazırlanmalıdır.
 
-###![Trafik Kazası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/9d6b77135226d09b26cf4e3941245c4d4fa94149/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f3732516a332e6a7067 "Taksirle Adam Öldürme")
+###![Taksirle Adam Öldürme Suçu](https://camo.githubusercontent.com/069cade404e2afa6a7f59c3440cc054da77a5995/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584c574f726a2e6a7067 "Taksirle Adam Öldürme")
+
 
 
 ###Taksirle veya Bilinçli Taksirle Adam Öldürme Suçu Cezası
