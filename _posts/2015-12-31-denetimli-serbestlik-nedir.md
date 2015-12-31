@@ -25,15 +25,15 @@ Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnf
 ###3. Denetimli Serbestlik Kaç Yıl 
 
 
-Denetimli serbestlik yasası, ancak cezaevinde olan hükümlünün yararlanabileceği bir düzenlemedir. Hükümlü olan kişi henüz cezaevine girmemişse ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir.
+Denetimli serbestlik yasası, cezaevine giren hükümlülerin yararlanabileceği bir infaz sistemi düzenlemiştir. Hükümlü olan kişi henüz cezaevine girmemişse, ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir. Cezası ne olursa olsun her hükümlü, "iyi halli" olup olmadığının tespiti amacıyla cezaevine girmek zorundadır. Hükümlü, cezaevine girdikten sonra cezaevi idaresi tarafından hükümlünün "iyi halli" olduğuna dair bir değerlendirme raporu hazırlanır ve hükümlü denetimli serbestlik tedbiri uygulanarak tahliye edilir. 
 
-Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
+* Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
 
-Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza miktarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan mahkumlar 2-3 gün gibi kısa bir süre cezaevinde kalarak "iyi halli" hükümlü oldukları tespit edildikten sonra tahliye edilirler. Ancak, 18 ay hapis cezası alan hükümlüler 31.12.2020 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
+* Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza miktarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan mahkumlar 2-3 gün gibi kısa bir süre cezaevinde kalarak "iyi halli" hükümlü oldukları tespit edildikten sonra tahliye edilirler. Ancak, 18 ay hapis cezası alan hükümlüler 31.12.2020 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
-0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde denetimli serbestlik yasası yoluyla serbest bırakılabilecektir.
+* 0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde denetimli serbestlik yasası yoluyla serbest bırakılabilecektir.
 
-Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
+* Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
 
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
@@ -41,7 +41,7 @@ Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yal
 ###4. Denetimli Serbestlik Şartları
 
 
-Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
+Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza kararı sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
 
 Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
@@ -155,7 +155,7 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 
 ###Denetimli Serbestlik ve Suçta Tekerrür
 
-Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir.Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
+Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir. Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
 
 Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün 31.12.2020 tarihinden sonra denetimli serbestlik tedbirinden yararlanması mümkün değildir.
 
