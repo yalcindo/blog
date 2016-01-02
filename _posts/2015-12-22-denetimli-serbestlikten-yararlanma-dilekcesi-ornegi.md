@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 3- Cezaevinde kaldığım süre boyunca “iyi halli” hükümlü statüsü ile cezam infaz edildi. Halihazırda infazda olan herhangi bir disiplin cezam yoktur.
 
-4-  Şahsım sabit ikametgah sahibidir. Evliyim ve geçindirmek zorunda olduğum bir ailem vardır.  Ailem cezaevinde olmam nedeniyle görmüştür. 
+4-  Şahsım sabit ikametgah sahibidir. Evliyim ve geçindirmek zorunda olduğum bir ailem vardır.  Ailem cezaevinde olmam nedeniyle zarar görmüştür. 
 
 5- İnfaz Hakimliğinizin somut durumumu ve “iyi halli hükümlü” olma statümü değerlendirerek denetimli serbestlikten yararlanmama karar vermesini talep ediyorum.
 
