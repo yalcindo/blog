@@ -40,14 +40,14 @@ Yağma suçunda mağdur tehdit edilmekte veya mağdura cebir uygulanmaktadır. M
 ---
 
 
-###1- Gasp Suçunun Basit Şekli [TCK md.148](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
+###1- Gasp Suçunun Basit Şekli [(TCK md.148)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
 
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütü üyesi olmadan, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır.
 
 Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
-###2- Gasp Suçunun Nitelikli Şekli [TCK md.149](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
+###2- Gasp Suçunun Nitelikli Şekli [(TCK md.149)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
 
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi gasp suçunun nitelikli bir şekilde işlenmesidir:
@@ -76,7 +76,7 @@ Yağma suçunun nitelikli hallerinden birinin işlenmesi halinde suçun cezası,
 
 Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia ve savunmanın mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
 
-##Yağma Suçu ve Malın Değerinin Azlığı Hali [TCK md.150](http://www.turkhukuksitesi.com/mevzuat.php?mid=5064)
+##Yağma Suçu ve Malın Değerinin Azlığı Hali [(TCK md.150)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5064)
 
 
 Yağma suçunun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma, 1 TL para gibi mal veya paranın gasp edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde bu kural uygulanmaktadır, yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
