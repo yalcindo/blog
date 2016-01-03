@@ -30,7 +30,11 @@ Gasp (Yağma) suçu ile hırsızlık suçunun en önemli ortak unsuru başkasın
 ###2- Yağma Suçunda Cebir ve Tehdit  
 
 
-Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın zilyedinin rızası dışında alınmaktadır. Oysa gasp suçunda başkasının zilyedi olduğu mal, cebir ve tehdit kullanılarak alınmaktadır. Cebir ve tehdit, iki suç arasındaki ayrım çizgisidir. Yağma suçu, mağdurun kendisinin veya başkasının hayatı, vücut veya cinsel dokunulmazlığına karşı saldırı yapılacağına veya malvarlığı yönünden büyük zarara uğratılacağından bahisle tehdit edilmesi veya cebir kullanılması ile oluşur.
+[Tehdit](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), bir kimsenin iç huzuruna, karar verme hürriyetine ve serbest hareket etme özgürlüğüne yönelik bir müdahale olup suç teşkil eder. Cebir ise bir kimseye bir şeyi yapması veya yapmaması için zor kullanmak olarak tarif edilebilir.
+
+Hırsızlık suçunda, cebir ve tehdit uygulanmadan mağdurun zilyedi olduğu mal rızası dışında alınmaktadır. Oysa gasp suçunda mağdurun zilyedi olduğu mal, cebir ve tehdit kullanılarak alınmaktadır. Cebir ve tehdit, iki suç arasındaki ayrım çizgisidir. 
+
+Yağma suçunda mağdur tehdit edilmekte veya mağdura cebir uygulanmaktadır. Mağdur, kendisinin veya başkasının hayatı, vücut veya cinsel dokunulmazlığına karşı saldırı yapılacağı yönünde tehdit edilebileceği gibi malvarlığı yönünden büyük bir zarara uğratılacağı yönünden de tehdit edilebilir. Örneğin, failin sokakta mağdurun yolunu keserek "cebindeki parayı vermezsen seni bıçaklarım" şeklindeki tehditi üzerine korkususundan cebindeki parayı veren mağdura karşı yağma suçu işlenmiş sayılır.
 
 ##Yağma Suçunun (Gasp Suçunun) Cezası 
 ---
@@ -39,20 +43,22 @@ Hırsızlık suçunda cebir ve tehdit uygulanmadan başkasına ait mal, malın z
 ###1- Gasp Suçunun Basit Şekli [TCK md.148](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
 
 
-Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütüyle bağlantısı olmaksızın, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır. Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
+Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütü üyesi olmadan, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır.
+
+Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
 ###2- Gasp Suçunun Nitelikli Şekli [TCK md.149](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
 
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi gasp suçunun nitelikli bir şekilde işlenmesidir:
 
- * a) Yağma Suçunun Silahla işlenmesi: Her şey silah olabilir. Örneğin, sopa, tırnak makası, kalem, taş veya başkaca silah olarak kullanılmaya elverişli her türlü alet.
+ * a) Yağma Suçunun Silahla İşlenmesi: TCK uygulamasında silah çok geniş bir kavramdır. Her şey silah olabilir. Örneğin, sopa, tırnak makası, kalem, taş veya başkaca silah olarak kullanılmaya elverişli her türlü alet.
  
  * b) Kişinin kendisini tanınmayacak bir hale koyması suretiyle işlenmesi: Örneğin, kişinin gasp suçunu işlerken maske takması cebir ve tehdidin gerçekleşmesini kolaylaştırır.
  
-* c) Birden fazla kişi tarafından birlikte işlenmesi: Failin yağma suçunu işlerken kendisi dışında en az bir kişiyle daha birlikte hareket ederek suçu işlemesi 
+* c) Birden fazla kişi tarafından birlikte işlenmesi: Failin yağma suçunu işlerken kendisi dışında en az bir kişiyle daha birlikte hareket ederek suçu işlemesi halinde suç, birden fazla kişi tarafından birlikte işlenmiş sayılır.
 
-* d) Yol kesmek suretiyle ya da konutta, işyerinde veya bunların eklentilerinde işlenmesi: Yol kesmek, seyahat özgürlüğü gibi hakaları da ihlal eder. Yağma suçunun kapalı mekanlarda işlenmesi, insanların konut ve işyerlerinin daha dokunulmaz bir alan olması nedeniyle ağırlaştırıcı neden olarak kabul edilmiştir.
+* d) Yol kesmek suretiyle ya da konutta, işyerinde veya bunların eklentilerinde işlenmesi: Yol kesmek, seyahat özgürlüğü gibi hakları da ihlal eder. Yağma suçunun kapalı mekanlarda işlenmesi, insanların konut ve işyerlerinin daha dokunulmaz bir alan olması nedeniyle ağırlaştırıcı neden olarak kabul edilmiştir.
 
 * e) Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı işlenmesi: Akıl zayıflığı veya hastalığı bulunan kişiler, çocuklar, yaşlılar gibi kendisini savunamayacak durumda olan kişilere karşı işlenen yağma suçları açısından daha ağır ceza öngörülmüştür.
 
@@ -64,7 +70,7 @@ Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir
  
 Bu hallerde, gasp suçunun nitelikli şekli işlendiğinden suçun cezası da artmaktadır. 
 
-Yağma suçunun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla gasp suçu işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç hangi oranda alt sınırdan ayrılacağına kendisi karar verecektir. Fakat, suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
+Yağma suçunun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla gasp suçu işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç, hangi oranda alt sınırdan ayrılacağını belirlerken bazı kriterlere dikkat etmek zorundadır. Suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
 
 ###![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
 
@@ -73,17 +79,19 @@ Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia v
 ##Yağma Suçu ve Malın Değerinin Azlığı Hali [TCK md.150](http://www.turkhukuksitesi.com/mevzuat.php?mid=5064)
 
 
-Yağma suçunun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma 1 TL para gibi mal veya paranın gasp edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde bu kural uygulanmaktadır, yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
+Yağma suçunun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma, 1 TL para gibi mal veya paranın gasp edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde bu kural uygulanmaktadır, yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
 
 ##Yağma Suçunun Alacağın Tahsili Amacıyla İşlenmesi
 
-Yağma suçu, bir alacağın tahsili amacıyla işlenirse faile işlediği fiilin niteliğine göre tehdit veya kasten yaralama suçlarından ceza verilir. Bu hükmün uygulanabilnmesi için fail ile mağdur arasında hukuki ilişkiye dayanan bir alacak söz konusu olmalıdır. Fail ile mağdur arasında hukuki bir ilişki olmadan alacak iddiasında bulunulsa dahi yağma suçuna özel bu madde hükümleri uygulanamaz.
+Yağma suçu, bir alacağın tahsili amacıyla işlenirse, işlediği fiilin niteliğine göre faile tehdit veya kasten yaralama suçlarından ceza verilir. Bu hükmün uygulanabilmesi için fail ile mağdur arasında gerçek bir hukuki ilişkiye dayanan bir alacak söz konusu olmalıdır. Alacak, sözleşme ilişkisinden kaynaklanabileceği gibi, haksız fiil veya sebepsiz zenginleşme sebeplerine de dayanabilir. Fail ile mağdur arasında hukuki bir ilişki olmadan alacak iddiasında bulunulsa dahi yağma suçuna özel bu madde hükümleri uygulanamaz.
 
 ##Hırsızlık Suçunun Yağma Suçuna Dönüşmesi Hali
 
-Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı anda hırsızlık suçu yağma suçuna dönüşür. Fakat failin uyguladığı cebir ve tehdit, hırsızlık suçu tamamlanmadan işlenirse suç yağma suçuna dönüşür. Fail, mağdurun zilyetliğine son vererek mağdurun malını elinden aldıktan sonra mağdurun malı geri almak istemesi üzerine failin cebir ve tehdit uygulaması halinde artık yağma suçu oluşmaz. Fail, ilk eyleminden dolayı hırsızlık suçundan, mağdurun malı geri lamak istemesi üzerine cebir ve tehdit uuygulaması halinde ikinci eyleminden dolayı da fiilin niteliğine göre tehdit veya yaralama suçundan cezalandırılır. Örneğin, A şahsı B şahsına ait bilgisayarı dükkanından çalmış, B şahsı A'yı bir süre sonra caddede bilgisayarıyla giderken tesadüfen gmörmüş, A ise B'ye şiddet uygulayarak yaralamış, bilgisayarla kaçmış, birkaç saat sonra  şikayet üzerine yakalanmıştır. Bu olayda A'nın bilgisayarı alması şeklindeki ilk eylem hırsızlık suçunu, ikinci eylem ise yaralama suçunu oluşturur. Bu olayda yağma suçu hükümleri uygulanamaz. 
+Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı anda [hırsızlık suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) yağma suçuna dönüşür. Failin uyguladığı cebir ve tehdit, ancak hırsızlık suçu tamamlanmadan işlenirse suç yağma suçuna dönüşür. 
 
-Ancak hemen belirtmek gerekir ki, hırsızlık suçunun gerçekleşemesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını istemesi üzerine failin tehdit ve cebir uygulaması halinde suç, hırsızlık suçundan yağma suçuna dönüşür.
+Fail, mağdurun zilyetliğine son vererek mağdurun malını elinden alıp fiili hakimiyetine ve zilyedliğine son verdikten belli bir süre sonra mağdurun malı geri almak istemesi üzerine, failin cebir ve tehdit uygulaması halinde artık yağma suçu oluşmaz. Fail, ilk eyleminden dolayı hırsızlık suçundan, mağdurun malını geri almak istemesi üzerine mağdura cebir ve tehdit uygulaması halinde ikinci eyleminden dolayı da fiilin niteliğine göre tehdit veya yaralama suçundan cezalandırılır. Örneğin, A şahsı B şahsına ait bilgisayarı dükkanından çalmış, B şahsı A'yı bir süre sonra caddede bilgisayarıyla giderken tesadüfen gmörmüş, A ise B'ye şiddet uygulayarak yaralamış, bilgisayarla kaçmış, birkaç saat sonra  şikayet üzerine yakalanmıştır. Bu olayda A'nın bilgisayarı alması şeklindeki ilk eylem hırsızlık suçunu, ikinci eylem ise yaralama suçunu oluşturur. Bu olayda yağma suçu hükümleri uygulanamaz. 
+
+Ancak hemen belirtmek gerekir ki; hırsızlık suçunun gerçekleşmesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını geri istemesi üzerine failin tehdit ve cebir uygulaması halinde suç, hırsızlık suçundan yağma suçuna dönüşür.
 
 
 ##Yağma Suçu ve Etkin Pişmanlık Halinde Ceza İndirimi
