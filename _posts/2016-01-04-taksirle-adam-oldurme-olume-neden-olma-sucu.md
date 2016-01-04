@@ -46,7 +46,7 @@ Bilinçli taksir faile verilen cezanın daha ağır hale gelmesine neden olduğu
 
 * Hastanın ameliyat edilmesi sırasında hemşirenin doktora kullanılmış ameliyat malzemesi vermesi, doktorun da daha önce kullanıldığını bile bile ameliyat sırasında bu malzemeleri kullanması neticesinde hastanın ölmesi bilinçli taksirle adam öldürme suçunu teşkil eder. Bu somut durumda hem hemşire hem doktor bilinçli taksirle adam öldürme suçu nedeniyle cezalandırılır. Çünkü,  hem hemşire hem doktor kullanılmış malzemenin enfeksiyon vs. gibi nedenlerle ölüme neden olacağını biliyor, ancak hastanın ölmesini istemiyor. Hemşire ve doktor,  ölüm sonucunun gerçekleşebileceğini “öngördükleri” için genel taksirle değil, bilinçli taksirle adam öldürme suçu hükümleri gereği cezalandırılır. 
 
-###![Doktor Hatası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/a7a67036db3fcf8f82b702dabd9f76a410066ef0/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d316c766e322e6a7067 "Taksirle Adam Öldürme")
+
 
 * Yüksek oranda alkol aldığı halde araba sürerek trafik kazası neticesinde ölüme neden olan şahıs,  fiili bilinçli taksirle işlediğinden faile bilinçli taksir hükümlerine göre ceza verilir. Çünkü,  fail yüksek alkol alarak araç süren bir kimsenin ölüme neden olabileceğini öngörmesine rağmen arabayı sürmüştür.
 
@@ -69,14 +69,24 @@ Trafik kazası nedeniyle yapılan yargılamalarda mutlaka olay yerinde keşif ya
 
 ###İş Kazası ve Taksirle Ölüme Neden Olma Suçu
 
-İş kazası, işyerinde veya işin yapılması sırasında işçinin uğradığı her türlü kazadır. İş kazaları, İş Kanunu'na göre oldukça geniş bir perpektifle düzenlenmiştir. İş Kanunu'na göre işyerinde gerçekleşen her türlü kaza iş kazasıdır. İşyerinde gerçekleşmese bile işin yürütümü sırasında olmak şartıyla, nerde olursa olsun işçinin uğradığı her türlü kaza da iş kazası sayılır. 
+İş kazası, işyerinde veya işin yapılması sırasında işçinin uğradığı her türlü kazadır. İş kazaları nedeniyle sorumluluk, İş Kanunu hükümleri gereği oldukça geniş bir perspektifle düzenlenmiştir. İş Kanunu'na göre işyerinde gerçekleşen her türlü kaza iş kazasıdır. İşyerinde gerçekleşmese bile işin yürütümü sırasında olmak şartıyla, nerde olursa olsun işçinin uğradığı her türlü kaza da iş kazası sayılır. 
 
-İş kazası işçinin ölümüne neden olmuşsa, taksirle ölüme neden olma şartlarının oluşup oluşmadığı savcılık tarafından soruşturma açılarak resen soruşturulur. İş kazasının meydana gelmesinde, iş güvenliği ve işçi sağlığı kurallarına riayet edilmemesinin etkisi varsa, bu durumda işverenin kusurlu olduğu kabul edilir. Örneğin, inşatta çalışan işçiye iş elbisesi, baret, gözlük vb. gibi güvenlik ekipmanı verilmemesi, işçinin fazla çalıştırılması gibi olgular, iş güvenliği ve işçi sağlığı kurallarının ihlal edildiği anlamına gelmektedir. 
+İş kazası işçinin ölümüne neden olmuşsa, taksirle ölüme neden olma şartlarının oluşup oluşmadığı  soruşturma açılarak savcılık tarafından resen soruşturulur. İş kazasının meydana gelmesinde, iş güvenliği ve işçi sağlığı kurallarına riayet edilmemesinin etkisi varsa, bu durumda işverenin kusurlu olduğu kabul edilir. Örneğin, inşatta çalışan işçiye iş elbisesi, baret, gözlük vb. gibi güvenlik ekipmanı verilmemesi, işçinin fazla çalıştırılması gibi olgular, iş güvenliği ve işçi sağlığı kurallarının ihlal edildiği anlamına gelmektedir. 
 
 İş kazası nedeniyle soruşturma yürüten savcılık, iş güvenliği uzmanlarından bir veya birden fazla bilirkişi raporu alarak iş kazasının meydana gelmesinde kimlerin ne ölçüde kusurlu olduğunu tespit eder. İş kazasının meydana gelmesinde kusurlu olanlar hakkında taksirle ölüme neden olma suçu işledikleri iddiasıyla dava açılır. Uygulamada işveren büyük şirketler, iş güvenliğinden sorumlu müdür tayin etmekte, iş kazaları meydana geldiğinde şirket ortakları değil, sorumlu müdürler iş kazası sebebiyle taksirle ölüme neden olma suçundan yargılanmaktadır. Örneğin, büyük bir inşaat firması inşaat alanından sorumlu bir şantiye şefi atamakta, meydana gelen iş kazaları neticesinde taksirle ölüme neden olma suçundan da bu şantiye şefleri yargılanmaktadır. 
 
 Her şirketin özelliğine ve faaliyet alanına göre iş kazası nedeniyle taksirle ölüme neden olma suçundan sorumlu kişi tespit edilmelidir. Örneğin, toplu yemek şirketlerinde üretim sorumlusu gıda mühendisi; elektrik üreten şirketlerde sorumlu elektrik mühendisi;  inşaat şirketlerinde inşaat alanından sorumlu şantiye şefi veya iş güvenliği sorumlusu olan kişiler, iş kazası sebebiyle taksirle ölüme neden olma suçundan yargılanabilirler. Sorumlu müdürün uyarılarına rağmen, şirket, iş güvenliği için gerekli önlemleri alamamış ise, şirket ortaklarını veya yöneticilerini de iş kazasından sorumlu tutmak mümkündür.
 
+###Doktor Hatası (Tıbbi Malpraktis) ve Taksirle Ölüme Neden Olma
+
+
+Doktor hatası, diğer bir deyişle "tıbbi malpraktis", hastaya tıbbi uygulama yapılırken dikkat ve özen yükümlülüğüne aykırı uygulama yapılması veya mesleki bilgi yetersizliği veya acemilik nedeniyle yanlış uygulama yapılmasıdır. Özel hukukta doktor, her türlü hatasından sorumludur. Doktor hataları, vekalet sözleşmesine aykırılık olarak kabul edildiğinden, doktorlar, en hafif kusurlarından dahi sorumludur. 
+
+Doktorlar, tıbbi uygulama yaparken hedefledikleri sonuca ulaşamamaktan dolayı değil, bu sonuca varmak için yaptıkları her bir uygulamanın dikkat ve özenle yapılmasından sorumludur. Doktor ile hastası arasındaki ilişki vekil-müvekkil ilişkisidir. Doktor hastasının kişisel özelliklerine en uygun tedaviyi seçmeli, hastanın zarar görmemesi için hem mesleki hem de genel hayat tecrübelerine göre alınması gereken tüm önlemleri almalı, uygulama sırasında yeni bir sorunla karşılaştığında sorunu ortadan kaldırmak için titizlikle araştırma yapmalı, her türlü koruyucu tedbiri aldıktan sonra yeni bir uygulama yapmalıdır.
+
+Doktor hatası neticesinde hasta ölmüşse; doktor, taksirle ölüme neden olma iddiasıyla yargılanır. Doktorun yaptığı tıbbi uygulamanın tıp bilimin gereklerine uygun olup olmadığı, Adli Tıp Kurumu Başkanlığı'ndan bilimsel bir rapor alınarak tespit edilir. Doktor hatası, hangi nedene dayalı olursa olsun yapılan uygulama hatalı ise doktor, taksirle ölüme neden olma suçundan cezalandırılır. Örneğin, ameliyat sırasında hastasının midesinde gazlı bez unutan ve gelişen komlikasyonla hastanın ölümüne neden olan doktor, taksirle ölüme neden olma suçu nedeniyle cezalandırılır.
+
+###![Doktor Hatası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/a7a67036db3fcf8f82b702dabd9f76a410066ef0/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d316c766e322e6a7067 "Taksirle Adam Öldürme")
 
 
 ###Taksirle veya Bilinçli Taksirle Adam Öldürme Suçu Cezası
