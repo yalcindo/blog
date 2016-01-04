@@ -69,7 +69,7 @@ Trafik kazası nedeniyle yapılan yargılamalarda mutlaka olay yerinde keşif ya
 
 ###İş Kazası ve Taksirle Ölüme Neden Olma Suçu
 
-İş kazası, işçinin, işyerinde veya işin yapılması sırasında uğradığı kazadır. İş kazaları, İş Kanunu'na göre oldukça geniş bir perpektifle düzenlenmiştir. İş Kanunu'na göre işyerinde gerçekleşen her türlü kaza iş kazasıdır. İşyerinde gerçekleşmese bile işin yürütümü sırasında olmak şartıyla, nerde olursa olsun işçinin uğradığı her türlü kaza da iş kazası sayılır. 
+İş kazası, işyerinde veya işin yapılması sırasında işçinin uğradığı her türlü kazadır. İş kazaları, İş Kanunu'na göre oldukça geniş bir perpektifle düzenlenmiştir. İş Kanunu'na göre işyerinde gerçekleşen her türlü kaza iş kazasıdır. İşyerinde gerçekleşmese bile işin yürütümü sırasında olmak şartıyla, nerde olursa olsun işçinin uğradığı her türlü kaza da iş kazası sayılır. 
 
 İş kazası işçinin ölümüne neden olmuşsa, taksirle ölüme neden olma şartlarının oluşup oluşmadığı savcılık tarafından soruşturma açılarak resen soruşturulur. İş kazasının meydana gelmesinde, iş güvenliği ve işçi sağlığı kurallarına riayet edilmemesinin etkisi varsa, bu durumda işverenin kusurlu olduğu kabul edilir. Örneğin, inşatta çalışan işçiye iş elbisesi, baret, gözlük vb. gibi güvenlik ekipmanı verilmemesi, işçinin fazla çalıştırılması gibi olgular, iş güvenliği ve işçi sağlığı kurallarının ihlal edildiği anlamına gelmektedir. 
 
