@@ -67,6 +67,16 @@ Trafik kazası nedeniyle yapılan yargılamalarda mutlaka olay yerinde keşif ya
 
 ###![Taksirle Adam Öldürme Suçu](https://camo.githubusercontent.com/069cade404e2afa6a7f59c3440cc054da77a5995/687474703a2f2f692e68697a6c69726573696d2e636f6d2f584c574f726a2e6a7067 "Taksirle Adam Öldürme")
 
+###İş Kazası ve Taksirle Ölüme Neden Olma Suçu
+
+İş kazası, işçinin, işyerinde veya işin yapılması sırasında uğradığı kazadır. İş kazaları, İş Kanunu'na göre oldukça geniş bir perpektifle düzenlenmiştir. İş Kanunu'na göre işyerinde gerçekleşen her türlü kaza iş kazasıdır. İşyerinde gerçekleşmese bile işin yürütümü sırasında olmak şartıyla, nerde olursa olsun işçinin uğradığı her türlü kaza da iş kazası sayılır. 
+
+İş kazası işçinin ölümüne neden olmuşsa, taksirle ölüme neden olma şartlarının oluşup oluşmadığı savcılık tarafından soruşturma açılarak resen soruşturulur. İş kazasının meydana gelmesinde, iş güvenliği ve işçi sağlığı kurallarına riayet edilmemesinin etkisi varsa, bu durumda işverenin kusurlu olduğu kabul edilir. Örneğin, inşatta çalışan işçiye iş elbisesi, baret, gözlük vb. gibi güvenlik ekipmanı verilmemesi, işçinin fazla çalıştırılması gibi olgular, iş güvenliği ve işçi sağlığı kurallarının ihlal edildiği anlamına gelmektedir. 
+
+İş kazası nedeniyle soruşturma yürüten savcılık, iş güvenliği uzmanlarından bir veya birden fazla bilirkişi raporu alarak iş kazasının meydana gelmesinde kimlerin ne ölçüde kusurlu olduğunu tespit eder. İş kazasının meydana gelmesinde kusurlu olanlar hakkında taksirle ölüme neden olma suçu işledikleri iddiasıyla dava açılır. Uygulamada işveren büyük şirketler, iş güvenliğinden sorumlu müdür tayin etmekte, iş kazaları meydana geldiğinde şirket ortakları değil, sorumlu müdürler iş kazası sebebiyle taksirle ölüme neden olma suçundan yargılanmaktadır. Örneğin, büyük bir inşaat firması inşaat alanından sorumlu bir şantiye şefi atamakta, meydana gelen iş kazaları neticesinde taksirle ölüme neden olma suçundan da bu şantiye şefleri yargılanmaktadır. 
+
+Her şirketin özelliğine ve faaliyet alanına göre iş kazası nedeniyle taksirle ölüme neden olma suçundan sorumlu kişi tespit edilmelidir. Örneğin, toplu yemek şirketlerinde üretim sorumlusu gıda mühendisi; elektrik üreten şirketlerde sorumlu elektrik mühendisi;  inşaat şirketlerinde inşaat alanından sorumlu şantiye şefi veya iş güvenliği sorumlusu olan kişiler, iş kazası sebebiyle taksirle ölüme neden olma suçundan yargılanabilirler. Sorumlu müdürün uyarılarına rağmen, şirket, iş güvenliği için gerekli önlemleri alamamış ise, şirket ortaklarını veya yöneticilerini de iş kazasından sorumlu tutmak mümkündür.
+
 
 
 ###Taksirle veya Bilinçli Taksirle Adam Öldürme Suçu Cezası
@@ -84,7 +94,7 @@ Taksirli suçlarda faile ceza verilirken “asli kusur” – “tali kusur” a
 Bilinçli taksir halinde hükmün açıklanmasının geri bırakılması ceza miktarı nedeniyle mümkün değildir. 
 Taksirle adam öldürme suçu halinde ise ceza miktarı 2 yıl veya altında olduğunda hükmün açıklanmasının geri bırakılması (HAGB) mümkündür. Hagb kararı verilmesi için mağdurun ölüm nedeniyle uğradığı maddi zararın karşılanması zorunludur. Mağdurun zararı giderildiği taktirde mahkeme tarafından HAGB kararı verilebilir.
 
-### Taksirle Adam Öldürme Suçu ve Cezanın Adli Para Cezasına Çevrilmesi
+###Taksirle Adam Öldürme Suçu ve Cezanın Adli Para Cezasına Çevrilmesi
 
 Taksirle adam öldürme suçu, [“Adli Para Cezası”](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) seçenek yaptırımı açısından özellikli bir durum arz etmektedir.  Taksirle adam öldürme  suçu nedeniyle yapılan yargılamada verilecek cezanın miktarı ne olursa olsun, isterse faile 15 yıl ceza verilsin, bu ceza koşulları varsa adli para cezasına çevrilebilir.  Yani taksirli suçlarda cezanın adli para cezasına çevrilmesi açısından bir ceza süresi sınırı yoktur.
 
