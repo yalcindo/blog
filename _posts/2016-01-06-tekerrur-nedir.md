@@ -11,11 +11,11 @@ summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartl
 
 ##Tekerrür Nedir?
 
-Tekerrür,  daha önce işlenen bir suçun cezası kesinleştikten belli bir süre sonra ikinci bir suç işlenmesidir.  Suçta tekerrür, ancak ilk işlenen suç kesinleşmişse söz konusu olabilir. Suçta tekerrür hükümleri uygulanan mahkum, cezasının “mükerrirlere özgü infaz rejimi” çerçevesinde infaz eder. Tekerrür, hükümlünün ikinci kere suç işlemesi nedeniyle, ilk kez suç işleyen bir kişiye göre daha ağır bir yaptırım sistemiyle karşılaşması için düzenlenmiştir.
+**Tekerrür**,  daha önce işlenen bir suçun cezası kesinleştikten belli bir süre sonra ikinci bir suç işlenmesidir.  Suçta tekerrür, ancak ilk işlenen suç kesinleşmişse söz konusu olabilir. Suçta tekerrür hükümleri uygulanan mahkum, cezasının **“mükerrirlere özgü infaz rejimi”** çerçevesinde infaz eder. Tekerrür, hükümlünün ikinci kere suç işlemesi nedeniyle, ilk kez suç işleyen bir kişiye göre daha ağır bir yaptırım sistemiyle karşılaşması için düzenlenmiştir.
 
 ##Suçta Tekerrürün Hukuki Niteliği
 
-Suçta tekerrür, bazı hukuk sistemlerinde maddi ceza hukuku kurumu olup cezayı arttıran bir neden olarak düzenlenmişken bazı hukuk sistemlerinde bir infaz hukuku kurumu olarak cezanın infaz süresini arttıran bir neden olarak düzenlenmiştir. İster bir infaz hukuku kurumu isterse bir maddi ceza hukuku kurumu olsun, tekerrür  hükümleri uygulanan hükümlünün özgürlüğü daha fazla kısıtlanmış olur.
+**Suçta tekerrür**, bazı hukuk sistemlerinde maddi ceza hukuku kurumu olup cezayı arttıran bir neden olarak düzenlenmişken bazı hukuk sistemlerinde bir infaz hukuku kurumu olarak cezanın infaz süresini arttıran bir neden olarak düzenlenmiştir. İster bir infaz hukuku kurumu isterse bir maddi ceza hukuku kurumu olsun, tekerrür  hükümleri uygulanan hükümlünün özgürlüğü daha fazla kısıtlanmış olur.
 Türkiye’nin mevcut hukuk sisteminde tekerrür, bir infaz hukuku kurumudur.  Ancak, 5237 sayılı TCK’nın 58. maddesinde tekerrür bir güvenlik tedbiri olarak da düzenlenmiştir.  Tekerrürün hem infaz hukuku kurumu olmasının hem güvenlik tedbiri olmasının yarattığı hukuki neticelere ileride değineceğiz.
 
 ##Suçta Tekerrür Hükümlerinin Uygulanma Şartları
@@ -58,7 +58,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 ###Suçta Tekerrür Hükümlerinin Uygulanamayacağı Haller
 
-*	** Tekerrür ve Yaş Küçüklüğü:** 18 yaşından küçük çocukların işledikleri suçlar tekerrüre esas alınmaz. Yani, birinci suç (tekerrüre esas suç) 18 yaşından küçükken işlenmiş, ikinci suç (tekerrür hükümleri uygulanacak suç) ise 18 yaşından sonra işlenmiş olsa bile sanık hakkında suçta tekerrür hükümleri uygulanmaz.
+*	**Tekerrür ve Yaş Küçüklüğü:** 18 yaşından küçük çocukların işledikleri suçlar tekerrüre esas alınmaz. Yani, birinci suç (tekerrüre esas suç) 18 yaşından küçükken işlenmiş, ikinci suç (tekerrür hükümleri uygulanacak suç) ise 18 yaşından sonra işlenmiş olsa bile sanık hakkında suçta tekerrür hükümleri uygulanmaz.
 
 *	**Tekerrür ve Genel Af – Özel Af**: Genel af, mahkumiyeti bütün hukuki sonuçlarıyla ortadan kaldırdığından, genel affa uğramış mahkumiyetler tekerrüre esas alınamaz. Özel af ise mahkumiyetin tüm sonuçlarını ortadan kaldırmaz, sadece hükümlünün fiilen cezaevinde kalmasını veya cezanın niteliğinin değişmesine yol açar. Bu nedenle, özel affa uğrayan mahkumiyet hakkında suçta tekerrür hükümleri uygulanabilir.
 
@@ -108,49 +108,49 @@ Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özg
 
 >1- Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
 
-a) Ağırlaştırılmış müebbet hapis cezasının otuzdokuz yılının,
+>a) Ağırlaştırılmış müebbet hapis cezasının otuzdokuz yılının,
 
-b) Müebbet hapis cezasının otuzüç yılının,
+>b) Müebbet hapis cezasının otuzüç yılının,
 
-c) Süreli hapis cezasının dörtte üçünün,
+>c) Süreli hapis cezasının dörtte üçünün,
 
-İnfaz kurumunda iyi hâlli olarak çekilmesi durumunda, koşullu salıverilmeden yararlanılabilir.
+>İnfaz kurumunda iyi hâlli olarak çekilmesi durumunda, koşullu salıverilmeden yararlanılabilir.
 
-2- Tekerrür nedeniyle koşullu salıverme süresine eklenecek miktar, tekerrüre esas alınan cezanın en ağırından fazla olamaz.
+>2- Tekerrür nedeniyle koşullu salıverme süresine eklenecek miktar, tekerrüre esas alınan cezanın en ağırından fazla olamaz.
 
-3-  İkinci defa tekerrür hükümlerinin uygulanması durumunda, hükümlü koşullu salıverilmez.
+>3-  İkinci defa tekerrür hükümlerinin uygulanması durumunda, hükümlü koşullu salıverilmez.
 
-4- Hâkim, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve bir yıldan az olmamak üzere denetim süresi belirler.
+>4- Hâkim, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve bir yıldan az olmamak üzere denetim süresi belirler.
 
-5- Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin hükümler uygulanır.
+>5- Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin hükümler uygulanır.
 
-6- Hâkim, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir. Denetim süresi en fazla beş yıla kadar uzatılabilir.
+>6- Hâkim, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir. Denetim süresi en fazla beş yıla kadar uzatılabilir.
 
-7- Cezanın infazı tamamlandıktan sonra devam eden denetim süresi içinde, bu madde hükümlerine göre kendilerine yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz hâkimi kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on beş günden az ve üç aydan fazla olamaz.
+>7- Cezanın infazı tamamlandıktan sonra devam eden denetim süresi içinde, bu madde hükümlerine göre kendilerine yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz hâkimi kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on beş günden az ve üç aydan fazla olamaz.
 
-8-  Çocuğa karşı işlenen bir suçtan dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
+>8-  Çocuğa karşı işlenen bir suçtan dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
 
-9- Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 102 nci maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103 üncü maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104 üncü maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188 inci maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır. 188 inci madde hariç olmak üzere bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında, cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde, aşağıdaki tedavi veya yükümlülüklerden bir veya birkaçına infaz hâkimi tarafından karar verilir:
+>9- Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 102 nci maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103 üncü maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104 üncü maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188 inci maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır. 188 inci madde hariç olmak üzere bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında, cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde, aşağıdaki tedavi veya yükümlülüklerden bir veya birkaçına infaz hâkimi tarafından karar verilir:
 
-a) Tıbbi tedaviye tabi tutulmak
+>a) Tıbbi tedaviye tabi tutulmak
 
-b) Tedavi amaçlı programlara katılmak
+>b) Tedavi amaçlı programlara katılmak
 
-c) Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak
+>c) Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak
 
-d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
+>d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
 
-e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
+>e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
 
-f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
+>f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
 
-10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
+>10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
 
 ###Suçta Tekerrür ve Ek Savunma
 
 Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir. İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 
-Suçta tekerrür, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan ceza avukatı tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
+**Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan ceza avukatı tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
 
 
 
