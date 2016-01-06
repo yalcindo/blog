@@ -138,11 +138,11 @@ Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özg
 
 >c) Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak
 
->d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
+d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
 
->e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
+e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
 
->f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
+f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
 
 >10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
 
