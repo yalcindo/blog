@@ -106,45 +106,45 @@ Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin 
 
 Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
 
-1- Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
-
-a) Ağırlaştırılmış müebbet hapis cezasının otuzdokuz yılının,
-
-b) Müebbet hapis cezasının otuzüç yılının,
-
-c) Süreli hapis cezasının dörtte üçünün,
-
-İnfaz kurumunda iyi hâlli olarak çekilmesi durumunda, koşullu salıverilmeden yararlanılabilir.
-
-2- Tekerrür nedeniyle koşullu salıverme süresine eklenecek miktar, tekerrüre esas alınan cezanın en ağırından fazla olamaz.
-
-3-  İkinci defa tekerrür hükümlerinin uygulanması durumunda, hükümlü koşullu salıverilmez.
-
-4- Hâkim, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve bir yıldan az olmamak üzere denetim süresi belirler.
-
-5- Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin hükümler uygulanır.
-
-6- Hâkim, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir. Denetim süresi en fazla beş yıla kadar uzatılabilir.
-
-7- Cezanın infazı tamamlandıktan sonra devam eden denetim süresi içinde, bu madde hükümlerine göre kendilerine yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz hâkimi kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on beş günden az ve üç aydan fazla olamaz.
-
-8-  Çocuğa karşı işlenen bir suçtan dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
-
-9- Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 102. maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103. maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104. maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188. maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır. 188. madde hariç olmak üzere bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında, cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde, aşağıdaki tedavi veya yükümlülüklerden bir veya birkaçına infaz hâkimi tarafından karar verilir:
-
-a) Tıbbi tedaviye tabi tutulmak
-
-b) Tedavi amaçlı programlara katılmak
-
-c) Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak
-
-d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
-
-e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
-
-f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
-
-10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
+>1- Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
+>
+>a) Ağırlaştırılmış müebbet hapis cezasının otuzdokuz yılının,
+>
+>b) Müebbet hapis cezasının otuzüç yılının,
+>
+>c) Süreli hapis cezasının dörtte üçünün,
+>
+>İnfaz kurumunda iyi hâlli olarak çekilmesi durumunda, koşullu salıverilmeden yararlanılabilir.
+>
+>2- Tekerrür nedeniyle koşullu salıverme süresine eklenecek miktar, tekerrüre esas alınan cezanın en ağırından fazla olamaz.
+>
+>3-  İkinci defa tekerrür hükümlerinin uygulanması durumunda, hükümlü koşullu salıverilmez.
+>
+>4- Hâkim, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve bir yıldan az olmamak üzere denetim süresi belirler.
+>
+>5- Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin hükümler uygulanır.
+>
+>6- Hâkim, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir. Denetim süresi en fazla beş yıla kadar uzatılabilir.
+>
+>7- Cezanın infazı tamamlandıktan sonra devam eden denetim süresi içinde, bu madde hükümlerine göre kendilerine yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz hâkimi kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on beş günden az ve üç aydan fazla olamaz.
+>
+>8-  Çocuğa karşı işlenen bir suçtan dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
+>
+>9- Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 102. maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103. maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104. maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188. maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır. 188. madde hariç olmak üzere bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında, cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde, aşağıdaki tedavi veya yükümlülüklerden bir veya birkaçına infaz hâkimi tarafından karar verilir:
+>
+>a) Tıbbi tedaviye tabi tutulmak
+>
+>b) Tedavi amaçlı programlara katılmak
+>
+>c) Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak
+>
+>d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
+>
+>e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
+>
+>f) Çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
+>
+>10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
 
 ###Suçta Tekerrür ve Ek Savunma
 
