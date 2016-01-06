@@ -155,4 +155,4 @@ Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa il
 
 
 
-
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
