@@ -50,7 +50,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 ###01.06.2005 Tarihinden Önce ve Sonra İşlenen Suçlarda Tekerrür
 
-5237 sayılı TCK, 01.06.2005 tarihinde yürürlüğe girmiş olup halen yürürlüktedir. Tekerrür, 765 sayılı eski TCK’da bir maddi ceza hukuku kurumu iken, 01.06.2005 tarihinden sonra 5237 sayılı TCK ile bir güvenlik tedbiri ve 5275 sayılı İnfaz Kanunu ile infaz kurumu haline dönüşmüştür. Bu hukuki nitelemeler uygulamada bazı farklı sonuçlara yol açmaktadır.
+[5237 sayılı TCK,](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf) 01.06.2005 tarihinde yürürlüğe girmiş olup halen yürürlüktedir. Tekerrür, [765 sayılı eski TCK](http://www.mevzuat.gov.tr/MevzuatMetin/5.3.765.pdf)’da bir maddi ceza hukuku kurumu iken, 01.06.2005 tarihinden sonra 5237 sayılı TCK ile bir güvenlik tedbiri ve 5275 sayılı İnfaz Kanunu ile infaz kurumu haline dönüşmüştür. Bu hukuki nitelemeler uygulamada bazı farklı sonuçlara yol açmaktadır.
 * Her iki suç da, yani birinci suç (tekerrüre esas suç) ile ikinci suç (tekerrür hükümleri uygulanacak) 01.06.2005 tarihinden önce işlenmişse tekerrür hükümleri uygulanmaz. Eski TCK döneminde var olan sistem,  yeni TCK ile ortadan kaldırılmıştır. Her iki suç da eski TCK döneminde işlendiğinde; yeni TCK lehe olup yeni TCK’nın tekerrür hükümlerini içeren 58. maddesi infaz hukukunu ilgilendirdiğinden ve aleyhe de olduğundan sanık hakkında tekerrür hükümleri uygulanmaz.  
 * Birinci suç (Tekerrüre esas alınan suç) 01.06.2005 tarihinden önce, ikinci suç (tekerrür hükümleri uygulanacak suç) ise 01.06.2005 tarihinden sonra işlendiği takdirde; sanık hakkında TCK md. 58 gereği tekerrür hükümlerinin uygulanması önünde hiçbir engel yoktur. Çünkü, tekerrür hükümleri uygulanacak olan suç ikinci suç olup ikinci suç 5237 sayılı yeni TCK döneminde işlenmiştir.
 
@@ -91,7 +91,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir yaptırımla karşılaşmasına yol açar. Suçta tekerrür halinde sanık aleyhine üç hukuki sonuç gerçekleşir:
 
-*	**Mükerrirlere Özgü İnfaz Rejimi Uygulanır:** Suçta tekerrür hükümleri uygulanan hükümlüye 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde düzenlenen “mükerrirlere özgü infaz rejimi” uygulanır. Mükerrirlere özgü infaz rejimi, hükümlünün cezaevinde daha fazla kalmasına yol açar. Mükerrirlere özgü infaz rejimi uygulandığında hükümlünün ne kadar süreyle cezaevinde kalacağı aşağıda ayrı bir başlık altında incelenmiştir.
+*	**Mükerrirlere Özgü İnfaz Rejimi Uygulanır:** Suçta tekerrür hükümleri uygulanan hükümlüye [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. Maddesinde düzenlenen “mükerrirlere özgü infaz rejimi” uygulanır. Mükerrirlere özgü infaz rejimi, hükümlünün cezaevinde daha fazla kalmasına yol açar. Mükerrirlere özgü infaz rejimi uygulandığında hükümlünün ne kadar süreyle cezaevinde kalacağı aşağıda ayrı bir başlık altında incelenmiştir.
 
 *	**Seçimli Cezalardan Hapis Cezasına Karar Verilir:** Tekerrür halinde işlenen ikinci suçun (tekerrür hükümleri uygulanacak suç) cezası seçimlik olarak hapis cezası veya adli para cezası olarak öngörülmüşse, hapis cezasına hükmedilir. Hükmedilen hapis cezası adli para cezasına çevrilemez (TCK md. 58/3).
 
@@ -104,7 +104,7 @@ Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin 
 
 ###Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi
 
-Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. 5275 sayılı İnfaz Kanunu’nun 108. maddesine göre;
+Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
 
 >1- Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
 
