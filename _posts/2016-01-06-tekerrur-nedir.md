@@ -11,7 +11,7 @@ summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartl
 
 ##Tekerrür Nedir?
 
-**Tekerrür**,  daha önce işlenen bir suçun cezası kesinleştikten belli bir süre sonra ikinci bir suç işlenmesidir.  Suçta tekerrür, ancak ilk işlenen suç kesinleşmişse söz konusu olabilir. Suçta tekerrür hükümleri uygulanan mahkum, cezasının **“mükerrirlere özgü infaz rejimi”** çerçevesinde infaz eder. Tekerrür, hükümlünün ikinci kere suç işlemesi nedeniyle, ilk kez suç işleyen bir kişiye göre daha ağır bir yaptırım sistemiyle karşılaşması için TCK md. 58'de düzenlenmiştir.
+**Tekerrür**,  daha önce işlenen bir suçun cezası kesinleştikten belli bir süre sonra ikinci bir suç işlenmesidir.  Suçta tekerrür, ancak ilk işlenen suç kesinleşmişse söz konusu olabilir. Suçta tekerrür hükümleri uygulanan mahkum, cezasını **“mükerrirlere özgü infaz rejimi”** çerçevesinde infaz eder. Tekerrür, hükümlünün ikinci kere suç işlemesi nedeniyle, ilk kez suç işleyen bir kişiye göre daha ağır bir yaptırım sistemiyle karşılaşması için TCK md. 58'de düzenlenmiştir.
 
 ##Suçta Tekerrürün Hukuki Niteliği
 
