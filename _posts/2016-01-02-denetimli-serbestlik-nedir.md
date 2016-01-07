@@ -155,7 +155,7 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 
 ###Denetimli Serbestlik ve Suçta Tekerrür
 
-Suçta tekerrür, ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir. Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
+[Suçta tekerrür,](https://barandogan.av.tr/blog/ceza-hukuku/tekerrur-nedir.html) ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir. Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
 
 Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün 31.12.2020 tarihinden sonra denetimli serbestlik tedbirinden yararlanması mümkün değildir.
 
