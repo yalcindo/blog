@@ -139,7 +139,7 @@ Basit dolandırıcılık suçunun cezası TCK md. 157’de düzenlenmiştir. Bun
 
 *Nitelikli dolandırıcılık suçunun cezası* TCK md. 158’de düzenlenmiştir. Buna göre nitelikli dolandırıcılık suçu işleyen fail, 2 yıldan 7 yıla kadar hapis cezası ve beşbin güne kadar adli para cezası ile cezalandırılır. Ancak,  kamu kurum ve kuruluşlarının zararına olarak, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle, banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla veya sigorta bedelini almak maksadıyla suçun işlenmesi hallerinde suçun cezasının alt sınırı 3 yıldan az olamaz, verilecek adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/7e61950ee017cebe7d0880481d47bc7da5b0f1d2/687474703a2f2f7777772e6a7065672d6f7074696d697a65722e636f6d2f75706c6f616465645f696d616765735f66696e616c2f63657a612d6176756b6174695f5f313434373136313933345f37382e3137322e3135382e3136312e6a7067 "Ceza Avukatı")
+###![Ceza Avukatı](https://camo.githubusercontent.com/d54eed6bab26f4a1be7b8122bd2b18d63efefc2d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d356f3638792e6a7067 "Ceza Avukatı")
 
 *Nitelikli dolandırıcılık suçu,* sanığın ağır ceza mahkemesinde yargılanmasını gerektirdiğinden savunmanın bir [**Ceza Avukatı**]( http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
 
@@ -178,5 +178,4 @@ Dolandırıcılık suçu nedeniyle etkin pişmanlık hükümleri gereği ceza in
 **Dolandırıcılık suçu,** birçok farklı icrai hareketle işlenebildiğinden hukuk uygulayıcılarının her yeni vakıada suçun işlenip işlenmediği noktasındaki analizi hile, aldatma gibi kavramlar ışığında yapması gerekir. 
 
 **Florya-Bakırköy-İstanbul Avukat Baran Doğan**
-
 
