@@ -15,7 +15,7 @@ keywords: Hukuk Bürosu, Hukuk Büroları, İstanbul hukuk bürosu, Ağır Ceza 
 
 ##Hukuk Bürosu ve Barolar
 
-Hukuk bürosu, avukatların çalışma alanı olarak hem özel nitelikli hem de kamu hizmeti vermesi nedeniyle kamusal nitelikli bir alandır. Barolar ise avukatların kayıtlı olduğu bir meslek kuruluşudur. Avukatlar baroya kaydolmadan avukatlık mesleğini icra edemeyecekleri gibi hukuk bürosu da açamazlar.  Türkiye’nin her ilinde bir adet baro bulunur. Barolar, avukatların mesleki faaliyetine müdahale niteliğinde bir yetkiye sahip değildir. Barolar, avukatlık mesleğinin yapılmasını kolaylaştırmak, avukatlar arasında dayanışmayı sağlamak ve insan haklarını savunmak için kurulmuş kamu kurumu niteliğinde meslek kuruluşlarıdır. Türkiye’de 1136 sayılı Avukatlık Kanunu’na göre avukatlar bağımsızdır. Avukatların mesleki faaliyetlerinin kapsamı, mesleğin nasıl icra edileceği, avukat-müvekkil ilişkileri  Avukatlık Kanunu ile düzenlenmiştir.
+Hukuk bürosu, avukatların çalışma alanı olarak hem özel nitelikli hem de kamu hizmeti vermesi nedeniyle kamusal nitelikli bir alandır. Barolar ise avukatların kayıtlı olduğu bir meslek kuruluşudur. Avukatlar baroya kaydolmadan avukatlık mesleğini icra edemeyecekleri gibi hukuk bürosu da açamazlar.  Türkiye’nin her ilinde bir adet baro bulunur. Barolar, avukatların mesleki faaliyetine müdahale niteliğinde bir yetkiye sahip değildir. Barolar, avukatlık mesleğinin yapılmasını kolaylaştırmak, avukatlar arasında dayanışmayı sağlamak ve insan haklarını savunmak için kurulmuş kamu kurumu niteliğinde meslek kuruluşlarıdır. Türkiye’de [1136 sayılı Avukatlık Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.1136&sourceXmlSearch=&MevzuatIliski=0)’na göre avukatlar bağımsızdır. Avukatların mesleki faaliyetlerinin kapsamı, mesleğin nasıl icra edileceği, avukat-müvekkil ilişkileri  Avukatlık Kanunu ile düzenlenmiştir.
 
 
 
@@ -31,7 +31,7 @@ Türkiye’de bir hukuk bürosu açabilmek için avukatlık ruhsatı almak şart
 
 Türkiye’nin en büyük barosu İstanbul Barosu’dur. İstanbul avukat sayısı bakımından dünyanın da en büyük barolarından biridir. İstanbul avukat sayısı yaklaşık olarak 50.000 civarındadır. Doğal olarak İstanbul hukuk bürosu sayısı ve  avukat yetkinliği konusunda da Türkiye’de bir merkez konumundadır. 
 
-İstanbul avukatları, genellikle adliyeye yakın hukuk bürolarında faaliyet yürütürler. İstanbul’da iki büyük üç büyük adliye bulunmaktadır. Bu adliyeler, İstanbul Anadolu Adliyesi, İstanbul Çağlayan Adliyesi ve Bakırköy Adliyesi’dir. İstanbul hukuk büroları da genellikle bu adliyeler civarında konumlanmıştır. İstanbul hukuk büroları adliyeye yakın konumlanmasına rağmen önemli bir kısmı da kentin çeşitli merkezi yerlerinde faaliyet göstermektedir. 
+İstanbul avukatları, genellikle adliyeye yakın hukuk bürolarında faaliyet yürütürler. İstanbul’da üç büyük adliye bulunmaktadır. Bu adliyeler, [İstanbul Anadolu Adliyesi,](http://www.istanbulanadolu.adalet.gov.tr/) [İstanbul Çağlayan Adliyesi](http://www.istanbul.adalet.gov.tr/) ve [Bakırköy Adliyesi](http://www.bakirkoy.adalet.gov.tr/)’dir. İstanbul hukuk büroları da genellikle bu adliyeler civarında konumlanmıştır. İstanbul hukuk büroları adliyeye yakın konumlanmasına rağmen önemli bir kısmı da kentin çeşitli merkezi yerlerinde faaliyet göstermektedir. 
 
 
 ###Hukuk Büroları, Avukatlık ve Uzmanlık
@@ -44,8 +44,9 @@ Türkiye’de yasal olarak çalışma alanı seçme mecburiyeti olmamakla birlik
 
 ###Bir Hukuk Bürosu Nasıl Çalışır?
 
-Türkiye hukuk büroları, ister Türkiye Cumhuriyeti vatandaşı isterse yabancı bir ülkenin vatandaşı olsun, avukatlık meslek etik ilkelerine göre; yani, Avukatlık Havana Kuralları, Avrupa Birliği Meslek Etik Kuralları ve Türkiye Barolar Birliği Meslek Etik Kurallarına göre çalışmak zorundadır.
- Hukuk bürosu faaliyetlerini yürütürken belli başlı temel avukatlık meslek ilkelerini titizlikle uygulamalıdır. Hukuk bürolarının dikkatli bir şekilde uygulaması gereken Avukatlık Meslek Etik İlkeleri’nden önemli bazı ilkeler şunlardır:
+Türkiye hukuk büroları, ister Türkiye Cumhuriyeti vatandaşı isterse yabancı bir ülkenin vatandaşı olsun, avukatlık meslek etik ilkelerine göre; yani, [Avukatlık Havana Kuralları,](http://www.hukuki.net/showthread.php?105038-Havana-Kurallari-AVUKATLARIN-ROLuNE-DAiR-TEMEL-PRENSiPLER) [Avrupa Birliği Meslek Etik Kuralları](http://www.istanbulbarosu.org.tr/Document.asp?Konu=711&DocumentIndex=avhukuk/ab_meslekkurallari.htm) ve Türkiye Barolar Birliği Meslek Etik Kurallarına göre çalışmak zorundadır.
+
+Hukuk bürosu faaliyetlerini yürütürken belli başlı temel avukatlık meslek ilkelerini titizlikle uygulamalıdır. Hukuk bürolarının dikkatli bir şekilde uygulaması gereken Avukatlık Meslek Etik İlkeleri’nden önemli bazı ilkeler şunlardır:
 
 ####1. Hukuk Bürosu ve Şeffaflık
 
@@ -70,19 +71,22 @@ Hukuk bürosu, menfaatleri tamamen birbirine zıt kişilerin davasına bakamaz. 
 Türkiye’deki tüm hukuk büroları veya avukatlar hukukun her alanında faaliyette bulunma yetkisine sahiptir. Faaliyet alanı sınırlaması olmamasına rağmen, temel hukuk alanlarında her hukuk bürosu hukuki yardım vermektedir. Ortak faaliyet alanı diyebileceğimiz avukatlık faaliyetleri şunlardır:
 
 ####1- Ceza Hukuku ve Hukuk Bürosu
+
 Ceza soruşturmaları veya yargılamaları hukuk bürolarının ve avukatların en temel faaliyet alanlarından biridir. Türkiye’de ceza davalarında hukuki yardım sunan avukatlara halk arasında ceza avukatı veya ağır ceza avukatı denilmektedir. Avukatlık Kanunu’nda  ağır ceza avukatı gibi terimler yer almaz. Ağır ceza avukatı terimi uygulamada oluşmuş ve halk arasında kullanılmaktadır.
-Ceza avukatları, suç işlendikten sonra başlayan bir faaliyet olan soruşturma aşaması ile soruşturma neticesinde dava açılması ile başlayan kovuşturma aşamasında müvekkillerini temsil ederler. İstatistiksel olarak Türkiye’nin en çok suç işlenen kenti İstanbul’dur. Bu nedenle, ağır ceza avukatı sayısının en yüksek olduğu ilin İstanbul olduğunu söylemek mümkündür. İstanbul ağır ceza avukatları genellikle adliyeye yakın merkezlerde faaliyet gösterirler. Bakırköy ağır ceza avukatları için çok eski tarihlerden beri hukuk bürosu kurmak için ideal bir bölge olarak kabul edilmektedir.
+
+[Ceza avukatları,](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) suç işlendikten sonra başlayan bir faaliyet olan soruşturma aşaması ile soruşturma neticesinde dava açılması ile başlayan kovuşturma aşamasında müvekkillerini temsil ederler. İstatistiksel olarak Türkiye’nin en çok suç işlenen kenti İstanbul’dur. Bu nedenle, ağır ceza avukatı sayısının en yüksek olduğu ilin İstanbul olduğunu söylemek mümkündür. İstanbul ağır ceza avukatları genellikle adliyeye yakın merkezlerde faaliyet gösterirler. Bakırköy ağır ceza avukatları için çok eski tarihlerden beri hukuk bürosu kurmak için ideal bir bölge olarak kabul edilmektedir.
 
 ####2- Gayrimenkul Hukuku ve Hukuk Bürosu
 
-Gayrimenkul davalarına bakan avukatlara halk arasında gayrimenkul avukatı denilmektedir. Gayrimenkullerle ilgili her türlü uyuşmazlık; tapu iptali ve tescili davası, men-i müdahale (müdahalenin önlenmesi) davası, izale-i şüyu (ortaklığın giderilmesi) davası, şufa davası gibi birçok dava gayrimenkul hukuku alanında faaliyet göstermek isteyen hukuk bürosu veya avukatın temel çalışma alanıdır.
+Gayrimenkul davalarına bakan avukatlara halk arasında [gayrimenkul avukatı](https://barandogan.av.tr/blog/gayrimenkul-hukuku/gayrimenkul-avukati-istanbul.html) denilmektedir. Gayrimenkullerle ilgili her türlü uyuşmazlık; tapu iptali ve tescili davası, men-i müdahale (müdahalenin önlenmesi) davası, izale-i şüyu (ortaklığın giderilmesi) davası, şufa davası gibi birçok dava gayrimenkul hukuku alanında faaliyet göstermek isteyen hukuk bürosu veya avukatın temel çalışma alanıdır.
 Gayrimenkul hukuku sorunları Türkiye’nin her yerinde sıklıkla yaşanmaktadır. Özellikle İstanbul’da bir hukuk bürosu gayrimenkul davalarıyla sıklıkla muhatap olmaktadır. Çarpık kentleşme, yanlış arazi düzenlemeleri, yanlış tutulan kayıtlar gibi pek çok nedenle gayrimenkul hukuku sorunları çıkmaktadır.
 
 ####3- Aile Hukuku ve Hukuk Bürosu
 
 Aile hukuku, Türkiye’de özellikle gelişim gösteren bir hukuk alanıdır. Ailenin Korunması Ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun, bu alandaki en büyük yeniliktir. Aile hukuku, her hukuk bürosunun faaliyette bulunduğu bir alandır. Çünkü ailenin korunmasına, çocuğun ve kadınların korunmasına dair tedbirler aciliyet arzettiğinden tüm hukuk büroları bu alanda hukuki yardım sunarlar. 
 Hukuk bürosu, Aile Mahkemesi’ne başvurarak, aile içi şiddete maruz kalan kişinin aileden uzaklaştırılması ve mağdurların korunması gibi her türlü tedbirin alınmasını sağlar. 
-Boşanma davası, nafaka, maddi-manevi tazminat, boşanmada mal paylaşımı gibi aile hukukunun temel konuları hukuk bürolarının çalışma alanlarıdır. Hukuk bürosunda çalışan avukatlar, bu alanda avukatlık mesleğini icra ederken halk arasında boşanma avukatı olarak adlandırılmaktadır.
+
+Boşanma davası, nafaka, maddi-manevi tazminat, boşanmada mal paylaşımı gibi aile hukukunun temel konuları hukuk bürolarının çalışma alanlarıdır. Hukuk bürosunda çalışan avukatlar, bu alanda avukatlık mesleğini icra ederken halk arasında [boşanma avukatı](https://barandogan.av.tr/blog/medeni-hukuk/bosanma-avukati.html) olarak adlandırılmaktadır.
 
 ####4- Tazminat Hukuku ve Hukuk Büroları
 
