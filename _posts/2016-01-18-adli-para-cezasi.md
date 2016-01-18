@@ -165,4 +165,4 @@ Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilm
 
 
 
- **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan*** - 2016
+ **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan*** 
