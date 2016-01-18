@@ -54,7 +54,7 @@ Hapis cezasının para cezasına çevrilmesi kararı, mahkeme tarafından bazı 
 **Kasten işlenip adli para cezasına çevrilebilecek bazı suçlar aşağıdadır:**
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
-* **Hayata Karşı Suçlar:** Kasten Adam Yaralama Suçu (örneğin, 2 ay veya 4 ay hapis cezası).
+* **Hayata Karşı Suçlar:** [Kasten Adam Yaralama Suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html)
 * **Hürriyete Karşı Suçlar:**[Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) Cebir Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu, Kişilerin Huzur ve Sükununu Bozma Suçu, Kişiyi Hürriyetinden Yoksun Kılma Suçu.
 * **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html). 
 * **Çevreye ve Trafik Güvenliğine Karşı Suçlar:** Çevrenin Kasten veya Taksirle Kirletilmesi Suçu, İmar Kirliliği Suçu, Trafik Güvenliğini Tehlikeye Sokma Suçu.
@@ -165,4 +165,4 @@ Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilm
 
 
 
- **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan***
+ **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan*** - 2016
