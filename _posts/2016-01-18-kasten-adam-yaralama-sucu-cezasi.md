@@ -124,6 +124,6 @@ Kasten adam yaralama suçu meşru müdafaa halinde işlenirse faile ceza verilem
 Kasten yaralama suçunun cezası 2 yıl veya altında olursa faile verilen ceza hakkında hükmün açıklanmasının geri bırakılması mümkündür.
 Aynı şekilde, mahkeme tarafından kasten adam yaralama suçunun cezası 2 yıl veya altında belirlenirse [Hapis Cezasının Ertelenmesi](https://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html) de mümkündür.
 
-Kasten adam yaralama suçu, kişilerin yaşam hakkına yapılan en ağır saldırılardan biridir. Kasten adam yaralama suçu ile kasten adam öldürmeye teşebbüs suçu arasında bir geçişkenlik mevcut olduğundan, ciddi bir hukuki değerlendirme için savunma ve iddianın bir [Ceza Avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
+**Kasten adam yaralama suçu,** kişilerin yaşam hakkına yapılan en ağır saldırılardan biridir. Kasten adam yaralama suçu ile **kasten adam öldürmeye teşebbüs suçu** arasında bir geçişkenlik mevcut olduğundan, ciddi bir hukuki değerlendirme için savunma ve iddianın bir [Ceza Avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
  
 **Şirinevler – Bahçelievler – İstanbul Avukat Baran Doğan**
