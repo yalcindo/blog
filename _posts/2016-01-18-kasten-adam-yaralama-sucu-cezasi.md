@@ -29,7 +29,7 @@ Suçun nitelikli halleri ve “basit tıbbi müdahale (BTM) ile giderilemeyecek�
 
 Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yaralamalar ve basit tıbbi müdahale ile giderilemeyecek yaralamalar olarak ikiye ayrılır. 
 
-* Basit tıbbi müdahale ile giderilebilecek yaralamalar, kişinin vücuduna, sağlığına veya algılama yeteneğine zarar vermekle birlikte basit bir geleneksel veya tıbbi uygulama ile etkisi giderilebilecek yaralamalardır. Örneğin, bir kimseye tokat atmak, bir kimseye yumruk atarak küçük bir kanama meydana gelmesine neden olmak,  vücudun herhangi bir yerini basitçe çizmek, vurmak suretiyle morartmak gibi fiiller basit tıbbi müdahale (BTM) ile giderilebilecek yaralamalardır. Bir yaralamanın BTM ile giderilebilecek bir yaralama olup olmadığı, adliyelerde bulunan Adli Tıp Şube Müdürlükleri tarafından bir rapor ile  tespit edilir. BTM ile giderilebilecek adam yaralama suçlarında sanığa 4 aydan 1 yıla kadar hapis cezası veya adli para cezası verilir (TCK md. 86/2). Yani, sanığa ya hapis cezası veya adli para cezası verilebilir. İki ceza aynı anda verilemez. Hapis cezası verildiği takdirde, verilen hapis cezası adli para cezasına çevrilemez.
+* Basit tıbbi müdahale ile giderilebilecek yaralamalar, kişinin vücuduna, sağlığına veya algılama yeteneğine zarar vermekle birlikte basit bir geleneksel veya tıbbi uygulama ile etkisi giderilebilecek yaralamalardır. Örneğin, bir kimseye tokat atmak, bir kimseye yumruk atarak küçük bir kanama meydana gelmesine neden olmak,  vücudun herhangi bir yerini basitçe çizmek, vurmak suretiyle morartmak gibi fiiller basit tıbbi müdahale (BTM) ile giderilebilecek yaralamalardır. Bir yaralamanın BTM ile giderilebilecek bir yaralama olup olmadığı, adliyelerde bulunan Adli Tıp Şube Müdürlükleri tarafından bir rapor ile  tespit edilir. BTM ile giderilebilecek adam yaralama suçlarında sanığa 4 aydan 1 yıla kadar hapis cezası veya adli para cezası verilir [(TCK md. 86/2).](http://www.turkhukuksitesi.com/mevzuat.php?mid=3917) Yani, sanığa ya hapis cezası veya adli para cezası verilebilir. İki ceza aynı anda verilemez. Hapis cezası verildiği takdirde, verilen hapis cezası adli para cezasına çevrilemez.
 
 * Basit tıbbi müdahale (BTM) ile giderilemeyecek basit adam yaralama suçu, mağdura karşı işlenen etkili eylemin sonuçlarının basit bir doktor müdahalesi ile giderilememesi, yani mağdurun tamamen iyileşememesi, yaralamanın sonuçlarının ortadan kalkması için belli bir sürecin gerekmesidir. BTM ile giderilemeyecek basit yaralama suçunun cezası 1 yıldan 3 yıla kadar hapis cezasıdır (TCK md. 86/1).
 
@@ -37,7 +37,7 @@ Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yara
 
 **Kasten Adam Yaralama Suçunun Silahla İşlenmesi:** Suçun silahla işlenmesi halinde, “silahla adam yaralama suçu” meydana gelir. Bıçakla adam yaralama, silahla adam yaralama gibi deyimler bu tür adam yaralama suçu türü için kullanılır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türden ise silahla basit adam yaralama suçunun cezası, 6 aydan 1,5 yıla kadar hapis cezası veya ½ oranında arttırılmış adli para cezasıdır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilemeyecek türden ise silahla basit adam yaralama suçunun cezası 1,5 yıldan 4,5 yıla kadar hapis cezasıdır (TCK md. 86/3-e).
 
-Hemen belirtelim ki; silahla adam yaralama suçunda, adam yaralamaya elverişli herhangi bir alet silah olarak kabul edilir. Örneğin, yazı yazmak için kullanılan kalem ile bir kişiye saldırılırsa bu kalem silah olarak kabul edilir. Çatal, kaşık gibi mutfak aletleri, masada bulunan küllük, vazo vs. gibi tüm eşyalar adam yaralama amacıyla kullanıldıkları takdirde silah olarak kabul edilir (TCK md. 6/1-f).
+Hemen belirtelim ki; silahla adam yaralama suçunda, adam yaralamaya elverişli herhangi bir alet silah olarak kabul edilir. Örneğin, yazı yazmak için kullanılan kalem ile bir kişiye saldırılırsa bu kalem silah olarak kabul edilir. Çatal, kaşık gibi mutfak aletleri, masada bulunan küllük, vazo vs. gibi tüm eşyalar adam yaralama amacıyla kullanıldıkları takdirde silah olarak kabul edilir [(TCK md. 6/1-f).](http://www.turkhukuksitesi.com/mevzuat.php?mid=3281)
 
 Aşağıdaki hallerde de, yani;
 
@@ -52,7 +52,7 @@ adam yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türde
 ###![Ağır Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/eecc64be38853106aa74c796126e5d2e636effdd/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a56366d61392e6a7067 "Ağır Ceza Avukatı Hukuk Bürosu")
 
 
-###3- Neticesi Sebebiyle Ağırlaşmış Adam Yaralama Suçu ve Cezası (TCK md. 87)
+###3- Neticesi Sebebiyle Ağırlaşmış Adam Yaralama Suçu ve Cezası [(TCK md. 87)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Neticesi sebebiyle ağırlaşmış yaralama, mağdura karşı işlenen fiilin mağdurun vücudunda kalıcı etkiler bırakması halinde söz konusu olur. Neticesi sebebiyle ağırlaşmış adam yaralama suçu, mağdurun vücudunda bıraktığı kalıcı etkilere göre iki grup halinde değerlendirilmektedir.
 
@@ -79,11 +79,11 @@ Yukarıda 1. ve 2. başlıkta anlattığımız şekillerde belirlenen ceza, iki 
 
 
 
-###4- Kasten Adam Yaralama Suçu ve Kemik Kırılması
+###4- Kasten Adam Yaralama Suçu ve Kemik Kırılması [(TCK md. 87/3)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Kasten yaralama suçunda kemik kırığı veya çıkığı meydana gelmişse 1. ve 2. başlıkta açıkladığımız şekilde belirlenen ceza, kırık veya çıkığın hayat fonksiyonlarındaki etkisine göre 1/2  oranına kadar  arttırılır. Yani, ceza arttırım oranı, kemik kırık veya çıkığının niteliğine göre 1/4, 1/3 veya 1/2  olabilir.
 
-###5- Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi (TCK md. 87/3)
+###5- Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi [(TCK md. 87/4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Kasten adam yaralama suçu neticesinde ölüm meydana gelmişse; işlenen suç, hukuki niteliği itibariyle kasten adam öldürme suçu değil, neticesi sebebiyle ağırlaşmış yaralama suçu olarak kabul edilir.  
 
