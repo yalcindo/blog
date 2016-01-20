@@ -14,6 +14,7 @@ keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksir
 
 **Taksirle adam öldürme**, dikkat ve özen yükümlülüğüne aykırı bir kusurlu davranış ile “öngörmeyerek” bir kimsenin hayatına son verilmesidir.  **Bilinçli taksirle adam öldürme** ise yapılan  kusurlu davranış ile bir kimsenin ölebileceğinin fail tarafından “öngörülmesine” rağmen davranışın yapılmasıdır.  İster normal taksirle adam öldürme suçu olsun isterse bilinçli taksirle adam öldürme suçu olsun; her iki halde de failin ortaya çıkan “adam öldürme” sonucunu istememesi halinde taksirli sorumluluk meydana gelir. Fail, “adam öldürme”  neticesini bilerek ve isteyerek fiili gerçekleştiriyorsa taksirle adam öldürme suçu değil, kasten adam öldürme suçu söz konusu olur.
 
+
 ##Taksirle Adam Öldürme Suçu Şikayet Süresi
 
 
@@ -29,6 +30,20 @@ Taksirle işlenen fiil neticesinde ölüm ve yaralanmalar meydana gelmesine rağ
 
 
 ###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/7b0dad6ae5180d719e0326681c93bee8a9e12928/687474703a2f2f692e68697a6c69726573696d2e636f6d2f38446e7042722e6a7067 "Ağır Ceza Avukatı")
+
+
+
+###Taksirli Suç Kavramı ve Taksirin Unsurları
+
+Taksirli suç, failin tedbirli ve öngörülü davranmaması, dikkat ve özen yükümlülüğüne aykırı hareket etmesi halinde söz konusu olur. 
+Yargıtay Ceza Genel Kurulunun 2007/221 karar ve 2008/185 sayılı kararlarında ve yerleşik uygulamada taksirli suçun unsurları şunlardır:
+
+* Fiilin taksirle işlenebilen bir suç olması: Kasten işlenebilen suçlar ve kanunda açıkça taksirin cezalandırılmadığı suçlar, taksirli suç kategorisine girmez.
+* Hareketin iradiliği: Fail, yaptığı hareketi kendi özgür iradesiyle yapmalıdır.
+* Neticenin iradi olmaması: Fail, suçun oluşumuna neden olan hareketi kendi iradesiyle yapmasına rağmen, hareket neticesinde oluşan sonucun meydana gelmesini istememelidir. Neticenin istenmemesi, taksirli suçları kasıtlı suçlardan ayıran en özenmli özelliktir.
+* Hareketle netice arasında nedensellik bağının bulunması: Failin yaptığı hareketle sonuç arasında mutlaka sebep-sonuç ilişikisi olmalıdır.
+* Neticenin öngörülebilir olması: Fail neticeyi öngörmesine rağmen fiili işlemelidir. Fail neticeyi öngörmesine rağmen, fiili işlemeli, ancak meydana gelen neticenin oluşmasını istememelidir.
+
 
 
 ###Taksirle Adam Öldürme Suçu ve Sorumluluk Rejimi
