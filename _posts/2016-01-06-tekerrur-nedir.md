@@ -93,7 +93,7 @@ Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir ya
 
 *	**Mükerrirlere Özgü İnfaz Rejimi Uygulanır:** Suçta tekerrür hükümleri uygulanan hükümlüye [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. Maddesinde düzenlenen “mükerrirlere özgü infaz rejimi” uygulanır. Mükerrirlere özgü infaz rejimi, hükümlünün cezaevinde daha fazla kalmasına yol açar. Mükerrirlere özgü infaz rejimi uygulandığında hükümlünün ne kadar süreyle cezaevinde kalacağı aşağıda ayrı bir başlık altında incelenmiştir.
 
-*	**Seçimli Cezalardan Hapis Cezasına Karar Verilir:** Tekerrür halinde işlenen ikinci suçun (tekerrür hükümleri uygulanacak suç) cezası seçimlik olarak hapis cezası veya adli para cezası olarak öngörülmüşse, hapis cezasına hükmedilir. Hükmedilen hapis cezası adli para cezasına çevrilemez (TCK md. 58/3).
+*	**Seçimlik Cezalardan Hapis Cezasına Karar Verilir:** Tekerrür halinde işlenen ikinci suçun (tekerrür hükümleri uygulanacak suç) cezası seçimlik olarak hapis cezası veya adli para cezası olarak öngörülmüşse, hapis cezasına hükmedilir. Hükmedilen hapis cezası adli para cezasına çevrilemez (TCK md. 58/3).
 
 
 *	**Denetimli Serbestlik Tedbiri Uygulanır:** Tekerrür halinde cezanın infazından sonra gelmek üzere hükümlü hakkında denetimli serbestlik tedbiri uygulanmasına karar verilmelidir (TCK md. 58/6). Mahkeme sadece denetimli serbestlik tedbiri uygulanmasına karar vermelidir. İnfazdan sonra ne kadar süreyle denetimli serbestlik tedbirinin uygulanacağına, infaz aşamasında koşullu salıverme kararı veren mahkeme tarafından kararlaştırılması gerekir. 
