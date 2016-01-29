@@ -30,7 +30,9 @@ Bu açıklamalar ışığında incelenen dosya kapsamına göre, cami imamı ola
 TCK’nın 134/2. maddesinde, kişilerin özel hayatına ilişkin görüntü veya seslerin ifşa               edilmesi eylemi suç olarak düzenlenmiş olup, mağdurun kişisel ve ailevi hayatına ilişkin özel                                               bilgilerinin başkalarına açıklanması eyleminin TCK’nın 134/1. maddesindeki özel hayatın                                         gizliliğini ihlal suçu kapsamında değerlendirilebileceği ve yerel mahkemenin uygulamasının da bu yönde olduğu anlaşıldığından, tebliğnamedeki, sanığın eyleminin TCK’nın 134/2. maddesindeki                     özel hayatın gizliliğini ihlal suçunu oluşturacağına ilişkin suç vasfına yönelik eleştiriye iştirak                                           edilmemiştir. 
 
 
-Özel hayatın gizliliğini ihlal suçu nedeniyle sanığın TCK 134/1 maddesi gereği mahkumiyetine ilişkin ssul ve yasaya uygun yerel mahkeme hükmün ONANMASINA karar verilmiştir."                                                                                                                                                                                 
+Özel hayatın gizliliğini ihlal suçu nedeniyle sanığın TCK 134/1 maddesi gereği mahkumiyetine ilişkin ssul ve yasaya uygun yerel mahkeme hükmün ONANMASINA karar verilmiştir."               
+
+
 ###![İstanbul Ceza Avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "İstanbul Ceza Avukatı")
 
 
