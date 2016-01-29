@@ -7,7 +7,14 @@ keywords:  Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel 
 summary: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel Hayatın Gizliliği ve Basın-Yayın, Özel Hayatın Gizliliği ve Gazetecilik, Habercilik ve Haber Yapma Hakkının Sınırları, Özel Hayatın Gizliliğini İfşa Suçu ve Haber
 ---
 
+
+
+
 ###![Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları](https://camo.githubusercontent.com/851281becfafcc4fca5877d8989edf4990a63766/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32386c6a42452e706e67 "Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları")
+
+
+YARGITAY 12. CEZA DAİRESİ - 2015/4183 esas - 2015/18747 karar
+______________________________________________________________________________________________________________________________________
 
 
 "Özel hayatın gizliliğini ihlal suçundan sanığın mahkumiyetine ilişkin hüküm, sanık            	                         müdafii tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
