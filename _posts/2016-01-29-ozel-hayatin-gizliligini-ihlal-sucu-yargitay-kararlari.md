@@ -12,6 +12,8 @@ summary: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel Ha
 
 ###![Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları](https://camo.githubusercontent.com/851281becfafcc4fca5877d8989edf4990a63766/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32386c6a42452e706e67 "Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları")
 
+[Özel hayatın gizliliğini ihlal suçu,](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html) kişinin özel hayatına dair başkaları tarafından bilinmesini istemediği özel alanına izinsiz girilmesini cezalandırmaktadır.
+
 ______________________________________________________________________________________________________________________________________
 
 **YARGITAY 12. CEZA DAİRESİ - 2015/4183 esas - 2015/18747 karar**
