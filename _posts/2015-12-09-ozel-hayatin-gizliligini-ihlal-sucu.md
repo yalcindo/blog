@@ -86,6 +86,8 @@ Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şik
 
 * Müşteki şezlongda uzanırken mayolu fotoğrafı sanık tarafından çekilerek derginin ön kapağına haber olarak konulmuştur. Olayda kamu yararı olduğuna dair bir bilgi yoktur. Yerel mahkemenin, "plajın kamuya açık alan olup, gizli alan olmadığı" şeklindeki, özel hayatı salt mekana indirgeyen yaklaşımı doğru değildir. Sanık **özel hayatın gizliliğini ihlal suçu**ndan cezalandırılmalıdır (Yargıtay 12. Ceza Dairesi – Esas No: 2011/7345, Karar No: 2012/8936, Tarih No: 03.04.2012).
 
+* Gazetecilik/habercilik kişilerin özel hayatına sınırsız bir şekilde müdahale etme hakkı vermez. Gazeteci haber yaparken haber içeriğinin görünür gerçekle uyumlu, güncel ve kişilik haklarına müdahale içermemesine özen göstermelidir. Haberin konusu ünlü bir kişi olsa bile özel hayatın gizliliğine ölçüsüz bir şekilde müdahale edilmemelidir. Karar, gazetecilik ve haber yapma hakkı açısından emsal niteliğinde ve oldukça ayrıntılıdır. Kararın ayrıntıları için [**bakınız**](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu-yargitay-kararlari.html) (YARGITAY 12. CEZA DAİRESİ - 2015/4183 esas - 2015/18747 karar).
+
 
 **Özel hayatın gizliliğini ihlal suçu,** bir hukuki değer olan kişilerin özel hayatını ve onurunu koruduğundan soruşturma aşamasının titiz bir şekilde yapılması suç faillerinin yakalanması açısından önemlidir. **Özel hayatın gizliliğini ihlal suçu,** günümüzde bazı teknik araçlar kullanılarak işlendiğinden iddia ve savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması maddi gerçeğin ortaya çıkmasına yardımcı olacaktır.
 
