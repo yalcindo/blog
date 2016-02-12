@@ -9,7 +9,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 
 
 
-##1. Denetimli Serbestlik Nedir?
+## 1. Denetimli Serbestlik Nedir?
 
 
 **Denetimli serbestlik,** yasa tarafından belirlenen deneme süresinde, kişinin cezasının sosyal hayat içerisinde infazına olanak sağlayan bir ceza hukuku kurumudur. Suç işleyen kişi sosyal yaşam içerisinde **denetimli serbestlik** yoluyla gözlemlenmektedir. **Denetimli serbestlik yasası,** kişinin ailesiyla bağlarını sürdürebilmesi ve dış dünyayayla uyum sağlayabilmesi gerekçesiyle çıkartılmış bir yasadır. Hükümlü cezasını cezaevinde infaz ederken koşullu salıverilmesine belli bir süre kalınca tahliye edilerek dışarda sosyal hayat içerisinde denetim altında tutulmaktadır. **Denetimli serbestlik** uygulaması birçok farklı nedenden kaynaklanabilir. Bu yazımızda 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesi gereği getirilen **denetimli serbestlik** uygulamasından bahsedeceğiz.
