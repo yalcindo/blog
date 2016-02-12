@@ -131,9 +131,9 @@ Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları 
 Mevcut denetimli serbestlik kanunu, tüm suç tipleri ve hükümlüler hakkında uygulanmaktadır. Ancak, denetimli serbestlik tedbiri 31.12.2020 tarihinden sonra bazı hükümlüler açısından uygulanamayacaktır. Koşulları aşağıda belirtilen mahkumların 31.12.2020 tarihinden itibaren denetimli serbestlik yasası hükümlerinden yararlanması mümkün değildir:
 
 * Ağırlaştırılmış hapis cezası alan hükümlüler,
-* İkinci defa tekerrür hükümleri uygulanan mahkumlar,
 * Örgütlü suçlardan mahkum olanlar,
 * Siyasi suçlardan dolayı mahkum olanlar.
+
 
 Bazı hükümlüler de denetimli serbestlik yasası uygulamasından geçici olarak yararlanamazlar:
 
@@ -157,7 +157,7 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 
 [Suçta tekerrür,](https://barandogan.av.tr/blog/ceza-hukuku/tekerrur-nedir.html) ilk işlediği suç kesinleşen hükümlünün belli bir süre sonra ikinci bir suç işlemesidir. Hükümlünün işlediği ikinci suça "tekerrür" hükümleri uygulanarak koşullu salıverilme tarihi hesaplanır. İşlediği ikinci suç da kesinleşen hükümlünün üçüncü bir suç işlemesi halinde "ikinci kez tekerrür" söz konusu olur.
 
-Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün 31.12.2020 tarihinden sonra denetimli serbestlik tedbirinden yararlanması mümkün değildir.
+Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden ve koşullu salıverilme hükümlerinden yararlanması mümkün değildir.
 
 
 ###Denetimli Serbestlik Yasası Yargıtay Kararları      
