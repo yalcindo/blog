@@ -47,7 +47,7 @@ Bazı idari kurumların verdiği cezalara karşı özel kanunlarındaki hüküml
 ###Yoklama Kaçağı, Bakaya Kalma Nedeniyle Verilen İdari Para Cezasına İtiraz Süresi Nedir? Nereye İtiraz Edilir?
 
 
-1111 sayılı Askerlik Kanunu’nun 86. Maddesi gereği, yoklama kaçağı cezası ve bakaya cezası hukuki niteliği itibariyle idari para cezası** olup il veya ilçe idare kurulları tarafından verilmektedir. İlçe İdare Kurulları kaymakamlık bünyesinde, İl İdare Kurulları ise valilik bünyesinde görev yapan kurullardır. Bu kurulların verdiği yoklama kaçağı veya bakaya kalma nedeniyle verilen idari para cezası kararlarına karşı, kararın muhatabına ulaşmasından itibaren 15 gün içinde kararı veren idarenin bulunduğu yerin yetkili Sulh Ceza Hakimliğine itiraz edilebilir.
+1111 sayılı Askerlik Kanunu’nun 86. Maddesi gereği, yoklama kaçağı cezası ve bakaya cezası hukuki niteliği itibariyle idari para cezası olup il veya ilçe idare kurulları tarafından verilmektedir. İlçe İdare Kurulları kaymakamlık bünyesinde, İl İdare Kurulları ise valilik bünyesinde görev yapan kurullardır. Bu kurulların verdiği yoklama kaçağı veya bakaya kalma nedeniyle verilen idari para cezası kararlarına karşı, kararın muhatabına ulaşmasından itibaren 15 gün içinde kararı veren idarenin bulunduğu yerin yetkili Sulh Ceza Hakimliğine itiraz edilebilir.
 
 Askeri Ceza Kanunu’ndaki özel düzenleme nedeniyle hakkında ceza verilen kişi askerdeyse, idari para cezasının tahsili askerliğin bitiminden sonraya bırakılmaktadır.
 
@@ -91,6 +91,10 @@ Sigara içme yasağı ihlal edildiğinde her yıl değişen oranlarda idari para
 **Sigara içme para cezasına itiraz,** para cezasının verildiği yerin bağlı olduğu Sulh Ceza Hakimliği'ne yapılır. İtiraz süresi, sigara içme para cezasının verildiği günden başlamak üzere 15 gündür. Örneğin, Bakırköy'de 01.01.2016 tarihinde verilen sigara içme para cezasına karşı en geç 16.01.2016 tarihine kadar (15 gün içinde) Bakırköy Sulh Ceza Hakimliği'ne itiraz edilmesi gerekir. 
 
 Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri, sigara içme para cezasına esas teşkil eden olgular, itirazı temellendirecek her türlü delil veya bilgi dilekçeye eklenmelidir. İtirazı incelemeye yetkili Sulh Ceza Hakimliği, itirazı haklı bulursa idari para cezasını iptal eder.
+
+###HGS-OGS İdari Para Cezasına İtiraz
+
+HGS veya OGS para cezalarına itiraz, bu nitelikteki idari para cezalarının tebliğinden itibaren 15 gün içinde ilgili Sulh Ceza Hakimliği'ne yapılmalıdır. İtirazı incelemeye yetkili Sulh Ceza Hakimliği'nin hangi mahkeme olduğu uygulamada tartışmalara neden olmaktadır. Bu nedenle sıklıkla yetkisizlik kararları verilmektedir. HGS - OGS kullanıcıları, para cezasını düzenleyen idari birimin bağlı bulunduğu Sulh Ceza Hakimliği'ne değil, somut olarak ihlalin yapıldığı idari birimin bağlı olduğu adliyedeki Sulh Ceza Hakimliği'ne başvurmalıdır.
 
 
 
