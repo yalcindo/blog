@@ -45,7 +45,7 @@ Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan ya
 
 Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
-### #a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
+#### a. Denetimli Serbestlik Yasasından Yararlanmak İsteyen Hükümlünün Son 6 Ayını Açık Cezaevinde Geçirmesi  Şartı
 
 
 
@@ -59,12 +59,12 @@ Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şart
 
 * **Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı:** Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz. Mahkum olduğu cezanın 1/5’ini çocuk cezaevinde geçiren çocuk hükümlü, diğer koşulları yerine getirmek kaydıyla denetimli serbestlik yasasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
 
-### #b. Hükümlünün İyi Halli Olması Şartı
+#### b. Hükümlünün İyi Halli Olması Şartı
 
 
 Hükümlünün denetimli serbestlik yasasından yararlanabilmesi için “iyi halli” olması gerekir. Hükümlünün iyi halli olup olmadığı, cezaevi idaresi tarafından hazırlanan değerlendirme raporu dikkate alınarak karar verilir. Hükümlünün hazırlanan bu rapora karşı ceza infaz hakimliğine itiraz hakkı vardır.
 
-### #c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talepli Dilekçe Vermesi 
+#### c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talepli Dilekçe Vermesi 
 
 
 Denetimli serbestlik tedbiri ancak hükümlünün talebi halinde uygulanabilir. Denetimli serbestlik yasası, kendiliğinden uygulanabilen bir yasa değildir. Hükümlü cezaevindeyken denetimli serbestlik yasasından yararlanmak istediğini beyan ederek talepte bulunursa gerekli işlemler başlar. Hükümlü, denetimli serbestlikten yararlanma talebini bir [Denetimli Serbestlikten Yararlanma Dilekçesi](https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlikten-yararlanma-dilekcesi-ornegi.html) ile İnfaz Hakimliği'ne bildirdiğinde, İnfaz Hakimliği bu taleple ilgili en kısa sürede karar vermek zorundadır.
@@ -78,18 +78,18 @@ Hükümlü denetimli serbestlik yasası gereği serbest bırakıldıktan sonra d
 
 Hükümlü denetimli serbestlik yasası ile getirilen kurallara uyacağını taahhüt ettiği için tahliye edilmektedir. Denetimli serbestliğe uymama halinde kişinin yararlandığı infaz şekli ortadan kalkar. Denetimli serbestlik uygulamasının ihlali halinde hükümle tekrar cezaevine alınır. Denetimli serbestlik, birçok farklı şekilde ihlal edilebilir. Aşağıdaki şartlara uymayan hükümlünün denetimli serbestlik yasasını ihlal ettiği kabul edilmektedir: 
 
-### #a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
+#### a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 
 
 Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. Denetimli serbestlik yasası ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
 
-### #b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
+#### b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
 
 
 Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde denetimli serbestlik yasası ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
 imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
 
-### #c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
+#### c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 
 
 Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa denetimli serbestlik kanunu nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
