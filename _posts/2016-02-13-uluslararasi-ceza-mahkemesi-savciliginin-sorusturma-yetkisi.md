@@ -7,7 +7,7 @@ keywords: Uluslararası Ceza Mahkemesi Savcılığı, avukat, ceza avukatı, ağ
 summary: Uluslararası Ceza Mahkemesi Savcılığı'nın soruşturma başlatma yetkisinin hukuki niteliği, önşartları ve genel sınırları ayrıntılı bir şekilde incelenmiştir. 
 ---
 
-![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/70fae0990a6549990864f7c7422a2324e1d725e1/687474703a2f2f692e68697a6c69726573696d2e636f6d2f45707070585a2e6a7067 "Uluslararası Ceza Mahkemesi")
+### ![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/70fae0990a6549990864f7c7422a2324e1d725e1/687474703a2f2f692e68697a6c69726573696d2e636f6d2f45707070585a2e6a7067 "Uluslararası Ceza Mahkemesi")
 
 **ÖZET**
 
@@ -60,7 +60,7 @@ Savcılığın soruşturmaya başlatma yetkisini kullanabilmesi için faile ili�
 Herhangi bir devlet, Statü’ de tanımlanan suçlardan birinin ülkesinde işlendiği veya söz konusu suç teşkil eden fiili işleyen kişinin kendi vatandaşı olduğundan bahisle mahkemenin yargı yetkisini –ve bu arada savcılığın soruşturma yetkisini- kabul ettiğini mahkeme bildirirse söz konusu devlet Statü’ye taraf olmasa bile **Uluslararası Ceza Mahkemesi Savcılığı** fiile münhasır soruşturma yapabilecektir. Bu ihtimalde Uluslararası Ceza Mahkemesi Savcılığı sadece devletin bildirimde bulunduğu vakıa ile ilgili soruşturma yetkisi kazanır. Taraf olmayan devletin bildirdiği vakıa dışında kalan vakıalarla ilgili Uluslararası Ceza Mahkemesi Savcılığı’nın soruşturma yetkisi yoktur. Somut olaya münhasır yargı yetkisinin kabulüne ilişkin bildirimin nasıl yapılacağı, bildirimde bulunan devletin yükümlülükleri ve uygulanacak usul kuralları, taraf devletler asamblesince 9 Eylül 2002 tarihinde kabul edilen Usul ve Delil Kuralları belgesinin 44.maddesinde düzenlenmiştir.
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/b9c6e9fac98d113916152992c2f8b98e0f441c6d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235353561452e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/b9c6e9fac98d113916152992c2f8b98e0f441c6d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235353561452e6a7067 "Ceza Avukatı")
 
 **III- SORUŞTURMA YETKİSİNİN SINIRLARI**
 
@@ -101,7 +101,7 @@ Burada dikkat edilmesi gereken husus bireylerin Uluslararası Ceza Mahkemesi’n
 Statü’ye taraf olmayan devletler, Statü’nün 12/3 maddesine göre ülkesinde veya vatandaşı tarafından başka bir ülkede işlenen suçlarla ilgili mahkemenin yargı yetkisini bir bildirge ile tanıyabilir. İlgili devletin bildirgeyi mahkeme yazı işlerine vermesinden sonra, kendisine mahkemenin yazı işleri müdürlüğü tarafından Statü’nün 9. bölümü çerçevesinde mahkemeyle her türlü işbirliğini sağlaması gerektiği hatırlatılır. Taraf olmayan devlet işbirliğine hazır olduğunu beyan ettikten sonra, savcılık olayla ilgili araştırma ve soruşturma yetkisi kazanır. Bu aşamadan sonra savcılık taraf olmayan devlet ülkesinde her türlü soruşturma yetkisini kullanabilir, taraf olmayan devlet de buna müsaade etme ve işbirliği gösterme yükümlülüğündedir.
 
 
-![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/85416e2ba682d8fab8a0f7cb2d58918cf80d11b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3172724434592e6a7067 "Uluslararası Ceza Mahkemesi")
+### ![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/85416e2ba682d8fab8a0f7cb2d58918cf80d11b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3172724434592e6a7067 "Uluslararası Ceza Mahkemesi")
 
 **V-SORUŞTURMAYI BAŞLATMA KARARI**
 
