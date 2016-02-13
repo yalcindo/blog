@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: İstanbul Barosu, İstanbul'da Avukat ve Adliyeler 
+title: İstanbul Barosu ve İstanbul'da Avukat 
 category: ceza-hukuku
 googleAnahtar: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
 keywords: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
@@ -20,7 +20,7 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 İstanbul’da büyük üç adliye vardır. Bunlar, İstanbul Çağlayan Adliyesi, İstanbul Anadolu Adliyesi ve Bakırköy Adliyesi’dir. Bu adliyeler dışında uzak ilçelerde örneğin Küçükçekmece, Büyükçekmece, Silivri, Çatalca ve Gaziosmanpaşa gibi ilçelerde de küçük adliyeler mevcuttur. 
 
-##İstanbul Barosu Avukat Merkez ve Servisleri
+## İstanbul Barosu Avukat Merkez ve Servisleri
 
 ### 1. İstanbul Barosu Kadın Hakları Merkezi
 
@@ -65,7 +65,7 @@ Bu merkezde görevli avukatların da ceza avukatı olduğunu söylemek mümkünd
 
 İstanbul’da üç büyük adliye bulunmaktadır. Bu adliyeler bulundukları bölgenin esas adliyesi olup ağır ceza mahkemeleri ve diğer birçok ihtisas mahkemeleri bulunmaktadır.
 
-### #a. Bakırköy Adliyesi
+#### a. Bakırköy Adliyesi
 
 Bakırköy Adliyesi, Avrupa yakasındaki ikinci büyük adliye olup İstanbul’un Bakırköy ilçesinde bulunmaktadır. Bakırköy adliyesi, Bakırköy ilçesi sınırları içerisinde bulunan Ataköy, Florya gibi semtlerin bağlı olduğu bir adliye olduğu gibi Bahçelieevler, Bağcılar, Esenler, Zeytinburnu gibi birçok ilçenin de esas adliyesidir. 
 
@@ -79,7 +79,7 @@ Bakırköy adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyeleri
 
 Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http://www.bakirkoy.adalet.gov.tr/)
 
-### #b. İstanbul Çağlayan ve Anadolu Adliyeleri
+#### b. İstanbul Çağlayan ve Anadolu Adliyeleri
 
 İstanbul Çağlayan ve Anadolu Adliyeleri, İstanbul’un en büyük iki adliyesidir. Esasen İstanbul adliyeleri denilince bu adliyeler anlaşılmaktadır. İstanbul avukatlarının en çok çalıştığı adliyeler de bu iki adliyedir. Her biri İstanbul’un bir yakasında bulunan bu adliyelerden biri Çağlayan’da diğeri Anadolu yakasındaki Kartal ilçesinde bulunmaktadır. 
 Özellikle İstanbul Çağlayan Adliyesi, bir dönem DGM, özel yetkili mahkeme gibi özel ağır ceza mahkemelerinin bulunduğu bir adliye olduğundan ceza avukatı olarak çalışan avukatların en çok uğradığı adliyelerden biri olmuştur. Bugün için özel yetkili mahkemeler kaldırılmış olsa da bu adliye ağır ceza mahkemesi çevresi olduğu için ceza avukatı açısından önemli bir çalışma alanıdır.
