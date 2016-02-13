@@ -6,6 +6,7 @@ googleAnahtar: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, t
 summary: Avukat ve Avukatın Özel Hukukta Savunma İşlevi, Ceza Avukatı, Tazminat Avukatı, Gayrimenkul Avukatı, Boşanma Avukatı olarak nitelenen avukatların kendine özgü özellikler arzeden savunma faaliyeti, Boşanmada Mal Paylaşımı 
 keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, Boşanmada Mal Paylaşımı 
 ---
+
 ## Avukat ve Avukatın  Özel Hukuktaki İşlevi
 
 **Avukat,** ister ceza avukatı olsun isterse özel hukuk alanında çalışan bir avukat olsun temelde işlevi savunma yapmaktır. [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) nasıl hem mağdurun hem de sanığın haklarını savunuyorsa, bir tazminat avukatı da borçlunun veya alacaklının haklarını savunur. 
@@ -42,12 +43,12 @@ Aile hukuku, özel bir yargılama usulüyle aile mahkemeleri vasıtasıyla uygul
 
 ### ![Boşanma Avukatı](https://camo.githubusercontent.com/f92a01a3fe083bb46defa61503a3889218a37e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f346b375834702e6a7067 "Boşanma Avukatı")
 
-### #Velayet ve Boşanma Avukatı
+#### Velayet ve Boşanma Avukatı
 
 Avukat veya halkın deyimiyle boşanma avukatı boşanma sürecinde öncelikle çocukların bu süreçten etkilenmemesi için gerekli önlemleri almalıdır. Boşanma avukatı, boşanma sürecinde geçici velayeti ve kişisel münasebet kurulması hususlarında taraf menfaatlerinden ziyade çocuğun menfaatini göz önüne alarak taraflara telkinde bulunmalıdır.
 Boşanma davalarında çocukların velayeti konusu tarafların çoğu zaman birbirlerinden intikam alma aracına dönüşmektedir. Boşanma avukatı, tarafların kişisel sürtüşmesinin dışında kalarak  her iki tarafa çocuğun yararına bir çözümü telkin etmelidir. Örneğin, 2 yaşında bir çocuğun anneyi kaybetme korkusu ile yaşadığı psikoloji biliminin verileriyle ispatlanmıştır. Boşanma avukatı, yaşı küçük çocuğun velayetinin anneye verilmesinin çocuğun yararına olduğunu taraflara uygun bir şekilde anlatmalıdır. Çocukların boşanma sürecinin yıpratıcı etkilerinden korunması için gerekli önlemlerin alınması avukatın meslek etik kuralları açısından da bir gerekliliktir.
 
-### #Boşanmada Mal paylaşımı ve Boşanma Avukatı
+#### Boşanmada Mal paylaşımı ve Boşanma Avukatı
 
 [**Boşanmada mal paylaşımı**](https://barandogan.av.tr/blog/medeni-hukuk/mal-paylasimi-bosanmada.html), boşanma sürecinde tarafların birbirini en çok yıprattıkları bir süreçtir. 2002 yılından sonra yürürlüğe giren medeni kanun ile birlikte evlilik içinde elde edilen malların, eşler arasında, boşanmada mal paylaşımında yarı yarıya paylaşılması esası kabul edilmiştir. Bu nedenle boşanma avukatı tarafların malvarlığını tespit etmeli, malların paylaşım esaslarını belirleyerek açacağı mal paylaşımı davasını buna göre açmalıdır. Boşanmada mal paylaşımı süreci tarafların birbirinden mal kaçırmasına da neden olmaktadır. Boşanma avukatı, mal kaçırılmasını önlemek için gerekli tedbirleri aile mahkemesinden almalıdır.
 
