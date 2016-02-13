@@ -7,14 +7,14 @@ keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilek�
 summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yargıtay Temyiz İncelemesi Duruşmalı mıdır? Temyiz İncelemesi Sonucu Onama, Düzelterek Onama ve Bozma Kararı
 ---
 
-##Temyiz Nedir?
+## Temyiz Nedir?
 
 **Temyiz,** mahkeme tarafından verilen kararın yeniden incelenmesi için bir davanın taraflarına tanınan olağan bir kanun yoludur.  Esasen **temyiz,** üst mahkemede açılan yeni bir tür davadır. Taraflar, **temyiz incelemesi** ile yerel mahkeme kararının değiştirilmesini veya bozulmasını talep ederler. Ceza mahkemeleri kararlarına karşı **temyiz başvurusu,**  üst mahkeme,  yanib **temyiz mahkemesi**  olan  Yargıtay’a temyiz dilekçesi  ile yapılır.
 
 
 ### ![Yargıtay Temyiz Başvurusu](https://camo.githubusercontent.com/e13824900dd05c77aa7cc5d1a4e9ae7a40169f17/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750426f426d2e6a7067 "Yargıtay Temyiz Başvurusu")
 
-##Temyiz Süresi Ne Kadardır?
+## Temyiz Süresi Ne Kadardır?
 
 **Temyiz süresi**,  kararın tefhimi veya tebliğinden itibaren 7 gündür. Kararın verildiği gün hesaba katılmaz, son gün tatile denk gelirse sonraki ilk iş günü temyiz süresinin  son günü olarak kabul edilir.
 
