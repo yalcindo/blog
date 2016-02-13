@@ -13,7 +13,7 @@ summary: Meşru Müdafaa (Meşru Savunma) Nedir? Meşru Müdafaanin Şartları, 
 
 ### ![Meşru Müdafaa Nedir](https://camo.githubusercontent.com/f78542260f980013c33dc9c37f5069703784fdcf/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e677a424c522e6a7067 "Meşru Müdafaa")
 
-##Meşru Müdafaanın (Meşru Savunma) Şartları
+## Meşru Müdafaanın (Meşru Savunma) Şartları
 
 **Meşru müdafaa,** belli şartların bir arada bulunması halinde gerçekleşir. Ayrı ayrı hem saldırıya ilişkin hem de savunmaya ilişkin şartların bir bulunması gerekir. TCK md. 25 çerçevesinde **meşru savunma şartları** şunlardır:
 

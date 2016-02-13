@@ -47,7 +47,7 @@ Bir işçinin **kıdem tazminatı**na hak kazanabilmesi için aynı işverenin i
 İş sözleşmesi ister yazılı isterse sözlü olsun belirsiz süreli iş sözleşmesi olmalıdır. Belirli iş sözleşmesi ile çalışılan işyerinden sözleşme bitiminde **kıdem tazminatı** talep edilemez. Belirli iş sözleşmesi, belli işlerde veya belli bir işin tamamlanması için işveren ile işçi arasında yazılı olarak yapılan sözleşmelerdir. Belirli iş sözleşmeleri işin bitimi ile veya sözleşmede kararlaştırılan şartın gerçekleşmesiyle kendiliğinden sona erer, kendiliğinden sona eren bu iş sözleşmelerinde **kıdem tazminatı**na hak kazanılamaz. Ancak, belirli iş sözleşmesi sözleşmede kararlaştırılan işin bitiminden önce işveren tarafından haksız nedenlerle, işçi tarafından haklı nedenlerle feshedilirse işçi **kıdem tazminatı** almaya hak kazanır.
 
 
-##İşçi Hangi Hallerde Kıdem Tazminatına Hak Kazanır?
+## İşçi Hangi Hallerde Kıdem Tazminatına Hak Kazanır?
 
 İşçi, iş sözleşmesini haklı nedenle feshetmişse her şekilde **kıdem tazminatı** almaya hak kazanacaktır. İşverenin iş sözleşmesini feshetmesi halinde, işçinin **kıdem tazminatı** alabilmesi için bu feshin haksız olması gerekir. İşveren haklı nedenlerle iş sözleşmesini feshetmişse veya işçinin yaptığı fesih haksız bir fesih ise işçi, **kıdem tazminatı**na hak kazanamaz.
 

@@ -8,12 +8,12 @@ keywords: adli sicil kaydının silinmesi, sabıka kaydı nasıl silinir, adli s
 ---
 
 
-##Adli Sicil Kaydı Nedir?
+## Adli Sicil Kaydı Nedir?
 
 
 Kesinleşmiş mahkeme kararına dayanılarak kişiler hakkında ceza ve güvenlik tedbirlerine ilişkin bilgilerin kaydedildiği sisteme “adli sicil” denilmektedir. **Adli sicil kaydı**, vatandaşın devlet nezdinde tutulan suç kaydı olarak tarif edilebilir. Adli sicil kaydına halk dilinde **sabıka kaydı** da denilmektedir.
 
-Kişinin işlediği herhangi bir suç nedeniyle hükmedilen ceza veya güvenlik tedbiri yaptırımının adli sicil kaydına işlenebilmesi için mahkeme kararının kesinleşmesi gerekir. Kesinleşmeyen mahkeme kararları adli sicil kaydında yer almaz. 
+Kişinin işlediği herhangi bir suç nedeniyle hükmedilen ceza veya güvenlik tedbiri yaptırımının adli sicil kaydına işlenebilmesi için mahkeme kararının kesinleşmesi gerekir. Kesinleşmeyen mahkeme kararları adli sicil kaydında yer almaz.
 
 Kural olarak, ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet kararı adli sicil kaydına işlenir. Fakat, mahkeme hükmün açıklanmasının geri bırakılması (HAGB) kararı vermişse, bu karar adli sicil kaydına işlenemez. HAGB kararları teknik olarak mahkumiyet olarak kabul edilmemektedir. Bu nedenle ayrı bir sisteme kaydedilirler.
 
@@ -28,14 +28,14 @@ Kural olarak, ceza veya güvenlik tedbiri yaptırımı içeren her mahkumiyet ka
 
 3- Hapis cezası ertelenmişse, cezanın ertelendiğine dair bilgi ile birlikte kişinin tabi bulunduğu denetim süresi de yer almalıdır.  Ayrıca denetim süresinin yükümlülükler uygun ve iyi halli olarak geçirilmesi halinde cezanın infaz edilmiş sayılacağı hususu da adli sicil kaydına işlenir. Eğer ertelenen hapis cezası, denetim süresinin yükümlülüklerine uyulmadığı için cezanın infaz kurumunda çektirilmesine karar verilmişse bu karar da adli sicil kaydına yazılır.
 
-4- [**Adli Para Cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) mahkumiyet hükmü ile ilgili bilgiler de adli sicil kaydına işlenir. Adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu adli sicil kaydına işlenir. 
+4- [**Adli Para Cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) mahkumiyet hükmü ile ilgili bilgiler de adli sicil kaydına işlenir. Adli para cezası ödenmişse ödenmek suretiyle infaz edildiği hususu, adli para cezası ödenmemişse tazyik hapsi suretiyle kısmen veya tamamen infaz edildiği hususu adli sicil kaydına işlenir.
 
 5- Kısa süreli hapis cezasına seçenek yaptırıma mahkumiyet halinde buna dair karar adli sicil kaydında yer alır.
 
 6- Belli hakları kullanmaktan yoksun bırakılmaya dair istisnai bir hal veya mahkûmiyet hükmüyle bağlantılı olarak verilen, belli bir hak ve yetkinin kullanılmasının veya belli bir meslek veya sanatın icrasının yasaklanmasına ya da sürücü belgesinin geri alınmasına ilişkin karar da adli sicil kaydına işlenir.
 
 7- Türk vatandaşı hakkında yabancı mahkemeden verilmiş ve kesinleşmiş olan mahkûmiyet kararının Türk hukuku bakımından doğurduğu hak yoksunluklarına ilişkin olarak Cumhuriyet savcısının istemi üzerine mahkemece verilen karar adli sicil kaydına işlenir.
- 
+
 8- Ceza mahkûmiyetini bütün sonuçlarıyla ortadan kaldıran şikayetten vazgeçme veya etkin pişmanlık dolayısıyla verilen karar adli sicil kaydına işlenir.
 
 9- Ceza zamanaşımının dolduğunun tespitine ilişkin karar adli sicil kaydına işlenir.
@@ -67,7 +67,7 @@ kararlar, adli sicil kaydında kendilerine mahsus bir bölümde kaydedilirler. N
 ### Adli Sicil Kaydı Ne Zaman Silinir? Nasıl Silinir?
 
 
-[**Adli Sicil Kanunu**](http://www.adlisicil.adalet.gov.tr/pdf/Kanun.pdf), adli sicil kaydının ne zaman ve nasıl silineceğini açıkça belirtmiş, uygulamada oluşan tereddütler de Yargıtay tarafından içtihatlar yoluyla giderilmiştir. Buna göre **adli sicil kaydı** şu şekillerde silinebilir: 
+[**Adli Sicil Kanunu**](http://www.adlisicil.adalet.gov.tr/pdf/Kanun.pdf), adli sicil kaydının ne zaman ve nasıl silineceğini açıkça belirtmiş, uygulamada oluşan tereddütler de Yargıtay tarafından içtihatlar yoluyla giderilmiştir. Buna göre **adli sicil kaydı** şu şekillerde silinebilir:
 
 
 
@@ -85,7 +85,7 @@ Adli sicil kaydı ile "arşiv kaydı" iki farklı kavramdır. Mahkumiyet hüküm
 
 * Kural olarak hükümlüye ait adli sicil kaydı cezanın infaz edilmesinden sonra adli sicil kaydından silinir, arşiv kaydına alınır. Arşiv kaydı ise 5 yıl sonra silinir.
 
-* Arşiv kaydına alınan mahkumiyet hükmü, TCK dışındaki kanunların ceza mahkumiyetine bağladığı hak yoksunluklarına neden olan bir mahkumiyet ise; cezanın infazından sonra hükümlünün başvurusu ile mahkeme tarafında [Memnu Hakların İadesi](https://barandogan.av.tr/blog/ceza-hukuku/memnu-haklarin-iadesi-karari-yetkili-mahkeme.html) kararı verilmişse kaydın arşive alınma koşullarının oluştuğu tarihten itibaren 15 yıl geçmesiyle arşiv kaydı silinir. Memnu hakların iadesi kararı alınamamış ise kaydın arşive alınma koşullarının oluştuğu tarihten itibaren 30 yıl geçmesiyle arşiv kaydı silinir. **Bu hüküm nedeniyle ceza mahkumiyetlerinin büyük bir kısmı 15 yıl veya 30 yıl süresince arşiv kaydında kalmaktadır.** 
+* Arşiv kaydına alınan mahkumiyet hükmü, TCK dışındaki kanunların ceza mahkumiyetine bağladığı hak yoksunluklarına neden olan bir mahkumiyet ise; cezanın infazından sonra hükümlünün başvurusu ile mahkeme tarafında [Memnu Hakların İadesi](https://barandogan.av.tr/blog/ceza-hukuku/memnu-haklarin-iadesi-karari-yetkili-mahkeme.html) kararı verilmişse kaydın arşive alınma koşullarının oluştuğu tarihten itibaren 15 yıl geçmesiyle arşiv kaydı silinir. Memnu hakların iadesi kararı alınamamış ise kaydın arşive alınma koşullarının oluştuğu tarihten itibaren 30 yıl geçmesiyle arşiv kaydı silinir. **Bu hüküm nedeniyle ceza mahkumiyetlerinin büyük bir kısmı 15 yıl veya 30 yıl süresince arşiv kaydında kalmaktadır.**
 
 * Hükümlünün ölmesi, fiilin suç olmaktan çıkması gibi nedenlerle de arşiv kaydı silinir.
 
@@ -112,7 +112,7 @@ Adli sicil kaydı ile "arşiv kaydı" iki farklı kavramdır. Mahkumiyet hüküm
 ### Adli Sicil Kaydının Silinmesi Dilekçe Örneği
 
 
-Cezanız infaz edilmesine rağmen adli sicil kaydınız silinmemiş ise bir [Ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) ile durumu mütalaa ediniz. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir [**Adli Sicil Kaydının Silinmesi Dilekçesi**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html) ile  başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT şubesi vasıtasıyla gönderebilirsiniz. 
+Cezanız infaz edilmesine rağmen adli sicil kaydınız silinmemiş ise bir [Ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) ile durumu mütalaa ediniz. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir [**Adli Sicil Kaydının Silinmesi Dilekçesi**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html) ile  başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT şubesi vasıtasıyla gönderebilirsiniz.
 
 
 **Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**

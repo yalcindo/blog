@@ -15,11 +15,11 @@ keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir,
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/c8750dde4f2014fc7fd3e3385e2888118afb253f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a4a5633345a2e6a7067 "Ceza Avukatı")
 
 
-##Bilişim Suçları Nasıl Tespit Edilir?
+## Bilişim Suçları Nasıl Tespit Edilir?
 
 **Bilişim suçları**nın tespiti için çoğu zaman Microsoft Corporation şirketinden yardım alınmaktadır. Öncelikle erişilen bilişim sisteminin müştekiye ait olup olmadığı belirlenmektedir. İşlenen **bilişim suçu**nun özelliğine göre kullanıcıların IP adresleri tespit edilmekte, bilgisayar harddisklerine el konularak incelenmektedir. Şüpheli, söz konusu bilgisayarı veya elektronik aracı başkasının kullandığı savunmasını ileri sürüyorsa bu savunma çerçevesinde başkasının sisteme girip girmediği incelenmektedir. Eğer şüpheli kendi bilgisayarı veya elektronik aracı dışında bir bilgisayar veya araç kullanarak mağdurun sistemine girmişse buna dair inceleme ve araştırma yapılır, varsa bu hususla ilgili tanıklar dinlenir. **Bilişim suçları** yalnızca teknoloji kullanılarak ispatlanmaz, **bilisim suçu**nun özelliğine göre tanıklarla da sonuca ulaşılabilir. Hemen belirtmek gerekir ki bilişim suçlarının tespitinde [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) önemli bir fonksiyonu yerine getirir.
 
-##Bilişim Suçları Şikayet Süresi
+## Bilişim Suçları Şikayet Süresi
 
 **Bilişim suçları,** savcılık tarafından kendiliğinden soruşturulması gereken suçlardandırlar. Bu nedenle, tüm bilişim suçlarının soruşturulması şikayete tabi değildir. Savcılık bilişim suçunu kendiliğinden soruşturmalıdır. Ancak, TCK’daki zamanaşımı süreleri içinde savcılığa bildirimde bulunulursa etkili bir soruşturma yapılabilir. TCK’ya göre en basit **bilişim suçu**nun zamanaşımı 8 yıldır.
 

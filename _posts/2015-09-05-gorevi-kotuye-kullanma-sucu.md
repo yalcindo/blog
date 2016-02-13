@@ -24,7 +24,7 @@ Mevcut TCK’nın 257. maddesi **görevi ihmal suçu** ile görevi kötüye kull
 ### ![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
 
 
-##Görevi Kötüye Kullanma Suçunun Şartları
+## Görevi Kötüye Kullanma Suçunun Şartları
 
 Kamu görevlisinin her hukuka aykırı fiili görevi kötüye kullanma suçunun oluşmasına neden olmaz. **Görevi kötüye kullanma suçu**nun oluşabilmesi için şu şartların bir arada bulunması gerekir:
 
@@ -72,7 +72,7 @@ TCK'nın 257. maddesine, 08.12.2010 gün ve 6086 sayılı kanunla “haksız kaz
 Kamu görevlisinin işlediği bir fiil TCK’da düzenlenen başka özel bir suçun konusunu teşkil ediyorsa, artık sanık görevi kötüye kullanma suçundan cezalandırılamaz. Örneğin, rüşvet alma, zimmet, irtikap gibi suçlar **görevi kötüye kullanma** yoluyla işlenebilecek suçlardır. Kamu görevlisinin işlediği fiil TCK’da özel bir suç olarak düzenlenmişse sanık bu özel suçun gerektirdiği cezayla cezalandırılır. Bu halde sanığa ayrıca görevi kötüye kullanma suçundan ceza verilemez. Çünkü bu suç kamu görevlisinin hukuka aykırı bir fiilinin başka bir suç teşkil etmemesi halinde geçerlidir.
 
 
-##Görevi Kötüye Kullanma Suçunun Cezası
+## Görevi Kötüye Kullanma Suçunun Cezası
 
 Görevi kötüye kullanma suçunun temel cezası TCK 257/1 maddesi gereği 6 aydan 2 yıla kadar hapis cezasıdır.
 
@@ -82,7 +82,7 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 
 **Görevi kötüye kullanma suçu,** ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
 
-##Görevi Kötüye Kullanma Suçu Yargıtay Kararları     
+## Görevi Kötüye Kullanma Suçu Yargıtay Kararları     
 
 ### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Görevi Kötüye Kullanma Suçu Yargıtay Kararları")
 

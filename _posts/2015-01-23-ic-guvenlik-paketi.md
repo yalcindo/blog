@@ -8,7 +8,7 @@ summary: Kamuoyunda iç güvenlik paketi olarak bilinen "Polis Vazife Salahiyet 
 
 
 
-##İç Güvenlik Kanunu Nedir
+## İç Güvenlik Kanunu Nedir
 
 Kamuoyunda **İç Güvenlik Paketi** olarak bilinen kanun tasarısının tam adı *“Polis Vazife Salahiyet Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun”* şeklindedir. Kanun tasarısının ilk kelimesinden anlaşılacağı üzere kanunun, toplumda hukuk egemenliğini arttırmak yerine “polis” etkisini arttırarak kamu düzenini sağlamaya çalıştığı görülüyor.
 
@@ -105,7 +105,7 @@ E ) 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununa dayanılarak ilan e
 
 Özellikle bu maddenin *“toplumsal olaylar sırasında işlenen cebir ve şiddet içeren suçlar”* ( Tasarı md. 6 ) açısından da uygulanacağı şeklindeki hüküm suçta ve cezada kanunilik ilkesine aykırıdır. Hangi suçların cebir ve şiddet içeren suç olduğu yine muğlak bırakılarak uygulamada geniş yorum yapılması sağlanmıştır.
 
- 
+
 ### Valilere Yargısal Nitelikte Yetkiler
 
 
@@ -120,4 +120,3 @@ Suç işlenmeden önce alınacak idari nitelikte önleyici tedbirler valiler vey
 **Hukuk devleti**, devletin kendisini hukukun genel ilkeleriyle sınırladığı ve sınadığı rejimin adıdır. Hukuk devletinde devlet, toplumu bastırmak, değiştirmek, maniple etmek için hukuku bir araç haline getirmez. Kuvvetler ayrılığı, kişi özgürlüğü ve güvenliği hakkı, ifade özgürlüğü ve ifade özgürlüğünün türevi olan toplantı ve gösteri özgürlüğü gibi tüm özgürlükler güvence altındadır. Polise 1990’lı yılların Türkiye’sine dönüş uygulamaları için imkan tanıyan yasal düzenlemeler toplumun ortak geleceğine ve ortak hukukuna zarar verecektir. Her zaman bir iktidar ve iktidara karşı gelen bir toplumsal muhalefet olacaktır. Ama hukuk kültürü kolay kolay oluşmaz.Hele polis jopuyla, kalkanıyla, gazıyla ne kamu düzeni sağlanabilir ne de hukuk devletine ulaşılabilir.
 
 **Bakırköy-istanbul / Avukat Baran Doğan**
- 
