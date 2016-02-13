@@ -16,7 +16,7 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 
 ### ![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
 
-##Yağma Suçunun (Gasp Suçunun) Şartları
+## Yağma Suçunun (Gasp Suçunun) Şartları
 ---
 
 
