@@ -9,11 +9,11 @@ summary: Müsadere Nedir? Eşya Müsaderesi Şartları, Kazanç Müsaderesi Şar
 
 ### ![Müsadere Nedir](https://camo.githubusercontent.com/728e8ae12d029accad1b2916282e47a49457d869/687474703a2f2f692e68697a6c69726573696d2e636f6d2f306d6b327a382e6a7067 "Müsadere Nedir")
 
-##Müsadere Nedir?
+## Müsadere Nedir?
 
 **Müsadere,** işlenen bir suç ile ilgili belirli bazı eşya veya kazançların mülkiyetinin devlete aktarılması olarak tanımlanabilir. Suç işleyen kişinin malvarlığının tümünün devlete geçirilmesi anlamında “genel müsadere” yasaktır (Anayasa md. 38).  TCK da genel müsadere sistemini değil, özel müsadere sistemini benimsemiştir. Yani, müsadere için önkoşul malvarlığı değerinin suç ile bir ilgisinin olmasıdır. İşlenen suç ile ilgisi olmayan eşya, kazanç, para gibi malvarlığı değerleri müsadere edilemez.
 
-##Müsadere Çeşitleri: Eşya veya Kazanç Müsaderesi
+## Müsadere Çeşitleri: Eşya veya Kazanç Müsaderesi
 
 **Eşya (Mal) Müsaderesi:** İşlenen bir suçla ilgisi olan belirli bir eşyanın müsadere edilmesidir. Eşya müsaderesi, TCK md. 54’de ayrıntılarıyla düzenlenmiştir.
 
