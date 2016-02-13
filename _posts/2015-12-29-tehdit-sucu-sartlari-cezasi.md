@@ -7,25 +7,25 @@ keywords: Tehdit suçu, tehdit suçunun cezası, tehdit suçunun şartları, teh
 summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Suçunun Basit Şekli, Tehdit Suçunun Nitelikli (Ağır) Hali, Tehdit Suçunun Şikayet Süresi, Tehdit Suçunun Cezası, Silahlı Tehdit Suçu
 ---
 
-##Tehdit Suçu Nedir?
+## Tehdit Suçu Nedir?
 
 **Tehdit suçu,**  bir kimseye haksız bir zarara veya kötülüğe uğratılacağının bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir. Tehdit suçunda korunan hukuki değer kişilerin iç barışı, karar verme ve hareket etme özgürlüğüdür. 
 
 ### ![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
 
 
-##Tehdit Suçu Kimler Aleyhine İşlenebilir?
+## Tehdit Suçu Kimler Aleyhine İşlenebilir?
 
 
 
 
 Tehdit suçu ancak gerçek kişiler aleyhine işlenebilir. Tüzel kişiler aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
 
-##Tehdit Suçunun Hukuki Niteliği
+## Tehdit Suçunun Hukuki Niteliği
 
 Tehdit suçu, hukuki niteliği itibariyle bir tehlike suçudur.  Mağduru korkutmak  amacıyla işlenen bir suç olduğu için tehdit teşkil eden söz ve davranışın başka bir somut zarar meydana  getirip getirmediğinin önemi yoktur. Örneğin, “seni bıçaklayacağım” sözleri tehdit suçunu oluşturur, failin tehdit suçundan cezalandırılması için  tehdit ettiği kişiyi bıçaklaması zorunlu değildir. 
 
-##Tehdit Suçu ve Şikayet Süresi
+## Tehdit Suçu ve Şikayet Süresi
 
 Tehdit suçunun yalnızca malvarlığına yönelen basit şekli şikayete tabidir. Bu nedenle aşağıda açıkladığımız malvarlığı değerlerine yönelen tehdit suçunda şikayet süresi 6 aydır. Mağdur, fiili ve faili öğrenmesinde itibaren 6 ay içinde şikayet etmelidir. Aksi takdirde şikayet hakkı ortadan kalkar.
 
@@ -62,27 +62,27 @@ Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle
 
 Tehdit suçunun nitelikli, ağır halleri şunlardır:
 
-### #1. Silahla Tehdit Suçu
+#### 1. Silahla Tehdit Suçu
 
 Tehdit suçunun nitelikli hali olan silahla tehdit suçunun vücut bulması için silahın, bizzat mağdur tarafından görülebileceği, hissedilebileceği , tehdidin mağdurun üzerindeki etkisini artıracak biçimde teşhiri veya kullanılması gerekir. Mağdurun yokluğunda gerçekleştirilen tehdit eyleminin, silahla tehdit suçunu oluşturabilmesi için silahın, mağdurun evi, arabası gibi daimi kullanımında olan eşyalarında hasar, iz, emare gibi belirtiler oluşturacak ve bu suretle tehdidin mağdurun üzerinde meydana getirdiği korkunun etkisini artıracak tarzda kullanılması icap eder. Bu itibarla, mağdurun yokluğunda gerçekleşen tehdit eyleminde, salt silah teşhir edilmiş olması, suçun nitelikli halinin oluşumu için yeterli sayılamayacaktır.  
 
-### #2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
+#### 2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
 
 Tehdit suçunu işleyen kişi, kendisini mağdur tarafından tanınmayacak hale koyarsa suçun ağırlaştırılmış hali işlenmiş olur. Suçu işleyen kişinin korkutucu olması şart değildir, önemli olan mağdur tarafından tanınmayacak şekilde hareket etmesidir. Örneğin, suçu işleyen kişinin maske takması veya takma sakal takması gibi.
 
-### #3. Birden Fazla Kişiyle Birlikte Tehdit Suçu
+#### 3. Birden Fazla Kişiyle Birlikte Tehdit Suçu
 
 Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzerinde korkuyu arttıran bir faktördür.  Bu nedenle kanun, birden fazla kişiyle birlikte işlenen tehdit suçuna daha ağır ceza verilmesine gerek görmüştür. Tehdit fiilini işleyen kişi sayısının en az 2 veya daha fazla kişi olması gerekir.
 
-### #4. İmzasız Mektup Yoluyla Tehdit Suçu
+#### 4. İmzasız Mektup Yoluyla Tehdit Suçu
 
 İmzasız mektup ile kastedilen suçu işleyen kişinin kimliğinin mektuptan anlaşılamamasıdır. İmzasız mektup, tehditin nerden geldiğini bilmediği için mağduru daha çok korkutmakta, tehditin kaynağını bilmediği için de mağdur savunmasız kalmaktadır.  Bu nedenle yasa tehdit suçunun imzasız mektup yoluyla işlenmesi cezayı arttıran bir neden olarak kabul edilmiştir. Ancak yazılan mektubun altında imza veya isim olmasa bile, mektubun kim tarafından yazıldığı mağdur tarafından hemen fark edilebiliyorsa ceza arttırımı yoluna gidilemez.
 
-### #5. Örgüt İsmi Kullanarak Tehdit Suçu
+#### 5. Örgüt İsmi Kullanarak Tehdit Suçu
 
 Tehdit suçu işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit etmesi halinde ceza arttırımı yoluna gidilir. İsmi kullanılan örgüt, var olan bir örgüt olabileceği gibi, gerçekte var olmayan hayali bir örgüt de olabilir. Örgütün niteliği önemli değildir. Örgüt, dini, siyasi veya bir mafya örgütü olabilir. Örgüt ismi kullanılarak mağdurun korkutulması suçun oluşması için yeterlidir.
 
-### #6.  Özel İşaretlerle Tehdit Suçu
+#### 6.  Özel İşaretlerle Tehdit Suçu
 
 Tehdit suçunun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, tehdit suçunun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
