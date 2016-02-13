@@ -30,7 +30,7 @@ Statü’de savaş suçları 8. Maddede düzenlenmiştir. Bu maddede hem uluslar
 Netice itibarıyle, Statü’de savaş suçu fiilleri uluslararası silahlı çatışmaları ve iç silahlı çatışmaları kapsayacak şekilde düzenlenmiştir. Suç fiilleri, toplam 40 adet olup suç sınırlayıcıdır. Savaş suçu sayılan tüm fiiller genel olarak dört başlık altında toplanmıştır.
 
 
-### #(1)	1949 Cenevre Sözleşmelerinin Çok Ciddi Şekilde İhlali
+#### (1) 1949 Cenevre Sözleşmelerinin Çok Ciddi Şekilde İhlali
 
 1949 Cenevre Sözleşmeleri  savaş hukukunu ve savaş sırasındaki yasak eylemleri en geniş düzenleyen sözleşmelerdir. Bu sözleşme metinleri, uluslararası hukuk literatüründe ve uygulamasında yerleşik bir şekilde kabul görmektedir. Birçok devlet bu sözleşmelere katıldıktan sonra iç hukukunu da buna göre düzenlemiştir . Statü’nün 8. maddesi de Cenevre Sözleşmeleri’nde mevcut aşağıdaki 8 suç fiilinin, yine Cenevre Sözleşmeleri’nde koruma altında bulunan şahıslara veya mallara karşı işlenmesi halinde savaş suçu saymıştır:
 
@@ -53,7 +53,7 @@ bırakılması;
 
 Statü, Cenevre Sözleşmeleri’ne atıf yaptığına göre yukarıdaki fiillerin Cenevre Sözleşmeleri ışığında değerlendirilmesi gerekir. Fiillerin ihlal teşkil edip etmediği, ihlal teşkil ediyorsa ağırlık derecesi; fiilin icra edilmesi açısından askeri gereklilik olup olmadığı, oluşan zarar da dikkate alınarak değerlendirilecektir . 
 
-### #(2)	Uluslararası Silahlı Çatışmalarda Uygulanabilir Yasa ve Geleneklerin Diğer Ciddi İhlali
+#### (2)	Uluslararası Silahlı Çatışmalarda Uygulanabilir Yasa ve Geleneklerin Diğer Ciddi İhlali
 
 Statü’nün 8/2-b maddesiyle, uluslararası çatışmalarda uygulanabilir kural ve adetlerin diğer ciddi ihlalleri de savaş suçu sayılmıştır. Bendin başlığından anlaşılacağı üzere bu bent yalnızca uluslararası silahlı çatışmalarda uygulanabilir. Uluslararası olmayan silahlı çatışmalarda maddenin başka bentleri uygulanabilir, ama bu bendin uygulanması mümkün değildir. Bu bentte Cenevre Sözleşmesi’nde tanımlanmamış bazı fiillere yer verilmiştir. Bu fiiller oldukça geniş kapsamlı olarak aşağıdaki şekilde sayılmıştır:
 	
@@ -111,7 +111,7 @@ hakları olduğu sürece, Birleşmiş Milletler Sözleşmesi’ne göre, barış
 Statü’nün yukarıda açıkladığımız 8/2-b maddesi, 1899 ve 1907 tarihli La Haye sözleşmelerinden, nispeten yeni uluslararası örf ve adet hukukundan ve Cenevre Sözleşmelerine Ek Protokollerden alıntı yapılarak veya esinlenerek hazırlanmıştır . 
 
 
-### #(3)	Uluslararası Nitelik Taşımayan Bir Silahlı Çatışmada, 1949 Cenevre Sözleşmeleri’nin Ortak 3. Maddesinin Ciddi İhlalleri
+#### (3)	Uluslararası Nitelik Taşımayan Bir Silahlı Çatışmada, 1949 Cenevre Sözleşmeleri’nin Ortak 3. Maddesinin Ciddi İhlalleri
 
 Bir çatışmanın uluslararası nitelik taşıması savaş suçu açısından belli ölçülerde önemli olsa da uluslararası nitelik taşımayan çatışmalarda da savaş suçu işlenmesi mümkündür. Uluslararası nitelik taşımayan silahlı çatışmaya Suriye Savaşı örnek gösterilmektedir . 		
 
@@ -128,7 +128,7 @@ Cenevre Sözleşmelerinin tamamında ortak hükümler içeren 3. maddeye aynı m
 Yukarıdaki hükümler, yalnızca uluslararası nitelikte olmayan silahlı çatışmalara uygulanır. Bu nedenle ülke içinde gerçekleşen gösteriler, münferit ve zaman zaman meydana gelen şiddet hareketleri veya benzer nitelikteki diğer fiiller gibi iç karışıklıklar ve gerginliklere uygulanmaz (Statü md. 8/2-d).
 
 
-### #(4)	Uluslararası Nitelikte Olmayan Ancak Silahlı Çatışmalarda Uygulanabilir Hukukun Ve Teamüllerin Diğer Ciddi İhlalleri
+#### (4)	Uluslararası Nitelikte Olmayan Ancak Silahlı Çatışmalarda Uygulanabilir Hukukun Ve Teamüllerin Diğer Ciddi İhlalleri
 
 Uluslararası hukukun temel ilkelerinden biri olan devletlerin eşit egemenliği ilkesi Statü’de birçok vesileyle yer bulmuştur . Devletlerin içişlerine karışmadan uluslararası hukukun güvence mekanizmaları kurulmaya çalışılmıştır. Aşağıdaki filler, uluslararası karakterde olmayan ancak silahlı çatışmalarda uygulanabilir hukukun ve teamüllerin diğer ciddi ihlalleri olarak kabul edilmiştir (Statü md. 8/2-e):
 	
