@@ -7,7 +7,7 @@ summary: Adli Para Cezası Nedir? Hapis Cezasının Paraya Çevrilmesi, Adli Par
 keywords: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, adli para cezası taksit, Kamuya yararlı işte çalışma/Çalıştırma, Adli para cezası taksitlendirme, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
 ---
 
-##Adli Para Cezası Nedir? 
+## Adli Para Cezası Nedir? 
 
 
 TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. [***İdari Para Cezası,***](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html) suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez.  
