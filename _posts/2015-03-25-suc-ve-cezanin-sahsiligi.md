@@ -12,7 +12,7 @@ summary: Suç ve cezanın şahsiliği ilkesi, Ceza sorumluluğunun şahsiliği, 
 
 **Ceza sorumluluğunun şahsiliği ilkesi,** failin kendi fiilinden sorumlu olmasının sonucu olarak kişisel bir güvence sağlar. Diğer taraftan “kusursuz ceza olmaz” ilkesi, yani failin işlediği fiilin kendi kusurlu hareketinden kaynaklanması, kişinin özgür iradesiyle meydana getirdiği yapıp-etmelerine hukuk düzenince sonuç bağlanmasını sağlayarak bu kişisel güvenceyi sağlamlaştırır.
 
-![Ceza Avukatı](https://camo.githubusercontent.com/a51947d8011e7b2b4680b284eeed2b73e04ab54a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f36386b3934762e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/a51947d8011e7b2b4680b284eeed2b73e04ab54a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f36386b3934762e6a7067 "Ceza Avukatı")
 
 **Cezaların şahsiliği ilkesi,** tüzel kişilere cezai sorumluluk yüklenemeyeceği şeklinde genel bir anlayışın ceza hukukunda yerleşmesine neden olmuştur. Tüzel kişilere, organ veya temsilcinin fiil ve tasarrufları nedeniyle ceza yaptırımı uygulanamayacağı genel olarak kabul edilmektedir .  Elbette, bir suç nedeniyle tüzel kişinin tazminat sorumluluğu veya ceza hukuku alanını dışında bir özel hukuk sorumluluğu doğabilir. Ama ceza hukuku alanı ile ilgili tüzel kişinin cezai sorumluluğu olduğunu iddia etmek -her ne kadar bazı suçlarda tüzel kişiye para cezası verilebilse de- mümkün değildir.  
 
