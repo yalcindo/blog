@@ -7,7 +7,7 @@ keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ce
 summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları, Haksız Tahrikte Dengenin Bozulması, Haksız tahrik Ceza İndirimi, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Yaralama ve Adam Öldürme Suçunda Haksız Tahrik İndirimi
 ---
 
-##Haksız Tahrik Nedir?
+## Haksız Tahrik Nedir?
 
 **Haksız tahrik,** kişinin haksız bir fiilin kendisinde meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesi halinde ceza sorumluluğunu azaltan bir **ceza indirimi** nedenidir.  **Haksız tahrik** altında suç işleyen kişinin kusur yeteneğinde bir azalma söz konusudur. Kusur yeteneğinde azalma meydana gelen fail, haksız tahrik altında suç işlediğinden ceza indiriminden yararlanır.
 
