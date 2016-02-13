@@ -7,7 +7,7 @@ keywords: Uluslararası Ceza Mahkemesi, ceza avukatı, uluslararası suçlarda h
 summary: Uluslararası Ceza Mahkemesi'nin yargı yetkisine giren suçlarda hukuka uygunluk nedenleri olan meşru savunma, amirin emrini ifa ve zorunluluk hali incelenmiştir.
 ---
 
-### Hukuka Uygunluk Nedenleri Ne Demek?
+## Hukuka Uygunluk Nedenleri Ne Demek?
 
 
 Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldıran, fiili, ceza kuralının amacına aykırı olmaktan çıkaran nedenlere “hukuka uygunluk nedenleri” denilmektedir. **Uluslararası Ceza Mahkemesi** Statüsü'nde mahkemenin yargı yetkisine giren suçlara özgü hukuka uygunluk nedenleri mevcuttur.
@@ -15,7 +15,7 @@ Suç teşkil eden her fiilde bulunan hukuka aykırılık unsurunu ortadan kaldı
 
 ![Ceza Avukatı](https://camo.githubusercontent.com/38685a75433325b7c4437e66554d0373d9bb2898/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c45344438562e6a7067 "Ceza Avukatı")
 
-### #(1)	Amirin Emrini Yerine Getirme
+### (1)	Amirin Emrini Yerine Getirme
 ---
 
 Uluslararası Ceza Mahkemesi Statüsü’nün 33. Maddesi, “Üst Makam Emirleri ve Kanunun Tanımı” madde başlığıyla yetkili makamın emirlerini yerine getirmenin cezai sorumluluktan kurtulmak için yeterli olmadığını açıkça düzenlemiştir. Maddedeki düzenlemeye göre mahkemenin yargı yetkisine giren bir suçun, bir hükümet veya askeri veya sivil bir üst makam emrine uyan bir şahıs tarafından işlenmiş olması sanığı kural olarak cezai sorumluluktan kurtaramayacaktır (Statü m.31/1). Bu kuralın istisnasına da hemen akabindeki maddelerde yer verilmiştir. Buna göre, suç teşkil eden fiili işleyen fail:	
@@ -30,7 +30,7 @@ Kuralın istisnası olarak ifade edilen yukarıdaki üç durum bir arada bulunma
 
 Statü hemen sonraki, 33. maddenin 2.  fıkrasında da bu maddenin amaçları bakımından, soykırım veya insanlığa karşı suç işlenmesine yönelik emirlerin açıkça kanunsuz kabul edildiği hüküm altına alınmıştır. Tarihsel deneyimlerden hareketle UCM’de yargılanan sanıkların en çok işlediği ve insanlığı en derinden etkileyen iki suç tipi açısından özel düzenleme yapılması yerinde olmuştur.
 
-### #(2) Meşru Savunma
+### (2) Meşru Savunma
 ---
 
 Meşru savunma, kişinin, hukuk tarafından korunan haklarına karşı veya üçüncü kişilerin maruz kaldığı bu tür fiillere karşı kuvvet kullanarak saldırıyla orantılı karşı koymasıdır . 		
@@ -45,7 +45,7 @@ Meşru savunma ceza yargılamasının yapıldığı her yerde ceza hukuku sistem
 
 **iv.	Savunmaya ilişkin koşullar bulunmalıdır:** Savunma zorunlu bulunmalıdır, yani saldırıyı başka türlü defetme imkanı bulunmamalıdır. Sanığın kendisine veya başkasına veya maddede tanımlanan mallara yönelik saldırıyı defetmek üzere “makul hareket etmesi halinde” savunmanın zorunlu olduğunu kabul etmek gerekir. Ayrıca savunma saldırıyla orantılı bulunmalıdır. Saldırı ile savunma arasında orantılılık ilkesi açıkça	düzenlenmemiş olsaydı bile meşru savunma açısından olmazsa olmaz bir temel ilke olduğundan hakim tarafından saldırı ile savunma arasında bir orantı bulunup bulunmadığı somut olaya göre takdir edilecektir. Savunma fiilinin bizzat saldırıyı yapana yönelik olarak meşru savunma amacıyla yapılması da meşru savunma koşullarının gerçekleşmesi için hukuki bir zorunluluktur.
 
-### #3)  Zorunluluk Hali  	
+### 3)  Zorunluluk Hali  	
 ---
 	
 Zorunluluk hali, bir kimsenin bilerek neden olmadığı bir tehliken kendisini veya başkasını kurtarma zorunluluğu karşısında, üçüncü bir şahsa karşı suç teşkil eden ve tehlikeyi ortadan kaldırmaya yetecek ölçüde bir fiil işlenmesi zorunluluğunu doğuran bir haldir . Bu ceza hukuku kurumuyla, bir tehlikeyle karşı karşıya bulunan kişiye başka bir kimsenin hukuksal değerlerini ihlal etme yetkisi verilmektedir . Savaş suçlarına ilişkin yargılamalarda, suç teşkil eden fiilin zorunluluk hali nedeniyle işlenmesi, koşulları varsa geçerli bir savunma olarak kabul edilmektedir.
