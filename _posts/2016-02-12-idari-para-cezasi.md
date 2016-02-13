@@ -7,7 +7,7 @@ summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Ce
 keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
 ---
 
-##İdari Para Cezası Nedir?
+## İdari Para Cezası Nedir?
 
 
 **İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. **İdari para cezası** verebilecek kurumların bazıları şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü). Mahkemeler tarafından verilen para cezaları ise, hukuki sonuçları tamamen farklı olan [**Adli Para Cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) niteliğindeki cezalardır.
