@@ -42,7 +42,7 @@ Yargılanan kişiye verilen hapis cezanın ertelenmesi için kişinin daha önce
 
 Hapis Cezasının ertelenmesi, cezanın suçlunun kişiliğine uygun hale getirilmesi anlamını taşır. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususu yargıç tarafından değerlendirilerek ceza ertelemesi yapılıp yapılmayacağına karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olamaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay’ın denetimine imkan sağlayacak şekilde gerekçelendirecektir.
 
-####4) Hapis Cezasının Ertelenmesi İçin Zararın Giderilmesi Şartı
+#### 4) Hapis Cezasının Ertelenmesi İçin Zararın Giderilmesi Şartı
 
 
 Hakim tüm koşullar gerçekleşse bile cezanın ertelenmesini mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu **ceza erteleme** kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
