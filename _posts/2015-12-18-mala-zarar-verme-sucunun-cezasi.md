@@ -9,7 +9,7 @@ summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zara
 
 
 
-##Mala Zarar Verme Nedir?
+## Mala Zarar Verme Nedir?
 
 **Mala zarar verme,** başkasına ait bir malın yıkılması, tahrip edilmesi, yok edilmesi veya kirletilmesidir. Mala zarar verme suçu, başkasına ait malvarlığına zarar vermeye dönük hukuka aykırı müdahaleleri cezalandırmak amacıyla ihdas edilmiştir. Mala zarar verme suçu ile malvarlığı değerleri korunmak istendiğinden, bu suç  “Malvarlığına Karşı Suçlar” bölümünde TCK md. 151-152 arasında düzenlenmiştir.
 
@@ -24,27 +24,27 @@ Mala zarar verme suçu genel kast ile işlenebilen bir suçtur. Failin mala zara
 Mala zarar verme, seçimlik hareketlerle işlenebilen bir fiildir. Mala zarar verme fiilinin kaç farklı şekilde icra edilebileceği sınırlı bir şekilde TCK md. 151’de ifade edilmiştir. Kanunda sınırlı bir şekilde sayılan eylemler dışında mala zarar verme suçu işlenemez. TCK’ya göre mala zarar verme suçu, 6 farklı şekilde işlenebilir:
 
 
-### #1- Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
+#### 1- Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
 
 Her malın bir kullanım amacı vardır. Mal, kullanım amacını veya özgülendiği hizmeti yerine getirdiği müddetçe bir değere sahiptir. Fail, icra ettiği fiili ile malın niteliğini değiştirir veya mal özgülendiği fonksiyonu yerine getiremez hale gelirse malın bozulması, kullanılamaz hale getirilmesi suretiyle mala zarar verme suçu meydana gelir. 
 
-### #2-  Yıkmak Suretiyle Mala Zarar Verme
+#### 2-  Yıkmak Suretiyle Mala Zarar Verme
 
 Bir malın yıkılması, malın bünyesinde ciddi değişiklikler meydana getirilmesi anlamına gelir. Yıkmak fiiliyle, malın bünyesinde malı bozmaktan daha büyük bir değişiklik meydana gelmesi kastedilmiştir. Mesela, mağdura ait bir barakanın yıkılması veya evinin dış duvarının yıkılması yıkmak suretiyle mala zarar verme suçunun oluşmasına neden olur.
 
-### #3-  Tahrip Etme Suretiyle 
+#### 3-  Tahrip Etme Suretiyle 
 
 Bir mal kendisinden beklenen yararı ancak fiziksel özellikleri ve fonksiyonu ile yerine getirebilir. Malın tahrip edilmesi fiziksel özelliklerini kaybetmesine neden olur. Bir malı tahrip etmek demek, o malı kırıp dökmek, talan ve harap etmektir. Örneğin, mağdura ait evin camlarının kırılması evin tahrip edilmesi suretiyle mala zarar verme suçunu oluşturur.
 
-### #4- Yok Etme Suretiyle 
+#### 4- Yok Etme Suretiyle 
 
 Yıkılan, bozulan veya kullanılmaz hale getirilen bir mal tekrar tamir edilip fonksiyonu kazandırılabilir. Ancak failin ivra ettiği fiil nedeniyle bazen malın tamir edilmesi olanağı ortadan kaldırır. Malın yeniden onarılması veya kullanılmasını imkansız hale getirecek şekilde ve yoğunlukta işlenen fiil, yok etme suretiyle mala zarar verme suçunu oluşturur.
 
-### #5- Kirletmek Suretiyle 
+#### 5- Kirletmek Suretiyle 
 
 Kirletmek dışındaki tüm fiiller malın bütünlüğünü ortadan kaldıran, malın kullanılmasını zorlaştıran veya malı kullanılmaz hale getiren fiillerdir. Mala zarar verme fiili bazen eşyanın bütünlüğüne veya fiziksel yapısına zarar vermez. Ancak eşyanın “kirletilmiş” olması nedeniyle eski hale getirilmesi çaba ve masraf gerektirir. Malın kirletilmesi halinde kirletmek suretiyle mala zarar verme suçu oluşur.
 
-### #6- Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
+#### 6- Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
 
 Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TCK md. 151/2’ye göre sahipli bir hayvanı haklı bir gerekçe olmadan öldüren kişi mala zarar verme suçu hükümlerine göre cezalandırılacaktır.
 
@@ -53,11 +53,11 @@ Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TC
 
 ### Mala Zarar Verme Suçunun Cezası
 
-### #1- Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
+#### 1- Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
 
 Suçun basit şeklinden kastedilen şey yukarıda açıklanan fiillerin özel mülkiyete tabi normal bir mal aleyhine işlenmesidir. Mala zarar verme suçu, basit şekliyle işlendiğinde sanığa 4 aydan 3 yıla kadar hapis cezası veya adli para cezası verilir. Suçun basit şeklinde hakim ya hapis cezası  ya da adli para cezası verecektir. Her iki yaptırım aynı anda uygulanamaz.
 
-### #2- Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
+#### 2- Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
 
 Mala zarar verme suçunun nitelikli halleri, zarar verilen eşyanın niteliğinden dolayı cezanın ağırlaştırılmasını gerektirir. Suçun;
 
