@@ -21,7 +21,7 @@ Suçun nitelikli halleri ve “basit tıbbi müdahale (BTM) ile giderilemeyecek�
 
 ### ![Kasten Adam Yaralama Suçu](https://camo.githubusercontent.com/46bce472fc250ee32420892cc84ccc28fa3aac92/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e4c6c5a5a672e6a7067 "Kasten Adam Yaralama Suçu")
 
-##Kasten Adam Yaralama Suçunun İşlenme Biçimleri
+## Kasten Adam Yaralama Suçunun İşlenme Biçimleri
 
  
 
