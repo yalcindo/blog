@@ -77,7 +77,7 @@ Avukat, AB üyesi bir devlette mesleğini ifa eden bir meslektaşının meslek k
 
 ### Avukat - Müvekkil İlişkisi
 
-### #1. Avukat – Müvekkil İlişkisinin Başlaması ve Bitmesi
+#### 1. Avukat – Müvekkil İlişkisinin Başlaması ve Bitmesi
 
 **Avukat,** ancak müvekkilden vekalet aldığında faaliyetine başlar.  Yetenek ve bilgisi dışındaki bir iş kabul etmemekle mükelleftir. Avukat acil olarak ilgilenmesi gereken başka işler var ise kendisine gelen acil bir işi almamalıdır.
 
@@ -85,7 +85,7 @@ Avukat, AB üyesi bir devlette mesleğini ifa eden bir meslektaşının meslek k
 
 Avukat - müvekkil ilişkisi vekalet ilişkisinin bitmesiyle sona erer.
 
-### #2. Avukat ve Menfaatlerin Çatışması
+#### 2. Avukat ve Menfaatlerin Çatışması
 
 Savunduğu birden fazla müvekkilinin menfaatleri arasında çatışma meydana geleceğini gören avukat, aynı dava veya işte birden fazla müvekkili temsilen avukatlık yapamaz. Menfaat çatışması ortaya çıktığında veya bağımsızlığı zedelendiğinde avukat müvekkillerinin o davadaki işlerini bırakmak zorundadır.
 
@@ -93,14 +93,14 @@ Yeni müvekkilinin işinde eski müvekkilinin sırları ortaya çıkacaksa avuka
 
 ![Boşanma Avukatı](https://camo.githubusercontent.com/f92a01a3fe083bb46defa61503a3889218a37e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f346b375834702e6a7067 "Avukat")
 
-### #3. Avukat ve Vekalet Ücreti
+#### 3. Avukat ve Vekalet Ücreti
 
 Avukat tarafından işin takibi için alınacak vekalet ücreti hakkaniyete uygun olmalıdır. Vekalet ücreti konusunda müvekkil avukat tarafından yeterince bilgilendirilmelidir.
 
 Müvekkil ile  vekalet ücret sözleşmesi yoksa avukat üyesi bulunduğu baronun normlarıyla bağlıdır.
 **Avukat,** işin takibi için makul oranda bir avans talep edebilir. Avans ödenmediği zaman çekilme hakkını kullanabilir.
 
-### #4. Avukat ve Mesleki Sorumluluk Sigortası
+#### 4. Avukat ve Mesleki Sorumluluk Sigortası
 
 Avukat mesleki faaliyetini yaptığı işle orantılı bir şekilde sigortalayarak güvence altına almalıdır. AB üyesi başka bir ülkede mesleğini yaparken avukat üyesi olduğu baronun bulunduğu yerin sigorta yükümlülüğü kurallarına tabidir.
 
