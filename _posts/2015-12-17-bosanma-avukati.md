@@ -9,7 +9,7 @@ keywords: Avukat, boşanma avukatı, boşanma davası, boşanma sebepleri, boşa
 
 ---
 
-##Boşanma Avukatı Nedir?
+## Boşanma Avukatı Nedir?
 
 **Boşanma avukatı**, halk arasında boşanma davalarına giren avukatlara verilen isimdir. Boşanma süreci, evli çiftler için zorlu ve yıpratıcı bir süreçtir. Bu süreçte profesyonel hukuki yardım almak bu zorlu sürecin üstesinden gelmeye yardımcı olacaktır. Esasen hukuk sistemimizde **boşanma avukatı** adıyla ayrı bir avukatlık dalı yoktur. Halk arasında boşanma davalarında davacı veya davalının avukatlarına boşanma avukatı denildiğinden biz de bu kavramı kullanmayı tercih edeceğiz.
 
