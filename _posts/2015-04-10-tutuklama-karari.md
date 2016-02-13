@@ -31,7 +31,7 @@ iii) risk koşulu (kaçma, saklanma; delilleri yok etme, gizleme veya değiştir
 
 Tutuklama koşulları açısından Sözleşmenin (m. 5/1) ikinci cümlesi ve (m. 5/1-c) bendi birlikte ele almak gerekmektedir. Sözleşme’nin (m. 5/1) ikinci cümlesi, özgürlükten yoksun bırakmanın ‘hukukun öngördüğü usule’ uygun olması koşulunu getirmektedir. Yine Sözleşme’nin (m. 5/1-c) bendi de, “bir kimsenin suç işlediğinden makul kuşku duyulması üzerine”, “hukuka uygun olarak” olarak tutuklanabileceğini öngörmektedir.
 
-![Tutuklama Kararı](https://camo.githubusercontent.com/7ad97e0014135974b0cd06df1837195170d271ef/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a4a564f47672e6a7067 "Tutuklama Kararı")
+### ![Tutuklama Kararı](https://camo.githubusercontent.com/7ad97e0014135974b0cd06df1837195170d271ef/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a4a564f47672e6a7067 "Tutuklama Kararı")
 
 
 Dolayısıyla Sözleşme’nin bir tutuklama kararında aradığı iki temel koşul vardır. Bir tutuklama kararı:
@@ -49,7 +49,7 @@ AİHM, Sözleşme’nin (m. 5/ 1) fıkrasındaki ‘hukuka uygun’ ve ‘hukuku
 Sözleşme’nin (m. 5/ 1- c) bendi, yakalama/gözaltı ve **tutuklama** için ayrı kuşku koşulları değil, kişinin ‘suç işlediğinden makul kuşku duyulması’ koşulunu getirmiştir. AİHM, “makul kuşku” deyiminden ne anladığını açıklamıştır: Makul kuşkuya sahip olmak, objektif bir gözlemciyi söz konusu kimsenin suç işlemiş olabileceği konusunda ikna edebilecek maddi olayların veya bilgilerin varlığını gerektirmektedir. Bununla birlikte neyin “makul kuşku” oluşturduğu, olayın nesnel koşullarına bakılarak sonuca varılmalıdır.
 
 
-![Tutuklamaya İtiraz](https://camo.githubusercontent.com/84a279a8ec195e9e88ac8c8d0fd753fc96210b3b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304c6b4562442e6a7067 "Tutuklamaya İtiraz")
+### ![Tutuklamaya İtiraz](https://camo.githubusercontent.com/84a279a8ec195e9e88ac8c8d0fd753fc96210b3b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304c6b4562442e6a7067 "Tutuklamaya İtiraz")
 
 
 ### 5. İç Hukukta Tutuklama Koşulları
@@ -73,7 +73,7 @@ Yasal düzenleme kapsamında **tutuklama kararı** verilemeyecek haller öncelik
 
 
 
-![Ceza Avukatı](https://camo.githubusercontent.com/343f73829f4173f866056b03997162ef4d8db277/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4234304c5a392e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/343f73829f4173f866056b03997162ef4d8db277/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4234304c5a392e6a7067 "Ceza Avukatı")
 
 #### b) Tutuklama Kararı ve Katalog Suç Koşulu
 
