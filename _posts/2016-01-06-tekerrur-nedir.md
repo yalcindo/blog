@@ -9,7 +9,7 @@ summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartl
 
 ### ![Tekerrür Nedir](https://camo.githubusercontent.com/61666b6eeb63cfee03ca2339dae550bd416bf85f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f413537796a372e6a7067)
 
-##Tekerrür Nedir?
+## Tekerrür Nedir?
 
 **Tekerrür**,  daha önce işlenen bir suçun cezası kesinleştikten belli bir süre sonra ikinci bir suç işlenmesidir.  Suçta tekerrür, ancak ilk işlenen suç kesinleşmişse söz konusu olabilir. Suçta tekerrür hükümleri uygulanan mahkum, cezasını **“mükerrirlere özgü infaz rejimi”** çerçevesinde infaz eder. Tekerrür, hükümlünün ikinci kere suç işlemesi nedeniyle, ilk kez suç işleyen bir kişiye göre daha ağır bir yaptırım sistemiyle karşılaşması için TCK md. 58'de düzenlenmiştir.
 
@@ -18,7 +18,7 @@ summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartl
 **Suçta tekerrür**, bazı hukuk sistemlerinde maddi ceza hukuku kurumu olup cezayı arttıran bir neden olarak düzenlenmişken bazı hukuk sistemlerinde bir infaz hukuku kurumu olarak cezanın infaz süresini arttıran bir neden olarak düzenlenmiştir. İster bir infaz hukuku kurumu isterse bir maddi ceza hukuku kurumu olsun, tekerrür  hükümleri uygulanan hükümlünün özgürlüğü daha fazla kısıtlanmış olur.
 Türkiye’nin mevcut hukuk sisteminde tekerrür, bir infaz hukuku kurumudur.  Ancak, 5237 sayılı TCK’nın 58. maddesinde tekerrür bir güvenlik tedbiri olarak da düzenlenmiştir.  Tekerrürün hem infaz hukuku kurumu olmasının hem güvenlik tedbiri olmasının yarattığı hukuki neticelere ileride değineceğiz.
 
-##Suçta Tekerrür Hükümlerinin Uygulanma Şartları
+## Suçta Tekerrür Hükümlerinin Uygulanma Şartları
 
 Yargılanan bir kişinin iki kere suç işlemiş olması tekerrür hükümlerinin uygulanması için yeterli değildir. Suçta tekerrür hükümleri belli koşulların oluşması halinde uygulanabilir. Bu koşullar şunlardır:
 
