@@ -7,7 +7,7 @@ keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, doland�
 summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve Cezası, Banka ve Kredi Kurumları Araç Yapılarak Dolandırıcılık Suçu, Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu, Dolandırıcılık Suçu Yargıtay Kararları
 ---
 
-##Dolandırıcılık Suçu Nedir?
+## Dolandırıcılık Suçu Nedir?
 
 **Dolandırıcılık suçu,** failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. **Nitelikli dolandırıcılık suçu** ise suçun belli dini, sosyal, mesleki, teknolojik araçların veya kamu kurumlarının araç olarak kullanılarak işlenmesidir.
 
@@ -17,11 +17,11 @@ Dolandırıcılık suçunun meydana gelmesi için haksız bir çıkar sağlanmas
 
 
 
-##Dolandırıcılık Suçu Şikayet Süresi
+## Dolandırıcılık Suçu Şikayet Süresi
 
 Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suçun işlendiğini öğrenir öğrenmez kendiliğinden soruşturma yapmak ve suçun işlendiği kanaatindeyse kamu davası açmak zorundadır. Dolandırıcılık suçu için şikayet süresi yoktur. Ancak suçun en basit halinde dava zamanaşımı süresi 8 yıl olduğundan en geç 8 yıl içinde şikayet hakkının kullanılarak olayın savcılığa bildirilmesi gerekir.
 
-##Dolandırıcılık Suçunun Şartları
+## Dolandırıcılık Suçunun Şartları
 
 **Dolandırıcılık suçu,** birçok farklı hareket tarzıyla işlenebilecek bir suçtur. Ancak tüm hareketlerin ortak altyapısını teşkil eden, dolandırıcılık suçunun şartları olarak nitelenebilecek üç koşul vardır:
 
@@ -32,7 +32,7 @@ Dolandırıcılık suçunun takibi şikayete bağlı değildir.  Savcılık suç
 *  Mağdurun veya başkasının zararına, kendisi veya başkası yararına haksız bir fayda elde edilmelidir. Fiili işleyen kişi, kendisi veya başkası lehine fayda elde etmek için bilerek ve isteyerek hileli hareketler icra etmeli, mağdura verilen zarar ile fiili işleyenin eylemi arasında uygun illiyet bağı mevcut olmalıdır. Zarar, objektif şahsi ölçüler dikkate alınarak belirlenecek ekonomik zarardır.
 
 
-##Dolandırıcılık Suçu ve Hile
+## Dolandırıcılık Suçu ve Hile
 
 Dolandırıcılık suçunun unsurlarından olan hile, nitelikli bir yalandır. Hile teşkil eden yalan belli ölçüde ağır ve yoğun olmalı, ustaca sergilenerek mağdurun yalanı kontrol ihtimaline imkan vermemelidir. Dolandırıcılık suçu şartlarının oluşabilmesi için fail, kullandığı hile ile mağduru yanıltmalı, aldatıcı davranış ve yalanlara itibar eden mağdurdan haksız çıkar elde etmelidir. Hilenin aldatıcı bir yalan olup olmadığı olayın özellikleri dikkate alınarak değerlendirilmeli. Mağdurun sübjektif durumu, eğitimi, fiil ile ilişki biçimi, yapılan hilenin şekli, hile için belge kullanılmışsa gizlenen veya değiştirilen belgenin özellikleri ayrı ayrı dikkate alınmalıdır.
 
@@ -43,7 +43,7 @@ Nitelikli bir yalan yoksa  dolandırıcılık suçu şartları oluşmaz. Hileli 
 
 
 
-##Nitelikli Dolandırıcılık Suçunun Unsurları ve Şartları
+## Nitelikli Dolandırıcılık Suçunun Unsurları ve Şartları
 
 **Nitelikli dolandırıcılık suçu,** TCK’nın 158. Maddesinde düzenlenmiştir.  Nitelikli dolandırıcılık suçu, dolandırıcılık teşkil eden fiilin şu şekillerde işlenmesi halinde söz konusu olur:
 
@@ -131,11 +131,11 @@ Mağdurun bu fiil nedeniyle şikayetçi olması halinde, faile 6 aydan 1 yıla k
 ### Dolandırıcılık Suçunun Cezası
 
 
-### #1. Basit Dolandırıcılık Suçunun Cezası (TCK md. 157)
+#### 1. Basit Dolandırıcılık Suçunun Cezası (TCK md. 157)
 
 Basit dolandırıcılık suçunun cezası TCK md. 157’de düzenlenmiştir. Buna göre, basit dolandırıcılık suçunda fail 1 yıldan 5 yıla hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. Madde metninde hapis cezası ve adli para cezası birlikte aynı yaptırımın birer parçası olarak düzenlenmiştir. Yani faile hem hapis cezası hem de adli para cezası aynı anda verilecektir. Faile verilecek adli para cezasının miktarı meydana gelen zararın büyüklüğüne göre belirlenecektir.
 
-### #2. Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
+#### 2. Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
 
 *Nitelikli dolandırıcılık suçunun cezası* TCK md. 158’de düzenlenmiştir. Buna göre nitelikli dolandırıcılık suçu işleyen fail, 2 yıldan 7 yıla kadar hapis cezası ve beşbin güne kadar adli para cezası ile cezalandırılır. Ancak,  kamu kurum ve kuruluşlarının zararına olarak, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle, banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla veya sigorta bedelini almak maksadıyla suçun işlenmesi hallerinde suçun cezasının alt sınırı 3 yıldan az olamaz, verilecek adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
