@@ -21,21 +21,21 @@ summary: Meşru Müdafaa (Meşru Savunma) Nedir? Meşru Müdafaanin Şartları, 
 
 Saldırıya dair şartlar,  tamamen karşı taraftan kaynaklanan ve saldırının ağırlığını bu çerçevede yapılacak savunmanın sınırlarını çizen şartlardır. Bu şartlar şunlardır:
 
-### #a. Meşru Savunma Hali İçin Bir Saldırı Bulunmalıdır
+#### a. Meşru Savunma Hali İçin Bir Saldırı Bulunmalıdır
 
 Meşru savunmanın ilk koşulu bir saldırı bulunmasıdır. Saldırı kavramını geniş anlamak gerekir. Başladığı takdirde savunma yapma imkanını ortadan kaldıracak veya savunma yapmayı güçleştirecek bir saldırı başlamış bir saldırı olarak değerlendirilmektedir. Yine, bittiği halde tekrarlanmasından endişe duyulan bir saldırı da henüz sona ermemiş bir saldırı olarak kabul edilmektedir.  Bu ihtimallerin tamamında saldırı vardır ve **meşru savunma** hakkının kullanılabilmesi için ilk koşul gerçekleşmiştir.
 
-### #b. Meşru Müdafaa İçin Haksız Bir Saldırı Bulunmalıdır					
+#### b. Meşru Müdafaa İçin Haksız Bir Saldırı Bulunmalıdır					
 
 Faile veya başkasına yönelen saldırı, haksız nitelikte bir saldırı olmalıdır. Saldırının meşru bir gerekçesi varsa, failin meşru müdafaa hükümlerinden yararlanması mümkün değildir. Örneğin, intihar etmek isteyen bir kimseye müdahale ederken güç kullanılması halinde, intihar eden şahsın kendisini engellemeye çalışan kişiye karşı savunma yaparak darp etmesi halinde, darp fiili için meşru müdafaa hükümleri uygulanamaz.
 
-### #c. Saldırı Meşru Müdafaa İle Korunabilecek Bir Hakka Yönelmeli						
+#### c. Saldırı Meşru Müdafaa İle Korunabilecek Bir Hakka Yönelmeli						
 
 Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırının **meşru müdafaa** ile korunabilecek bir hakka yönelik olması gerekir. Failin, meşru savunma ile korunması mümkün olmayan bir hakkı koruması halinde meşru savunma hükümlerinden yararlanması mümkün değildir. Örneğin, komşusunun arazisinde sahip olduğu geçit hakkının kapatılmasına karşı komşusunu darp eden fail meşru müdafaa hükümlerinden yararlanamaz. Çünkü saldırı meşru savunma ile korunabilecek bir hakka yapılmamıştır.
 
 **Meşru savunma** ile korunmak istenen hakkın faile veya bir başkasına ait olmasının hiçbir önemi yoktur.
 
-### #d. Meşru Müdafaada Saldırı ile Savunma Eşzamanlı Olmalı
+#### d. Meşru Müdafaada Saldırı ile Savunma Eşzamanlı Olmalı
 
 **Meşru müdafaa,** faile yapılan saldırıyla aynı zamanda yapılmalıdır. Savunma ile saldırı aynı zamanda gerçekleşmemişse meşru savunma hükümleri uygulanamaz. Saldırı başlamadığı veya başlama ihtimalinin düşük olduğu hallerde veya saldırının bittiği hallerde meşru savunma hakkı kullanılamaz.
 
@@ -47,15 +47,15 @@ Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırın
 
 **Meşru müdafaa,** hem saldırı açısından hem de müdafaa açısından uygulama yapılırken her fiil için ayrı ayrı değerlendirilmesi gereken bir kurumdur. Savunmaya ilişkin koşullar, saldırıya ilişkin şartlarla aynı anda vücut bulmalıdır. Bu şartlar şunlardır:
 
-### #a. Meşru Müdafaa İçin Savunma Zorunlu Olmalıdır
+#### a. Meşru Müdafaa İçin Savunma Zorunlu Olmalıdır
 
 Saldırıdan savunma yapmadan başka bir şekilde kurtulmak mümkünse, fail meşru müdafaa hükümlerinden yararlanamaz. Failin içinde bulunduğu durum ve şartlarda,  savunma yapmak saldırıdan kurtulmak için gerekli olmalıdır.
 
-### #b. Meşru Savunma Saldırana Karşı Yapılmalıdır
+#### b. Meşru Savunma Saldırana Karşı Yapılmalıdır
 
 Fail, saldırıyı yapan kişiye karşı meşru savunmada bulunabilir. Saldırıyla ilgisi olmayan üçüncü kişilere karşı yapılan eylem, **meşru savunma** eylemi olarak kabul edilemez. Örneğin, A ve B adında iki kardeş yolda yürürken, A yolda karşılaştığı C kişisiyle tartışarak C’ye saldırmış ve darp etmiştir. B kavgaya karışmamasına rağmen C de  B’yi darp etmiştir. C şahsı burda **meşru müdafaa** hükümlerinden yararlanamaz. Çünkü meşru savunma fiilini saldırana değil, saldıranın kardeşi olan B’ye yapmıştır.
 
-### #c. Meşru Müdafaada Saldırı ile Savunma Orantılı Olmalıdır
+#### c. Meşru Müdafaada Saldırı ile Savunma Orantılı Olmalıdır
 
 Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile saldırı arasında orantılılık ilkesine uyulup uyulmadığı hususudur. Saldırı ile savunma orantılı olmadığı takdirde meşru müdafaa hükümleri uygulanmaz. Savunmada aşırıya kaçılması halinde fail ya haksız tahrik hükümlerinden ya da meşru savunmada sınırın aşılması hükümlerinden yararlanabilir. Örneğin, kendisine yumruk atan birini silahla vurup öldüren kişi **meşru müdafaa şartları** gerçekleşmediği için yalnızca haksız tahrik indiriminden yararlanabilir.
 
