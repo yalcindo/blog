@@ -23,7 +23,7 @@ keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir,
 
 **Bilişim suçları,** savcılık tarafından kendiliğinden soruşturulması gereken suçlardandırlar. Bu nedenle, tüm bilişim suçlarının soruşturulması şikayete tabi değildir. Savcılık bilişim suçunu kendiliğinden soruşturmalıdır. Ancak, TCK’daki zamanaşımı süreleri içinde savcılığa bildirimde bulunulursa etkili bir soruşturma yapılabilir. TCK’ya göre en basit **bilişim suçu**nun zamanaşımı 8 yıldır.
 
-##TCK’da Düzenlenen Bilişim Suçları Nelerdir?
+## TCK’da Düzenlenen Bilişim Suçları Nelerdir?
 
 ### 1- Bilişim Sistemine Girme Şeklindeki Bilişim Suçu (TCK md. 243/1)
 ---
