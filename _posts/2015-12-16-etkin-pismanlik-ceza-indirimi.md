@@ -10,7 +10,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık
 
 
 
-##Etkin Pişmanlık Ceza İndirimi Nedir? 
+## Etkin Pişmanlık Ceza İndirimi Nedir? 
 
 
 **Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukları gidermesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin **etkin pişmanlık** göstermesi halinde suçun niteliğine göre **ceza indirimi** veya cezalandırılmaması sonucu ortaya çıkar. Bu uygulama halk arasında **etkin pişmanlık yasası** olarak da bilinmektedir. Fakat, etkin pişmanlık yasasından kastedilen şey çoğunlukla bazı suçlardan sonra ceza indirimini düzenleyen TCK hükümleridir.
