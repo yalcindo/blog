@@ -9,7 +9,7 @@ summary: Adli Para Cezası Nereye Ödenir? Adli Para Cezası Nasıl Ödenir? Mah
 
 Ceza mahkemelerinde yapılan yargılama neticesinde yargılanan kişiye hapis cezası yerine  [**Adli Para Cezası**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) verilebilmektedir. Adli para cezası ödenmediği takdirde hapis cezası ile sonuçlanabilecek bir sürece neden olabilir. Adli para cezasına halk arasında **mahkeme para cezası** da denilmektedir. 
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/7d9e5240a89030845bc3ed978402b0330c87ed46/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3279416a2e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/7d9e5240a89030845bc3ed978402b0330c87ed46/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a3279416a2e6a7067 "Ceza Avukatı")
 
 **Adli Para Cezası Nereye Ödenir? Nasıl Yatırılır?**
 

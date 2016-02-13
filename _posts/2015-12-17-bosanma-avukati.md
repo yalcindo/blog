@@ -18,7 +18,7 @@ Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin 
 [![Avukat](http://i.hizliresim.com/XoV6m0.jpg)](https://hizliresim.com/XoV6m0)
 
 
-###Boşanma Sebepleri ve Boşanma Avukatının Dava Hazırlığı
+### Boşanma Sebepleri ve Boşanma Avukatının Dava Hazırlığı
 
 
 
@@ -40,7 +40,7 @@ Boşanma avukatı, olguları değerlendirerek boşanma davası açmak için yete
 
 Boşanma sebebinin doğru tespit edilmesi çok önemlidir. Çünkü, hakim davacının boşanma sebebine göre davayı inceleyecektir. Bu yüzden davanın hazırlık süreci mutlaka boşanma avukatı ile birlikte yürütülmelidir. 
 
-###Boşanma Davası ve Boşanma Avukatı
+### Boşanma Davası ve Boşanma Avukatı
 
 
 Boşanma avukatı, doğru boşanma sebeplerini tespit ettikten sonra dava dilekçesini buna göre hazırlayacaktır. Özellikle tarafların birbirlerinden boşanma dışında talepleri de olabilir. Boşanma avukatı, müvekkiline şu soruları sorarak talepleri netleştirmelidir:
@@ -58,7 +58,7 @@ Boşanma avukatı, müvekkili dinledikten sonra boşanma sebeplerini ve talepler
 
 [![Boşanma Avukatı](http://i.hizliresim.com/L4kDz0.jpg)](https://hizliresim.com/L4kDz0)
 
-###Boşanma Davası Süreci ve Boşanma Avukatı
+### Boşanma Davası Süreci ve Boşanma Avukatı
 
 
 
@@ -70,7 +70,7 @@ Hakim, ilk duruşmada (ön inceleme duruşmasında) gerekli tespitleri yaptıkta
 
 Boşanma avukatının tanıklara doğrudan soru sorma hakkı vardır. Davayı aydınlatmak, tanık beyanlarındaki çelişkileri gidermek ve müvekkili lehine olguları ortaya çıkarmak için boşanma avukatı dilediği kadar soru sorabilir.
 
-###Boşanma Avukatı ve Kararın Temyizi
+### Boşanma Avukatı ve Kararın Temyizi
 
 Boşanma davasında hakimin verdiği hüküm ne olursa olsun her iki tarafın temyiz hakkı vardır. Boşanma davası, evlilik birliğini sona erdiren nihai bir kararla sonuçlanırsa, tarafların temyiz incelemesi için Yargıtay'a başvuru hakkı doğar. Temyiz incelemesi sonucu veya temyiz edilmeyerek karar kesinleşirse nüfus müdürlüğüne yazı yazılarak tarafların nüfus kayıtlarının mahkeme kararına göre düzenlenmesi sağlanır. Yerel mahkemede boşanma davasını takip eden boşanma avukatının görevi hüküm kesinleşinceye kadar devam eder.
 

@@ -10,7 +10,7 @@ summary: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel Ha
 
 
 
-###![Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları](https://camo.githubusercontent.com/851281becfafcc4fca5877d8989edf4990a63766/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32386c6a42452e706e67 "Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları")
+### ![Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları](https://camo.githubusercontent.com/851281becfafcc4fca5877d8989edf4990a63766/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32386c6a42452e706e67 "Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları")
 
 [Özel hayatın gizliliğini ihlal suçu,](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html) kişinin özel hayatına dair başkaları tarafından bilinmesini istemediği özel alanına izinsiz girilmesini cezalandırmaktadır.
 
@@ -35,7 +35,7 @@ TCK’nın 134/2. maddesinde, kişilerin özel hayatına ilişkin görüntü vey
 Özel hayatın gizliliğini ihlal suçu nedeniyle sanığın TCK 134/1 maddesi gereği mahkumiyetine ilişkin ssul ve yasaya uygun yerel mahkeme hükmün ONANMASINA karar verilmiştir."               
 
 
-###![İstanbul Ceza Avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "İstanbul Ceza Avukatı")
+### ![İstanbul Ceza Avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "İstanbul Ceza Avukatı")
 
 
 Yukarıdaki yargıtay kararı ile özel hayatın gizliliğini ihlal suçu ile gazetecilik, haber yapma hakkı, basın yayın faaliyeti arasındaki ilişki tartışılmıştır. 

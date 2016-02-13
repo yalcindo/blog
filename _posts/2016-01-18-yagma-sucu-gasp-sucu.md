@@ -14,20 +14,20 @@ summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma su�
 **Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, TCK'nın 148. ve 150. maddeleri arasında düzenlenmiştir. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. Yağma suçu, hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
 
 
-###![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
+### ![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
 
 ##Yağma Suçunun (Gasp Suçunun) Şartları
 ---
 
 
-###1- Başkasına Ait Olan Malın Alınması 
+### 1- Başkasına Ait Olan Malın Alınması 
 
 
 Gasp (Yağma) suçu ile hırsızlık suçunun en önemli ortak unsuru başkasına ait malın alınmasıdır. Başkasının malın zilyedi olması yeterlidir, zilyedin elinden malın alınmasıyla her iki suç oluşur. Zilyedlik, bir mal üzerinde fiili hakimiyete sahip olma anlamına gelmektedir. Bu nedenle mülkiyet kavramından daha geniş bir kavramdır.  Aynı ev içerisinde yaşayanlar ev eşyaları üzerinde birlikte zilyetlik hakkına sahip olduklarından, aynı ev içerisinde yaşayan kişilerin ortak ev eşyalarını alması halinde hırsızlık veya gasp suçu oluşmaz. Doktrinde ve uygulamada yalnız taşınır malların alınmasının yağma ve hırsızlık suçuna vücut verebileceği kabul edilmektedir.
 
 **Senet yağması** da ayrı bir fıkra ile TCK md.148’de düzenlendiğinden, bir borç senedinin cebir veya tehdit kullanılarak alınması veya borç senedini hükümsüz kılacak makbuzun mağdurun elinden alınması da yağma suçunu oluşturur. 
 
-###2- Yağma Suçunda Cebir ve Tehdit  
+### 2- Yağma Suçunda Cebir ve Tehdit  
 
 
 [Tehdit](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), bir kimsenin iç huzuruna, karar verme hürriyetine ve serbest hareket etme özgürlüğüne yönelik bir müdahale olup suç teşkil eder. Cebir ise bir kimseye bir şeyi yapması veya yapmaması için zor kullanmak olarak tarif edilebilir.
@@ -40,14 +40,14 @@ Yağma suçunda mağdur tehdit edilmekte veya mağdura cebir uygulanmaktadır. M
 ---
 
 
-###1- Gasp Suçunun Basit Şekli [(TCK md.148)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
+### 1- Gasp Suçunun Basit Şekli [(TCK md.148)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
 
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütü üyesi olmadan, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır.
 
 Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
-###2- Gasp Suçunun Nitelikli Şekli [(TCK md.149)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
+### 2- Gasp Suçunun Nitelikli Şekli [(TCK md.149)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
 
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi gasp suçunun nitelikli bir şekilde işlenmesidir:
@@ -72,7 +72,7 @@ Bu hallerde, gasp suçunun nitelikli şekli işlendiğinden suçun cezası da ar
 
 Yağma suçunun nitelikli hallerinden birinin işlenmesi halinde suçun cezası, 10 yıldan – 15 yıla kadar hapis cezasıdır. Yargıç birden fazla nitelikli halin işlendiğini görürse suçun cezasını alt sınırdan ayrılarak belirler. Örneğin, mağdura karşı birden fazla kişi tarafından gece vakti silahla gasp suçu işlendiğinde yargıç alt sınır olan 10 yıl değil, alt sınırdan ayrılarak 12 yıl ceza verebilecektir. Yargıç, hangi oranda alt sınırdan ayrılacağını belirlerken bazı kriterlere dikkat etmek zorundadır. Suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun konusunun önem ve değeri, meydana gelen zararın ağırlığı, failin kastının yoğunluğu, failin amacı ve saiki ceza miktarının belirlenmesinde ölçü olarak alınacaktır.
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/52871d483b1217f5e6f9d8d2af61600991f82758/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32676c6d672e6a7067 "Ceza Avukatı")
 
 Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia ve savunmanın mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
 
@@ -112,7 +112,7 @@ Yani, silahla yağma suçu işleyen kişi dava açılmadan önce mağdurun zarar
 
 ##Yağma Suçu Yargıtay Kararları    
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
 
 ---
 

@@ -16,7 +16,7 @@ Bu tarz torba yasalar hukuk metodolojisinden yoksun olduğundan hukuksal kavraml
 
 
 
-###Polise Vatandaşın Üstü, Eşyası ve Aracını Arama Yetkisi
+### Polise Vatandaşın Üstü, Eşyası ve Aracını Arama Yetkisi
 
 
 Esasen polisin ister yaya isterse araçla seyir halindeyken vatandaşı durdurma ve kimlik sorma yetkisi 2007 yılında yasalaşmıştı. İşte bu durdurma yetkisinin çerçevesi mevcut kanun tasarısıyla genişletilmiştir.
@@ -31,7 +31,7 @@ Mevcut uygulamada polis yargısal karar olmadan durdurma işlemi yaptığında, 
 
 
 
-###Polise Toplumsal Olaylarda Silah Kullanma Yetkisi
+### Polise Toplumsal Olaylarda Silah Kullanma Yetkisi
 
 
 Polisin silah kullanma yetkisi, yürürlükteki Polis Vazife ve Salahiyet Kanunu değişikliğiyle 2007 yılında genişletilmişti. Kanun tasarısına göre toplantı ve gösteriler sırasında *“Molotof, patlayıcı, yanıcı, yakıcı,* ***yaralayıcı ve benzeri silahlarla***" saldıran veya saldırıya teşebbüs edenleri ( Tasarı md. 1/4 – d ) etkisiz kılmak amacıyla silah kullanabilecek.
@@ -45,7 +45,7 @@ Silah kullanma yetkisini denetlemek açısından avukata, özellikle [**ceza avu
 
 
 
-###Telefon Dinlemelerinde Tek Mahkeme Düzeni
+### Telefon Dinlemelerinde Tek Mahkeme Düzeni
 
 
 Yürürlükte bulunan mevcut kanunlara göre Jandarma ve Emniyet telefonları idari bir emirle dinlemekte, eğer gecikmesinde sakınca bulunan bir hal varsa idari karar hakimin onayına sunmaktadır. Gecikmesinde sakınca bulunan bir hal yoksa idari emir, dinleme işleminin sonuna kadar hakime bildirilmemektedir. Mevcut haliyle bile hukuka aykırı olan telefon dinleme usulü tasarıyla daha da hukuksuz hale getirilmiştir. Yürülükteki düzenlemede ilgilisinin talebi üzerine dinlemenin yapıldığı yere göre yetkili hakim belirlenmiştir. Yani Türkiye’deki tüm hakimler yasal koşullar uygunsa dinlemenin hukukiliği denetimini yapmaya yetkiliydi. Kanuni hakim güvencesine uygun olan bu düzenleme Kanun Tasarısı’yla değiştirilerek Jandarma ve Emniyet’in yaptığı telefon dinlemelerinin hukukiliğinin tek mahkeme tarafından denetlenmesi sağlanmıştır. Bundan böyle Türkiye çapındaki tüm telefon dinlemeleri için hukukilik denetimi yapacak tek mercii Ankara Ağır Ceza Mahkemesi Üye Hakimleri’dir.
@@ -54,7 +54,7 @@ Telefon dinlemeleri vatandaşın özel alanına devletin pervasızca müdahalesi
 
 
 
-###Toplantı ve Gösteri Yürüyüşlerine Ağır Cezalar
+### Toplantı ve Gösteri Yürüyüşlerine Ağır Cezalar
 
 
 Türkiye’de sık sık “tehlike suçu” düzenlemelerine yer verilmektedir. Tehlike suçu, doğrudan zarar sonucu doğurmasa da sadece davranışın cezalandırıldığı suç tipidir. Hukuk tekniğine uygun düzenleme yapılmazsa, bu suç tipi düşüncenin yargılanmasını dahi mümkün kılar.
@@ -67,7 +67,7 @@ Eğer tasarı bu şekilde yasalaşıp uygulanırsa Türkiye’nin daha büyük h
 
 
 
-###Yeni Gözaltına Alma Rejimi
+### Yeni Gözaltına Alma Rejimi
 
 
 Kanun Tasarısı’nın genel olarak polisin toplumsal etkisini arttırmaya dönük hazırlandığını yazının giriş kısmında belirtmiştik. Gözaltı kavramı bu kanun tasarısında alt üst edilerek polise adeta vatandaşı hapsetme yetkisi verilmiştir. Yürürlükteki Ceza Muhakemesi Kanunu’na ( CMK md. 90 – 91 ) göre, kişi kolluk tarafından yakalandıktan sonra, özgürlüğünün esaslı bir şekilde kısıtlanmasına neden olan gözaltına alma kararını savcılık vermektedir. Mevcut uygulamada polis gözaltına alma kararı veremez, yakaladığı kişi ve suç ile ilgili bilgileri savcıya derhal ulaştırır, savcı da kişinin gözaltına alınıp alınmayacağına dair bir karar verir.
@@ -106,7 +106,7 @@ E ) 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununa dayanılarak ilan e
 Özellikle bu maddenin *“toplumsal olaylar sırasında işlenen cebir ve şiddet içeren suçlar”* ( Tasarı md. 6 ) açısından da uygulanacağı şeklindeki hüküm suçta ve cezada kanunilik ilkesine aykırıdır. Hangi suçların cebir ve şiddet içeren suç olduğu yine muğlak bırakılarak uygulamada geniş yorum yapılması sağlanmıştır.
 
  
-###Valilere Yargısal Nitelikte Yetkiler
+### Valilere Yargısal Nitelikte Yetkiler
 
 
 Suç işlenmeden önce alınacak idari nitelikte önleyici tedbirler valiler veya diğer mülki amirler tarafından alınabilir. Ceza hukukunda suç işlendikten sonra yargı fonksiyonu devreye girer. Bu ilke, ceza hukuku alanında yürütme ile yargı arasındaki en önemli çizgilerden biridir. Kanun Tasarısı ile valilere suç işlendikten sonra suçun kovuşturulması için talimat verme yetkisi ( Tasarı md. 7 ) tanınmıştır. Vali bu yetkisiyle yargı kuvvetinin fonksiyonunu ifa edecektir. Mevcut sistemde suçun kovuşturulması yargısal bir görev olarak savcılık makamına verilmiştir. Kanun Tasarısı ise bu işlevi yargı görevlisi olan savcının yanı sıra  yürütmenin parçası olan valiye de sağlamıştır. Kuvvetler ayrılığı ilkesi yasama, yürütme ve yargı fonksiyonunun açık ve net bir şekilde ayrılmasıyla anlam kazanır. Valiye verilen bu yetki, hem suçun kovuşturulmasında yetki karmaşasına yol açacak hem de yargısal bir sürecin siyasi müdahaleye açık hale gelmesine neden olacaktır.
@@ -114,7 +114,7 @@ Suç işlenmeden önce alınacak idari nitelikte önleyici tedbirler valiler vey
 *“Şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi şekilde bozulmasına yol açabilecek toplumsal olaylara yönelik olarak alınan ve usulüne göre tebliğ veya ilan olunan karar ve tedbirlere aykırı davrananlar, üç aydan bir yıla kadar hapis cezası ile cezalandırılacaktır”* (Tasarı md. 7/2 ). Yani, valinin aldığı sokağa çıkma yasağı kararına aykırı hareket edenler suç işlemiş olacaklardır. Yürürlükteki Kabahatler Kanunu’na göre kabahat sayılan ve yaptırımı para cezası olan fiiller suça dönüştürülerek cezası ağırlaştırılmıştır.
 
 
-###Sonuç
+### Sonuç
 
 
 **Hukuk devleti**, devletin kendisini hukukun genel ilkeleriyle sınırladığı ve sınadığı rejimin adıdır. Hukuk devletinde devlet, toplumu bastırmak, değiştirmek, maniple etmek için hukuku bir araç haline getirmez. Kuvvetler ayrılığı, kişi özgürlüğü ve güvenliği hakkı, ifade özgürlüğü ve ifade özgürlüğünün türevi olan toplantı ve gösteri özgürlüğü gibi tüm özgürlükler güvence altındadır. Polise 1990’lı yılların Türkiye’sine dönüş uygulamaları için imkan tanıyan yasal düzenlemeler toplumun ortak geleceğine ve ortak hukukuna zarar verecektir. Her zaman bir iktidar ve iktidara karşı gelen bir toplumsal muhalefet olacaktır. Ama hukuk kültürü kolay kolay oluşmaz.Hele polis jopuyla, kalkanıyla, gazıyla ne kamu düzeni sağlanabilir ne de hukuk devletine ulaşılabilir.

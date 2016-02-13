@@ -7,7 +7,7 @@ keywords:   Kasten adam yaralama suçu, adam yaralama suçu cezası, kasten adam
 summary: Kasten Adam Yaralama Suçu Nedir? Silahla Adam Yaralama Suçu, Bıçakla Adam Yaralama Suçu, Neticesi Sebebiyle Ağırlaşmış Yaralama Suçu, Kasten Adam Öldürmeye Teşebbüs Suçu
 ---
 
-###![Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067)
+### ![Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067)
 
 ##Kasten Adam Yaralama Suçu Nedir?
 
@@ -19,13 +19,13 @@ Kasten adam yaralama suçu, ileride açıklayacağımız üzere basit ve nitelik
 
 Suçun nitelikli halleri ve “basit tıbbi müdahale (BTM) ile giderilemeyecek” basit yaralama suçu şikayete tabi değildir. Suç şikayete tabi olmadığı için herhangi bir şikayet süresi yoktur. Savcılık, dava zamanaşımı süresi içinde her zaman resen soruşturma yapabilir. Suçun bu hallerine dair en düşük dava zamanaşımı süresi 8 yıldır. 
 
-###![Kasten Adam Yaralama Suçu](https://camo.githubusercontent.com/46bce472fc250ee32420892cc84ccc28fa3aac92/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e4c6c5a5a672e6a7067 "Kasten Adam Yaralama Suçu")
+### ![Kasten Adam Yaralama Suçu](https://camo.githubusercontent.com/46bce472fc250ee32420892cc84ccc28fa3aac92/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e4c6c5a5a672e6a7067 "Kasten Adam Yaralama Suçu")
 
 ##Kasten Adam Yaralama Suçunun İşlenme Biçimleri
 
  
 
-###1- Basit Adam Yaralama Suçu ve Cezası
+### 1- Basit Adam Yaralama Suçu ve Cezası
 
 Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yaralamalar ve basit tıbbi müdahale ile giderilemeyecek yaralamalar olarak ikiye ayrılır. 
 
@@ -33,7 +33,7 @@ Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yara
 
 * Basit tıbbi müdahale (BTM) ile giderilemeyecek basit adam yaralama suçu, mağdura karşı işlenen etkili eylemin sonuçlarının basit bir doktor müdahalesi ile giderilememesi, yani mağdurun tamamen iyileşememesi, yaralamanın sonuçlarının ortadan kalkması için belli bir sürecin gerekmesidir. BTM ile giderilemeyecek basit yaralama suçunun cezası 1 yıldan 3 yıla kadar hapis cezasıdır (TCK md. 86/1).
 
-###2- Basit Adam Yaralama Suçunda Cezayı Arttıran Nedenler
+### 2- Basit Adam Yaralama Suçunda Cezayı Arttıran Nedenler
 
 **Kasten Adam Yaralama Suçunun Silahla İşlenmesi:** Suçun silahla işlenmesi halinde, “silahla adam yaralama suçu” meydana gelir. Bıçakla adam yaralama, silahla adam yaralama gibi deyimler bu tür adam yaralama suçu türü için kullanılır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türden ise silahla basit adam yaralama suçunun cezası, 6 aydan 1,5 yıla kadar hapis cezası veya ½ oranında arttırılmış adli para cezasıdır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilemeyecek türden ise silahla basit adam yaralama suçunun cezası 1,5 yıldan 4,5 yıla kadar hapis cezasıdır (TCK md. 86/3-e).
 
@@ -49,10 +49,10 @@ Aşağıdaki hallerde de, yani;
 adam yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türden ise silahla basit adam yaralama suçunun cezası, 6 aydan 1,5 yıla kadar hapis cezası veya 1/2 oranında arttırılmış adli para cezasıdır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilemeyecek türden ise silahla basit adam yaralama suçunun cezası 1,5 yıldan 4,5 yıla kadar hapis cezasıdır (TCK md. 86/3-e).
 
 
-###![Ağır Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/eecc64be38853106aa74c796126e5d2e636effdd/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a56366d61392e6a7067 "Ağır Ceza Avukatı Hukuk Bürosu")
+### ![Ağır Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/eecc64be38853106aa74c796126e5d2e636effdd/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a56366d61392e6a7067 "Ağır Ceza Avukatı Hukuk Bürosu")
 
 
-###3- Neticesi Sebebiyle Ağırlaşmış Adam Yaralama Suçu ve Cezası [(TCK md. 87)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
+### 3- Neticesi Sebebiyle Ağırlaşmış Adam Yaralama Suçu ve Cezası [(TCK md. 87)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Neticesi sebebiyle ağırlaşmış yaralama, mağdura karşı işlenen fiilin mağdurun vücudunda kalıcı etkiler bırakması halinde söz konusu olur. Neticesi sebebiyle ağırlaşmış adam yaralama suçu, mağdurun vücudunda bıraktığı kalıcı etkilere göre iki grup halinde değerlendirilmektedir.
 
@@ -79,19 +79,19 @@ Yukarıda 1. ve 2. başlıkta anlattığımız şekillerde belirlenen ceza, iki 
 
 
 
-###4- Kasten Adam Yaralama Suçu ve Kemik Kırılması [(TCK md. 87/3)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
+### 4- Kasten Adam Yaralama Suçu ve Kemik Kırılması [(TCK md. 87/3)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Kasten yaralama suçunda kemik kırığı veya çıkığı meydana gelmişse 1. ve 2. başlıkta açıkladığımız şekilde belirlenen ceza, kırık veya çıkığın hayat fonksiyonlarındaki etkisine göre 1/2  oranına kadar  arttırılır. Yani, ceza arttırım oranı, kemik kırık veya çıkığının niteliğine göre 1/4, 1/3 veya 1/2  olabilir.
 
-###5- Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi [(TCK md. 87/4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
+### 5- Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi [(TCK md. 87/4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Kasten adam yaralama suçu neticesinde ölüm meydana gelmişse; işlenen suç, hukuki niteliği itibariyle kasten adam öldürme suçu değil, neticesi sebebiyle ağırlaşmış yaralama suçu olarak kabul edilir.  
 
 Kasten adam yaralama suçu neticesinde ölüm meydana gelmişse; suçun birinci başlıkta anlattığımız şekilde işlenmesi halinde faile verilecek ceza 8 yıldan 12 yıla kadar hapis cezası, ikinci başlıkta anlattığımız şekilde işlenmesi halinde faile verilecek ceza 12 yıldan 16 yıla kadar hapis cezasıdır. 
 
-###![Kasten Adam Öldürmeye Teşebbüs Suçu](https://camo.githubusercontent.com/7fb69578fe3bb7807a0fcf5d6d986c03e14f50f5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f314d457141622e6a7067 "Kasten Adam Öldürmeye Teşebbüs Suçu")
+### ![Kasten Adam Öldürmeye Teşebbüs Suçu](https://camo.githubusercontent.com/7fb69578fe3bb7807a0fcf5d6d986c03e14f50f5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f314d457141622e6a7067 "Kasten Adam Öldürmeye Teşebbüs Suçu")
 
-###6- Kasten Adam Yaralama Suçu ve Adam Öldürmeye Teşebbüs Suçu Arasındaki Farklar
+### 6- Kasten Adam Yaralama Suçu ve Adam Öldürmeye Teşebbüs Suçu Arasındaki Farklar
 
 İşlenen fiil mağdurun hayatına son vermeyi amaçlamasına rağmen, mağdurun sadeceyaralanmasına neden olmuşsa kasten adam yaralama suçu değil, adam öldürmeye teşebbüs suçu oluşur. Örneğin, fail mağduru karın bölgesinden 4-5 bıçak darbesiyle yaralamış, mağdur hayati tehlike geçirmiş fakat ölmemişse adam öldürmeye teşebbüs suçu işlenmiş olur. Failin icra ettiği yaralama eyleminin adam öldürmeye teşebbüs suçu olup olmadığı Yargıtay Ceza Genel Kurulu’nun 2008/184 sayılı kararına göre aşağıdaki kriterler dikkate alınarak değerlendirilir:
 
@@ -105,19 +105,19 @@ Kasten adam yaralama suçu neticesinde ölüm meydana gelmişse; suçun birinci 
 
 
 
-###7- Kasten Adam Yaralama Suçu ve Haksız Tahrik İndirimi
+### 7- Kasten Adam Yaralama Suçu ve Haksız Tahrik İndirimi
 
 Haksız tahrik, failin mağdurdan kaynaklanan bir fiilin meydana getirdiği elem, üzüntü veya öfkenin etkisiyle kasten adam yaralama suçu işlemesidir.
 
 Haksız tahrik altında adam yaralama suçu işlenmesi halinde faile verilecek cezada, haksız tahrikin derecesine göre 1/4 oranı ile 3/4 oranı arasında bir indirim uygulanır. Örneğin, adam yaralama suçu neticesinde 4 yıl ceza alabilecek bir sanık, suçu haksız tahrik altında işlemişse haksız tahrik indirimi neticesinde 1 yıl ceza alabileceği gibi 3 yıl ceza da alabilir. Haksız tahrikin derecesi, yani haksız tahrikin ağırlığı yapılacak indirimin oranını da belirler.
 
-###8- Kasten Adam Yaralama Suçu ve Meşru Müdafaa (Meşru Savunma)
+### 8- Kasten Adam Yaralama Suçu ve Meşru Müdafaa (Meşru Savunma)
 
 [Meşru müdafaa (meşru savunma),](https://barandogan.av.tr/blog/ceza-hukuku/mesru-mudafaa-mesru-savunma-nedir.html) mağdurun faile veya  failin yakınlarına veya failin malvarlığına dönük gerçekleştirdiği bir saldırıya karşı failin saldırı ile orantılı bir biçimde kendisini savunmak üzere failin cevap vermesidir.
 
 Kasten adam yaralama suçu meşru müdafaa halinde işlenirse faile ceza verilemez. 
 
-###9- Kasten Adam Yaralama Suçu, Ceza Erteleme ve Hükmün Açıklanmasının Geri Bırakılması (HAGB)
+### 9- Kasten Adam Yaralama Suçu, Ceza Erteleme ve Hükmün Açıklanmasının Geri Bırakılması (HAGB)
 
 [Hükmün açıklanmasının geri bırakılması (HAGB),](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html) işlediği suç nedeniyle faile verilen cezanın hukuk sisteminde sonuç doğurmaması ve belli bir denetim süresi sonunda ceza davasının düşmesi ile neticelenen bir ceza usul hukuku kurumudur.
 

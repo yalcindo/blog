@@ -11,7 +11,7 @@ summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma H�
 
 **Hırsızlık suçu**, başkasının zilyedi olduğu taşınır bir malı zilyedin rızası olmadığı halde kendisine veya başkasına yarar sağlamak amacıyla bulunduğu yerden alınmasıyla meydana gelir.  Hırsızlık suçu, malvarlığı değerlerine karşı  ve ekonomik bir çıkar elde etmek amacıyla işlenen suçlardandır. Hırsızlık suçu, TCK'nın 141. ve 147. maddeleri arasında düzenlenmiştir. 
 
-###![Hırsızlık Suçu](https://camo.githubusercontent.com/8ffe70e1ab7026792508139ef654fa3087175ba8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a6c596137422e6a7067 "Hırsızlık Suçu")
+### ![Hırsızlık Suçu](https://camo.githubusercontent.com/8ffe70e1ab7026792508139ef654fa3087175ba8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a6c596137422e6a7067 "Hırsızlık Suçu")
 
 
 ##Hırsızlık Suçunun Şartları ve Unsurları
@@ -25,13 +25,13 @@ Hırsızlık suçu ile fail mağdurun malvarlığını azaltır veya tamamen eli
 **Hırsızlık suçunun unsurları ve şartları şunlardır:**
 
 
-###1- Hırsızlık Suçunun Konusu Taşınır Maldır
+### 1- Hırsızlık Suçunun Konusu Taşınır Maldır
 
 TCK’ya göre ancak taşınır mallar hakkında hırsızlık suçu işlenebilir. Örneğin, araba, bisiklet, ev eşyası, cüzdan vb. gibi mallar taşınır mal niteliğindedir. Niteliği itibariyle belli bir ekonomik değere sahip eşyaya “mal” denilmektedir.  Ekonomik hiçbir değeri bulunmayan bir eşya çalındığında hırsızlık suçu oluşmaz.
 
 Taşınmaz mallar hakkında da hırsızlık suçu işlenemez. Örneğin, bir gayrimenkul sahibinin rızası dışında sahte evraklarla tapuda başkasına devredilirse hırsızlık suçu değil,  resmi evrakta sahtecilik ve nitelikli dolandırıcılık suçları oluşur.
 
-###2- Hırsızlık Suçu İle Zilyetlik Korunmaktadır
+### 2- Hırsızlık Suçu İle Zilyetlik Korunmaktadır
 
 Hırsızlık suçu mülkiyetten daha geniş bir kapsama sahip olan zilyetlik haklarını korumaktadır. Zilyet, bir malı fiilen hakimiyeti altında bulunduran kişi demektir. Malın zilyedi olan kişi malın sahibi olmayabilir. Örneğin, bir otomobil kullanmak üzere bir kişiye verildiğinde üçüncü bir kişi otomobili kullananın rızası dışında elinden alırsa hırsızlık suçu meydana gelir.
 
@@ -39,17 +39,17 @@ Mal üzerinde zilyetlik hakkına sahip kişinin zilyetliği hukuka aykırı veya
 
 Hırsızlık suçunun oluşması için malın zilyedin egemenlik alanından çıkarılması, mal üzerinde fail tarafından fiili hakimiyet kurularak zilyetliğin elde edilmesi gerekir. Fail malı bulunduğu yerden aldıktan hemen sonra kesintisiz takip sonucu yakalanırsa fail hırsızlık suçu  ile değil, bu suça teşebbüs ile yargılanmalıdır. Çünkü, kesintisiz takip sonucu yakalanan fail malı tümüyle fiili hakimiyeti altına alamadığında suç tamamlanmamış sayılır. Ancak takip sırasında failin bir süre gözden kaybolduktan sonra takibin kesilmesi ve failin daha sonra tekrar görülerek yakalanması halinde hırsızlık suçu tamamlanmış sayılır.
 
-###3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya [(TCK md. 141)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5015)
+### 3- Basit Hırsızlık Suçunun Cezası ve  Açıkta Bırakılan Eşya [(TCK md. 141)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5015)
 
 Açıkta bırakılmış eşya, mağdurun yaşadığı özel alanlar dışında kalan cadde, sokak, park, bahçe, sahil kenarları ve bu gibi yerlere benzeyen halka açık yerlerde bırakılan eşyayı tarif etmektedir. Hırsızlık suçunun basit temel şekli, TCK  md. 141’de düzenlenen açıkta bırakılan eşya hakkındadır.
 
 Hırsızlık suçu işlenen eşya kullanım veya adet gereği açıkta bırakılan mallardan ise bu durumda suçun basit şekli değil nitelikli şekli söz konusu olur. Örneğin, tarlada açıkta bırakılan tarım aletleri kullanımları gereği açıkta bırakılan eşyalardandır. Bu mallar açıkta olmasına rağmen zilyedinin rızası dışında alındığında **nitelikli hırsızlık suçu** oluşur. 
 
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/7cc7bdcac649b27bb7e58c8830d142fd9e622a13/687474703a2f2f692e68697a6c69726573696d2e636f6d2f613044596e322e6a7067 "Ceza Avukatı")
 
 
-###Nitelikli Hırsızlık Suçu ve Cezası [(TCK md.142)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5021)
+### Nitelikli Hırsızlık Suçu ve Cezası [(TCK md.142)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5021)
 
 **Nitelikli hırsızlık suçu** TCK md. 142’de düzenlenmiştir. Buna göre hırsızlık suçunun;
 
@@ -89,9 +89,9 @@ Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu v
 
 Hırsızlık suçu yüz kızartıcı bir suç olduğundan ceza miktarı ne olursa olsun suçun niteliği nedeniyle yargılanan kişinin tüm hayatını etkileyecek bir suçtur. Bu nedenle hırsızlık suçunda savunma bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılmalıdır.
 
-###![Hırsızlık Suçu](https://camo.githubusercontent.com/70ca3f2a3477573d7d68d6a495d0f588d9687b00/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304e4c3142572e6a7067 "Hırsızlık Suçu")
+### ![Hırsızlık Suçu](https://camo.githubusercontent.com/70ca3f2a3477573d7d68d6a495d0f588d9687b00/687474703a2f2f692e68697a6c69726573696d2e636f6d2f304e4c3142572e6a7067 "Hırsızlık Suçu")
 
-###Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
+### Hırsızlık Suçunda Cezayı Arttıran veya Azaltan Nedenler
 
 *	Hırsızlık suçu gece vakti işlenirse faile yukarıda anlattığımız şekilde verilen ceza yarı oranında arttırılır. Yani fail, ister basit hırsızlık suçunu isterse nitelikli hırsızlık suçunu işlesin, suçu gece vakti işlediği takdirde belirlenen temel cezası yarı oranında arttırılır [(TCK md.143)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5028)
 
@@ -105,21 +105,21 @@ Hırsızlık suçu nedeniyle mağdurun uğradığı zarar soruşturma aşamasın
 
 
 
-###Hırsızlık Suçu ve Kullanma Hırsızlığı
+### Hırsızlık Suçu ve Kullanma Hırsızlığı
 
 Bir taşınır malı geçici bir süreyle kullanıp iade etmek amacıyla zilyedinin rızası dışında bulunduğu yerden alan kişi kullanma hırsızlığı suçunu işlemiş olur. **Kullanma hırsızlığı suçu,**  failin malı geçici olarak hakimiyeti altına alıp kullanmasıyla tamamlanmış olur.  
 
 Kullanma hırsızlığı suçu şikayete tabi bir suçtur. Kullanma hırsızlığı halinde suçun cezası yarı oranında indirilir. Ancak kullanma hırsızlığı konusu malın başka bir suç işlemek için kullanılmış olması halinde bu hüküm uygulanmaz [(TCK md.146)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5040). Örneğin, otopark sahibine teslim edilen bir aracı, otopark sahibinin arkadaşlarından biri uyuşturucu malın nakli için kullanıp iade ederse bu madde hükümleri değil, hırsızlık suçuna ilişkin genel hükümler uygulanacaktır.
 
-###Hırsızlık Suçu Şikayet Süresi
+### Hırsızlık Suçu Şikayet Süresi
 
 Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmaları gereken suçlardandır. Hırsızlık suçu şikayete tabi olmadığından, bir şikayet süresi de yoktur. Suçun en basit halinde bile 8 yıl olan dava zamanaşımı süresi içerisinde şikayet edildiğinde soruşturma başlatılabilir.
 
 
 
-###Hırsızlık Suçu Yargıtay Kararları  
+### Hırsızlık Suçu Yargıtay Kararları  
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Hırsızlık Suçu Yargıtay Kararları")
 
 ---
 

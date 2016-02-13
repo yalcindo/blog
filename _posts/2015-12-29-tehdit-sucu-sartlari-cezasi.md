@@ -11,7 +11,7 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 **Tehdit suçu,**  bir kimseye haksız bir zarara veya kötülüğe uğratılacağının bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir. Tehdit suçunda korunan hukuki değer kişilerin iç barışı, karar verme ve hareket etme özgürlüğüdür. 
 
-###![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
+### ![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
 
 
 ##Tehdit Suçu Kimler Aleyhine İşlenebilir?
@@ -31,7 +31,7 @@ Tehdit suçunun yalnızca malvarlığına yönelen basit şekli şikayete tabidi
 
 Tehdit suçunun yaşam hakkına yönelik basit şeklinde ve diğer tüm ağır hallerinde suçun soruşturulması şikayete bağlı değildir. Bu suçlar 8 yıl olan dava zamanaşımı süresi içinde soruşturulabilir.
 
-###Tehdit Suçunun Şartları
+### Tehdit Suçunun Şartları
 
 * Tehdit suçunun meydana gelmesi için ağır ve haksız bir zarara uğratılacağının mağdura bildirilmesi gerekir. Tehdit, gerçekleşmesi failin iradesine bağlı olan ve gelecekte gerçekleşme ihtimali olan bir kötülüğün, fail tarafından gerçekleşecek gibi gösterilmesidir.
 
@@ -42,11 +42,11 @@ Tehdit suçunun yaşam hakkına yönelik basit şeklinde ve diğer tüm ağır h
 * Tehdit şuçu şartlarının oluşup oluşmadığı olaysal değerlendirilmelidir. Fail ile mağdurun içinde bulundukları ortam, söylenen sözler, karşılıklı icra edilen davranışlar, sözlerin söylenme nedeni ve söylendiği koşullar dikkate alınarak tehdit suçunun şartlarının oluşup oluşmadığı tartışılmalıdır. Ayrıca fail ve mağdurun kimlikleri, konumları ve kişilik özellikleri de tehdit suçunun şartları açısından ipuçları verdiğinden fiil ile birlikte değerlendirilmelidir.
 
 
-###Tehdit Suçu ve Kavga Sırasında Söylenen Sözler
+### Tehdit Suçu ve Kavga Sırasında Söylenen Sözler
 
 Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kızgınlıkla söylenen sözler olabilir.  Kişi karşı tarafı kasten korkutmayı veya endişeye sevketmeyi amaçlamadan, bir kavgada aniden tehdit içeren sözler söylemişse bu sözlerin tehdit suçunu oluşturması mümkün değildir. Yargıtay, kavga sırasında hiddetle söylenen sözlerin tehdit suçunu oluşturmayacağına dair yerleşik içtihat oluşturmuştur. Kavgada hiddetle söylenen sözler ancak karşı tarafın haksız tahrik savunmasında bir anlam ifade edebilir. 
 
-###Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
+### Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
 
 Tehdit suçunun basit halinde, mağdur haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak mağdurun uğrayacağı muhtemel zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malvarlığı değerlerine yönelen iki şekli vardır:
 
@@ -54,39 +54,39 @@ Tehdit suçunun basit halinde, mağdur haksız bir zarara uğratılacağı gerek
 
 * Malvarlığı değerlerine yönelik basit tehdit suçunda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit tehdit suçu mağdurun şikayetine bağlı olarak soruşturulur.
 
-###Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
+### Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
 
 Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle tehdit suçunun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  Tehdit suçunun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır.
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
 
 Tehdit suçunun nitelikli, ağır halleri şunlardır:
 
-####1. Silahla Tehdit Suçu
+### #1. Silahla Tehdit Suçu
 
 Tehdit suçunun nitelikli hali olan silahla tehdit suçunun vücut bulması için silahın, bizzat mağdur tarafından görülebileceği, hissedilebileceği , tehdidin mağdurun üzerindeki etkisini artıracak biçimde teşhiri veya kullanılması gerekir. Mağdurun yokluğunda gerçekleştirilen tehdit eyleminin, silahla tehdit suçunu oluşturabilmesi için silahın, mağdurun evi, arabası gibi daimi kullanımında olan eşyalarında hasar, iz, emare gibi belirtiler oluşturacak ve bu suretle tehdidin mağdurun üzerinde meydana getirdiği korkunun etkisini artıracak tarzda kullanılması icap eder. Bu itibarla, mağdurun yokluğunda gerçekleşen tehdit eyleminde, salt silah teşhir edilmiş olması, suçun nitelikli halinin oluşumu için yeterli sayılamayacaktır.  
 
-####2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
+### #2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
 
 Tehdit suçunu işleyen kişi, kendisini mağdur tarafından tanınmayacak hale koyarsa suçun ağırlaştırılmış hali işlenmiş olur. Suçu işleyen kişinin korkutucu olması şart değildir, önemli olan mağdur tarafından tanınmayacak şekilde hareket etmesidir. Örneğin, suçu işleyen kişinin maske takması veya takma sakal takması gibi.
 
-####3. Birden Fazla Kişiyle Birlikte Tehdit Suçu
+### #3. Birden Fazla Kişiyle Birlikte Tehdit Suçu
 
 Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzerinde korkuyu arttıran bir faktördür.  Bu nedenle kanun, birden fazla kişiyle birlikte işlenen tehdit suçuna daha ağır ceza verilmesine gerek görmüştür. Tehdit fiilini işleyen kişi sayısının en az 2 veya daha fazla kişi olması gerekir.
 
-####4. İmzasız Mektup Yoluyla Tehdit Suçu
+### #4. İmzasız Mektup Yoluyla Tehdit Suçu
 
 İmzasız mektup ile kastedilen suçu işleyen kişinin kimliğinin mektuptan anlaşılamamasıdır. İmzasız mektup, tehditin nerden geldiğini bilmediği için mağduru daha çok korkutmakta, tehditin kaynağını bilmediği için de mağdur savunmasız kalmaktadır.  Bu nedenle yasa tehdit suçunun imzasız mektup yoluyla işlenmesi cezayı arttıran bir neden olarak kabul edilmiştir. Ancak yazılan mektubun altında imza veya isim olmasa bile, mektubun kim tarafından yazıldığı mağdur tarafından hemen fark edilebiliyorsa ceza arttırımı yoluna gidilemez.
 
-####5. Örgüt İsmi Kullanarak Tehdit Suçu
+### #5. Örgüt İsmi Kullanarak Tehdit Suçu
 
 Tehdit suçu işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit etmesi halinde ceza arttırımı yoluna gidilir. İsmi kullanılan örgüt, var olan bir örgüt olabileceği gibi, gerçekte var olmayan hayali bir örgüt de olabilir. Örgütün niteliği önemli değildir. Örgüt, dini, siyasi veya bir mafya örgütü olabilir. Örgüt ismi kullanılarak mağdurun korkutulması suçun oluşması için yeterlidir.
 
-####6.  Özel İşaretlerle Tehdit Suçu
+### #6.  Özel İşaretlerle Tehdit Suçu
 
 Tehdit suçunun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, tehdit suçunun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
-###Tehdit Suçu ve Hükmün Açıklanmasının Geri Bırakılması
+### Tehdit Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
 [Hükmün açıklanmasının geri bırakılması](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hukuk sisteminde hiçbir sonuç doğurmaması ve iyi halli geçirilen belli bir denetim süresi sonunda davanın düşmesiyle neticelenen bir muhakeme hukuku kurumudur.
 
@@ -94,9 +94,9 @@ Hükmün açıklanmasının geri bırakılması, tehdit suçu açısından da uy
 
 
 
-###Tehdit Suçu ve Yargıtay Kararlar
+### Tehdit Suçu ve Yargıtay Kararlar
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Tehdit Suçu Yargıtay Kararları")
 
 ---
 

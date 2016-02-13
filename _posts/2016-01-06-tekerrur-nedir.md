@@ -7,7 +7,7 @@ keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İn
 summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartları, Mükerrirlere Özgü İnfaz Rejimi Ne Demek? Suçta Tekerrürün Uygulanma Süresi, Hapis Cezası Tekerrür, Adli Para Cezası Tekerrür
 ---
 
-###![Tekerrür Nedir](https://camo.githubusercontent.com/61666b6eeb63cfee03ca2339dae550bd416bf85f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f413537796a372e6a7067)
+### ![Tekerrür Nedir](https://camo.githubusercontent.com/61666b6eeb63cfee03ca2339dae550bd416bf85f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f413537796a372e6a7067)
 
 ##Tekerrür Nedir?
 
@@ -22,22 +22,22 @@ Türkiye’nin mevcut hukuk sisteminde tekerrür, bir infaz hukuku kurumudur.  A
 
 Yargılanan bir kişinin iki kere suç işlemiş olması tekerrür hükümlerinin uygulanması için yeterli değildir. Suçta tekerrür hükümleri belli koşulların oluşması halinde uygulanabilir. Bu koşullar şunlardır:
 
-###Suçta Tekerrür ve Kesinleşmiş Ceza Mahkumiyeti Şartı
+### Suçta Tekerrür ve Kesinleşmiş Ceza Mahkumiyeti Şartı
 
  Bir hükümlüye tekerrür hükümlerinin uygulanabilmesi için işlediği önceki bir suçtan dolayı kesinleşmiş bir ceza mahkumiyetinin olması gerekir. İlk işlediği suç nedeniyle yargılanıp mahkum olan hükümlünün bu ilk suçunun cezasının kesinleşmesinden sonra ikinci suçu işlemesi gerekir. Cezanın kesinleşmesi, yerel mahkeme tarafından verilen karar Temyiz edilmişse Yargıtay tarafından hükmün onanması ile mümkün olur. İşte bu kesinleşmiş cezadan sonra ikinci bir suç işlenmesi halinde tekerrür hükümleri uygulanır.
 
-###Tekerrür Hükümleri Uygulaması İçin Cezanın İnfazı Şart Değildir
+### Tekerrür Hükümleri Uygulaması İçin Cezanın İnfazı Şart Değildir
 
 Tekerrür hükümlerinin uygulanması için ilk suça dair mahkumiyetin infaz edilmiş olması veya infaza verilmiş olması şart değildir, önemli olan ilk mahkumiyetin kesinleşmesidir. Hükümlü, ilk mahkumiyetinin kesinleşmesi üzerine cezanın infazı için teslim olmamış veya yakalanarak cezaevine konulamamış olabilir. Hatta infazın ertelenmesi vb. gibi kişisel hukuki nedenlerle cezasının infazı henüz başlamamış olabilir. Kanunun tekerrür hükümlerinin uygulanabilmesi için aradığı tek kriter ilk ceza mahkumiyetinin kesinleşmesidir. İlk ceza mahkumiyeti kesinleştikten sonra cezanın infaz aşamasına gelip gelmediğinin hiçbir önemi yoktur. 
 
-###Suçların Niteliğine Dair Tekerrür Şartları
+### Suçların Niteliğine Dair Tekerrür Şartları
 
 Kasıtlı suçlara, kasıtlı suçlarla tekerrür hükümleri uygulanır. Taksirli suçlara da taksirli suçlarla tekerrür hükümleri uygulanır. Kasten işlenen suçlar ile taksirle işlenen suçlar arasında tekerrür hükümleri uygulanamaz. Örneğin, daha önce trafik kazası neticesinde taksirle adam öldürme suçu işleyen kişi, bu taksirli suça dair cezası kesinleştikten sonra bu kez kasten adam öldürme suçu işlese hakkında tekerrür hükümleri uygulanamaz. Çünkü birinci suç taksirli suç, ikinci suç ise kasten işlenen bir suçtur. 
 İşlenen birinci suç ile ikinci suçun vasfı aynı olmasa bile suçta tekerrür hükümleri uygulanır. Örneğin, işlenen birinci suç dolandırıcılık suçu, ikinci suç ise güveni kötüye kullanma suçu olsa bile tekerrür hükümleri uygulanır. Suç vasıfları farklı olsa bile her iki suç da kasten işlenen suçlardandır.
 
 Ayrıca ‘sırf askeri suçlar’ ile diğer suçlar arasında da tekerrür hükümleri uygulanamaz. Sırf askeri suçlar, Askeri Ceza Kanunu’nda tanımlanmıştır. Bu suçlar ile kasten veya taksirle işlenen suçlar arasında suçta tekerrür hükümleri uygulanmaz
 
-###Suçta Tekerrür Uygulaması için Süre Şartı
+### Suçta Tekerrür Uygulaması için Süre Şartı
 
 Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikten sonra belirli bir süre içinde ikinci suç işlenirse uygulanabilir. Tekerrür hükümlerinin uygulanabilmesi için ilk suça dair cezanın kesinleşmesi yeterli olup cezanın infazı şart değildir. Suçta tekerrür hükümlerinin uygulanabilmesi için süre koşulu yönünden ikili bir ayrım vardır:		
 
@@ -46,9 +46,9 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 İlk suçtan dolayı verilen hapis cezasının infaz edilmiş olması, tekerrüre esas sürenin başlangıcı açısından önemlidir. Ceza infaz edilmeden tekerrüre esas süre başlamaz. Bu nedenle, birinci suça dair cezası infaz edilmeyen hükümlü, ikinci bir suç işlediğinde tekerrür hükümlerinin uygulanabilmesi için süre koşulu aranmaz.
 
-###![Suçta Tekerrür](https://camo.githubusercontent.com/1ed7dfed5eb489a9951650428c77248abc25c09c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f374d67797a572e6a7067 "Suçta Tekerrür")
+### ![Suçta Tekerrür](https://camo.githubusercontent.com/1ed7dfed5eb489a9951650428c77248abc25c09c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f374d67797a572e6a7067 "Suçta Tekerrür")
 
-###01.06.2005 Tarihinden Önce ve Sonra İşlenen Suçlarda Tekerrür
+### 01.06.2005 Tarihinden Önce ve Sonra İşlenen Suçlarda Tekerrür
 
 [5237 sayılı TCK,](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf) 01.06.2005 tarihinde yürürlüğe girmiş olup halen yürürlüktedir. Tekerrür, [765 sayılı eski TCK](http://www.mevzuat.gov.tr/MevzuatMetin/5.3.765.pdf)’da bir maddi ceza hukuku kurumu iken, 01.06.2005 tarihinden sonra 5237 sayılı TCK ile bir güvenlik tedbiri ve 5275 sayılı İnfaz Kanunu ile infaz kurumu haline dönüşmüştür. Bu hukuki nitelemeler uygulamada bazı farklı sonuçlara yol açmaktadır.
 
@@ -57,7 +57,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 
 
-###Suçta Tekerrür Hükümlerinin Uygulanamayacağı Haller
+### Suçta Tekerrür Hükümlerinin Uygulanamayacağı Haller
 
 *	**Tekerrür ve Yaş Küçüklüğü:** 18 yaşından küçük çocukların işledikleri suçlar tekerrüre esas alınmaz. Yani, birinci suç (tekerrüre esas suç) 18 yaşından küçükken işlenmiş, ikinci suç (tekerrür hükümleri uygulanacak suç) ise 18 yaşından sonra işlenmiş olsa bile sanık hakkında suçta tekerrür hükümleri uygulanmaz.
 
@@ -85,10 +85,10 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 *	Hapisten çevrilen adli para cezası dışındaki “seçenek yaptırımlar”  tekerrüre esas alınamaz.
 
-###![Ağır Ceza Avukatı](https://camo.githubusercontent.com/e61ffce23786fae394eb27f4525c03e9b0d028ce/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f37417931512e6a7067 "Ağır Ceza Avukatı")
+### ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/e61ffce23786fae394eb27f4525c03e9b0d028ce/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f37417931512e6a7067 "Ağır Ceza Avukatı")
 
 
-###Suçta Tekerrün Hukuki Sonuçları 
+### Suçta Tekerrün Hukuki Sonuçları 
 
 Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir yaptırımla karşılaşmasına yol açar. Suçta tekerrür halinde sanık aleyhine üç hukuki sonuç gerçekleşir:
 
@@ -101,9 +101,9 @@ Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir ya
 
 Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin uygulanmasına karar verilmediği takdirde, aleyhe temyiz de yoksa, sanığın kazanılmış hakkı doğar. 
 
-###![Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi](https://camo.githubusercontent.com/bf2a4afd20bc9f8d192b73425b47d4b507c12e7f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3635507930572e6a7067 "Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi")
+### ![Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi](https://camo.githubusercontent.com/bf2a4afd20bc9f8d192b73425b47d4b507c12e7f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3635507930572e6a7067 "Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi")
 
-###Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi
+### Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi
 
 Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
 
@@ -147,7 +147,7 @@ Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özg
 >
 >10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
 
-###Suçta Tekerrür ve Ek Savunma
+### Suçta Tekerrür ve Ek Savunma
 
 Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir. İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 

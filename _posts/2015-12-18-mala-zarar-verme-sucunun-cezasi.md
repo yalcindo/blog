@@ -13,51 +13,51 @@ summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zara
 
 **Mala zarar verme,** başkasına ait bir malın yıkılması, tahrip edilmesi, yok edilmesi veya kirletilmesidir. Mala zarar verme suçu, başkasına ait malvarlığına zarar vermeye dönük hukuka aykırı müdahaleleri cezalandırmak amacıyla ihdas edilmiştir. Mala zarar verme suçu ile malvarlığı değerleri korunmak istendiğinden, bu suç  “Malvarlığına Karşı Suçlar” bölümünde TCK md. 151-152 arasında düzenlenmiştir.
 
-###Mala Zarar Verme Suçunun Unsurları
+### Mala Zarar Verme Suçunun Unsurları
 
 Mala zarar verme suçu ile mülkiyet hakkı korunmaktadır. Suçun konusu menkul bir mal olabileceği gibi gayrimenkul bir mal da olabilir. Yani, mağdurun cep telefonu, gözlüğü, arabası gibi menkul mallarına veya evi, arsası gibi taşınmaz mallarına zarar verilmesi hallerinde bu suç oluşur.
 
 Mala zarar verme suçu genel kast ile işlenebilen bir suçtur. Failin mala zarar verme fiilini gerçekleştirirken özel bir amaçla hareket edip etmemesinin bir önemi yoktur.
 
-###![Mala Zarar Verme](https://camo.githubusercontent.com/16ed7fc823d910be51db03deaf7accccb6995bac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32375771302e6a7067 "Mala Zarar Verme Suçu")
+### ![Mala Zarar Verme](https://camo.githubusercontent.com/16ed7fc823d910be51db03deaf7accccb6995bac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32375771302e6a7067 "Mala Zarar Verme Suçu")
 
 Mala zarar verme, seçimlik hareketlerle işlenebilen bir fiildir. Mala zarar verme fiilinin kaç farklı şekilde icra edilebileceği sınırlı bir şekilde TCK md. 151’de ifade edilmiştir. Kanunda sınırlı bir şekilde sayılan eylemler dışında mala zarar verme suçu işlenemez. TCK’ya göre mala zarar verme suçu, 6 farklı şekilde işlenebilir:
 
 
-####1- Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
+### #1- Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
 
 Her malın bir kullanım amacı vardır. Mal, kullanım amacını veya özgülendiği hizmeti yerine getirdiği müddetçe bir değere sahiptir. Fail, icra ettiği fiili ile malın niteliğini değiştirir veya mal özgülendiği fonksiyonu yerine getiremez hale gelirse malın bozulması, kullanılamaz hale getirilmesi suretiyle mala zarar verme suçu meydana gelir. 
 
-####2-  Yıkmak Suretiyle Mala Zarar Verme
+### #2-  Yıkmak Suretiyle Mala Zarar Verme
 
 Bir malın yıkılması, malın bünyesinde ciddi değişiklikler meydana getirilmesi anlamına gelir. Yıkmak fiiliyle, malın bünyesinde malı bozmaktan daha büyük bir değişiklik meydana gelmesi kastedilmiştir. Mesela, mağdura ait bir barakanın yıkılması veya evinin dış duvarının yıkılması yıkmak suretiyle mala zarar verme suçunun oluşmasına neden olur.
 
-####3-  Tahrip Etme Suretiyle 
+### #3-  Tahrip Etme Suretiyle 
 
 Bir mal kendisinden beklenen yararı ancak fiziksel özellikleri ve fonksiyonu ile yerine getirebilir. Malın tahrip edilmesi fiziksel özelliklerini kaybetmesine neden olur. Bir malı tahrip etmek demek, o malı kırıp dökmek, talan ve harap etmektir. Örneğin, mağdura ait evin camlarının kırılması evin tahrip edilmesi suretiyle mala zarar verme suçunu oluşturur.
 
-####4- Yok Etme Suretiyle 
+### #4- Yok Etme Suretiyle 
 
 Yıkılan, bozulan veya kullanılmaz hale getirilen bir mal tekrar tamir edilip fonksiyonu kazandırılabilir. Ancak failin ivra ettiği fiil nedeniyle bazen malın tamir edilmesi olanağı ortadan kaldırır. Malın yeniden onarılması veya kullanılmasını imkansız hale getirecek şekilde ve yoğunlukta işlenen fiil, yok etme suretiyle mala zarar verme suçunu oluşturur.
 
-####5- Kirletmek Suretiyle 
+### #5- Kirletmek Suretiyle 
 
 Kirletmek dışındaki tüm fiiller malın bütünlüğünü ortadan kaldıran, malın kullanılmasını zorlaştıran veya malı kullanılmaz hale getiren fiillerdir. Mala zarar verme fiili bazen eşyanın bütünlüğüne veya fiziksel yapısına zarar vermez. Ancak eşyanın “kirletilmiş” olması nedeniyle eski hale getirilmesi çaba ve masraf gerektirir. Malın kirletilmesi halinde kirletmek suretiyle mala zarar verme suçu oluşur.
 
-####6- Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
+### #6- Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
 
 Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TCK md. 151/2’ye göre sahipli bir hayvanı haklı bir gerekçe olmadan öldüren kişi mala zarar verme suçu hükümlerine göre cezalandırılacaktır.
 
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/97f4a31a565a41a24762079cb8e2c0d0466fa09e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f677941726d4c2e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/97f4a31a565a41a24762079cb8e2c0d0466fa09e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f677941726d4c2e6a7067 "Ceza Avukatı")
 
-###Mala Zarar Verme Suçunun Cezası
+### Mala Zarar Verme Suçunun Cezası
 
-####1- Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
+### #1- Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
 
 Suçun basit şeklinden kastedilen şey yukarıda açıklanan fiillerin özel mülkiyete tabi normal bir mal aleyhine işlenmesidir. Mala zarar verme suçu, basit şekliyle işlendiğinde sanığa 4 aydan 3 yıla kadar hapis cezası veya adli para cezası verilir. Suçun basit şeklinde hakim ya hapis cezası  ya da adli para cezası verecektir. Her iki yaptırım aynı anda uygulanamaz.
 
-####2- Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
+### #2- Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
 
 Mala zarar verme suçunun nitelikli halleri, zarar verilen eşyanın niteliğinden dolayı cezanın ağırlaştırılmasını gerektirir. Suçun;
 
@@ -79,7 +79,7 @@ işlenmesi halinde fail 1 yıldan 4 yıla kadar hapis cezası ile cezalandırıl
 
 Failin yakarak, yakıcı veya patlayıcı madde kullanarak, toprak kaymasına, çığ, sel veya taşkına sebep olma yoluyla, radyasyona maruz bırakarak, nükleer, biyolojik veya kimyasal silah kullanarak suçu işlemesi halinde suçun basit ve nitelikli halinin cezası bir kat arttırılır.
 
-###Mala Zarar Verme Suçu ve Etkin Pişmanlık
+### Mala Zarar Verme Suçu ve Etkin Pişmanlık
 
 [**Etkin pişmanlık**](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), işlediği fiilin olumsuz sonuçlarını gideren faile uygulanan bir ceza indirimi nedenidir. Mala zarar verme suçu nedeniyle etkin pişmanlık gösteren faile TCK md. 168 gereği ceza indirimi uygulanması gerekir:
 
@@ -87,7 +87,7 @@ Failin yakarak, yakıcı veya patlayıcı madde kullanarak, toprak kaymasına, �
 
 * Bu malvarlığı suçu nedeniyle etkin pişmanlık, fail hakkında dava açıldıktan sonra fakat hüküm verilmeden önce gösterilirse, yani zarar giderilirse, failin cezasından 1/2 oranında indirim yapılır.
 
-###Mala Zarar Verme Suçu Şahsi Cezasızlık ve Ceza İndirimi 
+### Mala Zarar Verme Suçu Şahsi Cezasızlık ve Ceza İndirimi 
 
 
 Mala zarar verme suçu ile ilgili şahsi cezasızlık halleri vardır (TCK md.167/1). Suça ilişkin şahsi cezasızlık halleri şunlardır:
@@ -105,15 +105,15 @@ suçu işleyen akraba aleyhine ceza verilemez.
   * Bu suçların, haklarında ayrılık kararı verilmiş olan eşlerden birinin, aynı konutta beraber yaşamayan kardeşlerden birinin, aynı konutta beraber yaşamakta olan amca, dayı, hala, teyze, yeğen veya ikinci derecede kayın hısımlarının zararına olarak işlenmesi halinde suç şikayete tabidir; şikayet edilirse ilgili akraba hakkında verilecek ceza yarı oranında indirilir.
 
 
-###Mala Zarar Verme Suçu Şikayet Süresi
+### Mala Zarar Verme Suçu Şikayet Süresi
 
 Suçun basit şekli en temel şekli, yani en az cezayı gerektiren şeklidir. Bu suçun basit şekli şikayete tabidir. Suçun mağduru şikayet hakkını faili ve fiili öğrenmesinden itibaren 6 ay içinde kullanmalıdır.
 
 Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği için daha ağır cezayı gerektiren şeklidir. Bu suçun nitelikli şekilleri  şikayete tabi değildir. Yani, mağdur şikayetçi olmasa bile savcılık tarafından suç kendiliğinden kovuşturulmalıdır.
 
-###Mala Zarar Verme Suçu Yargıtay Kararları   
+### Mala Zarar Verme Suçu Yargıtay Kararları   
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Mala Zarar Verme Suçu Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Mala Zarar Verme Suçu Yargıtay Kararları")
 
 ---
 

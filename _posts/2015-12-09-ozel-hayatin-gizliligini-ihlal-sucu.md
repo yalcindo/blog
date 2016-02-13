@@ -8,17 +8,17 @@ summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Su
 ---
 
 
-###![Özel Hayatın Gizliliğini İhlal Suçu](https://camo.githubusercontent.com/c823192781cff0a309c355192e8c823fe48c4fc9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f476b366a52362e6a7067 "Özel Hayatın Gizliliği")
+### ![Özel Hayatın Gizliliğini İhlal Suçu](https://camo.githubusercontent.com/c823192781cff0a309c355192e8c823fe48c4fc9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f476b366a52362e6a7067 "Özel Hayatın Gizliliği")
 
 
-##Özel Hayatın Gizliliğini İhlal Suçu Nedir?
+## Özel Hayatın Gizliliğini İhlal Suçu Nedir?
 
 
 **Özel hayatın gizliliği,** insanın sosyal hayat içerisinde sağlıklı bir birey olarak varolması için korunan bir hukuki değerdir. Özel hayatın gizliliğini ihlal suçu ile özel hayata müdahale girişimlerinden bireyin korunması amaçlanmıştır. Özel hayatın gizliliğini ihlal suçu, kişinin başkaları tarafından bilinmesini istemediği hayatının özel alanlarına girilmesini cezalandırarak bireye hukuki güvenlik sağlar.
 
-##Özel Hayatın Gizliliğini İhlal Suçu Şartları [(TCK md. 134)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4987)
+## Özel Hayatın Gizliliğini İhlal Suçu Şartları [(TCK md. 134)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4987)
 
-Birey sosyal hayatın farklı katmanlarında kendi hayatına ait farklı varoluş biçimleriyle ortaya çıkar. **Özel hayatın gizliliği suçu** ile yalnızca bireyin “özel hayatının gizliliği” kapsamında olan alana müdahale edilmesi halinde cezalandırılması söz konusudur. 
+Birey sosyal hayatın farklı katmanlarında kendi hayatına ait farklı varoluş biçimleriyle ortaya çıkar. **Özel hayatın gizliliği suçu** ile yalnızca bireyin “özel hayatının gizliliği” kapsamında olan alana müdahale edilmesi halinde cezalandırılması söz konusudur.
 
 Özel hayat birçok farklı katmandan oluşmaktadır. Özel hayatın gizliliği suçu ile özel hayatın yalnızca gizli alanı koruma altına alınmıştır. Bireyin sinema veya tiyatroya gitmesi, havuza girmesi, spor yapması da özel hayattır. Fakat toplumun diğer bireyleriyle aynı alanlarda yapılan bu faaliyetler “özel hayatın gizliliği” kapsamına alınabilecek faaliyetler değildir. Özel hayatın gizliliği, kişisel faaliyetlerin toplumun diğer bireyleri tarafından bilinmesinin istenmediği noktada başlar. Özel hayatın gizliliğini ihlal suçu da bireyin bilinmesini istemediği bu özel alana müdahaleyi engellemek için ihdas olunmuştur.
 
@@ -32,7 +32,7 @@ Suç, genel kastla işlenen bir suçtur. Özel hayatın gizliliğini ihlal suçu
 
 Özel hayatın gizliliğini ihlal suçu serbest hareketli bir suç olup özel hayatın gizlilik alanına herhangi bir fiil ile girmek yeterlidir.
 
-###Ünlü Kişiler ve Özel Hayatın Gizliliğini İhlal Suçu
+### Ünlü Kişiler ve Özel Hayatın Gizliliğini İhlal Suçu
 
 Normal insanların özel hayatın gizliliği alanı daha genişken, tanınmış şahsiyetlerin; örneğin siyasetçiler, sanatçılar, sporcular gibi ünlülerin, özel hayatı ve özel hayatın gizlilik kapsamı normal bir insanlara göre daha dardır. Ünlü kişiler belli ölçülerde özel hayatlarının izlenmesine katlanmak zorundadır. **Özel hayatın gizliliğini ihlal suçu,** ünlüler açısından farklı kriterlerle değerlendirilmek durumundadır.
 
@@ -40,10 +40,10 @@ Herhangi bir kişinin güneşlenirken sürekli izlenmesi, fotoğrafının çekil
 
 Siyasetçi, sanatçı, sporcu, kamu hizmeti sunan kişi vb. gibi her grubun kendine özgü bir **özel hayatın gizliliği** kapsamı vardır. Kim ne şekilde ve hangi ölçüde kamuoyu önündeyse o ölçüde özel hayatının gizliliği kapsamı değişecektir. Aynı grup içerisinde farklı katmanlarda yer alan kişilerin özel hayatının gizliliği kapsamı dahi farklıdır. Örneğin, bir partinin ilçe yöneticisi olarak siyaset yapan kişi ile aynı partide milletvekili olarak siyaset yapan kişi özel hayatın gizliliğini ihlal suçu bakımından farklı değerlendirme kriterlerine tabi tutulacaktır.
 
-###![Ceza Avukatı](https://camo.githubusercontent.com/7e6738fdf6b88a0a20eacc9cfbdf8f37a1e0f1e9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a586c392e6a7067 "Ceza Avukatı")
+### ![Ceza Avukatı](https://camo.githubusercontent.com/7e6738fdf6b88a0a20eacc9cfbdf8f37a1e0f1e9/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f395a586c392e6a7067 "Ceza Avukatı")
 
 
-###Özel Hayatın Gizliliğini İhlal Suçunun Ağır Şekli (TCK md. 134/2)
+### Özel Hayatın Gizliliğini İhlal Suçunun Ağır Şekli (TCK md. 134/2)
 
 Özel hayatın gizlilik alanına ilişkin ses ve görüntülerin “ifşa” edilmesi, özel hayatın gizliliğini ihlal suçunun ağır şeklinin meydana gelmesine neden olur.
 
@@ -52,25 +52,25 @@ Hemen belirtmek gerekir ki, görüntü ve seslerin ifşası, ifşayı sağlamaya
 
 Fail, hem ses ve görüntüleri kayda alır hem de ifşa ederse, burda TCK md. 134/1 ve 134/2’de tanımlanan iki farklı suç oluşur.  Failin her iki suçtan ayrı ayrı cezalandırılması gerekir.
 
-###Özel Hayatın Gizliliğini İhlal Suçunun Cezası
+### Özel Hayatın Gizliliğini İhlal Suçunun Cezası
 
 **Özel hayatın gizliliğini ihlal suçunun cezası,** TCK md. 134/1 ve md.134/2’de suçun basit ve ağır hali olmak üzere iki ayrı fıkrada düzenlenmiştir.
 
-Özel hayatın gizliliğini ihlal suçunun basit şeklinin cezası TCK md. 134/1’de ilk cümlede 1 yıldan 3 yıla kadar hapis cezası olarak düzenlenmiştir. Suçun basit şekli işlenirken ses veya görüntü kaydedilmesi halinde, ilk cümlede ifade edilen 1 yıldan 3 yıla kadar hapis cezası, aynı maddenin ikinci cümlesi gereği bir kat arttırılarak  suçu işleyen faile 2 yıldan 6 yıla kadar hapis cezası verilir. 
+Özel hayatın gizliliğini ihlal suçunun basit şeklinin cezası TCK md. 134/1’de ilk cümlede 1 yıldan 3 yıla kadar hapis cezası olarak düzenlenmiştir. Suçun basit şekli işlenirken ses veya görüntü kaydedilmesi halinde, ilk cümlede ifade edilen 1 yıldan 3 yıla kadar hapis cezası, aynı maddenin ikinci cümlesi gereği bir kat arttırılarak  suçu işleyen faile 2 yıldan 6 yıla kadar hapis cezası verilir.
 
 Suçun basit şekli için örnek vermek gerekirse, bir kimsenin yatak odasını gizlice izlemek 1 yıldan 3 yıla kadar hapis, görüntüleri kaydetmek 2 yıldan 6 yıla kadar hapis cezasını gerektirir.
 
 Özel hayatın gizliliğini ihlal suçunun ağır şekli, yani ses veya görüntülerin ifşa edilmesi suçunun cezası 2 yıldan 5 yıla kadar hapistir. İfşanın basın yayın veya internet yoluyla yapılması halinde de aynı ceza uygulanır.
 
-###Özel Hayatın Gizliliğini İhlal Suçu ve Şikayet Süresi
+### Özel Hayatın Gizliliğini İhlal Suçu ve Şikayet Süresi
 
 [TCK md. 139](http://www.turkhukuksitesi.com/mevzuat.php?mid=5008) gereği, özel hayatın gizliliğini ihlal suçunun tüm şekilleri şikayete tabidir. Yani, mağdur şikayetçi olmadan savcılığın soruşturma yapması, mahkemenin kovuşturma yapması mümkün değildir. Şikayet süresi, mağdurun fiili işlendiğini ve fiili işleyen kişiyi öğrendiği tarihten başlamak üzere 6 aydır. Örneğin; Mağdur, aleyhine özel hayatın gizliliğini ihlal suçu işlendiğini 01.01.2016 tarihinde öğrenmiş, suçu işleyen kişiyi de 01.09.2016 tarihinde öğrenmiş olsun. Bu somut olayda mağdurun 6 aylık şikayet hakkı süresi, 01.09.2016 tarihinde başlar, 01.03.2017 tarihinde sona erer.
 
-Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir. 
+Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şikayetçi olunduğu görülmektedir. Kollukta şikayetten vazgeçildiği takdirde mağdurum aynı fiil ile ilgili şikayet hakkı ortadan kalkar. Çünkü hukuk sistemimizde “şikayetten feragatten vazgeçmek” mümkün değildir.
 
-###Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları     
+### Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları     
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Özel Hayatın Gizliliği Suçu Yargıtay Kararları")
 
 ---
 

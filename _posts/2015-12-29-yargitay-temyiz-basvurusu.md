@@ -12,7 +12,7 @@ summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yar
 **Temyiz,** mahkeme tarafından verilen kararın yeniden incelenmesi için bir davanın taraflarına tanınan olağan bir kanun yoludur.  Esasen **temyiz,** üst mahkemede açılan yeni bir tür davadır. Taraflar, **temyiz incelemesi** ile yerel mahkeme kararının değiştirilmesini veya bozulmasını talep ederler. Ceza mahkemeleri kararlarına karşı **temyiz başvurusu,**  üst mahkeme,  yanib **temyiz mahkemesi**  olan  Yargıtay’a temyiz dilekçesi  ile yapılır.
 
 
-###![Yargıtay Temyiz Başvurusu](https://camo.githubusercontent.com/e13824900dd05c77aa7cc5d1a4e9ae7a40169f17/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750426f426d2e6a7067 "Yargıtay Temyiz Başvurusu")
+### ![Yargıtay Temyiz Başvurusu](https://camo.githubusercontent.com/e13824900dd05c77aa7cc5d1a4e9ae7a40169f17/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750426f426d2e6a7067 "Yargıtay Temyiz Başvurusu")
 
 ##Temyiz Süresi Ne Kadardır?
 
@@ -22,25 +22,25 @@ Davanın tarafları duruşmada hazır ise karar kendilerine sözlü olarak açı
 
 Davanın tarafları duruşmada hazır değilse, mahkeme tarafların yokluklarında karar verip mahkeme kararını taraflara tebliğ eder.  Bu durumda kararın PTT yoluyla taraflara tebliğ edildiği, yani ulaştırıldığı günün ertesi günü 7 günlük temyiz süresi işlemeye başlar.
 
-###Kimler Temyiz Hakkına Sahiptir?
+### Kimler Temyiz Hakkına Sahiptir?
 
 Mahkeme kararını temyiz edebilmek için yerel mahkemede davanın tarafı olmak gerekir. Bir davanın sanığı, yani yargılanan kişi davanın tarafı olduğu için temyiz hakkına sahiptir. Davanın sanığı temyiz hakkını **temyiz süresi** içinde bizzat kullanabileceği gibi yasal temsilcileri (vasi, anne-baba vs.), avukatı  veya eşi de sanık adına temyiz başvurusu yapabilir.
 
 Davaya müdahil olan kişiler (şikayetçiler, mağdurlar, suçtan zarar gören üçüncü kişiler) de davanın tarafı olduklarından yerel mahkeme kararını temyiz hakkına sahiptir. Herhangi bir davaya müdahale talebinde bulunup da bu talebi yerel mahkeme tarafından reddedilenler  ile katılan olabilecek şekilde suçtan zarar görenler temyiz hakkına sahiptir (CMK md. 260).
 Cumhuriyet savcısı sanığın lehine veya aleyhine temyiz başvurusu yapabilir (CMK md. 260/3). Ancak cumhuriyet savcısı, sanığın yararına yanlış uygulanan “hukuk kurallarına aykırılık” olduğu gerekçesiyle hükmün bozulması amacıyla temyiz hakkına sahip değildir (CMK md. 290).
 
-###Temyiz Başvurusu Nasıl Yapılır?
+### Temyiz Başvurusu Nasıl Yapılır?
 
 
 **Temyiz başvurusu,** hükmü veren mahkemeye bir [**Temyiz Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/temyiz-dilekcesi-ornegi.html) verilerek yapılır. Temyiz dilekçesinde **temyiz nedenleri**ne yer verilmelidir.
 
 Sanık, cezaevinde tutuklu veya hükümlü olarak tutuluyorsa temyiz başvurusunu bulunduğu cezaevi müdürlüğüne temyiz dilekçesi vererek kullanabilir.
 
-###Temyiz Başvurusu Usulünde Yanılma
+### Temyiz Başvurusu Usulünde Yanılma
 
 Temyiz başvurusu yapan kişi, temyiz dilekçesini hangi mahkeme veya birime vereceği konusunda yanılabilir. Yanlış mahkemeye veya birime verilen temyiz dilekçesi, başvuranın temyiz hakkının kaybolmasına yol açmaz. Yanlış merciiye verilen temyiz dilekçesi, temyiz süresi içinde verilmişse geçerli kabul edilir. Yetkili olmadığı halde temyiz dilekçesini alan mercii, dilekçeyi derhal  görevli  ve yetkili mahkemeye göndermek zorundadır  (CMK md. 264).
 
-###Cumhuriyet Savcısı ve Sanığın Kararı Temyizi Halinde Olası Sonuçlar
+### Cumhuriyet Savcısı ve Sanığın Kararı Temyizi Halinde Olası Sonuçlar
 
 Cumhuriyet savcısı, yargılanan kişinin lehine veya aleyhine temyiz başvurusu yapabilir (CMK md. 260/3). Cumhuriyet savcısı temyiz dilekçesi verirken kararı sanığın lehine mi aleyhine mi temyiz ettiğini belirtmek  zorundadır . Cumhuriyet savcısı sanık lehine başvuru yaptıktan sonra sanığın rızası olmadan temyiz başvurusundan vazgeçemez (CMK md. 266)
 
@@ -52,32 +52,32 @@ Sanık yerel mahkeme kararını temyiz edebilir veya hakkında temyiz dilekçesi
 
 **Temyiz** konusunda sanık ile avukatının iradesi çelişirse, örneğin sanığın hükmü temyiz etmek istememesine rağmen  avukatı **temyiz başvurusu** yaparsa, kural olarak asilin iradesine üstünlük tanınır. Ancak,  onsekiz  yaşını doldurmamış ya da sağır veya dilsiz veya kendisini savunamayacak derecede malûl olan sanığın iradesi ile avukatının  iradesi çelişirse avukatının iradesine üstünlük tanınır (CMK md.  266/3)
 
-###Temyiz Başvurusu ve Etkisi
+### Temyiz Başvurusu ve Etkisi
 
 Süresinde yapılan **temyiz başvurusu** hükmün kesinleşmesini engeller. Yani yerel mahkeme tarafından verilen hüküm temyiz nedeniyle kesinleşmediğinden infaza verilemez. Temyizin sanığın lehine veya aleyhine olmasının hiçbir önemi yoktur. Her iki halde de temyiz hükmün kesinleşmesini engeller.
 
-###Temyiz ve Duruşma
+### Temyiz ve Duruşma
 
 Temyiz incelemesi, kural olarak dosya üzerinden yapılır. Ancak sanığa verilen ceza 10 yıl veya üzerindeyse, sanık, müdahil, cumhuriyet savcısının talebi üzerine veya Yargıtay tarafından kendiliğinden hükmün temyiz incelemesi duruşmalı yapılabilir.
 Sanık tutuksuz yargılanmakta ise temyiz duruşmasında kendi hazır bulunabileceği gibi avukatı da hazır bulunabilir. Ancak sanık tutuklu ise temyiz duruşmasında hazır bulunma hakkı yoktur (CMK 299/2).
 
-###![Yargıtay Temyiz Dilekçesi](https://camo.githubusercontent.com/e162db5ffa0d03ce19c3582b3a7ff183767598a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f317270594a312e6a7067 "Yargıtay Temyiz Dilekçesi")
+### ![Yargıtay Temyiz Dilekçesi](https://camo.githubusercontent.com/e162db5ffa0d03ce19c3582b3a7ff183767598a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f317270594a312e6a7067 "Yargıtay Temyiz Dilekçesi")
 
 
-###Temyiz İncelemesi Sonucu Onama veya Düzelterek Onama
+### Temyiz İncelemesi Sonucu Onama veya Düzelterek Onama
 
 Yargıtay yapacağı temyiz incelemesi sonucu hükmü onayabilir veya bozabilir. Yargıtay’ın temyiz incelemesi sonucu hükmü onaması halinde yerel mahkeme tarafından verilen hüküm kesinleşir. Sanık bu aşamadan sonra olağan kanun yollarını tüketmiş olduğundan hüküm infaza verilebilir. Yerel mahkeme hükmünün temyiz incelemesi neticesinde onanması halinde; sanık, kararın düzeltilmesi için Yargıtay Cumhuriyet Başsavcılığı'na başvurabilir. 
 
 Düzelterek onama, yerel mahkeme tarafından verilen hükümde yer alan basit hataların temyiz incelemesi sırasında düzeltilerek hükmün  onanmasıdır. Düzelterek onama kararı verilebilmesi için yerel mahkemenin yaptığı hatanın yeniden yargılama yapmayı gerektirmeyecek ölçüde basit bir hata olması gerekir. Örneğin, TCK md. 53 hükümlerinin uygulanmaması, yargılama giderlerine yanlış hükmedilmesi, ceza hesaplanırken matematiksel hata yapılması vb. gibi hatalar, yeniden yargılamayı gerektirmeyen basit hatalar olduğundan "düzelterek onama" yolu ile hükümde yer alan yanlışlıklar düzeltilebilir.
 
 
-###Temyiz İncelemesinden Sonra "Kararın Düzeltilmesi" Başvurusu [(CMK md. 308)](http://www.turkhukuksitesi.com/mevzuat.php?mid=6164)
+### Temyiz İncelemesinden Sonra "Kararın Düzeltilmesi" Başvurusu [(CMK md. 308)](http://www.turkhukuksitesi.com/mevzuat.php?mid=6164)
 
 Yargıtay’ın onama kararından sonra olağanüstü bir kanun yolu olan Yargıtay Cumhuriyet Başsavcılığı’na kararın düzeltilmesi için başvurulabilir. Kararın düzeltilmesi yolu, hakkındaki hüküm temyiz incelemesinden sonra kesinleşen sanık tarafından talep edilebileceği gibi Yargıtay Cumhuriyet Başsavcılığı'nca kendiliğinden de işletilebilir. Kararın düzeltilmesi yolu, özellikle savcılık tebliğnamesine (savcılık görüşü) aykırı verilen daire kararlarına karşı etkin bir yoldur. Örneğin, savcılık yerel mahkeme hükmünün bozulmasını talep etmiş, Yargıtay Ceza Dairesi ise onama kararı vermişse kararın düzeltilmesi yoluna başvurulması gerekir.
 
 Kararın düzeltilmesi yolu, olağanüstü bir yargı yoludur. Bu nedenle, kararın düzeltilmesi talebinde bulunulması hükmün infazını durdurmaz. 
 
-###Temyiz İncelemesi ve Hükmün Bozulması
+### Temyiz İncelemesi ve Hükmün Bozulması
 
 Yargıtay Ceza Dairesi, temyiz incelemesi sonucu hükmü bozarsa hüküm yine kesinleşmez. Temyiz incelemesi sonucu yerel mahkeme kararının Yargıtay tarafından bozulması halinde dosya yeniden yerel mahkemeye gelir ve bozma çerçevesinde taraflar davet edilerek yeniden bir yargılama yapılır.
 

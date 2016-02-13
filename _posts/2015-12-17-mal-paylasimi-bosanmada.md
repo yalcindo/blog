@@ -20,9 +20,9 @@ Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. Mal paylaşımı
 Her iki dönem açısından da temel kural evlenmeden önce alınan mallar kimin üzerine kayıtlıysa onun kişisel malı sayılır ve boşanmada mal paylaşımında hesaba katılmaz.
 
 
-###![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşianmada Mal Paylaşımı")
+### ![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşianmada Mal Paylaşımı")
 
-###Boşanmada Mal Paylaşımı Nasıl Yapılır?
+### Boşanmada Mal Paylaşımı Nasıl Yapılır?
 
 
 Boşanmada mal paylaşımının esası evlilik içerisinde elde edilen malların paylaşılmasıdır. Bu nedenle evlilikten önce elde edilen mallar hiçbir surette mal paylaşımına dahil edilemez. Evlilik içerisinde elde edilen malların paylaşımında kural, malların yarı yarıya paylaşımı ise de bu kuralın paylaşım oranını değiştiren bazı uygulama esasları vardır. Boşanma sırasında mallar paylaşılırken anahatlarıyla şöyle bir prosedür işlemeye başlar:
@@ -55,24 +55,24 @@ Eşlerden biri herhangi bir malın kişisel mal olduğu iddiasında ise bu iddia
 
 
 
-###Mal Paylaşımı İçin Evlilikten Önce Sözleşme Yapmak Gerekir mi?
+### Mal Paylaşımı İçin Evlilikten Önce Sözleşme Yapmak Gerekir mi?
 
 
 Mevcut Medeni Kanuna göre yasal mal rejimi “Edinilmiş Mallara Katılma Rejimi” dir. Yani evlenirken hiçbir sözleşme yapılmasına gerek yoktur. Deyim yerindeyse, eşler nikah defterine imza attıktan hemen sonra satın alınan tüm mallar, boşanma sırasında kural olarak yarı yarıya paylaşılacaktır.  Malların yarı yarıya paylaşılması doğrudan kanundan kaynaklanan bir haktır.
 
 
 
-###Anlaşmalı Boşanma Halinde Mal Paylaşımı Nasıl Yapılır?
+### Anlaşmalı Boşanma Halinde Mal Paylaşımı Nasıl Yapılır?
 
 
 Anlaşmalı boşanmada mal paylaşımı tarafların rızasına göre belirlenir. Eşler, anlaşmalı boşanma protokolüyle isterse malları yine yarı yarıya paylaşabilir veya başka bir paylaşım oranı belrileyebilir. Eşlerden biri anlaşmalı boşanma protokolüyle mal paylaşamına dair tüm haklarından feragat de edebilir.
 
 
 
-###Evlilik İçinde Alınan Malların Boşanmada Mal Paylaşımına Dahil Edilmemesi İçin Ne Yapılmalı? 
+### Evlilik İçinde Alınan Malların Boşanmada Mal Paylaşımına Dahil Edilmemesi İçin Ne Yapılmalı? 
 
 
-###![Boşanmada Mal Paylaşımı Sözleşmesi](https://camo.githubusercontent.com/2645e0c0f78020377973bda3f32e0a481491c887/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a47414c622e6a7067 "Mal Paylaşımı Sözleşmesi")
+### ![Boşanmada Mal Paylaşımı Sözleşmesi](https://camo.githubusercontent.com/2645e0c0f78020377973bda3f32e0a481491c887/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a47414c622e6a7067 "Mal Paylaşımı Sözleşmesi")
 
 Eşler evlilik içinde edindikleri mallarını paylaşmak istemiyorlarsa buna uygun bir mal paylaşımı sözleşmesi yapabilirler. Eşler evlenirken veya evlendikten sonra diledikleri mal rejimini seçebilirler. Eşler, Mal Ayrılığı Rejimini sözleşme yaparak seçebilir. Böylece her eş evlilik içinde kazandığı mal üzerinde tek başına hak sahibi olur. Boşanma esnasında diğer eş evlilik içerisinde edinilmiş mal üzerinde hak talebinde bulunamaz. Mal Ayrılığı Sözleşmesi, iki şekilde yapılabilir. Birinci yöntem evlilik sırasında evlendirme memurluğuna bir dilekçe verilerek eşler arasında Mal Ayrılığı Rejimi’nin seçildiğinin bildirilmesidir. İkinci yöntem ise noterde Mal Ayrılığı Sözleşmesi yapılmasıdır. Noterde yapılacak sözleşme evlilikten önce veya sonra her zaman yapılabilir. Yani, eşler evlendikten 5 yıl sonra dahi notere giderek Mal Ayrılığı Sözleşmesi yapabilirler. Boşanma halinde evlilik mallarının paylaşımı, bu sözleşmeyle sağlandığından boşanma sırasında çiftler arasında ortaya çıkması muhtemel bir uyuşmazlık engellenmektedir. 
 
@@ -80,62 +80,62 @@ Eşler sözleşmeyle “Mal Ortaklığı” gibi  evliliğe özel bir ortaklık 
 
 
 
-###Miras Kalan Mallar Boşanmada Mal Paylaşımına Dahil midir?
+### Miras Kalan Mallar Boşanmada Mal Paylaşımına Dahil midir?
 
 Evlilik sırasında eşlerden birine kalan miras,  kendisine miras kalan eşin kişisel malı olur. Yani boşanma halinde, diğer eş mal paylaşımı sırasında miras kalan mal üzerinde hiçbir hak talep edemez. Fakat, miras kalan mal nedeniyle elde edilen gelirler, örneğin miras kalan gayrımenkulün kiraya verilmesiyle elde edilen kira geliri, edinilmiş mal sayıldığından diğer eş mal paylaşımında evlilik sırasında elde edilen gelirlerin yarısı üzerinde hak sahibi olur.
 
 
 
-###Bir Eşe Bağışlanan Mallar veya Paralara Boşanmada Mal Paylaşımı Sırasında Diğer Eş Ortak Olabilir mi?
+### Bir Eşe Bağışlanan Mallar veya Paralara Boşanmada Mal Paylaşımı Sırasında Diğer Eş Ortak Olabilir mi?
 
 
 Evlilik sırasında eşlerden birine bağışlanan her türlü ev, araba, para veya parasal değeri olan her şey  bağışlanan eşin kişisel malıdır. Yani, diğer eş boşanma halinde mal paylaşımı sırasında bu mallar üzerinde hiçbir hak talep edemez. Fakat bu malların evlilik içerisinde elde edilen kira gelirleri, faiz gelirleri edinilmiş mal kabul edildiğinden, boşanma sırasında diğer eş bu gelirlerin yarısı üzerinde hak sahibi olur.
 
 
-###Evlilikten Önce Alınan Malları Satılarak Evlilik İçinde Yeni Mal Satın Alınması
+### Evlilikten Önce Alınan Malları Satılarak Evlilik İçinde Yeni Mal Satın Alınması
 
 **Mal paylaşımı,** evlilik içerisinde elde edilen malların paylaşımı esası üzerine kurulmuş bir sistemdir. Evlilikten önce alınan mallar, kişisel mal olarak kabul edilir. Dolayısıyla evlilikten önce alınan bir malın satılarak evlilik içinde yeni bir mal alınması halinde, bu mal üzerinde diğer eşin hak sahibi olması mümkün değildir. Ama evlilikten önce alınan malın değerine, bir miktar para veya mal eklenerek yeni bir mal alınırsa, bu eklenen değerin malda meydana getirdiği artık değerin yarısı üzerinde diğer eş hak sahibi olur.
 
 
 
-###Boşanmada Mal Paylaşımı ve Bir Eşin Üçüncü Kişilerden Aldığı Maddi ve Manevi Tazminat
+### Boşanmada Mal Paylaşımı ve Bir Eşin Üçüncü Kişilerden Aldığı Maddi ve Manevi Tazminat
 
 Manevi tazminatlar, kişisel mal olarak kabul edildiğinden **boşanmada mal paylaşımı** davasında diğer eşin manevi tazminat üzerinde hiçbir yasal hakkı yoktur. Maddi tazminatlar ise edinilmiş mal olarak kabul edilir. Yani, eşlerden biri bedensel zarar nedeniyle herhangi bir maddi tazminata hak kazanırsa, diğer eş boşanma halinde maddi tazminatın yarısı üzerinde hak sahibi olur.
 
 
 
-###Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
+### Evlilikten Önce Alınan Gayrımenkullerim Var, Boşanmada Mal Paylaşımı Sırasında Eşim Bu Gayrımenkullerin Kira Geliri Üzerinde Hak Sahibi Olur mu?
 
 
-###![Boşanma Mal Paylaşımı](https://camo.githubusercontent.com/f5d9eaa3ad10da36bf8122e8cf923a9a9c023107/687474703a2f2f692e68697a6c69726573696d2e636f6d2f716c365934712e6a7067 "Mal Paylaşımı")
+### ![Boşanma Mal Paylaşımı](https://camo.githubusercontent.com/f5d9eaa3ad10da36bf8122e8cf923a9a9c023107/687474703a2f2f692e68697a6c69726573696d2e636f6d2f716c365934712e6a7067 "Mal Paylaşımı")
 
 
 Evlilikten önce alınan taşınmazların kira geliri, evlilik içinde elde edilen mal sayıldığından, boşanmada mal paylaşımı sırasında diğer eş bu kira gelirlerinin yarısı üzerinde hak sahibi olur. Çünkü taşınmaz mal, evlilikten önce alınsa da malın getirdiği gelir evlilik içerisinde elde edilmektedir. Fakat bir sözleşmeyle diğer eşin bu gelirleri talep etmeyeceği hususu hüküm altına alınabilir.
 
 
 
-###Eşimin Aldığı Taşınmaza/Otomobile Para Vererek Katkı Sundum, Yaptığım Katkının Değerini Boşanmada Mal Paylaşımı Sırasında Geri Alabilir miyim?
+### Eşimin Aldığı Taşınmaza/Otomobile Para Vererek Katkı Sundum, Yaptığım Katkının Değerini Boşanmada Mal Paylaşımı Sırasında Geri Alabilir miyim?
 
 
 Eşlerden biri diğer eşin üzerine kaydedilen herhangi bir taşınır veya taşınmaz malın alınmasını, tamir edilmesini, iyileştirilmesini veya herhangi bir suretle malın değer kazanmasını sağlayacak şekilde katkı sunmuşsa, diğer eşten sunduğu bu katkının güncel değerini boşanmada mal paylaşımı sırasında geri isteyebilir. Örnek vermek gerekirse 2005 yılında 100.000 TL'ye alınan bir taşınmaza bir eş 30.000 TL katkı sunmuşsa, 2015 yılında taşınmazın değerini 200.000 TL olarak kabul ettiğimizde katkıyı sunan eşin alacağının güncel bedeli yaklaşık olarak 60.000 TL olacaktır.
 
 
-###Evlilik Sırasında %50 Dışında Bir Mal Paylaşımı Belirlemek Mümkün mü?
+### Evlilik Sırasında %50 Dışında Bir Mal Paylaşımı Belirlemek Mümkün mü?
 
 
 Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dışında bir oran belirleyebilir. Eşler, boşanma halinde malların paylaşım oranını noterde yapacakları bir sözleşmeyle belirleyebilir.
 
 **Mal paylaşımı davası,** birçok pratik sorunların ortaya çıktığı karmaşık bir dava türüdür. Fakat yukarıda verdiğimiz temel bilgilerin boşanmada mal paylaşımı esaslarının anlaşılmasına yardımcı olacağını umuyoruz.
 
-###Boşanmada Mal Paylaşımı Davası Açma Süresi
+### Boşanmada Mal Paylaşımı Davası Açma Süresi
 
 Boşanmada mal paylaşımı davalarında bir zamanaşımı süresi mevcuttur. Boşanma davasının kesinleşmesinden itibaren 1 yıl içinde mal paylaşımı davasının açılması gerekir. Kanunun belirlediği 1 yıllık süre geçtiği takdirde, mal paylaşımı talebinde bulunmak mümkün değildir. Uygulamada boşanma davası sonuçlanmadığı halde ayrı bir dava ile mal paylaşımı talebi dava konusu edildiğinde, mal paylaşımı davasına bakan mahkeme boşanma davasının kesinleşmesini beklemekte ve zamanaşımı sorunu bu şekilde daha kolay bertaraf edilmektedir.
 
 Özellikle belirtmek gerekir ki, boşanmada mal paylaşımı davası açılırken mutlaka belirsiz alacak davası olarak açılmalıdır. 
 
-###Boşanmada Mal Paylaşımı Yargıtay Kararları  
+### Boşanmada Mal Paylaşımı Yargıtay Kararları  
 
-###![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Boşanmada Mal Paylaşımı Yargıtay Kararları")
+### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Boşanmada Mal Paylaşımı Yargıtay Kararları")
 
 ---
 
