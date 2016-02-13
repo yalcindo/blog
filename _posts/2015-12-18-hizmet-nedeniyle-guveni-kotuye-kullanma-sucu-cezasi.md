@@ -9,7 +9,7 @@ keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye
 
 ### ![Güveni Kötüye Kullanma Suçu](https://camo.githubusercontent.com/04eeb19bf8f6e45e657da04915053f2b8dcac8ab/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a314c6e38472e6a7067 "Güveni Kötüye Kullanma Suçu")
 
-##Güveni Kötüye Kullanma Nedir?
+## Güveni Kötüye Kullanma Nedir?
 
 **Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan *hizmet ilişkisinin* kötüye kullanılması suretiyle **güveni kötüye kullanma suçu** işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
 
@@ -25,7 +25,7 @@ Güveni kötüye kullanma suçu (emniyeti suistimal suçu) beş farklı şekilde
 
 * Başkasının mallarını yönetmek  yetkisi çerçevesinde tevdi ve teslim edilen mallar ile ilgili emniyeti suistimal  (TCK md. 155/2).
 
-##Güveni Kötüye Kullanma Suçu Şikayet Süresi
+## Güveni Kötüye Kullanma Suçu Şikayet Süresi
 
 Güveni kötüye kullanma suçu, basit ve nitelikli hal olmak üzere iki şekilde işlenebilir. Suçun basit şekli şikayete tabidir. Şikayet süresi, suçun işlendiğinin ve failinin öğrenildiği tarihten başlamak üzere 6 aydır. Suça dair şikayet hakkı 6 ay içerisinde kullanılmaz ise, bir daha aynı fiil ile ilgili şikayet hakkı kullanılamaz.
 Suçun nitelikli hallerinde şikayet süresi yoktur. Suçun nitelikli hallerinin zamanaşımı süresi 15 yıldır. Zamanaşımı süresi içinde şikayet hakkı kullanılabilir.
@@ -105,19 +105,19 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 ### Güveni Kötüye Kullanma Suçu ile Diğer Bazı Suçlar Arasındaki İlişki
 
-### #1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
+#### 1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
 
 [Hırsızlık suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
 Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
-### #2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
+#### 2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
 [Dolandırıcılık suçu](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
 
 Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim ettiği mal üzerinde gerçekleşir. Failin haksız bir çıkar sağlaması şart olmayıp, zilyetliğin devri amacına aykırı kullanım veya devir olgusunun inkar edilmesi suçun işlenmesi için yeterlidir.
 
-### #3-) Zimmet Suçu ve Emniyeti Suistimal Suçu
+#### 3-) Zimmet Suçu ve Emniyeti Suistimal Suçu
 
 [Zimmet suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html), görevi nedeniyle kendisine teslim edilen malvarlığı değerleri üzerinde işlenebilir. Zimmet suçu ancak bir kamu görevlisi tarafından işlenebilir. Emniyeti suistimal suçu herkes tarafından işlenebilen ve güven ilişkisine dayalı bir suçtur.
 
