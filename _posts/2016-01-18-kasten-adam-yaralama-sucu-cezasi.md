@@ -9,11 +9,11 @@ summary: Kasten Adam Yaralama Suçu Nedir? Silahla Adam Yaralama Suçu, Bıçakl
 
 ### ![Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067)
 
-##Kasten Adam Yaralama Suçu Nedir?
+## Kasten Adam Yaralama Suçu Nedir?
 
 **Kasten adam yaralama suçu,** bir kimsenin vücuduna acı verilmesi, sağlığının veya algılama yeteneğinin bozulmasına neden olan etkili bir eylem işlemek suretiyle zarar verilmesidir. Kasten adam yaralama suçu, TCK md. 86’da ‘vücut dokunulmazlığına karşı suçlar’ başlığı altında düzenlenmiştir. 
  
-##Kasten Adam Yaralama Suçu Şikayet Süresi
+## Kasten Adam Yaralama Suçu Şikayet Süresi
 
 Kasten adam yaralama suçu, ileride açıklayacağımız üzere basit ve nitelikli haller olmak üzere iki farklı şekilde işlenebilir. Suçun basit hallerinden biri olan “basit tıbbi müdahale ile (BTM) giderilebilecek” adam yaralama suçları şikayete tabidir. BTM ile giderilebilecek adam yaralama suçunda şikayet süresi 6 aydır. Mağdur 6 ay içinde şikayetçi olmazsa şikayet hakkı ortadan kalkar. 
 
