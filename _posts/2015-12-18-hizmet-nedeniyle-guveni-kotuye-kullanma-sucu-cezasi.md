@@ -33,7 +33,7 @@ Suçun nitelikli hallerinde şikayet süresi yoktur. Suçun nitelikli hallerinin
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/1eab66629c8a377b47ed54845c7a826f2ee6a322/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c6732336a622e6a7067 "Ceza Avukatı") 
 
-##Güveni Kötüye Kullanma (Emniyeti Suistimal) Suçu Şartları 
+## Güveni Kötüye Kullanma (Emniyeti Suistimal) Suçu Şartları 
 
 Güven ilişkisi sosyal düzenin devamı için önemli bir hukuki değer olarak kabul edilmektedir. Kişisel veya kamu güveninin ihlal edilmesi TCK’nın çeşitli maddelerinde ceza yaptırımıyla karşılanmıştır. Güveni kötüye kullanma suçu şartları da TCK 155. maddede tüm unsurlarıyla açıklanmıştır. 
 
