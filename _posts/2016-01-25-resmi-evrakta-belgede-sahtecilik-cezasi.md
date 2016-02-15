@@ -23,7 +23,7 @@ Yukarıdaki üç seçimlik hareketten herhangi birinin fail tarafından işlenme
  
 ### ![Resmi Evrakta Sahtecilik Suçu](https://camo.githubusercontent.com/093021669e6971fc6810333581aff5af33864f3f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32716a58312e6a7067 "Resmi Evrakta Sahtecilik Suçu")
 
-##Resmi Evrakta Sahtecilik ve Mağdur
+## Resmi Evrakta Sahtecilik ve Mağdur
 
 Resmi evrakta sahtecilik suçu bir kişi aleyhine işlense bile suçun mağduru daima devlet olarak kabul edilmektedir. Fail suçu işleyerek kamu güvenini zedelemiştir. İşlenen suç nedeniyle maddi-manevi zarar gören gerçek kişiler mağdur değil, “suçtan zarar gören” sıfatıyla soruşturma ve kovuşturmada şikayetçi olup yargılamaya katılabilirler (Yargıtay Ceza Genel Kurulu – 2014/202 K.).
 
