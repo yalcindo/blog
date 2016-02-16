@@ -48,7 +48,7 @@ Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da ta
 
 **Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir:
 
-### #a-	Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
+#### a-	Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
 
 
 **Görevi kötüye kullanma,** herhangi bir kişiye zarar verebilir. Zarar gören kişi, gerçek bir kişi olabileceği gibi tüzel bir kişi de olabilir. Suçun mağduru bir vatandaş da olabilir, bir şirket, vakıf veya dernek de olabilir.
