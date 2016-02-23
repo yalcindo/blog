@@ -89,7 +89,7 @@ Zimmet suçu nedeniyle yargılama yapılıp hüküm verildikten sonra zarar gide
 
 **Zimmet suçu**, kamu idaresinin güvenirliğine ve devlete karşı işlenen suçlar kategorisinde yer alır. Ancak malvarlığı değerlerine karşı işlenmesi nedeniyle ekonomik suç kategorisinde kabul edilen suçlardandır.
 
-Zimmet suçunun konusu olan malın değerinin azlığı bir ceza indirimi nedenidir. Suçun konusu olan malın değerinin azlığı nedeniyle faile verilecek 1/3 oaranından 1/2 oranına kadar ceza indirimi yapılabilir.
+Zimmet suçunun konusu olan malın değerinin azlığı bir ceza indirimi nedenidir. Suçun konusu olan malın değerinin azlığı nedeniyle faile verilecek 1/3 oranından 1/2 oranına kadar ceza indirimi yapılabilir. 
 
 **Zimmet suçu**, suça dair cezanın ağırlığı, suçun niteliği, indirim nedenleri göz önüne alındığında mutlaka bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla savunma yapılması gereken bir suçtur.
 
