@@ -123,9 +123,12 @@ Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmala
 
 ---
 
+
 -	18 yaşından küçük çocuklar sahibinden izinsiz kiraz yemek için ağaca çıkmış, bu arada ağacın dalları da kırılmıştır. Suçun işleniş şekli ve somut olayda suçun konusu malın değerinin azlığı  nedeniyle çocuklar hakkında beraat kararı verilmesi gerekirken hırsızlık suçundan mahkumiyet kararı verilmesi hukuka aykırıdır (Yargıtay 13. Ceza Dairesi – Esas No: 2014/16390, Karar No: 2015/3661, Tarih: 05.03.2015).
 
 -	Sanık hakkında aynı evde yaşayan iki mağdura karşı hırsızlık suçu işlediği gerekçesiyle mahkumiyet kararı verilmiştir. İddianamede sanığa sadece bir mağdura karşı işlenen hırsızlık suçundan dava açılmıştır. İddianamedeki fiil anlatımının dışına çıkılarak iki hırsızlık suçundan ceza verilmesi hukuka aykırıdır (Yargıtay Ceza Genel Kurulu – Esas No: 2013/6-667, Karar No: 2015/5, Tarih: 17.02.2015).
+
+- Sanık, 29.12.2011 tarihinde mağdurun işyerinde kitap ve içki çalımış, 19.01.2012 tarihinde de sadece kitap çalmıştır. Fillerin işlendiği kısa zaman farkı da dikkate alınarak sanığın aynı suçu işleme kararı çerçevesinde hareket ettiği kabul edilmelidir. Sanık iki ayrı suçtan değil, TCK md. 141 ve 43/1'e göre zincirleme hırsızlık suçu nedeniyle cezalandırılmalıdır (Yargıtay 2. Ceza Dairesi - 2014/20956 karar).
 
 -	Sanıklar önce müştekinin parasını üzerinden yankesicilik yoluyla çalmış, müşteki  sanıklardan birini yakalayınca diğer suç ortağı sanık cebinden jilet çıkarmış önce kendi vücuduna zarar vermiş, daha sonra müştekinin koluna zarar vermiştir. Bu şekliyle gerçekleşen olay hırsızlık suçu değil,  gasp suçudur (Yargıtay 6. Ceza Dairesi – Esas No: 2012/16384, Karar No: 2014/22169, Tarih: 15.12.2014).
 
