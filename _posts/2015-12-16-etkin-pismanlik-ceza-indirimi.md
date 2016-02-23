@@ -190,6 +190,10 @@ TCK, kişiyi hürriyetinden yoksun kılma suçu [**(TCK md. 109)**](http://www.t
 
 ### ![Etkin Pişmanlık Ceza İndirimi](https://camo.githubusercontent.com/27f552b0caaafe2695aa542a009dfd6130d72d28/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c456a516e562e6a7067 "Etkin Pişmanlık Ceza İndirimi")
 
+### Etkin Pişmanlık Ceza İndirimi ve Zararın Giderilmesi Yöntemi
+
+Sanık, suç nedeniyle mağdura verdiği maddi zararı gidermelidir. Mağdura zararın giderilmesi teklif edildiği halde, mağdur zararın karşılığı olan parayı veya eşyayı almayı kabul etmezse, yargılamayı yapan mahkeme doğrudan ödeme yeri belirlemelidir. Sanık, mahkemenin belirlediği ödeme yerine parayı ödediği veya belirlenen teslim yerine eşyayı teslim ettiği takdirde, sanığa etkin pişmanlık nedeniyle ceza indirimi hükümleri uygulanmalıdır (Yargıtay 2. Ceza Dairesi - 2014/20956 karar).
+
 
 
 ### Ceza İndirimi ve Denetimli Serbestlik Uygulaması
