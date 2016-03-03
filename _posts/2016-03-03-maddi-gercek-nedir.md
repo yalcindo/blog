@@ -13,7 +13,7 @@ Ceza yargılamasının amacı maddi gerçeğe ulaşmaktır. Maddi gerçeği ara�
 
 Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden maddi gerçek kavramını açıklayan bir **VİDEO** aşağıdadır.
 
-### [![Maddi Gerçek Nedir](https://i.ytimg.com/vi/UW4D_SODeXQ/hqdefault.jpg)](https://youtu.be/4E7vF4TsPos "CMK Avukat Seminer Videosu")          
+[![Maddi Gerçek Nedir](https://i.ytimg.com/vi/UW4D_SODeXQ/hqdefault.jpg)](https://youtu.be/4E7vF4TsPos "CMK Avukat Seminer Videosu")          
 **Videoyu İzlemek İçin Resmi Tıklayınız**
 
 
