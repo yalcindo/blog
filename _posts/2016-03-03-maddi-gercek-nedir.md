@@ -14,11 +14,12 @@ Ceza yargılamasının amacı maddi gerçeğe ulaşmaktır. Maddi gerçeği ara�
 Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nden maddi gerçek kavramını açıklayan bir **VİDEO.** 
 
 [![Maddi Gerçek Nedir](https://i.ytimg.com/vi/UW4D_SODeXQ/hqdefault.jpg)](https://youtu.be/4E7vF4TsPos "CMK Avukat Seminer Videosu")     
-Videoyu İzlemek İçin Resmi Tıklayınız
+**Videoyu İzlemek İçin Resmi Tıklayınız**
 
 
 
 Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
+
 Not-2: Türkiye’de ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı yoktur. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden ceza avukatı kavramını kullanmaktayız.
 
 **Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan**
