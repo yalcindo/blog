@@ -9,6 +9,9 @@ summary: Piyasaya sürülen sahte paraya dair Merkez Bankası'na cevaplaması is
 **Piyasaya sahte para sürülmesi iddiasıyla ilgili Merkez Bankasına aşağıdaki dilekçeyle sorduğumuz sorulara, Merkez Bankası "Gizli" ibareli cevap yazısı ile cevap vermiştir.**
 
 
+[youtube](https://youtu.be/NmzWqCctOx8)
+
+
 ![MERKEZ BANKASI'NA YAZDIĞIMIZ DİLEKÇE](http://i.hizliresim.com/kgrWyW.jpg "MERKEZ BANKASI'NA YAZDIĞIMIZ DİLEKÇE")
 ---
 
