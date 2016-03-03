@@ -24,4 +24,4 @@ Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek 
 
 Not-2: Türkiye’de ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı yoktur. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
-**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan**
+**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan Hukuk Bürosu**
