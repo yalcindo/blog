@@ -3,7 +3,8 @@ layout: blog
 title: Ceza Muhakemesinde Maddi Gerçek Nedir?
 category: ceza-hukuku
 googleAnahtar: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
-summary: Adli sicil kaydının silinmesi (Sabıka kaydının silinmesi) dilekçe örneği
+summary: İstanbul Ceza Avukatı Semineri Videosu-1
+Maddi Gerçek Nedir? Maddi Gerçeği Araştırma İlkesi Nedir?  Ceza avukatlarına ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminer videosu
 keywords: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
 ---
 
