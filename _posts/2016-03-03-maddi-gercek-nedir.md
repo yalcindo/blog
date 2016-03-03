@@ -7,7 +7,7 @@ summary: İstanbul Ceza Avukatı Semineri Videosu-1 Maddi Gerçek Nedir?  Ceza a
 keywords: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
 ---
 
-##Maddi Gerçek Nedir? 
+## Maddi Gerçek Nedir? 
 
 Ceza yargılamasının amacı maddi gerçeğe ulaşmaktır. Maddi gerçeği araştırma ilkesi, hakime taraf beyanlarıyla veya dosyadaki diğer delillerle yetinmeyip kendiliğinden araştırma yapma yükümlülüğü yükler. Yargıç, maddi gerçeğe ulaşmak için her türlü delili mahkemeye getirtip tartıştırmalı ve değerlendirmelidir. Yargıcın maddi gerçeğe ulaşmak için her türlü delili elde etmeye çalışmasının istisnası delil yasaklarıdır. Hukuka aykırı deliller, maddi gerçeği araştırma ilkesi çerçevesinde delil araştırmanın sınırı olup hakim tarafından hükme esas alınamazlar. 
 
