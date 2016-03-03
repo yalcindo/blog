@@ -13,9 +13,9 @@ Ceza hukukunda kıyas, kanunda açıkça yazılmayan bir fiilin, kanunda suç ol
 
 Maddi ceza hukukunda kıyas yasağı ilkesi bulunmasına karşın ceza muhakemesi hukukunda kıyas yapılması mümkündür. Ceza muhakemesinde kıyas yapılmasının iki genel sınırı vardır: 1- Özgürlüğü daraltan normlarda kıyas yasağı vardır. Özgürlüğü daraltan norm kavramına tutuklama işlemi örnek verilebilir. 2- İstisnai normlarda kıyas yasağı vardır. İstisnai normlara örnek olarak tanıklıktan çekinme hakkı olanlar verilebilir. Tanıklıktan çekinme hakkı olanlar CMK'da açıkça sayıldığından kıyas yoluyla tanıklıktan çekinme hakkının kapsamı genişletilemez.
 
-Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden maddi gerçek kavramını açıklayan bir **VİDEO** aşağıdadır.
+Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden **Kıyas-Kıyas Yasağı** kavramını açıklayan bir **VİDEO** aşağıdadır.
 
-[![Maddi Gerçek Nedir](https://i.ytimg.com/vi/thjaQ8YkdAM/hqdefault.jpg)](https://youtu.be/4E7vF4TsPos "CMK Avukat Seminer Videosu")          
+[![Kıyas Yasağı Nedir](https://i.ytimg.com/vi/thjaQ8YkdAM/hqdefault.jpg)](https://youtu.be/4E7vF4TsPos "Ceza Avukatı Semineri")          
 **Videoyu İzlemek İçin Resmi Tıklayınız**
 
 
