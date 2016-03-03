@@ -2,7 +2,7 @@
 layout: blog
 title: Ceza Muhakemesinde Maddi Gerçek Nedir?
 category: ceza-hukuku
-googleAnahtar: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
+googleAnahtar: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, hukuk bürosu, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
 summary: İstanbul Ceza Avukatı Semineri Videosu-1 Maddi Gerçek Nedir?  Ceza avukatlarına ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminer videosudur.
 keywords: Maddi Gerçek Nedir, Maddi Gerçeği Araştırma İlkesi Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
 ---
@@ -22,4 +22,4 @@ Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek 
 
 Not-2: Türkiye’de ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı yoktur. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
-**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan**
+**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan Hukuk Bürosu**
