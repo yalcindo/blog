@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Davasız Yargılam Olmaz (Yargılamanın Sınırlılığı) İlkesi
+title: Davasız Yargılama Olmaz (Yargılamanın Sınırlılığı) İlkesi
 category: ceza-hukuku
 googleAnahtar: Davasız yargılama olmaz ilkesi, yargılamanın sınırlılığı, suç vasfının değişmesi, hukuk bürosu, avukat, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, ceza davası
 summary: İstanbul Ceza Avukatı Semineri Videosu-3  Davasız Yargılama Olmaz-Yargılamanın Sınırlılığı İlkesi, Ceza avukatlarına ve ceza avukatı olmak isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminerin videosudur.
