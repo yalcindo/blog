@@ -7,6 +7,8 @@ summary: İstanbul Ceza Avukatı Semineri Videosu-2 Kıyas Nedir? Kıyas Yasağ�
 keywords: Kıyas Nedir, Kıyas Yasağı Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
 ---
 
+### ![istanbul ceza avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Ceza Avukatı")
+
 ## Kıyas Nedir? Ceza Yargılamasında Kıyas Mümkün mü? 
 
 Ceza hukukunda kıyas, kanunda açıkça yazılmayan bir fiilin, kanunda suç olarak tanzim edilen bir fiile benzetilerek cezalandırılması anlamına gelmekte olup maddi ceza hukukunda kıyas yasağı ilkesi mevcuttur. Maddi ceza hukukunda kıyas yasağı olmasının nedeni "kanunsuz suç ve ceza olmaz" ilkesinin doğal bir sonucudur. Maddi ceza hukukunda lehe veya aleyhe kıyas yapıldığı takdirde hukuki güvenlik ihlal edilmiş olur. Maddi ceza hukukunda kıyas yasağı ilkesi bulunmasına karşın ceza muhakemesi hukukunda kıyas yapılması mümkündür.
