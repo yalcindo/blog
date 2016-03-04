@@ -17,8 +17,8 @@ Ceza muhakemesinde kıyas yapılmasının iki genel sınırı vardır: 1- Özgü
 
 Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden **Kıyas-Kıyas Yasağı** kavramını açıklayan bir **VİDEO** aşağıdadır.
 
-[![Kıyas Yasağı Nedir](https://i.ytimg.com/vi/thjaQ8YkdAM/hqdefault.jpg)](https://youtu.be/thjaQ8YkdAM "Ceza Avukatı Semineri")          
-**Videoyu İzlemek İçin Resmi Tıklayınız**
+### [![Kıyas Yasağı Nedir](https://i.ytimg.com/vi/thjaQ8YkdAM/hqdefault.jpg)](https://youtu.be/thjaQ8YkdAM "Ceza Avukatı Semineri")          
+**<center>Videoyu İzlemek İçin Resmi Tıklayınız</center>**
 
 
 
