@@ -16,6 +16,7 @@ Ceza hukukunda kıyas, kanunda açıkça yazılmayan bir fiilin, kanunda suç ol
 ### Ceza Muhakemesinde Kıyas Yasağı 
 
 Ceza muhakemesinde kıyas yapılmasının iki genel sınırı vardır: 
+
 * Özgürlüğü daraltan normlarda kıyas yasağı vardır. Özgürlüğü daraltan norm kavramına tutuklama işlemi örnek verilebilir.
 * İstisnai normlarda kıyas yasağı vardır. İstisnai normlara örnek olarak tanıklıktan çekinme hakkı olanlar verilebilir. Tanıklıktan çekinme hakkı olanlar CMK'da açıkça sayıldığından kıyas yoluyla tanıklıktan çekinme hakkının kapsamı genişletilemez.
 
