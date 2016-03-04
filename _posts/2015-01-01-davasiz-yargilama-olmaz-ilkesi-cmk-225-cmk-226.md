@@ -24,7 +24,7 @@ Hemen belirtmek gerekir ki, mahkeme açılan ceza davasının yargılaması neti
 Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden davasız yargılma olmaz-yargılamanın sınırlılığı ilkesini açıklayan bir **VİDEO** aşağıdadır.
 
 ###  [![Davasız Yargılama Olmaz İlkesi](https://i.ytimg.com/vi/wykDbNDYYR4/hqdefault.jpg)](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı Semineri")
-<center>**Videoyu İzlemek İçin Resmi Tıklayınız**</center>
+<center>**`Videoyu İzlemek İçin Resmi Tıklayınız`**</center>
 
 
 
