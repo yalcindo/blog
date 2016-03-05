@@ -2,9 +2,9 @@
 layout: blog
 title: İdari Para Cezası
 category: ceza-hukuku
-googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, bakırköy istanbul avukat
+googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, istanbul avukat, hukuk bürosu, avukat
 summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? İdari Para Cezası Nereye Ödenir, İdari Para Cezasına Nereye İtiraz Edilir, Süresi ve Yetkili Mahkeme? Bakaya ve Yoklama Kaçağı Para Cezası
-keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
+keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, hukuk bürosu
 ---
 
 ## İdari Para Cezası Nedir?
@@ -114,4 +114,10 @@ Trafik cezaları, vergi dairesine, bankaya veya PTT’ye ödenebilir.
 
 **İdari para cezası,** adli sicil kaydına (sabıka kaydına) işlemez. İdari para cezaları kabahat niteliğindeki suçlar için verilir. Adli sicil kaydı ise yalnızca işlenen bir suç karşılığında mahkemelerce verilen kesinleşmiş cezalar için tutulmaktadır. 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
