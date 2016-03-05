@@ -2,7 +2,7 @@
 layout: blog
 title: Kasten Adam Öldürme Haksız Tahrik - Yargıtay Kararı    
 category: ceza-hukuku
-googleAnahtar: haksız tahrik, kasten adam öldürme, şüpheden sanık yararlanır, avukat, ceza avukatı, ağır ceza avukatı
+googleAnahtar: haksız tahrik, kasten adam öldürme, şüpheden sanık yararlanır, avukat, ceza avukatı, ağır ceza avukatı, hukuk bürosu
 summary: Haksız Tahrik, Kasten Adam Öldürme Suçunda Haksız Tahrik, Şüpheden Sanık Yararlanır İlkesi
 
 ---
@@ -93,4 +93,4 @@ SONUÇ : Açıklanan nedenlerle;
 2- ) Sanık M. D. müdafiinin tahliye isteminin reddine,
 3- ) Dosyanın mahalline gönderilmek üzere Yargıtay C.Başsavcılığına tevdiine, 18.12.2012 günü yapılan müzakerede tebliğnamedeki isteme uygun olarak oybirliğiyle karar verildi.
 
-**Avukat Baran Doğan**
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
