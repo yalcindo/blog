@@ -2,8 +2,8 @@
 layout: blog
 title: Avukat ve AB Avukatlık Meslek Kuralları
 category: ceza-hukuku
-googleAnahtar: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, Avrupa Birliği Avukatlık Meslek Kuralları, bakırköy avukat, istanbul avukat
-keywords: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, boşanma avukatı, bakırköy avukat, istanbul avukat
+googleAnahtar: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, Avrupa Birliği Avukatlık Meslek Kuralları, bakırköy avukat, istanbul avukat, hukuk bürosu
+keywords: Avukat, Ceza avukatı, ağır ceza avukatı, AB Avukatlık Meslek Kuralları, boşanma avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Avukat ve İşlevi, Avrupa Birliği Avukatlık Meslek Kuralları, Avukat ve Ceza Avukatı, Boşanma Avukatı, Tazminat Avukatı vb. gibi Branşlar, Avukat ve Bağımsızlık, Avukat ve Yargıçlarla İlişkiler, Avukat ve Meslek Sırrı
 ---
 
@@ -107,4 +107,4 @@ Avukat mesleki faaliyetini yaptığı işle orantılı bir şekilde sigortalayar
 
 AB Avukatlık Meslek Kuralları birliğe üye ülkelerdeki tüm avukatlar için geçerlidir. İster [**ağır ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukati.html) isterse boşanma avukatı olunsun üye ülkelerde avukatlık yapılırken AB Avukatlık Meslek Kurallarına uyma mecburiyeti vardır.
 
-**İstanbul - Bakırköy  Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul  Avukat Baran Doğan Hukuk Bürosu**
