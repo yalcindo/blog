@@ -2,9 +2,9 @@
 layout: blog
 title: Avukat ve Uluslararası Alanda Avukatlık
 category: ceza-hukuku
-googleAnahtar: Avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat,
+googleAnahtar: Avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu, istanbul ceza avukatı
 summary: Avukat ve Avukatlık Tekeli, Avukat ve Avukatlık Mesleğinn Coğrafi Sınırları, Uluslararası Mahkemelerde Avukatlık, Ceza Avukatı veya Diğer Avukatların Uluslararası Mahkemelerde Nasıl Avukatlık Yapabilecekleri Anlatılmıştır.
-keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakırköy avukat, istanbul avukat
+keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
 
@@ -80,4 +80,4 @@ Havana kurallarının üçüncü bölümünde **avukat**ın görev ve sorumluluk
 
 
 
-**Bakırköy/İstanbul - Avukat Baran Doğan**
+**Ataköy-Bakırköy/İstanbul - Avukat Baran Doğan Hukuk Bürosu**
