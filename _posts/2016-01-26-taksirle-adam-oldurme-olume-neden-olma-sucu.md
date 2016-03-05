@@ -2,9 +2,9 @@
 layout: blog
 title: Taksirle Adam Öldürme Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksirle ölüme neden olma, bilinçli taksirle adam öldürme suçu, Ağır Ceza avukatı, Bahçelievler Avukat
+googleAnahtar: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksirle ölüme neden olma, bilinçli taksirle adam öldürme suçu, Ağır Ceza avukatı, Bahçelievler Avukat, hukuk bürosu
 summary: Taksirle Adam Öldürme Nedir? Taksirle Adam Öldürme Suçu Şikayet Süresi, Doktor Hatası veya Trafik Kazası ile Taksirle Ölüme Neden Olma, Bilinçli Taksirle Ölüme Neden Olma, Taksirle Adam Öldürme Suçu Cezası
-keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksirle ölüme neden olma, bilinçli taksirle adam öldürme suçu, Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul ağır ceza avukatı, bahçelievler avukat
+keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksirle ölüme neden olma, bilinçli taksirle adam öldürme suçu, Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul ağır ceza avukatı, bahçelievler avukat, hukuk bürosu
 ---
 
 ### ![Trafik Kazası Taksirle Ölüme Neden Olma](https://camo.githubusercontent.com/9d6b77135226d09b26cf4e3941245c4d4fa94149/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f3732516a332e6a7067 "Taksirle Adam Öldürme")
@@ -127,4 +127,12 @@ Taksirle adam öldürme suçu, [“Adli Para Cezası”](https://barandogan.av.t
 
 **Taksirle adam öldürme**, özellikle bilinçli taksirle adam öldürme suçu, fiilin vehameti ve cezanın miktarı nedeniyle savunmanın bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla yapılması yararlı olacak bir suç türüdür.
 
-**Şirinevler-Bahçelievler-İstanbul   Avukat Baran Doğan**
+**Şirinevler-Bahçelievler-İstanbul   Avukat Baran Doğan Hukuk Bürosu**
+
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
