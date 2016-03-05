@@ -2,8 +2,8 @@
 layout: blog
 title: Yağma Suçu (Gasp Suçu)
 category: ceza-hukuku
-googleAnahtar: Yağma suçu, Gasp Suçu, Yağma (gasp) suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul ceza avukatı 
-keywords: Yağma suçu, Gasp Suçu, Yağma suçu nedir, Gasp suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı arıyorum istanbul
+googleAnahtar: Yağma suçu, Gasp Suçu, Yağma (gasp) suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul ceza avukatı, hukuk bürosu
+keywords: Yağma suçu, Gasp Suçu, Yağma suçu nedir, Gasp suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı arıyorum istanbul, hukuk bürosu
 summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma suçunun ağırlaştırılmış şekli, yağma suçunun cezası (gasp suçunun cezası), yağma suçunda etkin pişmanlık konularına değinilmiştir.
 ---
 
@@ -140,10 +140,17 @@ Yani, silahla yağma suçu işleyen kişi dava açılmadan önce mağdurun zarar
 * Müştekinin işyerine girerek tehditle 4 bira ve 1 sigara alan sanıklar, daha fazlasını alma imkanları olduğu halde almamışlardır. Bu halde yağma suçunda malın değerinin azlığı nedeniyle ceza indirimini düzenleyen TCK 150. maddesi uygulanmalıdır (Yargıtay 6. Ceza Dairesi - Esas No: 2010/31393, Karar No: 2011/7086, Tarih: 25.5.2011).
 
 
-**Yağma suçu,** suçun niteliği ve cezası itibariyle mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur. Yağma suçu, malvarlığı değerlerini koruyan temel suçlardan biridir. Gasp suçu, giğer malvarlığı suçları olan   [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) gibi birçok suç ile benzeşen eylemler içermesi nedeniyle suç vasfının belirlenmesi noktasında uygulamada karışıklıklar meydana gelmektedir.
+**Yağma suçu,** suçun niteliği ve cezası itibariyle mutlaka bir **ceza avukatı** vasıtasıyla savunma yapılması gereken bir suçtur. Yağma suçu, malvarlığı değerlerini koruyan temel suçlardan biridir. Gasp suçu, giğer malvarlığı suçları olan   [Dolandırıcılık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) [Mala Zarar Verme Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html) [Güveni Kötüye Kullanma Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html) [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) gibi birçok suç ile benzeşen eylemler içermesi nedeniyle suç vasfının belirlenmesi noktasında uygulamada karışıklıklar meydana gelmektedir.
 
 
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
