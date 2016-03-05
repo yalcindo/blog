@@ -2,8 +2,8 @@
 layout: blog
 title: Resmi Evrakta (Belgede) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı
-keywords:  Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
+googleAnahtar: Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı, hukuk bürosu
+keywords:  Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun Şartları, Sahte Belgenin Düzenlenmesi, Değiştirilmesi veya Kullanılması Suçu, Kamu Görevlisinin Evrakta Sahtecilik Suçu, Evrakta Sahtecilik Suçunun Cezası
 ---
 
@@ -144,5 +144,9 @@ Sahteliği sabit olana kadar geçerli belgeler özel kanunlar düzenlenmiştir. 
 
 Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir [**Ceza Avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile savunma yapılmalıdır. **Resmi evrakta sahtecilik suçu,** kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
 
-**Bakırköy-İstanbul Avukat Baran Doğan**
+**Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de ceza avukatı kavramını kullanmaktayız.
 
