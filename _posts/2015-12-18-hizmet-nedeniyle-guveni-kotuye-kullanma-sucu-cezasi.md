@@ -2,9 +2,9 @@
 layout: blog
 title: Güveni Kötüye Kullanma Suçu (Emniyeti Suistimal)
 category: ceza-hukuku
-googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, İstanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat
+googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, İstanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
 summary: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları
-keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Şartları ve Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları, Florya Avukat, ceza avukatı, bakırköy avukat
+keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Şartları ve Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları, Florya Avukat, ceza avukatı, bakırköy avukat, hukuk bürosu
 ---
 
 ### ![Güveni Kötüye Kullanma Suçu](https://camo.githubusercontent.com/04eeb19bf8f6e45e657da04915053f2b8dcac8ab/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a314c6e38472e6a7067 "Güveni Kötüye Kullanma Suçu")
@@ -168,7 +168,14 @@ Emniyeti suistimal suçu nedeniyle herhangi bir zarar oluşmuşsa, sanığın h�
 Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir [**Ceza Avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
 
 
-**Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
 
 
