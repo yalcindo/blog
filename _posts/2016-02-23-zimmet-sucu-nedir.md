@@ -94,3 +94,6 @@ Zimmet suçunun konusu olan malın değerinin azlığı bir ceza indirimi nedeni
 **Zimmet suçu**, suça dair cezanın ağırlığı, suçun niteliği, indirim nedenleri göz önüne alındığında mutlaka bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla savunma yapılması gereken bir suçtur.
 
 **Şirinevler/Bahçelievler/İstanbul Avukat Baran Doğan**
+
+Hukuk Bürosu Not: Türkiye’deki avukatlık uygulmasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
