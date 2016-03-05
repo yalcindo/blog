@@ -2,7 +2,7 @@
 layout: blog
 title: Kasten Adam Yaralama Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Kasten adam yaralama suçu, adam yaralama suçu cezası, kasten adam öldürmeye teşebbüs suçu, İstanbul ceza avukatı, avukat, bahçelievler avukat
+googleAnahtar: Kasten adam yaralama suçu, adam yaralama suçu cezası, kasten adam öldürmeye teşebbüs suçu, İstanbul ceza avukatı, avukat, bahçelievler avukat, hukuk bürosu
 keywords:   Kasten adam yaralama suçu, adam yaralama suçu cezası, kasten adam öldürmeye teşebbüs suçu, İstanbul ceza avukatı, avukat, bahçelievler avukat, Bıçakla adam yaralama suçu, silahla adam yaralama suçu
 summary: Kasten Adam Yaralama Suçu Nedir? Silahla Adam Yaralama Suçu, Bıçakla Adam Yaralama Suçu, Neticesi Sebebiyle Ağırlaşmış Yaralama Suçu, Kasten Adam Öldürmeye Teşebbüs Suçu
 ---
@@ -126,4 +126,8 @@ Aynı şekilde, mahkeme tarafından kasten adam yaralama suçunun cezası 2 yıl
 
 **Kasten adam yaralama suçu,** kişilerin yaşam hakkına yapılan en ağır saldırılardan biridir. Kasten adam yaralama suçu ile **kasten adam öldürmeye teşebbüs suçu** arasında bir geçişkenlik mevcut olduğundan, ciddi bir hukuki değerlendirme için savunma ve iddianın bir [Ceza Avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
  
-**Şirinevler – Bahçelievler – İstanbul Avukat Baran Doğan**
+**Şirinevler – Bahçelievler – İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
