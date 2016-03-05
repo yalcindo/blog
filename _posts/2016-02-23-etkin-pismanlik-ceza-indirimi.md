@@ -219,7 +219,7 @@ Etkin pişmanlık nedeniyle ceza indirimi, birçok suçun ortaya çıkmasına ve
 Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. **Etkin pişmanlık** yoluyla **ceza indirimi** uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
 
 
-**<align-left>Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu</align-left>**
+**<align-right>Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu</align-right>**
 
 ______________________________________________________________________________________________________________________________________
 
