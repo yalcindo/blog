@@ -2,9 +2,9 @@
 layout: blog
 title: Yeni Denetimli Serbestlik Yasası ve Uygulama
 category: ceza-hukuku
-googleAnahtar: Denetimli serbestlik nedir, yeni denetimli serbestlik yasası 2 yıl, denetimli serbestlik kaç yıl, İstanbul ceza avukatı, denetimli serbestlik ihlali, avukat
+googleAnahtar: Denetimli serbestlik nedir, yeni denetimli serbestlik yasası 2 yıl, denetimli serbestlik kaç yıl, İstanbul ceza avukatı, denetimli serbestlik ihlali, avukat, hukuk bürosu
 summary: Denetimli Serbestlik Nedir? Yeni Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestlik Süresi İki Yıl Olur mu? Denetimli Serbestlik Değişikliği
-keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, ağır ceza avukatı, denetimli serbestlik imza ihlali, denetimli serbestlik tedbirine uymama, ataköy avukat, bakırköy avukat, istanbul avukat
+keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, ağır ceza avukatı, denetimli serbestlik imza ihlali, denetimli serbestlik tedbirine uymama, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
 
@@ -185,4 +185,11 @@ Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tek
 
 Denetimli serbestlik ile ilgili adli sicil sorgulama işlemi şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
