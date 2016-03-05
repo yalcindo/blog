@@ -66,4 +66,4 @@ Toplumda ceza avukatının suçluları savunduğu şeklinde genel bir yanılsama
 
 **Ağır ceza avukatları**, hukukunun en çekişmeli en sorunlu alanında mesleki faaliyet icra etmektedir. Özellikle toplum yargılamadaki rolü nedeniyle avukatı taraflarla özdeşleştirdiğinden, **ağır ceza avukatı**, görevini ifa ederken avukatlık meslek etik kurallarına dikkat etmelidir.
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
