@@ -2,7 +2,7 @@
 layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
-googleAnahtar: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, Adli para cezası taksitlendirme, Ataköy, Bakırköy, istanbul avukat 
+googleAnahtar: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, Adli para cezası taksitlendirme, hukuk bürosu, istanbul avukat 
 summary: Adli Para Cezası Nedir? Hapis Cezasının Paraya Çevrilmesi, Adli Para Cezasının Taksitlendirilmesi, Adli Para Cezası İtiraz,  Adli Para Cezası Ödeme, Hapis Cezası Paraya Çevirme, Adli Para Cezası Kamuya Yararlı İşte Çalışma/Çalıştırma 
 keywords: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, adli para cezası taksit, Kamuya yararlı işte çalışma/Çalıştırma, Adli para cezası taksitlendirme, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
 ---
@@ -165,4 +165,11 @@ Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilm
 
 
 
- **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan*** 
+ **Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan Hukuk Bürosu*** 
+ 
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
