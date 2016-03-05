@@ -2,8 +2,8 @@
 layout: blog
 title: Meşru Müdafaa (Meşru Savunma)
 category: ceza-hukuku
-googleAnahtar: Meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
-keywords:  meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, meşru savunmada sınırın aşılması, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+googleAnahtar: Meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
+keywords:  meşru müdafaa, meşru savunma, meşru müdafaa nedir, meşru savunma nedir, meşru savunmada sınırın aşılması, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Meşru Müdafaa (Meşru Savunma) Nedir? Meşru Müdafaanin Şartları, Meşru Savunmada Saldırıya İlişkin Şartlar, Meşru Müdafaanın Savunmaya İlişkin Şartları, Meşru Müdafaada Sınırın Aşılması, Meşru Savunmaya İlişkin Yargıtay Kararları
 ---
 
@@ -37,7 +37,7 @@ Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırın
 
 #### d. Meşru Müdafaada Saldırı ile Savunma Eşzamanlı Olmalı
 
-**Meşru müdafaa,** faile yapılan saldırıyla aynı zamanda yapılmalıdır. Savunma ile saldırı aynı zamanda gerçekleşmemişse meşru savunma hükümleri uygulanamaz. Saldırı başlamadığı veya başlama ihtimalinin düşük olduğu hallerde veya saldırının bittiği hallerde meşru savunma hakkı kullanılamaz.
+Meşru müdafaa, faile yapılan saldırıyla aynı zamanda yapılmalıdır. Savunma ile saldırı aynı zamanda gerçekleşmemişse meşru savunma hükümleri uygulanamaz. Saldırı başlamadığı veya başlama ihtimalinin düşük olduğu hallerde veya saldırının bittiği hallerde meşru savunma hakkı kullanılamaz.
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/8e6844eee95c2b512eb8204036b19b5a0041c0e7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f32356b36384e2e6a7067 "Ceza Avukatı")
 
@@ -45,7 +45,7 @@ Meşru müdafaanın amacı bir hakkı korumak olmalıdır. Bu nedenle saldırın
 
 ### 2. Meşru Müdafaada Savunmaya Dair Şartlar
 
-**Meşru müdafaa,** hem saldırı açısından hem de müdafaa açısından uygulama yapılırken her fiil için ayrı ayrı değerlendirilmesi gereken bir kurumdur. Savunmaya ilişkin koşullar, saldırıya ilişkin şartlarla aynı anda vücut bulmalıdır. Bu şartlar şunlardır:
+Meşru müdafaa, hem saldırı açısından hem de müdafaa açısından uygulama yapılırken her fiil için ayrı ayrı değerlendirilmesi gereken bir kurumdur. Savunmaya ilişkin koşullar, saldırıya ilişkin şartlarla aynı anda vücut bulmalıdır. Bu şartlar şunlardır:
 
 #### a. Meşru Müdafaa İçin Savunma Zorunlu Olmalıdır
 
@@ -53,22 +53,22 @@ Saldırıdan savunma yapmadan başka bir şekilde kurtulmak mümkünse, fail me�
 
 #### b. Meşru Savunma Saldırana Karşı Yapılmalıdır
 
-Fail, saldırıyı yapan kişiye karşı meşru savunmada bulunabilir. Saldırıyla ilgisi olmayan üçüncü kişilere karşı yapılan eylem, **meşru savunma** eylemi olarak kabul edilemez. Örneğin, A ve B adında iki kardeş yolda yürürken, A yolda karşılaştığı C kişisiyle tartışarak C’ye saldırmış ve darp etmiştir. B kavgaya karışmamasına rağmen C de  B’yi darp etmiştir. C şahsı burda **meşru müdafaa** hükümlerinden yararlanamaz. Çünkü meşru savunma fiilini saldırana değil, saldıranın kardeşi olan B’ye yapmıştır.
+Fail, saldırıyı yapan kişiye karşı meşru savunmada bulunabilir. Saldırıyla ilgisi olmayan üçüncü kişilere karşı yapılan eylem, meşru savunma eylemi olarak kabul edilemez. Örneğin, A ve B adında iki kardeş yolda yürürken, A yolda karşılaştığı C kişisiyle tartışarak C’ye saldırmış ve darp etmiştir. B kavgaya karışmamasına rağmen C de  B’yi darp etmiştir. C şahsı burda meşru müdafaa hükümlerinden yararlanamaz. Çünkü meşru savunma fiilini saldırana değil, saldıranın kardeşi olan B’ye yapmıştır.
 
 #### c. Meşru Müdafaada Saldırı ile Savunma Orantılı Olmalıdır
 
-Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile saldırı arasında orantılılık ilkesine uyulup uyulmadığı hususudur. Saldırı ile savunma orantılı olmadığı takdirde meşru müdafaa hükümleri uygulanmaz. Savunmada aşırıya kaçılması halinde fail ya haksız tahrik hükümlerinden ya da meşru savunmada sınırın aşılması hükümlerinden yararlanabilir. Örneğin, kendisine yumruk atan birini silahla vurup öldüren kişi **meşru müdafaa şartları** gerçekleşmediği için yalnızca haksız tahrik indiriminden yararlanabilir.
+Ceza hukukunun uygulamada en tartışma yaratan konularından biri savunma ile saldırı arasında orantılılık ilkesine uyulup uyulmadığı hususudur. Saldırı ile savunma orantılı olmadığı takdirde meşru müdafaa hükümleri uygulanmaz. Savunmada aşırıya kaçılması halinde fail ya haksız tahrik hükümlerinden ya da meşru savunmada sınırın aşılması hükümlerinden yararlanabilir. Örneğin, kendisine yumruk atan birini silahla vurup öldüren kişi meşru müdafaa şartları gerçekleşmediği için yalnızca haksız tahrik indiriminden yararlanabilir.
 
 ### Meşru Müdafaa, Haksız Tahrik ve Ceza
 
-Failin eylemi **meşru müdafaa** şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi meşru savunma sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
+Failin eylemi meşru müdafaa şartları içinde gerçekleşmişse, fail cezalandırılamaz. Ancak failin eylemi meşru savunma sınırlarını aşmakla birlikte haksız bir tahrikin neden olduğu hiddet ve elemin etkisi altında vuku bulmuşsa, bu durumda haksız tahrik hükümleri gereği failin cezasından ceza indirimi yapılır.
 
 [**Haksız tahrik indirimi**](http://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html), işlenen fiili meşru müdafaa gibi hukuka uygun hale getirmez, sadece ceza indirimi hakkı sağlar.
 
 
 ### Meşru Savunmada (Meşru Müdafaada) Sınırın Aşılması
 
-Savunma **meşru müdafaa** şartları bulunduğu sırada başladığı halde, orantılılık ilkesinin ihlali nedeniyle fiilin meşru savunma olarak kabul edilmediği hallerde “meşru savunmada sınırın aşılması” söz konusu olur. Meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise fail cezalandırılmaz. Meşru savunmada sınırın aşılması halinde ceza verilmemesi için gereken şartlar şunlardır:
+Savunma meşru müdafaa şartları bulunduğu sırada başladığı halde, orantılılık ilkesinin ihlali nedeniyle fiilin meşru savunma olarak kabul edilmediği hallerde “meşru savunmada sınırın aşılması” söz konusu olur. Meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise fail cezalandırılmaz. Meşru savunmada sınırın aşılması halinde ceza verilmemesi için gereken şartlar şunlardır:
 
 *	Meşru savunma ile korunabilecek bir hakkın bulunması,
 *	Meşru savunma yapabilmek için zorunlu olan saldırıya ilişkin şartların tümünün mevcut olması,
@@ -97,4 +97,11 @@ Meşru müdafaada sınırın aşılması şartlarının tümünün bir arada ger
 
 **Meşru müdafaa** ( **meşru savunma** ), uygulanma koşulları oldukça kritik eşiklere bağlı olan bir hukuka uygunluk nedenidir. Bu nedenle bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html)  aracılığıyla savunma yapılması hakkın etkin kullanılmasını sağlayacaktır.
 
-**Ataköy – Bakırköy – İstanbul** / **Avukat Baran Doğan**
+**Ataköy – Bakırköy – İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
