@@ -2,9 +2,9 @@
 layout: blog
 title: Hapis Cezasının Ertelenmesi
 category: ceza-hukuku
-googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, ceza erteleme kararı şartları, ceza avukatı, bakırköy avukat, ağır ceza avukatı, istanbul avukat
+googleAnahtar: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, ceza erteleme kararı şartları, ceza avukatı, bakırköy avukat, ağır ceza avukatı, istanbul avukat, hukuk bürosu
 summary: Hapis Cezasının Ertelenmesi (Cezanın Ertelenmesi) Nedir? Hapis Cezasının Ertelenmesi Şartları, Ceza Erteleme ve Cezanın İnfazı, Hapis Cezasının Ertelenmesinin Memurluğa  ve Diğer Kamu Görevlerine Etkisi Açıklanmıştır.
-keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
+keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı, hukuk bürosu
 ---
 
 
@@ -88,4 +88,11 @@ Hapis cezasının ertelenmesi kararı temyiz edilebilir. Mahkeme ceza erteleme k
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
