@@ -2,9 +2,9 @@
 layout: blog
 title: Denetimli Serbestlikten Yararlanma Dilekçesi
 category: ceza-hukuku
-googleAnahtar: Denetimli serbestlik dilekçesi, denetimli serbestlik dilekçesi örneği, denetimli serbestlikten yararlanma dilekçesi, Ağır Ceza avukatı, Bahçelievler Avukat
+googleAnahtar: Denetimli serbestlik dilekçesi, denetimli serbestlik dilekçesi örneği, denetimli serbestlikten yararlanma dilekçesi, Ağır Ceza avukatı, Bahçelievler Avukat, Hukuk Bürosu
 summary: Denetimli Serbestlik Dilekçesi, Denetimli Serbestlik Dilekçesi Örneği, Denetimli Serbestlikten Yararlanma Dilekçesi, Denetimli Serbestlik Dilekçesi Nereye Verilir? Denetimli Serbestlik Dilekçesi Nasıl Verilir?
-keywords: Denetimli serbestlik dilekçesi, denetimli serbestlik dilekçesi örneği, denetimli serbestlikten yararlanma dilekçesi, Ağır Ceza avukatı, Bahçelievler Avukat, Ceza avukatı, avukat, ağır ceza avukatı, istanbul avukat
+keywords: Denetimli serbestlik dilekçesi, denetimli serbestlik dilekçesi örneği, denetimli serbestlikten yararlanma dilekçesi, Ağır Ceza avukatı, Bahçelievler Avukat, Ceza avukatı, avukat, ağır ceza avukatı, istanbul avukat, hukuk bürosu
 ---
 
 [Denetimli Serbestlik](https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html), bir koşullu salıverilme biçimi olup hükümlünün yararlanabilmesi için dilekçe vermesi gerekir. Denetimli serbestlikten yararlanma dilekçesi, hükümlünün kaldığı cezaevinin bağlı olduğu İnfaz Hakimliği'ne verilir. Dilekçe, cezaevi idaresi aracılığıyla İnfaz Hakimliği'ne ulaştırılır ve kısa bir sürede denetimli serbestlikten yararlanma şartlarının oluşup oluşmadığına dair bir karar verilerek sonuç hükümlüye bildirilir.
@@ -44,4 +44,4 @@ Hükümlü Ahmet Reyhan
 	
 
 
-**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
