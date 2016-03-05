@@ -2,8 +2,8 @@
 layout: blog
 title: Haksız Tahrik Ceza İndirimi
 category: ceza-hukuku
-googleAnahtar: Haksız tahrik, Ağır Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
+googleAnahtar: Haksız tahrik, Ağır Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
+keywords: Haksız tahrik, Haksız tahrik nedir? Haksız tahrik ceza indirimi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
 summary: Haksız Tahrik Nedir? Haksız Tahrik Şartları, Haksız Tahrikte Dengenin Bozulması, Haksız tahrik Ceza İndirimi, Haksız Tahrik İndirimi Yargıtay Kararları, Adam Yaralama ve Adam Öldürme Suçunda Haksız Tahrik İndirimi
 ---
 
@@ -103,5 +103,12 @@ Ceza avukatı, mağdurun faile yönelttiği fiile karşı haksız tahrik mi yoks
 
 
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
  
