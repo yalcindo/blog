@@ -2,8 +2,8 @@
 layout: blog
 title: Özel Belgede (Evrakta) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Özel belgede sahtecilik, özel evrakta sahtecilik, özel belgede sahtecilik suçu, özel evrakta sahtecilik cezası, Ceza avukatı, ağır ceza avukatı, bakırköy avukat
-keywords:  Özel evrakta sahtecilik, Özel belgede sahtecilik, özel evrakta sahtecilik suçunun cezası, özel belgede sahtecilik suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
+googleAnahtar: Özel belgede sahtecilik, özel evrakta sahtecilik, özel belgede sahtecilik suçu, özel evrakta sahtecilik cezası, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
+keywords:  Özel evrakta sahtecilik, Özel belgede sahtecilik, özel evrakta sahtecilik suçunun cezası, özel belgede sahtecilik suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun Şartları, Özel Evrakta Sahtecilik Suçunun Seçimlik Hareketleri, Sahte Özel Belgenin Düzenlenmesi, Değiştirilmesi ve Kullanılması Suçu, Özel Belgede Sahtecilik Suçu Cezası
 ---
 
@@ -145,5 +145,13 @@ Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgele
 Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu, kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyerek kamu düzenini bozan bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
 
 
-**Bakırköy-İstanbul Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
 
