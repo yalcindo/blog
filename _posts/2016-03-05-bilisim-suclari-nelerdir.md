@@ -2,9 +2,9 @@
 layout: blog
 title: Bilişim Suçları Nelerdir
 category: ceza-hukuku
-googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, istanbul avukat, bakırköy avukat
+googleAnahtar: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, istanbul avukat, bakırköy avukat, hukuk bürosu
 summary: Bilişim Suçları Nelerdir? Bilişim Suçu Nedir? Bilişim Suçları Şikayet Süresi, Bilişim Suçları Nasıl Tespit Edilir?  Bilişim Sistemine Girme  Bilişim Suçu, Banka veya Kredi Kartlarının Kötüye Kullanılması Bilişim Suçları
-keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, ağır ceza avukatı, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
+keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir, Ceza avukatı, Bilişim suçları nedir, bilişim suçu cezası, ağır ceza avukatı, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat, hukuk bürosu
 
 ---
 
@@ -157,4 +157,11 @@ TCK, bilişim suçu sayısını üç maddeyle sınırlamıştır. Bilişim suçl
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
