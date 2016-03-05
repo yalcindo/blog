@@ -2,8 +2,8 @@
 layout: blog
 title: İstanbul Barosu ve İstanbul'da Avukat 
 category: ceza-hukuku
-googleAnahtar: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
-keywords: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu
+googleAnahtar: avukat, istanbul avukat, istanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu, hukuk bürosu
+keywords: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu, hukuk bürosu
 summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul Adliyeleri tanıtılmış, Bakırköy ve İstanbul adliyelerinin özellikleri, İstanbul Barosu ve İstanbul'da Avukat, Avukat Hakları Merkezi gibi merkezler anlatılmıştır.
 ---
 
@@ -89,4 +89,11 @@ Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http:
 
 İstanbul avukat sayısı en yüksek olan şehirdir. Ancak İstanbul avukatları genellikle adliyeler civarında faaliyet göstermektedir. İstanbul avukat sayısı bakımından dünyanın en büyük avukat kenti olarak da adlandırılabilir.
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
