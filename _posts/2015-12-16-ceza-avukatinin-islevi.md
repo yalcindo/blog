@@ -128,4 +128,4 @@ Ağır ceza avukatı, bir ülkede işlenen en önemli davalarda savunma görevin
 
 
 
-**Ataköy-Bakırköy-İstanbul** /**Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul** /**Avukat Baran Doğan Hukuk Bürosu**
