@@ -2,9 +2,9 @@
 layout: blog
 title: Ağır Ceza Avukatı ve Savunma
 category: ceza-hukuku
-googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul avukat, bakırköy avukat
+googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul avukat, bakırköy avukat, hukuk bürosu
 summary: Ağır ceza avukatı veya ceza avukatı gibi kavramlar ve ağır ceza avukatlarının savunma işlevi, kasten adama öldürme suçu, nitelikli dolandırıcılık suçu, zimmet suçu ve yağma suçu çerçevesinde tanıtılmıştır.
-keywords: Ağır Ceza avukatı, avukat, ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat, ceza avukatları, ağır ceza avukatları
+keywords: Ağır Ceza avukatı, avukat, ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat, ceza avukatları, ağır ceza avukatları, hukuk bürosu
 ---
 
 
