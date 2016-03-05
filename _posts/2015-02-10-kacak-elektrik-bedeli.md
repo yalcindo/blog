@@ -2,7 +2,7 @@
 layout: blog
 title: Kayıp Kaçak Elektrik Bedeli Kararı
 category: hukuk-haberleri
-googleAnahtar: kayıp kaçak bedeli, Kaçak elektrik bedeli, sayaç okuma bedeli, kayıp kaçak bedelinin iadesi
+googleAnahtar: kayıp kaçak bedeli, Kaçak elektrik bedeli, sayaç okuma bedeli, kayıp kaçak bedelinin iadesi, hukuk bürosu, avukat, istanbul avukat, bahçelievler avukat
 summary: Kayıp-kaçak, dağıtım, sayaç okuma, parekende satış hizmeti ve iletim bedellerinin, tüketiciye iade edilmesi Yargıtay tarafından kararlaştırılmıştır.
 ---
 
@@ -116,3 +116,5 @@ Bundan ayrı olarak; elektrik kaybını önleme ve hırsızlıkları engelleme v
 Hâl böyle olunca; mahkemece, yukarıda açıklanan ilke ve esaslar gözetilerek; kayıp-kaçak, dağıtım, sayaç okuma bedeli, parekende satış hizmeti bedeli ve iletim bedelinin elektrik abonelerinden tahsil edilemeyeceği kabul edilip, davanın reddine karar verilmesi gerekirken, aksi gerekçelerle davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 SONUÇ : Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nın 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 20.10.2014 tarihinde oybirliğiyle karar verildi.
+
+**Şirinevler-Bahçelievler-istanbul Avukat Baran Doğan Hukuk Bürosu**
