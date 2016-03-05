@@ -97,4 +97,4 @@ Ağır ceza avukatı, bilişim suçları nedeniyle yargılama yapılan bir davad
 **Ağır ceza avukatı**, hem sanık hakları açısından hem de maddi gerçeğin ortaya çıkarılması açısından yargının temel kurucu aktörlerinden biridir.
 
 
-**Bakırköy - İstanbul Avukat Baran Doğan**
+**Ataköy-Bakırköy - İstanbul Avukat Baran Doğan Hukuk Bürosu**
