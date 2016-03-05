@@ -2,7 +2,7 @@
 layout: blog
 title: Belirli İş Sözleşmesinde Kıdem Tazminatı 
 category: is-hukuku
-googleAnahtar: Kıdem tazminatı, belirli iş sözleşmesi, belirsiz iş sözleşmesi, avukat, Avukat Baran Doğan
+googleAnahtar: Kıdem tazminatı, belirli iş sözleşmesi, belirsiz iş sözleşmesi, avukat, hukuk bürosu, ataköy avukat, bakırköy avukat, istanbul avukat
 summary: Kıdem tazminatı Nedir? Kıdem Tazminatı Alacağı, Kıdem Tazminatı Almanın Şartları, Belirli Süreli İş Sözleşmesi
 ---
 **T.C.**
@@ -145,4 +145,4 @@ Bu nedenle direnme kararı bozulmalıdır.
 
 SONUÇ : Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanun'un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu'na eklenen "Geçici Madde 3" atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429.maddesi gereğince BOZULMASINA, istek halinde temyiz peşin harcının yatırana geri verilmesine, 5521 sayılı İş Mahkemeleri Kanunu'nun 8/3.fıkrası uyarınca karar düzeltme yolu kapalı olmak üzere, 30.05.2014 gününde yapılan ikinci görüşmede oyçokluğu ile karar verildi.
 
-***Avukat Baran Doğan***
+***Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu***
