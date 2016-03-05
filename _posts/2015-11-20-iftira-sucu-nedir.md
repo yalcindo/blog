@@ -2,8 +2,8 @@
 layout: blog
 title: İftira Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: İftira suçu, iftira atma, iftira suçu cezası, iftira suçu şartları, iftira suçu etkin pişmanlık, avukat, ceza avukatı, istanbul avukat, bahçelievler avukat
-keywords: İftira suçu, iftira atma, iftira suçu cezası, iftira suçu şartları, iftira suçu etkin pişmanlık, avukat, ceza avukatı, istanbul avukat, bahçelievler avukat
+googleAnahtar: İftira suçu, iftira atma, iftira suçu cezası, iftira suçu şartları, iftira suçu etkin pişmanlık, avukat, ceza avukatı, istanbul avukat, bahçelievler avukat, hukuk bürosu
+keywords: İftira suçu, iftira atma, iftira suçu cezası, iftira suçu şartları, iftira suçu etkin pişmanlık, avukat, ceza avukatı, istanbul avukat, bahçelievler avukat, hukuk bürosu
 summary: İftira suçu nedir? İftira Suçu Şikayet Süresi, İftira Atma Suçu Şartları, İftira Suçu Cezası, İftira Suçu Etkin Pişmanlık, Başkalarının Kimlik Bilgilerini Kullanma
 ---
 
@@ -114,4 +114,11 @@ Mağdura atılan iftira neticesinde, mağdur ile ilgili hapis cezası dışında
 
 **İftira suçu,** bir taraftan kişisel menfaati korurken diğer taraftan kamu güveni ve adliye ile idarenin düzenini korumaktadır. Bu nedenle iftira suçu kamu düzeni açısından son derece önemlidir.
 
-**Bahçelievler - İstanbul Avukat Baran Doğan**
+**Şirinevler-Bahçelievler - İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
