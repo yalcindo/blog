@@ -2,8 +2,8 @@
 layout: blog
 title: Açık Cezaevine Geçiş (Ayrılma) Şartları
 category: ceza-hukuku
-googleAnahtar: Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-keywords:  Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
+googleAnahtar: Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
+keywords:  Açık cezaevi, açık cezaevine geçiş şartları, açık cezaevine ayrılma, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
 summary: Açık Cezaevi Nedir? Açık Cezaevine Geçiş Şartları Nelerdir? Kapalı Cezaevinden Açık Cezaevine Ayrılma Şartları, Açık Cezaevine Nasıl Geçilir? Firar Suçu ve Açık Cezaevine Geçiş, Disiplin Suçu Cezası ve Açık Cezaevine Ayrılma
 ---
 
@@ -120,4 +120,12 @@ Açık cezaevine geçiş şartları ve [**Denetimli Serbestlik Uygulaması**](ht
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
+
