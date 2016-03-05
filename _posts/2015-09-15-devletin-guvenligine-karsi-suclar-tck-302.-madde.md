@@ -2,8 +2,8 @@
 layout: blog
 title: Siyasi Suçlar-1:Devletin Güvenliğine karşı Suçlar (TCK 302. Madde)
 category: ceza-hukuku
-googleAnahtar: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
+googleAnahtar: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
+keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birliğini ve ülke bütünlüğünü bozmak suçu, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
 summary: TCK 302. maddede “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenen suç tipi incelenmiştir.
 ---
 
@@ -94,3 +94,5 @@ TCK md. 302/2 şu hükmü içermektedir: “Bu suçun işlenmesi sırasında ba�
 Madde metniyle ayrıca cezalandırılması amaçlanan suçlar “araç suçlar”dır. Örgüt üyeliği suçu TCK md. 302’nin uygulanması açısından bir araç suç değil, “geçitli bir suç” türüdür. Failin örgüt üyesi olarak somut başka bir suç işlemesi halinde ilgili suçtan ayrıca cezalandırılması mümkündür. Mevcut dosyada sanıklar, hem TCK 314/2’de düzenlenen “örgüt üyeliği” suçu ile hem de TCK md. 302’de düzenlenen “devletin birliği ve bütünlüğünü bozmak” suçu ile aynı anda suçlanamaz. Nitekim Yargıtay 9. Ceza Dairesi açık olan bu yasal düzenlemeyi ayrıca içtihatlarla da açıklamıştır:
 
 “…..5237 sayılı TCK'nın 314. maddesinde tanımlanan suç, Devletin güvenliğine, toprak bütünlüğüne, anayasal düzene ve bu düzenin işleyişine karşı suçları işlemek amacıyla kurulan silahlı örgütlerin kurucularını, yöneticilerini ve üyelerini cezalandırmaya yönelik hazırlık hareketlerini suç sayan ve yaptırıma bağlayan özel bir suç tipi olup; amaç suç işlendiğinde fail geçitli suçlardaki özellik nedeniyle amaç suç ile amaç suça yönelik olarak gerçekleştirilmiş bulunan araç suçlardan ilgili hükümlere göre cezalandırılacak, ancak örgütün kurucusu, yöneticisi ve üyesi olmaktan ceza verilmeyecektir…..”  (Yargıtay 9. Ceza Dairesi - Esas No: 2011/4205, Karar No: 2011/3247, Tarihi: 7.6.2011).
+
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
