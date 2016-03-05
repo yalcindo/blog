@@ -2,8 +2,8 @@
 layout: blog
 title: Mala Zarar Verme Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul
-keywords:   Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, mala zarar verme suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat,
+googleAnahtar: Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
+keywords: Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, mala zarar verme suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zarar Verme Suçu ve Etkin Pişmanlık, Mala Zarar Verme Suçu ve Ceza İndirimi, Mala Zarar Verme Suçu Şikayet Süresi, Mala Zarar Verme Suçu Yargıtay Kararları
 ---
 
