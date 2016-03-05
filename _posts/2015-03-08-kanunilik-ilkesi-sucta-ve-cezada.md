@@ -2,8 +2,8 @@
 layout: blog
 title: Suçta ve Cezada Kanunilik İlkesi (Kanunsuz Suç ve Ceza Olmaz)
 category: ceza-hukuku
-googleAnahtar: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-keywords: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat
+googleAnahtar: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
+keywords: kanunilik ilkesi, suçta ve cezada kanunilik, kanunsuz suç ve ceza olmaz, avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukatı, hukuk bürosu
 summary: Kanunilik İlkesi, Suçta ce Cezada Kanunilik İlkesi, Kanunsuz Suç ve Ceza olmaz İlkesi, Suç ve Cezanın Kanuniliği İlkesi
 ---
 
@@ -22,4 +22,12 @@ Ceza kanunlarının geçmişe yürümemesi ilkesi, failin lehine olan kanunlar a
 
 **Suçta ve cezada kanunilik ilkesi,** bir taraftan devletin ceza hukukunu kullanarak bireye müdahale etmesinin sınırlarını çizerken diğer taraftan bireyin hangi davranışları sergilediğinde hukuk dışına çıkacağını belirler. Yaşamsal önemdeki bu ilkenin en önemli güvence mekanizmalarından biri de [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faaliyet gösteren avukatlardır.  
 
-***Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan***
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
