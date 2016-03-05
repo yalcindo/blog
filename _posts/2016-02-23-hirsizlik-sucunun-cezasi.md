@@ -3,7 +3,7 @@ layout: blog
 title: Hırsızlık Suçu, Şartları ve Cezası
 category: ceza-hukuku
 googleAnahtar: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul ceza avukatı, hukuk bürosu
-keywords: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, hırsızlık suçu yargıtay kararları, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
+keywords: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, hırsızlık suçu yargıtay kararları, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma Hırsızlığı Suçu, Nitelikli Hırsızlık Suçu, Hırsızlık Suçu Şikayet Süresi, Hırsızlık Suçu Yargıtay Kararları
 ---
 
