@@ -2,7 +2,7 @@
 layout: blog
 title: Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi 
 category: medeni-hukuk
-googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, ataköy avukat, 
+googleAnahtar: Anlaşmalı boşanma, anlaşmalı boşanma davasının çekişmeli boşanma davasına dönüşmesi, avukat, ataköy avukat, hukuk bürosu, istanbul avukat
 summary: Anlaşmalı Boşanma, Anlaşmalı Boşanmanın Çekişmeli Boşanmaya Dönüşmesi, Eşlerin Eşit Kusuru Halinde Maddi-Manevi Tazminat Yargıtay Kararı
 ---
 
@@ -28,4 +28,4 @@ Davalı ile boşanma ve fer'i sonuçlarında anlaştıklarını belirterek boşa
 
 SONUÇ : Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 08.05.2014 gününde oybirliğiyle karar verildi.
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
