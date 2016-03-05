@@ -2,7 +2,7 @@
 layout: blog
 title: El Atmanın Önlenmesi (Müdahalenin Men-i)
 category: gayrimenkul-hukuku
-googleAnahtar: el atmanin önlenmesi, müdahalenin men-i, başkasının arasasına bina yapılması, avukat, Avukat Baran Doğan
+googleAnahtar: el atmanin önlenmesi, müdahalenin men-i, başkasının arasasına bina yapılması, avukat, hukuk bürosu, ataköy avukat, bakırköy avukat, istanbul avukat
 summary: El Atmanın Önlenmesi, Müdahalenin Men-i, Başkasının Arsasına Bina Yapılması, İyiniyetli-Kötüniyetli Malzeme Sahibi
 ---
 
@@ -45,5 +45,5 @@ Hal böyle olunca, asıl davada ileri sürülen **el atmanın önlenmesi** ve y�
 
 SONUÇ : Davacının, temyiz itirazı açıklanan sebepten ötürü yerindedir. Kabulüyle, hükmün ( 6100 S. H.M.K.nın geçici 3 üncü maddesi yollamasıyla ) H.U.M.K.nun 428 inci maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene iadesine, 19.10.2011 tarihinde oybirliğiyle karar verildi.
 
-***Ataköy - Avukat Baran Doğan***
+***Ataköy-Bakırköy-İstanbul - Avukat Baran Doğan Hukuk Bürosu***
 
