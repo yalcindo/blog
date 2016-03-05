@@ -2,7 +2,7 @@
 layout: blog
 title: İsim Değiştirme ve Soyadı Değişikliği Davası
 category: medeni-hukuk
-googleAnahtar: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, florya avukat, bakırköy avukat, istanbul avukat
+googleAnahtar: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 keyword: isim değiştirme, soyadı değiştirme, ad soyadı değişikliği davası, isim değişikliği, isim değiştirme dava dilekçesi, avukat, florya avukat, bakırköy avukat, istanbul avukat
 summary: İsim Değiştirme Davası, Soyadı Değiştirme Davası, İsim ve Soyadı Değişikliği Davası Yetkili Mahkeme, Ad ve Soyisim Değiştirme Dava Dilekçesi ve Dava Dilekçesinin İçeriği, Gerekli Evraklar ve Prosedür
 ---
@@ -72,4 +72,4 @@ MK md. 27’ye göre, ad ve soyadı değişikliği nedeniyle herhangi bir şekil
 
 
 
-**Florya-Bakırköy-İstanbul Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
