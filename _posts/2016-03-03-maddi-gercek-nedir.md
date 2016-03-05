@@ -23,7 +23,7 @@ Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden "maddi
 ______________________________________________________________________________________________________________________________________
 
 
-Hukuk Bürosu Notlar:
+**Hukuk Bürosu Notlar:**
 
 Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
 
