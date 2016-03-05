@@ -2,8 +2,8 @@
 layout: blog
 title: Tehdit Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Tehdit suçu, tehdit suçunun cezası, tehdit suçunun şartları, tehdit suçunun şikayet süresi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy, istanbul avukat
-keywords: Tehdit suçu, tehdit suçunun cezası, tehdit suçunun şartları, tehdit suçunun şikayet süresi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ceza avukatı arıyorum istanbul, en iyi ceza avukatı, ataköy avukat
+googleAnahtar: Tehdit suçu, tehdit suçunun cezası, tehdit suçunun şartları, tehdit suçunun şikayet süresi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy, istanbul avukat, hukuk bürosu
+keywords: Tehdit suçu, tehdit suçunun cezası, tehdit suçunun şartları, tehdit suçunun şikayet süresi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ceza avukatı arıyorum istanbul, en iyi ceza avukatı, ataköy avukat, hukuk bürosu
 summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Suçunun Basit Şekli, Tehdit Suçunun Nitelikli (Ağır) Hali, Tehdit Suçunun Şikayet Süresi, Tehdit Suçunun Cezası, Silahlı Tehdit Suçu
 ---
 
@@ -119,4 +119,13 @@ Hükmün açıklanmasının geri bırakılması, tehdit suçu açısından da uy
 **Tehdit suçu,** kişinin özel ve sosyal yaşamında huzur içinde yaşama hakkını koruyan bir suçtur. Özellikle nitelikli tehdit suçunun cezası bu işlevine paralel olarak belirlenmiştir. Ancak uygulamada yeterince etkin soruşturma ve kovuşturma yapılmadığından tehdit suçu adil bir şekilde yargılanamamaktadır.
 
 	
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
+
