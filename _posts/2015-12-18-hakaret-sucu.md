@@ -2,9 +2,9 @@
 layout: blog
 title: Hakaret Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul ceza avukatı
+googleAnahtar: Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, bakırköy avukat, istanbul ceza avukatı, hukuk bürosu
 summary: Hakaret suçu nedir? Hakaret suçunun cezası nedir? Mağdurun yokluğunda (gıyabında) hakaret, Karşılıklı hakaret suçu, İnternet yoluyla hakaret suçu, Alenen hakaret, Cumhurbaşkanına hakaret suçu, Hakaret suçu şikayet süresi
-keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, ağır ceza avukatı, Cumhurbaşkanına hakaret suçu, bakırköy avukat, istanbul avukat
+keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu şikayet süresi, internet yoluyla hakaret, karşılıklı hakaret, ağır ceza avukatı, Cumhurbaşkanına hakaret suçu, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
 ## Hakaret Suçu Nedir?
@@ -120,4 +120,12 @@ Nitelikli **hakaret suçu** şikayete tabi değildir. Bu nedenle suçun nitelikl
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
+
