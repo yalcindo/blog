@@ -2,8 +2,8 @@
 layout: blog
 title: Dolandırıcılık Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, florya avukat, bakırköy avukat, istanbul avukat
-keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat
+googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
+keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve Cezası, Banka ve Kredi Kurumları Araç Yapılarak Dolandırıcılık Suçu, Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu, Dolandırıcılık Suçu Yargıtay Kararları
 ---
 
@@ -181,5 +181,9 @@ Dolandırıcılık suçu veya suçun daha ağır şekli olan *nitelikli dolandı
 
 **Dolandırıcılık suçu,** birçok farklı icrai hareketle işlenebildiğinden hukuk uygulayıcılarının her yeni vakıada suçun işlenip işlenmediği noktasındaki analizi hile, aldatma gibi kavramlar ışığında yapması gerekir. 
 
-**Florya-Bakırköy-İstanbul Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
