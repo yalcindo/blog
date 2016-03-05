@@ -112,4 +112,4 @@ YILMAZ
 Üye
 A. YENER
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
