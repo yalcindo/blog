@@ -2,8 +2,8 @@
 layout: blog
 title: Suç ve Cezanın Şahsiliği İlkesi
 category: ceza-hukuku
-googleAnahtar: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy ataköy, bakırköy avukat,
-keywords: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat
+googleAnahtar: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy hukuk bürosu, bakırköy avukat,
+keywords: suç ve cezanın şahsiliği, kanunsuz suç ve ceza olmaz ilkesi, ceza sorunluluğunun sahsiliği, Ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Suç ve cezanın şahsiliği ilkesi, Ceza sorumluluğunun şahsiliği, Cezaların şahsiliği ilkesi, suçların şahsiliği ilkesi, suç ve cezanın kişselliği  ilkesi 
 ---
 ---
@@ -20,4 +20,4 @@ Devletlerin cezai sorumluluğu açısından da diğer tüzel kişilere benzer bi
 
 Kanunlar, **suç ve cezaların şahsiliği ilkesi**nin vücut bulması için birçok mekanizma öngörmüştür. Uygulamada sahada [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak çalışan avukatların gerek kolluk uygulamaları gerekse yargı organlarının uygulamaları açısından bu ilkenin uygulandığını gözetmeleri gerekir.
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
