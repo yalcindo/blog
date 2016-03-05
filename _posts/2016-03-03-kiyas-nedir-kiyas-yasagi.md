@@ -2,9 +2,9 @@
 layout: blog
 title: Ceza Muhakemesinde Kıyas ve Kıyas Yasağı
 category: ceza-hukuku
-googleAnahtar: Kıyas Nedir, Kıyas Yasağı Nedir, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
+googleAnahtar: Kıyas Nedir, Kıyas Yasağı Nedir, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, istanbul hukuk bürosu
 summary: İstanbul Ceza Avukatı Semineri Videosu-2 Kıyas Nedir? Kıyas Yasağı Nedir?  Ceza avukatlarına ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminer videosudur.
-keywords: Kıyas Nedir, Kıyas Yasağı Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
+keywords: Kıyas Nedir, Kıyas Yasağı Nedir, İstanbul avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, istanbul hukuk bürosu
 ---
 
 ### ![istanbul ceza avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Ceza Avukatı")
