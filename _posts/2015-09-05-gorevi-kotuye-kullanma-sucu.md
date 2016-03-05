@@ -2,9 +2,9 @@
 layout: blog
 title: Görevi Kötüye Kullanma Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, ihmal suretiyle görevi kötüye kullanma, ceza avukatı, ağır ceza avukatı, istanbul bakırköy avukat
+googleAnahtar: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, ihmal suretiyle görevi kötüye kullanma, ceza avukatı, ağır ceza avukatı, istanbul bakırköy avukat, hukuk bürosu
 summary: Görevi Kötüye Kullanma Nedir? Görevi Kötüye Kullanma Suçunun Şartları, Görevi İhmal, İhmal Suretiyle Görevi Kötüye Kullanma Suçu, Görevi Kötüye Kullanma Suçu ve Şikayet, Görevi Kötüye Kullanma Suçu Yargıtay Kararları
-keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, görevi ihmal suçu, ihmal suretiyle görevi kötüye kullanma suçu, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, bakırköy avukat, florya avukat
+keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası, görevi ihmal suçu, ihmal suretiyle görevi kötüye kullanma suçu, avukat, ceza avukatı, ağır ceza avukatı, istanbul avukat, bakırköy avukat, hukuk bürosu
 ---
 
 
@@ -106,4 +106,11 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 **Görevi kötüye kullanma,** kamu hizmetini aksatan gerek bireye gerek kamuya zarar verilmesine neden olan önemli bir fiil olduğundan **görevi kötüye kullanma suçu** TCK’da kamu görevlileri açısından temel bir suç olarak düzenlenmiştir.
 
 
-**Florya-Bakırköy-İstanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
