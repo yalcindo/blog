@@ -2,8 +2,8 @@
 layout: blog
 title: Uluslararası Suçlar-1  "İnsanlığa Karşı Suçlar" 
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbul avukat, ağır ceza avukatı
-keywords: Uluslararası Ceza Mahkemesi, insanlığa karşı suçlar, ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukatı 
+googleAnahtar: Uluslararası Ceza Mahkemesi, İnsanlığa karşı suçlar, ceza avukatı, avukat, ataköy avukat, bakırköy avukat, istanbul avukat, ağır ceza avukatı, hukuk bürosu
+keywords: Uluslararası Ceza Mahkemesi, insanlığa karşı suçlar, ceza avukatı, avukat, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukatı, hukuk bürosu
 summary: İnsanlığa Karşı Suç Nedir? İnsanlığa Karşı Suçlar kaç Çeşittir? Uluslararası Ceza Mahkemesi'nin İnsanlığa Karşı Suçları Yargı Yetkisi
 ---
 
@@ -47,4 +47,4 @@ Suçun mağduru, suçun işlendiği yer devletiyle vatandaşlık bağı olsun ve
 
 **İnsanlığa karşı suçlar** konusunda bilgi sahibi olan, teknik bilgiye sahip olan insanlar, özellikle [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faailiyet gösteren avukatlar dünyanın her yerinde işlenen suçları takip ederek mahkemeye bildirebilir. Böylece mahkeme konu ile ilgili soruşturma açılıp açılmaması noktasında bir değerlendirme yapma imkanı bulur.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan Hukuk Bürosu**
