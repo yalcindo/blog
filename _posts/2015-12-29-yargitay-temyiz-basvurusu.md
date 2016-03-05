@@ -2,8 +2,8 @@
 layout: blog
 title: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusu
 category: ceza-hukuku
-googleAnahtar: Temyiz, temyiz başvurusu, yargıtay temyiz süresi, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, Onama, Bozma, bakırköy avukat, istanbul avukat
-keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, temyiz başvuru dilekçesi, temyiz süresi
+googleAnahtar: Temyiz, temyiz başvurusu, yargıtay temyiz süresi, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, Onama, Bozma, bakırköy avukat, istanbul avukat, hukuk bürosu
+keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, temyiz başvuru dilekçesi, temyiz süresi, hukuk bürosu
 summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yargıtay Temyiz İncelemesi Duruşmalı mıdır? Temyiz İncelemesi Sonucu Onama, Düzelterek Onama ve Bozma Kararı
 ---
 
@@ -90,7 +90,14 @@ Son olarak şunu belirtmek gerekir ki; temyiz başvurusunun bir [**ceza avukatı
 
 
 
-**Bakırköy- İstanbul Avukat Baran Doğan**
+**Ataköy-Bakırköy- İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
 
 
 
