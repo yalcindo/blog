@@ -2,8 +2,8 @@
 layout: blog
 title: Zimmet Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Zimmet nedir? Zimmet Suçu, Kullanma zimmeti suçu, zimmet suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bahçelievler avukat, istanbul avukat
-keywords:  Zimmet nedir? Zimmet Suçu, Kullanma zimmeti suçu, zimmet suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bahçelievler avukat, istanbul avukat, zimmet suçu etkin pişmanlık, zimmet suçu ceza indirimi
+googleAnahtar: Zimmet nedir? Zimmet Suçu, Kullanma zimmeti suçu, zimmet suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bahçelievler avukat, istanbul avukat, hukuk bürosu
+keywords:  Zimmet nedir? Zimmet Suçu, Kullanma zimmeti suçu, zimmet suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bahçelievler avukat, istanbul avukat, zimmet suçu etkin pişmanlık, zimmet suçu ceza indirimi, hukuk bürosu
 summary: Zimmet nedir? Zimmet Suçu Nedir? Kullanma Zimmeti Suçu nedir? Zimmet Suçunun Şartları, Nitelikli Zimmet Suçu, Zimmet Suçu ve Etkin Pişmanlık, Zimmet Suçu ve Ceza İndirimi, Zimmet Suçunun Cezası
 ---
 
@@ -93,7 +93,7 @@ Zimmet suçunun konusu olan malın değerinin azlığı bir ceza indirimi nedeni
 
 **Zimmet suçu**, suça dair cezanın ağırlığı, suçun niteliği, indirim nedenleri göz önüne alındığında mutlaka bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla savunma yapılması gereken bir suçtur.
 
-**Şirinevler/Bahçelievler/İstanbul Avukat Baran Doğan**
+**Şirinevler/Bahçelievler/İstanbul Avukat Baran Doğan Hukuk Bürosu**
 
 **Hukuk Bürosu Not:**
 
