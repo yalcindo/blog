@@ -2,7 +2,7 @@
 layout: blog
 title: Taşınmazın Haricen Satışı ve Ecrimisil
 category: gayrimenkul-hukuku
-googleAnahtar: taşınmazın haricen satışı, Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat, Avukat Baran Doğan
+googleAnahtar: taşınmazın haricen satışı, Ecrimisil, harici satış, elatmanın önlenmesi, avukat, ataköy avukat,  hukuk bürosu, istanbul avukat
 summary: Taşınmazın Harici Satışı, Ecrimisil, El Atmanın Önlenmesi Yargıtay Kararı
 ---
 
@@ -40,4 +40,4 @@ O halde, anılan belgenin aslı temin edilerek, belge üzerinde bilirkişi tetki
 
 SONUÇ : Davalı H.'in bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün ( 6100 sayılı Hukuk Muhakemeleri Kanununun geçici 3. maddesi aracılığıyla ) 1086 sayılı HUMK.nun 428. maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 22.12.2011 tarihinde oybirliğiyle karar verildi.
 
-**Ataköy - Avukat Baran Doğan**
+**Ataköy- Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
