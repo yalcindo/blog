@@ -2,8 +2,8 @@
 layout: blog
 title: Tutuklama Kararına İtiraz Dilekçesi
 category: ceza-hukuku
-googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, Ceza avukatı, avukat, tutuklama şartları, Bakırköy avukat, Ataköy avukat, istanbul
-keywords:  Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, ağır ceza avukatı, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri,  Bakırköy avukat, Ataköy avukat, istanbul avukat.
+googleAnahtar: Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, Ceza avukatı, avukat, tutuklama şartları, Bakırköy avukat, Ataköy avukat, istanbul hukuk bürosu
+keywords:  Tutuklama kararına itiraz dilekçesi, tutuklamaya itiraz dilekçe örneği, tutuklama kararı, tutuklama kararına itiraz, Ceza avukatı, avukat, ağır ceza avukatı, tutuklama koşulları, tutuklama şartları, tutuklama nedeni, tutuklama nedenleri,  Bakırköy avukat, Ataköy avukat, istanbul avukat, hukuk bürosu
 summary: Tutuklama kararına itiraz dilekçesi, tutukluluğa itiraz dilekçesi yer almaktadır.
 
 ---
@@ -66,4 +66,12 @@ Yukarıda açıkladığımız nedenlerle,tutuklama kararının  kaldırılarak �
 
 
 
-**Ataköy-Bakırköy - istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy - istanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
