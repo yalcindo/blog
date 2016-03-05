@@ -2,8 +2,8 @@
 layout: blog
 title: Müsadere Nedir? Eşya veya Kazanç Müsaderesi
 category: ceza-hukuku
-googleAnahtar: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Suç Aleti Müsaderesi, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukat
-keywords: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Mal Müsaderesi, Suç Aleti Müsaderesi, Ceza avukatı, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukat
+googleAnahtar: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Suç Aleti Müsaderesi, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukat, hukuk bürosu
+keywords: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Mal Müsaderesi, Suç Aleti Müsaderesi, Ceza avukatı, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukatı, hukuk bürosu
 summary: Müsadere Nedir? Eşya Müsaderesi Şartları, Kazanç Müsaderesi Şartları, Para Müsaderesi, Mal Müsaderesi, Orman Kanunu Müsadere Koşulları, Kaçakçılıkla Mücadele Kanunu Müsadere, Müsadere Zamanaşımı
 ---
 
@@ -113,3 +113,10 @@ Müsadere yargılaması dava zamanaşımı itibariyle genel hükümlere tabidir.
 
 
 **Şirinevler - Bahçelievler - İstanbul Avukat Baran Doğan**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
