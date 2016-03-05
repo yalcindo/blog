@@ -2,7 +2,7 @@
 layout: blog
 title: Hırsızlık Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul ceza avukatı
+googleAnahtar: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul ceza avukatı, hukuk bürosu
 keywords: Hırsızlık Suçu, hırsızlık suçunun cezası, hırsızlık suçu şikayet süresi, hırsızlık suçu yargıtay kararları, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat
 summary: Hırsızlık Suçu Nedir? Hırsızlık Suçunun Şartları, Kullanma Hırsızlığı Suçu, Nitelikli Hırsızlık Suçu, Hırsızlık Suçu Şikayet Süresi, Hırsızlık Suçu Yargıtay Kararları
 ---
@@ -139,4 +139,11 @@ Hırsızlık suçunun basit veya nitelikli tüm şekilleri resen soruşturulmala
 
 **Hırsızlık suçu,** malvarlığı değerlerini koruyan en temel suçtur. Bu nedenle, [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Yağma (Gasp) Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html) gibi birçok suç ile kesişen fiiler içermektedir. Uygulamada failin işlediği fiil vasıflandırılırken sık sık hata yapıldığı, suç vasıflarının birbirine karıştırıldığı görülmektedir. 
 
-**İstanbul- Bakırköy Avukat Baran Doğan** 
+
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
