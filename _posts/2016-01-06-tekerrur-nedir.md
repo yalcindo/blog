@@ -2,8 +2,8 @@
 layout: blog
 title: Tekerrür Nedir? Mükerrirlere Özgü İnfaz Rejimi
 category: ceza-hukuku
-googleAnahtar: Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat 
-keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat 
+googleAnahtar: Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
+keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
 summary: Tekerrür Nedir? Tekerrürün Hukuki Niteliği, Suçta Tekerrür Şartları, Mükerrirlere Özgü İnfaz Rejimi Ne Demek? Suçta Tekerrürün Uygulanma Süresi, Hapis Cezası Tekerrür, Adli Para Cezası Tekerrür
 ---
 
@@ -156,4 +156,11 @@ Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa il
 
 
 
-**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan**
+**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
+
