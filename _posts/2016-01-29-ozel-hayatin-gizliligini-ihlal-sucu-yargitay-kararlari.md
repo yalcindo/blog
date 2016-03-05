@@ -2,8 +2,8 @@
 layout: blog
 title: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları
 category: ceza-hukuku
-googleAnahtar: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel hayatın gizliliği, avukat, ağır ceza avukatı, istanbul ceza avukatı, bahçelievler avukat
-keywords:  Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel hayatın gizliliği, avukat, ağır ceza avukatı, istanbul ceza avukatı, bahçelievler avukat
+googleAnahtar: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel hayatın gizliliği, avukat, ağır ceza avukatı, istanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
+keywords:  Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel hayatın gizliliği, avukat, ağır ceza avukatı, istanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
 summary: Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları, Özel Hayatın Gizliliği ve Basın-Yayın, Özel Hayatın Gizliliği ve Gazetecilik, Habercilik ve Haber Yapma Hakkının Sınırları, Özel Hayatın Gizliliğini İfşa Suçu ve Haber
 ---
 
@@ -41,4 +41,11 @@ TCK’nın 134/2. maddesinde, kişilerin özel hayatına ilişkin görüntü vey
 Yukarıdaki yargıtay kararı ile özel hayatın gizliliğini ihlal suçu ile gazetecilik, haber yapma hakkı, basın yayın faaliyeti arasındaki ilişki tartışılmıştır. 
 
 
-**Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
+**Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
