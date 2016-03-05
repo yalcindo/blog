@@ -2,8 +2,8 @@
 layout: blog
 title: Özel Hayatın Gizliliğini İhlal Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-keywords:  Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
+googleAnahtar: Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
+keywords:  Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
 summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Suçu, Özel Hayatın Gizliliğini İfşa, Özel Hayatın Gizliliğini İhlal Suçunun Cezası, Özel Hayatınn Gizliliğini İhlal Şikayet Süresi, Özel Hayatınn Gizliliğini İhlal Suçu Yargıtay Kararları
 ---
 
@@ -91,4 +91,11 @@ Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şik
 
 **Özel hayatın gizliliğini ihlal suçu,** bir hukuki değer olan kişilerin özel hayatını ve onurunu koruduğundan soruşturma aşamasının titiz bir şekilde yapılması suç faillerinin yakalanması açısından önemlidir. **Özel hayatın gizliliğini ihlal suçu,** günümüzde bazı teknik araçlar kullanılarak işlendiğinden iddia ve savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması maddi gerçeğin ortaya çıkmasına yardımcı olacaktır.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan**
+**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Hukuk Bürosu Not:**
+
+Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+
