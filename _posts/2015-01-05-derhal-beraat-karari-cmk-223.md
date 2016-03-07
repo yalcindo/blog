@@ -43,7 +43,7 @@ Sanığın savunmasını yapan avukat, derhal beraat şartlarının oluşup olu�
  
 
 
-Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden alınan ve davasız yargılama olmaz-yargılamanın sınırlılığı ilkesini açıklayan bir **VİDEO** aşağıdadır.
+Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden alınan ve derhal beraat kararını açıklayan bir **VİDEO** aşağıdadır.
 
 
 
