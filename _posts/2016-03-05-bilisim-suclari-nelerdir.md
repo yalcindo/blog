@@ -10,7 +10,7 @@ keywords: Bilişim suçları, bilişim suçları nelerdir, bilişim suçu nedir,
 
 ## Bilişim suçu nedir?
 
-**Bilişim suçları nelerdir** sorusunun cevabı çok geniş bir alanı kapsar. Bilgisayar, tablet, cep telefonu gibi çağdaş iletişim araçları veya pos makinası gibi alışveriş araçları kullanılarak elektronik ortamda gerçekleştirilen suçlara bilişim suçları denilmektedir. **Bilişim suçu** terimi yerine bilgisayar suçu, internet suçu, elektronik ortamda işlenen suçlar gibi kavramlar da kullanılmaktadır. Bilginin elektronik ve teknolojik araçlar kullanılarak aktarılmasına bilişim, bu süreçte işlenen suçlar da **bilişim suçları** olarak tarif edilebilir.
+**Bilişim suçları nelerdir** sorusunun cevabı çok geniş bir alanı kapsamaktadır. Bilgisayar, tablet, cep telefonu gibi çağdaş iletişim araçları veya pos makinası gibi alışveriş araçları kullanılarak elektronik ortamda gerçekleştirilen suçlara bilişim suçları denilmektedir. **Bilişim suçu** terimi yerine bilgisayar suçu, internet suçu, elektronik ortamda işlenen suçlar gibi kavramlar da kullanılmaktadır. Bilginin elektronik ve teknolojik araçlar kullanılarak aktarılmasına bilişim, bu süreçte işlenen suçlar da **bilişim suçları** olarak tarif edilebilir.
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/c8750dde4f2014fc7fd3e3385e2888118afb253f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a4a5633345a2e6a7067 "Ceza Avukatı")
 
