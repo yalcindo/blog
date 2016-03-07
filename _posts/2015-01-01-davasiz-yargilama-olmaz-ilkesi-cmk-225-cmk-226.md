@@ -25,19 +25,13 @@ Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden alın
 
 ###  [![Davasız Yargılama Olmaz İlkesi](https://i.ytimg.com/vi/wykDbNDYYR4/hqdefault.jpg)](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı Semineri")**<center>Videoyu İzlemek İçin Resmi Tıklayınız</center>**
 
+**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan Hukuk Bürosu**
 
-
-
+______________________________________________________________________________________________________________________________________
 
 Hukuk Bürosu Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
 
 Hukuk Bürosu Not-2: Türkiye’deki avukatlık uygulmasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
-**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan Hukuk Bürosu**
 
-______________________________________________________________________________________________________________________________________
-
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
