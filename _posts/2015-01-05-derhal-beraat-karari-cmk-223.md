@@ -19,7 +19,7 @@ Derhal beraat kararı verilebilmesi için delil değerlendirmesine gerek olmamal
 
 Derhal beraat kararı, sadece yargılamının başlangıcında değil, yargılamanın herhangi aşamasında verilebilecek bir karardır. Derhal kelimesinden kastedilen "yargılamanın bulunduğu aşama" itibariyle daha fazla araştırma yapılması veya delil toplanmasına gerek olmaması anlaşılmalıdır. Bu nedenle, mahkeme yargılamanın başında derhal beraat kararı verebileceği gibi yargılamanın ilerlediği herhangi bir evrede de derhal beraat kararı verilebilir.
 
-Sanığın sorgusunun yapılmamış olması, derhal beraat kararı verilmesine engel değildir. CMK md. 193/2'e göre, sanık hakkında mahkumiyet kararı dışında bir karar verilmesi gerektiği kanaatine ulaşıldığında sanığın sorgusu yapılmadan da karar verilebilir. CMK 193/2 maddesi, mahkumiyet dışında verilebilecek her türlü karar ve bu arada derhal beraat kararı için uygulanabilir.
+Sanığın sorgusunun yapılmamış olması, derhal beraat kararı verilmesine engel değildir. CMK md. 193/2'e göre, sanık hakkında mahkumiyet kararı dışında bir karar verilmesi gerektiği kanaatine ulaşıldığında sanığın sorgusu yapılmadan da karar verilebilir. CMK 193/2 maddesi, mahkumiyet dışında verilebilecek her türlü karar ve bu arada derhal beraat kararı için uygulanabilir. 
 
 ### Derhal Beraat Kararının Amacı Nedir?
 
@@ -35,12 +35,12 @@ Yargılama süreci, bireyin gerek özel gerekse sosyal hayatı üzerinde etki b�
 * İsnat edilen suçun sanık tarafından işlenmesine rağmen olayda bir hukuka uygunluk nedeninin bulunması,
 * İsnat edilen suçun sanık tarafından işlendiğinin sabit olmaması.
 
-Yukarıda sayılan 5 nedenle yargılama  yapılarak, neticesinde beraat kararı verilebileceği gibi yargılamanın geldiği aşama itibariyle daha fazla yargılama yapılmadan derhal beraat kararı da verilebilir.
+Yukarıda sayılan 5 nedenle yargılama  yapılarak, neticesinde beraat kararı verilebileceği gibi yargılamanın geldiği aşama itibariyle daha fazla yargılama yapılmadan derhal beraat kararı da verilebilir. Örneğin, mevcut veya toplanan delillerle sanığın şikayetçi ile açık bir ticari bir ilişki çerçevesinde hareket ettiği anlaşıldığında, [dolandırıcılık suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) nedeniyle derhal beraat kararı verilmesi mümkündür.
+ 
  
 CMK 223/9 maddesi gereği derhal beraat kararı verilebilecek hallerde artık koşulları olsa bile, durma, düşme veya ceza verilmesine yer olmadığı kararı verilemez.
 
-Sanığın savunmasını yapan avukat, derhal beraat şartlarının oluşup oluşmadığını öncelikle değerlendirmelidir.
- 
+Sanığın savunmasını yapan avukat, derhal beraat şartlarının oluşup oluşmadığını öncelikle değerlendirmelidir. 
 
 
 Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden alınan ve derhal beraat kararını açıklayan bir **VİDEO** aşağıdadır.
