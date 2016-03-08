@@ -77,7 +77,7 @@ Savunma meşru müdafaa şartları bulunduğu sırada başladığı halde, orant
 
 Kişi saldırıya uğraması nedeniyle bir korku, telaş ve endişenin içine düşmektedir. Böylece failin davranışlarını yönlendirme yeteneğinde bir azalma meydana gelmektedir. Failin içinde bulunduğu psikolojik ortam meşru savunmada sınırın aşılıp aşılmadığının tespitinde önem kazanır. Eğer fail, korku ve telaşla değil de bir kin ve intikam duygusuyla saldırıya cevap verirse meşru savunmada sınırın aşılmasından değil haksız tahrik hükümlerinin uygulanmasından bahsedilebilir.
 
-Meşru müdafaada sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde meşru savunmada sınır aşılsa bile faile ceza verilmez.
+Meşru müdafaada sınırın aşılması şartlarının tümünün bir arada gerçekleşmesi halinde faile ceza verilmez. Özellikle [kasten adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) işleyen failin meşru savunma sınırları içinde hareket edip etmediği ceza avukatı tarafından titizlikle değerlendirilmelidir.
 
 ### Meşru Müdafaa (Meşru Savunma) Yargıtay Kararları     
 
