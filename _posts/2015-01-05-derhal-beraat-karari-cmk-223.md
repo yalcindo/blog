@@ -3,7 +3,7 @@ layout: blog
 title: Derhal Beraat Kararı ve Şartları
 category: ceza-hukuku
 googleAnahtar: Derhal beraat nedir, derhal beraat kararı şartları, hukuk bürosu, avukat, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, ceza davası, cmk 223
-summary: İstanbul Ceza Avukatı Semineri Videosu-3  Derhal Beraat Nedir? Derhal Beraat Kararı Nasıl Verilir? Ceza avukatlarına ve ceza avukatı olmak isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminerin videosu da yer almaktadır.
+summary: İstanbul Ceza Avukatı Semineri Videosu-3  Derhal Beraat Nedir? Derhal Beraat Kararı Nasıl Verilir? Ceza avukatlarına ve ceza avukatı olmak isteyen stajyer avukatlara İstanbul'da verilen mesleki seminerin videosu da yer almaktadır.
 keywords: Derhal beraat nedir, derhal beraat kararı şartları, hukuk bürosu, avukat, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, ceza davası, cmk 223, bahçelievler avukat, şirinevler avukat
 ---
 
