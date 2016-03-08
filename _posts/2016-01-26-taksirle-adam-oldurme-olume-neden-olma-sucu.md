@@ -12,7 +12,7 @@ keywords: Taksirle adam öldürme, taksirle adam öldürme suçu cezası, taksir
 
 ## Taksirle Adam Öldürme Nedir?
 
-**Taksirle adam öldürme**, dikkat ve özen yükümlülüğüne aykırı bir kusurlu davranış ile “öngörmeyerek” bir kimsenin hayatına son verilmesidir.  **Bilinçli taksirle adam öldürme** ise yapılan  kusurlu davranış ile bir kimsenin ölebileceğinin fail tarafından “öngörülmesine” rağmen davranışın yapılmasıdır.  İster normal taksirle adam öldürme suçu olsun isterse bilinçli taksirle adam öldürme suçu olsun; her iki halde de failin ortaya çıkan “adam öldürme” sonucunu istememesi halinde taksirli sorumluluk meydana gelir. Fail, “adam öldürme”  neticesini bilerek ve isteyerek fiili gerçekleştiriyorsa taksirle adam öldürme suçu değil, kasten adam öldürme suçu söz konusu olur.
+**Taksirle adam öldürme**, dikkat ve özen yükümlülüğüne aykırı bir kusurlu davranış ile “öngörmeyerek” bir kimsenin hayatına son verilmesidir.  **Bilinçli taksirle adam öldürme** ise yapılan  kusurlu davranış ile bir kimsenin ölebileceğinin fail tarafından “öngörülmesine” rağmen davranışın yapılmasıdır.  İster normal taksirle adam öldürme suçu olsun isterse bilinçli taksirle adam öldürme suçu olsun; her iki halde de failin ortaya çıkan “adam öldürme” sonucunu istememesi halinde taksirli sorumluluk meydana gelir. Fail, “adam öldürme”  neticesini bilerek ve isteyerek fiili gerçekleştiriyorsa taksirle adam öldürme suçu değil, [kasten adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) söz konusu olur.
 
 
 ## Taksirle Adam Öldürme Suçu Şikayet Süresi
