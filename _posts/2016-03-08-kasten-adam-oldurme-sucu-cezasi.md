@@ -148,7 +148,7 @@ Olağanüstü yöntemlerle adam öldürmek tüm hukuk sistemlerinde ağır ceza 
 
 TCK 82/1-c maddesinde düzenlenen nitelikli kasten adam öldürmenin cezası, ağırlaştırılmış müebbet hapis cezasıdır.
 
-### ### ![istanbul ağır ceza avukatı](https://camo.githubusercontent.com/e03c5eec7772b00b322008094dd48de25aa65ad3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d37645952562e6a7067 "Ağır Ceza Avukatı")
+### ![istanbul ağır ceza avukatı](https://camo.githubusercontent.com/e03c5eec7772b00b322008094dd48de25aa65ad3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6d37645952562e6a7067 "Ağır Ceza Avukatı")
 
 
 ### Kasten Adam Öldürme Suçu ve Haksız Tahrik Ceza İndirimi
