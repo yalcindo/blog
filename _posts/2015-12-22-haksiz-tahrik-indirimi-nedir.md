@@ -69,7 +69,7 @@ Yürürlükte bulunan 5237 sayılı TCK, "ağır haksız tahrik" - "hafif haksı
 
 ### Haksız Tahrik Halinde Ceza İndirim Oranı [(TCK md.29)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3307)
 
-Haksız tahrik  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında kasten adam öldürme suçu işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
+Haksız tahrik  altında suç işleyen kişiye ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir (TCK md. 29). Örneğin, haksız tahrik altında [kasten adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) işleyen kişi tahrikin derecesine göre 12 yıl ile 18 yıl arasında cezalandırılır. Adam yaralama suçu işleyen kişinin belirlenen temel cezası 1/4 ile 3/4 arasında indirilir.
 
 Bazı suçların haksız tahrik altında işlenmesi halinde ceza verilmemesini öngören özel düzenlemeler vardır. Örneğin, karşılıklı hakaret halinde taraflardan birine veya her ikisine ceza verilmeyebilir. TCK, [**Hakaret Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) açısından haksız tahrik kurumunu özel bir hükümle düzenlemiştir.
 
