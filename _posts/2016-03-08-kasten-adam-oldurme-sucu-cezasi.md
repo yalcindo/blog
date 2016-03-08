@@ -4,7 +4,7 @@ title: Kasten Adam Öldürme Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Kasten adam öldürme suçu, silahla kasten adam öldürmenin cezası, ihmal suretiyle adam öldürme, tasarlayarak adam öldürme, İstanbul ceza avukatı, avukat, hukuk bürosu
 keywords:  Kasten adam öldürme suçu, kasten adam öldürmenin cezası, ihmal suretiyle adam öldürme, tasarlayarak adam öldürme, İstanbul ceza avukatı, avukat, hukuk bürosu, ağır ceza avukatı, bahçelievler avukat, istanbul avukat
-summary: Kasten Adam Öldürme Suçu Nedir? Silahla Kasten Adam Öldürme Suçu, Tasarlayarak Adam Öldürme Suçu, İhmal Suretiyle Adam Öldürme Suçu, Haksız Tahrik Altında Kasten Adam Öldürmenin Cezası, Meşru Savunma (Meşru Müdafaa) ve Adam Öldürme Suçu
+summary: Kasten Adam Öldürme Suçu Nedir? Silahla Kasten Adam Öldürme Suçu, Tasarlayarak Adam Öldürme Suçu, İhmal Suretiyle Adam Öldürme Suçu, Haksız Tahrik Altında Kasten Adam Öldürmenin Cezası, Meşru Savunma (Meşru Müdafaa)
 ---
 
 ### ![Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067)
