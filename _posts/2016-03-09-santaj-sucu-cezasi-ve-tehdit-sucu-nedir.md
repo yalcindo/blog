@@ -53,7 +53,7 @@ Açıklanacağı veya isnat edileceği söylenen husus, herkesin bilmediği bir 
 
 ### Şantaj Suçunun Cezası 
 
-*Şantaj suçunun cezası,* suçun tüm biçimleri için aynıdır. TCK 107. maddeye göre, şantaş suçunun cezası, 1 yıldan 3 yıla kadar hapis cezası ve 5000 güne kadar adli para cezası olarak düzenlenmiştir.
+*Şantaj suçunun cezası,* suçun tüm biçimleri için aynıdır. TCK 107. maddeye göre, şantaş suçunun cezası, 1 yıldan 3 yıla kadar hapis cezası ve 5000 güne kadar [adli para cezası](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) olarak düzenlenmiştir.
 
 Hemen belirtmek gerekir ki, maddenin düzenlemesine göre mahkeme, sadece hapis cezası veya adli para cezasına hükmetmeye karar veremez, hem hapis cezasına hem de adli para cezasına ayrı ayrı hükmedilmelidir.
 
