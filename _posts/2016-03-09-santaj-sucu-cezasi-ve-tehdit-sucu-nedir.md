@@ -13,7 +13,7 @@ keywords: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj s
 
 ## Şantaj Suçu Nedir?
 
-Şantaj suçu, [tehdit suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ile benzer nitelikte fiiller içeren, hatta tehdit suçunun özel bir görünüm biçimi olarak esasen mağdurun daha ağır bir şekilde huzursuz edilmesini cezalandırarak mağdurun iç huzur ve hürriyetini koruyan bir suç tipidir. Bir tehlike suçu olan şantaj suçu aşağıdaki şekillerde işlenebilir:
+**Şantaj suçu,** [tehdit suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ile benzer nitelikte fiiller içeren, hatta tehdit suçunun özel bir görünüm biçimi olarak esasen mağdurun daha ağır bir şekilde huzursuz edilmesini cezalandırarak mağdurun iç huzur ve hürriyetini koruyan bir suç tipidir. Bir tehlike suçu olan şantaj suçu aşağıdaki şekillerde işlenebilir:
 
 *	Bir kimseyi kanuna aykırı veya yükümlü olmadığı bir şeyi yapmaya veya yapmamaya zorlama şeklinde şantaj suçu (TCK md. 107/1).
 * Haksız çıkar sağlamaya zorlama suretiyle şantaj suçu (TCK md. 107/1).
@@ -21,7 +21,7 @@ keywords: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj s
 
 ## Şantaj Suçu Şikayet Süresi ve Dava Zamanaşımı
 
-Şantaj suçu, tehdit suçunun özel bir şekli olduğundan şikayete tabi bir suç değildir. Herhangi bir şekilde suçun işlendiği savcılık tarafından öğrenildiğinde kendiliğinden soruşturma başlatılmalıdır.  Şantaj suçu açısından herhangi bir şikayet süresi yoktur. Ancak, suçun dava zamanaşımı süresi 8 yıl olup, suçun işlendiği tarihten itibaren 8 yıl geçmeden mağdur aleyhine işlenen suç savcılığa bildirilmelidir. Aksi takdirde, dava zamanaşımı süresi dolacağından suç ile ilgili soruşturma yapılamayacaktır.
+*Şantaj suçu,* tehdit suçunun özel bir şekli olduğundan şikayete tabi bir suç değildir. Herhangi bir şekilde suçun işlendiği savcılık tarafından öğrenildiğinde kendiliğinden soruşturma başlatılmalıdır.  Şantaj suçu açısından herhangi bir şikayet süresi yoktur. Ancak, suçun dava zamanaşımı süresi 8 yıl olup, suçun işlendiği tarihten itibaren 8 yıl geçmeden mağdur aleyhine işlenen suç savcılığa bildirilmelidir. Aksi takdirde, dava zamanaşımı süresi dolacağından suç ile ilgili soruşturma yapılamayacaktır.
 
 ### ![Şantaj Suçu](https://camo.githubusercontent.com/6f038d54750a2e75324d5a89abbd1f91c08eb39e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a33336d71722e6a7067 "Şantaj Suçu Nedir")
 
@@ -53,19 +53,19 @@ Açıklanacağı veya isnat edileceği söylenen husus, herkesin bilmediği bir 
 
 ### Şantaj Suçunun Cezası 
 
-Şantaj suçunun cezası, suçun tüm biçimleri için aynıdır. TCK 107. maddeye göre, şantaş suçunun cezası, 1 yıldan 3 yıla kadar hapis cezası ve 5000 güne kadar adli para cezası olarak düzenlenmiştir.
+*Şantaj suçunun cezası,* suçun tüm biçimleri için aynıdır. TCK 107. maddeye göre, şantaş suçunun cezası, 1 yıldan 3 yıla kadar hapis cezası ve 5000 güne kadar adli para cezası olarak düzenlenmiştir.
 
 Hemen belirtmek gerekir ki, maddenin düzenlemesine göre mahkeme, sadece hapis cezası veya adli para cezasına hükmetmeye karar veremez, hem hapis cezasına hem de adli para cezasına ayrı ayrı hükmedilmelidir.
 
 ### Tehdit Suçu ile Şantaj Suçu Arasındaki Farklar
 
-Tehdit suçu, bir kimseye haksız bir zarara veya kötülüğe uğratılacağının bildirilmesiyle genel kast ile işlenebilen bir suçtur. Şantaj suçunun TCK 107/1’de yer alan şekli genel kast ile, TCK 107/2’de yer alan şekli ise özel kast ile işlenebilir.
+*Tehdit suçu,* bir kimseye haksız bir zarara veya kötülüğe uğratılacağının bildirilmesiyle genel kast ile işlenebilen bir suçtur. Şantaj suçunun TCK 107/1’de yer alan şekli genel kast ile, TCK 107/2’de yer alan şekli ise özel kast ile işlenebilir.
 
 Uygulamada [TCK md. 106’deki tehdit suçu](http://www.turkhukuksitesi.com/mevzuat.php?mid=3937) ile  [TCK md. 107/2’deki şantaj suçu](http://www.turkhukuksitesi.com/mevzuat.php?mid=3938) arasında hangisinin uygulanması gerektiği konusunda tereddüt yaşandığı görülmektedir. Olayın özelliğine göre mağdurun şeref ve saygınlığına zarar verebilecek bir hususu açıklamakla veya isnat etmekle tehdit edilerek  bir yarar sağlamaya zorlama var ise, fail TCK md. 107/2’de düzenlenen şantaj suçu ile cezalandırılmalıdır. TCK md. 107/2’deki şantaj suçu, tehdit suçunun özel bir görünüm biçimi olup koşulları varsa, fail öncelikle şantaj suçunu düzenleyen TCK md. 107/2 gereği cezalandırılmalıdır (Yargıtay CGK - 2011/213 karar).
 
 ### Şantaj Suçu Yargıtay Kararları
 
-### ![Şantaj Suçu Yargıtay Kararları](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Şantaj Suçu Yargıtay Kararları")
+### ![Şantaj Suçu Yargıtay Kararları](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067 "Şantaj Suçu Yargıtay Kararları")
 ---
 
 -	Mağdurun rızasıyla  çekilmiş olsa dahi cinsel içerikli görüntülerin daha sonra mağdurun rızası dışında internette ifşa edileceği ve eşine gösterileceği tehditi, mağdurun şeref ve saygınlığına zarar verecek mahiyette olan bir hususun açıklanması tehditi oladuğundan fail TCK’nın 107/2 maddesi gereği şantaj suçu ile cezalandırılmaldır (Yargıtay 4. Ceza Dairesi - 2015/17575 karar).			
