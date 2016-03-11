@@ -26,7 +26,7 @@ Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir i
 
 
 
- ### İstinaf Kanun Yolu ile Temyiz Kanun Yolu Arasındaki Fark Nedir?
+### İstinaf Kanun Yolu ile Temyiz Kanun Yolu Arasındaki Fark Nedir?
 
 İstinaf kanun yoluna başvurulduğunda, istinaf mahkemesi (bölge adliye mahkemesi) dava ile ilgili hem vakıaları el alabilecek hem de hukuki denetim yapabilecek. Yani, İstinaf Mahkemesi yerel mahkeme tarafından toplanmamış bir delili toplayabilecek, yeniden tanık dinleyebilecek veya keşif yapabilecektir. İstinaf mahkemesi, hukuk veya ceza dava dosyasında mevcut olan ve topladığı diğer tüm delillerle birlikte hukuki denetim de yaparak karar verir.
 
