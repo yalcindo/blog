@@ -195,7 +195,7 @@ Yargıtay temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya k
 
 Temyiz incelemesi üzerine verilen bozma kararları üzerine dosya kendilerine gönderilen ilk derece mahkemeleri veya bölge adliye mahkemeleri “bozmaya uyma” kararı verdiğinde,  bu kararlara karşı doğrudan temyiz yoluna başvurulabilir (HMK md. 373/4). Yargıtay’ın bozma kararına karşı “bozmaya uyma” şeklinde karar veren mahkeme isterse istinaf mahkemesi (bölge adliye mahkemesi) isterse ilk derece mahkemesi olsun, “bozmaya uyma” kararına karşı nacak temyiz yoluna gidilebilir. Bozmaya uyma kararına karşı artık istinaf başvurusu yapılamaz. 
 
- #### 2- Temyiz İncelemesi ile Verilen Bozma Kararına Direnme
+#### 2- Temyiz İncelemesi Neticesinde Verilen Bozma Kararına Karşı Direnme
 
 Yargıtay'ın temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “direnme” kararı da verebilir. 
 
