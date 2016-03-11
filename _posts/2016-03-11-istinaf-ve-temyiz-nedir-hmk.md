@@ -73,7 +73,7 @@ HMK’nın kabul ettiği istinaf incelemesi sistemi “dar istinaf sistemi” ol
 
 Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki incelemede de artık dayanılmaz. Ancak, yerel mahkemede usulüne uygun bir şekilde gösterilen, ama yerel mahkemece reddedilen delillere istinaf mahkemesindeki inceleme sırasında da dayanılabilir. Zorunlu haller (mücbir sebepler) nedeniyle yerel mahkemede gösterilemeyen delillere  istinaf mahkemesindeki incelemede dayanılabilir.
 
-####3- İstinaf Aşamasında Islah, Davaya Müdahale, Birleştirme, Ayırma 
+#### 3- İstinaf Aşamasında Islah, Davaya Müdahale, Birleştirme, Ayırma 
 
 -	Islah, ilk derece mahkemesinde ileri sürülmesi gereken usuli bir araçtır. İstinaf mahkemesinde ıslah yapılamaz.
 -	İstinaf mahkemesinde karşı dava açılamaz, çünkü istinaf incelemesi açılmış bir dava ile ilgili yerel mahkemenin vermiş olduğu karar ile ilgilidir.
