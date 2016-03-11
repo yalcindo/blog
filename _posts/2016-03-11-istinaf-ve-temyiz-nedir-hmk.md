@@ -80,7 +80,7 @@ Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki in
 -	İlk derece mahkemesinde birleştirilmeyen davalar, bölge adliye mahkemesinde istinaf aşamasında birleştirilemez.
 -	Bölge adliye mahkemesinin istinaf incelemesi sırasında “davaya müdahale” talebinde bulunulamaz.
 
-	#### 4- İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
+#### 4- İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
 	
 İstinaf incelemesi, daha önce açılmış davanın sınırları çerçevesinde yapılır. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
 
@@ -146,7 +146,7 @@ Temyiz yolu açık olan istinaf mahkemesi hukuk dairelerinin kararlarına karş�
 
 Ön inceleme aşaması, bölge adliye mahkemesinin yaptığı ön incelmeye benzer şekilde yapılır. Yani, Yargıtay temyiz başvurusu yapılan dava dosyasında usuli eksiklik bulunup bulunmadığını, temyiz süresine uyulup uyulmadığı, harç ve giderlerin yatırılıp yatırılmadığı gibi meselelerle ilgili bir temyiz ön incelemesi yaparak bu aşamada verilmesi gereken kararları verir (HMK md. 366)
 
-####2- Temyizde Esastan İnceleme
+#### 2- Temyizde Esastan İnceleme
 
 **Temyiz başvurusu** ile ilgili ön inceleme aşaması bittikten sonra Yargıtay, dava dosyasının esastan temyiz incelemesini yapar. Yargıtay tarafların temyiz talebinde bulunurken ileri sürdüğü temyiz sebepleri ile bağlı değildir. Yargıtay, kanunun açık hükmüne aykırı gördüğü huşuları temyiz dilekçesinde ileri sürülmese bile kendiliğinden değerlendirerek karar verir.
 
