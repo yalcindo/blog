@@ -203,7 +203,7 @@ Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliy
 
 
 
-**İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. 
+**İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. Uzmanlık gerektiren bu hukuk süreç ["özel hukuk avukatı"](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) olarak çalışan bir hukuk bürosu ile yürütüldüğü takdirde hak kayıpları önlenmiş olur.
 
 
 
@@ -213,7 +213,9 @@ ________________________________________________________________________________
 
 **Hukuk Bürosu Not:** 
 
-Avukat Baran Doğan, 2001 yılında avukatlık stajını İstanbul Barosu'nda yapmış ve  kurduğu hukuk bürosu ile 2002 yılından beri İstanbul'da avukatlık yapmaktadır. 
+- Türkiye'de "özel hukuk avukatı" adı altında ayrı bir avukatlık branşı yoktur. Anlaşılır olabilmesi için "özel hukuk avukatı" deyimini kullanıyoruz.
+
+- Avukat Baran Doğan, 2001 yılında avukatlık stajını İstanbul Barosu'nda yapmış ve  kurduğu hukuk bürosu ile 2002 yılından beri İstanbul'da avukatlık yapmaktadır. 
 
 
 
