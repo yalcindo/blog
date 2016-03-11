@@ -2,9 +2,9 @@
 layout: blog
 title: İstinaf Nedir? İstinaf ve Temyiz Şartları 
 category: medeni-hukuk
-googleAnahtar: İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu 
+googleAnahtar: İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, istinaf hmk 
 keywords:  İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, temyiz dilekçesi
-summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, İstinaf İncelemesinin Şartları, Bölge Adliye Mahkemesi, Yargıtay Temyiz Süresi, Duruşmalı İstinaf ve Temyiz İncelemesi, Yargıtay Onama, Düzelterek Onama ve Bozma Kararı
+summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, İstinaf İncelemesinin Şartları, Bölge Adliye Mahkemesi, Yargıtay Temyiz Süresi, İstninaf HMK, Duruşmalı İstinaf ve Temyiz İncelemesi, Yargıtay Onama, Düzelterek Onama ve Bozma Kararı
 ---
 
 ### ![İstanbul Avukat](https://camo.githubusercontent.com/13373406ebef2b73501526673f46a6e545df1173/687474703a2f2f692e68697a6c69726573696d2e636f6d2f47527a4150762e6a7067 "İstanbul Avukat")
