@@ -22,22 +22,22 @@ Türkiye’nin mevcut hukuk sisteminde tekerrür, bir infaz hukuku kurumudur.  A
 
 Yargılanan bir kişinin iki kere suç işlemiş olması tekerrür hükümlerinin uygulanması için yeterli değildir. Suçta tekerrür hükümleri belli koşulların oluşması halinde uygulanabilir. Bu koşullar şunlardır:
 
-### Suçta Tekerrür ve Kesinleşmiş Ceza Mahkumiyeti Şartı
+### 1- Suçta Tekerrür ve Kesinleşmiş Ceza Mahkumiyeti Şartı
 
  Bir hükümlüye tekerrür hükümlerinin uygulanabilmesi için işlediği önceki bir suçtan dolayı kesinleşmiş bir ceza mahkumiyetinin olması gerekir. İlk işlediği suç nedeniyle yargılanıp mahkum olan hükümlünün bu ilk suçunun cezasının kesinleşmesinden sonra ikinci suçu işlemesi gerekir. Cezanın kesinleşmesi, yerel mahkeme tarafından verilen karar Temyiz edilmişse Yargıtay tarafından hükmün onanması ile mümkün olur. İşte bu kesinleşmiş cezadan sonra ikinci bir suç işlenmesi halinde tekerrür hükümleri uygulanır.
 
-### Tekerrür Hükümleri Uygulaması İçin Cezanın İnfazı Şart Değildir
+### 2- Tekerrür Uygulaması İçin Cezanın İnfazı Şart Değildir
 
 Tekerrür hükümlerinin uygulanması için ilk suça dair mahkumiyetin infaz edilmiş olması veya infaza verilmiş olması şart değildir, önemli olan ilk mahkumiyetin kesinleşmesidir. Hükümlü, ilk mahkumiyetinin kesinleşmesi üzerine cezanın infazı için teslim olmamış veya yakalanarak cezaevine konulamamış olabilir. Hatta infazın ertelenmesi vb. gibi kişisel hukuki nedenlerle cezasının infazı henüz başlamamış olabilir. Kanunun tekerrür hükümlerinin uygulanabilmesi için aradığı tek kriter ilk ceza mahkumiyetinin kesinleşmesidir. İlk ceza mahkumiyeti kesinleştikten sonra cezanın infaz aşamasına gelip gelmediğinin hiçbir önemi yoktur. 
 
-### Suçların Niteliğine Dair Tekerrür Şartları
+### 3- Suçların Niteliğine Dair Tekerrür Şartları
 
 Kasıtlı suçlara, kasıtlı suçlarla tekerrür hükümleri uygulanır. Taksirli suçlara da taksirli suçlarla tekerrür hükümleri uygulanır. Kasten işlenen suçlar ile taksirle işlenen suçlar arasında tekerrür hükümleri uygulanamaz. Örneğin, daha önce trafik kazası neticesinde taksirle adam öldürme suçu işleyen kişi, bu taksirli suça dair cezası kesinleştikten sonra bu kez kasten adam öldürme suçu işlese hakkında tekerrür hükümleri uygulanamaz. Çünkü birinci suç taksirli suç, ikinci suç ise kasten işlenen bir suçtur. 
 İşlenen birinci suç ile ikinci suçun vasfı aynı olmasa bile suçta tekerrür hükümleri uygulanır. Örneğin, işlenen birinci suç dolandırıcılık suçu, ikinci suç ise güveni kötüye kullanma suçu olsa bile tekerrür hükümleri uygulanır. Suç vasıfları farklı olsa bile her iki suç da kasten işlenen suçlardandır.
 
 Ayrıca ‘sırf askeri suçlar’ ile diğer suçlar arasında da tekerrür hükümleri uygulanamaz. Sırf askeri suçlar, Askeri Ceza Kanunu’nda tanımlanmıştır. Bu suçlar ile kasten veya taksirle işlenen suçlar arasında suçta tekerrür hükümleri uygulanmaz
 
-### Suçta Tekerrür Uygulaması için Süre Şartı
+### 4- Suçta Tekerrür Uygulaması için Süre Şartı
 
 Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikten sonra belirli bir süre içinde ikinci suç işlenirse uygulanabilir. Tekerrür hükümlerinin uygulanabilmesi için ilk suça dair cezanın kesinleşmesi yeterli olup cezanın infazı şart değildir. Suçta tekerrür hükümlerinin uygulanabilmesi için süre koşulu yönünden ikili bir ayrım vardır:		
 
