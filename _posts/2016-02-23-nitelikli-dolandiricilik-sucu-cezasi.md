@@ -159,7 +159,7 @@ Dolandırıcılık suçu nedeniyle etkin pişmanlık hükümleri gereği ceza in
 
 [Resmi evrakta sahtecilik suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) ise, ancak nitelikli dolandırıcılık suçu ile birlikte işlenebilecek suçlardandır.
 
-İster resmi evrakta sahtecilik suçu olsun isterse özel evrakta sahtecilik suçu olsun, bu suçlar dolandırıcılık suçu ile birlikte işlendiğinde, failin işlediği fiil tek olsa bile faile her bir suçtan ayrı ayrı ceza verilir. Örneğin, sahte bir nüfus cüzdanı veya ehliyet kullanarak başkasına ait bir gayrimenkulü alıcıyı da kandırarak hukuka aykırı bir şekilde tapu müdürlüğünde devreden kişi, hem resmi evrakta sahtecilik suçundan hem de nitelikli dolandırıcılık suçundan cezalandırılır. Bu kanuni düzenleme, ["non bis idem ilkesinin"](https://youtu.be/r7y-L-psh3k)
+İster resmi evrakta sahtecilik suçu olsun isterse özel evrakta sahtecilik suçu olsun, bu suçlar dolandırıcılık suçu ile birlikte işlendiğinde, failin işlediği fiil tek olsa bile faile her bir suçtan ayrı ayrı ceza verilir. Örneğin, sahte bir nüfus cüzdanı veya ehliyet kullanarak başkasına ait bir gayrimenkulü alıcıyı da kandırarak hukuka aykırı bir şekilde tapu müdürlüğünde devreden kişi, hem resmi evrakta sahtecilik suçundan hem de nitelikli dolandırıcılık suçundan cezalandırılır. Bu kanuni düzenleme, ["Non Bis İdem İlkesinin"](https://youtu.be/r7y-L-psh3k) önemli istisnalarından biridir.
 
 
 
