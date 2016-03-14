@@ -12,7 +12,7 @@ keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli se
 ## 1. Denetimli Serbestlik Nedir?
 
 
-**Denetimli serbestlik,** yasa tarafından belirlenen deneme süresinde, kişinin cezasının sosyal hayat içerisinde infazına olanak sağlayan bir ceza hukuku kurumudur. Suç işleyen kişi sosyal yaşam içerisinde **denetimli serbestlik** yoluyla gözlemlenmektedir. **Denetimli serbestlik yasası,** kişinin ailesiyla bağlarını sürdürebilmesi ve dış dünyayayla uyum sağlayabilmesi gerekçesiyle çıkartılmış bir yasadır. Hükümlü cezasını cezaevinde infaz ederken koşullu salıverilmesine belli bir süre kalınca tahliye edilerek dışarda sosyal hayat içerisinde denetim altında tutulmaktadır. **Denetimli serbestlik** uygulaması birçok farklı nedenden kaynaklanabilir. Bu yazımızda 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesi gereği getirilen **denetimli serbestlik** uygulamasından bahsedeceğiz.
+**Denetimli serbestlik,** yasa tarafından belirlenen deneme süresinde, kişinin cezasının sosyal hayat içerisinde infazına olanak sağlayan bir ceza hukuku kurumudur. Suç işleyen kişi sosyal yaşam içerisinde denetimli serbestlik yoluyla gözlemlenmektedir. **Denetimli serbestlik yasası,** kişinin ailesiyla bağlarını sürdürebilmesi ve dış dünyayayla uyum sağlayabilmesi gerekçesiyle çıkartılmış bir yasadır. Hükümlü cezasını cezaevinde infaz ederken koşullu salıverilmesine belli bir süre kalınca tahliye edilerek dışarda sosyal hayat içerisinde denetim altında tutulmaktadır. Denetimli serbestlik uygulaması birçok farklı nedenden kaynaklanabilir. Bu yazımızda 5275 sayılı Ceza İnfaz Kanunu’nun 105/A maddesi gereği getirilen denetimli serbestlik uygulamasından bahsedeceğiz.
 
 
 ###  2. Denetimli Serbestlik Yasası
@@ -81,18 +81,18 @@ Hükümlü denetimli serbestlik yasası ile getirilen kurallara uyacağını taa
 #### a. Tahliye Olduktan 3 Gün İçinde Başvurma Şartının İhlali
 
 
-Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. Denetimli serbestlik yasası ihlal edildiğinde hükümlü yararlandığı tahliye hakkını kaybederek tekrar cezaevine alınır.
+Hükümlü tahliye olduktan sonra üç gün içinde Denetimli Serbestlik Müdürlüğü’ne başvurarak hakkındaki tedbire uygun programa katılmaya başlamalıdır. Bu kurala uymadığı taktirde denetimli serbestlik yasasını ihlal etmiş sayılır. Denetimli serbestlik yasası ihlal edildiğinde hükümlü yararlandığı şartlı tahliye hakkını kaybederek tekrar cezaevine alınır.
 
 #### b. Hükümlünün Denetimli Serbestlik Müdürlüğü Programına Uymamada Israr Etmesi
 
 
 Hükümlü denetimli serbestlik müdürlüğü tarafından belirlenen programa devam etmek zorundadır. Hükümlünün müdürlüğün belirlediği "programa riayet etmemede ısrar etmesi" halinde denetimli serbestlik yasası ihlal edilmiş sayılır. Uygulamada belirlenen programa iki kez riayet edilmemesi "programa uymamada ısrar" olarak kabul ediliyor. Nitekim Yargıtay, bir kez 
-imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini kabul etmiştir( Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
+imza atmayan bir kez de görüşmeye gitmeyen kişinin denetimli serbestlik yasasını ihlal ettiğini kabul etmiştir (Yargıtay 4. Ceza Dairesi – 2015/1863 karar).
 
 #### c. Hükümlünün Denetimli Serbestlik Yasasından Yararlanma Talebinden Vazgeçmesi
 
 
-Hükümlü denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa denetimli serbestlik kanunu nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
+Hükümlü, denetimli serbestlik yasasından faydalanarak tahliye olduktan sonra kendiliğinden de bu hakkından feragat edebilir. Hükümlü açısından denetimli serbestlik tedbirleri daha ağır gelebilir, özel bir gerekçe göstermeden talepte bulunursa denetimli serbestlik kanunu nedeniyle yapılan uygulamaya son verilerek cezası cezaevinde infaz edilmeye devam edilir.
 
 
 
@@ -122,7 +122,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ### 9. Denetimli Serbestlik ve 01.01.2020 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
-Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak uygulanmalıdır.
+Denetimli serbestlik, bir infaz hukuku kurumudur. İnfaza dair hukuk kuralları derhal uygulanmak zorundadır. Yani, infaza dair bir yasal düzenleme yürürlüğe girdiği zaman aynı durumdaki herkese eşit olarak derhal uygulanmalıdır.
 
 01.01.2020 tarihinden itibaren, denetimli serbestlikten faydalanmak için açık cezaevinde 6 ay kalma şartı yürürlüğe girecektir. Mevcut düzenlemeye göre bu tarihten itibaren denetimli serbestlikten yararlanmak isteyen tüm hükümlüler, 6 ay açık cezaevinde kalmalı veya kalma hakkını elde etmelidir. Aksi halde, 2020 yılından itibaren denetimli serbestlik kanunu uygulamasından faydanılması mümkün değildir.
 
@@ -191,5 +191,5 @@ ________________________________________________________________________________
 
 **Hukuk Bürosu Not:**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+* Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
