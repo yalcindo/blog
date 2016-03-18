@@ -30,7 +30,7 @@ Hükmün açıklanmasının geri bırakılması için birtakım şartların bir 
 #### (a) Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar
 
 
-Askeri Ceza Kanunu’nunda tanımlanan suçlar, 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçları, 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçların ceza miktarı ne olursa olsun hükmün açıklanmasının geri bırakılmasına karar verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır.
+Askeri Ceza Kanunu’nunda tanımlanan suçlar ve 477 sayılı Disiplin Mahkemeleri Kanunu kapsamındaki disiplin suçlarının ceza miktarı ne olursa olsun hükmün açıklanmasının geri bırakılmasına karar verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır. 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlar bakımından da (6352 sayılı Kanun m.105/2/b maadesi ile yapılan değişiklik) HAGB hükümleri uygulanabilir.
 
 #### (b)	Hapis Cezası Verilen Suçlarda HAGB kararı için Ceza Miktarı Şartı
 
