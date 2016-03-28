@@ -10,7 +10,7 @@ summary: Yağma suçu (Gasp Suçu) Malın Değerinin Azlığı İle İlgili Yarg
 T.C.
 YARGITAY        
 6. Ceza Dairesi           
-Y A R G I T A Y  İ L A M I            
+**Y A R G I T A Y  İ L A M I**            
 Esas No	: 2013/29053                
 Karar No	: 2016/1752                 
 Tebliğname No	: 6 - 2012/120396      
@@ -52,6 +52,7 @@ Bozmayı gerektirmiş, sanık Gençay Tayranoğlu savumanının temyiz itirazlar
 	 
 	 
 	 **Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
+	 
 ______________________________________________________________________________________________________________________________________	 
 Hukuk Bürosu Not:
 
