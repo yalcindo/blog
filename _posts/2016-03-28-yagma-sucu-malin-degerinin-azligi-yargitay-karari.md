@@ -51,7 +51,7 @@ Somut olayda; sanığın, olay günü para istediğinde herhangi bir miktar beli
 Bozmayı gerektirmiş, sanık Gençay Tayranoğlu savumanının temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenlerle isteme uygun olarak BOZULMASINA, 10.03.2016 tarihinde oybirliğiyle karar verildi. 
 	 
 	 
-	 **Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
+**Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
 	 
 ______________________________________________________________________________________________________________________________________	 
 Hukuk Bürosu Not:
