@@ -48,7 +48,7 @@ Somut olayda; sanığın, olay günü para istediğinde herhangi bir miktar beli
 3- Sanığın hapis cezalarının infazı tamamlanıncaya kadar TCK'nın 53/1-a-b-c-d-e maddesinde yazılı hakları kullanmaktan yoksun bırakılmasına; ancak, TCK'nın 53/3.maddesi uyarınca koşullu salıverildiği takdirde, kendi altsoyu üzerinde TCK'nın 53/1-c bendinde sayılan hakları kullanmaktan yoksunluğununsona erdirilmesine karar verilmiş ise de; 24.11.2015 tarihli Resmi Gazete'de yayımlanarak aynı tarihte yürürlüğe giren Anayasa Mahkemesi'nin 08.10.2015 gün, 2014/140-2015/85 Esas ve Karar sayılı kararı ile TCK'nın 53/1-b maddesinde yazılı, "seçme, seçilmeve diğer siyasi hakları kullanmaktan" ibaresinin iptal edilmiş olması,
 
 
-Bozmayı gerektirmiş, sanık Gençay Tayranoğlu savumanının temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenlerle isteme uygun olarak BOZULMASINA, 10.03.2016 tarihinde oybirliğiyle karar verildi. 
+Bozmayı gerektirmiş, sanık G.T. avukatının temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenlerle isteme uygun olarak BOZULMASINA, 10.03.2016 tarihinde oybirliğiyle karar verildi. 
 	 
 	 
 **Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
