@@ -9,7 +9,7 @@ summary: Nitelikli Dolandırıcılık Suçu Temyiz Dilekçesi, Nitelikli Doland�
 
 ### ![İstanbul Avukat](https://camo.githubusercontent.com/13373406ebef2b73501526673f46a6e545df1173/687474703a2f2f692e68697a6c69726573696d2e636f6d2f47527a4150762e6a7067 "İstanbul Avukat")
 
-**Nitelikli dolandırıcılık suçu,** en çok işlenen suçlardan biridir. Nitelikli dolandırıcılık suçuna dair temyiz dilekçesi her olayın özelliğine göre farklılık arz eder. Burda yer verdiğimiz **temyiz dilekçesi** somut bir olaya ilişkin örnek bir temyiz dilekçesidir.
+[Nitelikli dolandırıcılık suçu,](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) en çok işlenen suçlardan biridir. Nitelikli dolandırıcılık suçuna dair temyiz dilekçesi her olayın özelliğine göre farklılık arz eder. Burda yer verdiğimiz **temyiz dilekçesi** somut bir olaya ilişkin örnek bir temyiz dilekçesidir.
 
 Aşağıda yer alan  temyiz dilekçesi mağdurların sanık aleyhine yaptıkları bir temyiz başvurusuna ilişkindir.
 
