@@ -13,18 +13,21 @@ summary: Nitelikli Dolandırıcılık Suçu Temyiz Dilekçesi, Nitelikli Doland�
 
 Aşağıda yer alan  temyiz dilekçesi mağdurların sanık aleyhine yaptıkları bir temyiz başvurusuna ilişkindir.
 
+______________________________________________________________________________________________________________________________________
 
-İSTANBUL 18.AĞIR CEZA MAHKEMESİ BAŞKANLIĞI’NA               
-DOSYA NO		: 
 
-TEMYİZ EDEN
-MÜDAHİLLER	: 1- M.B, 2-T.B.
 
-VEKİLİ		: Avukat Baran Doğan 
+**İSTANBUL 18.AĞIR CEZA MAHKEMESİ BAŞKANLIĞI’NA**               
+**DOSYA NO		:** 
 
-D.KONUSU		: Gerekçeli temyiz dilekçemizin sunulmasından ibarettir.
+**TEMYİZ EDEN**
+**MÜDAHİLLER**	: 1- M.B, 2-T.B.
 
-AÇIKLAMALAR	:		
+**VEKİLİ**		: Avukat Baran Doğan 
+
+**D.KONUSU**		: Gerekçeli temyiz dilekçemizin sunulmasından ibarettir.
+
+**AÇIKLAMALAR	:**		
 
 ### 1.	SANIK, HİLELİ DAVRANIŞLARINI YOĞUN VE USTACA SERGİLEDİĞİNDEN NİTELİKLİ DOLANDIRICILIK SUÇU GERÇEKLEŞMİŞTİR
 
