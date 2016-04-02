@@ -14,7 +14,7 @@ summary: Kasten Adam Öldürme Suçu Nedir? Silahla Kasten Adam Öldürme Suçu,
 
 ## Kasten Adam Öldürme Suçu Nedir?
 
-**Kasten adam öldürme suçu,** daha doğru ifadesiyle insan öldürme suçu, bir başkasının hayatına kasten son verilmesidir. Kasten adam öldürme suçunun temel şekli TCK md. 81’de,  nitelikli şekli de TCK md.82’de düzenlenmiş olup suç ile korunan hukuki değer kişilerin yaşam hakkıdır. İnsan yaşamına trafik kazası, iş kazası, doktor hatası vb. gibi nedenlerle taksirle son verilmesi halinde [taksirle adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html) meydana gelir. Kasten adama öldürme suçunun meydana gelebilmesi için failin bilerek ve isteyerek bir insanın yaşamına son vermesi gerekir. 
+**Kasten adam öldürme suçu,** daha doğru ifadesiyle insan öldürme suçu, bir başkasının hayatına kasten son verilmesidir. Kasten adam öldürme suçunun temel şekli TCK md. 81’de,  nitelikli şekli de TCK md.82’de düzenlenmiş olup suç ile korunan hukuki değer kişilerin yaşam hakkıdır. İnsan yaşamına trafik kazası, iş kazası, doktor hatası vb. gibi nedenlerle taksirle son verilmesi halinde [taksirle adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html) meydana gelir. Kasten adam öldürme suçunun meydana gelebilmesi için failin bilerek ve isteyerek bir insanın yaşamına son vermesi gerekir. 
 5237 sayılı TCK’nın 81. Maddesine göre, kasten adam öldürmenin basit şeklinin cezası müebbet ağır hapis cezasıdır.
 
 ## Kasten Adam Öldürme Suçu Kime Karşı İşlenebilir?
