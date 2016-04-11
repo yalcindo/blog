@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Müsadere Nedir? Eşya veya Kazanç Müsaderesi
+title: MÜSADERE NEDİR? Eşya veya Kazanç Müsaderesi
 category: ceza-hukuku
 googleAnahtar: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Suç Aleti Müsaderesi, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukat, hukuk bürosu
 keywords: Müsadere Nedir, Eşya Müsaderesi, Kazanç Müsaderesi, Para Müsaderesi, Mal Müsaderesi, Suç Aleti Müsaderesi, Ceza avukatı, avukat, ağır ceza avukatı, İstanbul ceza avukatı, Bahçelievler Avukatı, hukuk bürosu
