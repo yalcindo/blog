@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Tekerrür Nedir? Mükerrirlere Özgü İnfaz Rejimi
+title: TEKERRÜR NEDİR? Mükerrirlere Özgü İnfaz Rejimi
 category: ceza-hukuku
 googleAnahtar: Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
 keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
@@ -151,7 +151,7 @@ Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özg
 
 Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir. İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 
-**Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan [ceza avukatı]( https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
+**Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
 
 
 
