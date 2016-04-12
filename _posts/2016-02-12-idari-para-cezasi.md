@@ -114,7 +114,8 @@ Trafik cezaları, vergi dairesine, bankaya veya PTT’ye ödenebilir.
 
 **İdari para cezası,** adli sicil kaydına (sabıka kaydına) işlemez. İdari para cezaları kabahat niteliğindeki suçlar için verilir. Adli sicil kaydı ise yalnızca işlenen bir suç karşılığında mahkemelerce verilen kesinleşmiş cezalar için tutulmaktadır. 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu
+
 ______________________________________________________________________________________________________________________________________
 
 **Hukuk Bürosu Not:**
