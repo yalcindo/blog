@@ -99,7 +99,7 @@ Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi 
 ### 5. Bilişim Sistemlerinin Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
 
-Bilişim sistemleri kullanılarak dolandırıcılık suçu işlenmesi halinde fail TCK 158/1-f maddesi gereği cezalandırılır. Bilişim sistemlerinin kullanılması demek, bilgisayar, cep telefonu, internet gibi araçların kullanılmasıdır. Örneğin, facebook, twitter vs. gibi sosyal medya araçları üzerinden mağdurun hileli davranışlarla aldatılması suretiyle para, kontör  istenmesi  gibi yönetmlerle haksız menfaat sağlanması bilişim sistemleri kullanılarak nitelikli dolandırıcılık suçunu teşkil eder.
+Bilişim sistemleri kullanılarak dolandırıcılık suçu işlenmesi halinde fail TCK 158/1-f maddesi gereği cezalandırılır. Bilişim sistemlerinin kullanılması demek, bilgisayar, cep telefonu, internet gibi araçların kullanılmasıdır. Örneğin, facebook, twitter vs. gibi sosyal medya araçları üzerinden mağdurun hileli davranışlarla aldatılması suretiyle para, kontör  istenmesi  gibi yöntemlerle haksız menfaat sağlanması bilişim sistemleri kullanılarak nitelikli dolandırıcılık suçunu teşkil eder.
 
 
 
