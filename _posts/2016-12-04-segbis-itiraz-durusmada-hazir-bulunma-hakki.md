@@ -4,7 +4,7 @@ title: SANIĞIN SEGBİSE İTİRAZ ETMESİ ve DURUŞMADA HAZIR BULUNMA HAKKI
 category: ceza-hukuku
 googleAnahtar: Segbise itiraz edilmesi, sanığın segbise muvafakat göstermemesi, doğrudanlık, yüzyüzelik, segbis yargıtay kararı, bahçelievler avukat, istanbul ceza avukatı, hukuk bürosu
 keywords: Segbis, segbise itiraz edilmesi, sanığın segbise muvafakat göstermemesi, doğrudanlık, yüzyüzelik, segbis yargıtay kararı, bahçelievler avukat, istanbul ceza avukatı, hukuk bürosu
-summary: Segbis, Sanığın Segbise İtiraz Etmesi, Duruşmada Hazır Bulunma Hakkı, Doğrudanlık, Yüzyüzelik, Segbis Yargıtay Kararı
+summary: Segbis, Sanığın Segbise İtiraz Etmesi, Duruşmada Hazır Bulunma Hakkı, Doğrudanlık, Yüzyüzelik, Segbis Yargıtay Kararı, CMK md. 196 Segbis
 ---
 
 ### ![istanbul ceza avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Ceza Avukatı")
@@ -69,10 +69,10 @@ yer göz önünde bulundurularak savunma hakkı kısıtlamasına yönelik her bi
 ciddi şekilde gerekli olmasına işaret edilmiştir. Daha az kısıtlayıcı bir tedbirin bulunması
 halinde o uygulanmalıdır. ( Van Mechelen ve diğerleri )
 
-	Sözleşme ile garanti altına alınan hakkın kullanılmasından vazgeçilmesi, bunun açıkça
+Sözleşme ile garanti altına alınan hakkın kullanılmasından vazgeçilmesi, bunun açıkça
 söylenmesi ile mümkün olabilir. ( Zana / Türkiye )
 
-	CMK’ nın genel ilkeleri ve 196. maddedeki düzenleme Dairemizce benimsenen
+CMK’ nın genel ilkeleri ve 196. maddedeki düzenleme Dairemizce benimsenen
 Y.C.G.K’ nın 10.06.2008 tarih ve 9-148-169 sayılı kararı ile Avrupa İnsan Hakları
 Mahkemesinin İçtihadları göz önünde bulundurulduğunda; duruşmada hazır bulunma hakkı
 adil yargılama kapsamında değerlendirilmekte olup, bu hakkın sınırlanması ancak ciddi
