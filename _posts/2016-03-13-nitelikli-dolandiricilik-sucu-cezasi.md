@@ -67,9 +67,11 @@ Nitelikli bir yalan yoksa  dolandırıcılık suçu şartları oluşmaz. Hileli 
 
 ### 1. Dinin İstismar Edilmesi Suretiyle Nitelikli Dolandırıcılık Suçu
 
-Din, bir inanç sistemi,  dini inanç ise bir dine inanan ve o dine üye olan kişinin duyguları olarak tarif edilebilir.
+Din, bir inanç sistemi;  dini inanç ise bir dine inanan ve o dine üye olan kişinin duyguları olarak tarif edilebilir.
 
-Nitelikli dolandırıcılık suçunun dinin istismar edilmesi suretiyle işlenmesi  için dinin bir aldatma aracı olarak kullanılması gerekir.  Dini kurallara tabi kişilerin, önemsediği değerler, dini inanç ve duygular aldatma vesilesi olarak kötüye kullanılmalı, bu şekildeki  hile ile haksız bir yarar da elde edilmelidir.
+Nitelikli dolandırıcılık suçunun dinin istismar edilmesi suretiyle işlenebilmesi  için dinin bir aldatma aracı olarak kullanılması gerekir.  Dini kurallara tabi kişilerin, önemsediği değerler, dini inanç ve duygular aldatma vesilesi olarak kötüye kullanılmalı, bu şekildeki  hile ile haksız bir yarar da elde edilmelidir.
+
+*"... Sanık hayali bir yaratıkla işbirliği yaptığını, kendisine verilen paranın Allah'a verildiğini, yabancı istihbarat birimlerinin peşinde olduğu gibi yalanlarla mağdurları aldattığından TCK'nın 158/1-a maddesinde düzenlenen dini inanç ve duyguların İstismar edilmesi suretiyle nitelikli dolandırıcılık suçu meydana gelmiştir (Yargıtay 15. Ceza Dairesi - 2012/39544 karar).*
 
 ### 2. Kişinin Algılama Yeteneğinin Zayıflığından Yararlanarak Nitelikli Dolandırıcılık Suçu (TCK 158/1-c)
 
@@ -90,12 +92,18 @@ Dolandırıcılık suçu işlenirken bazen kamu kurum ve kuruluşları araç ola
 
 Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi için fiilin kamu kurum ve kuruluşlarının mal varlığına zarar vermek maksadıyla işlenmesi gerekir. Zarar vermek, kamu kurumundan hakkı olmayan bir parayı almak ya da bir borcu geri vermemek şeklinde olabilir. Bu şekildeki nitelikli dolandırıcılık suçu mağduru kamu kurum ve kuruluşunun tüzel kişiliğidir.
 
+*"... Sanık sosyal güvenceden yararlanmak için kendisini gerçekte çalışmadığı bir işyerinde çalışıyormuş gibi göstermiş, ancak sosyal güvenlik kumununun (SGK) sağladığı sağlık hizmetinden yararlanmak için kuruma  başvurmamıştır. Kurumun herhangi bir zararı oluşmadığından, sanık nitelikli dolandırıcılık suçundan değil özel evrakta sahtecilik suçundan cezalandırılmalıdır (Yargıtay 23. Ceza Dairesi - 2015/149 karar).*
+
+### ![Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu](https://camo.githubusercontent.com/adfcad31e1923e5ef1c647010f947b840297e364/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a4c7156442e6a7067 "Bilişim Sistemlerini Kullanarak Dolandırıcılık suçu")
+
 ### 5. Bilişim Sistemlerinin Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
 
 Bilişim sistemleri kullanılarak dolandırıcılık suçu işlenmesi halinde fail TCK 158/1-f maddesi gereği cezalandırılır. Bilişim sistemlerinin kullanılması demek, bilgisayar, cep telefonu, internet gibi araçların kullanılmasıdır. Örneğin, facebook, twitter vs. gibi sosyal medya araçları üzerinden mağdurun hileli davranışlarla aldatılması suretiyle para, kontör  istenmesi  gibi yönetmlerle haksız menfaat sağlanması bilişim sistemleri kullanılarak nitelikli dolandırıcılık suçunu teşkil eder.
 
-### ![Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu](https://camo.githubusercontent.com/adfcad31e1923e5ef1c647010f947b840297e364/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a4c7156442e6a7067 "Bilişim Sistemlerini Kullanarak Dolandırıcılık suçu")
+
+
+
 
 ### 6. Banka veya Kredi Kurumunun Araç Olarak Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
@@ -114,6 +122,8 @@ Başkasına ait banka veya kredi kartının haksız bir şekilde ele geçirilere
 Sigorta şirketleri belli risklerin gerçekleşmesi halinde sigorta poliçesi nedeniyle hak sahibi olan şahıslara ödeme yapan kuruluşlardır. Hak sahibi olduğunu iddia ederek sigorta şirketinden sigorta bedelini hileli davranışlar ve belgelerle sigorta bedelini almak amacıyla hareket eden kişi, TCK 158/1-k maddesinde düzenlenen nitelikli dolandırıcılık suçu işlemiş olur.  
 
 Hemen belirtelim ki; sigorta bedelini almak amacıyla nitelikli dolandırıcılık suçunun faili sadece "sigorta ettiren" olmak zorunda değildir. Sigorta eden şirketten haksız yarar sağlamak isteyen herkes  bu suçun faili olabilir. Örneğin; ortada bir trafik kazası olmadığı halde, trafik kazası tutanağı düzenleyerek sigorta şirketinden maddi zarar teminatını almaya çalışan üçüncü kişi de sigorta bedelini almak amacıyla nitelikli dolandırıcılık suçu işlemiş olur.
+
+*"... Sanık, trafik kazası yaptığı gerekçesiyle olay mahaline polis çağırmış, polis trafik kazasının gerçekleşip gerçekleşmediği konusunda şüphe duyduğu için trafik kazası tespit tutanağı tutmamıştır. Sanık, bunun üzerine kasko şirketine aynı içerikli beyanda bulunarak hasarı talep etmiş ve hasar bedeli kendisine ödenmiştir. Polisin trafik kazasının şüpheli olduğunu beyan ederek trafik kazası tespit tutanağı düzenlememesi, sanığın tek başına sigorta bedelini almak maksadıyla nitelikli dolandırıcılık suçunu işlediğini ispatlamaz (Yargıtay  Ceza Genel Kurulu - 2015/42 karar).*
 
 ### 8. Kredi Açılmasını Sağlamak Amacıyla Nitelikli Dolandırıcılık Suçu (TCK 158/1-j)
 
