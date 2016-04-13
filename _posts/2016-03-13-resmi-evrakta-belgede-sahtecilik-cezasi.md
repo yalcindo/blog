@@ -2,8 +2,8 @@
 layout: blog
 title: Resmi Evrakta (Belgede) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı, hukuk bürosu
-keywords:  Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, kamu görevlisinin evrakta sahteciliği, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
+googleAnahtar: Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, nitelikli dolandırıcılık suçu, avukat, ağır ceza avukatı, hukuk bürosu
+keywords:  Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, nitelikli dolandırıcılık suçu, kamu görevlisi resmi evrakta sahtecilik suçu, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun Şartları, Sahte Belgenin Düzenlenmesi, Değiştirilmesi veya Kullanılması Suçu, Kamu Görevlisinin Evrakta Sahtecilik Suçu, Evrakta Sahtecilik Suçunun Cezası
 ---
 
@@ -153,7 +153,7 @@ TCK md. 204/3'e göre resmi evrakta sahtecilik suçu yalnızca birinci gruptaki 
 
 Dolandırıcılık suçu, failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. [Nitelikli dolandırıcılık suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) ise suçun belli dini, sosyal, mesleki, teknolojik araçların veya kamu kurumlarının araç olarak kullanılarak işlenmesidir.
 
-Uygulamada çoğu zaman fail, resmi evrakta sahtecilik suçu işlemekte,  bu suç ile bağlantılı olarak da insanlardan menfaat temin etmektedir. Bu durumda fail hem resmi evrakta sahtecilik suçu ile hem de nitelikli dolandırıcılık suçu ile cezalandırılmalıdır.
+Uygulamada çoğu zaman fail, resmi evrakta sahtecilik suçu işlemekte,  bu suç ile bağlantılı olarak da insanlardan menfaat temin etmektedir. Bu durumda, fail hem resmi evrakta sahtecilik suçu ile hem de nitelikli dolandırıcılık suçu ile cezalandırılmalıdır.
 
 
 
