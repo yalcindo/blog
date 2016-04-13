@@ -85,6 +85,9 @@ Kamu meslek kuruluşları kullanılarak, örneğin barolar, odalar, sendikalar a
 
 Siyasi partiler, dernekler veya vakıflar kullanılarak nitelikli dolandırıcılık suçu işlenmesi halinde yine TCK 158/1-d maddesi uygulanır.
 
+*"...Sanık, mağdurun hesabından para çekmek için mağdura ait sahte nüfus cüzdanı ibraz etmiş, fotokopi çeken banka görevlisi şüphelenerek ilgili şubeden teyit aldığında nüfus cüzdanının sahte olduğu ortaya çıkmıştır. Sanık, resmi evrakta sahtecilik ve nitelikli dolandırıcılık suçu nedeniyle cezalandırılmıştır. Hükmün, sanığın resmi evrakta sahtecilik suçu nedeniyle cezalandırılmasına ilişkin kısmı yerindedir. Ancak, banka veya kredi kurumunun araç olarak kullanılması suretiyle nitelikli dolandırıcılık suçu nedeniyle TCK 158/1-f maddesi gereği sanığa verilen ceza yerinde değildir. Sanık, bankanın maddi varlıklarını değil, nüfus müdürlüğünün maddi varlığı olan nüfus cüzdanını kullanmıştır. Bu nedenle sanığın TCK 158/1-d maddesi gereği kamu kurum ve kuruluşlarının araç yapılarak nitelikli dolandırıcılık suçu nedeniyle cezalandırılması gerekir* (Yargıtay 15. Ceza Dairesi - 2014/13241 karar).
+
+
 
 ### 4. Kamu Kurum ve Kuruluşları Zararına Nitelikli Dolandırıcılık Suçu (TCK 158/1-e)
 
@@ -114,6 +117,8 @@ Dolandırıcılık suçu için araç olarak kullanılan bankanın devlet bankas�
 Nitelikli dolandırıcılık suçunun bu şeklinde dikkat edilmesi gereken husus bankanın doğrudan araç olarak kullanılmasıdır. Yoksa failin hileli davranışları yaptıktan sonra bankayı sadece bir ödeme vasıtası olarak kullanması halinde dolandırıcılık suçu bu maddeye göre cezalandırılamaz. Örneğin, kendisini tanınan bir markanın satış temsilcisi olarak tanıtıp mağdura ucuz mal temin edeceğini söyleyerek aldatan şahsın banka hesabına para yatırılması halinde nitelikli dolandırıcılık suçu değil, TCK 157. Maddedeki basit dolandırıcılık suçu oluşur.
 
 Başkasına ait banka veya kredi kartının haksız bir şekilde ele geçirilerek hesaplardan para çekilmesi nitelikli dolandırıcılık suçu değil, TCK 245. maddede düzenlenen Banka veya Kredi Kartının Haksız Kullanılması suçu oluşur.
+
+*"... Banka veya kredi kurumunun araç olarak kullanılması suretiyle nitelikli dolandırıcılık suçunun oluşabilmesi için kredi alan şahsın banka veya diğer kredi kuruluşu görevlisini hileyle kandırıması gerekir. Krediyi alan kişinin aldatıcı herhangi bir eylemi yoksa, sırf banka görevlisinin kendi görevini gereği gib yerine getirmemesi sebebiyle bir kredi açılmışsa, nitelikli dolandırıcılık suçu oluşmaz. Sanık, suça konu karşılıksız çekleri kredinin teminatı olarak vermiştir. Sanık, çekleri kredi sözleşmesi imzalandıktan sonra bankaya teminat olarak vermişse nitelikli dolandırıcılık suçunun hile unsuru gerçekleşmediğinden beraatine karar verilmesi gerekir* (Yargıtay 15. Ceza Dairesi - 2015/22518 karar).
 
 ### ![Banka Dolandırıcılık Suçu Cezası](https://camo.githubusercontent.com/f555838ba1724be31547ea8053c927890ee3657e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c394471396c2e6a7067 "Dolandırıcılık Suçu Cezası")
 
