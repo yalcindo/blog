@@ -2,8 +2,8 @@
 layout: blog
 title: Dolandırıcılık Suçu, Şartları ve Cezası
 category: ceza-hukuku
-googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
-keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı, florya avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
+googleAnahtar: Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, özel veya resmi evrakta sahtecilik ve dolandırıcılık suçunun cezası, ağır ceza avukatı, istanbul avukat, hukuk bürosu
+keywords:  Dolandırıcılık suçu, nitelikli dolandırıcılık suçu, dolandırıcılık suçunun cezası, Ceza avukatı, avukat, dolandırıcılık suçu şikayet süresi, ağır ceza avukatı,resmi evrakta sahtecilik suçu, özel evrakta sahtecilik suçu, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Dolandırıcılık Suçu Nedir? Nitelikli Dolandırıcılık Suçu ve Cezası, Banka ve Kredi Kurumu Araç Yapılarak veya Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu, Özel veya Resmi Evrakta Sahtecilik Suçu ve Dolandırıcılık Suçu Yargıtay Kararları
 ---
 
