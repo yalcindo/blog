@@ -153,7 +153,7 @@ TCK md. 204/3'e göre resmi evrakta sahtecilik suçu yalnızca birinci gruptaki 
 
 Dolandırıcılık suçu, failin hileli davranışlarla bir kimseyi aldatması, mağdurun veya başkasının zararına olarak kendisine veya başkasına yarar sağlamasıyla oluşur. [Nitelikli dolandırıcılık suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) ise suçun belli dini, sosyal, mesleki, teknolojik araçların veya kamu kurumlarının araç olarak kullanılarak işlenmesidir.
 
-Uygulamada çoğu zaman fail, resmi evrakta sahtecilik suçu işlemekte,  bu suç ile bağlantılı olarak da insanlardan menfaat temin etmektedir. Bu durumda, fail hem resmi evrakta sahtecilik suçu ile hem de nitelikli dolandırıcılık suçu ile cezalandırılmalıdır.
+Uygulamada çoğu zaman fail, resmi evrakta sahtecilik suçu işlemekte,  bu suç ile bağlantılı olarak da insanlardan menfaat temin etmektedir. Bu durumda, fiil tek olsa bile, fail hem resmi evrakta sahtecilik suçu ile hem de nitelikli dolandırıcılık suçu ile cezalandırılmalıdır.
 
 
 
