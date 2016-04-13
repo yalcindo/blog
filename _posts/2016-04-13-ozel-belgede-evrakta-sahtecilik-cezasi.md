@@ -143,6 +143,13 @@ Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgele
 Özel belgenin başka bir suçun işlenmesi sırasında kullanılması halinde, fail, hem özel evrakta sahtecilik suçundan hem de işlenen diğer suçtan ayrı ayrı cezalandırılır (TCK md. 212).
 
 
+### Özel Belgede Sahtecilik ve Nitelikli Dolandırıcılık Suçu
+
+[Dolandırıcılık suçu,](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) bir kimsenin hileli davranışlarla aldatılarak menfaat temin edilmesi ile oluşur.
+
+Özel evrakta sahtecilik ile nitelikli dolandırıcılık suçu birlikte işlenebilen suçlardandır. TCK sistemine göre kaç fiil varsa o kdar suç, kaç suç varsa o kadar ceza vardır. Ancak, evrakta sahtecilik suçları ile dolandırıcılık suçu birlikte işlendiğinde bu kural geçerli değildir. Yani, tek bir fiil ile işlense bile TCK md. 212 gereği, fail hem özel evrakta sahtecilik hem de basit veya nitelikli dolandırıcılık suçu hükümleriyle cezalandırılabilir.
+
+
 Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu, kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyerek kamu düzenini bozan bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
 
 
