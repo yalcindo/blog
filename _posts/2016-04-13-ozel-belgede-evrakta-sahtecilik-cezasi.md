@@ -2,7 +2,7 @@
 layout: blog
 title: Özel Belgede (Evrakta) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
-googleAnahtar: Özel belgede sahtecilik, özel evrakta sahtecilik, özel belgede sahtecilik suçu, özel evrakta sahtecilik cezası, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
+googleAnahtar: Özel belgede sahtecilik suçu, nitelikli dolandırıcılık suçu, özel belgede sahtecilik suçu, özel evrakta sahtecilik cezası, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
 keywords:  Özel evrakta sahtecilik, Özel belgede sahtecilik, özel evrakta sahtecilik suçunun cezası, özel belgede sahtecilik suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun Şartları, Özel Evrakta Sahtecilik Suçunun Seçimlik Hareketleri, Sahte Özel Belgenin Düzenlenmesi, Değiştirilmesi ve Kullanılması Suçu, Özel Belgede Sahtecilik Suçu Cezası
 ---
@@ -137,12 +137,14 @@ Belgenin aldatma yeteneğinin olup olmadığının mutlaka araştırılması ger
 ### Özel Evrakta (Belgede) Sahtecilik Suçu Cezası
 
 **Özel evrakta (belgede) sahtecilik suçunun cezası,** 1 yıldan 3 yıla kadar hapis cezasıdır. Kanun maddesinde belirlenen ceza tüm seçimlik hareketler için aynıdır.
+
 Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgelenmesi amacıyla özel belgede sahtecilik suçunun işlenmesi halinde faile verilecek cezada, cezanın yarısı oranında indirim yapılır (TCK md. 211).
 
 Özel belgenin başka bir suçun işlenmesi sırasında kullanılması halinde, fail, hem özel evrakta sahtecilik suçundan hem de işlenen diğer suçtan ayrı ayrı cezalandırılır (TCK md. 212).
 
 
 Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu, kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyerek kamu düzenini bozan bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
+
 
 
 **Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
