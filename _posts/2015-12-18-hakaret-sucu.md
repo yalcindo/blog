@@ -101,7 +101,7 @@ Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şe
 
 Maddenin düzenleme biçiminden anlaşıldığı üzere, cumhurbaşkanına hakaret suçu ile cumhurbaşkanlığı makamının fonksiyonları, işlevi, yerine getirdiği görevi değil, hukuksal bir kavram olarak cumhurbaşkanının "şerefi" korunmak istenmektedir.
 
-Cumhurbaşkanına hakaret suçu, uygulamada eleştiri niteliğindeki söz ve davranışların da hakaret olarak cezalandırılmasına neden olduğundan ceza hukukunun genel ilkelerine aykırı bir düzenlemedir. Hakaret suçu, genel olarak TCK 125. maddede herkes için düzenlenmiş olduğundan  TCK md. 299'da ayrıca cumhurbaşkanına hakaret suçuna yer verilmesi hukuka aykırıdır. Anayasa'ya göre kişiye özel düzenleme yapılamaz. Cumhurbaşkanına hakaret suçu, kişiye özel düzenleme  niteliğinde olduğundan Anayasa'nın eşitlik ilkesini düzenleyen 10. maddesine aykırıdır.
+Cumhurbaşkanına hakaret suçu, uygulamada eleştiri niteliğindeki söz ve davranışların da hakaret olarak cezalandırılmasına neden olduğundan ceza hukukunun genel ilkelerine aykırı bir düzenlemedir. Hakaret suçu, genel olarak TCK md.125'de herkes için düzenlenmiş olduğundan  TCK md. 299'da ayrıca cumhurbaşkanına hakaret suçuna yer verilmesi hukuka aykırıdır. Anayasa'ya göre kişiye özel düzenleme yapılamaz. Cumhurbaşkanına hakaret suçu, kişiye özel düzenleme  niteliğinde olduğundan Anayasa'nın eşitlik ilkesini düzenleyen 10. maddesine aykırıdır.
 
 Cumhurbaşkanına hakaret suçunun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
 
