@@ -4,7 +4,7 @@ title: Kasten Adam Öldürme Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Kasten adam öldürme suçu, silahla kasten adam öldürmenin cezası, ihmal suretiyle adam öldürme, tasarlayarak adam öldürme, İstanbul ceza avukatı, avukat, hukuk bürosu
 keywords:  Kasten adam öldürme suçu, kasten adam öldürmenin cezası, ihmal suretiyle adam öldürme, tasarlayarak adam öldürme, İstanbul ceza avukatı, avukat, hukuk bürosu, ağır ceza avukatı, bahçelievler avukat, istanbul avukat
-summary: Kasten Adam Öldürme Suçu Nedir? Silahla Kasten Adam Öldürme Suçu, Tasarlayarak Adam Öldürme Suçu, İhmal Suretiyle Adam Öldürme Suçu, Haksız Tahrik Altında Kasten Adam Öldürmenin Cezası, Meşru Savunma (Meşru Müdafaa)
+summary: Kasten Adam Öldürme Suçu Nedir? Bıçakla veya Silahla Kasten Adam Öldürme Suçu, Tasarlayarak Adam Öldürme Suçu, İhmal Suretiyle Adam Öldürme Suçu, Haksız Tahrik Altında Kasten Adam Öldürmenin Cezası, Meşru Savunma (Meşru Müdafaa)
 ---
 
 ### ![Ceza Avukatı Hukuk Bürosu](https://camo.githubusercontent.com/2bc8da8b8d1ebe39ca79a8a70d005204bc4900a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34627a584f712e6a7067)
@@ -33,9 +33,11 @@ Adam öldürme suçunu işleyen kişi başka bir kimsenin hayatına son vermelid
 
 ## Silahla Kasten Adam Öldürme Suçu ve Cezası
 
-Silah kavramı, TCK uygulamasında çok geniş bir tanıma sahiptir. Silah kavramının ne anlama geldiği TCK’nın 6/1-f maddesinde açıklanmıştır. Buna göre, klasik bir şekilde tabanca, tüfek, bıçak gibi aletlerin silah kavramına dahil olduğundan kuşku yoktur. Ayrıca, suçta elverişli şekilde kullanıldığı takdirde, kalem, tırnak makası, araba anahtarı vs. gibi sınırsız sayıdaki araç silah olarak kabul edilmektedir.
+Silah kavramı, TCK uygulamasında çok geniş bir tanıma sahiptir. Silah kavramının ne anlama geldiği TCK’nın 6/1-f maddesinde açıklanmıştır. Buna göre, klasik bir şekilde tabanca, tüfek, bıçak gibi aletlerin silah kavramına dahil olduğundan kuşku yoktur. Ayrıca, suçta elverişli şekilde kullanıldığı takdirde, kalem, tırnak makası, araba anahtarı vs. gibi sınırsız sayıdaki araç silah olarak kabul edilmektedir. 
 
 Silahla kasten adam öldürmenin cezası, suçun temel şeklinin cezası olan müebbet hapis cezasıdır. Silahla veya silahsız bir şekilde insan öldürmenin temel cezası aynıdır. Silahla adam öldürme suçu, suçun temel şekli içinde mütalaa edilmektedir. 
+
+
 
 ### İhmal Suretiyle Adam Öldürme Suçu 
 
@@ -82,9 +84,11 @@ Kan gütme saikiyle kasten adam öldürme suçunun cezası, ağırlaştırılmı
 
 ### “Namus Nedeniyle”  ve Töre Saikiyle Adam Öldürme Suçu ve Cezası
 
+Namus cinayeti kavramı, maalesef yargısal uygulama sorunları yüzenden oluşmuş bir kavram olup yaşam hakkının ortadan kaldırılmasında  sosyal bir argüman olarak kullanılmaktadır.
+
 Suçun bu nitelikli hali TCK’nın 82/1-k maddesinde düzenlenmiştir. Fail suçun bu halini işlerken mağdurun töreye aykırı hareket ettiği ve töre kuralları gereği mağdurun hayatına son verilmesi gerektiği düşüncesiyle hareket etmektedir. Bu nedenle töre saikiyle kasten adam öldürme suçunda TCK md. 29’da düzenlenen haksız tahrik hükümleri uygulanmaz. Töre saikiyle işlenen bu suçta, bireysel bir karardan ziyade aile, aşiret, köy vb. gibi geniş bir insan kitlesinin etkisi vardır.
 
-Yargısal uygulamada “namus cinayeti” denilen insan öldürme şekli ile töre saikiyle insan öldürme şekli örtüşen ve ayrışan noktalara sahiptir. Yani, her “namus cinayeti” olarak adlandırılan cinayet töre saikiyle işlenmiş kabul edilmemektedir. Yargıtay uygulamasına göre, örneğin eşlerden birinin sadakat yükümlülüğüne aykırı hareket ederek (TMK md. 185) rızasıyla başka bir kişiyle cinsel ilişkiye girmesi ve diğer eş tarafından öldürülmesi halinde “namus cinayeti” söz konusu olduğu, failin haksız tahrik indiriminden yararlanabileceği kabul edilmektedir (Yargıtay CGK – 2011/130 karar). Yani, namus cinayeti olarak tarif edilen cinayetler kasten adam öldürme suçunun basit haliyle cezalandırılmaktadır. “Namus Cinayetinin” töre saikiyle işlendiği ispatlandığında, yani suçun bireysel bir kararla değil de daha geniş bir çevrenin kararıyla  işlendiği ortaya çıktığında, namus saikiyle işlenen fiile töre saikiyle adam öldürme suçunun cezası verilmektedir. 
+Yargısal uygulamada “namus cinayeti” denilen insan öldürme şekli ile töre saikiyle insan öldürme şekli örtüşen ve ayrışan noktalara sahiptir. Yani, her “namus cinayeti” olarak adlandırılan cinayet, yargısal uygulamada töre saikiyle işlenmiş kabul edilmemektedir. Yargıtay uygulamasına göre, örneğin eşlerden birinin sadakat yükümlülüğüne aykırı hareket ederek (TMK md. 185) rızasıyla başka bir kişiyle cinsel ilişkiye girmesi ve diğer eş tarafından öldürülmesi halinde “namus cinayeti” söz konusu olduğu, failin haksız tahrik indiriminden yararlanabileceği kabul edilmektedir (Yargıtay CGK – 2011/130 karar). Yani, namus cinayeti olarak tarif edilen cinayetler kasten adam öldürme suçunun basit haliyle cezalandırılmaktadır. “Namus Cinayetinin” töre saikiyle işlendiği ispatlandığında, yani suçun bireysel bir kararla değil de daha geniş bir çevrenin kararıyla  işlendiği ortaya çıktığında, namus saikiyle işlenen fiile töre saikiyle adam öldürme suçunun cezası verilmektedir. 
 Namus cinayeti olarak adlandırılan bu insan yaşamına son verme saiki, çağdışı bir yaklaşımla ceza hukuku tarafından ödüllendirilerek uygulamada adaletsiz haksız tahrik indirimi hükümlerinin uygulanmasına neden olmaktadır.
 
 Töre saikiyle kasten adam öldürme suçunun cezası, ağırlaştırılmış müebbet hapis cezasıdır. Ancak, Yargısal uygulamada “namus cinayeti” olarak tarif edilen adam öldürme hallerinde suçun cezası müebbet hapis cezası olarak kabul edilmektedir.
@@ -170,7 +174,7 @@ Kasten adam öldürme suçunun meşru müdafaa altında işlenmesi halinde fail 
 
 
 
-Kasten adam öldürme suçu cezası en ağır olan suçlardan biridir. Bu nedenle, gerek soruşturma aşamasında gerekse kovuşturma aşamasında deliller titizlikle toplanmalı, müdahili veya sanığı savunan ceza avukatları adil yargılanma ilkelerinin somut ceza davasında uygulanmasını titizlikle gözetmelidir.
+Kasten adam öldürme suçu, ister bıçakla veya herhangi bir silahla isterse silahsız işlenmiş olsun cezası en ağır olan suçlardan biridir. Bu nedenle, gerek soruşturma aşamasında gerekse kovuşturma aşamasında deliller titizlikle toplanmalı, müdahili veya sanığı savunan ceza avukatları adil yargılanma ilkelerinin somut ceza davasında uygulanmasını titizlikle gözetmelidir.
 
 
 
