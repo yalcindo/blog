@@ -13,7 +13,7 @@ summary: Etkin Pişmanlık Nedir? Etkin Pişmanlık Ceza İndirimi, Hırsızlık
 ## Etkin Pişmanlık Ceza İndirimi Nedir? 
 
 
-**Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukları gidermesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin **etkin pişmanlık** göstermesi halinde suçun niteliğine göre **ceza indirimi** veya cezalandırılmaması sonucu ortaya çıkar. Bu uygulama halk arasında **etkin pişmanlık yasası** olarak da bilinmektedir. Fakat, etkin pişmanlık yasasından kastedilen şey çoğunlukla bazı suçlardan sonra ceza indirimini düzenleyen TCK hükümleridir.
+**Etkin pişmanlık,** kişinin işlediği suçtan dolayı özgür iradesiyle sonradan pişman olması, suç teşkil eden fiilin meydana getirdiği olumsuzlukları gidermesi ve ceza adaletine olumlu davranışlarıyla katkı sunması halinde atıfet hükümlerinin uygulanmasını sağlayan bir ceza hukuku kurumudur. (Not:Bu tanım yalnızca adli suçlar için geçerlidir). Kişinin etkin pişmanlık göstermesi halinde suçun niteliğine göre ceza indirimi veya cezalandırılmaması sonucu ortaya çıkar. Bu uygulama halk arasında **etkin pişmanlık yasası** olarak da bilinmektedir. Fakat, etkin pişmanlık yasasından kastedilen şey çoğunlukla bazı suçlardan sonra ceza indirimini düzenleyen TCK hükümleridir.
 
 **Ceza indirimi,** TCK (Türk Ceza Kanunu)’da farklı nedenlerle uygulanabilen hem bir cezanın bireyselleştirilmesi hem de bir atıfet (af) kurumudur. Biz, bu yazımızda bir cezanın affı kurumu olarak etkin pişmanlık ve ceza indirimi kurumlarından bahsedeceğiz.
 
@@ -179,7 +179,7 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 ### 10-) Kişiyi Hürriyetinden Yoksun Kılma Suçu ve Etkin Pişmanlık [**(TCK md.110)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3941)
 
 
-Kişiyi hürriyetinden yoksun kılma suçu, doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle etkin pişmanlık hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. 
+[Kişiyi hürriyetinden yoksun kılma suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kisiyi-hurriyetinden-yoksun-kilma-sucu-cezasi.html) doğrudan kişi özgürlüğünü hedef alan bir suçtur. Bu nedenle etkin pişmanlık hükümleri nedeniyle indirimden yararlanmak ancak mağdurun özgürlüğünün kısıtlanmasına fail tarafından son verilmesiyle mümkün hale gelir. 
 
 TCK, kişiyi hürriyetinden yoksun kılma suçu [**(TCK md. 109)**](http://www.turkhukuksitesi.com/mevzuat.php?mid=3940) işleyen failin, bu suç nedeniyle soruşturma başlamadan mağdurun şahsına zararı dokunmaksızın onu kendiliğinden güvenli bir yere bırakması halinde, 2/3’ne kadarı oranında ceza indiriminden yararlanmasını öngörmüştür.
 
