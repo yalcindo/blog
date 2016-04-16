@@ -14,8 +14,9 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 İstanbul Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. İstanbul gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. İstanbul Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, Avukat Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
 
-### ![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg "İstanbul Barosu")        
-<center>[İstanbul Barosu Web Sayfası](http://www.istanbulbarosu.org.tr/)</center>
+### ![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg "İstanbul Barosu") 
+
+[İstanbul Barosu Web Sayfası](http://www.istanbulbarosu.org.tr/)
 
 İstanbul’da büyük üç adliye vardır. Bunlar, İstanbul Çağlayan Adliyesi, İstanbul Anadolu Adliyesi ve Bakırköy Adliyesi’dir. Bu adliyeler dışında uzak ilçelerde örneğin Küçükçekmece, Büyükçekmece, Silivri, Çatalca ve Gaziosmanpaşa gibi ilçelerde de küçük adliyeler mevcuttur. 
 
