@@ -12,9 +12,11 @@ summary: Kişiyi Hürriyetinden Yoksun Kılma Nedir? Kişiyi Hürriyetinden Yoks
 
 ## Kişiyi Hürriyetinden Yoksun Kılma Nedir?
 
-**Kişiyi hürriyetinden yoksun kılma suçu,** diğer adıyla **hürriyeti tahdit suçu**, kişi özgürlüğü ve güvenliğini koruyan bir suç olarak TCK’nın 109. maddesinde “hürriyete karşı suçlar” bölümü altında düzenlenmiştir.
+Kişiyi hürriyetinden yoksun kılma, bir kimsenin *"bir yere gitmek"* veya *"bir yerde kalmak"* özgürlüğünden mahrum edilmesidir. Yani, fail tarafından mağdurun serbestçe hareket etmesinin engellenmesidir.
 
-Kişiyi hürriyetinden yoksun bırakma suçu bireylerin kendi istekleri ve serbest iradeleriyle hareket etme özgürlüğünü güvence altına alan bir suç tipidir.
+**Kişiyi hürriyetinden yoksun kılma suçu,** diğer adıyla **hürriyeti tahdit suçu**, kişi özgürlüğü ve güvenliğini koruyan bir suç olarak TCK md.109'da “hürriyete karşı suçlar” bölümü altında düzenlenmiştir.
+
+Kişiyi hürriyetinden yoksun bırakma suçu, bireylerin kendi istekleri ve serbest iradeleriyle hareket etme özgürlüğünü güvence altına alan bir suç tipidir.
 
 ## Kişiyi Hürriyetinden Yoksun Bırakma Suçu Şikayet Süresi
 
