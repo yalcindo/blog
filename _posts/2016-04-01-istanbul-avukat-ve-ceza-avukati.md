@@ -14,9 +14,8 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 İstanbul Barosu 40.000 aktif avukat üyesiyle en büyük hukuk örgütü olarak da kabul edilmektedir. İstanbul gibi büyük bir şehrin ihtiyaçlarına cevap verecek ölçüde bir kurumsallaşmayı sağlamak için İstanbul Barosu’nun yeterince maddi kaynağı vardır. İstanbul Barosu bünyesinde Kadın Hakları Merkezi, Çocuk Hakları Merkezi, Avukat Hakları Merkezi, CMK Uygulama Servisi, Adli Yardım Servisi gibi servisler ve merkezler ihtiyacı olanlara hukuki yardım vermektedir.
 
-### ![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg)](https://hizliresim.com/d21pDp "İstanbul Barosu")
-
-İstanbul Barosu web sayfası için bakınız: [**İSTANBUL BAROSU**]( http://www.istanbulbarosu.org.tr/)
+### ![İstanbul Avukat Barosu](http://i.hizliresim.com/d21pDp.jpg "İstanbul Barosu")        
+İstanbul Barosu web sayfası için bakınız: [**İSTANBUL BAROSU**](http://www.istanbulbarosu.org.tr/)
 
 İstanbul’da büyük üç adliye vardır. Bunlar, İstanbul Çağlayan Adliyesi, İstanbul Anadolu Adliyesi ve Bakırköy Adliyesi’dir. Bu adliyeler dışında uzak ilçelerde örneğin Küçükçekmece, Büyükçekmece, Silivri, Çatalca ve Gaziosmanpaşa gibi ilçelerde de küçük adliyeler mevcuttur. 
 
@@ -46,7 +45,7 @@ Bu servis ceza soruşturma ve kovuşturmalarını takip eden avukatlardan oluşt
 
 İstanbul Barosu CMK Uygulama Servisi’ne avukat tutmak isteyen kişinin kendisi bizzat başvurabileceği gibi 1. derecede bir yakını da servise başvurarak avukat talebinde bulunabilir. Kişi gözaltındaysa kendisini gözaltına alan birim aracılığıyla CMK servisinden    avukat talebinde bulunabilir. Kişi tutuklu ise tutuklu bulunduğu cezaevinde veya mahkeme vasıtasıyla İstanbul Barosu CMK Uygulama Servisi’nden avukat talebinde bulunabilir.
 
-### ![CMK İstanbul Avukat](http://i.hizliresim.com/po7gMq.jpg)](https://hizliresim.com/po7gMq "İstanbul CMK Avukatlık Sistemi")
+### ![CMK İstanbul Avukat](http://i.hizliresim.com/po7gMq.jpg "İstanbul CMK Avukatlık Sistemi")
 
 
 ### 4. Adli Yardım Servisi
@@ -75,8 +74,7 @@ Bakırköy adliyesinde İş Mahkemesi, Aile Mahkemesi, Tüketici Mahkemesi, Asli
 
 Bakırköy adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyelerin ağır ceza çevresi olduğundan bu mahkemelere gelen ağır ceza davaları Bakırköy adliyesinde görülmektedir. 
 
-### ![Bakırköy Avukat Adliye](http://i.hizliresim.com/d21pJn.jpg)](https://hizliresim.com/d21pJn "Bakırköy Adliyesi")
-
+### ![Bakırköy Avukat](http://i.hizliresim.com/d21pJn.jpg "Bakırköy Adliyesi ve Avukatlık")        
 Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http://www.bakirkoy.adalet.gov.tr/)
 
 #### b. İstanbul Çağlayan - Anadolu Adliyeleri ve Avukatlık
@@ -84,7 +82,7 @@ Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http:
 İstanbul Çağlayan ve Anadolu Adliyeleri, İstanbul’un en büyük iki adliyesidir. Esasen İstanbul adliyeleri denilince bu adliyeler anlaşılmaktadır. İstanbul avukatlarının en çok çalıştığı adliyeler de bu iki adliyedir. Her biri İstanbul’un bir yakasında bulunan bu adliyelerden biri Çağlayan’da diğeri Anadolu yakasındaki Kartal ilçesinde bulunmaktadır. 
 Özellikle İstanbul Çağlayan Adliyesi, bir dönem DGM, özel yetkili mahkeme gibi özel ağır ceza mahkemelerinin bulunduğu bir adliye olduğundan ceza avukatı olarak çalışan avukatların en çok uğradığı adliyelerden biri olmuştur. Bugün için özel yetkili mahkemeler kaldırılmış olsa da bu adliye ağır ceza mahkemesi çevresi olduğu için ceza avukatı açısından önemli bir çalışma alanıdır.
 
-### ![İstanbul Avukat Adliyesi](http://i.hizliresim.com/lyMlak.jpg)](https://hizliresim.com/lyMlak "İstanbul Çağlayan Adliyesi")             
+### ![İstanbul Avukat](http://i.hizliresim.com/lyMlak.jpg "İstanbul Adliyesi ve Avukatlık")          
 İstanbul Çağlayan Adliyesi web sitesi için bakınız: [**İSTANBUL ÇAĞLAYAN ADLİYESİ**](http://www.istanbul.adalet.gov.tr/)
 
 İstanbul avukat sayısı en yüksek olan şehirdir. Ancak İstanbul avukatları genellikle adliyeler civarında faaliyet göstermektedir. İstanbul avukat sayısı bakımından dünyanın en büyük avukat kenti olarak da adlandırılabilir.
