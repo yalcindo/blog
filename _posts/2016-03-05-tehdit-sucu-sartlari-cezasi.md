@@ -88,9 +88,11 @@ Tehdit suçunun özel işaretlerle işlenip işlenmediğini somut olayların öz
 
 ### Tehdit Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
-[Hükmün açıklanmasının geri bırakılması](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html), sanık hakkında verilen kararın hukuk sisteminde hiçbir sonuç doğurmaması ve iyi halli geçirilen belli bir denetim süresi sonunda davanın düşmesiyle neticelenen bir muhakeme hukuku kurumudur.
+[Hükmün açıklanmasının geri bırakılması,](https://barandogan.av.tr/blog/ceza-hukuku/hukmun-aciklanmasinin-geri-birakilmasi.html) sanık hakkında verilen kararın hukuk sisteminde hiçbir sonuç doğurmaması ve iyi halli geçirilen belli bir denetim süresi sonunda davanın düşmesiyle neticelenen bir muhakeme hukuku kurumudur.
 
 Hükmün açıklanmasının geri bırakılması, tehdit suçu açısından da uygulanabilir. Mağdur, tehdit suçu nedeniyle genellikle doğrudan maddi bir zarara uğramaz. Bu nedenle hükmün açıklanamsının geri bırakılması kurumunun bu suç açısından uygulanabilmesi için zararın giderilmesi koşulu aranmaz.
+
+Tehdit suçu, çoğu zaman ["Hakaret Suçu"](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html) ile birlikte işlenmektedir. Hakaret suçu ile birlikte işlenmesi halinde dahi doğrudan oluşan bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması kararı verebilmek için zararın giderilmesi koşulu aranmaz.
 
 
 
