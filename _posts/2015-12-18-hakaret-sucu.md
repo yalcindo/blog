@@ -113,6 +113,8 @@ Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezası
 
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
+Hakaret suçu, çoğu zaman ["Tehdit Suçu"](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ile birlikte işlenmektedir. Tehdit suçu ile birlikte işlense bile hakaret suçu ve tehdit suçu nedeniyle doğrudan oluşabilecek bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması için zararın giderilmesi şartı aranmaz.
+
 
 ### Hakaret Suçu ve Şikayet Süresi 
 
