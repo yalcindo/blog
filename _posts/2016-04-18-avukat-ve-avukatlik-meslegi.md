@@ -80,7 +80,7 @@ Avukatın eğitimi, Havana Kurallarının üçüncü bölümünde düzenlenmişt
 
 Havana kurallarının üçüncü bölümünde avukatın görev ve sorumlulukları açıklanmıştır. **Avukat,** mesleki şeref ve itibarını her zaman korumakla mükelleftir. Avukat, her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
 
-### 4. Avukatın Mesleki Faaliyetinin Güvenceleri
+#### 4. Avukatın Mesleki Faaliyetinin Güvenceleri
 
 Havana Kuralları, avukatın avukatlık mesleğini icra ederken belli güvencelerin sağlanmasını hükümetlerin yükümlülüğü olarak düzenlemiştir (md.16-22). **Avukat,** görevini yaparken hiçbir baskı ve tacize maruz kalmamlıdır. Hükümetler, herhangi bir dava nedeniyle avukatın baskı altında kalmaması için gerekli her türlü önlemi almalıdır.
 
