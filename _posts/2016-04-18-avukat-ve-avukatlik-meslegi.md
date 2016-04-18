@@ -7,6 +7,8 @@ summary: Avukat ve Avukatlık Tekeli, Avukat ve Avukatlık Mesleğinin Coğrafi 
 keywords: Avukat, ceza avukatı, uluslararası ceza mahkemesi, avukatlık, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
+### ![istanbul ceza avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Ceza Avukatı")
+
 
 ## Avukat ve Avukatlık Mesleği Tekeli
 
