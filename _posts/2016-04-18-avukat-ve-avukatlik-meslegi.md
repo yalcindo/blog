@@ -41,9 +41,11 @@ AİHM’e başvuru yapan başvurucu bir avukat vasıtasıyla başvuru yapılabil
 
 ### Avukatların Uluslararası Ceza Mahkemesi’nde Avukatlık Yapma Yetkisi
 
-Uluslararası Ceza Mahkemesi, Hollanda’nın Lahey kentinde bulunmaktadır. Uluslararası Ceza Mahkemesi’ni kuran antlaşmayı 139 devlet imzalamış, bugüne kadar 123 devlet de iç hukukunda onaylamıştır. Mahkeme, soykırım, insanlığa karşı suçlar, savaş suçları, saldırı suçu gibi önemli suçlara baktığından bu mahkemelerde avukat, mahkemenin önemli bir sacayağı olarak görülmektedir.
+Uluslararası Ceza Mahkemesi, Hollanda’nın Lahey kentinde bulunmaktadır. Uluslararası Ceza Mahkemesi’ni kuran antlaşmayı 139 devlet imzalamış, bugüne kadar 123 devlet de iç hukukunda onaylamıştır. Mahkeme, soykırım, insanlığa karşı suçlar, savaş suçları, saldırı suçu gibi önemli suçlara dair uluslararası yargılama yaptığından bu mahkemelerde avukat, mahkemenin önemli bir sacayağı olarak görülmektedir.
 
-Uluslararası Ceza Mahkemesi’nin kurucu antlaşması olan Roma Statüsü  yargılanan sanığın mahkemede bir avukatın hukuki yardımından faydalanabileceğini öngörmüştür. Roma Statüsü’nün 67. Maddesine göre yargılanan herkes kendi seçtiği bir avukat aracılığıyla savunma yapabilecektir. Sanığın avukat tutmak için maddi gücü yoksa veya iletişim kurduğu herhangir bir avukat yoksa mahkemeden kedisine bir avukat atanmasını isteyebilir.
+Uluslararası Ceza Mahkemesi’nin kurucu antlaşması olan Roma Statüsü  yargılanan sanığın mahkemede bir avukatın hukuki yardımından faydalanabileceğini öngörmüştür. Roma Statüsü’nün 67. Maddesine göre yargılanan herkes kendi seçtiği bir avukat aracılığıyla savunma yapabilecektir. Sanığın avukat tutmak için maddi gücü yoksa veya iletişim içinde olduğu herhangi bir avukat yoksa mahkemeden kendisine bir avukat atanmasını isteyebilir.
+
+
 
 ### Avukatların Uluslararası Adalet Divanı’nda Avukatlık Yapma Yetkisi
 
@@ -77,6 +79,14 @@ Avukatın eğitimi, Havana Kurallarının üçüncü bölümünde düzenlenmişt
 #### 3. Avukatın Görev ve Sorumlulukları
 
 Havana kurallarının üçüncü bölümünde avukatın görev ve sorumlulukları açıklanmıştır. **Avukat,** mesleki şeref ve itibarını her zaman korumakla mükelleftir. Avukat, her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
+
+### 4. Avukatın Mesleki Faaliyetinin Güvenceleri
+
+Havana Kuralları, avukatın avukatlık mesleğini icra ederken belli güvencelerin sağlanmasını hükümetlerin yükümlülüğü olarak düzenlemiştir (md.16-22). **Avukat,** görevini yaparken hiçbir baskı ve tacize maruz kalmamlıdır. Hükümetler, herhangi bir dava nedeniyle avukatın baskı altında kalmaması için gerekli her türlü önlemi almalıdır.
+
+Avukatlar, tehdit edildiğinde hükümetler tarafından avukatın ve ailesinin somut durumun özelliklerine uygun bir şekilde korunması gerekir.
+
+Avukatlar, yargısal, idari veya başka niteliklere sahip organlar önünde serbestçe beyanda bulunabilmelidir. Avukatlar, bu organlar nezdinde ileri sürdükleri iddiala ve sözler nedeniyle hukuki ve cezai muafiyete sahiptirler. Avukatın sahip olduğu bu hakka "savunma dokunulmazlığı denilmektedir.
 
 
 
