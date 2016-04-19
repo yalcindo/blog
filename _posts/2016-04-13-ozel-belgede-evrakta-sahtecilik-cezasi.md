@@ -9,7 +9,7 @@ summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun
 
 ## Özel Evrakta (Belgede) Sahtecilik Nedir?
 
-**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. **Özel Evrakta sahtecilik suçu** ile [**Resmi Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
+**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. **Özel evrakta sahtecilik suçu** ile [**Resmi Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
 
 ### ![Özel Belgede Sahtecilik Suçu](https://camo.githubusercontent.com/3f008483007f6c791884aebb859fb9d88324987a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676c576a762e6a7067 "Özel Belgede Sahtecilik Suçu")
 
@@ -92,7 +92,7 @@ Sahte düzenlenen kira sözleşmesinin notere onaylatılması, noter işleminde 
 
 #### 2-  Özel Evrakta Sahtecilik Suçu Hukuki Değere Sahip Belge Üzerinde İşlenebilir
 
-**Özel evrakta sahtecilik,** ancak hukuki anlamda değeri olan özel belgeler üzerinde işlenebilir. Hukuki değeri bulunmayan yazıların belge değeri de yoktur. Yazılı bir evrakın bir düşünceyi içermesi veya maddi bir olayı anlatması tek başına o evraka “özel belge” niteliği vermez. Özel belgede sahtecilik suçunun maddi konusu olan belgenin, bir hakkın doğumuna veya ortadan kalkmasına neden olacak ölçüde ispat yeteneğine sahip olması gerekir. 
+*Özel evrakta sahtecilik,* ancak hukuki anlamda değeri olan özel belgeler üzerinde işlenebilir. Hukuki değeri bulunmayan yazıların belge değeri de yoktur. Yazılı bir evrakın bir düşünceyi içermesi veya maddi bir olayı anlatması tek başına o evraka “özel belge” niteliği vermez. Özel belgede sahtecilik suçunun maddi konusu olan belgenin, bir hakkın doğumuna veya ortadan kalkmasına neden olacak ölçüde ispat yeteneğine sahip olması gerekir. 
 
 #### 3- Özel Belgeyi “Düzenleyen” Belgeden Anlaşılmalıdır
 
@@ -109,7 +109,7 @@ Düzenleyici, isim-soyisim veya sadece imzadan tespit edilebilir. Önemli olan d
 
 ### Özel Evrakta Sahtecilik Suçu ve Zarar İhtimali Bulunması
 
-**Özel evrakta sahtecilik suçu,** kamu güvenini karşı işlenen suçlardandır. Evrakta sahtecilik suçu, çoğu zaman başka suçlar işlemek için bir araç suç olarak kullanılır. Bu nedenle, kamu güveninin yanı sıra gerek bireylerin gerekse kurumların menfaatleri de ihlal edilmektedir. Özel belgede sahtecilik suçunun meydana gelmesi için belgenin "zarar ihtimali" mevcut olmalıdır. 
+Özel evrakta sahtecilik suçu, kamu güvenini karşı işlenen suçlardandır. Evrakta sahtecilik suçu, çoğu zaman başka suçlar işlemek için bir araç suç olarak kullanılır. Bu nedenle, kamu güveninin yanı sıra gerek bireylerin gerekse kurumların menfaatleri de ihlal edilmektedir. Özel belgede sahtecilik suçunun meydana gelmesi için belgenin "zarar ihtimali" mevcut olmalıdır. 
 
 Düzenlenen, değiştirilen veya kullanılan özel belgenin zarar doğurma ihtimali yoksa özel evrakta sahtecilik suçu da oluşmaz.  Özel belgenin somut bir zarara sebebiyet vermesi şart değildir, önemli olan zarar ihtimali doğurup doğurmadığıdır. Zarar sonucu doğurmaya hukuken elverişli olmayan bir belge bu suçu oluşturmaz.
 
