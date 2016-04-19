@@ -4,7 +4,7 @@ title: Resmi Evrakta (Belgede) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, nitelikli dolandırıcılık suçu, avukat, ağır ceza avukatı, hukuk bürosu
 keywords:  Resmi evrakta sahtecilik, resmi belgede sahtecilik, evrakta sahtecilik suçunun cezası, nitelikli dolandırıcılık suçu, kamu görevlisi resmi evrakta sahtecilik suçu, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
-summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun Şartları, Sahte Belgenin Düzenlenmesi, Değiştirilmesi veya Kullanılması Suçu, Kamu Görevlisinin Evrakta Sahtecilik Suçu, Evrakta Sahtecilik Suçunun Cezası
+summary: Resmi Evrakta Sahtecilik Suçu Nedir? Resmi Belgede Sahtecilik Suçunun Şartları,  Kamu Görevlisinin Evrakta Sahtecilik Suçu, Evrakta Sahtecilik Suçunun Cezası, Nitelikli Dolandırıcılık Suçu
 ---
 
 
