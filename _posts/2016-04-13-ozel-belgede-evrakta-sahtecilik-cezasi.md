@@ -9,7 +9,7 @@ summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun
 
 ## Özel Evrakta (Belgede) Sahtecilik Nedir?
 
-**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. **Özel evrakta sahtecilik suçu** ile [**Resmi Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
+**Özel evrakta (belgede) sahtecilik,** yazılı, okunabilir ve hukuki bir değere sahip özel bir belgenin sahte olarak düzenlenmesi, değiştirilmesi veya kullanılması fiilleridir. *Özel evrakta sahtecilik suçu* ile [**Resmi Evrakta Sahtecilik Suçu**](http://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) arasındaki en önemli fark suçun konusu olan belgenin birisinde resmi belge, diğerinde özel belge olmasıdır. Resmi belgeyi düzenleme yetkisi, kendisine görevi çerçevesinde yetki verilen kamu görevlisine aittir. Özel belge ise herkes tarafından düzenlenebilen daha çok kişiler arasındaki ilişkilerde kullanılan belgelerdir.
 
 ### ![Özel Belgede Sahtecilik Suçu](https://camo.githubusercontent.com/3f008483007f6c791884aebb859fb9d88324987a/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676c576a762e6a7067 "Özel Belgede Sahtecilik Suçu")
 
