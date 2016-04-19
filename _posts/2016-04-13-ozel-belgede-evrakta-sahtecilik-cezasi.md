@@ -26,7 +26,7 @@ TCK 207. maddede düzenlenen özel evrakta sahtecilik, üç farklı seçimlik ha
 
 Yukarıdaki üç seçimlik hareketten herhangi birinin işlenmesiyle özel belgede sahtecilik suçu oluşur. Yukarıdaki üç eylemin, aynı fail tarafından ayrı ayrı zamanlarda, fakat aynı özel belgeyle işlenmesi halinde de faile tek bir ceza verilir.
 
-##Özel Evrakta (Belgede) Sahtecilik ve Şikayet Süresi
+## Özel Evrakta (Belgede) Sahtecilik ve Şikayet Süresi
 
 Şikayete bağlı suçlarda fiilin işlenmesinden itibaren 6 ay içerisinde şikayet edilmemesi halinde şikayet hakkı ortadan kalkar (TCK md. 73). Özel belgede sahtecilik suçu şikayete bağlı suçlardan değildir, bu nedenle herhangi bir şikayet süresi yoktur. 
 
