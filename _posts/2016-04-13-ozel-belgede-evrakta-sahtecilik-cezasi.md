@@ -4,7 +4,7 @@ title: Özel Belgede (Evrakta) Sahtecilik Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Özel belgede sahtecilik suçu, nitelikli dolandırıcılık suçu, özel belgede sahtecilik suçu, özel evrakta sahtecilik cezası, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
 keywords:  Özel evrakta sahtecilik, Özel belgede sahtecilik, özel evrakta sahtecilik suçunun cezası, özel belgede sahtecilik suçu cezası, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
-summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun Şartları, Özel Evrakta Sahtecilik Suçunun Seçimlik Hareketleri, Sahte Özel Belgenin Düzenlenmesi, Değiştirilmesi ve Kullanılması Suçu, Özel Belgede Sahtecilik Suçu Cezası
+summary: Özel Belgede Sahtecilik Suçu Nedir? Özel Evrakta Sahtecilik Suçunun Şartları, Sahteciliğin Cezası, Nitelikli Dolandırıcılık Suçu, Özel Belgede Sahtecilik Suçu Cezası
 ---
 
 ## Özel Evrakta (Belgede) Sahtecilik Nedir?
