@@ -4,15 +4,16 @@ title: Ceza Avukatı
 category: ceza-hukuku
 googleAnahtar: Ceza avukatı, avukat, ağır ceza avukatı, İstanbul ceza avukatı, ceza avukatı arıyorum, en iyi ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
 keywords:  Ceza avukatı, avukat, ceza avukatı arıyorum istanbul, en iyi ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat
-summary: Ceza avukatı Nedir? Savunma ve Ceza Avukatı, Soruşturma ve Mahkeme Aşamasında Ceza Avukatı, Ceza Avukatları ve Hakları, Ağır Ceza Avukatı Nedir? İstanbul Ağır Ceza Avukatı Olmak
+summary: Ceza avukatı Nedir? Savunma ve Ceza Avukatı, Hukuk Bürosu ve Meslek Sırrı, Ceza Avukatları ve Hakları, Ağır Ceza Avukatı Nedir? İstanbul Ağır Ceza Avukatı Olmak
 ---
 
 
 ## Ceza Avukatı Nedir?
 
 
-Türkiye’de **ceza avukatı** adı altında ayrı bir avukatlık dalı yoktur. Halk arasında ceza soruşturmalarını ve davalarını takip eden avukatlara **ceza avukatı** denildiği için biz de makalemizde ceza avukatı kavramını kullanacağız.
-Ceza soruşturması veya yargısı suçun işlenmesinden sonra başlayan bir faaliyettir. Ceza avukatı da çoğunlukla suç işlenmesinden sonra bu sürecin tarafı olan kişilere hukuki yardım yapar.
+Türkiye’de **ceza avukatı** adı altında ayrı bir avukatlık dalı yoktur. Halk arasında ceza soruşturmalarını ve davalarını takip eden avukatlara *ceza avukatı veya ağır ceza avukatı* denildiği için biz de makalemizde bu kavramları kullanacağız.
+
+Ceza soruşturması veya yargılaması suçun işlenmesinden sonra başlayan bir faaliyettir. Ceza avukatı da çoğunlukla suç işlenmesinden sonra bu sürecin tarafı olan kişilere hukuki yardım yapar.
 
 Suç şüphesi altındaysanız, hakkınızda yakalama işlemi yapılmış olsun veya olmasın, bir ceza avukatı vasıtasıyla savunma yapmaya başlayabilirsiniz. Eğer suçun mağduruysanız aynı şekilde şikayet hakkınızın etkin bir biçimde savunulması için ceza avukatına başvurabilirsiniz.
 
@@ -119,12 +120,17 @@ Ceza avukatı, sadece mahkemede savunma yapan bir suje değildir, aynı zamanda 
 
 ### Ceza Avukatları, Ağır Ceza Avukatları
 
-Ceza avukatları, avukatlık mesleğinin en zor alanlarından birinde çalışmaktadır. Bu alan, avukatın özel hayatı ve sosyal hatı ile iş hayatı arasında bir düzen ve disiplin oluşturmasını zorunlu kılar. İnsanlar ancak bir soruşturmaya muhatap olduklarında ceza avukatının hukuki yardımına ihtiyaç duyarlar. **Ceza avukatları**, müvekkilleri hakkında en olmadık zamanlarda yapılan soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatları, iş akışının düzensizleşmesine karşı önlem alarak hazırlıklı olmalıdır. Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle **ağır ceza avukatı** olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini gerektirir.
+Ceza avukatları, avukatlık mesleğinin en netameli alanlarından birinde çalışmaktadır. Bu alan, avukatın özel  ve sosyal hayatı ile iş hayatı arasında bir düzen ve disiplin oluşturmasını zorunlu kılar. İnsanlar bir soruşturma veya ceza davasına muhatap olduklarında ceza avukatının hukuki yardımına ihtiyaç duyarlar. Bu nedenle *ceza avukatları*, müvekkilleri hakkında herhangi bir zamanda yapılan ve aciliyet arz eden soruşturma işlemleri ile uğraşmak zorunda kalabilmektedirler. Ceza avukatlarınin iş akışının düzensizleşmesine karşı önlem alması ve acil soruşturma işlemleri için hazırlıklı olması gerekir.  Yukarıda ifade ettiğimiz bazı soruşturma işlemleri gece vakti dahi yapılabilmektedir. Bu nedenle *ağır ceza avukatı* olmak, kişinin mesleğine uygun bir yaşam tarzı edinmesini gerektirir.
 
-Ağır ceza avukatı, bir ülkede işlenen en önemli davalarda savunma görevini yapan kişidir. Ağır ceza avukatları, kişi özgürlüğü ve güvenliği hakkına ceza hukuku müdahalesinin hukuk devleti ilkelerine ve kanuna uygun yapılmasını temin etmek için donanımlı olunması gerektiğinin bilincindedir. Ağır ceza avukatı, güncel hukuki gelişmeleri anı anına takip ederek mevzuattaki gelişmelerin yargılamaya olası etkilerini de müvekkili sanık veya mağdur lehine değerlendirir.
+Ağır ceza avukatı, bir ülkede işlenen en önemli suçlara dair davalarda savunma görevini yapan kişidir. Ağır ceza avukatları, kişi özgürlüğü ve güvenliği hakkına yapılan ceza hukuku müdahalesinin, hukuk devleti ilkelerine ve kanuna uygun yapılmasını temin etmek için donanımlı olmalıdır. Ağır ceza avukatı, güncel hukuki gelişmeleri anı anına takip ederek mevzuattaki gelişmelerin yargılamaya olası etkilerini de müvekkili olan sanık veya mağdurun savunma hakkı çerçevesinde değerlendirmelidir.
 
+### Ağır Ceza Avukatı, Meslek Sırrı ve Gizlilik
 
-**Ceza avukatı,** savunma fonksiyonu ile temel hak ve özgürlüklere yanlış yapılan müdahaleleri önleyerek hukuk devletinin ve özgürlüklerin gelişimine önemli bir katkı sunar.
+Ceza davası veya soruşturmasına muhatap olan kişiler kendileri hakkındaki süreçlerin belli bir gizlilik içinde devam etmesini isterler. Gizlilik talebi, savunma hakkı ile doğrudan bağı olan ağır ceza avukatı tarafından da hassasiyetle değerlendirilmesi gereken bir konudur. Ağır ceza avukatı, kendi hukuk bürosunda çalışan herkese  gizlilik konusunda mutlaka eğitim vermelidir.
+
+Meslek sırrı, avukatlık bürolarının dikkat etmesi gereken en önemli meslek ilkelerinden biridir. Ağır ceza avukatı da müvekkiliyle ilgili kişisel bilgilerini veya savunmanlık yaptığı davayla ilgili bilgileri sır olarak saklama yükümlülüğündedir. Ağır ceza avukatının sır saklama yükümlülüğü, avukatlık  mesleğini bıraksa dahi ölünceye kadar devam eder.
+
+Ceza avukatı, savunma fonksiyonu ile temel hak ve özgürlüklere yanlış yapılan müdahaleleri önleyerek hukuk devletinin ve özgürlüklerin gelişimine önemli bir katkı sunar.
 
 
 
