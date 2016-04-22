@@ -75,7 +75,7 @@ Bu usuli nedenlerle ön inceleme aşamasında istinaf başvurusu reddedilen tara
 
 -	İstinaf başvurusunun *“esastan reddine”*,  
 -	İstinaf başvurusunun  yerel mahkeme kararındaki hukuka aykırılık *“düzeltilerek esastan reddine”* (düzelterek onama olarak da adlandırılabilir), 
--	İstinaf incelemesi neticesinde önemli bir hukuka aykırılık (CMK md.289) tespit edilmesi halinde *“hükmün bozulmasına ve dosyanın yeniden karar verilmek üzere yerel mahkemeye gönderilmesine,
+-	İstinaf incelemesi neticesinde önemli bir hukuka aykırılık (CMK md.289) tespit edilmesi halinde *“hükmün bozulmasına ve dosyanın yeniden karar verilmek üzere yerel mahkemeye gönderilmesine*,
 -	*“Davanın istinaf mahkemesinde yeniden  görülmesine”* ve duruşma hazırlığı işlemleri yapılmasına.
 
 ### ![İstanbul Ceza Avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "İstanbul Ceza Avukatı")
