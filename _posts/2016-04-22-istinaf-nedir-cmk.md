@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ceza Muhakemesinde İstinaf  
+title: CEZA MUHAKEMESİNDE İSTİNAF 
 category: ceza-hukuku
 googleAnahtar: İstinaf nedir, ceza muhakemesinde istinaf incelemesi, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul ceza avukatı, hukuk bürosu, istinaf cmk
 keywords:  İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, temyiz dilekçesi, istinaf cmk
@@ -9,7 +9,7 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Ceza Muhakemesin
 
 ### ![İstinaf Nedir](https://camo.githubusercontent.com/fba20b1a301b977e99d5bf257ea2a825d3ddf755/687474703a2f2f692e68697a6c69726573696d2e636f6d2f714d5a5a37352e6a7067 "İstinaf Kanun Yolu")
 
-## İstinaf nedir?
+## Ceza Muhakemesinde İstinaf Nedir?
 
 **İstinaf**, ilk derece mahkemesi tarafından verilen son kararın üst dereceli bir mahkeme olan bölge adliye mahkemesi tarafından hem maddi vakıa yönünden hem de hukuka aykırılık yönünden yeniden incelenmesini sağlayan bir kanun yoludur.
 
