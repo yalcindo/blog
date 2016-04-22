@@ -81,7 +81,7 @@ Bu usuli nedenlerle ön inceleme aşamasında istinaf başvurusu reddedilen tara
 ### ![İstanbul Ceza Avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "İstanbul Ceza Avukatı")
 
 
- ### Başvurunun Esastan Reddi veya Düzelterek Esastan Reddi (Düzelterek Onama) (CMK md.280/1-a)
+### Başvurunun Esastan Reddi veya Düzelterek Esastan Reddi (Düzelterek Onama)
 
 *İstinaf başvurusunun esastan reddi* halinde, yerel mahkeme kararının yerinde olduğu, hükümde herhangi bir hukuka aykırılık olmadığı bölge adliye mahkemesi tarafından tespit edilmiş olur. Böylece ceza davasının istinaf incelemesi aşaması sona erer. İstinaf başvurusunun esastan reddi halinde istinaf isteminde bulunan kişi, koşulları varsa ceza davası için [Yargıtay’a Temyiz Başvurusu]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) yapabilir. İstinaf mahkemesinin kararı temyiz edilemeyecek kararlardan ise, yerel mahkeme kararı kesinleşmiş olacaktır.
 
