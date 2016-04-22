@@ -27,7 +27,7 @@ Tüzel kişiler (şirketler, vakıflar, dernekler vs.) aleyhine tehdit suçunun 
 
 ## Tehdit Suçunun Hukuki Niteliği
 
-Tehdit suçu, hukuki niteliği itibariyle bir tehlike suçudur.  Mağduru korkutmak  amacıyla işlenen bir suç olduğu için tehdit teşkil eden söz ve davranışın başka bir somut zarar meydana  getirip getirmediğinin önemi yoktur. Örneğin, “seni bıçaklayacağım” sözleri tehdit suçunu oluşturur, failin tehdit suçundan cezalandırılması için  tehdit ettiği kişiyi bıçaklaması zorunlu değildir. 
+Tehdit suçu, hukuki niteliği itibariyle bir tehlike suçudur.  Mağduru korkutmak  amacıyla işlenen bir suç olduğu için tehdit teşkil eden söz ve davranışın başka bir somut zarar meydana  getirip getirmediğinin önemi yoktur. Örneğin, “seni bıçaklayacağım” sözleri tehdit suçunu oluşturur, failin tehdit suçundan cezalandırılması için  tehdit ettiği kişiye karşı [bıçakla adam yaralama](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) suçunu işlemek üzere harekete geçip geçmediğinin bir önemi yoktur. 
 
 ## Tehdit Suçu ve Şikayet Süresi
 
