@@ -9,7 +9,9 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ## Tehdit Suçu Nedir?
 
-**Tehdit suçu,** meydana gelmesi failin iradesine bağlı olan bir kötülüğün, belli bir kişiye gelecekte muhtemelen gerçekleşecekmiş gibi gösterilmesidir. Tehdit suçu, haksız bir zarara veya kötülüğe uğratılacağının bir kimseye bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir. Tehdit suçunda korunan hukuki değer, kişilerin iç barışı, karar verme ve hareket etme özgürlüğüdür. Mağdurun şeref ve saygınlığına zarar verebilecek bir hususu açıklamakla veya isnat etmekle tehdit edilmesi ve bir yarar sağlamaya zorlama söz konusu ise tehdit suçu değil, [Şantaj Suçu](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) işlenmiş olur.
+**Tehdit suçu,** meydana gelmesi failin iradesine bağlı olan bir kötülüğün, belli bir kişiye gelecekte muhtemelen gerçekleşecekmiş gibi gösterilmesidir. Tehdit suçu, haksız bir zarara veya kötülüğe uğratılacağının bir kimseye bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir.
+
+Tehdit suçunda korunan hukuki değer, kişilerin iç barışı, karar verme ve hareket etme özgürlüğüdür. Mağdurun şeref ve saygınlığına zarar verebilecek bir hususu açıklamakla veya isnat etmekle tehdit edilmesi ve bir yarar sağlamaya zorlama söz konusu ise tehdit suçu değil, [Şantaj Suçu](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) işlenmiş olur.
 
 ### ![Tehdit Suçu ve Cezası](https://camo.githubusercontent.com/58a03b9d6416e8797dbeb5739cbaef1817553a86/687474703a2f2f692e68697a6c69726573696d2e636f6d2f564c6f6a62562e6a7067 "Tehdit Suçu")
 
@@ -19,7 +21,9 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 
 
-Tehdit suçu ancak gerçek kişiler aleyhine işlenebilir. Tüzel kişiler aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
+Tehdit suçu ancak gerçek kişiler aleyhine işlenebilir. 
+
+Tüzel kişiler (şirketler, vakıflar, dernekler) aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
 
 ## Tehdit Suçunun Hukuki Niteliği
 
