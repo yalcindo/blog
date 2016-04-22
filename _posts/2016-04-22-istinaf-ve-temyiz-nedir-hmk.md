@@ -12,7 +12,11 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukuk İstinaf �
 
 ## İstinaf Kanun Yolu Nedir
 
-**İstinaf,** ilk derece mahkemeleri tarafından verilen kararların hem olay yönünden hem de hukuki yönden üst dereceli mahkeme tarafından denetlenmesidir. İstinaf kanun yoluna başvurulduğunda ceza davası veya hukuk dava dosyası üst dereceli İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından ikinci kere incelenerek karar verilir. İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından istinaf incelemesi sonucunda verilen karara karşı da koşulları varsa, temyiz incelemesi için Yargıtay’a **temyiz başvurusu** yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk veya ceza davası neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
+**İstinaf,** ilk derece mahkemeleri tarafından verilen kararların hem olay yönünden hem de hukuki yönden üst dereceli mahkeme tarafından denetlenmesidir. İstinaf kanun yoluna başvurulduğunda ceza davası veya hukuk dava dosyası üst dereceli İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından ikinci kere incelenerek karar verilir.
+
+İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından istinaf incelemesi sonucunda verilen karara karşı da koşulları varsa, temyiz incelemesi için Yargıtay’a **temyiz başvurusu** yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk veya ceza davası neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
+
+Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), [Ceza Davası İstinaf Kanun Yolu](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
 
 ## İstinaf Mahkemesine Nasıl Başvurulur
 
