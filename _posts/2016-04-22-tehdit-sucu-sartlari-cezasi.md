@@ -23,7 +23,7 @@ Tehdit suçunda korunan hukuki değer, kişilerin iç barışı, karar verme ve 
 
 Tehdit suçu ancak gerçek kişiler aleyhine işlenebilir. 
 
-Tüzel kişiler (şirketler, vakıflar, dernekler) aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
+Tüzel kişiler (şirketler, vakıflar, dernekler vs.) aleyhine tehdit suçunun işlenmesi mümkün değildir.  Çünkü tehdit suçu ile kişilerin manevi dünyası korunmaktadır. Örneğin, “B şirketini yok edeceğim “ şeklindeki bir beyan B şirketi açısından tehdit suçunu oluşturamaz, koşulları varsa ortakları veya çalışanları aleyhine tehdit olarak kabul edilebilir.
 
 ## Tehdit Suçunun Hukuki Niteliği
 
