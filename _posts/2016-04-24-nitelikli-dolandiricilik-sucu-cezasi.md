@@ -65,7 +65,9 @@ Nitelikli bir yalan yoksa  dolandırıcılık suçu şartları oluşmaz. Hileli 
 
 * Sigorta bedelini almak maksadıyla işlenmesi.
 
-### 1. Dinin İstismar Edilmesi Suretiyle Nitelikli Dolandırıcılık Suçu
+**Nitelikli dolandırıcılık suçları aşağıda ayrı ayrı açıklanmıştır:**
+
+### Dinin İstismar Edilmesi Suretiyle Nitelikli Dolandırıcılık Suçu
 
 Din, bir inanç sistemi;  dini inanç ise bir dine inanan ve o dine üye olan kişinin duyguları olarak tarif edilebilir.
 
@@ -73,11 +75,11 @@ Nitelikli dolandırıcılık suçunun dinin istismar edilmesi suretiyle işleneb
 
 *"... Sanık hayali bir yaratıkla işbirliği yaptığını, kendisine verilen paranın Allah'a verildiğini, yabancı istihbarat birimlerinin peşinde olduğu gibi yalanlarla mağdurları aldattığından TCK'nın 158/1-a maddesinde düzenlenen dini inanç ve duyguların İstismar edilmesi suretiyle nitelikli dolandırıcılık suçu meydana gelmiştir* (Yargıtay 15. Ceza Dairesi - 2012/39544 karar).
 
-### 2. Kişinin Algılama Yeteneğinin Zayıflığından Yararlanarak Nitelikli Dolandırıcılık Suçu (TCK 158/1-c)
+### Kişinin Algılama Yeteneğinin Zayıflığından Yararlanarak Nitelikli Dolandırıcılık Suçu (TCK 158/1-c)
 
 Mağdurun algılama yeteneği sarhoşluk, akıl zayıflığı, akıl hastalığı nedenleriyle veya şok geçirdiği bir kaza anında zayıflamış olabilir. Aynı şekilde mağdurun yaş küçüklüğü nedeniyle algılama yeteneği zayıflamış olabilir. Mağdurun algılama yeteneğinin zayıflığından yararlanılarak dolandırılması TCK 158/1-c’de düzenlenen nitelikli dolandırıcılık suçu şartlarının gerçekleşmesine neden olur.
 
-### 3.  Kamu Kurum ve Kuruluşları Araç Yapılarak Nitelikli Dolandırıcılık Suçu (158/1-d)
+### Kamu Kurum ve Kuruluşları Araç Yapılarak Nitelikli Dolandırıcılık Suçu (158/1-d)
 
 **Dolandırıcılık suçu,**  bir kamu kurumu araç olarak kullanılarak veya araç olarak kullanılmasa bile kamu kurumunun zararına işlenirse, TCK 158/1-d maddesinde düzenlenen nitelikli dolandırıcılık suçu  meydana gelir. 
 
@@ -89,7 +91,7 @@ Siyasi partiler, dernekler veya vakıflar kullanılarak nitelikli dolandırıcı
 
 
 
-### 4. Kamu Kurum ve Kuruluşları Zararına Nitelikli Dolandırıcılık Suçu (TCK 158/1-e)
+### Kamu Kurum ve Kuruluşları Zararına Nitelikli Dolandırıcılık Suçu (TCK 158/1-e)
 
 Dolandırıcılık suçu işlenirken bazen kamu kurum ve kuruluşları araç olarak kullanılmamasına rağmen suçun neticesinde kamu zararı doğabilir. Nitelikli dolandırıcılık suçu, kamu kurum ve kuruluşlarının zararına olarak işlenirse TCK 158/1-e maddesi uygulanır. 
 
@@ -99,7 +101,7 @@ Kamu kurum ve kuruluşları zararına dolandırıcılık suçunun oluşabilmesi 
 
 ### ![Bilişim Sistemleri Kullanılarak Dolandırıcılık Suçu](https://camo.githubusercontent.com/adfcad31e1923e5ef1c647010f947b840297e364/687474703a2f2f692e68697a6c69726573696d2e636f6d2f594a4c7156442e6a7067 "Bilişim Sistemlerini Kullanarak Dolandırıcılık suçu")
 
-### 5. Bilişim Sistemlerinin Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
+### Bilişim Sistemlerinin Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
 
 Bilişim sistemleri kullanılarak dolandırıcılık suçu işlenmesi halinde fail TCK 158/1-f maddesi gereği cezalandırılır. Bilişim sistemlerinin kullanılması demek, bilgisayar, cep telefonu, internet gibi araçların kullanılmasıdır. Örneğin, facebook, twitter vs. gibi sosyal medya araçları üzerinden mağdurun hileli davranışlarla aldatılması suretiyle para, kontör  istenmesi  gibi yöntemlerle haksız menfaat sağlanması bilişim sistemleri kullanılarak nitelikli dolandırıcılık suçunu teşkil eder.
@@ -108,7 +110,7 @@ Bilişim sistemleri kullanılarak dolandırıcılık suçu işlenmesi halinde fa
 *"...Sanık, bir internet sitesi üzerinden araç satışı için ilan vermiş, mağdurun alıcı olarak araması üzerine önce kapora bedeli adı altında bir miktar parayı hesabına yatırtmış, daha sonra eşinin hastanede olması nedeniyle acil paraya ihtiyacı olduğunu söyleyerek mağdurdan tekrar para almış ancak daha sonra ortadan kaybolmuştur. Sanığın eylemi bilişim sistemlerinin araç olarak kullanılması suretiyle nitelikli dolandırıcılık suçu teşkil etmektedir...*(Yargıtay 15. Ceza Dairesi -  2012/31436 karar).
 
 
-### 6. Banka veya Kredi Kurumunun Araç Olarak Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
+### Banka veya Kredi Kurumunun Araç Olarak Kullanılması Suretiyle Nitelikli Dolandırıcılık Suçu (TCK 158/1-f)
 
 Banka veya kredi kurumları ekonomik hayatın vazgeçilmez unsurlarıdır. Bankacılık ve kredi kurumu faaliyetleri özel bir güven ilişkisi çerçevesinde yürüyen faaliyetlerdir. TCK md. 158/1-f maddesi, banka ve kredi kurumlarının araç olarak kullanılması suretiyle nitelikli dolandırıcılık suçunu cezalandırmaktadır.
 
@@ -122,7 +124,7 @@ Başkasına ait banka veya kredi kartının haksız bir şekilde ele geçirilere
 
 ### ![Banka Dolandırıcılık Suçu Cezası](https://camo.githubusercontent.com/f555838ba1724be31547ea8053c927890ee3657e/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c394471396c2e6a7067 "Dolandırıcılık Suçu Cezası")
 
-### 7. Sigorta Bedelini Almak Amacıyla Nitelikli Dolandırıcılık Suçu (TCK 158/1-k)
+### Sigorta Bedelini Almak Amacıyla Nitelikli Dolandırıcılık Suçu (TCK 158/1-k)
 
 Sigorta şirketleri belli risklerin gerçekleşmesi halinde sigorta poliçesi nedeniyle hak sahibi olan şahıslara ödeme yapan kuruluşlardır. Hak sahibi olduğunu iddia ederek sigorta şirketinden sigorta bedelini hileli davranışlar ve belgelerle sigorta bedelini almak amacıyla hareket eden kişi, TCK 158/1-k maddesinde düzenlenen nitelikli dolandırıcılık suçu işlemiş olur.  
 
@@ -130,14 +132,14 @@ Hemen belirtelim ki; sigorta bedelini almak amacıyla nitelikli dolandırıcıl�
 
 *"... Sanık, trafik kazası yaptığı gerekçesiyle olay mahaline polis çağırmış, polis trafik kazasının gerçekleşip gerçekleşmediği konusunda şüphe duyduğu için trafik kazası tespit tutanağı tutmamıştır. Sanık, bunun üzerine kasko şirketine aynı içerikli beyanda bulunarak hasarı talep etmiş ve hasar bedeli kendisine ödenmiştir. Polisin trafik kazasının şüpheli olduğunu beyan ederek trafik kazası tespit tutanağı düzenlememesi, sanığın tek başına sigorta bedelini almak maksadıyla nitelikli dolandırıcılık suçunu işlediğini ispatlamaz..."* (Yargıtay  Ceza Genel Kurulu - 2015/42 karar).
 
-### 8. Kredi Açılmasını Sağlamak Amacıyla Nitelikli Dolandırıcılık Suçu (TCK 158/1-j)
+### Kredi Açılmasını Sağlamak Amacıyla Nitelikli Dolandırıcılık Suçu (TCK 158/1-j)
 
 Banka veya kredi kurumlarından kredi almak için belli prosedürlerin yerine getirilmesi gerekir. Kredi açılmasını sağlamak için bankalar müşteriden birçok evrak istemektedir. Kimlik  ve adres bilgileri ile mali bilgiler hakkında bankaya doğru bilgi verilmesi gerekir. Kredi açılmasını sağlamak için mali durumu veya diğer bilgiler konusunda gerçek dışı evraklar düzenleyerek bankadan kredi çekilmesi halinde,  TCK 158/1-j’de düzenlenen *Kredi Açılmasını Sağlamak Amacıyla Nitelikli Dolandırıcılık Suçu* meydana gelir.
 
 Uygulamada sahte nüfus cüzdanı, ehliyet veya geçerli diğer kimlik belgelerinin önce sahte olarak üretildiği, daha sonra bu belgelerle kredi temini için bankalara başvurulduğu görülmektedir. Aynı şekilde bazı şirketler, yüksek miktarlarda kredi alabilmek için aktiflerinde mevcut olmayan malvarlığı değerlerine sahip olduklarına dair defter veya evrak tanzim etmekte, sahte bilançolar düzenleyerek kredi başvurusunda bulunmaktadır. Tüm bu haller TCK 158/1-j maddesinde düzenlenen suçun nitelikli halinin meydana gelmesine yol açar.
 
 
-### 9. Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Dolandırıcılık Suçu (TCK md. 159)
+### Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Dolandırıcılık Suçu (TCK md. 159)
 
 Hukuki ilişkiye dayanan herhangi bir alacağı tahsil amacıyla dolandırıcılık suçu işlenmesi halinde suçun takibi şikayete bağlıdır. Bu maddenin uygulanabilmesi için öncelikle ortada geçerli bir hukuki ilişki olmalıdır. Mağdurun iradesi hile yoluyla aldatılarak birtakım hukuki işlemler yapılması, örneğin sözleşmeler düzenlenmesi, tek başına mağdur ile fail arasında bir hukuki ilişki olduğunu göstermez. Hukuki ilişki tarafların özgür iradesiyle ve dolandırıcılık teşkil eden fiilden önce kurulmuş olmalıdır.
 
@@ -146,11 +148,11 @@ Mağdurun bu fiil nedeniyle şikayetçi olması halinde, faile 6 aydan 1 yıla k
 ### Dolandırıcılık Suçunun Cezası
 
 
-#### 1. Basit Dolandırıcılık Suçunun Cezası (TCK md. 157)
+#### Basit Dolandırıcılık Suçunun Cezası (TCK md. 157)
 
 Basit dolandırıcılık suçunun cezası TCK md. 157’de düzenlenmiştir. Buna göre, basit dolandırıcılık suçunda fail 1 yıldan 5 yıla hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. Madde metninde hapis cezası ve adli para cezası birlikte aynı yaptırımın birer parçası olarak düzenlenmiştir. Yani faile hem hapis cezası hem de adli para cezası aynı anda verilecektir. Faile verilecek adli para cezasının miktarı meydana gelen zararın büyüklüğüne göre belirlenecektir.
 
-#### 2. Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
+#### Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
 
 *Nitelikli dolandırıcılık suçunun cezası* TCK md. 158’de düzenlenmiştir. Buna göre nitelikli dolandırıcılık suçu işleyen fail, 2 yıldan 7 yıla kadar hapis cezası ve beşbin güne kadar adli para cezası ile cezalandırılır. Ancak,  kamu kurum ve kuruluşlarının zararına olarak, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle, banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla veya sigorta bedelini almak maksadıyla suçun işlenmesi hallerinde suçun cezasının alt sınırı 3 yıldan az olamaz, verilecek adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
