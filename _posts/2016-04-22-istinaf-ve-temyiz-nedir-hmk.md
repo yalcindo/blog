@@ -69,22 +69,22 @@ Hukuk davası istinaf incelemesi şu aşmalardan oluşur:
 
 HMK’nın kabul ettiği istinaf incelemesi sistemi “dar istinaf sistemi” olarak nitelendirilmektedir. Bu nedenle, bölge adliye mahkemesi istinaf incelemesi yaparken ilk derece mahkemesinin yaptığı gibi bir vakıa incelemesi ve yargılama yapamaz. Aşağıdaki hususlar hukuk davasının istinaf incelemesinde ileri sürülemez:
 
-#### 1- İstinaf Aşamasında Yeni Vakıalar İleri Sürülemez
+#### İstinaf Aşamasında Yeni Vakıalar İleri Sürülemez
 
 İlk derece mahkemesinde usulüne uygun bir şekilde ileri sürülmeyen vakıalar,  istinaf incelemesini yapacak olan bölge adliye mahkemesi önünde  de ileri sürülemez. Karşı tarafın muvafakati veya ıslah dahi yeni vakıa ileri sürme imkanı vermez. Yerel mahkemede ileri sürülmeyen vakıaların bölge adliye mahkemesinde ileri sürülememesi kuralı temel kural olmakla birlikte birkaç istisnası mevcuttur. Kendiliğinden araştırma ilkesinin uygulandığı davalarda (örneğin, aile mahkemesinin görev alanına giren davalarda), kamu düzenine ilişkin hususlar, ilk derecede yargılama yapılırken mevcut olmayıp istinaf aşamasında ortaya çıkan vakıalar, yerel mahkemede ileri sürülmese bile istinaf incelemesine konu edilebilirler.
 
-#### 2- İstinaf Aşamasında Yeni Deliller İleri Sürülemez 
+#### İstinaf Aşamasında Yeni Deliller İleri Sürülemez 
 
 Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki incelemede de artık dayanılmaz. Ancak, yerel mahkemede usulüne uygun bir şekilde gösterilen, ama yerel mahkemece reddedilen delillere istinaf mahkemesindeki inceleme sırasında da dayanılabilir. Zorunlu haller (mücbir sebepler) nedeniyle yerel mahkemede gösterilemeyen delillere  istinaf mahkemesindeki incelemede dayanılabilir.
 
-#### 3- İstinaf Aşamasında Islah, Davaya Müdahale, Birleştirme, Ayırma 
+#### İstinaf Aşamasında Islah, Davaya Müdahale, Birleştirme, Ayırma 
 
 -	Islah, ilk derece mahkemesinde ileri sürülmesi gereken usuli bir araçtır. İstinaf mahkemesinde ıslah yapılamaz.
 -	İstinaf mahkemesinde karşı dava açılamaz, çünkü istinaf incelemesi açılmış bir dava ile ilgili yerel mahkemenin vermiş olduğu karar ile ilgilidir.
 -	İlk derece mahkemesinde birleştirilmeyen davalar, bölge adliye mahkemesinde istinaf aşamasında birleştirilemez.
 -	Bölge adliye mahkemesinin istinaf incelemesi sırasında “davaya müdahale” talebinde bulunulamaz.
 
-#### 4- İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
+#### İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
 	
 İstinaf incelemesi, daha önce açılmış davanın sınırları çerçevesinde yapılır. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
 
@@ -94,28 +94,28 @@ Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki in
 
 İstinaf mahkemesi istinaf incelemesi neticesinde şu kararları verebilir:
 
-#### 1- Yerel Mahkeme Kararının Esası İncelenmeden Kaldırılması ve Dosyanın Geri Gönderilmesi (HMK md. 353/1)
+#### Yerel Mahkeme Kararının Esası İncelenmeden Kaldırılması ve Dosyanın Geri Gönderilmesi (HMK md. 353/1)
 
 İstinaf mahkemesi, usuli bazı nedenler varsa istinaf başvurusunun esasını incelemeden yerel mahkeme kararının kaldırılmasına ve yeniden yargılama yapılması için dosyanın yerel mahkemeye gönderilmesine karar verebilir (HMK md. 353/1-a).
 İstinaf mahkemesi şu usuli gerekçelerle istinaf başvurusunun esasını incelemeden gönderme kararrı verebilir: a-) Haklı bir hakimin reddi sebebi ileri sürülmesine veya hakimin davaya bakmasının yasak olduğu hallerin bulunmasına rağmen hakimin davaya bakması, b-) Görev ve yetki sorunu bulunması, b-) Yerel mahkemenin usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına karar vermesi, c-) Usule aykırı olarak davaların birleştirilmesine, ayrılmasına veya mercii tayinine karar verilmesi. d-) Yerel mahkemenin tarafların gösterdiği delilleri hiç toplamamış veya hiç değerlendirmemiş olması.
 
-#### 2- Yerel Mahkeme Kararının Kaldırılması ve Kısmen veya Tamamen Davanın Kabulü Kararı (HMK md. 353/1-b)
+#### Yerel Mahkeme Kararının Kaldırılması ve Kısmen veya Tamamen Davanın Kabulü Kararı (HMK md. 353/1-b)
 
 İstinaf mahkemesi, davanın esasına girerek yerel mahkeme kararını kaldırabilir. İstinaf mahkemesi, yerel mahkemenin verdiği kararı kaldırarak davanın kısmen veya tamamen kabulüne karar verebilir.
  Bu halde yerel mahkemenin davanın reddine karar vermiş olması gerekir. Bölge adliye mahkemesi, davanın haksız yere reddedildiği kanaatine varırsa, uyuşmazlığı esastan çözecek olan “davanın kısmen veya tamamen kabulüne” karar verir.
 
-#### 3- Yerel Mahkeme Kararının Kaldırılması ve Davanın Esastan Reddine Karar Verilmesi (HMK md. 353/1-b-1)
+#### Yerel Mahkeme Kararının Kaldırılması ve Davanın Esastan Reddine Karar Verilmesi (HMK md. 353/1-b-1)
 
 *İstinaf mahkemesi*, yaptığı esastan inceleme neticesinde yerel mahkemenin hukuka aykırı bir şekilde davacının davasını kabul ettiği kanaatine varırsa, yerel mahkeme kararını kaldırır ve davacının hukuk davasının esastan reddine karar verir.
 Bu halde yerel mahkeme, davacının açmış olduğu hukuk davasının ya kısmen ya da tamamen kabulüne karar vermiştir. Bölge adliye mahkemesi, bu kabul kararını kaldırarak davayı esastan reddetmektedir.
 
-#### 4- Yerel Mahkeme Kararının Kaldırılarak Düzeltilmesi (HMK md. 353/1-b-2)
+#### Yerel Mahkeme Kararının Kaldırılarak Düzeltilmesi (HMK md. 353/1-b-2)
 
 **İstinaf mahkemesi**, yerel mahkeme kararının usul ve esas açısından doğru olduğu kanaatine varıp da yeniden yargılama yapılmasına gerek olmayan hallerde veya hukuki gerekçede hata yapılmış olması halinde yerel mahkeme kararını tamamen kaldırmaz veya esastan yeni bir karar vermez. Bu halde bölge adliye mahkemesi, istinaf başvurusunu kabul ederek  yerel mahkeme kararını düzeltmekle yetinir. 
 
 Düzelterek karar verme hususunda Yargıtay’ın içtihatlarında yer alan düzelterek onama halleri esas alınabilir. Örneğin, harç ve giderlerin noksan yazılması, maddi hatalar yapılması, basit hesap hataları yapılması, avukatlık ücretine hükmedilmemesi halinde istinaf mahkemesi yerel mahkeme kararındaki eksikliği gidererek hükme ekler, yani hükmü düzelterek karar verir.er, kanunun olaya uygulanmasında hata edilip de yeniden yargılama yapılmasına
 
-#### 5- İstinaf Mahkemesinin İstinaf Başvurusunun Reddine Karar Vermesi (HMK md. 353/1-b-1)
+#### İstinaf Mahkemesinin İstinaf Başvurusunun Reddine Karar Vermesi (HMK md. 353/1-b-1)
 
 İstinaf mahkemesi, bir üst derece mahkemesi olarak yerel mahkeme kararını denetleyerek, kararın usul veya esas açısından hiçbir eksiklik içermediği kanaatine varırsa istinaf başvurusunu reddeder. 
 İstinaf mahkemesi, ön incelemede de dikkate alarak davayı reddedebileceği hallerde, yani istinaf başvurusunun süresinde yapılmamış olması, istinaf başvurusu için gereken şartlar yerine getirilmemiş, başvuru sebepleri ve gerekçesi gösterilmemişse istinaf başvurusunu reddedebilir.
@@ -146,11 +146,11 @@ Bölge adliye mahkemesi tarafından verilen aşağıda nitelikleri belirtilen ka
 Yargıtay’a temyiz yolu kapalı olan ilk derece mahkemesi kararları, bölge adliye mahkemesinin kararı ile kesinleşir. 
 Temyiz yolu açık olan istinaf mahkemesi hukuk dairelerinin kararlarına karşı 1 ay içinde yapılan temyiz başvurusu üzerine Yargıtay temyiz incelemesi yapar. Temyiz incelemesi şu aşamalardan oluşur:
 
-#### 1- Temyizde Ön İnceleme
+####  Temyizde Ön İnceleme
 
 Ön inceleme aşaması, bölge adliye mahkemesinin yaptığı ön incelmeye benzer şekilde yapılır. Yani, Yargıtay temyiz başvurusu yapılan dava dosyasında usuli eksiklik bulunup bulunmadığını, temyiz süresine uyulup uyulmadığı, harç ve giderlerin yatırılıp yatırılmadığı gibi meselelerle ilgili bir temyiz ön incelemesi yaparak bu aşamada verilmesi gereken kararları verir (HMK md. 366)
 
-#### 2- Temyizde Esastan İnceleme
+#### Temyizde Esastan İnceleme
 
 **Temyiz başvurusu** ile ilgili ön inceleme aşaması bittikten sonra Yargıtay, dava dosyasının esastan temyiz incelemesini yapar. Yargıtay tarafların temyiz talebinde bulunurken ileri sürdüğü temyiz sebepleri ile bağlı değildir. Yargıtay, kanunun açık hükmüne aykırı gördüğü huşuları temyiz dilekçesinde ileri sürülmese bile kendiliğinden değerlendirerek karar verir.
 
@@ -193,13 +193,13 @@ Bölge adliye mahkemesi, ilk derece mahkemesinin kararına karşı yapılan isti
 
 Bölge adliye mahkemesi (istinaf mahkemesi), istinaf başvurusu üzerine incelediği kararı “düzelterek yeniden karar” verebilir  veya ilk derece mahkemesinin kararını kaldırarak yeniden karar verebilir. Yargıtay’ın bozma kararı, bölge adliye mahkemesinin bu tür kararlarına ilişkinse bozma kararı verilerek dosya yeniden ilgili bölge adliye mahkemesine veya uygun görülecek başka bir bölge adliye mahkemesine gönderilir (HMK md. 373). 
 
-#### 1- Temyiz İncelemesi ile Verilen Bozma Kararına Uyma
+#### Temyiz İncelemesi ile Verilen Bozma Kararına Uyma
 
 Yargıtay temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “bozmaya uyma” kararı verebilir.
 
 Temyiz incelemesi üzerine verilen bozma kararları üzerine dosya kendilerine gönderilen ilk derece mahkemeleri veya bölge adliye mahkemeleri “bozmaya uyma” kararı verdiğinde,  bu kararlara karşı doğrudan temyiz yoluna başvurulabilir (HMK md. 373/4). Yargıtay’ın bozma kararına karşı “bozmaya uyma” şeklinde karar veren mahkeme isterse istinaf mahkemesi (bölge adliye mahkemesi) isterse ilk derece mahkemesi olsun, “bozmaya uyma” kararına karşı nacak temyiz yoluna gidilebilir. Bozmaya uyma kararına karşı artık istinaf başvurusu yapılamaz. 
 
-#### 2- Temyiz İncelemesi Neticesinde Verilen Bozma Kararına Karşı Direnme
+#### Temyiz İncelemesi Neticesinde Verilen Bozma Kararına Karşı Direnme
 
 Yargıtay'ın temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “direnme” kararı da verebilir. 
 
