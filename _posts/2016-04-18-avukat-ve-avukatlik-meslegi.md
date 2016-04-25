@@ -68,21 +68,21 @@ Havana Kuralları, 1990 yılında Havana'da düzenlenen bir BM konferansında ka
 ### ![Birleşmiş Milletler Ceza Avukatı](https://camo.githubusercontent.com/2c288751ee7ebb556d69af4b962402cbcd7071e3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f39354d56336f2e6a7067 "BM Havana Toplantısı")
 
 
-#### 1. Avukat ve Avukata Erişim Hakkı
+#### Avukat ve Avukata Erişim Hakkı
 
 Havana kurallarının ilk bölümü avukata ve adli hizmetlere erişim hakkı ile ilgilidir. Bu bölümde herkesin, hiçbir ayrım gözetmeksizin avukata erişim hakkı olduğu ilke haline getirilmiştir. Hükümetler, insanların avukata erişim hakkını temin etmekle sorumlu tutulduğu gibi avukat örgütleri de halkı avukata erişim hakkı konusunda bilgilendirmekten sorumlu tutulmuştur. Hükümetler ve **avukat** örgütleri, insanların avukata erişim hakkının gerçekleşmesi için işbirliği yapmakla mükelleftirler. Avukat tutmak için yeterli maddi güce ve imkanlara sahip olmayanlara, avukat örgütleri ve hükümetler gerekli organizasyonu yaparak cevap olmalıdır.
 
 Havana kurallarının ikinci bölümünde, yakalanan veya gözaltına alınan kimselerin avukat seçmesi veya avukatlarıyla görüştürülmesi konularında hükümetlerin her türlü imkanı sağlamak zorunda olduğu vurgulanmıştır.
 
-#### 2. Avukatın Niteliği ve Eğitimi
+#### Avukatın Niteliği ve Eğitimi
 
 Avukatın eğitimi, Havana Kurallarının üçüncü bölümünde düzenlenmiştir. Avukat, hukuki bilgi ve donanımı sayesinde etkili bir hukuki yardım yapabilir. Havana Kuralları, gerek meslek örgütlerini gerekse gerekse hükümetleri avukatların eğitilmesi hususunda gerekli önlemleri almakla sorumlu tutmuştur. Mesleki eğitim sırasında avukatın uluslararası insan hakları ve temel özgürlüklere vakıf olması da sağlanmalıdır. Ayrıca avukatlık mesleğine girişte herhangi bir ayrımcılık yapılmaması  gerekir.
 
-#### 3. Avukatın Görev ve Sorumlulukları
+#### Avukatın Görev ve Sorumlulukları
 
 Havana kurallarının üçüncü bölümünde avukatın görev ve sorumlulukları açıklanmıştır. **Avukat,** mesleki şeref ve itibarını her zaman korumakla mükelleftir. Avukat, her zaman müvekkiline şeffaf bir şekilde bilgi vermeli, müvekkilinin haklarını korumak için hukuki işlemde bulunmalı, müvekkilinin menfaatlerine saygı duymalıdır. **Avukat,** müvekkilinin idari, adli organlarda veya her türlü yargı organında haklarını savunmalıdır.
 
-#### 4. Avukatın Mesleki Faaliyetinin Güvenceleri
+#### Avukatın Mesleki Faaliyetinin Güvenceleri
 
 Havana Kuralları, avukatın avukatlık mesleğini icra ederken belli güvencelerin sağlanmasını hükümetlerin yükümlülüğü olarak düzenlemiştir (md.16-22). **Avukat,** görevini yaparken hiçbir baskı ve tacize maruz kalmamlıdır. Hükümetler, herhangi bir dava nedeniyle avukatın baskı altında kalmaması için gerekli her türlü önlemi almalıdır.
 
