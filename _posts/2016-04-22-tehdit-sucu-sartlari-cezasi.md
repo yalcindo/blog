@@ -64,29 +64,29 @@ Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
 
-Tehdit suçunun nitelikli, ağır halleri şunlardır:
+**Tehdit suçunun nitelikli, yani ağır halleri şunlardır:**
 
-#### 1. Silahla Tehdit Suçu
+#### Silahla Tehdit Suçu
 
 Tehdit suçunun nitelikli hali olan silahla tehdit suçunun vücut bulması için silahın, bizzat mağdur tarafından görülebileceği, hissedilebileceği , tehdidin mağdurun üzerindeki etkisini artıracak biçimde teşhiri veya kullanılması gerekir. Mağdurun yokluğunda gerçekleştirilen tehdit eyleminin, silahla tehdit suçunu oluşturabilmesi için silahın, mağdurun evi, arabası gibi daimi kullanımında olan eşyalarında hasar, iz, emare gibi belirtiler oluşturacak ve bu suretle tehdidin mağdurun üzerinde meydana getirdiği korkunun etkisini artıracak tarzda kullanılması icap eder. Bu itibarla, mağdurun yokluğunda gerçekleşen tehdit eyleminde, salt silah teşhir edilmiş olması, suçun nitelikli halinin oluşumu için yeterli sayılamayacaktır.  
 
-#### 2. Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
+#### Kendini Tanınmayacak Hale Koyarak Tehdit Suçu
 
 Tehdit suçunu işleyen kişi, kendisini mağdur tarafından tanınmayacak hale koyarsa suçun ağırlaştırılmış hali işlenmiş olur. Suçu işleyen kişinin korkutucu olması şart değildir, önemli olan mağdur tarafından tanınmayacak şekilde hareket etmesidir. Örneğin, suçu işleyen kişinin maske takması veya takma sakal takması gibi.
 
-#### 3. Birden Fazla Kişiyle Birlikte Tehdit Suçu
+#### Birden Fazla Kişiyle Birlikte Tehdit Suçu
 
 Suçun birden fazla kişi tarafından birlikte işlenmesi halinde mağdur üzerinde korkuyu arttıran bir faktördür.  Bu nedenle kanun, birden fazla kişiyle birlikte işlenen tehdit suçuna daha ağır ceza verilmesine gerek görmüştür. Tehdit fiilini işleyen kişi sayısının en az 2 veya daha fazla kişi olması gerekir.
 
-#### 4. İmzasız Mektup Yoluyla Tehdit Suçu
+#### İmzasız Mektup Yoluyla Tehdit Suçu
 
 İmzasız mektup ile kastedilen suçu işleyen kişinin kimliğinin mektuptan anlaşılamamasıdır. İmzasız mektup, tehditin nerden geldiğini bilmediği için mağduru daha çok korkutmakta, tehditin kaynağını bilmediği için de mağdur savunmasız kalmaktadır.  Bu nedenle yasa tehdit suçunun imzasız mektup yoluyla işlenmesi cezayı arttıran bir neden olarak kabul edilmiştir. Ancak yazılan mektubun altında imza veya isim olmasa bile, mektubun kim tarafından yazıldığı mağdur tarafından hemen fark edilebiliyorsa ceza arttırımı yoluna gidilemez.
 
-#### 5. Örgüt İsmi Kullanarak Tehdit Suçu
+#### Örgüt İsmi Kullanarak Tehdit Suçu
 
 Tehdit suçu işleyen kişinin bir örgütün ismini kullanarak mağduru tehdit etmesi halinde ceza arttırımı yoluna gidilir. İsmi kullanılan örgüt, var olan bir örgüt olabileceği gibi, gerçekte var olmayan hayali bir örgüt de olabilir. Örgütün niteliği önemli değildir. Örgüt, dini, siyasi veya bir mafya örgütü olabilir. Örgüt ismi kullanılarak mağdurun korkutulması suçun oluşması için yeterlidir.
 
-#### 6.  Özel İşaretlerle Tehdit Suçu
+#### Özel İşaretlerle Tehdit Suçu
 
 Tehdit suçunun özel işaretlerle işlenip işlenmediğini somut olayların özelliğine göre değerlendirmek gerekir. Örneğin, belli bir bölgedeki kişilerin evlerinin kapısına çarpı işareti yapılması veya kuru kafa çizilmesi, tehdit suçunun özel işaretlerle işlenmiş halinin oluşmasına neden olur.
 
