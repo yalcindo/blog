@@ -4,7 +4,7 @@ title: Özel Hayatın Gizliliğini İhlal Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
 keywords:  Özel hayatın gizliliği, özel hayatın gizliliğini ihlal suçu cezası, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
-summary: Özel Hayatın Gizliliği Nedir? Özel Hayatınn Gizliliğini İhlal Suçu, Özel Hayatın Gizliliğini İfşa, Özel Hayatın Gizliliğini İhlal Suçunun Cezası, Özel Hayatınn Gizliliğini İhlal Şikayet Süresi, Özel Hayatınn Gizliliğini İhlal Suçu Yargıtay Kararları
+summary: Özel Hayatın Gizliliği Nedir? Özel Hayatın Gizliliğini İhlal Suçu, Özel Hayatın Gizliliğini İfşa, Özel Hayatın Gizliliğini İhlal Suçunun Cezası, Özel Hayatın Gizliliğini İhlal Şikayet Süresi, Özel Hayatın Gizliliğini İhlal Suçu Yargıtay Kararları
 ---
 
 
