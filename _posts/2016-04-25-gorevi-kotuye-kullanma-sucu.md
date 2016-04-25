@@ -10,15 +10,15 @@ keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası,
 
 ## Görevi Kötüye Kullanma Nedir?
 
-**Görevi kötüye kullanma,** kamu görevlisinin görevini yapmaması veya hukuka aykırı bir şekilde yapmasıdır. **Görevi kötüye kullanma,** üç şekilde meydana gelirse suç olarak kabul edilir:
+**Görevi kötüye kullanma,** kamu görevlisinin görevini yapmaması veya hukuka aykırı bir şekilde yapmasıdır. *Görevi kötüye kullanma,* üç şekilde meydana gelirse suç olarak kabul edilir:
 
-* Kamu görevlisinin yapmakla görevli olduğu görevini yapmaması şeklindeki **görevi kötüye kullanma suçu,**
+* Kamu görevlisinin yapmakla görevli olduğu görevini yapmaması şeklindeki *görevi kötüye kullanma suçu,*
 
-* Kamu görevlisinin görevini kanunun öngördüğü şekilde yapmaması şeklindeki **görevi kötüye kullanma suçu,**
+* Kamu görevlisinin görevini kanunun öngördüğü şekilde yapmaması şeklindeki *görevi kötüye kullanma suçu,*
 
-* Kamu görevlisinin görevini zamanında yapmayıp geciktirmesi, yani **görevi ihmal** şeklindeki **görevi kötüye kullanma suçu**.
+* Kamu görevlisinin görevini zamanında yapmayıp geciktirmesi, yani **görevi ihmal** şeklindeki *görevi kötüye kullanma suçu*.
 
-Mevcut TCK’nın 257. maddesi **görevi ihmal suçu** ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. **Görevi ihmal suçu,** ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir.
+Mevcut TCK’nın 257. maddesi görevi ihmal suçu ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. **Görevi ihmal suçu,** ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir.
 
 
 ### ![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
@@ -30,15 +30,15 @@ Kamu görevlisinin her hukuka aykırı fiili görevi kötüye kullanma suçunun 
 
 ### Görevi Kötüye Kullanma ve Kamu Görevlisi Kavramı
 
-**Görevi kötüye kullanma suçu**nun işlenebilmesi için failin kamu görevlisi olmalıdır. Kamu görevlisi kavramı, memur kavramından daha geniş bir kavramdır. Örneğin, avukat, bir davada tanık, bilirkişi gibi statüler yapılan işin kamu hizmeti olması nedeniyle kamu görevlisi sayılırlar. Tüm bu kişiler de memur olmadıkları halde ,**görevi ihmal** etmeleri veya yapmamaları,  **görevi kötüye kullanma suçu**nu oluşturabilir.
+Görevi kötüye kullanma suçunun işlenebilmesi için failin kamu görevlisi olmalıdır. Kamu görevlisi kavramı, memur kavramından daha geniş bir kavramdır. Örneğin, avukat, bir davada tanık, bilirkişi gibi statüler yapılan işin kamu hizmeti olması nedeniyle kamu görevlisi sayılırlar. Tüm bu kişiler de memur olmadıkları halde ,*görevi ihmal* etmeleri veya yapmamaları,  görevi kötüye kullanma suçunu oluşturabilir.
 
-Kamu görevlisi olan failin, kanun veya idari düzenlemelerden doğan bir görevi olmalı ve bu görev dolayısıyla yetkili olmalıdır.  Bir kimse kamu görevlisi olmasına rağmen suç konusu işle ilgili görevi ve yetkisi yoksa, fiil başka bir suçu oluşturabilirse de **görevi kötüye kullanma suçu**nu oluşturmaz. Çünkü hukuken kişi sahip olmadığı bir yetkiyi kullanamaz. Kullanamayacağı bir yetkiyi kullanarak kamu görevini üstlenen kişiye TCK  md. 262 gereği “kamu görevinin usulsüz üstlenilmesi” suçundan 3 aydan 2 yıla hapis cezası verilebilir.
+Kamu görevlisi olan failin, kanun veya idari düzenlemelerden doğan bir görevi olmalı ve bu görev dolayısıyla yetkili olmalıdır.  Bir kimse kamu görevlisi olmasına rağmen suç konusu işle ilgili görevi ve yetkisi yoksa, fiil başka bir suçu oluşturabilirse de görevi kötüye kullanma suçunu oluşturmaz. Çünkü hukuken kişi sahip olmadığı bir yetkiyi kullanamaz. Kullanamayacağı bir yetkiyi kullanarak kamu görevini üstlenen kişiye TCK  md. 262 gereği “kamu görevinin usulsüz üstlenilmesi” suçundan 3 aydan 2 yıla hapis cezası verilebilir.
 
 Kamu görevinin gereklerine aykırı her türlü fiilin cezai yaptırımla karşılanması ceza hukukunun amacına aykırı düşer. Kamu görevlisinin davranışları belli bir aşamaya geldiğinde suç meydana gelir.
 
 ### Görevi Kötüye Kullanma Suçu Kasten İşlenebilir
 
-**Görevi kötüye kullanma suçu**, genel kastla işlenebilen suçlardandır. Kamu görevlisi olan failin **görevi kötüye kullanma** fiilini işlerken özel bir kastla veya saikle hareket etmesi şart değildir. Kamu görevlisinin görevini ihmal ettiğini veya yerine getirmeyi geciktirdiğini bilmesi ve bu fiili isteyerek yapması yeterlidir.
+*Görevi kötüye kullanma suçu*, genel kastla işlenebilen suçlardandır. Kamu görevlisi olan failin görevi kötüye kullanma fiilini işlerken özel bir kastla veya saikle hareket etmesi şart değildir. Kamu görevlisinin görevini ihmal ettiğini veya yerine getirmeyi geciktirdiğini bilmesi ve bu fiili isteyerek yapması yeterlidir.
 
 Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da taksirle değil, kasten işlenen bir suçtur.
 
@@ -46,30 +46,30 @@ Hemen belirtmek gerekir ki ihmal suretiyle görevi kötüye kullanma suçu da ta
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/9f9e6be2c9c61c636d46a9d98176fd725907bc32/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a59726c79592e6a7067 "Ceza Avukatı")
 
-**Görevi kötüye kullanma,** sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. **Görevi kötüye kullanma suçu** zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir:
+Görevi kötüye kullanma, sadece kanuna aykırı davranışla meydana gelmez. Suçun oluşması için norma aykırı davranış yetmez, ayrıca fiil sebebiyle zarar oluşması gerekir. Görevi kötüye kullanma suçu zarar suçlarındandır, bir zarar meydana gelmeden bu suç oluşmaz. Suç nedeniyle şu üç şekilden herhangi biriyle zarar meydana gelmesi yeterlidir:
 
 #### Mağduriyete Sebep Olma Yoluyla Görevi Kötüye Kullanma Suçu
 
 
-**Görevi kötüye kullanma,** herhangi bir kişiye zarar verebilir. Zarar gören kişi, gerçek bir kişi olabileceği gibi tüzel bir kişi de olabilir. Suçun mağduru bir vatandaş da olabilir, bir şirket, vakıf veya dernek de olabilir.
+Görevi kötüye kullanma, herhangi bir kişiye zarar verebilir. Zarar gören kişi, gerçek bir kişi olabileceği gibi tüzel bir kişi de olabilir. Suçun mağduru bir vatandaş da olabilir, bir şirket, vakıf veya dernek de olabilir.
 
 
-Fiil nedeniyle herhangi bir kişinin mağduriyetine neden olunmuşsa **görevi kötüye kullanma suçu** oluşur. Mağduriyet, sadece ekonomik zararı ifade etmez.  Kişinin ekonomik, sosyal, siyasi ve medeni her türlü şahsi haklarının ihlal edilmesi mağduriyet kavramı içerisinde değerlendirilir.
+Fiil nedeniyle herhangi bir kişinin mağduriyetine neden olunmuşsa görevi kötüye kullanma suçu oluşur. Mağduriyet, sadece ekonomik zararı ifade etmez.  Kişinin ekonomik, sosyal, siyasi ve medeni her türlü şahsi haklarının ihlal edilmesi mağduriyet kavramı içerisinde değerlendirilir.
 
 
 #### Kamunun Zararına Sebebiyet Verme Nedeniyle Görevi Kötüye Kullanma Suçu
 
- Kamu zararı kavramı, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu’nun 71. maddesinde tanımlanmıştır. Hakim her somut olayda kamu zararının meydana gelip gelmediğini araştırmalıdır. Kamu zararı miktarının kesin olarak tespit edilmesi gerekmez, miktar kesin olarak saptanamasa da işin veya hizmetin mahiyeti dikkate alınarak piyasa rayicinin üstünde veya altında bir alım-satım yapılıp yapılmadığı tespit edilmelidir. Yapılan tespit sonucunda kamunun zarara uğraması ile **görevi kötüye kullanma** fiili arasında açık bir ilişki varsa fail cezalandırılmalıdır.
+ Kamu zararı kavramı, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu’nun 71. maddesinde tanımlanmıştır. Hakim her somut olayda kamu zararının meydana gelip gelmediğini araştırmalıdır. Kamu zararı miktarının kesin olarak tespit edilmesi gerekmez, miktar kesin olarak saptanamasa da işin veya hizmetin mahiyeti dikkate alınarak piyasa rayicinin üstünde veya altında bir alım-satım yapılıp yapılmadığı tespit edilmelidir. Yapılan tespit sonucunda kamunun zarara uğraması ile görevi kötüye kullanma fiili arasında açık bir ilişki varsa fail cezalandırılmalıdır.
 
 
 #### Kişilere Haksız Bir Menfaat Sağlayarak Görevi kötüye Kullanma Suçu
 
-TCK'nın 257. maddesine, 08.12.2010 gün ve 6086 sayılı kanunla “haksız kazanç” ibaresinin yerine “haksız menfaat” ibaresi eklenmiştir. Haksız menfaat kavramı, haksız kazanç kavramından daha geniş bir kavramdır. Haksız menfaat, haksız kazancı da kapsar bir şekilde kişilere hukuka aykırı bir şekilde maddi veya manevi kişisel yarar temin edilmesi anlamına gelir. **Görevi kötüye kullanma** fiili sonucunda herhangi bir kişiye haksız menfaat temin edilmişse suç tamamlanmış olur.
+TCK'nın 257. maddesine, 08.12.2010 gün ve 6086 sayılı kanunla “haksız kazanç” ibaresinin yerine “haksız menfaat” ibaresi eklenmiştir. Haksız menfaat kavramı, haksız kazanç kavramından daha geniş bir kavramdır. Haksız menfaat, haksız kazancı da kapsar bir şekilde kişilere hukuka aykırı bir şekilde maddi veya manevi kişisel yarar temin edilmesi anlamına gelir. Görevi kötüye kullanma fiili sonucunda herhangi bir kişiye haksız menfaat temin edilmişse suç tamamlanmış olur.
 
 
 ### Görevi Kötüye Kullanma Suçu Genel Bir Suçtur
 
-Kamu görevlisinin işlediği bir fiil TCK’da düzenlenen başka özel bir suçun konusunu teşkil ediyorsa, artık sanık görevi kötüye kullanma suçundan cezalandırılamaz. Örneğin, rüşvet alma, zimmet, irtikap gibi suçlar **görevi kötüye kullanma** yoluyla işlenebilecek suçlardır. Kamu görevlisinin işlediği fiil TCK’da özel bir suç olarak düzenlenmişse sanık bu özel suçun gerektirdiği cezayla cezalandırılır. Bu halde sanığa ayrıca görevi kötüye kullanma suçundan ceza verilemez. Çünkü bu suç kamu görevlisinin hukuka aykırı bir fiilinin başka bir suç teşkil etmemesi halinde geçerlidir.
+Kamu görevlisinin işlediği bir fiil TCK’da düzenlenen başka özel bir suçun konusunu teşkil ediyorsa, artık sanık görevi kötüye kullanma suçundan cezalandırılamaz. Örneğin, rüşvet alma, zimmet, irtikap gibi suçlar görevi kötüye kullanma yoluyla işlenebilecek suçlardır. Kamu görevlisinin işlediği fiil TCK’da özel bir suç olarak düzenlenmişse sanık bu özel suçun gerektirdiği cezayla cezalandırılır. Bu halde sanığa ayrıca görevi kötüye kullanma suçundan ceza verilemez. Çünkü bu suç kamu görevlisinin hukuka aykırı bir fiilinin başka bir suç teşkil etmemesi halinde geçerlidir.
 
 
 ## Görevi Kötüye Kullanma Suçunun Cezası
@@ -80,7 +80,7 @@ Görevi kötüye kullanma suçunun temel cezası TCK 257/1 maddesi gereği 6 ayd
 
 Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk (polis, jandarma vs.) gerekse savcılık suçu öğrendiği anda soruşturma işlemlerini kendiliğinden başlatmalıdır.
 
-**Görevi kötüye kullanma suçu,** ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
+*Görevi kötüye kullanma suçu,* ceza miktarı yönünden olmasa bile suçun niteliği açısından oldukça vahim bir suç olduğundan bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla iddia ve savunmada bulunmak yararlı olacaktır.
 
 ## Görevi Kötüye Kullanma Suçu Yargıtay Kararları     
 
@@ -89,7 +89,7 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 ---
 
 
-* Cumhuriyet savcısı olan sanık, kendi sorumluluğundaki 216 dosyanın çoğunda 7 yıl gibi bir süre ile işlem yapmamıştır. Bu durum dosyalardaki mağdurların haklarını elde etmelerini geciktirmiş ve soruşturmaların uzun sürmesi nedeniyle şüphelilerin hukuki durumu da belirsiz bırakılmış, şartları varsa şüphelilerin bir an önce aklanmaları ihtimali engellenmiştir. Sanığın suçu **görevi ihmal** suretiyle görevi kötüye kullanma suçunu oluşturur. Dosya sayısının birden çok olması nedeniyle sanığın zincirleme suç hükümleri gereği TCK 257/2 ve 43/1 maddeleri gereği görevi kötüye kullanma suçundan cezalandırılması gerekir (Yargıtay Ceza Genel Kurulu – Esas No: 2014/5-277, Karar No: 2014/476, Tarih: 04.11.2014).
+* Cumhuriyet savcısı olan sanık, kendi sorumluluğundaki 216 dosyanın çoğunda 7 yıl gibi bir süre ile işlem yapmamıştır. Bu durum dosyalardaki mağdurların haklarını elde etmelerini geciktirmiş ve soruşturmaların uzun sürmesi nedeniyle şüphelilerin hukuki durumu da belirsiz bırakılmış, şartları varsa şüphelilerin bir an önce aklanmaları ihtimali engellenmiştir. Sanığın suçu *görevi ihmal* suretiyle görevi kötüye kullanma suçunu oluşturur. Dosya sayısının birden çok olması nedeniyle sanığın zincirleme suç hükümleri gereği TCK 257/2 ve 43/1 maddeleri gereği görevi kötüye kullanma suçundan cezalandırılması gerekir (Yargıtay Ceza Genel Kurulu – Esas No: 2014/5-277, Karar No: 2014/476, Tarih: 04.11.2014).
 
 * Sanık, devlet hastanesinde doktor olarak görev yapmaktadır. Hastaneye gelen hastaya acil müdahale yapması gerekirken başka bir hastaneye sevk etmesi TCK md. 257/2 gereği **görevi ihmal** suretiyle görevi kötüye kullanma suçunu oluşturduğundan sanık cezalandırılmalıdır (Yargıtay 5. Ceza Dairesi  – Esas No: 2013/4857, Karar No: 2014/11388, Tarih: 24.11.2014).
 
