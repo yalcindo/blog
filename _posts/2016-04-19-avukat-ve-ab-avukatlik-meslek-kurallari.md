@@ -45,7 +45,7 @@ Yeni müvekkilinin işinde eski müvekkilinin sırları ortaya çıkacaksa avuka
 
 ### ![Boşanma Avukatı](https://camo.githubusercontent.com/f92a01a3fe083bb46defa61503a3889218a37e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f346b375834702e6a7067 "Avukat")
 
-#### 3. Avukat ve Vekalet Ücreti
+#### Avukat ve Vekalet Ücreti
 
 Avukat tarafından işin takibi için alınacak vekalet ücreti hakkaniyete uygun olmalıdır. Vekalet ücreti konusunda müvekkil avukat tarafından yeterince bilgilendirilmelidir.
 
