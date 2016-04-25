@@ -19,34 +19,34 @@ summary: Şufa Hakkı (Önalım Hakkı) Nedir? Şufa Davası veya Önalım Davas
 
 Şufa hakkı aşağıdaki şartlarla kullanılabilir:
 
-### 1.  Şufa Hakkı Paylı Mülkiyette Kullanılabilir
+### Şufa Hakkı Paylı Mülkiyette Kullanılabilir
 
 **Şufa hakkı,** ancak paylı mülkiyette tabi taşınmazlarda kullanılabilir. Kat irtifakı veya kat mülkiyeti olan taşınmazlarda şufa hakkı** (önalım hakkı) kullanılamaz. Taşınmazın arsa veya daire olmasının hiçbir önemi yoktur. Şufa hakkının kullanılabilmesinin önşartı taşınmazın vasfı değil, taşınmazın paylı mülkiyete tabi olmasıdır.
 
-### 2. Şufa Hakkı Paydaşlar Tarafından Kullanılabilir
+### Şufa Hakkı Paydaşlar Tarafından Kullanılabilir
 
 Şufa hakkının kimler tarafından kullanılabileceği Medeni Kanun md. 732’de açıkça ifade edilmiştir. Şufa hakkı ancak paydaşlar tarafından kullanılabilir. Taşınmazda paydaş olmayan ancak kişisel bir alacak hakkına sahip olanlar veya taşınmazda sınırlı bir ayni hakka sahip olanlar **şufa hakkını kullanamaz.
 
-### 3.  Şufa Hakkı Fiilen Taksim Edilmemiş Taşınmazda Kullanılır
+### Şufa Hakkı Fiilen Taksim Edilmemiş Taşınmazda Kullanılır
 
 Müşterek veya iştirak halinde mülkiyete tabi taşınmazda hangi paydaşın gayrimenkulün hangi bölümünü kullanacağı sözleşmeyle veya fiilen paydaşlara arasında belirlenmişse bu taşınmazdaki payın satışı halinde şufa hakkı kullanılamaz. Şufa davası olarak nitelendirilen dava, ancak sözleşmeyle veya fiilen taksim edilmemiş paylı gayrimenkullerde açılabilir. Medeni Kanun  bu hükümle paydaşların kararlaştırdığı kullanım tarzının bir paydaş tarafından kötüye kullanılmasını engellemek istemiştir.
 
-### 4.  Şufa Hakkı (Önalım Hakkı) Kime Karşı Kullanılır?
+### Şufa Hakkı (Önalım Hakkı) Kime Karşı Kullanılır?
 
 **Şufa hakkı,**  ancak bir paydaşın payını satın alan alıcıya karşı kullanılabilir. Gayrimenkulün alıcısı üçüncü kişi şufa davasının davalısıdır. Şufa davasında payını satan paydaşa karşı dava açılamaz.
 Paydaşın diğer bir paydaşa yaptığı satışlarda şufa hakkı kullanılamaz. Önalım hakkı üçüncü kişilere karşı kullanılabilir, ancak paydaşlara karşı kullanılamaz.  
 
-### 5. Alıcının Satışı Noter Aracılığıyla Bildirme Yükümlülüğü
+### Alıcının Satışı Noter Aracılığıyla Bildirme Yükümlülüğü
 
 Medeni Kanun md. 733/3 gereği alıcı, tüm paydaşlara taşınmazı satın aldığını noter aracılığıyla bildirmek zorundadır.  Bildirme yükümlülüğünü yerine getirmeyen alıcı paydaşların açacağı şufa davası ile muhatap olur.  Alıcı, paylı taşınmazdan pay aldığını bildirim yükümlülüğünü noterden değil, ama yazılı bir şekilde yerine getirse bile bu bildirim geçersizdir. Noter marifetiyle bildirim alıcı için mutlak bir yükümlülüktür.
 
-### 5. Şufa Hakkı Nasıl Kullanılır? Şufa Davası Hangi Mahkemede Açılır?
+### Şufa Hakkı Nasıl Kullanılır? Şufa Davası Hangi Mahkemede Açılır?
 
 Şufa hakkı, ancak dava yoluyla kullanılabilir. Yukarıda açıkladığımız üzere,  gayrimenkulün paydaşı olan herhangi bir paydaş taşınmazı satın alan alıcıya karşı dava açmalıdır.
 
 **Şufa davası,**  görevli mahkeme olan Asliye Hukuk Mahkemesi’nde dava açılarak kullanılmalıdır. Şufa davasında yetkili mahkeme gayrimenkulün bulunduğu yer mahkemesidir. Bu nedenle, Bakırköy’da bulunan bir gayrimenkul için İstanbul Çağlayan Adliyesi’nde şufa davası açılamaz. Yetkili ve görevli mahkeme gayrimenkulun bulunduğu yer olan Bakırköy Asliye Hukuk Mahkemesi’dir.
 
-### 6. Şufa Hakkını (Önalım Hakkını) Kullanma Süresi Nedir?
+### Şufa Hakkını (Önalım Hakkını) Kullanma Süresi Nedir?
 
 Şufa hakkını kullanma süresi, paydaşların süresiz bir şekilde dava açma hakkını kullanarak alıcıyı zor durumda bırakmalarını önlemek için öngörülmüştür. Şufa hakkının kullanılması açısından iki türlü süre söz konusudur:
 
