@@ -3,14 +3,14 @@ layout: blog
 title: Adli Para Cezası        
 category: ceza-hukuku
 googleAnahtar: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, Adli para cezası taksitlendirme, hukuk bürosu, istanbul avukat 
-summary: Adli Para Cezası Nedir? Hapis Cezasının Paraya Çevrilmesi, Adli Para Cezasının Taksitlendirilmesi, Adli Para Cezası İtiraz,  Adli Para Cezası Ödeme, Hapis Cezası Paraya Çevirme, Adli Para Cezası Kamuya Yararlı İşte Çalışma/Çalıştırma 
+summary: Adli Para Cezası Nedir? Hapis Cezasının Paraya Çevrilmesi, Adli Para Cezasının Taksitlendirilmesi, Adli Para Cezası İtiraz,  Adli Para Cezası Ödeme, Adli Para Cezasının Ertelenmesi, Kamuya Yararlı İşte Çalışma/Çalıştırma 
 keywords: Adli para cezası, ceza avukatı, adli para cezası nedir, hapis cezasının paraya çevrilmesi, adli para cezası taksit, Kamuya yararlı işte çalışma/Çalıştırma, Adli para cezası taksitlendirme, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı
 ---
 
 ## Adli Para Cezası Nedir? 
 
 
-TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. **Adli para cezası**na bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. **Adli para cezası,** idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. [***İdari Para Cezası,***](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html) suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez.  
+TCK’ya (Türk Ceza Kanunu) göre suç karşılığında hapis ve adli para cezası olmak üzere iki tür ceza yaptırımı uygulanabilir. Adli para cezasına bir suçun cezası olarak yalnızca mahkemeler tarafından hükmedebilir. Diğer tüm devlet kurumlarının verdiği para cezaları idari para cezasıdır. *Adli para cezası,* idari para cezasından farklı olarak ödenmediğinde hapis cezası ile sonuçlanabilecek bir yaptırım türüdür. [***İdari Para Cezası,***](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html) suç karşılığında verilen bir ceza olmadığı için ödenmediği zaman hapis cezasına çevrilemez.  
 
 ### ![Adli Para Cezası](https://camo.githubusercontent.com/42bde062f8f2d9ad68663a755375f1932eb4dd07/687474703a2f2f692e68697a6c69726573696d2e636f6d2f516c444a34412e6a7067 "Adli Para Cezası")
 
@@ -44,14 +44,14 @@ Hapis cezasının para cezasına çevrilmesi kararı, mahkeme tarafından bazı 
 
 
 
-### Hapis cezası Adli Para Cezasına Çevrilebilen Suçlar Nelerdir?
+### Hapis Cezası Adli Para Cezasına Çevrilebilen Suçlar 
 
 
 [Taksirle adam öldürme suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), taksirle adam yaralama suçu gibi taksirle işlenebilen (örneğin, trafik kazaları veya iş kazaları) tüm suçlar ceza miktarına bakılmaksızın adli para cezasına çevrilebilir. Yani, taksirle işlenen suçlarda sanık 5 yıl ceza alsa bile bu ceza miktarına bakılmaksızın adli para cezasına çevrilebilir (TCK md. 50/4).
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/38ce502132aa0b3f1e781b7b89f7466005478dac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a6a6a315a472e6a7067 "Ceza Avukatı")
 
-**Kasten işlenip adli para cezasına çevrilebilecek bazı suçlar aşağıdadır:**
+**Kasten işlenen ve adli para cezasına çevrilebilecek bazı suçlar aşağıdadır:**
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) (örneğin, 10 ay hapis cezası), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) 
