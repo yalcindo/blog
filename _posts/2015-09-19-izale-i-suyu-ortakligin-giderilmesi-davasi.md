@@ -15,7 +15,7 @@ summary: İzale-i Şuyu Davası (Ortaklığın Giderilmesi Davası) Nedir? Ortak
 
 ## Ortaklığın Giderilmesi (İzale-i Şuyu) Davası Kime Karşı Açılır?
 
-Ortaklığın giderilmesi davası,  menkul veya gayrimenkule ortak olan tüm paydaşlara karşı açılır. Herhangi bir paydaş taşınır veya taşınmaz maldaki ortaklığa son verilerek ortaklığın bitirilmesini talep edebilir. Paydaşlar, kendi aralarında malı nasıl pay edeceklerine dair bir anlaşma yaparak ortaklığa son verebilirler.  Anlaşma yoluyla ortaklık sonlandırılamaz ise, paydaşlardan biri diğer tüm paydaşlar aleyhine **izale-i şuyu davası** açarak dava yoluyla ortaklığın giderilmesini isteyebilir.
+Ortaklığın giderilmesi davası,  menkul veya gayrimenkule ortak olan tüm paydaşlara karşı açılır. Herhangi bir paydaş taşınır veya taşınmaz maldaki ortaklığa son verilerek ortaklığın bitirilmesini talep edebilir. Paydaşlar, kendi aralarında malı nasıl pay edeceklerine dair bir anlaşma yaparak ortaklığa son verebilirler.  Anlaşma yoluyla ortaklık sonlandırılamaz ise, paydaşlardan biri diğer tüm paydaşlar aleyhine *izale-i şuyu davası* açarak dava yoluyla ortaklığın giderilmesini isteyebilir.
 
 Tüm paydaşların ortaklığın giderilmesi davasında yer alması zorunludur. Paydaşlardan birinin ölümü halinde mirasçılık belgesinde ismi geçen tüm mirasçıların davaya dahil edilmesi gerekir.  Tüm ortaklar davaya dahil edilmeden davanın sonuçlandırılması mümkün değildir.
 
@@ -44,6 +44,6 @@ Taşınmazın aynen taksimi mümkün değilse ortaklığın satış suretiyle gi
 
 Paydaşlığın ( ortaklığın ) satış yoluyla giderilmesi halinde dava konusu taşınmaz üzerinde bina, ağaç v.s. gibi bütünleyici parçalar ( muhdesat ) varsa bunların arzla birlikte satılması gerekir. Ancak muhdesatın bir kısım paydaşlara ( ortaklara ) ait olduğu konusunda tapuda şerh varsa veya bu hususta bütün paydaşlar ittifak ediyorlarsa ve muhdesat arzın değerinde bir artış meydana getiriyorsa bu artışın belirlenmesi için dava tarihi itibariyle arzın ve muhdesatın değerleri ayrı ayrı tespit edilir. Belirlenen bu değerler toplanarak taşınmazın tüm değeri bulunur. Bulunan bu değerin ne kadarının arza ne kadarının muhdesata isabet ettiği yüzdelik ( %... ) oran kurulmak suretiyle belirlenir. Satış sonunda elde edilecek bedelin bölüştürülmesi de bu oranlar esas alınarak yapılır. Muhdesata isabet eden kısım muhdesat sahibi paydaşa, geri kalan bedel ise payları oranında paydaşlara ( ortaklara ) dağıtılır.
 
-**Ortaklığın giderilmesi (izale-i şüyu) davası,** ferdi mülkiyete geçmek isteyen mülk sahibinin bu hakkını güvence altına alan, ama bu arada tüm paydaşların haklarını eşit bir şekilde koruyan bir gahrimenkul davası çeşididir.
+**Ortaklığın giderilmesi (izale-i şüyu) davası,** ferdi mülkiyete geçmek isteyen mülk sahibinin bu hakkını güvence altına alan, ama bu arada tüm paydaşların haklarını eşit bir şekilde koruyan bir gayrimenkul davası olarak mutlaka bir [gayrimenkul avukatı](https://barandogan.av.tr/blog/gayrimenkul-hukuku/gayrimenkul-avukati-istanbul.html) tarafından takip edilmelidir.
 
 **Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
