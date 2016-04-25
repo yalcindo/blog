@@ -3,7 +3,7 @@ layout: blog
 title: Güveni Kötüye Kullanma Suçu (Emniyeti Suistimal)
 category: ceza-hukuku
 googleAnahtar: Güveni kötüye kullanma, Güveni kötüye kullanma suçu cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, İstanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
-summary: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları
+summary: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Cezası, Hizmet Nedeniyle Güveni Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları
 keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye Kullanma Suçu Şartları ve Cezası, Hizmet Nedeniyle Görevi Kötüye Kullanma Suçu, Emniyeti Suistimal Suçu ve Şikayet, Güveni Kötüye Kullanma Suçu Yargıtay Kararları, Florya Avukat, ceza avukatı, bakırköy avukat, hukuk bürosu
 ---
 
@@ -11,13 +11,13 @@ keywords: Güveni Kötüye Kullanma (Emniyeti Suistimal) Nedir? Güveni Kötüye
 
 ## Güveni Kötüye Kullanma Nedir?
 
-**Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan *hizmet ilişkisinin* kötüye kullanılması suretiyle **güveni kötüye kullanma suçu** işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
+**Güveni kötüye kullanma,** muhafazası veya belirli bir şekilde kullanılması için kendisine zilyetliği devredilen malı devralan şahsın, zilyetliğin devri amacı dışında kendisinin veya başkasının yararına olarak malı kullanması veya zilyetliğin devri olgusunu inkar etmesidir. **Hizmet nedeniyle güveni kötüye kullanma,** zilyetliği devreden ile devralan arasında mevcut olan *hizmet ilişkisinin* kötüye kullanılması suretiyle *güveni kötüye kullanma suçu* işlenmesi halinde meydana gelir. Güveni kötüye kullanma suçu, emniyeti suiistimal suçu olarak da adlandırılmaktadır.
 
 Güveni kötüye kullanma suçu (emniyeti suistimal suçu) beş farklı şekilde meydana gelebilir:
 
 * Zilyetliğin devir amacı dışında kullanılması şeklindeki basit güveni kötüye kullanma suçu (TCK md. 155/1),
 
-* **Hizmet nedeniyle güveni kötüye kullanma** (TCK md. 155/2),
+* *Hizmet nedeniyle güveni kötüye kullanma* (TCK md. 155/2),
 
 * Meslek veya sana nedeniyle emniyeti suistimal (TCK md. 155/2),
 
