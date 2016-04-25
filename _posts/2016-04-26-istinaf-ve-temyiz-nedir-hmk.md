@@ -18,7 +18,7 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukuk İstinaf �
 
 Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), [Ceza Davası İstinaf Kanun Yolu](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
 
-## İstinaf Mahkemesine Nasıl Başvurulur
+## İstinaf Mahkemesine Nasıl Başvurulur 
 
 Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir istinaf başvurusu yapılmış olması gerekir. İlk derece mahkemesi bir hükmü kendiliğinden istinaf incelemesi için istinaf mahkemesine göndermez.
 
@@ -26,7 +26,9 @@ Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir i
 
 ## Bölge Adliye Mahkemesi İstinaf Başvuru Süresi
 
-İstinaf başvurusu yapılabilmesi için hukuk davası için istinaf başvuru süresi, hükmün usulüne uygun tebliğinden itibaren iki haftadır (HMK md. 345).
+İstinaf başvuru süresinin başlaması için hükmün usulüne uygun bir şekilde taraflara tebliğ veya tefhim edilmesi gerekir. Usulüne uygun yapılmayan tefhim (duruşmada hazır olan tarafa kararı bildirme) veya tebliğ, istinaf başvuru süresinin işlemeye başlamasını engeller.
+
+Hukuk davası için istinaf başvuru süresi, hükmün usulüne uygun tebliği veya tefhiminden itibaren iki haftadır (HMK md. 345).
 
 
 
