@@ -29,7 +29,7 @@ Avukat, mesleğini geçici olarak icra ettiği yerdeki üyesi olmadığı baronu
 
 ### AB Meslek Kuralları ve Avukat - Müvekkil İlişkisi
 
-#### 1. Avukat – Müvekkil İlişkisinin Başlaması ve Bitmesi
+#### Avukat – Müvekkil İlişkisinin Başlaması ve Bitmesi
 
 Avukat, ancak müvekkilden vekalet aldığında faaliyetine başlar.  Yetenek ve bilgisi dışındaki bir iş kabul etmemekle mükelleftir. Avukat acil olarak ilgilenmesi gereken başka işler var ise kendisine gelen acil bir işi almamalıdır.
 
@@ -37,7 +37,7 @@ Avukat, belli bir işten veya davadan çekinme hakkına sahipse bu hakkını mü
 
 Avukat - müvekkil ilişkisi vekalet ilişkisinin bitmesiyle sona erer.
 
-#### 2. Avukat ve Menfaatlerin Çatışması
+#### Avukat ve Menfaatlerin Çatışması
 
 Savunduğu birden fazla müvekkilinin menfaatleri arasında çatışma meydana geleceğini gören avukat, aynı dava veya işte birden fazla müvekkili temsilen avukatlık yapamaz. Menfaat çatışması ortaya çıktığında veya bağımsızlığı zedelendiğinde avukat müvekkillerinin o davadaki işlerini bırakmak zorundadır.
 
@@ -52,7 +52,7 @@ Avukat tarafından işin takibi için alınacak vekalet ücreti hakkaniyete uygu
 Müvekkil ile  vekalet ücret sözleşmesi yoksa avukat üyesi bulunduğu baronun normlarıyla bağlıdır.
 Avukat, işin takibi için makul oranda bir avans talep edebilir. Avans ödenmediği zaman çekilme hakkını kullanabilir.
 
-#### 4. Avukat ve Mesleki Sorumluluk Sigortası
+#### Avukat ve Mesleki Sorumluluk Sigortası
 
 Avukat mesleki faaliyetini yaptığı işle orantılı bir şekilde sigortalayarak güvence altına almalıdır. AB üyesi başka bir ülkede mesleğini yaparken avukat üyesi olduğu baronun bulunduğu yerin sigorta yükümlülüğü kurallarına tabidir.
 
