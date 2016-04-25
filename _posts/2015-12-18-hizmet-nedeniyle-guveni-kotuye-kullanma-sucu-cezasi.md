@@ -37,29 +37,29 @@ Suçun nitelikli hallerinde şikayet süresi yoktur. Suçun nitelikli hallerinin
 
 Güven ilişkisi sosyal düzenin devamı için önemli bir hukuki değer olarak kabul edilmektedir. Kişisel veya kamu güveninin ihlal edilmesi TCK’nın çeşitli maddelerinde ceza yaptırımıyla karşılanmıştır. Güveni kötüye kullanma suçu şartları da TCK 155. maddede tüm unsurlarıyla açıklanmıştır. 
 
-### 1-) Güveni Kötüye Kullanma Suçu ve Sözleşme ilişkisi
+### Güveni Kötüye Kullanma Suçu ve Sözleşme ilişkisi
 
 **Güveni kötüye kullanma suçu şartları** açısından en önemli olgu, malın mülkiyet hakkı sahibi ile zilyet arasında hukuken geçerli bir sözleşme ilişkisi olmasıdır. Sözleşme tarafların “aldatılmamış” özgür iradesi ile kurulmalıdır. Fail ile mülkiyet hakkı sahibi arasında geçerli bir sözleşme ilişkisi yoksa suçun şartları oluşmaz. Eğer mal, mülkiyet hakkı sahibinin iradesi yanıltılarak, hile ve aldatma ile alınmışsa geçerli bir hukuki sözleşmeden bahsedilemeyeceği gibi, fiil dolandırıcılık suçu teşkil eder. 
 
 Sözleşme yazılı olabileceği gibi sözlü şekilde de yapılabilir. Sözleşmenin hukuken geçerli ve hukuka uygun bir sözleşme ilişkisi olması, suçun şartlarının vücut bulması için zorunludur.
 
-### 2-) Güveni Kötüye Kullanma Suçu ve Zilyetlik
+### Güveni Kötüye Kullanma Suçu ve Zilyetlik
 
 Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiyeti olarak tanımlanabilir. Zilyetlik hakkına sahip kişiye “zilyet” denilmektedir. Zilyetlik, mülkiyete göre geniş bir kavramdır, çünkü bir kişi malın mülkiyet hakkı sahibi olmasa bile malın zilyedi olabilir. Mülkiyet hakkı sahibi kişinin zilyetliğine “asli zilyetlik”, mülkiyet hakkı sahibinden zilyetliği devralan kişi “feri zilyet” olarak kabul edilir. Örneğin, bir evin mülkiyet hakkı sahibi asli zilyet, evin kiracısı feri zilyet olarak kabul edilir.
 
 **Emniyeti suistimal suçu** açısından zilyetlik kilit önemde bir kavramdır. Suçun ihdas edilme amacı nihayetinde mülkiyeti korumaktır. Mülkiyetin en geniş bir biçimde korunması için zilyetliğin korunması gerekir. Emniyeti suistimal suçu şartlarının oluşması için zilyetlik açısından şu unsurların gerçekleşmesi gerekir:
 
-* **a- Zilyetliğin Devri:** Emniyeti suistimal suçunun oluşması için malın zilyetliğinin suçu işleyen kişiye devredilmesi gerekir. Zilyetliği devredilen mal, taşınır veya taşınmaz bir mal olabilir. Taşınır mal, “misli bir mal” (aynısı olan mal) ise zilyetliği devredilen malın misli olan herhangi bir mal geri mal sahibine teslim edilemezse suç oluşur. Örneğin, kendisine bir düğünde kullanılmak üzere verilen bir takıyı satan kişi, aynı takıdan mal sahibine satın alıp geri verirse suç vücut bulmaz. Ancak, misli olmayan (aynısı olmayan) malların değeri kadar para verilmesi emniyeti suiistimal suçunun oluşmasını engellemez. Maddi zararın karşılanması yazımızda değineceğimiz üzere sadece bir ceza indirimi nedenidir. Zilyetlik, ya malın belirli bir şekilde kullanılması ya da malın muhafazası için faile devredilmelidir. Örneğin, kendisine muhafaza etmek için bırakılan çek veya senedi, ciro ederek ticari faaliyetinde kullanan kişi, çek veya senedi zilyetliğin devir amacı dışında kullandığı için ticaret sebebiyle güveni kötüye kullanma suçu oluşur.	
+* **Zilyetliğin Devri:** Emniyeti suistimal suçunun oluşması için malın zilyetliğinin suçu işleyen kişiye devredilmesi gerekir. Zilyetliği devredilen mal, taşınır veya taşınmaz bir mal olabilir. Taşınır mal, “misli bir mal” (aynısı olan mal) ise zilyetliği devredilen malın misli olan herhangi bir mal geri mal sahibine teslim edilemezse suç oluşur. Örneğin, kendisine bir düğünde kullanılmak üzere verilen bir takıyı satan kişi, aynı takıdan mal sahibine satın alıp geri verirse suç vücut bulmaz. Ancak, misli olmayan (aynısı olmayan) malların değeri kadar para verilmesi emniyeti suiistimal suçunun oluşmasını engellemez. Maddi zararın karşılanması yazımızda değineceğimiz üzere sadece bir ceza indirimi nedenidir. Zilyetlik, ya malın belirli bir şekilde kullanılması ya da malın muhafazası için faile devredilmelidir. Örneğin, kendisine muhafaza etmek için bırakılan çek veya senedi, ciro ederek ticari faaliyetinde kullanan kişi, çek veya senedi zilyetliğin devir amacı dışında kullandığı için ticaret sebebiyle güveni kötüye kullanma suçu oluşur.	
 
-* **b- Zilyetliğin Bizzat Malın Sahibi Tarafından Devri Gerekir:** Suçun meydan gelmesi için zilyetlik, suçu işleyen kişiye rızai bir şekilde “bizzat” devredilmesi gerekir. Zilyede bizzat teslim edilmemiş bir malda tasarruf edilmesi halinde başka suçlar meydana gelir. Örneğin, babasına teslim edilen bir malı satan kişi bu maddedeki suçu değil, hırsızlık suçunu işlemiş olur. Çünkü mal kendisine değil babasına teslim edilmiştir. Suçu işleyen kişi, zilyetliği mal sahibinin rızası veya bilgisi dışında ele geçirmişse emniyeti suistimal suçu değil, işlenen fiilin özelliklerine göre hırsızlık suçu, yağma suçu, dolandırıcılık suçu veya mala zarar verme suçu meydana gelebilir.	
+* **Zilyetliğin Bizzat Malın Sahibi Tarafından Devri Gerekir:** Suçun meydan gelmesi için zilyetlik, suçu işleyen kişiye rızai bir şekilde “bizzat” devredilmesi gerekir. Zilyede bizzat teslim edilmemiş bir malda tasarruf edilmesi halinde başka suçlar meydana gelir. Örneğin, babasına teslim edilen bir malı satan kişi bu maddedeki suçu değil, hırsızlık suçunu işlemiş olur. Çünkü mal kendisine değil babasına teslim edilmiştir. Suçu işleyen kişi, zilyetliği mal sahibinin rızası veya bilgisi dışında ele geçirmişse emniyeti suistimal suçu değil, işlenen fiilin özelliklerine göre hırsızlık suçu, yağma suçu, dolandırıcılık suçu veya mala zarar verme suçu meydana gelebilir.	
 
-* **c- Zilyetliğin Devri Amacı Dışında Tasarruf veya Devir Olgusunun İnkarı:**  Fail, zilyetliğin devir amacı dışında tasarrufta bulunmalı veya bu devir olgusunu inkâr etmelidir. Malın sahibi olan kişi (gerçek kişi, şirket, vakıf vs.), zilyetliği belli bir şekilde kullanılmak üzere zilyet olan kişiye devreder. Zilyet, malı sahibine geri teslim edene kadar devir amacına uygun kullanırsa suç oluşmaz. Ancak, zilyet malı devir amacı dışında kullanırsa, kendisine teslim edilen malı malın sahibiymiş gibi  satar, rehneder, tüketir, değiştirir,  bozar vb. şekillerde tasarrufta bulunursa güveni kötüye kullanma suçu oluşur. Örneğin, Finansal Kiralama Sözleşmesi gereği, sözleşme feshedilirse iade edilmesi gereken iş makinası, kiracı tarafından iade edilmezse suç oluşur.	Fail, mal sahibi tarafından rızai bir şekilde kendisine devredilen malın devredilmesi olgusunu inkar ederse yine suç oluşur. Örneğin, kendisine bankaya yatırmak üzere teslim edilen parayı teslim almadığını ileri süren failin, parayı teslim aldığı ispatlanırsa suç işlenmiş olur.
-
-
+* **Zilyetliğin Devri Amacı Dışında Tasarruf veya Devir Olgusunun İnkarı:**  Fail, zilyetliğin devir amacı dışında tasarrufta bulunmalı veya bu devir olgusunu inkâr etmelidir. Malın sahibi olan kişi (gerçek kişi, şirket, vakıf vs.), zilyetliği belli bir şekilde kullanılmak üzere zilyet olan kişiye devreder. Zilyet, malı sahibine geri teslim edene kadar devir amacına uygun kullanırsa suç oluşmaz. Ancak, zilyet malı devir amacı dışında kullanırsa, kendisine teslim edilen malı malın sahibiymiş gibi  satar, rehneder, tüketir, değiştirir,  bozar vb. şekillerde tasarrufta bulunursa güveni kötüye kullanma suçu oluşur. Örneğin, Finansal Kiralama Sözleşmesi gereği, sözleşme feshedilirse iade edilmesi gereken iş makinası, kiracı tarafından iade edilmezse suç oluşur.	Fail, mal sahibi tarafından rızai bir şekilde kendisine devredilen malın devredilmesi olgusunu inkar ederse yine suç oluşur. Örneğin, kendisine bankaya yatırmak üzere teslim edilen parayı teslim almadığını ileri süren failin, parayı teslim aldığı ispatlanırsa suç işlenmiş olur.
 
 
 
-### 3-) Güveni Kötüye Kullanma Suçu ve Haksız Yarar Sağlama
+
+
+### Güveni Kötüye Kullanma Suçu ve Haksız Yarar Sağlama
 
 Güveni kötüye kullanılması suçunun meydana gelmesi için failin haksız yarar sağlaması şart değildir. TCK 155. maddede zilyetliğin kötüye kullanılması veya devir olgusunun inkar edilmesi suretiyle “kendisinin veya başkasının yararına olarak”  mal üzerinde tasarrufta bulunulması halinde cezalandırılmaktadır. Her ne kadar maddede geçen “yararına olarak” ifadesi, failin haksız bir yarar elde etmesi gerektiği intibaı uyandırsa da, bu suç tipinde failin somut bir yarar sağlaması şart değildir. Suçun işlenmesiyle somut bir zarar oluşması da şart değildir. Zilyetlik konusu malda zilyetliğin devir amacı dışında tasarrufta bulunulması veya devir olgusunun inkar edilmesi suçun vücut bulması için yeterlidir.
 
@@ -105,19 +105,19 @@ Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi v
 
 ### Güveni Kötüye Kullanma Suçu ile Diğer Bazı Suçlar Arasındaki İlişki
 
-#### 1-) Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
+#### Hırsızlık Suçu ve Güveni Kötüye Kullanma İlişkisi
 
 [Hırsızlık suçu](http://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), sadece taşınır mallar üzerinde ve mal sahibinin rızası dışında malın bulunduğu yerden alınmasıyla meydana gelir. Hırsızlık suçunda failin başından beri suçun konusu malın mülkiyetini elde etme amacı, yani suç kastı başından beri mevcuttur.
 
 Güveni kötüye kullanma suçu ise mal sahibinin kendi rızasıyla malı teslim etmesi, teslim alanın devir amacına aykırı kullanması veya devri inkar etmesiyle oluşur. Suç, hem taşınır mallar hem de taşınmaz mallar üzerinde işlenebilen bir suçtur.  Emniyeti suiistimal suçunda failin kastı hırsızlık suçu gibi başından beri yoktur, suç işleme kastı sonradan meydana gelmektedir.
 
-#### 2-) Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
+#### Dolandırıcılık Suçu ve Güveni Kötüye Kullanma Suçu 
 
 [Dolandırıcılık suçu](http://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), mağdurun özgür iradesinin hileyle aldatılarak malın elinden alınması halinde oluşur. Dolandırıcılık suçunun tamamlanabilmesi için failin “haksız bir çıkar” sağlaması şarttır. Dolandırıcılık suçu işleyen fail başından beri suç kastıyla hareket etmektedir.
 
 Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim ettiği mal üzerinde gerçekleşir. Failin haksız bir çıkar sağlaması şart olmayıp, zilyetliğin devri amacına aykırı kullanım veya devir olgusunun inkar edilmesi suçun işlenmesi için yeterlidir.
 
-#### 3-) Zimmet Suçu ve Emniyeti Suistimal Suçu
+#### Zimmet Suçu ve Emniyeti Suistimal Suçu
 
 [Zimmet suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html), görevi nedeniyle kendisine teslim edilen malvarlığı değerleri üzerinde işlenebilir. Zimmet suçu ancak bir kamu görevlisi tarafından işlenebilir. Emniyeti suistimal suçu herkes tarafından işlenebilen ve güven ilişkisine dayalı bir suçtur.
 
