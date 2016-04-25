@@ -11,11 +11,11 @@ summary: İftira suçu nedir? İftira Suçu Şikayet Süresi, İftira Atma Suçu
 
 ## İftira Suçu Nedir?
 
-**İftira suçu,** hakkında savcılık soruşturması açılması veya idari yaptırım uygulanmasını sağlamak için bir kimseye hukuka aykırı bir fiil isnat edilmesidir. Yani, fail masum olduğunu bildiği bir kişiye suç atmaktadır. Mağdurun “hukuka aykırı bir fiil işlemediğini bildiği halde” iftira atma, **iftira suçu şartları** açısından en önemli olgudur. İftira suçu ile mağdura somut ve belirli bir fiil isnat edilmektedir. Belirsiz bir fiil isnat edilmesi halinde iftira suçu oluşmaz.
+**İftira suçu,** hakkında savcılık soruşturması açılması veya idari yaptırım uygulanmasını sağlamak için bir kimseye hukuka aykırı bir fiil isnat edilmesidir. Yani, fail masum olduğunu bildiği bir kişiye suç atmaktadır. Mağdurun “hukuka aykırı bir fiil işlemediğini bildiği halde” iftira atma, *iftira suçu şartları* açısından en önemli olgudur. İftira suçu ile mağdura somut ve belirli bir fiil isnat edilmektedir. Belirsiz bir fiil isnat edilmesi halinde iftira suçu oluşmaz.
 
 ## İftira Suçu Şikayet Süresi
 
-**İftira suçu,** şikayete tabi suçlardan değildir. Suçun mağduru hem kişidir hem de iftira nedeniyle soruşturma başlatan veya idari yaptırım kararı uygulayan kamu makamlarıdır. Bu nedenle iftira suçunun soruşturulması veya kovuşturulması mağdurun şikayetine bağlı değildir. Savcılık suçun işlendiğini öğrendiği anda soruşturma başlatmak zorundadır. İftira suçu ile ilgili herhangi bir şikayet süresi olmamasına rağmen, savcılık suçun işlenmesinden itibaren 8 yıl içinde, yani dava zamanaşımı süresi içinde soruşturma başlatmalıdır. 8 yıllık dava zamanaşımı süresi geçtikten sonra iftira suçu soruşturulamaz.
+*İftira suçu,* şikayete tabi suçlardan değildir. Suçun mağduru hem kişidir hem de iftira nedeniyle soruşturma başlatan veya idari yaptırım kararı uygulayan kamu makamlarıdır. Bu nedenle iftira suçunun soruşturulması veya kovuşturulması mağdurun şikayetine bağlı değildir. Savcılık suçun işlendiğini öğrendiği anda soruşturma başlatmak zorundadır. İftira suçu ile ilgili herhangi bir şikayet süresi olmamasına rağmen, savcılık suçun işlenmesinden itibaren 8 yıl içinde, yani dava zamanaşımı süresi içinde soruşturma başlatmalıdır. 8 yıllık dava zamanaşımı süresi geçtikten sonra iftira suçu soruşturulamaz.
 
 
 ### ![İftira Suçu](https://camo.githubusercontent.com/a049e79762af237a4fc5b0d6a0e32238355e186d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e674430764e2e6a7067 "İftira suçu")
@@ -23,19 +23,19 @@ summary: İftira suçu nedir? İftira Suçu Şikayet Süresi, İftira Atma Suçu
 
 ## İftira Suçu Şartları, Unsurları [(TCK md. 267)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5216)
 
-**İftira suçu,** ani hareketli ve şekli bir suçtur. İftira suçu, tehlike suçu niteliğinde olduğundan iftira suçu şartları arasında “suç neticesinde bir zarar meydana gelmesi” şartı mevcut değildir. İşlenen suç neticesinde bir zarar meydana gelip gelmemesi önemli değildir, mağdur tarafından işlenmediği bilenen hukuka aykırı bir fiilin mağdura isnat edilmesi yeterlidir. İftira suçu koşulları şunlardır:
+İftira suçu, ani hareketli ve şekli bir suçtur. İftira suçu, tehlike suçu niteliğinde olduğundan iftira suçu şartları arasında “suç neticesinde bir zarar meydana gelmesi” şartı mevcut değildir. İşlenen suç neticesinde bir zarar meydana gelip gelmemesi önemli değildir, mağdur tarafından işlenmediği bilenen hukuka aykırı bir fiilin mağdura isnat edilmesi yeterlidir. İftira suçu koşulları şunlardır:
 
-### 1- İftira Suçu ve Hukuka Aykırı Bir Fiil İsnat Edilmesi
+### İftira Suçu ve Hukuka Aykırı Bir Fiil İsnat Edilmesi
 
 İftira suçunun oluşması için en önemli şart, mağdura hukuka aykırı bir fiil isnat edilmesidir. Fail, mağdura isnat ettiği hukuka aykırı fiili mağdurun işlemediğini de bilmelidir. Mağdura isnat edilen hukuka aykırı fiilin başkası tarafından işlenip işlenmediğinin de bir önemi yoktur. Önemli olan husus hukuka aykırı fiili mağdurun işlememiş olmasıdır. İsnadın objektif olarak gerçek dışı olması, yani isnat edilen fiil ile gerçeğin uyuşmaması gerekir. Örneğin; Gerçekte işlemediğini bildiği halde, “Ahmet, İstanbul ili Bakırköy İlçesinde bulunan X mağazasında hırsızlık yaptı” şeklinde bir ihbar dilekçesiyle savcılığa başvurulması halinde iftira suçu tamamlanmış olur.
 
 Mağdura isnat edilen fiil nedeniyle idarenin veya savcılığın harekete geçmesi şart değildir. İsnat edilen fiilin kamu makamlarını harekete geçirmeye elverişli olması yeterlidir. Örneğin, gerçeğin öyle olmadığını bildiği halde, bir arsaya gece dökülen molozların komşusu “X “şahsı tarafından döküldüğünü iddia eden “Y” şahsı, X şahsını İstanbul Bahçelievler Belediyesi’ne şikayet etmiştir. Bahçelievler Belediyesi , harekete geçip X şahsı hakkında idari para cezası yaptırımı uygulamadan molozların başkası tarafından döküldüğü ortaya çıkmıştır. Söz konusu somut olayda Bahçelievler Belediyesi’nin X şahsı hakkında harekete geçip geçmemesinin bir önemi yoktur. İsnat edilen fiil, X şahsı hakkında idari yaptırım uygulanmasına elverişli bir fiil olduğu için Y şahsı iftira suçu işlemiştir.
 
-### 2- İftira Suçu ve Suçun Tamamlanma Anı
+### İftira Suçu ve Suçun Tamamlanma Anı
 
-**İftira suçu,** şekli bir suçtur. Belirli hareketlerin yapılması suçun işlenmesi için yeterlidir. İftira suçunun tamamlanma anı hukuka aykırı isnat edilen fiilin kamu makamlarına bildirimi ve bu makamların öğrenmesiyle tamamlanır. Soruşturmaya veya idari yaptırım kararı uygulamaya yetkili kamu makamlarının hukuka aykırı isnadı öğrenmesi yeterlidir. İftira suçunun oluşumu için ayrıca soruşturma veya kovuşturma yapılması, idari yaptırım kararı uygulanması şart değildir.
+İftira suçu, şekli bir suçtur. Belirli hareketlerin yapılması suçun işlenmesi için yeterlidir. İftira suçunun tamamlanma anı hukuka aykırı isnat edilen fiilin kamu makamlarına bildirimi ve bu makamların öğrenmesiyle tamamlanır. Soruşturmaya veya idari yaptırım kararı uygulamaya yetkili kamu makamlarının hukuka aykırı isnadı öğrenmesi yeterlidir. İftira suçunun oluşumu için ayrıca soruşturma veya kovuşturma yapılması, idari yaptırım kararı uygulanması şart değildir.
 
-### 3- İftira Suçu Özel Kast ile İşlenebilen Bir Suçtur
+### İftira Suçu Özel Kast ile İşlenebilen Bir Suçtur
 
 İftira suçunun oluşumu için iftira atanın özel bir kast ile hareket etmesi gerekir. Fail, mağdurun bir soruşturma veya kovuşturmaya maruz kalmasını veya mağdur hakkında idari bir yaptırım uygulanmasını sağlamak için hukuka aykırı bir fiil isnat etmelidir.
 
@@ -46,7 +46,7 @@ Somut bir vakıada fiile dair hukuka uygunluk nedeni varsa, hukuka aykırı bir 
 
 
 
-### 4- İftira Suçu İşleme Biçimleri
+### İftira Suçu İşleme Biçimleri
 
 * **Şikayet Yoluyla İftira Suçu:** Şikayet yoluyla iftira suçunun işlenebilmesi için şikayet başvurusunun, şikayeti soruşturmaya veya idari yaptırım uygulamaya yetkili makamlara yapılması gerekir. Savcılık veya soruşturma yetkilerine sahip polis, jandarma gibi kolluk güçleri, şikayet başvurusunu soruşturmaya yetkili makamlardır.
 
@@ -62,7 +62,7 @@ Basın yayın yoluyla işlenen iftira suçu nedeniyle yargılanan kişi hakkınd
 
 ### Başkasına Ait Kimlik Bilgilerinin Kullanılması Suretiyle İftira Suçu [(TCK md. 268)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5217)
 
-Başkasına ait kimlik bilgilerinin kullanılması en sık işlenen suçlardan biridir. Başkasına ait kimlik bilgileri birçok farklı nedenle kullanılabilir. İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma yapılmasını engellemek amacıyla, başkasına ait kimliği veya kimlik bilgilerini kullanan kimse, iftira suçuna ilişkin hükümlere göre cezalandırılır. Başkasının kimlik bilgilerini suç işlemek için kullanan kişi koşulları varsa [Resmi Evrakta Sahtecilik Suçu]( https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) hükümlerine göre cezalandırılır. Bu madde hükümleri, başkasının kimlik bilgilerinin kullanılması suretiyle, sadece kendisi hakkındaki somut bir soruşturma ve kovuşturma yapılmasını engellemeye çalışan kişi hakkında uygulanır. Başkasının kimlik bilgilerini kullanan kişi adeta üçüncü bir kişiye iftira atıyormuş gibi iftira suçu hükümleri çerçevesinde cezalandırılır.
+Başkasına ait kimlik bilgilerinin kullanılması en sık işlenen suçlardan biridir. Başkasına ait kimlik bilgileri birçok farklı nedenle kullanılabilir. İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma yapılmasını engellemek amacıyla, başkasına ait kimliği veya kimlik bilgilerini kullanan kimse, iftira suçuna ilişkin hükümlere göre cezalandırılır. Başkasının kimlik bilgilerini suç işlemek için kullanan kişi koşulları varsa [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) hükümlerine göre cezalandırılır. Bu madde hükümleri, başkasının kimlik bilgilerinin kullanılması suretiyle, sadece kendisi hakkındaki somut bir soruşturma ve kovuşturma yapılmasını engellemeye çalışan kişi hakkında uygulanır. Başkasının kimlik bilgilerini kullanan kişi adeta üçüncü bir kişiye iftira atıyormuş gibi iftira suçu hükümleri çerçevesinde cezalandırılır.
 
 
 
