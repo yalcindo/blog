@@ -48,7 +48,7 @@ Kişiyi hürriyetinden yoksun kılma suçu, cebir, tehdit ve hile kullanılarak 
 
 Kişiyi hürriyetinden yoksun kılma suçunun diğer nitelikli halleri ve cezaları aşağıda ayrı ayrı açıklanmıştır.
 
-### 1- Cebir, Tehdit ve Hile Kullanarak Kişiyi Hürriyetinden Yoksun Kılma (TCK md. 109/2)
+### Cebir, Tehdit ve Hile Kullanarak Kişiyi Hürriyetinden Yoksun Kılma (TCK md. 109/2)
 
 
 Kişiyi hürriyetinden yoksun bırakma suçunda cebir fiilin başlangıç aşamasında mevcutsa fiil devam ederken cebir uygulanmamasının bir önemi yoktur. Fiilin başlangıcında mağdurun direncini kırmak için yeterli bir cebir uygulanmışsa suçun bu fıkradaki nitelikli hali meydana gelir.
@@ -59,7 +59,7 @@ Hile, failin belli davranışlar veya sözler kullanarak mağduru aldatması, ma
 
 Kişiyi hürriyetinden yoksun kılma suçu, cebir, tehdit ve hile kullanılarak işlenirse TCK md.109/2’ye göre cezası 2 yıldan 7 yıla kadar hapis cezası olan suçun nitelikli hallerinden biri  meydana gelir.
 
-### 2- Silahla Kişiyi Hürriyetinden Yoksun Bırakma (TCK md. 109/3-a)
+### Silahla Kişiyi Hürriyetinden Yoksun Bırakma (TCK md. 109/3-a)
 
 Silahla bir kimsenin hareket özgürlüğünün kısıtlanması halinde de suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır. 
 
@@ -67,13 +67,13 @@ Silah kavramının ne anlama geldiği üzerinde de durmak gerekir. TCK md. 6’y
 
 Kişiyi hürriyetinden yoksun bırakma suçunun silahla işlenmesi halinde suçun temel şeklinin cezası, 2 yıldan 10 yıla kadar hapis cezası olacaktır.  Silahla işlenen hürriyeti tahdit suçunda, mağdura dönük olarak ayrıca TCK md.109/2’de düzenlenen cebir, hile veya tehdit kullanılırsa suçun cezası 4 yıldan 14 yıla kadar hapis cezası olacaktır.
 
-### 3- Birden Fazla Kişi Tarafından Birlikte Hürriyeti Tahdit Suçu (TCK md. 109/3-b)
+### Birden Fazla Kişi Tarafından Birlikte Hürriyeti Tahdit Suçu (TCK md. 109/3-b)
 
 Kanun suçun birden fazla kişi tarafından işlenmesini nitelikli hal olarak düzenlemiştir. Hürriyeti tahdit suçunun bu nitelikli halinin gerçekleşebilmesi için suçun en az iki kişi tarafından birlikte işlenmesi gerekir. Suçun birlikte işlenmesi demek, en az iki kişinin müşterek fail olarak suçu işlemesi demektir. Yani, fiili işleyen kişiye yardım eden veya azmettiren müşterek fail olamayacağından, fail kişiyi hürriyetinden yoksun bırakma suçunun bu nitelikli haliyle cezalandırılamaz. 
 
 Birden fazla kişi tarafından birlikte  bir kimsenin hareket özgürlüğünün kısıtlanması halinde suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır. 
 
-### 4- Kişinin Yerine Getirdiği Kamu Görevi Nedeniyle Hürriyetinden Yoksun Bırakma (TCK md. 109/3-c)
+### Kişinin Yerine Getirdiği Kamu Görevi Nedeniyle Hürriyetinden Yoksun Bırakma (TCK md. 109/3-c)
 
 Bu fıkranın uygulanabilmesi için kişiyi hürriyetinden yoksun kılma suçunun mağdurun yerine getirdiği kamu görevi nedeniyle işlenmesi gerekir. Mağdur kamu görevlisi olmasına rağmen görevi nedeniyle değil de şahsi nedenlerle hürriyetinden yoksun bırakılması halinde bu fıkra hükümleri uygulanmaz. Mağdurun kamu görevi sona erse bile, kamu görevi bittikten sonra (emeklilik, işin bitmesi vs.) dahi görevinden dolayı hürriyetinden yoksun bırakılması bu fıkradaki suçun oluşmasına neden olur.
 
@@ -81,7 +81,7 @@ TCK md. 6/1-c maddesine göre kamu görevlisi, kamusal faaliyetin yürütülmesi
 
 Kişinin yerine getirdiği kamu görevi nedeniyle bir kimsenin hareket özgürlüğünün kısıtlanması halinde suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır.
 
-### 5- Kamu Görevinin Sağladığı Nüfuz Kötüye Kullanılmak Suretiyle Hürriyeti Tahdit Suçu (TCK md. 109/3-d)
+### Kamu Görevinin Sağladığı Nüfuz Kötüye Kullanılmak Suretiyle Hürriyeti Tahdit Suçu (TCK md. 109/3-d)
 
 
 Bu fıkranın uygulanması için önşart, failin “kamu görevlisi” olması ve “kamu görevinin sağladığı nüfuzu” kötüye kullanarak kişiyi hürriyetinden yoksun kılma suçunu işlemesidir.
@@ -90,19 +90,19 @@ Bu fıkranın uygulanması için önşart, failin “kamu görevlisi” olması 
 
 Kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle kişiyi hürriyetinden yoksun kılma suçu işlendiğinde, suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır.
 
-### 6- Üstsoy, Altsoy ve Eşe Karşı Kişiyi Hürriyetinden Yoksun Kılma Suçu (TCK md. 109/3-e)
+### Üstsoy, Altsoy ve Eşe Karşı Kişiyi Hürriyetinden Yoksun Kılma Suçu (TCK md. 109/3-e)
 
 Üstsoy, bir kimsenin anne, baba, dede, nine vb. gibi kendisinden önce doğan yakınlarıdır. Altsoy ise çocuklar, torunlar vb. gibi kendisinden sonra doğan yakınlarıdır. Eş, kişinin resmi nikahla evli olduğu kimsedir. Dini nikahla birlikte yaşayan kimselerin birbiri aleyhine kişiyi hürriyetinden yoksun kılma suçunu işlemeleri halinde fıkra hükümleri uygulanmaz. 
 
 Üstsoy, altsoy ve eşe karşı kişiyi hürriyetinden yoksun kılma suçu işlendiğinde, suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır.
 
-### 7- Çocuğa ya da Beden veya Ruh Bakımından Kendini Savunamayacak Durumda Bulunan Kişiye Karşı Hürriyeti Tahdit Suçu (TCK md. 109/3-f)
+### Çocuğa ya da Beden veya Ruh Bakımından Kendini Savunamayacak Durumda Bulunan Kişiye Karşı Hürriyeti Tahdit Suçu (TCK md. 109/3-f)
 
 TCK md. 6/1-b’ye göre çocuk, 18 yaşından küçük kimsedir. Çocuklar aleyhine işlenen suçlar, ceza hukukunda özellikle ağır yaptırımla karşılanmaktadır. Çünkü çocuklar doğaları gereği beden ve ruh bakımından savunmasızdır. Çocuklar dışında, yaşlılar, fiziksel veya mental açıdan engelli olanlar, hastalık nedeniyle güçsüz veya malul olanlar aleyhine kişiyi hürriyetinden yoksun kılma suçu işlendiğinde de fail suçun nitelikli haliyle cezalandırılır.
 
 Çocuğa ya da beden veya ruh bakımından kendini savunmayacak kişiye karşı hürriyetinden yoksun kılma suçu işlendiğinde, suçun TCK md.109/1’deki temel şekliyle, TCK md.109/2’daki nitelikli şeklinin cezası bir kat arttırılır.
 
-### 8- Kişiyi Hürriyetinden Yoksun Bırakma Suçunun Cinsel Amaçla İşlenmesi (TCK md. 109/5)
+### Kişiyi Hürriyetinden Yoksun Bırakma Suçunun Cinsel Amaçla İşlenmesi (TCK md. 109/5)
 
 Suçun cinsel amaçla işlenmesi kişiyi hürriyetinden yoksun bırakma suçunun en ağır nitelikli halidir. Suçun cinsel amaçla işlenmesinden kastedilen şey, failin cinsel arzularını tatmin etme gayesiyle hareket etmesidir. Failin cinsel amacının taciz veya tecavüz boyutunda olmasının önemi yoktur. Örneğin, fail nişanlısından ayrıldıktan sonra evlenmek amacıyla eski nişanlısını kaçırırsa cinsel amaçla kişiyi hürriyetinden yoksun kılma suçunu işlemiş olur. 
 
@@ -114,7 +114,7 @@ Cinsel amaçla kişiyi hürriyetinden yoksun kılma suçunun işlenmesi halinde 
 
 Kişiyi hürriyetinden yoksun kılma suçu nedeniyle mağdurun ayrıca bir ekonomik kaybı varsa fail bin güne kadar adli para cezası ile cezalandırılır.
 
-Hemen belirtelim ki, faile verilen adli para cezası mağdura değil, devlete ödenecektir.
+Hemen belirtelim ki, faile verilen adli para cezası mağdura değil devlete ödenecektir.
 
 ### Kişiyi Hürriyetinden Yoksun Bırakma Suçu ve Etkin Pişmanlık
 
