@@ -9,7 +9,7 @@ keywords: boşanmada mal paylaşımı, mal paylaşımı davası, boşanma halind
 ## Boşanmada Mal Paylaşımı Nedir?
 
 
-**Boşanmada mal paylaşımı,** sistem uygulayıcılar tarafından tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Taraflar açısından da çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, **mal paylaşımı** sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan **boşanmada mal paylaşımı** sistemini anlaşılır bir şekilde anlatmak istedik.
+**Boşanmada mal paylaşımı,** sistem uygulayıcılar tarafından tam olarak anlaşılamadığından birçok hukuki tartışmayı beraberinde getirmektedir. Taraflar açısından da çoğu zaman anlaşma yoluyla çözülebilecek uyuşmazlıklar, *mal paylaşımı* sistemi iyi algılanmadığı için mahkeme yoluyla çözüme kavuşmaktadır. **Mal paylaşımı,** boşanma sırasında karşılaşılan en önemli sorun olduğundan boşanmada mal paylaşımı sistemini anlaşılır bir şekilde anlatmak istedik.
 
 Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. Mal paylaşımı konusunda 01.01.2002 tarihinden önceki dönemin tabi olduğu hukuki kurallar ile bu tarihten sonraki dönemin tabi olduğu hukuki kurallar tamamen farklıdır. 
 
@@ -20,7 +20,7 @@ Mevcut Medeni Kanun’unun yürürlük tarihi 01.01.2002’dir. Mal paylaşımı
 Her iki dönem açısından da temel kural evlenmeden önce alınan mallar kimin üzerine kayıtlıysa onun kişisel malı sayılır ve boşanmada mal paylaşımında hesaba katılmaz.
 
 
-### ![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşianmada Mal Paylaşımı")
+### ![Boşanmada Mal Paylaşımı](https://camo.githubusercontent.com/1deac707d812d9f96a26d94ba4c3214c40b317a7/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a3230345a4a2e6a7067 "Boşanmada Mal Paylaşımı")
 
 ### Boşanmada Mal Paylaşımı Nasıl Yapılır?
 
@@ -94,13 +94,13 @@ Evlilik sırasında eşlerden birine bağışlanan her türlü ev, araba, para v
 
 ### Evlilikten Önce Alınan Malları Satılarak Evlilik İçinde Yeni Mal Satın Alınması
 
-**Mal paylaşımı,** evlilik içerisinde elde edilen malların paylaşımı esası üzerine kurulmuş bir sistemdir. Evlilikten önce alınan mallar, kişisel mal olarak kabul edilir. Dolayısıyla evlilikten önce alınan bir malın satılarak evlilik içinde yeni bir mal alınması halinde, bu mal üzerinde diğer eşin hak sahibi olması mümkün değildir. Ama evlilikten önce alınan malın değerine, bir miktar para veya mal eklenerek yeni bir mal alınırsa, bu eklenen değerin malda meydana getirdiği artık değerin yarısı üzerinde diğer eş hak sahibi olur.
+*Mal paylaşımı,* evlilik içerisinde elde edilen malların paylaşımı esası üzerine kurulmuş bir sistemdir. Evlilikten önce alınan mallar, kişisel mal olarak kabul edilir. Dolayısıyla evlilikten önce alınan bir malın satılarak evlilik içinde yeni bir mal alınması halinde, bu mal üzerinde diğer eşin hak sahibi olması mümkün değildir. Ama evlilikten önce alınan malın değerine, bir miktar para veya mal eklenerek yeni bir mal alınırsa, bu eklenen değerin malda meydana getirdiği artık değerin yarısı üzerinde diğer eş hak sahibi olur.
 
 
 
 ### Boşanmada Mal Paylaşımı ve Bir Eşin Üçüncü Kişilerden Aldığı Maddi ve Manevi Tazminat
 
-Manevi tazminatlar, kişisel mal olarak kabul edildiğinden **boşanmada mal paylaşımı** davasında diğer eşin manevi tazminat üzerinde hiçbir yasal hakkı yoktur. Maddi tazminatlar ise edinilmiş mal olarak kabul edilir. Yani, eşlerden biri bedensel zarar nedeniyle herhangi bir maddi tazminata hak kazanırsa, diğer eş boşanma halinde maddi tazminatın yarısı üzerinde hak sahibi olur.
+Manevi tazminatlar, kişisel mal olarak kabul edildiğinden *boşanmada mal paylaşımı* davasında diğer eşin manevi tazminat üzerinde hiçbir yasal hakkı yoktur. Maddi tazminatlar ise edinilmiş mal olarak kabul edilir. Yani, eşlerden biri bedensel zarar nedeniyle herhangi bir maddi tazminata hak kazanırsa, diğer eş boşanma halinde maddi tazminatın yarısı üzerinde hak sahibi olur.
 
 
 
@@ -125,7 +125,7 @@ Eşlerden biri diğer eşin üzerine kaydedilen herhangi bir taşınır veya ta�
 
 Medeni Kanun’a göre, eşler bir sözleşmeyle kanunun belirlediği oran dışında bir oran belirleyebilir. Eşler, boşanma halinde malların paylaşım oranını noterde yapacakları bir sözleşmeyle belirleyebilir.
 
-**Mal paylaşımı davası,** birçok pratik sorunların ortaya çıktığı karmaşık bir dava türüdür. Fakat yukarıda verdiğimiz temel bilgilerin boşanmada mal paylaşımı esaslarının anlaşılmasına yardımcı olacağını umuyoruz.
+*Mal paylaşımı davası,* birçok pratik sorunların ortaya çıktığı karmaşık bir dava türüdür. Fakat yukarıda verdiğimiz temel bilgilerin boşanmada mal paylaşımı esaslarının anlaşılmasına yardımcı olacağını umuyoruz.
 
 ### Boşanmada Mal Paylaşımı Davası Açma Süresi
 
@@ -142,14 +142,14 @@ Boşanmada mal paylaşımı davalarında bir zamanaşımı süresi mevcuttur. Bo
 * Kural olarak taraflar arasında geçerli olan mal rejimi MK md. 225 gereği boşanma davasının açılmasıyla sona erer. Boşanmada mal paylaşımı nedenine dayalı alacak hakkı da boşanma dava tarihi itibariyle doğar. Ancak boşanmada mal paylaşımı davası, boşanma davasının sonucunu beklemelidir. Boşanma davası bekeletici mesele yapılarak, her iki davanın delilleri bir arada değerlendirilerek sonuca gidilmelidir (Yargıtay 8. Dairesi - Esas: 2013/23669, Karar: 2014/3820, Karar Tarihi: 10.03.2014)
 
 
-* Katkı payı alacağının istenebilmesi için eşler arasındaki evliliğin sona ermesi gerekir. Halihazırda açılmış olan boşanma davasının sonucu beklenerek, evlilik birliği boşanma ile sona erdiğinde, **boşanmada mal paylaşımı** davasına devam edilerek bir karar verilmelidir (Hukuk Genel Kurulu - Esas: 2012/8-268, Karar: 2012/420, Karar Tarihi: 27.06.2012).
+* Katkı payı alacağının istenebilmesi için eşler arasındaki evliliğin sona ermesi gerekir. Halihazırda açılmış olan boşanma davasının sonucu beklenerek, evlilik birliği boşanma ile sona erdiğinde, *boşanmada mal paylaşımı* davasına devam edilerek bir karar verilmelidir (Hukuk Genel Kurulu - Esas: 2012/8-268, Karar: 2012/420, Karar Tarihi: 27.06.2012).
 
-* Taraflar arasında boşanma protokolü yapılmıştır. Boşanma protokolünde, "Tarafların mal istemi yoktur" şeklinde bir ibare vardır. Boşanma protokolünde yer alan "mal" kelimesi dar yorumlanamaz. Düzenlenen protokol mahkeme tarafından da onaylandığından davacının **boşanmada mal paylaşımı** talep etme hakkı yoktur (Hukuk Genel Kurulu - Esas: 2013/8-185 , Karar: 2013/1601, Karar Tarihi: 27.11.2013).
+* Taraflar arasında boşanma protokolü yapılmıştır. Boşanma protokolünde, "Tarafların mal istemi yoktur" şeklinde bir ibare vardır. Boşanma protokolünde yer alan "mal" kelimesi dar yorumlanamaz. Düzenlenen protokol mahkeme tarafından da onaylandığından davacının boşanmada mal paylaşımı talep etme hakkı yoktur (Hukuk Genel Kurulu - Esas: 2013/8-185 , Karar: 2013/1601, Karar Tarihi: 27.11.2013).
 
-* Davalı taraf eşinin kredi kartı borcunu ödediğini ileri sürmüştür. Eşinin kredi kartı borcunu ödemek için 3 bilezik, 500 TL ve 110 Euro bozdurarak eşine veren davalının bu hareketi hukuken bağışlama sayılır. Bu nedenle **boşanmada mal paylaşımı** yapılırken hesaplamada dikkate alınmaması gerekir (Yargıtay 8. Dairesi - Esas: 2011/4041, Karar: 2012/1841, Karar Tarihi: 15.03.2012).
+* Davalı taraf eşinin kredi kartı borcunu ödediğini ileri sürmüştür. Eşinin kredi kartı borcunu ödemek için 3 bilezik, 500 TL ve 110 Euro bozdurarak eşine veren davalının bu hareketi hukuken bağışlama sayılır. Bu nedenle boşanmada mal paylaşımı yapılırken hesaplamada dikkate alınmaması gerekir (Yargıtay 8. Dairesi - Esas: 2011/4041, Karar: 2012/1841, Karar Tarihi: 15.03.2012).
 
 
-* Katılma alacağı talep edebilmek için eşlerden birinin diğerinin mal elde etmesine katkı suması zorunlu değildir. Mahkeme, **boşanmada mal paylaşımı** konusu olan taşınmazın sürüm değerini esas alarak, önce eklenecek değerleri eklemeli (MK md. 229), daha sonra denkleştirme yapmalı (MK md. 230), mal nedeniyle elde edilen değerler de malın değerine eklenmeli (MK md. 219), malın bu şekilde bulunan toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (MK md. 231) yarısı üzerinden (MK md.236/1) dava kabul edilmelidir (Yargıtay 8. Dairesi - Esas: 2012/8516, , Karar: 2012/12142, Karar Tarihi: 11.12.2012 ).
+* Katılma alacağı talep edebilmek için eşlerden birinin diğerinin mal elde etmesine katkı suması zorunlu değildir. Mahkeme, boşanmada mal paylaşımı konusu olan taşınmazın sürüm değerini esas alarak, önce eklenecek değerleri eklemeli (MK md. 229), daha sonra denkleştirme yapmalı (MK md. 230), mal nedeniyle elde edilen değerler de malın değerine eklenmeli (MK md. 219), malın bu şekilde bulunan toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (MK md. 231) yarısı üzerinden (MK md.236/1) dava kabul edilmelidir (Yargıtay 8. Dairesi - Esas: 2012/8516, , Karar: 2012/12142, Karar Tarihi: 11.12.2012 ).
 
 
 Boşanmada mal paylaşımı sistemi, evli çiftlerin boşandıktan sonraki hayatına sosyo-ekonomik zemin sağlayan önemli bir medeni hukuk kurumudur. Boşanmada mal paylaşımı davası; yargılama usulü, delil toplama biçimi ve hakimin resen kullandığı yetkiler dikkate alındığında özgün nitelikte bir özel hukuk davasıdır. Bu nedenle boşanmada mal paylaşımı davasının bir [**Boşanma Avukatı**](https://barandogan.av.tr/blog/medeni-hukuk/bosanma-avukati.html) vasıtasıyla takip edilmesi hakkın etkin kullanımı açısından faydalı olacaktır.
