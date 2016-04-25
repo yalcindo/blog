@@ -22,7 +22,7 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 ## İstanbul Barosu Avukat Merkez ve Servisleri
 
-### 1. İstanbul Barosu Kadın Hakları Merkezi ve Avukatlık
+### İstanbul Barosu Kadın Hakları Merkezi ve Avukatlık
 
 İstanbul, çarpık kent yaşamının her alanda yarattığı tahribatlar nedeniyle kişi haklarının sık sık ihlal edildiği kenttir. Hele kadın hakları konusunda en çok ihlalin yapıldığı kentin İstanbul olduğunu söylemek mümkündür. Velayet ve boşanma davaları nedeniyle kadınların mağduriyetten öte katledildiği, kadına dönük şiddetin önlenemediği İstanbul’da kadınların hukuki yardım ihtiyacı oldukça yüksektir.
 
@@ -32,11 +32,11 @@ summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul 
 
 İstanbul Barosu Kadın Hakları Merkezi’ne başvurmak için bir avukatın hukuki yardımına ihtiyaç duymak yeterlidir. Yukarıda verdiğimiz İstanbul Barosu web sayfası linkine tıklayarak merkezin telefonlarına ulaşılabilir.
 
-### 2. Çocuk Hakları Merkezi ve Avukatlar
+### Çocuk Hakları Merkezi ve Avukatları
 
 Hukuken 18 yaşından küçük herkes çocuk olarak kabul edilmektedir. Çocuk hakları İstanbul gibi bir metropolde çeşitli biçimlerde ihlal edilmektedir. Bazı çocuklar ağır koşullarda çalıştırılmakta hatta dilendirilmektedir. İstanbul, çocukların aile içi şiddete, cinsel taciz ve saldırılara maruz kaldığı birçok vakıanın yaşandığı bir yerdir. İstanbul Barosu Çocuk Hakları Merkezi avukatları, çocuklara dönük hak ihlallerini takip etmekte, önemli davalara müdahil olmakta, davaları raporlayarak sonuçlarını kamuoyuyla paylaşmaktadır. Özellikle merkezin hem vatandaşlara hem de avukatlara dönük eğitim çalışmaları farkındalık yaratmak açısından oldukça büyük önem taşımaktadır.
 
-### 3. İstanbul Barosu CMK Servisi ve Ceza Avukatları
+### İstanbul Barosu CMK Servisi ve Ceza Avukatları
 
 CMK Uygulama Servisi, İstanbul Barosu’nun en etkili servisidir. Servis bünyesindeki çok sayıda avukat ile ceza soruşturma ve kovuşturmalarında avukat tutma gücü olmayanlara ücretsiz avukat yardımı sağlamaktadır.
 
@@ -49,23 +49,23 @@ Bu servis ceza soruşturma ve kovuşturmalarını takip eden avukatlardan oluşt
 ### ![CMK İstanbul Avukat](http://i.hizliresim.com/po7gMq.jpg "İstanbul CMK Avukatlık Sistemi")
 
 
-### 4. Adli Yardım Servisi
+### Adli Yardım Servisi ve Avukatlık
 
 İstanbul Barosu Adli Yardım Servisi, insanların özel hukuk uyuşmazlıklarından kaynaklanan haklarını avukat görevlendirerek savunmak için kurulmuş bir servistir. Servis maddi olanakları yeterli olmayan ve bu durumu ispatlayan herkese avukat yardımında bulunmaktadır. Avukat, her türlü özel hukuk ilişkisi ile ilgili olarak yardım talebinde bulunan kişiye hukuki yardım yapmaktadır.
 
 Adli Yardım Servisi’nden yararlanmak için birtakım belgeler ibraz etmek gerekir. Bu belgeler kişininin özel hukuka dair iş veya davasını takip edecek avukatı tutmak için yeterli maddi olanaklara sahip olmadığını kanıtlamalıdır.
 
-### 5. İstanbul Avukat Hakları Merkezi
+### İstanbul Avukat Hakları Merkezi
 
 İstanbul Barosu Avukat Hakları Merkezi, tümüyle avukat üyelerin mesleki faaliyetleri sırasında yaşadıkları sorunları çözmek, avukatlara mesleki faaliyetleri sırasında yapılan saldırılar karşı destek olmak, avukat görevlendirerek meslektaşlarını savunmak amacıyla kurulmuş bir merkezdir.
 
 Bu merkezde görevli avukatların da ceza avukatı olduğunu söylemek mümkündür. Merkezin muhatap olduğu birçok işlem ceza hukuku ile ilgili olduğundan merkezde görev yapan avukatlara ceza avukatı demek yanlış olmayacaktır.
 
-### 6. İstanbul'da  Adliyeler ve Avukatlık
+### İstanbul'da  Adliyeler ve Avukatlık
 
 İstanbul’da üç büyük adliye bulunmaktadır. Bu adliyeler bulundukları bölgenin esas adliyesi olup ağır ceza mahkemeleri ve diğer birçok ihtisas mahkemeleri bulunmaktadır.
 
-#### a. Bakırköy Adliyesi ve Avukatlık
+#### Bakırköy Adliyesi ve Avukatlık
 
 Bakırköy Adliyesi, Avrupa yakasındaki ikinci büyük adliye olup İstanbul’un Bakırköy ilçesinde bulunmaktadır. Bakırköy adliyesi, Bakırköy ilçesi sınırları içerisinde bulunan Ataköy, Florya gibi semtlerin bağlı olduğu bir adliye olduğu gibi Bahçelieevler, Bağcılar, Esenler, Zeytinburnu gibi birçok ilçenin de esas adliyesidir. 
 
@@ -78,7 +78,7 @@ Bakırköy adliyesi, Büyükçekmece, Küçükçekmece, Çatalca gibi adliyeleri
 ![Bakırköy Avukat](http://i.hizliresim.com/d21pJn.jpg "Bakırköy Adliyesi ve Avukatlık")        
 Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http://www.bakirkoy.adalet.gov.tr/)
 
-#### b. İstanbul Çağlayan - Anadolu Adliyeleri ve Avukatlık
+#### İstanbul Çağlayan - Anadolu Adliyeleri ve Avukatlık
 
 İstanbul Çağlayan ve Anadolu Adliyeleri, İstanbul’un en büyük iki adliyesidir. Esasen İstanbul adliyeleri denilince bu adliyeler anlaşılmaktadır. İstanbul avukatlarının en çok çalıştığı adliyeler de bu iki adliyedir. Her biri İstanbul’un bir yakasında bulunan bu adliyelerden biri Çağlayan’da diğeri Anadolu yakasındaki Kartal ilçesinde bulunmaktadır. 
 Özellikle İstanbul Çağlayan Adliyesi, bir dönem DGM, özel yetkili mahkeme gibi özel ağır ceza mahkemelerinin bulunduğu bir adliye olduğundan ceza avukatı olarak çalışan avukatların en çok uğradığı adliyelerden biri olmuştur. Bugün için özel yetkili mahkemeler kaldırılmış olsa da bu adliye ağır ceza mahkemesi çevresi olduğu için ceza avukatı açısından önemli bir çalışma alanıdır.
