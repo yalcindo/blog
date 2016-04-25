@@ -41,7 +41,7 @@ Müsaderenin bir güvenlik tedbiri olmasının iki hukuki sonucu vardır. Bunlar
 
 Eşya (mal) müsaderesi, en çok uygulanan müsadere türüdür. Ancak uygulamada eşya müsaderesi hükümleri uygulanırken büyük hatalar yapıldığı görülmektedir. Mahkemeler tarafından yapılan hataların nedeni TCK md. 54 sisteminin tüm yönleriyle bir sistem içinde değerlendirilmemesinden kaynaklanmaktadır. Eşya (mal) müsaderesinin belli bazı şartları vardır. Bu şartlar şunlardır :
 
-**1- Müsadere Konusu Eşya İyiniyetli Üçüncü Kişiye Ait Olmamalıdır:** Kural olarak suç ile ilgisi olan eşya kime ait olursa olsun müsadere edilir. Ancak, iyiniyetli üçüncü kişiye ait eşya suçta kullanılsa bile müsadere edilemez. Ceza kanunundaki bu iyiniyet kavramı, Medeni Kanun’daki iyiniyet kavramından farklıdır. Üçüncü kişi kendisine ait eşya suçta kullanıldığını bilmiyorsa iyiniyetli kabul edilir. Üçüncü kişi, kendisine ait eşyanın suçta kullanıldığını bilmesine rağmen görmezden geliyor veya menfaat elde etmeye çalışıyorsa iyiniyetli olmadığı için müsadere hükümleri uygulanır.
+**Müsadere Konusu Eşya İyiniyetli Üçüncü Kişiye Ait Olmamalıdır:** Kural olarak suç ile ilgisi olan eşya kime ait olursa olsun müsadere edilir. Ancak, iyiniyetli üçüncü kişiye ait eşya suçta kullanılsa bile müsadere edilemez. Ceza kanunundaki bu iyiniyet kavramı, Medeni Kanun’daki iyiniyet kavramından farklıdır. Üçüncü kişi kendisine ait eşya suçta kullanıldığını bilmiyorsa iyiniyetli kabul edilir. Üçüncü kişi, kendisine ait eşyanın suçta kullanıldığını bilmesine rağmen görmezden geliyor veya menfaat elde etmeye çalışıyorsa iyiniyetli olmadığı için müsadere hükümleri uygulanır.
 
 Suçta kullanılan eşyanın tamamı değil de sadece bazı kısımları müsadere edilecekse; eşyanın tümüne zarar verilmeksizin müsadere edilecek kısmı ayırmak mümkünse, bu kısım eşyadan ayrılarak müsadere edilmelidir. Örneğin, bir tır ile uyuşturucu madde ticareti suçu işlendiğinde, tırın dorsesi ile çekicisi üzerinde ayrı ayrı mülkiyet tesisi mümkün olduğundan, dorsede taşınan uyuşturucu nedeniyle tır dorsesi müsadere edilerek tırın çekicisi sahibine iade edilebilir.
 
@@ -50,9 +50,9 @@ Suçta kullanılan eşya üzerinde paydaşlık söz konusu ise sadece suç ile b
 
 
 
-**2- Kasten İşlenen Suçlarda Müsadere Mümkündür:** Bir eşyanın müsadere edilebilmesi için, müsadere edilecek eşyanın kasten işlenen bir suç ile ilgisinin olması gerekir. Taksirle işlenen suçlarda müsadere hükümlerinin uygulanması mümkün değildir. 
+**Kasten İşlenen Suçlarda Müsadere Mümkündür:** Bir eşyanın müsadere edilebilmesi için, müsadere edilecek eşyanın kasten işlenen bir suç ile ilgisinin olması gerekir. Taksirle işlenen suçlarda müsadere hükümlerinin uygulanması mümkün değildir. 
 
-**3- Suç ve Müsadere İlişkisi:** Daha önce açıkladığımız üzere bir malvarlığı değerinin müsadere edilebilmesi için mutlaka malvarlığı değeri ile suç arasında bir ilişki olması gerekir. Müsadere konusu eşya veya paranın suç ile ilgisi olup olmadığı üç kritere göre belirlenir. 
+**Suç ve Müsadere İlişkisi:** Daha önce açıkladığımız üzere bir malvarlığı değerinin müsadere edilebilmesi için mutlaka malvarlığı değeri ile suç arasında bir ilişki olması gerekir. Müsadere konusu eşya veya paranın suç ile ilgisi olup olmadığı üç kritere göre belirlenir. 
 
 * Suçun işlenmesinde bizzat kullanılan eşya müsadere edilebilir.
 * Suçun işlenmesine tahsis edilen eşya müsadere edilebilir.
@@ -60,9 +60,9 @@ Suçta kullanılan eşya üzerinde paydaşlık söz konusu ise sadece suç ile b
 
 Suçta kullanılmak üzere hazırlanan eşya veya para müsadere edilemez. Suçta kullanılmak üzere hazırlanan eşya, ancak kamu güvenliği, kamu sağlığı veya genel ahlak açısından tehlike oluşturuyorsa müsadere edilebilir.
 
-**4- Kaim Değerin Müsaderesi:** Kural olarak suç ile ilgisi olan eşya müsadere edilmelidir. Ancak bazen suçla ilgisi olan eşyanın satılması, tüketilmesi, yok edilmesi veya başka bir şekilde elden çıkarılması gibi nedenlerle aynı eşyanın müsadere edilmesi mümkün olmayabilir. Tüm bu hallerde eşyanın yerine geçen parasal değerin, yani kaim değerin müsadere edilmesi gerekir (TCK md. 54/2). Örneğin, suç işlemek için kullanılan taşınmaz satılmışsa, taşınmazın satış değeri kadar paranın ilgili kişiden müsaderesine karar verilebilir.
+**Kaim Değerin Müsaderesi:** Kural olarak suç ile ilgisi olan eşya müsadere edilmelidir. Ancak bazen suçla ilgisi olan eşyanın satılması, tüketilmesi, yok edilmesi veya başka bir şekilde elden çıkarılması gibi nedenlerle aynı eşyanın müsadere edilmesi mümkün olmayabilir. Tüm bu hallerde eşyanın yerine geçen parasal değerin, yani kaim değerin müsadere edilmesi gerekir (TCK md. 54/2). Örneğin, suç işlemek için kullanılan taşınmaz satılmışsa, taşınmazın satış değeri kadar paranın ilgili kişiden müsaderesine karar verilebilir.
 
-**5- Müsadere Uygulamasında Orantılılık İlkesi:** Müsadere, devletin mülkiyet hakkına en ağır müdahale şekillerinden biridir. Mülkiyet hakkına müsadere yoluyla yapılan müdahalenin işlenen suç ile orantılı olması gerekir. Suçta kullanılan eşyanın müsadere edilmesi, işlenen suça göre daha ağır sonuçlar doğurmamalıdır. Eşyanın müsadere edilmesi işlenen suça göre daha ağır sonuçlar doğuracaksa müsadere hakkaniyete aykırı olup orantısız olacaktır (TCK md. 54/3).  Örneğin, içinde 50 gram uyuşturucu madde bulunan aracın müsadere edilmesi hakkaniyete aykırı olur. 
+**Müsadere Uygulamasında Orantılılık İlkesi:** Müsadere, devletin mülkiyet hakkına en ağır müdahale şekillerinden biridir. Mülkiyet hakkına müsadere yoluyla yapılan müdahalenin işlenen suç ile orantılı olması gerekir. Suçta kullanılan eşyanın müsadere edilmesi, işlenen suça göre daha ağır sonuçlar doğurmamalıdır. Eşyanın müsadere edilmesi işlenen suça göre daha ağır sonuçlar doğuracaksa müsadere hakkaniyete aykırı olup orantısız olacaktır (TCK md. 54/3).  Örneğin, içinde 50 gram uyuşturucu madde bulunan aracın müsadere edilmesi hakkaniyete aykırı olur. 
 
 
 **6- Yasak Eşyanın Müsaderesi:** Suçta kullanılmasa bile yasak olan her türlü eşya müsadere edilebilir. Üretimi, bulundurulması, taşınması veya satılması başlı başına suç olan eşya “yasak eşya” olarak nitelendirilebilir. Örneğin, hint keneviri üretilen bir tarladaki kenevirler müsadere edilebilir.
