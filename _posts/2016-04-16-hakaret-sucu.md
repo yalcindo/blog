@@ -17,7 +17,7 @@ Hakaret suçu doğrudan kişinin birey olmaktan kaynaklanan kişilik haklarına 
 
 ## Hakaret Suçu ve Şikayet Süresi 
 
-Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
+Hakaret suçunun basit şekli şikayete tabidir. Suçun mağduru, hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
 
 *Nitelikli hakaret suçu* şikayete tabi değildir. Bu nedenle suçun nitelikli halleri için herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
