@@ -3,7 +3,7 @@ layout: blog
 title: Şantaj Suçu, Şartları ve Cezası
 category: ceza-hukuku
 googleAnahtar: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj suçu yargıtay kararları, hukuk bürosu, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı
-summary: Şantaj Suçu Nedir? Şantaj Suçu Şikayet Süresi, Tehdit Suçu ile Şantaj Suçu Arasındaki Farklar, Şantaj Suçunun Cezası, Şantaj Suçu Yargıtay Kararları ve Ceza Avukatı
+summary: Şantaj Suçu Nedir? Şantaj Suçu Şikayet Süresi, Şantaj Suçunun Şartları, Şantaj Suçu Dava Zamanaşımı, Tehdit Suçu ile Şantaj Suçu Arasındaki Farklar, Şantaj Suçunun Cezası, Şantaj Suçu Yargıtay Kararları ve Ceza Avukatı
 keywords: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj suçu yargıtay kararları, hukuk bürosu, ceza avukatı, ağır ceza avukatı, istanbul avukat, istanbul ceza avukatı, bahçelievler avukat, 
 ---
 
@@ -13,11 +13,13 @@ keywords: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj s
 
 ## Şantaj Suçu Nedir?
 
-**Şantaj suçu,** [tehdit suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ile benzer nitelikte fiiller içeren, hatta tehdit suçunun özel bir görünüm biçimi olarak esasen mağdurun daha ağır bir şekilde huzursuz edilmesini cezalandırarak mağdurun iç huzur ve hürriyetini koruyan bir suç tipidir. Bir tehlike suçu olan şantaj suçu aşağıdaki şekillerde işlenebilir:
+**Şantaj suçu,** tehdit suçunun özel bir görünüm biçimi olarak esasen mağdurun daha ağır bir şekilde huzursuz edilmesini cezalandırarak mağdurun iç huzur ve hürriyetini koruyan bir suç tipidir. Bir tehlike suçu olan şantaj suçu aşağıdaki şekillerde işlenebilir:
 
 *	Bir kimseyi kanuna aykırı veya yükümlü olmadığı bir şeyi yapmaya veya yapmamaya zorlama şeklinde şantaj suçu (TCK md. 107/1).
 * Haksız çıkar sağlamaya zorlama suretiyle şantaj suçu (TCK md. 107/1).
 *	Bir kimsenin şeref veya saygınlığına zarar verecek mahiyette olan hususların açıklanacağı veya isnat edileceği tehdidi ile şantaj suçu (TCK md. 107/2). 
+
+Suçu işleyen kişinin söz ve davranışları hakim tarafından oldukça dikkatli değerlendirilerek suçun şantaj suçu mu yoksa [**"tehdit suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)  mu olduğu tespit edilmeldir. 
 
 ## Şantaj Suçu Şikayet Süresi ve Dava Zamanaşımı
 
