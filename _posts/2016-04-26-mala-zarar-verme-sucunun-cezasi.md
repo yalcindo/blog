@@ -4,7 +4,7 @@ title: Mala Zarar Verme Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, hukuk bürosu
 keywords: Mala zarar verme, mala zarar verme suçu, mala zarar verme suçunun cezası, mala zarar verme suçu şikayet süresi, ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
-summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zarar Verme Suçu ve Etkin Pişmanlık, Mala Zarar Verme Suçu ve Ceza İndirimi, Mala Zarar Verme Suçu Şikayet Süresi, Mala Zarar Verme Suçu Yargıtay Kararları
+summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu Şartları, Mala Zarar Verme Suçu ve Etkin Pişmanlık Ceza İndirimi, Mala Zarar Verme Suçu Şikayet Süresi, Nitelikli Mala Zarar Verme Suçu, Mala Zarar Verme Suçu Yargıtay Kararları
 ---
 
 
@@ -12,6 +12,13 @@ summary: Mala Zarar Verme Nedir? Mala Zarar Verme Suçu ve Şartları, Mala Zara
 ## Mala Zarar Verme Nedir?
 
 **Mala zarar verme,** başkasına ait bir malın yıkılması, tahrip edilmesi, yok edilmesi veya kirletilmesidir. Mala zarar verme suçu, başkasına ait malvarlığına zarar vermeye dönük hukuka aykırı müdahaleleri cezalandırmak amacıyla ihdas edilmiştir. Mala zarar verme suçu ile malvarlığı değerleri korunmak istendiğinden, bu suç  “Malvarlığına Karşı Suçlar” bölümünde TCK md. 151-152 arasında düzenlenmiştir.
+
+## Mala Zarar Verme Suçu Şikayet Süresi
+
+Suçun basit şekli en temel şekli, yani en az cezayı gerektiren şeklidir. Bu suçun basit şekli şikayete tabidir. Suçun mağduru şikayet hakkını faili ve fiili öğrenmesinden itibaren 6 ay içinde kullanmalıdır.
+
+Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği için daha ağır cezayı gerektiren şeklidir. Bu suçun nitelikli şekilleri  şikayete tabi değildir. Yani, mağdur şikayetçi olmasa bile savcılık tarafından suç kendiliğinden 8 yıllık dava zamanaşımı süresi içinde soruşturulabilir.
+
 
 ### Mala Zarar Verme Suçunun Unsurları
 
@@ -21,30 +28,32 @@ Mala zarar verme suçu genel kast ile işlenebilen bir suçtur. Failin mala zara
 
 ### ![Mala Zarar Verme](https://camo.githubusercontent.com/16ed7fc823d910be51db03deaf7accccb6995bac/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32375771302e6a7067 "Mala Zarar Verme Suçu")
 
-Mala zarar verme, seçimlik hareketlerle işlenebilen bir fiildir. Mala zarar verme fiilinin kaç farklı şekilde icra edilebileceği sınırlı bir şekilde TCK md. 151’de ifade edilmiştir. Kanunda sınırlı bir şekilde sayılan eylemler dışında mala zarar verme suçu işlenemez. TCK’ya göre mala zarar verme suçu, 6 farklı şekilde işlenebilir:
+Mala zarar verme, seçimlik hareketlerle işlenebilen bir fiildir. Mala zarar verme fiilinin kaç farklı şekilde icra edilebileceği sınırlı bir şekilde TCK md. 151’de ifade edilmiştir. Kanunda sınırlı bir şekilde sayılan eylemler dışında bu suç işlenemez. 
+
+**TCK’ya göre mala zarar verme suçu, 6 farklı şekilde işlenebilir:**
 
 
-#### 1- Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
+### Malı Bozarak veya Kullanılmaz Hale Getirmek Suretiyle
 
 Her malın bir kullanım amacı vardır. Mal, kullanım amacını veya özgülendiği hizmeti yerine getirdiği müddetçe bir değere sahiptir. Fail, icra ettiği fiili ile malın niteliğini değiştirir veya mal özgülendiği fonksiyonu yerine getiremez hale gelirse malın bozulması, kullanılamaz hale getirilmesi suretiyle mala zarar verme suçu meydana gelir. 
 
-#### 2-  Yıkmak Suretiyle Mala Zarar Verme
+#### Yıkmak Suretiyle Mala Zarar Verme
 
-Bir malın yıkılması, malın bünyesinde ciddi değişiklikler meydana getirilmesi anlamına gelir. Yıkmak fiiliyle, malın bünyesinde malı bozmaktan daha büyük bir değişiklik meydana gelmesi kastedilmiştir. Mesela, mağdura ait bir barakanın yıkılması veya evinin dış duvarının yıkılması yıkmak suretiyle mala zarar verme suçunun oluşmasına neden olur.
+Bir malın yıkılması, malın bünyesinde ciddi değişiklikler meydana getirilmesi anlamına gelir. Yıkmak fiiliyle, malın bünyesinde malı bozmaktan daha büyük bir değişiklik meydana gelmesi kastedilmiştir. Mesela, mağdura ait bir barakanın yıkılması veya evinin dış duvarının yıkılması yıkmak suretiyle bu fıkradaki suç işlenmiş olur.
 
-#### 3-  Tahrip Etme Suretiyle 
+### Tahrip Etme Suretiyle Mala Zarar Verme
 
-Bir mal kendisinden beklenen yararı ancak fiziksel özellikleri ve fonksiyonu ile yerine getirebilir. Malın tahrip edilmesi fiziksel özelliklerini kaybetmesine neden olur. Bir malı tahrip etmek demek, o malı kırıp dökmek, talan ve harap etmektir. Örneğin, mağdura ait evin camlarının kırılması evin tahrip edilmesi suretiyle mala zarar verme suçunu oluşturur.
+Bir mal kendisinden beklenen yararı ancak fiziksel özellikleri ve fonksiyonu ile yerine getirebilir. Malın tahrip edilmesi fiziksel özelliklerini kaybetmesine neden olur. Bir malı tahrip etmek demek, o malı kırıp dökmek, talan ve harap etmektir. Örneğin, mağdura ait evin camlarının kırılması, evin tahrip edilmesi suretiyle suçun oluşumuna vücut verilmesi anlamına gelmektedir.
 
-#### 4- Yok Etme Suretiyle 
+### Yok Etme Suretiyle Mala Zarar Verme Suçu
 
-Yıkılan, bozulan veya kullanılmaz hale getirilen bir mal tekrar tamir edilip fonksiyonu kazandırılabilir. Ancak failin ivra ettiği fiil nedeniyle bazen malın tamir edilmesi olanağı ortadan kaldırır. Malın yeniden onarılması veya kullanılmasını imkansız hale getirecek şekilde ve yoğunlukta işlenen fiil, yok etme suretiyle mala zarar verme suçunu oluşturur.
+Yıkılan, bozulan veya kullanılmaz hale getirilen bir mal tekrar tamir edilip fonksiyonu kazandırılabilir. Ancak failin icra ettiği fiil nedeniyle bazen malın tamir edilmesi olanağı ortadan kalkar. Malın yeniden onarılmasını veya kullanılmasını imkansız hale getirecek şekilde ve yoğunlukta işlenen fiil, yok etme suretiyle mala zarar verme suçunu oluşturur.
 
-#### 5- Kirletmek Suretiyle 
+### Kirletmek Suretiyle Mala Zarar Verme Suçu
 
 Kirletmek dışındaki tüm fiiller malın bütünlüğünü ortadan kaldıran, malın kullanılmasını zorlaştıran veya malı kullanılmaz hale getiren fiillerdir. Mala zarar verme fiili bazen eşyanın bütünlüğüne veya fiziksel yapısına zarar vermez. Ancak eşyanın “kirletilmiş” olması nedeniyle eski hale getirilmesi çaba ve masraf gerektirir. Malın kirletilmesi halinde kirletmek suretiyle mala zarar verme suçu oluşur.
 
-#### 6- Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
+### Sahipli Hayvanın Öldürülmesi Suretiyle Mala Zarar Verme Suçu
 
 Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TCK md. 151/2’ye göre sahipli bir hayvanı haklı bir gerekçe olmadan öldüren kişi mala zarar verme suçu hükümlerine göre cezalandırılacaktır.
 
@@ -53,11 +62,11 @@ Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TC
 
 ### Mala Zarar Verme Suçunun Cezası
 
-#### 1- Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
+####  Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
 
 Suçun basit şeklinden kastedilen şey yukarıda açıklanan fiillerin özel mülkiyete tabi normal bir mal aleyhine işlenmesidir. Mala zarar verme suçu, basit şekliyle işlendiğinde sanığa 4 aydan 3 yıla kadar hapis cezası veya adli para cezası verilir. Suçun basit şeklinde hakim ya hapis cezası  ya da adli para cezası verecektir. Her iki yaptırım aynı anda uygulanamaz.
 
-#### 2- Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
+#### Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
 
 Mala zarar verme suçunun nitelikli halleri, zarar verilen eşyanın niteliğinden dolayı cezanın ağırlaştırılmasını gerektirir. Suçun;
 
@@ -81,7 +90,7 @@ Failin yakarak, yakıcı veya patlayıcı madde kullanarak, toprak kaymasına, �
 
 ### Mala Zarar Verme Suçu ve Etkin Pişmanlık
 
-[**Etkin pişmanlık**](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), işlediği fiilin olumsuz sonuçlarını gideren faile uygulanan bir ceza indirimi nedenidir. Mala zarar verme suçu nedeniyle etkin pişmanlık gösteren faile TCK md. 168 gereği ceza indirimi uygulanması gerekir:
+[**Etkin pişmanlık**](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), işlediği fiilin olumsuz sonuçlarını gideren faile uygulanan bir ceza indirimi nedenidir. Suç nedeniyle etkin pişmanlık gösteren faile TCK md. 168 gereği ceza indirimi uygulanması gerekir:
 
 * Fail, suçu tamamlamasına rağmen henüz hakkında dava açılmamışsa, yani savcılık fail hakkında soruşturma açmasına rağmen henüz iddianameyi mahkemeye vermemişse, zararın bu aşamada giderilmesi halinde failin cezasının 2/3’üne kadarı yargılamayı yapan mahkeme tarafından indirilebilir. Örneğin, mağdurun arabasının camlarını kıran fail, camın bedelini hakkında dava açılmadan önce mağdura öderse bu orandaki ceza indiriminden yararlanacaktır.
 
@@ -90,7 +99,7 @@ Failin yakarak, yakıcı veya patlayıcı madde kullanarak, toprak kaymasına, �
 ### Mala Zarar Verme Suçu Şahsi Cezasızlık ve Ceza İndirimi 
 
 
-Mala zarar verme suçu ile ilgili şahsi cezasızlık halleri vardır (TCK md.167/1). Suça ilişkin şahsi cezasızlık halleri şunlardır:
+Mala zarar verme suçu ile ilgili şahsi cezasızlık halleri de vardır (TCK md.167/1). Suça ilişkin şahsi cezasızlık halleri şunlardır:
 
 * Eşlerden biri diğer eş aleyhine bu suçu işlediğinde (eşler hakkında ayrılık kararı verilmemiş olması gerekir),
 
@@ -105,11 +114,7 @@ suçu işleyen akraba aleyhine ceza verilemez.
   * Bu suçların, haklarında ayrılık kararı verilmiş olan eşlerden birinin, aynı konutta beraber yaşamayan kardeşlerden birinin, aynı konutta beraber yaşamakta olan amca, dayı, hala, teyze, yeğen veya ikinci derecede kayın hısımlarının zararına olarak işlenmesi halinde suç şikayete tabidir; şikayet edilirse ilgili akraba hakkında verilecek ceza yarı oranında indirilir.
 
 
-### Mala Zarar Verme Suçu Şikayet Süresi
 
-Suçun basit şekli en temel şekli, yani en az cezayı gerektiren şeklidir. Bu suçun basit şekli şikayete tabidir. Suçun mağduru şikayet hakkını faili ve fiili öğrenmesinden itibaren 6 ay içinde kullanmalıdır.
-
-Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği için daha ağır cezayı gerektiren şeklidir. Bu suçun nitelikli şekilleri  şikayete tabi değildir. Yani, mağdur şikayetçi olmasa bile savcılık tarafından suç kendiliğinden kovuşturulmalıdır.
 
 ### Mala Zarar Verme Suçu Yargıtay Kararları   
 
@@ -119,11 +124,11 @@ Suçun nitelikli halleri ise daha büyük bir hukuki menfaati ihlal ettiği içi
 
 * Hırsızlık suçunun konusunu oluşturan araca çalındıktan sonra zarar verilmesi halinde, ayrıca sanığa mala zarar verme suçundan ceza verilemez. Sanık polisin takibi sonucu yakalandığından suça konu araç ve cep telefonunun iade edilmesi nedeniyle TCK 168. madde çerçevesinde etkin pişmanlık indirimi uygulanamaz (Yargıtay 2. Ceza Dairesi – Esas No: 2013/31868, Karar No: 2014/23837, Tarih: 20.10.2014).
 
-* Sanık sahipli köpeğe ateş ederek öldürmüştür. Köpeğin sahibi sanığa dönük 'sen bu köpeği öldüremezsin" demiştir. Sanık sahipli hayvanı öldürdüğünden TCK 151/2 gereği **mala zarar verme suçu** ve TCK 29. madde gereği haksız tahrik indirimi uygulanarak cezalandırılmalıdır (Yargıtay 15. Ceza Dairesi – Esas No: 2012/15976, Karar No: 2013/10257, Tarih: 3.6.2013).
+* Sanık sahipli köpeğe ateş ederek öldürmüştür. Köpeğin sahibi sanığa dönük 'sen bu köpeği öldüremezsin" demiştir. Sanık sahipli hayvanı öldürdüğünden TCK 151/2 gereği *mala zarar verme suçu* ve TCK 29. madde gereği haksız tahrik indirimi uygulanarak cezalandırılmalıdır (Yargıtay 15. Ceza Dairesi – Esas No: 2012/15976, Karar No: 2013/10257, Tarih: 3.6.2013).
 
-* Komşu mülk sahibinin ağaçları sanığın bahçesine kadar taşmıştır. Sanık komşusunu uyarmış, taşan ağaç dallarına ilişkin önlem alınmayınca tüm taşan ağaç dallarını kesmiştir. Medeni Kanun 740. madde mülkiyetin taşkın kullanımına sınırlama getirmiştir. Sanık mülk sahibini uyarmasına rağmen gerekli önlemler mülk sahibi tarafından alınmamıştır. Bu nedenle sanığın **mala zarar verme suçu** hükümleri gereği cezalandırılması usul ve yasaya aykırıdır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/33, Karar No: 2012/12011, Tarih: 2.11.2012).
+* Komşu mülk sahibinin ağaçları sanığın bahçesine kadar taşmıştır. Sanık komşusunu uyarmış, taşan ağaç dallarına ilişkin önlem alınmayınca tüm taşan ağaç dallarını kesmiştir. Medeni Kanun 740. madde mülkiyetin taşkın kullanımına sınırlama getirmiştir. Sanık mülk sahibini uyarmasına rağmen gerekli önlemler mülk sahibi tarafından alınmamıştır. Bu nedenle sanığın *mala zarar verme suçu* hükümleri gereği cezalandırılması usul ve yasaya aykırıdır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/33, Karar No: 2012/12011, Tarih: 2.11.2012).
 
-* Vakıfbank ATM cihazlarına sanık tarfından zarar verilmiştir. Şikayetçi banka, ticari faaliyet yürüten bir anonim şirkettir. Bir kamu bankası olmadığı için ATM cihazı kamu malı sayılamaz. Bankanın yürüttüğü faaliyet kar etmeyi hedeflediği için ATM cihazı konulması kamu hizmeti olarak da değerlendirilemez. Bu nedenle nitelikli **mala zarar verme suçu**nu düzenleyen TCK 152/1-a maddesi uygulanamaz, sanık suçun basit halinden TCK 151/1 maddesi gereği cezalandırılmaldır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/903, Karar No: 2012/11338, Tarih: 16.10.2012).
+* Vakıfbank ATM cihazlarına sanık tarfından zarar verilmiştir. Şikayetçi banka, ticari faaliyet yürüten bir anonim şirkettir. Bir kamu bankası olmadığı için ATM cihazı kamu malı sayılamaz. Bankanın yürüttüğü faaliyet kar etmeyi hedeflediği için ATM cihazı konulması kamu hizmeti olarak da değerlendirilemez. Bu nedenle nitelikli mala zarar verme suçunu düzenleyen TCK 152/1-a maddesi uygulanamaz, sanık suçun basit halinden TCK 151/1 maddesi gereği cezalandırılmaldır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/903, Karar No: 2012/11338, Tarih: 16.10.2012).
 
 * Ziraat Bankası kamu bankası niteliğinde olduğundan sanığın ATM'ye zarar verme eylemi, kamu malına zarar verme suçunu düzenleyen TCK 152/1-a maddesi gereği cezalandırılmalıdır (Yargıtay 9. Ceza Dairesi – Esas No: 2012/2231, Karar No: 2012/10565, Tarih: 4.10.2012).
 
