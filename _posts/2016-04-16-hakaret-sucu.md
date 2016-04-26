@@ -9,11 +9,17 @@ keywords:  Hakaret suçu, hakaret suçu cezası, Ceza avukatı, hakaret suçu ş
 
 ## Hakaret Suçu Nedir?
 
-**Hakaret suçu,** TCK md. 125-131 arasında şerefe karşı suçlar başlığı altında düzenlenmiştir.  **Hakaret suçu** iki farklı şekilde işlenebilir:  a-) Belli somut bir durum ve olgunun isnat edilmesi suretiyle kişinin şeref ve saygınlığının zedelenmesi, b-) Genel ve soyut nitelikteki söz ve davranışlarla kişinin değersizleştirilmesi, rencide edilmesi.
+**Hakaret suçu,** TCK md. 125-131 arasında şerefe karşı suçlar başlığı altında düzenlenmiştir.  *Hakaret suçu* iki farklı şekilde işlenebilir:  a-) Belli somut bir durum ve olgunun isnat edilmesi suretiyle kişinin şeref ve saygınlığının zedelenmesi, b-) Genel ve soyut nitelikteki söz ve davranışlarla kişinin değersizleştirilmesi, rencide edilmesi.
 Hakaret suçu doğrudan kişinin birey olmaktan kaynaklanan kişilik haklarına saldırıdır. Hakaret suçu ile sosyal bir kavram olan “şeref” ve kişinin özsaygısı korunmaktadır. 
 
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/eab02433b9f300d20b161be52f5a882991eb44dc/687474703a2f2f692e68697a6c69726573696d2e636f6d2f51576c326f412e6a7067 "Ceza Avukatı")
+
+## Hakaret Suçu ve Şikayet Süresi 
+
+Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
+
+*Nitelikli hakaret suçu* şikayete tabi değildir. Bu nedenle suçun nitelikli halleri için herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
 ### Hakaret Suçu Nasıl İşlenir? Hangi Sözler Hakaret Suçunu Oluşturur?
 
@@ -51,27 +57,27 @@ Günümüzde hakaret suçu en çok çağdaş iletişim araçlarıyla işlenmekte
 ### ![İnternet Yoluyla Hakaret Suçu](https://camo.githubusercontent.com/5e5dd7edda643ac4f81dce5353d2e60068ef7f34/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c346b6d67302e6a7067 "İnternet Yoluyla Hakaret Suçu")
 
 
-Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi **hakaret suçu** oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşülmelidir.
+Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek gönderildiğinde dahi *hakaret suçu* oluşur. İnternet yoluyla işlenen hakaret suçlarının her suçun özelliğine göre teknik olarak nasıl ortaya çıkarılacağı bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşülmelidir.
 
 ### Hakaret Suçunun Cezası Nedir?
 
-#### 1-) Basit Hakaret Suçu Cezası [TCK md.125/1](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
+####  Basit Hakaret Suçu Cezası [TCK md.125/1](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
 
 
 **Hakaret suçunun cezası,** suçun basit veya nitelikli şekillerinden hangisinin işlendiğine göre farklılık arz eder. Suçun basit şeklinde, yani kamu görevlisi olmayan bir kişinin yüzüne karşı hakaret halinde, hakaret suçunun cezası 3 aydan 2 yıla kadar hapis veya adli para cezasıdır. Suçun basit şeklindev hakim ya hapis cezası ya da adli para cezası verecektir. Her iki cezanın aynı anda verilmesi mümkün değildir. Hakim gerekçeli kararında neden hapis cezası veya adli para cezası verdiğini de açıkça gerekçelendirmek zorundadır.
 
-#### 2-) Nitelikli Hakaret Suçu Cezası [TCK md.125/3](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
+####  Nitelikli Hakaret Suçu Cezası [TCK md.125/3](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
 
 
 
-Suçun nitelikli hallerinde **hakaret suçunun cezası,** 1 yıl ile 2 yıl arasındadır. Mağdurun kamu görevlisi olması (avukat, hakim, memur vs.) ve hakaretin görevinden dolayı yapılmış olması, kişinin mensup olduğu dinin kutsal değerlerine veya din özgürlüğünün kullanılmasına hakaret edilmesi hakaret suçunun cezası ağırlaştırılmış nitelikli şekli olarak kabul edilmektedir.
+Suçun nitelikli hallerinde *hakaret suçunun cezası,* 1 yıl ile 2 yıl arasındadır. Mağdurun kamu görevlisi olması (avukat, hakim, memur vs.) ve hakaretin görevinden dolayı yapılmış olması, kişinin mensup olduğu dinin kutsal değerlerine veya din özgürlüğünün kullanılmasına hakaret edilmesi hakaret suçunun cezası ağırlaştırılmış nitelikli şekli olarak kabul edilmektedir.
 
-#### 3-) Alenen Hakaret Suçu Cezası
+####  Alenen Hakaret Suçu Cezası
 
 
-Hakaretin alenen işlenmesi halinde ceza 1/6 oranında ayrıca arttırılacaktır. Örneğin, bir tv programında veya bir caddede bağırarak hakaret etmek **hakaret suçu**nun aleni bir şekilde işlenmesine neden olur.
+Hakaretin alenen işlenmesi halinde ceza 1/6 oranında ayrıca arttırılacaktır. Örneğin, bir tv programında veya bir caddede bağırarak hakaret etmek hakaret suçunun aleni bir şekilde işlenmesine neden olur.
 
-#### 4-) Kurul Halinde Çalışan Kamu Görevlilerine Hakaret Suçu Cezası
+#### Kurul Halinde Çalışan Kamu Görevlilerine Hakaret Suçu Cezası
 
 
 Kurul halinde çalışan kamu görevlilerine görevlerinden dolayı hakaret halinde zincirleme suç hükümleri gereği belirlenen cezanın miktarı ayrıca 1/4’ten 3/4’e kadar arttırılır. Örneğin, bilirkişi heyetine veya mahkeme heyetine hakaret suçlarında suçun nitelikli şeklinden belirlenen ceza arttırılacaktır. 
@@ -113,14 +119,10 @@ Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezası
 
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
-Hakaret suçu, çoğu zaman ["Tehdit Suçu"](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ile birlikte işlenmektedir. Tehdit suçu ile birlikte işlense bile hakaret suçu ve tehdit suçu nedeniyle doğrudan oluşabilecek bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması için zararın giderilmesi şartı aranmaz.
+Hakaret suçu, çoğu zaman [**"Tehdit Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) veya [**"Şantaj Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) ile birlikte işlenmektedir. Tehdit suçu ile birlikte işlense bile hakaret suçu ve tehdit suçu nedeniyle doğrudan oluşabilecek bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması için zararın giderilmesi şartı aranmaz. Ancak, hakaret suçunun şantaj suçu ile birlikte işlenmesi halinde ortaya maddi bir zarar çıkma olasılığı mevcuttur. Şantaj suçu nedeniyle meydana gelen zarar giderildiğinde, sanık hükmün açıklanmasının geri bırakılması kurumundan faydalanabilir. 
 
 
-### Hakaret Suçu ve Şikayet Süresi 
 
-Hakaret suçunun basit şekli şikayete tabidir. Mağdur hakaret edeni ve hakareti öğrendiği tarihten başlamak üzere 6 ay içerisinde şikayet hakkını kullanmak zorundadır. Aksi takdirde şikayet hakkını kaybeder.
-
-Nitelikli **hakaret suçu** şikayete tabi değildir. Bu nedenle suçun nitelikli halleri için herhangi bir şikayet süresi sınırlaması yoktur. Suçun nitelikli hallerinin işlenmesi halinde cumhuriyet savcılığı resen soruşturma açar.
 
 
 
