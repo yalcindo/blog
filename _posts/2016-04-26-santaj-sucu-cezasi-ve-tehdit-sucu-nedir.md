@@ -19,7 +19,7 @@ keywords: Şantaj suçu nedir, şantaj suçunun cezası, tehdit suçu, şantaj s
 * Haksız çıkar sağlamaya zorlama suretiyle şantaj suçu (TCK md. 107/1).
 *	Bir kimsenin şeref veya saygınlığına zarar verecek mahiyette olan hususların açıklanacağı veya isnat edileceği tehdidi ile şantaj suçu (TCK md. 107/2). 
 
-Suçu işleyen kişinin söz ve davranışları hakim tarafından oldukça dikkatli değerlendirilerek suçun şantaj suçu mu yoksa [**"tehdit suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)  mu olduğu tespit edilmeldir. 
+Suçu işleyen kişinin söz ve davranışları hakim tarafından oldukça dikkatli değerlendirilerek suçun şantaj suçu mu yoksa [**"tehdit suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)  mu olduğu tespit edilmelidir. 
 
 ## Şantaj Suçu Şikayet Süresi ve Dava Zamanaşımı
 
