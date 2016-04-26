@@ -3,7 +3,7 @@ layout: blog
 title: Yeni Denetimli Serbestlik Yasası ve Uygulama
 category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik nedir, yeni denetimli serbestlik yasası 2 yıl, denetimli serbestlik kaç yıl, İstanbul ceza avukatı, denetimli serbestlik ihlali, avukat, hukuk bürosu
-summary: Denetimli Serbestlik Nedir? Yeni Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestlik Süresi İki Yıl Olur mu? Denetimli Serbestlik Değişikliği
+summary: Denetimli Serbestlik Nedir? Yeni Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestlik Süresi İki Yıl Olur mu? Koşullu Salıverilme ve Denetimli Serbestlik 
 keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, ağır ceza avukatı, denetimli serbestlik imza ihlali, denetimli serbestlik tedbirine uymama, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
