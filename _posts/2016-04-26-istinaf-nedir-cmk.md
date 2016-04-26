@@ -22,7 +22,7 @@ Ceza davaları için istinaf kanun yolu başvuru şartları Ceza Muhakemesi Kanu
 
 Kural olarak, istinaf talebi olmadan bölge adliye mahkemesi kendiliğinden ilk derece ceza mahkemesi kararını istinaf incelemesine tabi tutamaz. Ancak, 15 yıl ve daha fazla hapis cezasına ilişkin hükümler, bölge adliye mahkemesi tarafından kendiliğinden istinaf incelemesine tabi tutulur (CMK md. 272/1). 
 
-*İstinaf başvurusu,* kararı veren ilk derece ceza mahkemesine istinaf istemini içeren bir dilekçe verilerek talep edilebilir. İstinaf başvurusu bir dilekçeyle yapılabileceği gibi kararı veren ceza mahkemesinin katibine beyanda bulunularak katibin bu konuyla ilgili tutacağı tutanağın hakim tarafından onaylanması ile de yapılabilir (CMK md. 273/1).
+*İstinaf başvurusu,* kararı veren ilk derece ceza mahkemesine istinaf istemini içeren bir dilekçe verilerek yapılabilir. İstinaf başvurusu bir dilekçeyle yapılabileceği gibi kararı veren ceza mahkemesinin katibine beyanda bulunularak katibin bu konuyla ilgili tutacağı tutanağın hakim tarafından onaylanması ile de yapılabilir (CMK md. 273/1).
 
 ## İstinaf Başvuru Süresi Ne Kadar (CMK md. 273)
 
