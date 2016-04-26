@@ -4,14 +4,14 @@ title: Yağma Suçu (Gasp Suçu)
 category: ceza-hukuku
 googleAnahtar: Yağma suçu, Gasp Suçu, Yağma (gasp) suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul ceza avukatı, hukuk bürosu
 keywords: Yağma suçu, Gasp Suçu, Yağma suçu nedir, Gasp suçu nedir, Ceza avukatı, yağma suçunun cezası, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı arıyorum istanbul, hukuk bürosu
-summary: Yağma suçu (Gasp Suçu) nedir? yağma suçunun unsurları, yağma suçunun ağırlaştırılmış şekli, yağma suçunun cezası (gasp suçunun cezası), yağma suçunda etkin pişmanlık konularına değinilmiştir.
+summary: Yağma Suçu (Gasp Suçu) Nedir? Yağma Suçunun Unsurları, Nitelikli Yağma Suçu, Yağma Suçunun Cezası (Gasp Suçunun Cezası), Yağma Suçu Etkin Pişmanlık Ceza İndirimi, Bir Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Yağma Suçu
 ---
 
 
 ## Yağma Suçu (Gasp Suçu) Nedir? 
 
 
-**Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın cebir ve tehdit kullanılarak alınmasıyla oluşur. Yağma suçu, TCK'nın 148. ve 150. maddeleri arasında düzenlenmiştir. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. Yağma suçu, hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, cebir ve tehditle işlenmesi sonucu meydana gelir.
+**Yağma Suçu,** diğer adıyla **gasp suçu,** başkasına ait bir malın "cebir" veya "tehdit" kullanılarak alınmasıyla oluşur. Yağma suçu, TCK'nın 148. ve 150. maddeleri arasında düzenlenmiştir. Yağma suçu, mağdurun malvarlığına yönelik gerçekleştirilen haksız bir eylemdir. Bu nedenle, suçun konusu belli bir ekonomik değeri olan herhangi bir maldır. Hırsızlık suçu ile gasp suçu arasında ortak olan fiil, “başkasına ait olan malın alınması”  fiilidir. Yağma suçu, hırsızlık suçunun unsuru olan “başkasına ait olan malın alınması”  fiilinin, "cebir" ve "tehditle" işlenmesi sonucu meydana gelir.
 
 
 ### ![Yağma Suçu](https://camo.githubusercontent.com/7afd63afe5d5e803f7080a0f8c95588ed1cb7ce8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f596c3176366a2e6a7067 "Gasp Suçu")
@@ -40,14 +40,14 @@ Yağma suçunda mağdur tehdit edilmekte veya mağdura cebir uygulanmaktadır. M
 ---
 
 
-### 1- Gasp Suçunun Basit Şekli [(TCK md.148)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
+### Basit Gasp Suçu [(TCK md.148)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5049)
 
 
 Suçun basit şeklinden kasıt, bir kişinin gündüz vakti hiçbir silah veya alet kullanmadan, kendisini tanınmayacak hale koymadan, bir suç örgütü üyesi olmadan, beden ve ruh bakımından kendisini savunamayacak bir kişiye karşı olmaksızın, başkasına ait bir malı cebir ve tehdit kullanarak almasıdır.
 
 Yağma suçunun en basit şeklinin cezası 6 yıl ile 10 yıl arasıdır. 
 
-### 2- Gasp Suçunun Nitelikli Şekli [(TCK md.149)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
+### Nitelikli Yağma Suçu [(TCK md.149)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5056)
 
 
 Suçun nitelikli halinden kasıt suçun daha ağır cezayı gerektiren şeklidir, suçun aşağıdaki hallerden biriyle işlenmesi gasp suçunun nitelikli bir şekilde işlenmesidir:
@@ -82,9 +82,11 @@ Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia v
 Yağma suçunun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma, 1 TL para gibi mal veya paranın gasp edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde ["Malın Değerinin Azlığı"]( https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-malin-degerinin-azligi-yargitay-karari.html) gerekçesiyle ceza indirimi uygulanmaktadır.  Yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
 
 
-## Yağma Suçunun Alacağın Tahsili Amacıyla İşlenmesi
+## Bir Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Yağma Suçu 
 
-Yağma suçu, bir alacağın tahsili amacıyla işlenirse, işlediği fiilin niteliğine göre faile tehdit veya kasten yaralama suçlarından ceza verilir. Bu hükmün uygulanabilmesi için fail ile mağdur arasında gerçek bir hukuki ilişkiye dayanan bir alacak söz konusu olmalıdır. Alacak, sözleşme ilişkisinden kaynaklanabileceği gibi, haksız fiil veya sebepsiz zenginleşme sebeplerine de dayanabilir. Fail ile mağdur arasında hukuki bir ilişki olmadan alacak iddiasında bulunulsa dahi yağma suçuna özel bu madde hükümleri uygulanamaz.
+Yağma suçu, bir hukuki ilişkiye dayanan alacağın tahsili amacıyla işlenirse, işlediği fiilin niteliğine göre faile tehdit veya kasten yaralama suçlarından ceza verilir (TCK md. 150/1).
+
+TCK md. 150/1'de düzenlenen bir hukuki ilişkiye dayanan alacağı tahsil amacıyla yağma suçu hükümlerinin uygulanabilmesi için, fail ile mağdur arasında gerçek bir hukuki ilişkiye dayanan bir alacak söz konusu olmalıdır. Alacak, sözleşme ilişkisinden kaynaklanabileceği gibi, haksız fiil veya sebepsiz zenginleşme sebeplerine de dayanabilir. Fail ile mağdur arasında hukuki bir ilişki olmadan alacak iddiasında bulunulsa dahi yağma suçuna özgü olan bu madde hükümleri uygulanamaz.
 
 ## Hırsızlık Suçunun Yağma Suçuna Dönüşmesi Hali
 
