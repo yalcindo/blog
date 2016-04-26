@@ -14,9 +14,9 @@ keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, er
 
 TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da infaz edilir. Ama bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilirç TCK'da bu imkanı sağlayan bir **ceza erteleme** kurumu olan **hapis cezasının ertelenmesi** kurumu mevcuttur. 
 
-Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
+Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için cezaevinde infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
 
-Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir (TCK  md. 51). Cezanın ertelenmesi için ceza miktarının ceza erteleme kurumunun uygulanmasına uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde mahkemece kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
+Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir [(TCK  md. 51)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3808). Cezanın ertelenmesi için ceza miktarının ceza erteleme kurumunun uygulanmasına uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde mahkemece kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
 
 
 ### ![Ceza Erteleme](https://camo.githubusercontent.com/75f8eb71d6933564198518970068df91c9eeb253/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a4c5941512e6a7067 "Hapis Cezasının Ertelenmesi")
@@ -35,17 +35,19 @@ Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise h
 ### Kasten İşlenmiş Bir Suçtan Mahkum Olmamak
 
 
-Yargılanan kişiye verilen hapis cezanın ertelenmesi için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. Ceza erteleme kurumundan yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) aldığı cezanın miktarı ne olursa olsun hapis cezasının ertelenmesi kurumundan yararlanabilir. Ceza erteleme uygulamasına engelleyen suç, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine cezanın ertelenmesi mümkündür. Daha önce işlediği suçtan dolayı adli para cezası almışsa yine ceza erteleme kurumundan yararlanabilir.
+Yargılanan kişiye verilen hapis cezanın ertelenmesi için kişinin daha önce kasıtlı bir suçtan dolayı 3 aydan fazla hapis cezasına mahkum edilmemiş olması gerekir. Ceza erteleme kurumundan yararlanacak kişi daha önce taksirle bir suç işlemişse (Örneğin, trafik kazası veya iş kazasıyla ölüme neden olmak, taksirle bir kişiyi yaralamak) önceki suç nedeniyle aldığı cezanın miktarı ne olursa olsun hapis cezasının ertelenmesi kurumundan yararlanabilir.
+
+Ceza erteleme kurumunun uygulanmasını engelleyen suçlar, daha önce kasten işlenmiş suçlardır. Suç kasten işlense bile yargılama neticesinde 3 ay veya daha az hapis cezası verilmişse yine cezanın ertelenmesi mümkündür. Sanık, daha önce işlediği suçtan dolayı adli para cezası almış ise yine ceza erteleme kurumundan yararlanabilir.
 
 ### Sanığın Tekrar Suç İşlemeyeceği Kanaatinin Oluşması
 
 
-Hapis Cezasının ertelenmesi, cezanın suçlunun kişiliğine uygun hale getirilmesi anlamını taşır. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususu yargıç tarafından değerlendirilerek ceza ertelemesi yapılıp yapılmayacağına karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olamaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay’ın denetimine imkan sağlayacak şekilde gerekçelendirecektir.
+Hapis Cezasının ertelenmesi, cezanın suçlunun kişiliğine uygun hale getirilmesini sağlayan bir cezanın bireyselleştirilmesi biçimidir. Dolayısıyla kişinin yargılama sırasındaki tutum ve davranışları, suçu işlemede pişman olup olmadığı, ileride suç işleyip işlemeyeceği hususları yargıç tarafından değerlendirilerek ceza ertelemesi yapılıp yapılmayacağına karar verilir. Hemen belirtelim ki hakimin burdaki değerlendirmesi sübjektif bir değerlendirme olamaz, yargıç olguları dikkate alarak bir değerlendirme yapacak, ulaştığı sonucu da gerekçeli kararında açık ve  Yargıtay denetimine imkan sağlayacak şekilde gerekçelendirecektir.
 
 ### Hapis Cezasının Ertelenmesi İçin Zararın Giderilmesi Şartı
 
 
-Hakim tüm koşullar gerçekleşse bile cezanın ertelenmesini mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu **ceza erteleme** kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
+Hakim tüm koşullar gerçekleşse bile cezanın ertelenmesini mağdurun veya kamunun uğradığı zararın aynen geri verme veya tazmin suretiyle giderilmesi şartına bağlı tutabilir. Zararın giderilmesi koşulu *ceza erteleme* kararı için zorunlu bir koşul değildir. Bu durumda mağdurun veya kamunun uğradığı zarar giderilinceye kadar kişinin cezası cezaevinde infaz edilir, zarar giderilince de hükümlü cezaevinden serbest bırakılır.
 
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/039c168ab63224101bccdfd2095f2748df793de3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f34386b7a5a4a2e6a7067 "Ceza Avukatı")
@@ -80,6 +82,12 @@ Hapis cezasının ertelenmesi, çoğu zaman [**Hükmün Açıklanmasının Geri 
 
 
 Eğer hakkında ceza erteleme kararı verilen kişinin daha önce adli sicil kaydı olmamasına rağmen aleyhine cezası kesinleşmeyen birden fazla davası varsa, koşulları sağlamak kaydıyla tüm dosyaları hakkında ceza erteleme kararı verilebilir. Örnek vermek gerekirse, 01.01.2015-01.01.2016 tarihleri arasında 3 farklı olayda 3 farklı suç işleyen kişinin hiçbir cezası henüz kesinleşmediğinden 3 dava dosyasından da ceza erteleme kararı verilebilir.
+
+### Adli Para Cezası ve Ceza Erteleme Kurumu
+
+[Adli para cezası,](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) TCK'da suç karşılığında düzenlenen bir yaptırımdır. Adli para cezası,  bir suçun karşılığı olarak doğrudan hükmedilen bir ceza yaptırımı olabileceği gibi hapis cezasınadan çevrilen seçenek bir yaptırım şeklinde de olabilir.
+
+Adli para cezası ne şekilde verilmiş olursa olsun, hakkında adli para cezası verilen sanık hiçbir şekilde ceza erteleme kurumundan faydalanamaz. 
 
 ### Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
 
