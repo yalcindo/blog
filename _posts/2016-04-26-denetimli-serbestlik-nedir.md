@@ -160,6 +160,22 @@ Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu.
 Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tekerrür hükümleri uygulanan hükümlü denetimli serbestlik tedbirinden yararlanabilir. Ancak, "ikinci kez tekerrür" hükümleri uygulanan hükümlünün denetimli serbestlik tedbirinden ve koşullu salıverilme hükümlerinden yararlanması mümkün değildir.
 
 
+### Koşullu Salıverilme Şartları ve Denetimli Serbestlik Yasası
+
+Koşullu salıverilme (şartlı tahliye), cezasının bir kısmı cezaevinde infaz edilen "iyi halli" hükümlünün, cezasının kalan kısmını dışarda toplum içinde belli şartlara uyarak geçirmesini sağlayan bir cezanın infazı kurumudur. Koşullu salıverilme süresi denetimli serbestlik tedbirinin uygulanacağı tarihin tespiti açısından önemlidir. Yukarıda açıladığımız üzere,  koşullu salıverilme tarihine 1 yıl kalan iyi halli hükümlü denetimli serbestlik yasasından yararlanabilir. [5275 Sayılı Ceza İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)'nun 107. maddesine göre koşullu salıverme şartları şu şekildedir:
+
+* Ağırlaştırılmış müebbet hapis cezası alan iyi halli hükümlüler, 30 yıl fiilen cezaevinde kaldıktan sonra koşullu salıverilme hükümlerinden yararlanabilirler.
+* Müebbet hapis cezası alan iyi halli hükümlüler, 24 yıl fiilen cezaevinde kaldıktan sonra şartlı salıverme hükümlerinden yararlanabilirler.
+* Siyasi suçlar ve örgütlü suçlarlardan hapis cezası alan iyi halli hükümlüler, cezalarının 3/4'ünü iyi halli olarak cezaevinde geçirerek koşullu salıverme hükümlerinden yararlanabilirler.
+* Diğer tüm süreli hapis cezalarına mahkumiyet halinde, hükmedilen hapis cezasının 2/3'ünün iyi halli  olarak cezaevinde geçiren hükümlü koşullu salıverme hükümleri uygulanarak tahliye edilir. 
+
+Koşullu salıverilme kararı kural olarak mahkumiyet hükmünü veren mahkeme tarafından verilmelidir. Ancak, hükümlü mahkumiyet hükmünü veren mahkemenin yargı çevresi dışındaki bir cezaevinde bulunuyorsa, cezaevinde kaldığı yerde mevcut olan aynı derecedeki mahkeme tarafından şartlı salıverilme kararı verilmelidir. Mahkeme, cezaevi idaresinin hazırlayacağı gerekçeli raporu uygun bulursa hükümlünün şartlı salıverilme yoluyla tahliyesine karar verebilir. 
+
+Hükümlünün koşullu salıverilme tarihine 1 yıl kala infaz hakimliği tarafından denetimli serbestlik yasası uygulandığında, ayrıca koşullu salıverilme kararı verilmesi gerekli değildir.
+
+Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gerektiren kasıtlı bir suç" işlerse koşullu salıverilmenin geri alınmasına karar verilir. Suçun hapis cezasını gerektirmesi demek, hem kanunda suçun cezası olarak adli para cezasının değil hapis cezasının belirlenmiş olması hem de mahkemenin yargılama neticesinde verdiği cezanın da hapis cezası olması demektir. Yani, mahkeme denetim süresi içinde işlenen suç nedeniyle önce hapis cezası verir, daha sonra bu hapis cezasını adli para cezasına çevirirse hükümlü hakkında koşullu salıverilmenin geri alınması kararı verilemez. (Yargıtay 1. C.D. 2013/1575 karar).
+
+
 ### Denetimli Serbestlik Yasası Yargıtay Kararları      
 
 ### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Denetimli Serbestlik Yargıtay Kararları")
