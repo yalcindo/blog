@@ -20,14 +20,14 @@ summary: Yağma Suçu (Gasp Suçu) Nedir? Yağma Suçunun Unsurları, Nitelikli 
 ---
 
 
-### 1- Başkasına Ait Olan Malın Alınması 
+### Başkasına Ait Olan Malın Alınması 
 
 
 Gasp (Yağma) suçu ile hırsızlık suçunun en önemli ortak unsuru başkasına ait malın alınmasıdır. Başkasının malın zilyedi olması yeterlidir, zilyedin elinden malın alınmasıyla her iki suç oluşur. Zilyedlik, bir mal üzerinde fiili hakimiyete sahip olma anlamına gelmektedir. Bu nedenle mülkiyet kavramından daha geniş bir kavramdır.  Aynı ev içerisinde yaşayanlar ev eşyaları üzerinde birlikte zilyetlik hakkına sahip olduklarından, aynı ev içerisinde yaşayan kişilerin ortak ev eşyalarını alması halinde hırsızlık veya gasp suçu oluşmaz. Doktrinde ve uygulamada yalnız taşınır malların alınmasının yağma ve hırsızlık suçuna vücut verebileceği kabul edilmektedir.
 
 **Senet yağması** da ayrı bir fıkra ile TCK md.148’de düzenlendiğinden, bir borç senedinin cebir veya tehdit kullanılarak alınması veya borç senedini hükümsüz kılacak makbuzun mağdurun elinden alınması da yağma suçunu oluşturur. 
 
-### 2- Yağma Suçunda Cebir ve Tehdit  
+### Yağma Suçunda Cebir ve Tehdit  
 
 
 [Tehdit](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), bir kimsenin iç huzuruna, karar verme hürriyetine ve serbest hareket etme özgürlüğüne yönelik bir müdahale olup suç teşkil eder. Cebir ise bir kimseye bir şeyi yapması veya yapmaması için zor kullanmak olarak tarif edilebilir.
@@ -76,19 +76,19 @@ Yağma suçunun nitelikli hallerinden birinin işlenmesi halinde suçun cezası,
 
 Yağma suçu, ceza miktarı açısından en vahim suçlardan olduğundan iddia ve savunmanın mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması gerekir.
 
-## Yağma Suçu ve Malın Değerinin Azlığı Hali [(TCK md.150)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5064)
+### Yağma Suçu ve Malın Değerinin Azlığı Hali [(TCK md.150)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5064)
 
 
 Yağma suçunun konusunu oluşturan malın değerinin azlığı söz konusu ise suçu işleyen kişiye verilecek cezada 1/3 ile 1/2 arasında değişen bir oranda indirim uygulanır. Malın değerinin azlığından kastedilen şey, ekonomik değerinin çok az olmasıdır. Örneğin, bir ekmek, birkaç elma, 1 TL para gibi mal veya paranın gasp edilmesi halinde malın değerinin azlığı nedeniyle indirim uygulanabilir. Yargıtay tarafından belirlenen kritere göre, suçu işleyen kişinin daha fazlasını alma imkanı varken daha azını alması halinde ["Malın Değerinin Azlığı"]( https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-malin-degerinin-azligi-yargitay-karari.html) gerekçesiyle ceza indirimi uygulanmaktadır.  Yoksa mağdurdan tüm parası cebir ve tehditle istenmesine rağmen mağdur yalnızca 1 TL’si olduğunu söylerse ve bu para kendisinden alınırsa suçu işleyen lehine indirim yapılmaz.
 
 
-## Bir Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Yağma Suçu 
+### Bir Hukuki İlişkiye Dayanan Alacağı Tahsil Amacıyla Yağma Suçu 
 
 Yağma suçu, bir hukuki ilişkiye dayanan alacağın tahsili amacıyla işlenirse, işlediği fiilin niteliğine göre faile tehdit veya kasten yaralama suçlarından ceza verilir (TCK md. 150/1).
 
 TCK md. 150/1'de düzenlenen bir hukuki ilişkiye dayanan alacağı tahsil amacıyla yağma suçu hükümlerinin uygulanabilmesi için, fail ile mağdur arasında gerçek bir hukuki ilişkiye dayanan bir alacak söz konusu olmalıdır. Alacak, sözleşme ilişkisinden kaynaklanabileceği gibi, haksız fiil veya sebepsiz zenginleşme sebeplerine de dayanabilir. Fail ile mağdur arasında hukuki bir ilişki olmadan alacak iddiasında bulunulsa dahi yağma suçuna özgü olan bu madde hükümleri uygulanamaz.
 
-## Hırsızlık Suçunun Yağma Suçuna Dönüşmesi Hali
+### Hırsızlık Suçunun Yağma Suçuna Dönüşmesi Hali
 
 Fail, mağdura ait bir malı almak için mağdura cebir ve tehdit uyguladığı anda [hırsızlık suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) yağma suçuna dönüşür. Failin uyguladığı cebir ve tehdit, ancak hırsızlık suçu tamamlanmadan işlenirse suç yağma suçuna dönüşür. 
 
@@ -97,7 +97,7 @@ Fail, mağdurun zilyetliğine son vererek mağdurun malını elinden alıp fiili
 Ancak hemen belirtmek gerekir ki; hırsızlık suçunun gerçekleşmesinin hemen akabinde mağdurun faili takip ederek, olayın sıcaklığı içerisinde malını geri istemesi üzerine failin tehdit ve cebir uygulaması halinde suç, hırsızlık suçundan yağma suçuna dönüşür.
 
 
-## Yağma Suçu ve Etkin Pişmanlık Halinde Ceza İndirimi
+### Yağma Suçu ve Etkin Pişmanlık Halinde Ceza İndirimi
 ---
 
 
@@ -113,7 +113,7 @@ Yani, silahla yağma suçu işleyen kişi dava açılmadan önce mağdurun zarar
 
 
 
-## Yağma Suçu Yargıtay Kararları    
+### Yağma Suçu Yargıtay Kararları    
 
 ### ![Yargıtay Kararları](https://camo.githubusercontent.com/2be050aa667abd3bc8a34e3fc9904851c84d4105/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5a5672796e612e6a7067 "Yağma Suçu Yargıtay Kararları")
 
