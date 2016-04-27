@@ -230,7 +230,7 @@ Soruşturma makamları suçu öğrendikten sonra ve yabancı kamu görevlilerine
 
 ### Tehdit Suçu, Şantaj Suçu, Konut Dokunulmazlığını İhlal Suçu ve Etkin Pişmanlık Ceza İndirimi
 
-[**Tehdit Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), [**Şantaj Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir. Bu nedenle bu suçlarda etkin pişmanlık hükümleri uygulanamaz.
+[**Şantaj Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html), [**Tehdit Suçu**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) ve konut dokunulmazlığını ihlal suçu açısından etkin pişmanlık hükümleri veya ceza indirimi gerektiren özel bir düzenleme kanunda mevcut değildir. Bu nedenle bu suçlarda etkin pişmanlık hükümleri uygulanamaz.
 
 
 ### ![Etkin Pişmanlık Ceza İndirimi](https://camo.githubusercontent.com/27f552b0caaafe2695aa542a009dfd6130d72d28/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c456a516e562e6a7067 "Etkin Pişmanlık Ceza İndirimi")
@@ -261,7 +261,7 @@ Yargılanan kişinin etkin pişmanlıktan yararlanmak için gerekli koşulları 
 
 Etkin pişmanlık nedeniyle ceza indirimi, birçok suçun ortaya çıkmasına ve suç faillerinin yakalanmasına hizmet ettiği için önemli bir ceza hukuku kurumu olarak kabul edilmektedir.
 
-Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. **Etkin pişmanlık** yoluyla **ceza indirimi** uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle **etkin pişmanlık** hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
+Fakat, tüm suçlar açısından böyle bir kurumu uygulamak toplumsal dokuyu bozabilir. *Etkin pişmanlık* yoluyla *ceza indirimi* uygulaması, maddi gerçeğe ulaşmayı sekteye uğratabileceği gibi yanlış kişilere ceza verilmesine de yol açabilir. Bu nedenle *etkin pişmanlık* hükümleri uygulanırken suç ve ceza siyaseti toplumun sorunlarına göre belirlenmelidir.
 
 
 **Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
