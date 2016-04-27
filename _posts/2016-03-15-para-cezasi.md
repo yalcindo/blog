@@ -15,7 +15,7 @@ summary: Para Cezası Nedir? Para Cezası Ödenmezse Ne Olur? Adli Para Cezası 
 **Para cezası,** hem ceza hukukunu hem de idare hukukunu ilgilendiren bir kavramdır. Bu nedenle ana hatlarıyla iki tür *para cezası* olduğu söylenebilir : İdari Para Cezası ve Adli Para Cezası.
 
 
-[İdari Para Cezaları](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html), belediyeler, kaymakamlıklar, valilikler, emniyet müdürlüğü gibi idari kurumlar tarafından vatandaşa kesilen para cezalarıdır. İdari para cezası ödenmediği takdirde sadece faiz işler, idari para cezası hapis cezasına dönüşmez.
+[**İdari Para Cezaları**](https://barandogan.av.tr/blog/ceza-hukuku/idari-para-cezasi.html), belediyeler, kaymakamlıklar, valilikler, emniyet müdürlüğü gibi idari kurumlar tarafından vatandaşa kesilen para cezalarıdır. İdari para cezası ödenmediği takdirde sadece faiz işler, idari para cezası hapis cezasına dönüşmez.
 
 
 [**Adli Para Cezaları**](http://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html), yalnızca mahkemeler tarafından hükmedilebilen bir *para cezası* türüdür. Adli Para Cezası ödenmediği takdirde faiz işlemez. 
