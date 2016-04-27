@@ -168,6 +168,8 @@ Hakaret suçunda etkin pişmanlık hükümlerinin uygulanabileceği bir kanun h�
 
 Hakaret suçu karşılıklı işlenmişse olayın özelliğine göre her iki tarafa veya taraflardan birine 1/3 oranında indirim yapılabileceği gibi ceza verilmemesi de mümkündür.
 
+TCK md. 299'da düzenlenen cumhurbaşkanına hakaret suçu, özel bir hakaret suçu olup bu suç nedeniyle etkin pişmanlık ceza indirimi hükümleri uygulanmaz.
+
 ### Bilişim Suçları ve Etkin Pişmanlık
 
 [**Bilişim Suçları**,](http://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) bilgisayar, tablet, cep telefonu, pos makinası gibi araçlar kullanılarak elektronik ortamda işlenen suçlardır. 
