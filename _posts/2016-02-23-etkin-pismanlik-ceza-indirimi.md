@@ -131,7 +131,7 @@ Güveni kötüye kullanma suçu nedeniyle oluşan zarar giderildiğinde ceza ind
 
 Örneğin, mala zarar verme suçunun nitelikli halinin işlenmesi nedeniyle 1 yıl ceza alabilecek sanık, dava açılmadan önce, yani soruşturma aşamasında bilgi verir veya zararı giderirse cezası takdiri indirimle birlikte 3 ay 10 güne kadar inebilir.
 
-  **Tüm malvarlığı değerlerine karşı işlenen suçlarda, suç konusu malın kısmen geri verilmesi veya zararın kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra etkin pişmanlık nedeniyle ceza indiriminden yararlanılamaz.**
+  ***Tüm malvarlığı değerlerine karşı işlenen suçlarda, suç konusu malın kısmen geri verilmesi veya zararın kısmen tazmin edilmesi halinde ceza indirimi uygulanabilmesi için mağdurun indirime rıza göstermesi gerekir. Mahkemede hüküm verildikten sonra etkin pişmanlık nedeniyle ceza indiriminden yararlanılamaz.***
 
 ### Malvarlığı Değerlerine Karşı Bazı Suçların Akrabalar Arasında İşlenmesi ve Ceza İndirimi
 
