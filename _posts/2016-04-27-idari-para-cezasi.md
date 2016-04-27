@@ -3,14 +3,14 @@ layout: blog
 title: İdari Para Cezası
 category: ceza-hukuku
 googleAnahtar: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, Ceza avukatı, istanbul avukat, hukuk bürosu, avukat
-summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? İdari Para Cezası Nereye Ödenir, İdari Para Cezasına Nereye İtiraz Edilir, Süresi ve Yetkili Mahkeme? Bakaya ve Yoklama Kaçağı Para Cezası
+summary: İdari Para Cezası Nedir? İdari Para Cezası Ödenmediğinde Hapis Cezasına Çevrilir mi? Sigara İçme İdari Para Cezası Nereye Ödenir, SGK İdari Para Cezasına Nereye İtiraz Edilir, Süresi ve Yetkili Mahkeme? Bakaya ve Yoklama Kaçağı Para Cezası
 keywords: İdari para cezası, idari para cezasına itiraz süresi, idari para cezası nereye ödenir, idari para cezası ödenmezse ne olur, idari para cezasına itiraz yetkili mahkeme, Ceza avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, hukuk bürosu
 ---
 
 ## İdari Para Cezası Nedir?
 
 
-**İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. **İdari para cezası** verebilecek kurumların bazıları şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü). Mahkemeler tarafından verilen para cezaları ise, hukuki sonuçları tamamen farklı olan [**Adli Para Cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) niteliğindeki cezalardır.
+**İdari para cezası,** devletin idari kurumları tarafından verilen para cezalarıdır. *İdari para cezası* verebilecek kurumların bazıları şunlardır: Bakanlıklar, belediyeler, emniyet, kaymakamlık, valilik, sosyal güvenlik kurumu, Genel Müdürlükler (Örneğin, Sivil Havacılık Genel Müdürlüğü). Mahkemeler tarafından verilen para cezaları ise, hukuki sonuçları tamamen farklı olan [**Adli Para Cezası**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) niteliğindeki cezalardır.
 
 **İdari para cezaları** vatandaşın kabahat niteliğindeki fiillerine karşı verilir. Bu nedenle idari para cezası ödenmezse hapis cezasına çevrilemez. **İdari para cezası ödenmezse,** cezanın tahsili amacıyla borçlu kişi hakkında yalnızca icra işlemleri yapılabilir. Uygulamada çoğu zaman kişi adına kayıtlı taşınmaz mallar ile araba veya banka hesaplarına haciz konulmaktadır. Kişinin evine giderek fiili haciz uygulaması yapılmamaktadır. Zaten ev haczine gidilse bile kanunen ev eşyaları haczedilemez.
 
@@ -83,12 +83,12 @@ HGS veya OGS para cezalarına itiraz, bu nitelikteki idari para cezalarının te
 ### Sigara İçme İdari Para Cezası Nereye Ödenir? Nereye İtiraz Edilir?
 
 
-4207 Sayılı Tütün Mamullerinin İçilmesi Yasaklanan Yerler Kanunu'nın 2. maddesine göre bazı kapalı mekanlarda sigara içme yasağı vardır. Sigara içme yasağı olan yerler, sağlık hizmetlerinin sunulduğu hastane, tıp merkezi, aile sağlığı merkezleri, eğitim – öğretim faaliyetinin yürütüldüğü tüm okul, sürücü kursu, dersane gibi yerler, kültür faaliyetinde bulunulan kütüphane, sergi, müze gibi yerler, tüm kapalı spor salonları, toplu taşıma araçları, toplu taşıma araçlarının bekleme yerleri, kamu kurum ve kuruluşlarında ise, en az beş kişinin görev yaptığı kapalı mekânlarda sigara içme yasağı vardır. 
+4207 Sayılı Tütün Mamullerinin İçilmesi Yasaklanan Yerler Kanunu'nın 2. maddesine göre bazı kapalı mekanlarda sigara içme yasağı vardır. Sigara içme yasağı olan yerler, sağlık hizmetlerinin sunulduğu hastane, tıp merkezi, aile sağlığı merkezleri, eğitim – öğretim faaliyetinin yürütüldüğü tüm okul, sürücü kursu, dersane gibi yerler, kültür faaliyetinde bulunulan kütüphane, sergi, müze gibi yerler, tüm kapalı spor salonları, toplu taşıma araçları, toplu taşıma araçlarının bekleme yerleri, kamu kurum ve kuruluşlarında ise en az beş kişinin görev yaptığı kapalı mekânlarda sigara içme yasağı vardır. 
 
 
 Sigara içme yasağı ihlal edildiğinde her yıl değişen oranlarda idari para cezası verilmektedir. Sigara içme yasağının ihlali nedeniyle idari para cezası, hem sigara içem kişiye hem de söz konusu yer bir cafe, restaurant vb gibi bir işyeri ise işyeri sahibine de verilir.
 
-**Sigara içme idari para cezası,** nereye ödenir sorusunun cevabı, yani ödeme yeri sigara içme cezası tutanağı üzerinde mevcuttur. Sigara içme idari para cezası Mal Müdürlüklerine ödenir. Örneğin, Bakırköy'de bir cafede sigara içen bir kişiye verilen **sigara içme para cezası,** Bakırköy Mal Müdürlüğü'ne ödenebilir. Sigara içme para cezası, vergi dairelerine ödenemez, çünkü hukuki niteliği itibariyle idari para cezası olduğundan Kaymakamlık bünsesinde olan Mal Müdürlüğü'ne ödenir.
+**Sigara içme idari para cezası,** nereye ödenir sorusunun cevabı, yani ödeme yeri sigara içme cezası tutanağı üzerinde mevcuttur. Sigara içme idari para cezası Mal Müdürlüklerine ödenir. Örneğin, Bakırköy'de bir cafede sigara içen bir kişiye verilen *sigara içme para cezası,* Bakırköy Mal Müdürlüğü'ne ödenebilir. Sigara içme para cezası, vergi dairelerine ödenemez, çünkü hukuki niteliği itibariyle idari para cezası olduğundan kaymakamlık bünyesinde olan Mal Müdürlüğü'ne ödenir.
 
 
 ### ![Sigara İçme İdari Para Cezası](https://camo.githubusercontent.com/69071f5496772a7bf2e9f6c78fee7b007bd9c966/687474703a2f2f692e68697a6c69726573696d2e636f6d2f41676a5841722e6a7067 "Sigara İçme İdari Para Cezası")
@@ -101,7 +101,7 @@ Sigara içme idari para cezası itiraz dilekçesinde, ceza tutanağı bilgileri,
 
 ### İdari Para Cezaları Nereye Ödenir?
 
-**İdari para cezaları,** genel olarak mal müdürlüklerine ödenir. Şunu belirtmek gerekir ki, bazı kurumların verdiği idari para cezaları, cezayı veren kurum tarafından tarafından tahsil edilmektedir. Karmaşaya yol açmaması için kanun,  idari para cezası kişiye tebliğ edildiğinde nereye ödeneceğinin de kişiye bildirilmesini zorunlu kılmıştır.
+*İdari para cezaları,* genel olarak mal müdürlüklerine ödenir. Şunu belirtmek gerekir ki, bazı kurumların verdiği idari para cezaları, cezayı veren kurum tarafından tarafından tahsil edilmektedir. Karmaşaya yol açmaması için kanun,  idari para cezası kişiye tebliğ edildiğinde nereye ödeneceğinin de kişiye bildirilmesini zorunlu kılmıştır.
 
 İdari para cezasının peşin ödenmesi halinde, cezanın 1/4’ü oranında indirim yapılmaktadır. Erken ödeme yapmak isteyen kişi, cezanın kendisine tebliğinden itibaren 15 gün içinde cezayı ödemesi gerekir. Cezanın erken ödenmesi cezaya itiraz edilmesine engel değildir. Kişi bir taraftan cezayı öderken diğer taraftan cezaya itiraz edebilir.
 
