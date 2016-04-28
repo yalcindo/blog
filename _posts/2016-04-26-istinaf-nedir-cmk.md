@@ -116,4 +116,8 @@ Yerel mahkeme bölge adliye mahkemesinin bozma kararı çerçevesinde yeniden ya
 
 İstinaf, henüz yeni bir kanun yoludur. İstinaf başvurusu neticesinde istinaf mahkemelerinin yapacağı inceleme hem bir maddi vakıa incelemesi hem de hukuka aykırılık incelemesi olacağından ceza davasının ikinci derece mahkemesinde daha yetkin bir şekilde ele alınmasını sağlayacaktır.
 
+Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanacaktır:
+
+* [**Ankara Bölge Adliye Mahkemesi Web Sitesi**](http://www.ankarabam.adalet.gov.tr/)
+
 **Şirinevler - Bahçelievler - İstanbul Avukat Baran Doğan**
