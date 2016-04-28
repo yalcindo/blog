@@ -82,7 +82,7 @@ Kasten işlenen suçların cezası 3 yıl veya üstünde ise, taksirle işlenen 
 * *Özel Hayata ve Şerefe Karşı Suçlar:* [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
 
 * *Kamu Güvenine ve Adliyeye Karşı Suçlar:* [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html).
-* 
+
 * *Diğer Bazı Suçlar:* [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
 
 
