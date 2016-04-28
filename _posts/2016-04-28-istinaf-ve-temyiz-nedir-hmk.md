@@ -18,7 +18,7 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukukta İstinaf
 
 Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), ["Ceza Davası İstinaf Kanun Yolu"](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
 
-İstinaf mahkemeleri, ["Bölge Adliye Mahkemesi Kuruluş Kanunu"](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf) ile kurulmuştur..
+
 
 ## İstinaf Mahkemesine Nasıl Başvurulur 
 
@@ -214,6 +214,8 @@ Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliy
 
 
 **İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. Uzmanlık gerektiren bu hukuk süreç ["özel hukuk avukatı"](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) olarak çalışan bir hukuk bürosu ile yürütüldüğü takdirde hak kayıpları önlenmiş olur.
+
+İstinaf mahkemeleri, ["Bölge Adliye Mahkemesi Kuruluş Kanunu"](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf) ile kurulmuştur.
 
 Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanacaktır:
 
