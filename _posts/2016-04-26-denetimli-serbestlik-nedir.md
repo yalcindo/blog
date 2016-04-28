@@ -57,7 +57,9 @@ Son 6 ayını cezaevinde geçirme şartı, 01.01.2016 tarihinde yürürlüğe gi
 
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da denetimli serbestlik yasasından yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için denetimli serbestlik yasasından yararlanabilir.
 
-* **Hükümlü Çocuk ise Toplam Cezasının 1/5’ini Tamamlaması Şartı:** Bu şart da 31.12.2015 tarihine kadar uygulanmayacaktır. Ancak bu tarihten sonra uygulama başlayacaktır. Çocuk hükümlüler açısından açık cezaevine ayrılma koşulu aranmaz. Mahkum olduğu cezanın 1/5’ini çocuk cezaevinde geçiren çocuk hükümlü, diğer koşulları yerine getirmek kaydıyla denetimli serbestlik yasasından yararlanabilir. Örneğin, 2 yıl 1 ay ceza almış bir çocuk en az 5 ayını çocuk cezaevinde geçirmelidir.
+#### Çocuk Hükümlülerde Denetimli Serbestlik Yasası Nasıl Uygulanır
+
+Çocuk cezaevinde hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
 
 #### Hükümlünün İyi Halli Olması Şartı
 
