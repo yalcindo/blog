@@ -97,7 +97,7 @@ Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir ya
 *	**Seçimlik Cezalardan Hapis Cezasına Karar Verilir:** Tekerrür halinde işlenen ikinci suçun (tekerrür hükümleri uygulanacak suç) cezası seçimlik olarak hapis cezası veya adli para cezası olarak öngörülmüşse, hapis cezasına hükmedilir. Hükmedilen hapis cezası adli para cezasına çevrilemez (TCK md. 58/3).
 
 
-*	**Denetimli Serbestlik Tedbiri Uygulanır:** Tekerrür halinde cezanın infazından sonra gelmek üzere hükümlü hakkında **"Denetimli Serbestlik"**(https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) tedbiri uygulanmasına karar verilmelidir (TCK md. 58/6). Mahkeme sadece denetimli serbestlik tedbiri uygulanmasına karar vermelidir. İnfazdan sonra ne kadar süreyle denetimli serbestlik tedbirinin uygulanacağına, infaz aşamasında koşullu salıverme kararı veren mahkeme tarafından kararlaştırılması gerekir. 
+*	**Denetimli Serbestlik Tedbiri Uygulanır:** Tekerrür halinde cezanın infazından sonra gelmek üzere hükümlü [**"Denetimli Serbestlik"**](https://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) tedbiri uygulanmasına karar verilmelidir (TCK md. 58/6). Mahkeme sadece denetimli serbestlik tedbiri uygulanmasına karar vermelidir. İnfazdan sonra ne kadar süreyle denetimli serbestlik tedbirinin uygulanacağına, infaz aşamasında koşullu salıverme kararı veren mahkeme tarafından kararlaştırılması gerekir. 
 
 Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin uygulanmasına karar verilmediği takdirde, aleyhe temyiz de yoksa, sanığın kazanılmış hakkı doğar. 
 
