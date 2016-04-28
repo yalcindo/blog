@@ -9,7 +9,7 @@ summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yar
 
 ## Temyiz Nedir?
 
-**Temyiz,** mahkeme tarafından verilen kararın yeniden incelenmesi için bir davanın taraflarına tanınan olağan bir kanun yoludur.  Esasen temyiz, üst mahkemede açılan yeni bir tür davadır. Taraflar, **temyiz incelemesi** ile yerel mahkeme kararının değiştirilmesini veya bozulmasını talep ederler. Ceza mahkemeleri kararlarına karşı **temyiz başvurusu,**  üst mahkeme,  yani bir **temyiz mahkemesi**  olan  Yargıtay’a temyiz dilekçesi  ile yapılır.
+**Temyiz,** mahkeme tarafından verilen kararın yeniden incelenmesi için bir davanın taraflarına tanınan olağan bir kanun yoludur.  Esasen temyiz, üst mahkemede açılan yeni bir tür davadır. Taraflar, temyiz incelemesi ile yerel mahkeme kararının değiştirilmesini veya bozulmasını talep ederler. Ceza mahkemeleri kararlarına karşı temyiz başvurusu,  üst mahkeme,  yani bir temyiz mahkemesi  olan  Yargıtay’a temyiz dilekçesi  ile yapılır.
 
 
 ### ![Yargıtay Temyiz Başvurusu](https://camo.githubusercontent.com/e13824900dd05c77aa7cc5d1a4e9ae7a40169f17/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750426f426d2e6a7067 "Yargıtay Temyiz Başvurusu")
@@ -24,7 +24,7 @@ Davanın tarafları duruşmada hazır değilse, mahkeme tarafların yoklukların
 
 ### Kimler Temyiz Hakkına Sahiptir?
 
-Mahkeme kararını temyiz edebilmek için yerel mahkemede davanın tarafı olmak gerekir. Bir davanın sanığı, yani yargılanan kişi davanın tarafı olduğu için temyiz hakkına sahiptir. Davanın sanığı temyiz hakkını **temyiz süresi** içinde bizzat kullanabileceği gibi yasal temsilcileri (vasi, anne-baba vs.), avukatı  veya eşi de sanık adına temyiz başvurusu yapabilir.
+Mahkeme kararını temyiz edebilmek için yerel mahkemede davanın tarafı olmak gerekir. Bir davanın sanığı, yani yargılanan kişi davanın tarafı olduğu için temyiz hakkına sahiptir. Davanın sanığı temyiz hakkını *temyiz süresi* içinde bizzat kullanabileceği gibi yasal temsilcileri (vasi, anne-baba vs.), avukatı  veya eşi de sanık adına temyiz başvurusu yapabilir.
 
 Davaya müdahil olan kişiler (şikayetçiler, mağdurlar, suçtan zarar gören üçüncü kişiler) de davanın tarafı olduklarından yerel mahkeme kararını temyiz hakkına sahiptir. Herhangi bir davaya müdahale talebinde bulunup da bu talebi yerel mahkeme tarafından reddedilenler  ile katılan olabilecek şekilde suçtan zarar görenler temyiz hakkına sahiptir (CMK md. 260).
 Cumhuriyet savcısı sanığın lehine veya aleyhine temyiz başvurusu yapabilir (CMK md. 260/3). Ancak cumhuriyet savcısı, sanığın yararına yanlış uygulanan “hukuk kurallarına aykırılık” olduğu gerekçesiyle hükmün bozulması amacıyla temyiz hakkına sahip değildir (CMK md. 290).
@@ -32,7 +32,7 @@ Cumhuriyet savcısı sanığın lehine veya aleyhine temyiz başvurusu yapabilir
 ### Temyiz Başvurusu Nasıl Yapılır?
 
 
-**Temyiz başvurusu,** hükmü veren mahkemeye bir [**Temyiz Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/temyiz-dilekcesi-ornegi.html) verilerek yapılır. Temyiz dilekçesinde **temyiz nedenleri**ne yer verilmelidir.
+*Temyiz başvurusu,* hükmü veren mahkemeye bir [**Temyiz Dilekçesi**](http://barandogan.av.tr/blog/ceza-hukuku/temyiz-dilekcesi-ornegi.html) verilerek yapılır. Temyiz dilekçesinde temyiz nedenlerine yer verilmelidir.
 
 Sanık, cezaevinde tutuklu veya hükümlü olarak tutuluyorsa temyiz başvurusunu bulunduğu cezaevi müdürlüğüne temyiz dilekçesi vererek kullanabilir.
 
@@ -50,11 +50,11 @@ Cumhuriyet savcısı sanık lehine temyiz başvurusu yaptığında,  karar sanı
 
 Sanık yerel mahkeme kararını temyiz edebilir veya hakkında temyiz dilekçesi verdiği kararı dilediği zaman temyiz etmekten vazgeçebilir. Sanığın yerel mahkeme kararını temyiz etmesi halinde, aleyhe temyiz yoksa ceza miktarı yönünden kararın aleyhe bozulması mümkün değildir. Ancak suç vasfı yönünden karar aleyhe bozulabilir. Bu halde Yargıtay’ın bozma kararı üzerine,  yerel mahkeme sanığa eski cezayı vererek sadece suç vasfını değiştirebilecektir. Örneğin, Bakırköy Ağır Ceza Mahkemesi tarafından yargılanan bir sanık yağma suçundan değil, hırsızlık suçundan 3 yıl ceza almıştır. Sanığın bizzat kendisinin temyizi üzerine Yargıtay suç vasfının hırsızlık değil, gasp olduğuna karar vermiştir. Sanığın temyizi dışında aleyhe temyiz de yoktur. Bu durumda bozma üzerine davayı yeniden el alacak olan yerel mahkeme, suç vasfının yağma olduğuna karar verecek, ancak yağmanın cezası yüksek olduğu ve aleyhe temyiz olmadığı için sanığa yalnızca 3 yıl ceza verecektir. Hemen şunu belirtmek gerekir ki, suç vasfı ceza miktarı yönünden olmasa da infaz hukuku açısından hükümlünün bazı hak, olanak ve statülerinde değişiklik yarattığından bu şekildeki uygulama ister istemez sanığın aleyhine olmaktadır. Bu nedenle, bu düzenleme hak arama özgürlüğüne zarar veren bir düzenlemedir.
 
-**Temyiz** konusunda sanık ile avukatının iradesi çelişirse, örneğin sanığın hükmü temyiz etmek istememesine rağmen  avukatı **temyiz başvurusu** yaparsa, kural olarak asilin iradesine üstünlük tanınır. Ancak,  onsekiz  yaşını doldurmamış ya da sağır veya dilsiz veya kendisini savunamayacak derecede malûl olan sanığın iradesi ile avukatının  iradesi çelişirse avukatının iradesine üstünlük tanınır (CMK md.  266/3)
+Temyiz konusunda sanık ile avukatının iradesi çelişirse, örneğin sanığın hükmü temyiz etmek istememesine rağmen  avukatı temyiz başvurusu yaparsa, kural olarak asilin iradesine üstünlük tanınır. Ancak,  onsekiz  yaşını doldurmamış ya da sağır veya dilsiz veya kendisini savunamayacak derecede malûl olan sanığın iradesi ile avukatının  iradesi çelişirse avukatının iradesine üstünlük tanınır (CMK md.  266/3)
 
 ### Temyiz Başvurusu ve Etkisi
 
-Süresinde yapılan **temyiz başvurusu** hükmün kesinleşmesini engeller. Yani yerel mahkeme tarafından verilen hüküm temyiz nedeniyle kesinleşmediğinden infaza verilemez. Temyizin sanığın lehine veya aleyhine olmasının hiçbir önemi yoktur. Her iki halde de temyiz hükmün kesinleşmesini engeller.
+Süresinde yapılan *temyiz başvurusu* hükmün kesinleşmesini engeller. Yani yerel mahkeme tarafından verilen hüküm temyiz nedeniyle kesinleşmediğinden infaza verilemez. Temyizin sanığın lehine veya aleyhine olmasının hiçbir önemi yoktur. Her iki halde de temyiz hükmün kesinleşmesini engeller.
 
 ### Temyiz ve Duruşma
 
