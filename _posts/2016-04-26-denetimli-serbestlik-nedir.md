@@ -61,6 +61,8 @@ Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şart
 
 Çocuk cezaevinde hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
 
+Çocuk hükümlülerin denetimli serbestlik yasasından yararlanabilmesi için toplam cezalarının 1/5'ini çocuk eğitimevinde geçirmesi ve koşullu salıverilmesine 1 yıl kalması gerekir.
+
 #### Hükümlünün İyi Halli Olması Şartı
 
 
