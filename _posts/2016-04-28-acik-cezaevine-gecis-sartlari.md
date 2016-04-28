@@ -74,11 +74,15 @@ Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir ce
 Kasten işlenen suçların cezası 3 yıl veya üstünde ise, taksirle işlenen suçların cezası  5 yıl veya üstünde ise, mahkemenin hükmettiği cezanın 1/10'u mutlaka kapalı cezaevinde çekildikten sonra açık cezaevine ayrılma hakkı kazanılır. Cezasının 1/10'nu kapalı cezaevinde geçirme kuralının uygulandığı bazı suçlar aşağıdadır: 
 
 * *Malvarlığına Karşı Suçlar:* [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html),  [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
+
 * *Hayata Karşı Suçlar:* [Kasten Adam Öldürme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) (Hapis Cezası Süreli Olmalıdır), [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) [Taksirle Ölüme Neden Olma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), Taksirle Adam Yaralama Suçu.
+
 * *Hürriyete Karşı Suçlar:* [Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, [Şantaj Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) [Kişiyi Hürriyetinden Yoksun Kılma Suçu.](https://barandogan.av.tr/blog/ceza-hukuku/kisiyi-hurriyetinden-yoksun-kilma-sucu-cezasi.html)
+
 * *Özel Hayata ve Şerefe Karşı Suçlar:* [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
 
-* *Kamu Güvenine ve Adliyeye Karşı Suçlar:* [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), 
+* *Kamu Güvenine ve Adliyeye Karşı Suçlar:* [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html).
+* 
 * *Diğer Bazı Suçlar:* [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
 
 
