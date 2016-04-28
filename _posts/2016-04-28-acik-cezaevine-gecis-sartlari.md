@@ -43,7 +43,7 @@ Doğrudan açık cezaevine geçiş hakkından kasıt, mahkumun kapalı cezaevine
 
 
 
-Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
+Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
 
 * Müebbet hapis cezasına mahkum olan hükümlü, koşullu salıverilmesine 5 yıl veya daha az bir zaman kaldığında açık cezaevine ayrılma hakkına sahiptir. Örneğin, adam öldürme suçundan müebbet hapis cezası almış kişi koşullu salıverilmesine 5 yıl kala açık cezaevine ayrılma hakkı kazanır.
 
@@ -56,9 +56,37 @@ Kural olarak mahkum olduğu cezasının 1/10’unu herhangi bir cezaevinde geçi
 * Birden fazla cezası infaz edilen hükümlü hakkında cezaların toplanması kararı alındığında, açık kuruma ayrılmada esas alınacak suç, koşullu salıverilme tarihine en az sürenin arandığı suçtur. Örneğin, aynı hükümlü ile ilgili kasten adam yaralama suçu nedeniyle 2 yıl, hırsızlık suçu nedeniyle 2 yıl olarak verilen cezalar hakkında toplama kararı alındığında, açık cezaevine geçiş hakkı için ölçü alınacak suç vasfı hırsızlık suçu değil, kasten adam yaralama suçudur. Görüldüğü üzere birden fazla cezaların toplanması kararı, hükümlünün açık cezaevine geçiş koşullarını kolaylaştırmaktadır.
 
 
+### Çocuk Hükümlülerde Açık Cezaevine Geçme Hakkı Nasıl Uygulanır?
+
+Çocuk cezaevinde hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
+
+
+### Koşullu Salıverilmesine 2 Yıl Kala Açık Cezaevine Geçme Hakkı Kazanılan Suçlar
+
+
+* [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Nitelikli Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), 
+* [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html),
+* Cinsel Suçlar,
+* Uyuşturucu veya uyarıcı madde imal ve ticareti suçu, uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma suçu
+
+### Cezasının 1/10'u Kapalı Cezaevinde İnfaz Edildikten Sonra Açık Cezaevine Geçme Hakkı Veren Suçlar
+
+Kasten işlenen suçların cezası 3 yıl veya üstünde ise, taksirle işlenen suçların cezası  5 yıl veya üstünde ise, mahkemenin hükmettiği cezanın 1/10'u mutlaka kapalı cezaevinde çekildikten sonra açık cezaevine ayrılma hakkı kazanılır. Cezasının 1/10'nu kapalı cezaevinde geçirme kuralının uygulandığı bazı suçlar aşağıdadır: 
+
+* **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html),  [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
+* **Hayata Karşı Suçlar:** [Kasten Adam Öldürme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) (Hapis Cezası Süreli Olmalıdır), [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) [Taksirle Ölüme Neden Olma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), Taksirle Adam Yaralama Suçu.
+* **Hürriyete Karşı Suçlar:** [Tehdit Suçu](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html), Cebir Suçu, [Şantaj Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) [Kişiyi Hürriyetinden Yoksun Kılma Suçu.](https://barandogan.av.tr/blog/ceza-hukuku/kisiyi-hurriyetinden-yoksun-kilma-sucu-cezasi.html)
+* **Özel Hayata ve Şerefe Karşı Suçlar:** [Hakaret Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hakaret-sucu.html), Kişisel Verilerin Kaydedilmesi Suçu,  [Özel Hayatın Gizliliğini İhlal Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-hayatin-gizliligini-ihlal-sucu.html).
+
+* **Kamu Güvenine ve Adliyeye Karşı Suçlar:** [Özel Belgede Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html), [Resmi Evrakta Sahtecilik Suçu](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html), Parada Sahtecilik Suçu, Mühürde Sahtecilik Suçu, [İftira Suçu](https://barandogan.av.tr/blog/ceza-hukuku/iftira-sucu-nedir.html), 
+* **Diğer Bazı Suçlar:** [Bilişim Suçları](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html), Görevi Yaptırmamak İçin Direnme Suçu, [Görevi Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/gorevi-kotuye-kullanma-sucu.html), Rüşvet Suçu, İrtikap Suçu, [Zimmet Suçu](https://barandogan.av.tr/blog/ceza-hukuku/zimmet-sucu-nedir.html).
+
+
+
+
 ### ![Açık Cezaevine Ayrılma](https://camo.githubusercontent.com/3d243fe45d85c2e4918da677bd02fb4568952f27/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384c4e6b372e6a7067 "Açık Cezaevine Ayrılma")
 
-### 3. Açık Cezaevine Geçiş Hakkı Olmayan Hükümlüler (md.8)
+### Açık Cezaevine Geçiş Hakkı Olmayan Hükümlüler (md.8)
 
 Yönetmelik, bazı suçlar ve cezalar açısından *açık cezaevine geçiş* uygulamasını yasaklamıştır. Bu suç tipleriyle veya cezalarla mahkum olanların açık cezaevine ayrılma hakkı mevcut değildir.
 
@@ -115,7 +143,7 @@ Disiplin cezası nedeniyle birden fazla kere kapalı cezaevine iade edilen hük�
 
 
 
-Açık cezaevine geçiş şartları ve [**Denetimli Serbestlik Uygulaması**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) arasında çok sıkı bir ilişki vardır. 01.01.2016 tarihinden itibaren denetimli serbestlikten yararlanmak isteyen hükümlülerin açık cezaevinde 6 ay kalması zorunlu bir koşul haline gelmiştir.
+Açık cezaevine geçiş şartları ve [**Denetimli Serbestlik**](http://barandogan.av.tr/blog/ceza-hukuku/denetimli-serbestlik-nedir.html) arasında çok sıkı bir ilişki vardır. 01.01.2016 tarihinden itibaren denetimli serbestlikten yararlanmak isteyen hükümlülerin açık cezaevinde 6 ay kalması zorunlu bir koşul haline gelmiştir.
 
 
 
