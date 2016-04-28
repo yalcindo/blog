@@ -83,7 +83,7 @@ Yukarıda 1. ve 2. başlıkta anlattığımız şekillerde belirlenen ceza, iki 
 
 Kasten yaralama suçunda kemik kırığı veya çıkığı meydana gelmişse 1. ve 2. başlıkta açıkladığımız şekilde belirlenen ceza, kırık veya çıkığın hayat fonksiyonlarındaki etkisine göre 1/2  oranına kadar  arttırılır. Yani, ceza arttırım oranı, kemik kırık veya çıkığının niteliğine göre 1/4, 1/3 veya 1/2  olabilir.
 
-### 5- Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi [(TCK md. 87/4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
+### Kasten Adam Yaralama Suçu Neticesinde Ölüm Meydana Gelmesi [(TCK md. 87/4)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
 Kasten adam yaralama suçu neticesinde ölüm meydana gelmişse; işlenen suç, hukuki niteliği itibariyle kasten adam öldürme suçu değil, neticesi sebebiyle ağırlaşmış yaralama suçu olarak kabul edilir.  
 
