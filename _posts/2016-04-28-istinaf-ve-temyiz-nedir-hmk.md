@@ -217,7 +217,7 @@ Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliy
 
 Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanacaktır:
 
-* [**Ankara Bölge Adliye Mahkemesi Web Sitesi](http://www.ankarabam.adalet.gov.tr/)
+* [**Ankara Bölge Adliye Mahkemesi Web Sitesi**](http://www.ankarabam.adalet.gov.tr/)
 
 
 
