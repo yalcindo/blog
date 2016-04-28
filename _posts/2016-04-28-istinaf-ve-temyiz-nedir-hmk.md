@@ -16,7 +16,9 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukukta İstinaf
 
 İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından istinaf incelemesi sonucunda verilen karara karşı da koşulları varsa, temyiz incelemesi için Yargıtay’a **temyiz başvurusu** yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk veya ceza davası neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
 
-Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), [Ceza Davası İstinaf Kanun Yolu](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
+Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), ["Ceza Davası İstinaf Kanun Yolu"](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
+
+İstinaf mahkemeleri, ["Bölge Adliye Mahkemesi Kuruluş Kanunu"](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf) ile kurulmuştur..
 
 ## İstinaf Mahkemesine Nasıl Başvurulur 
 
@@ -34,11 +36,11 @@ Hukuk davası için istinaf başvuru süresi, hükmün usulüne uygun tebliği v
 
 ### İstinaf Kanun Yolu ile Temyiz Kanun Yolu Arasındaki Fark Nedir?
 
-İstinaf kanun yoluna başvurulduğunda, istinaf mahkemesi (bölge adliye mahkemesi) dava ile ilgili hem vakıaları el alabilecek hem de hukuki denetim yapabilecek. Yani, İstinaf Mahkemesi yerel mahkeme tarafından toplanmamış bir delili toplayabilecek, yeniden tanık dinleyebilecek veya keşif yapabilecektir. İstinaf mahkemesi, hukuk veya ceza dava dosyasında mevcut olan ve topladığı diğer tüm delillerle birlikte hukuki denetim de yaparak karar verir.
+İstinaf kanun yoluna başvurulduğunda, istinaf mahkemesi (bölge adliye mahkemesi) dava ile ilgili hem vakıaları el alır hem de hukuki denetim yapar. Yani, istinaf mahkemesi yerel mahkeme tarafından toplanmamış bir delili toplayabilir, yeniden tanık dinleyebilir veya keşif yapabilir. İstinaf mahkemesi, hukuk veya ceza dava dosyasında mevcut olan ve topladığı diğer tüm delillerle birlikte hukuki denetim de yaparak istinaf incelemesi netcesinde kararını verir.
 
-Temyiz incelemesi ise, Yargıtay’ın istinaf mahkemesi tarafından verilen kararı sadece hukuki yönden denetlemesi anlamına gelmektedir. Yargıtay, temyiz incelemesi ile kanunun olaya doğru uygulanıp uygulanmadığını denetlemektedir. Yani, Yargıtay dosyadaki mevcut delillerle oluşan maddi vakıaya ilgili kanun maddelerinin yerinde uygulanıp uygulanmadığı yönünde hukuki bir denetim yapar.
+Temyiz incelemesi ise, Yargıtay’ın istinaf mahkemesi tarafından verilen kararı sadece hukuki yönden denetlemesi anlamına gelmektedir. Yargıtay, temyiz incelemesi ile kanunun olaya doğru uygulanıp uygulanmadığını denetler. Yani, yargıtay ilgili kanun maddelerinin dosyadaki delillerle oluşan maddi vakıaya  yerinde uygulanıp uygulanmadığı yönünde hukuki bir denetim yapar. Yargıtay temyiz incelemesi aşamasında delil toplayamaz, tanık dinleyemez, keşif yapamaz.
 
-*İstinaf incelemesi* ile istinaf mahkemesi yeniden bir karar verir. Teknik açıdan yerel mahkeme kararının bozulması veya onanması söz konusu değildir. istinaf mahkemesi, hukuk veya ceza davasını yeniden ele alarak yeni bir karar verir. Temyiz incelemesi ile Yargıtay, istinaf mahkemesi kararını sadece hukuki yönden değerlendirerek onama veya bozma kararı verir. Yargıtay, istinaf mahkemesi tarafından verilen kararı bozarsa dava dosyasını yeni bir karar vermek üzere geri gönderir.
+*İstinaf incelemesi* ile istinaf mahkemesi yeniden bir karar verir. Teknik açıdan yerel mahkeme kararının bozulması veya onanması söz konusu değildir. İstinaf mahkemesi, hukuk veya ceza davasını yeniden ele alarak yeni bir karar verir. Temyiz incelemesi ile Yargıtay, istinaf mahkemesi kararını sadece hukuki yönden değerlendirerek onama veya bozma kararı verir. Yargıtay ise istinaf mahkemesi tarafından verilen kararı bozduğunda, yeni bir karar verilmek üzere dava dosyasını geri gönderir.
 
 Hemen belirtmek gerekir ki, istinaf ve temyiz olağan kanun yolları olduğundan, hukuk davası için “karar düzeltme” kanun yolu ortadan kalkmıştır. 
 
@@ -88,7 +90,7 @@ Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki in
 
 #### İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
 	
-İstinaf incelemesi, daha önce açılmış davanın sınırları çerçevesinde yapılır. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
+[İstinaf Kanun Yolu](http://www.hukukiyardim.gov.tr/sayfalar/istinaf.pdf), daha önce açılmış davanın sınırları çerçevesinde, üst derece mahkemesinde yeni bir yargılama yapılması imkanı verir. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
 
 ### İstinaf Mahkemesinin İstinaf İncelemesi Neticesinde Verilebilecek Kararlar
 
@@ -209,7 +211,13 @@ Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliy
 
 
 
+
+
 **İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. Uzmanlık gerektiren bu hukuk süreç ["özel hukuk avukatı"](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) olarak çalışan bir hukuk bürosu ile yürütüldüğü takdirde hak kayıpları önlenmiş olur.
+
+Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanacaktır:
+
+* [**Ankara Bölge Adliye Mahkemesi Web Sitesi](http://www.ankarabam.adalet.gov.tr/)
 
 
 
