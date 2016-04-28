@@ -15,7 +15,9 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Ceza Muhakemesin
 
 İlk derece mahkemesi kararı aleyhine önce istinaf kanun yoluna gidilir. İstinaf kanun yolu aşamasında verilen hüküm tarafları tatmin etmezse, istinaf aşamasından sonra istinaf mahkemesinin verdiği kararın özelliğine göre şartları varsa ["Temyiz Kanun Yolu"](https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html)  için Yargıtay’a başvuru yapılabilir.
 
-Ceza davaları için istinaf kanun yolu başvuru şartları Ceza Muhakemesi Kanunu'nda (CMK md.272-285), [Hukuk Davası İstinaf Kanun Yolu](https://barandogan.av.tr/blog/medeni-hukuk/istinaf-ve-temyiz-nedir-hmk.html) başvuru şartları ise Hukuk Muhakemeleri Kanunu'nda (HMK) düzenlenmiştir.
+Ceza davaları için istinaf kanun yolu başvuru şartları Ceza Muhakemesi Kanunu'nda (CMK md.272-285), ["Hukuk Davası İstinaf Kanun Yolu"](https://barandogan.av.tr/blog/medeni-hukuk/istinaf-ve-temyiz-nedir-hmk.html) başvuru şartları ise Hukuk Muhakemeleri Kanunu'nda (HMK) düzenlenmiştir.
+
+İstinaf incelemesi, ["Bölge Adliye Mahkemesi Kuruluş Kanunu"](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf) ile kurulan istinaf mahkemelerinde yapılır.
 
 
 ## İstinaf Başvurusu Nasıl Yapılır (CMK md. 273)
@@ -64,7 +66,7 @@ Cumhuriyet savcısının tebliğnamesi, bölge adliye mahkemesi ceza dairesine h
 
 ### İstinaf Mahkemesinde Ön İnceleme Aşaması
 
-Bölge adliye mahkemesi (istinaf mahkemesi), cumhuriyet savcısının tebliğnamesiyle birlikte kendisine gelen dosya ile ilgili  bir “ön inceleme” yapar. Ön inceleme aşamasında bölge adliye mahkemesinin yetkili olup olmadığı, istinaf başvurusunun süresinde yapılıp yapılmadığı, başvuru sahibinin istinaf yoluna başvurmaya hakkı olup olmadığı gibi usuli meseleler incelenir (CMK md. 279).
+Bölge adliye mahkemesi (istinaf mahkemesi)(, cumhuriyet savcısının tebliğnamesiyle birlikte kendisine gelen dosya ile ilgili  bir “ön inceleme” yapar. Ön inceleme aşamasında bölge adliye mahkemesinin yetkili olup olmadığı, istinaf başvurusunun süresinde yapılıp yapılmadığı, başvuru sahibinin istinaf yoluna başvurmaya hakkı olup olmadığı gibi usuli meseleler incelenir (CMK md. 279).
 
 Bu usuli nedenlerle ön inceleme aşamasında istinaf başvurusu reddedilen taraf itiraz kanun yoluna başvurabilir (CMK md. 279/son). Yani, bölge adliye ceza dairesinin istinaf başvurusunun ön inceleme aşamasında usulden reddine ilişkin kararlarına karşı, aynı bölge adliye mahkemesinde bulunan sonraki nolu ceza dairesine itiraz kanun yoluna başvurulabilir (CMK md.  268/3-e). 
 
