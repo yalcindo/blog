@@ -57,11 +57,7 @@ Son 6 ayını cezaevinde geçirme şartı, 01.01.2016 tarihinde yürürlüğe gi
 
 Son 6 ayını açık cezaevinde geçirmese bile, açık cezaevine ayrılma şartlarını taşıyanlar da denetimli serbestlik yasasından yararlanabilir. Yani hükümlü, kapalı cezaevinde olmasına rağmen kendi iradesi dışında, örneğin yer yokluğu nedeniyle, açık cezaevine gönderilememişse açık cezaevine ayrılma şartlarını taşıdığı için denetimli serbestlik yasasından yararlanabilir.
 
-#### Çocuk Hükümlülerde Denetimli Serbestlik Yasası Nasıl Uygulanır
 
-Çocuk cezaevinde hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
-
-Çocuk hükümlülerin denetimli serbestlik yasasından yararlanabilmesi için toplam cezalarının 1/5'ini çocuk eğitimevinde geçirmesi ve koşullu salıverilmesine 1 yıl kalması gerekir.
 
 #### Hükümlünün İyi Halli Olması Şartı
 
@@ -76,6 +72,12 @@ Denetimli serbestlik tedbiri ancak hükümlünün talebi halinde uygulanabilir. 
 Hükümlü denetimli serbestlik yasası gereği serbest bırakıldıktan sonra deyim yerindeyse toplum içinde gözlenmeye başlanır. Hükümlü, kendisi için belirlenen tedbirlere uymak zorundadır. Örneğin, kamuya yararlı bir işte çalışmasına karar verilmişse bu yükümlülüğü ihlal edemez. Bir bölgede veya konutta denetim altında olması kararlaştırılmışsa o bölge veya konuttan ayrılamaz.
 
 ### ![Denetimli Serbestlik](https://camo.githubusercontent.com/e88e514054c89bf7ff499210de4cb55ce5813ee6/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6e32713152312e6a7067 "Denetimli Serbestlik")
+
+#### Çocuk Hükümlülerde Denetimli Serbestlik Yasası Nasıl Uygulanır
+
+Çocuk cezaevinde hükümlü statüsü kazanarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
+
+Çocuk hükümlülerin denetimli serbestlik yasasından yararlanabilmesi için toplam cezalarının 1/5'ini çocuk eğitimevinde geçirmesi ve koşullu salıverilmesine 1 yıl kalması gerekir.
 
 ### Denetimli Serbestliğe Uymama
 
