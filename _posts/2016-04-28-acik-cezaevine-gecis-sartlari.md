@@ -65,7 +65,7 @@ Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir ce
 
 
 * [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Nitelikli Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), 
-* [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html),
+* [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), [Nitelikli Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html),
 * Cinsel Suçlar,
 * Uyuşturucu veya uyarıcı madde imal ve ticareti suçu, uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma suçu
 
