@@ -92,7 +92,7 @@ Yönetmelik, bazı suçlar ve cezalar açısından *açık cezaevine geçiş* uy
 
 * Ağırlaştırılmış müebbet hapis cezasına mahkum olanlar, açık cezaevine geçiş hakkına sahip değildirler. Örneğin, nitelikli adam öldürme suçundan ağırlaştırılmış müebbet hapis cezası olan mahkumların, açık cezaevine ayrılma hakkı yoktur.
 
-* Haklarında ikinci defa tekerrür hükümleri uygulanan mahkumlar, açık cezaevine ayrılma hakkını kaybetmektedir.
+* Haklarında ikinci defa ["Tekerrür"](https://barandogan.av.tr/blog/ceza-hukuku/tekerrur-nedir.html) hükümleri uygulanan mahkumlar, açık cezaevine ayrılma hakkını kaybetmektedir.
 
 * Haklarında “iyi halli” olma kararı verilse bile, toplam üç ve daha fazla hücre cezası alıp son hücreye koyma cezasının kaldırılması üzerinden üç yıl geçmemiş olanlar, açık cezaevine ayrılma hakkını kullanamazlar.
 
