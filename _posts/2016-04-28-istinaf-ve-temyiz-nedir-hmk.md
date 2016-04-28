@@ -10,17 +10,17 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukukta İstinaf
 ### ![İstanbul Avukat](https://camo.githubusercontent.com/13373406ebef2b73501526673f46a6e545df1173/687474703a2f2f692e68697a6c69726573696d2e636f6d2f47527a4150762e6a7067 "İstanbul Avukat")
 
 
-## İstinaf Kanun Yolu Nedir
+## İstinaf Kanun Yolu Nedir?
 
-**İstinaf,** ilk derece mahkemeleri tarafından verilen kararların hem olay yönünden hem de hukuki yönden üst dereceli mahkeme tarafından denetlenmesidir. İstinaf kanun yoluna başvurulduğunda ceza davası veya hukuk dava dosyası üst dereceli İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından ikinci kere incelenerek karar verilir.
+**İstinaf,** ilk derece mahkemeleri tarafından verilen kararların hem olay yönünden hem de hukuki yönden üst dereceli mahkeme tarafından denetlenmesidir. İstinaf kanun yoluna başvurulduğunda ceza davası veya hukuk dava dosyası üst dereceli İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından ikinci kere incelenerek yerel mahkemenin kararı denetlenir.
 
 İstinaf Mahkemesi (Bölge Adliye Mahkemesi) tarafından istinaf incelemesi sonucunda verilen karara karşı da koşulları varsa, temyiz incelemesi için Yargıtay’a **temyiz başvurusu** yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk veya ceza davası neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
 
-Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), ["Ceza Davası İstinaf Kanun Yolu"](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
+Hukuk davaları için istinaf kanun yolu başvuru şartları Hukuk Muhakemeleri Kanunu'nda (HMK), [**"Ceza Davası İstinaf Kanun Yolu"**](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvuru şartları ise Ceza Muhakemesi Kanunu'nda (CMK) düzenlenmiştir.
 
 
 
-## İstinaf Mahkemesine Nasıl Başvurulur 
+## İstinaf Mahkemesine Nasıl Başvurulur? 
 
 Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir istinaf başvurusu yapılmış olması gerekir. İlk derece mahkemesi bir hükmü kendiliğinden istinaf incelemesi için istinaf mahkemesine göndermez.
 
