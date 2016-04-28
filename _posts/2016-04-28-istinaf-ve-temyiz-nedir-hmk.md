@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Hukuk Davası İstinaf ve Temyiz Şartları 
+title: Hukukta İstinaf ve Temyiz 
 category: medeni-hukuk
 googleAnahtar: İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, istinaf hmk 
 keywords:  İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, temyiz dilekçesi
