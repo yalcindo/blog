@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Kasten Adam Öldürme Haksız Tahrik - Yargıtay Kararı    
+title: Kasten Adam Öldürme Haksız Tahrik Yargıtay Kararı    
 category: ceza-hukuku
 googleAnahtar: haksız tahrik, kasten adam öldürme, şüpheden sanık yararlanır, avukat, ceza avukatı, ağır ceza avukatı, hukuk bürosu
-summary: Haksız Tahrik, Kasten Adam Öldürme Suçunda Haksız Tahrik, Şüpheden Sanık Yararlanır İlkesi
+summary: Haksız Tahrik, Kasten Adam Öldürme Suçunda Haksız Tahrik, Şüpheden Sanık Yararlanır İlkesi, Haksız tahrik ceza indirimi
 
 ---
 **T.C.**
@@ -22,7 +22,7 @@ summary: Haksız Tahrik, Kasten Adam Öldürme Suçunda Haksız Tahrik, Şüphed
 
 5237/m.29,62,81
 
-ÖZET : Somut olayda **kasten öldürme suçu**nda **haksız tahrik** hükümlerinin uygulanıp uygulanamayacağına ilişkin hükümsüzlük bulunmaktadır. Sanık ifalerinden ve tanık beyanlarından sanığın maktulü kendisine saldırması sebebiyle mi yoksa herhangi bir saldırı olmaksızın mı öldürdüğü konusunda şüphe oluşmuş olup, **şüpheden sanık yararlanır ilkesi** gereğince eylemin gerçekleşme şekline dair bu **şüphenin sanık lehine yorumlanması** zorunludur.Bu nedenle, maktulün diğer sanığın yanında yer alarak kavganın çıkmasında hiçbir kusuru bulunmayan sanığa saldırmış olması, sanık lehine **haksız tahrik** hükümlerinin uygulanmasını gerektiren haksız bir davranış olup, sanığın maktülden kaynaklanan haksız davranışın oluşturduğu öfkenin etkisi altında kalarak kasten öldürme suçunu işlediğinin, dolayısıyla sanık hakkında *haksız tahrik* hükümlerinin uygulanması gerektiğinin kabulü gerekmektedir.Nitekim, maktulden kaynaklanan haksız bir davranış olmaksızın sanığın aralarında herhangi bir husumet bulunmayan maktulü birden fazla bıçaklaması hayatın olağan akışına da aykırıdır.
+ÖZET : Somut olayda [**KASTEN ADAM ÖLDÜRME SUÇUNDA HAKSIZ TAHRİK**](https://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html) hükümlerinin uygulanıp uygulanamayacağına ilişkin hükümsüzlük bulunmaktadır. Sanık ifalerinden ve tanık beyanlarından sanığın maktulü kendisine saldırması sebebiyle mi yoksa herhangi bir saldırı olmaksızın mı öldürdüğü konusunda şüphe oluşmuş olup, **şüpheden sanık yararlanır ilkesi** gereğince eylemin gerçekleşme şekline dair bu **şüphenin sanık lehine yorumlanması** zorunludur.Bu nedenle, maktulün diğer sanığın yanında yer alarak kavganın çıkmasında hiçbir kusuru bulunmayan sanığa saldırmış olması, sanık lehine **haksız tahrik** hükümlerinin uygulanmasını gerektiren haksız bir davranış olup, sanığın maktülden kaynaklanan haksız davranışın oluşturduğu öfkenin etkisi altında kalarak kasten öldürme suçunu işlediğinin, dolayısıyla sanık hakkında *haksız tahrik* hükümlerinin uygulanması gerektiğinin kabulü gerekmektedir.Nitekim, maktulden kaynaklanan haksız bir davranış olmaksızın sanığın aralarında herhangi bir husumet bulunmayan maktulü birden fazla bıçaklaması hayatın olağan akışına da aykırıdır.
 
 DAVA : Kasten öldürme suçundan sanık M. D.`ın 5237 Sayılı T.C.K.nun 81/1 ve 62. maddeleri uyarınca 25 yıl hapis cezası ile cezalandırılmasına ilişkin, Kayseri 1. Ağır Ceza Mahkemesince verilen 24.11.2008 gün ve 253-396 Sayılı resen temyize tabi olan hükmün sanık müdafii tarafından da temyiz edilmesi üzerine dosyayı inceleyen Yargıtay 1. Ceza Dairesince 30.11.2011 gün ve 3868-7369 sayı ile;
 
@@ -58,7 +58,7 @@ Sanık M.ın ağabeyi olan ve mahkemede tanıklıktan çekinme hakkını kullana
 Sanık M. savunmasında özetle; olay günü saat 23.15 sıralarında arkadaşı B. ile birlikte otobüs durağı yanında oturduğu sırada daha önceden aralarında husumet bulunan G.ın önce araçla önlerinden geçtiğini, 5-10 dakika sonra bu kez elinde jiletle yanına gelerek "seninle kavga ettikten sonra ben iki hafta dışarıya çıkamadım senin façanı bozacağım senin yüzünü keseceğim ananı avradını sinkaf edeceğim" dediğini, bunun üzerine arkadaşı Bahaddin ile birlikte evlerine doğru kaçtıklarını, ancak peşlerinden koşarak evlerinin önüne gelen G.ın elindeki bıçakla saldırdığını, yerden bulduğu sopa ile G.ın eline vurduğunu ve elinden düşen bıçağı alıp G.ın yanında olay yerine gelerek kendisine saldıran ve sinkaflı şekilde sözler söyleyen S.`a doğru kendisini korumak amacıyla bir kaç kez salladığını belirttiği,
 Anlaşılmaktadır.
 
-**Haksız tahrik,** 5237 Sayılı T.C.K.nun 29. maddesinde; "Haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimseye, ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir, diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir" şeklinde, ceza sorumluluğunu azaltan bir neden olarak düzenlenmiştir.
+*Haksız tahrik,* 5237 Sayılı T.C.K.nun 29. maddesinde; "Haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimseye, ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası verilir, diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir" şeklinde, ceza sorumluluğunu azaltan bir neden olarak düzenlenmiştir.
 Haksız tahrik, failin haksız bir fiilin yarattığı hiddet veya şiddetli elemin etkisi altında hareket ederek bir suç işlemesini ifade eder ki, bu durumda fail suç işleme yönünde önceden bir karar vermeksizin, dışarıdan gelen etkinin ruhsal yapısında yarattığı karışıklığın sonucu olarak suç işlemeye yönelmektedir.
 
 **Haksız tahrik** hükümlerinin uygulanabilmesi için;
