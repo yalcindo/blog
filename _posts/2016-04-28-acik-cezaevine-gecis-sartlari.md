@@ -58,7 +58,7 @@ Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir ce
 
 ### Çocuk Hükümlülerde Açık Cezaevine Geçme Hakkı Nasıl Uygulanır?
 
-Çocuk cezaevinde hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
+Çocuk cezaevinde cezası kesinleşerek hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden, eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
 
 
 ### Koşullu Salıverilmesine 2 Yıl Kala Açık Cezaevine Geçme Hakkı Kazanılan Suçlar
