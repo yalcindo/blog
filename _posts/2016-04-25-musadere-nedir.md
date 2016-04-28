@@ -55,8 +55,8 @@ Suçta kullanılan eşya üzerinde paydaşlık söz konusu ise sadece suç ile b
 * **Suç ve Müsadere İlişkisi:** Daha önce açıkladığımız üzere bir malvarlığı değerinin müsadere edilebilmesi için mutlaka malvarlığı değeri ile suç arasında bir ilişki olması gerekir. Müsadere konusu eşya veya paranın suç ile ilgisi olup olmadığı üç kritere göre belirlenir. 
 
 * * Suçun işlenmesinde bizzat kullanılan eşya müsadere edilebilir.
-* * Suçun işlenmesine tahsis edilen eşya müsadere edilebilir.
-* * Suçtan elde edilen eşya müsaade edilebilir.
+  * Suçun işlenmesine tahsis edilen eşya müsadere edilebilir.
+  * Suçtan elde edilen eşya müsaade edilebilir.
 
 Suçta kullanılmak üzere hazırlanan eşya veya para müsadere edilemez. Suçta kullanılmak üzere hazırlanan eşya, ancak kamu güvenliği, kamu sağlığı veya genel ahlak açısından tehlike oluşturuyorsa müsadere edilebilir.
 
