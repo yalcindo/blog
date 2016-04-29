@@ -23,17 +23,20 @@ iv) Grup içinde doğumları engellemek amacıyla tedbirler almak suretiyle soyk
 
 v) Gruba mensup çocukları zorla bir başka gruba nakletmek suretiyle soykırım suçu  (Statü md. 6/e).
 
-**Soykırım suçu**nun en önemli özelliği, ancak özel kastla işlenebilen bir suç olmasıdır . Soykırım suçunun oluşabilmesi için yukarıda açıkladığımız, suçun maddi unsurunu oluşturan beş fiilden herhangi birinin; ulusal, etnik, ırksal veya dinsel bir grubu kısmen veya tamamen yok etmek özel kastıyla işlenmesi gerekir. 
+Soykırım suçunun en önemli özelliği, ancak özel kastla işlenebilen bir suç olmasıdır . Soykırım suçunun oluşabilmesi için yukarıda açıkladığımız, suçun maddi unsurunu oluşturan beş fiilden herhangi birinin; ulusal, etnik, ırksal veya dinsel bir grubu kısmen veya tamamen yok etmek özel kastıyla işlenmesi gerekir. 
 
 Her türlü grup aleyhine işlenen suçlar soykırım suçunu oluşturmaz. Soykırım suçunun mağduru, ancak 6. maddede sayılan gruplar olabilir. Suçun mağduru olan gruplar maddede sınırlı olarak sayılmıştır. Yani, ulusal, etnik, ırksal veya dinsel bir gruplar dışındaki gruplar soykırım suçunun mağduru olamaz .
 
-*Soykırım suçu**nun faili herkes olabilir. Soykırım suçunu işleyen gerçek kişilerin asker veya sivil olması veya soykırıma uğrayan gruba mensup olmasının hiçbir önemi yoktur . Suç, sistematik bir devlet politikasının gereği olarak işlense bile kişi bakımından yetki başlığında işlediğimiz üzere devlet tüzel kişiliği bu suçtan dolayı yargılanmayacaktır. Ancak, suçun işlenmesine asli veya feri fail olarak katılan, kararları alan veya uygulayan devlet görevlileri soykırım suçundan yargılanabilecektir.	
+Soykırım suçunun faili herkes olabilir. Soykırım suçunu işleyen gerçek kişilerin asker veya sivil olması veya soykırıma uğrayan gruba mensup olmasının hiçbir önemi yoktur . Suç, sistematik bir devlet politikasının gereği olarak işlense bile kişi bakımından yetki başlığında işlediğimiz üzere devlet tüzel kişiliği bu suçtan dolayı yargılanmayacaktır. Ancak, suçun işlenmesine asli veya feri fail olarak katılan, kararları alan veya uygulayan devlet görevlileri soykırım suçundan yargılanabilecektir.	
 
-**Soykırım suçu**nun maddi unsurunu oluşturan beş fiil, mağdurların kimliği, failin kastı ve her fiilin yıkıcılığı açısından ortak özellikler arz etmektedirler.
+Soykırım suç*nun maddi unsurunu oluşturan beş fiil, mağdurların kimliği, failin kastı ve her fiilin yıkıcılığı açısından ortak özellikler arz etmektedirler.
 
-Günümüzde **ceza avukatı** olarak çalışan hukukçuların işlenen **soykırım suçu**nu dikkatle takip edip  teknik açıklamalarla mahkemeye bildirmeleri suçun soruşturulması için oldukça önem arzetmektedir.
+Günümüzde **ceza avukatı** olarak çalışan hukukçuların işlenen soykırım suçunu dikkatle takip edip  teknik açıklamalarla mahkemeye bildirmeleri suçun soruşturulması için oldukça önem arzetmektedir.
 
 
-**Ataköy-Bakırköy-İstanbul**/ **Avukat Baran Doğan Hukuk Bürosu**
+
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
 
 
