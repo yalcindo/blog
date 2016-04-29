@@ -84,4 +84,7 @@ Somut bir satışta önalım hakkını kullanmaktan feragat  ise adi yazılı bi
 
 **Şufa hakkı** (**önalım hakkı**), paydaşların rızası dışında üçüncü kişilerin taşınmaza ortak olmasını engelleyerek mülkiyet hakkını regüle eden bir hak olmasına rağmen uygulamada birçok mağduriyet yaşandığından iddia ve savunmanın mutlaka bir [gayrimenkul avukatı](https://barandogan.av.tr/blog/gayrimenkul-hukuku/gayrimenkul-avukati-istanbul.html) vasıtasıyla yapılması gerekir.
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
