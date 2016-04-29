@@ -136,11 +136,7 @@ suçu işleyen akraba aleyhine ceza verilemez.
 **Mala zarar verme suçu** belki de en çok ve en kolay işlenen suçlardan biridir. Suçun basit şeklinin şikayete tabi olması nedeniyle birçok olay adliyeye intikal etmemektedir. Özellikle bu suçun  [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) gibi diğer suçlarla birlikte işlenmesi halinde, suçun bileşik suça dönüşüp dönüşmediği savunma veya iddia görevini üstlenen [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından titizlikle değerlendirilmesi gerekir.
 
 
-**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+**Avukat Baran Doğan Hukuk Bürosu**
 
