@@ -77,7 +77,9 @@ Boşanma davasında hakimin verdiği hüküm ne olursa olsun her iki tarafın te
 **Boşanma avukatı,** davanın tarafları açısından velayet, maddi-manevi tazminat, mal paylaşımı gibi konularda meydana çıkacak uyuşmazlıklarda önemli bir savunma fonksiyonu ifa eder. Bu nedenle bir boşanma davasının boşanma avukatı ararcılığıyla yürütülmesi olası hak kayıplarını ortadan kaldırır.
 
 
+______________________________________________________________________________________________________________________________________
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+**Avukat Baran Doğan Hukuk Bürosu**
+
 
 
