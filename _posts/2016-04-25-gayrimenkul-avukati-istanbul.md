@@ -58,4 +58,7 @@ Taşınmaz satış vaadi, uygulamada çok çeşitli nedenlerle yapılmaktadır. 
 Taşınmaz sahibinin ölümüyle birlikte miras hukukundan kaynaklanan birtakım anlaşmazlıklar çıkabilir. Örneğin, mirasçılardan biri kendi saklı payına tecavüz edildiğini veya muvazaalı bir satış işlemi olduğunu iddia edebilir. *Gayrimenkul avukatı*, miras hukukunun kendine özgü normlarını da göz önüne alarak hak sahibi için tapu iptal ve tescil davası açabilir. Miras hukukundan kaynaklanan tapu iptal ve tescil davaları taraf sayısının çok olması nedeniyle oldukça uzun sürdüğünden gayrimenkul avukatı yoluyla dava açmak dava sürecinin uzamasını önler.
 
 
-**Ataköy – Bakırköy – İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
