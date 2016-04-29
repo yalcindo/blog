@@ -28,4 +28,6 @@ Davalı ile boşanma ve fer'i sonuçlarında anlaştıklarını belirterek boşa
 
 SONUÇ : Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 08.05.2014 gününde oybirliğiyle karar verildi.
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
