@@ -17,15 +17,17 @@ summary: Şufa Hakkı (Önalım Hakkı) Nedir? Şufa Davası veya Önalım Davas
 
 Şufa hakkı,  belli şartların bir arada bulunmasıyla kullanılabilecek bir haktır. Medeni Kanun önalım hakkı ile paydaşlara dava hakkı tanıyarak taşınmazın mevcut paydaşlar arasında kalmasını hedeflemiştir. Üçüncü kişilerin dışardan taşınmaza paydaş olarak girmesi zorlaştırılarak mevcut paydaşlar arasında süren ahengin bozulması önlenmek istenmiştir.
 
-Şufa hakkı aşağıdaki şartlarla kullanılabilir:
+***Şufa hakkı aşağıdaki şartlarla kullanılabilir:***
 
 ### Şufa Hakkı Paylı Mülkiyette Kullanılabilir
 
-*Şufa hakkı,* ancak paylı mülkiyette tabi taşınmazlarda kullanılabilir. Kat irtifakı veya kat mülkiyeti olan taşınmazlarda şufa hakkı** (önalım hakkı) kullanılamaz. Taşınmazın arsa veya daire olmasının hiçbir önemi yoktur. Şufa hakkının kullanılabilmesinin önşartı taşınmazın vasfı değil, taşınmazın paylı mülkiyete tabi olmasıdır.
+*Şufa hakkı,* ancak paylı mülkiyette tabi taşınmazlarda kullanılabilir. Kat irtifakı veya kat mülkiyeti olan taşınmazlarda şufa hakkı (önalım hakkı) kullanılamaz. Taşınmazın arsa veya daire olmasının hiçbir önemi yoktur. Şufa hakkının kullanılabilmesinin önşartı taşınmazın vasfı değil, taşınmazın paylı mülkiyete tabi olmasıdır.
 
 ### Şufa Hakkı Paydaşlar Tarafından Kullanılabilir
 
-Şufa hakkının kimler tarafından kullanılabileceği Medeni Kanun md. 732’de açıkça ifade edilmiştir. Şufa hakkı ancak paydaşlar tarafından kullanılabilir. Taşınmazda paydaş olmayan ancak kişisel bir alacak hakkına sahip olanlar veya taşınmazda sınırlı bir ayni hakka sahip olanlar **şufa hakkını kullanamaz.
+Şufa hakkının kimler tarafından kullanılabileceği Medeni Kanun md. 732’de açıkça ifade edilmiştir. Şufa hakkı ancak paydaşlar tarafından kullanılabilir. 
+
+Taşınmazda paydaş olmayan ancak kişisel bir alacak hakkına sahip olanlar veya taşınmazda sınırlı bir ayni hakka sahip olanlar şufa hakkını kullanamaz.
 
 ### Şufa Hakkı Fiilen Taksim Edilmemiş Taşınmazda Kullanılır
 
@@ -34,6 +36,7 @@ Müşterek veya iştirak halinde mülkiyete tabi taşınmazda hangi paydaşın g
 ### Şufa Hakkı (Önalım Hakkı) Kime Karşı Kullanılır?
 
 **Şufa hakkı,**  ancak bir paydaşın payını satın alan alıcıya karşı kullanılabilir. Gayrimenkulün alıcısı üçüncü kişi şufa davasının davalısıdır. Şufa davasında payını satan paydaşa karşı dava açılamaz.
+
 Paydaşın diğer bir paydaşa yaptığı satışlarda şufa hakkı kullanılamaz. Önalım hakkı üçüncü kişilere karşı kullanılabilir, ancak paydaşlara karşı kullanılamaz.  
 
 ### Alıcının Satışı Noter Aracılığıyla Bildirme Yükümlülüğü
@@ -44,7 +47,7 @@ Medeni Kanun md. 733/3 gereği alıcı, tüm paydaşlara taşınmazı satın ald
 
 Şufa hakkı, ancak dava yoluyla kullanılabilir. Yukarıda açıkladığımız üzere,  gayrimenkulün paydaşı olan herhangi bir paydaş taşınmazı satın alan alıcıya karşı dava açmalıdır.
 
-**Şufa davası,**  görevli mahkeme olan Asliye Hukuk Mahkemesi’nde dava açılarak kullanılmalıdır. Şufa davasında yetkili mahkeme gayrimenkulün bulunduğu yer mahkemesidir. Bu nedenle, Bakırköy’da bulunan bir gayrimenkul için İstanbul Çağlayan Adliyesi’nde şufa davası açılamaz. Yetkili ve görevli mahkeme gayrimenkulun bulunduğu yer olan Bakırköy Asliye Hukuk Mahkemesi’dir.
+**Şufa davası,**  görevli mahkeme olan Asliye Hukuk Mahkemesi’nde dava açılarak kullanılmalıdır. Şufa davasında yetkili mahkeme gayrimenkulün bulunduğu yer mahkemesidir. Bu nedenle, Bakırköy’de bulunan bir gayrimenkul için İstanbul Çağlayan Adliyesi’nde şufa davası açılamaz. Yetkili ve görevli mahkeme gayrimenkulun bulunduğu yer olan Bakırköy Asliye Hukuk Mahkemesi’dir.
 
 ### Şufa Hakkını (Önalım Hakkını) Kullanma Süresi Nedir?
 
@@ -80,7 +83,7 @@ Somut bir satışta önalım hakkını kullanmaktan feragat  ise adi yazılı bi
 
 *	Önalım hakkı kullanma yetkisi doğan paydaş, bu hakkını isterse kullanır, istemezse kullanmaz ya da kullandıktan sonra bu haktan feragat edebilir.  *Şufa hakkı,* özel hukuktan doğan bir hak olduğundan hak sahibinin iradesine tabidir. Şufa hakkından feragat, niteliği gereği hukuki sonuç doğuran tek taraflı bir hukuki muameledir.  Medeni Kanun'un 733. maddesine göre önalım hakkından feragat belli bir şahsa karşı ya da herkese karşı olabileceği gibi dava açıldıktan sonra bu haktan feragat etmek de mümkündür. Önalım hakkı sahibi paylı taşınmazdaki payın 3. şahsa satışından önce, satıştan sonra veya dava açıldıktan sonra bu hakkından vazgeçebilir belli bir şahsa karşı onalım hakkından feragat eden paydaş yeni bir satım yapılması halinde önalım hakkını kullanabilir ( Yargıtay 6. Hukuk Dairesi - Esas No: 2011/11373, Karar No: 2011/12630, Tarih: 22.11.2011 ).
 
-* Davacı ve davalıya pay satan dava dışı kişiler arasında 16.10.2009 tarihinde düzenlenen miras taksim sözleşmesinde yer verilen, "işbu miras taksim sözleşmesindeki mirasçı taraflar kendi hisselerine düşen payı bir başkasına satmak isterse iyi niyet gereği öncelikle diğer mirasçılara satın alma teklifini yapmakla yükümlüdür”  ifadesiyle sözleşmeye dayalı* **önalım hakkı** düzenlenmiştir.  Yazılı şekilde yapılmış bu önalım sözleşmesi geçerli olup, tarafları bağlar; bu hak, tapunun beyanlar hanesine tescil edildiğinden, üçüncü kişilere karşı da ileri sürülebilir. Bu durumda davacının, davaya konu payın davalıya satılması sebebiyle sözleşmeden kaynaklanan şufa hakkını kullanmasında bir usulsüzlük bulunmamaktadır (Yargıtay Hukuk Genel Kurulu – Esas No:  2013/494, Karar No: 2014/153, Tarih: 26.02.2014).
+* Davacı ve davalıya pay satan dava dışı kişiler arasında 16.10.2009 tarihinde düzenlenen miras taksim sözleşmesinde yer verilen, "işbu miras taksim sözleşmesindeki mirasçı taraflar kendi hisselerine düşen payı bir başkasına satmak isterse iyi niyet gereği öncelikle diğer mirasçılara satın alma teklifini yapmakla yükümlüdür”  ifadesiyle sözleşmeye dayalı **önalım hakkı** düzenlenmiştir.  Yazılı şekilde yapılmış bu önalım sözleşmesi geçerli olup, tarafları bağlar; bu hak, tapunun beyanlar hanesine tescil edildiğinden, üçüncü kişilere karşı da ileri sürülebilir. Bu durumda davacının, davaya konu payın davalıya satılması sebebiyle sözleşmeden kaynaklanan şufa hakkını kullanmasında bir usulsüzlük bulunmamaktadır (Yargıtay Hukuk Genel Kurulu – Esas No:  2013/494, Karar No: 2014/153, Tarih: 26.02.2014).
 
 **Şufa hakkı** (**önalım hakkı**), paydaşların rızası dışında üçüncü kişilerin taşınmaza ortak olmasını engelleyerek mülkiyet hakkını regüle eden bir hak olmasına rağmen uygulamada birçok mağduriyet yaşandığından iddia ve savunmanın mutlaka bir [gayrimenkul avukatı](https://barandogan.av.tr/blog/gayrimenkul-hukuku/gayrimenkul-avukati-istanbul.html) vasıtasıyla yapılması gerekir.
 
