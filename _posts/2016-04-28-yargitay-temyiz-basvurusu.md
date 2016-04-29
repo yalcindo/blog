@@ -11,6 +11,10 @@ summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yar
 
 **Temyiz,** mahkeme tarafından verilen kararın yeniden incelenmesi için bir davanın taraflarına tanınan olağan bir kanun yoludur.  Esasen temyiz, üst mahkemede açılan yeni bir tür davadır. Taraflar, temyiz incelemesi ile yerel mahkeme kararının değiştirilmesini veya bozulmasını talep ederler. Ceza mahkemeleri kararlarına karşı temyiz başvurusu,  üst mahkeme,  yani bir temyiz mahkemesi  olan  Yargıtay’a temyiz dilekçesi  ile yapılır.
 
+[**Hukuk Davası Temyiz Kanun Yolu**](https://barandogan.av.tr/blog/medeni-hukuk/istinaf-ve-temyiz-nedir-hmk.html) Hukuk Muhakemeleri Kanunu'nda (hmk), bu yazımızın konusu olan ceza davası temyiz kanun yolu ise Ceza Muhakemesi Kanunu'nda (cmk) düzenlenmiştir. 
+
+
+
 
 ### ![Yargıtay Temyiz Başvurusu](https://camo.githubusercontent.com/e13824900dd05c77aa7cc5d1a4e9ae7a40169f17/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3750426f426d2e6a7067 "Yargıtay Temyiz Başvurusu")
 
