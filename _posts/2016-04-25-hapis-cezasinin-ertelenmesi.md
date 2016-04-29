@@ -12,7 +12,7 @@ keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, er
 ## Ceza Erteleme Nedir? 
 
 
-TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da infaz edilir. Ama bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilirç TCK'da bu imkanı sağlayan bir **ceza erteleme** kurumu olan **hapis cezasının ertelenmesi** kurumu mevcuttur. 
+TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da infaz edilir. Ancak, bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilir. TCK'da bu imkanı sağlayan bir **ceza erteleme** kurumu olan **hapis cezasının ertelenmesi** şeklinde bir bireyselleştirme kurumu mevcuttur. 
 
 Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için cezaevinde infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
 
@@ -96,11 +96,7 @@ Hapis cezasının ertelenmesi kararı temyiz edilebilir. Mahkeme ceza erteleme k
 
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+**Avukat Baran Doğan Hukuk Bürosu**
 
