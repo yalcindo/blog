@@ -127,12 +127,8 @@ Taksirle adam öldürme suçu, [“Adli Para Cezası”](https://barandogan.av.t
 
 **Taksirle adam öldürme**, özellikle bilinçli taksirle adam öldürme suçu, fiilin vehameti ve cezanın miktarı nedeniyle savunmanın bir [ağır ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) vasıtasıyla yapılması yararlı olacak bir suç türüdür.
 
-**Şirinevler-Bahçelievler-İstanbul   Avukat Baran Doğan Hukuk Bürosu**
-
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
