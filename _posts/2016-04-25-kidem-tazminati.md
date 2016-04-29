@@ -187,4 +187,7 @@ Kıdem tazminatı hakkı, işçinin en temel çalışma haklarından biridir. **
 
 
 
-**Ataköy-Bakırköy-İstanbul** / ***Avukat Baran Doğan Hukuk Bürosu***
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
