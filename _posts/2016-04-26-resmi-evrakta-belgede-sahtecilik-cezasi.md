@@ -161,12 +161,9 @@ Uygulamada çoğu zaman fail, resmi evrakta sahtecilik suçu işlemekte,  bu su�
 
 Resmi belgede sahtecilik suçu cezası bakımından oldukça ağır hukuki sonuçlar doğurabileceğinden mutlaka bir [**Ceza Avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile savunma yapılmalıdır. **Resmi evrakta sahtecilik suçu,** kamu güvenine karşı işlenen ve sosyal düzenin esaslı bir şekilde hukuki güvenlik kavramından yoksun kalmasıyla neticelendiğinden kanun yapıcı tarafından özellikle ayrıntılı düzenlenmiştir.
 
-**Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-* Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
 
