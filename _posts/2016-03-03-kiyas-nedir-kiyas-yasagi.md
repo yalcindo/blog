@@ -26,7 +26,7 @@ Konuşmacı olduğumuz bir CMK-Ceza Avukat Semineri'nin bir bölümünden **Kıy
 
 
 
-Not-1: Bu video, mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
+Not: Bu video, mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
 
 ______________________________________________________________________________________________________________________________________
 
