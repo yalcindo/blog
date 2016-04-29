@@ -153,14 +153,6 @@ Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgele
 Özel belgede sahtecilik suçu cezası ağır olmasa bile doğurduğu hukuki sonuçlar nedeniyle vahim bir suçtur. Özel evrakta sahtecilik suçu, kişiler arasında mevcut şahsi ve ticari ilişkileri zedeleyerek kamu düzenini bozan bir suç olduğundan soruşturma ve kovuşturmasının titizlikle yapılması gerekir.
 
 
-
-**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
-
-
+**Avukat Baran Doğan Hukuk Bürosu**
