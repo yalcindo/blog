@@ -51,5 +51,8 @@ EK	:
                                                                                    (İsim ve İmza)
  
  
- 
- **Ataköy-Bakırköy-istanbul / Avukat Baran Doğan Hukuk Bürosu**
+ _____________________________________________________________________________________________________________________________________
+
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
