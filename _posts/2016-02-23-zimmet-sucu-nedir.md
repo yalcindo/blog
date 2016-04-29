@@ -7,31 +7,31 @@ keywords:  Zimmet nedir? Zimmet Suçu, Kullanma zimmeti suçu, zimmet suçu ceza
 summary: Zimmet nedir? Zimmet Suçu Nedir? Kullanma Zimmeti Suçu nedir? Zimmet Suçunun Şartları, Nitelikli Zimmet Suçu, Zimmet Suçu ve Etkin Pişmanlık, Zimmet Suçu ve Ceza İndirimi, Zimmet Suçunun Cezası
 ---
 
-## Zimmet Suçu Nedir
+## Zimmet Suçu Nedir?
 
 **Zimmet suçu**, kamu görevlisi olan şahsın görevi nedeniyle zilyetliği kendisine verilmiş olan veya gözetimiyle sorumlu olduğu mallar üzerinde görev çerçevesine aykırı bir şekilde tasarrufta bulunması, bu malları kendisinin veya irtibatlı bulunduğu bir başkasının zimmetine geçirmesi olarak tanımlanabilir. Zimmet suçu, ancak kamu görevlisi (devlet memuru, avukat, bilirkişi vs.) tarafından işlenebilir. Kamu görevlisi olmayan kişiler zimmet suçu sebebiyle değil, koşulları varsa hırsızlık suçu veya güveni kötüye kullanma suçu nedeniyle yargılanabilirler.
 
 ## Zimmet Suçu Şikayet Süresi
 
-**Zimmet suçu**, şikayete bağlı olan suçlardan olmadığından savcılık suçun işlendiğini öğrenir öğrenmez soruşturma başlatmak zorundadır. Suç, kamu idaresinin güvenirliğine ve işleyişine karşı işlenen suçlardan olduğundan savcılık bu tip suçları hassasiyetle soruşturmaktadır. Zimmet suçu ile ilgili dava zamanaşımı süresi 15 yıldır. Suç işlendiğinin savcılığa bildirilmesiyle bu süre içerisinde soruşturma ve kovuşturma yapılabilir.
+*Zimmet suçu*, şikayete bağlı olan suçlardan olmadığından savcılık suçun işlendiğini öğrenir öğrenmez soruşturma başlatmak zorundadır. Suç, kamu idaresinin güvenirliğine ve işleyişine karşı işlenen suçlardan olduğundan savcılık bu tip suçları hassasiyetle soruşturmaktadır. Zimmet suçu ile ilgili dava zamanaşımı süresi 15 yıldır. Suç işlendiğinin savcılığa bildirilmesiyle bu süre içerisinde soruşturma ve kovuşturma yapılabilir.
 
 ### ![Zimmet Suçu Nedir](https://camo.githubusercontent.com/9f53eb794da371624adccd65af26bae6b388150b/687474703a2f2f692e68697a6c69726573696d2e636f6d2f72384436306d2e6a7067 "Zimmet Suçu Nedir")
 
 
 ## Zimmet Suçu Şartları [(TCK md. 247)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5195)
 
-### 1- Zimmet Suçu Kamu Görevlisi Tarafından İşlenebilir
+### Zimmet Suçu Kamu Görevlisi Tarafından İşlenebilir
 
-**Zimmet suçu**, ancak kamu görevlisi olan şahıslar tarafından işlenebilecek ‘özgü’ suçlardandır.  Özgü suç, herkesin suçun faili olamayacağı, belli nitelikleri olan kişilerin fail olabileceği suç tipidir. Kamu  görevlisi, TCK’nın 6. maddesinde tanımlanmıştır. Kamu görevlisi kavramı ile devlet memuru kavramı birbirine karıştırılmalıdır. Kamu görevlisi devlet memuru kavramını da içine alan çok daha geniş bir kavramdır. Kamusal faaliyetin yürütülmesine atama, seçilme veya başka bir şekilde sürekli, süreli veya geçici olarak katılan kişi kamu görevlisi olarak kabul edilmektedir. Örneğin, devlet memurları, bazı idari kurumlar veya mahkemelerce atanan bilirkişiler, bir davada dinlenen tanıklar, avukatlar, noterler gibi işleri yapanlar kamu görevlisidirler. Kişinin kamu görevlisi olup olmadığı yaptığı iş veya ifa ettiği fonksiyona göre değerlendirilir.
+*Zimmet suçu*, ancak kamu görevlisi olan şahıslar tarafından işlenebilecek ‘özgü’ suçlardandır.  Özgü suç, herkesin suçun faili olamayacağı, belli nitelikleri olan kişilerin fail olabileceği suç tipidir. Kamu  görevlisi, TCK’nın 6. maddesinde tanımlanmıştır. Kamu görevlisi kavramı ile devlet memuru kavramı birbirine karıştırılmalıdır. Kamu görevlisi devlet memuru kavramını da içine alan çok daha geniş bir kavramdır. Kamusal faaliyetin yürütülmesine atama, seçilme veya başka bir şekilde sürekli, süreli veya geçici olarak katılan kişi kamu görevlisi olarak kabul edilmektedir. Örneğin, devlet memurları, bazı idari kurumlar veya mahkemelerce atanan bilirkişiler, bir davada dinlenen tanıklar, avukatlar, noterler gibi işleri yapanlar kamu görevlisidirler. Kişinin kamu görevlisi olup olmadığı yaptığı iş veya ifa ettiği fonksiyona göre değerlendirilir.
 
-### 2- Zimmet Suçu, Görev Nedeniyle Teslim Edilmiş Mal Üzerinde İşlenebilir
+### Zimmet Suçu, Görev Nedeniyle Teslim Edilmiş Mal Üzerinde İşlenebilir
 
 Zimmet suçu, kamu görevlisine “görevi nedeniyle” zilyedliği devredilen veya koruma ve gözetimine bırakılan mal üzerinde işlenebilir. Suçun konusu olan mal kavramı, taşınır ve taşınmaz malların yanı sıra parasal değerleri  de kapsamaktadır.  Kamu görevlisine teslim edilen mal görevi gereği teslim edilmiş değilse suç oluşmaz. Örneğin, bir memurun başka bir memur arkadaşına görevi gereği teslim edilen malı arkadaşından habersiz alarak kendi yararına kullanması zimmet suçu oluşmasına neden olmaz.
 
 
-### 3- Kamu Görevlisi (Memur vs.) Malı Kendisinin veya Başkasının Zimmetine Geçirmelidir
+### Kamu Görevlisi (Memur vs.) Malı Kendisinin veya Başkasının Zimmetine Geçirmelidir
 
-**Zimmet suçu**, kamu görevlisinin ancak malın mülkiyet hakkı sahibinin bulunabileceği tasarrufları yapmasıyla vücut bulur. Suçu işleyen fail adeta malın mülkiyet hakkı sahibiymiş gibi hareket etmelidir. Kamu görevlisinin malı tüketme, kullanma, satma, başkasına kullandırma veya yararlandırma, parayı kendisinin veya başkasının işi için kullanma eylemlerinin tamamı zimmet olarak nitelenebilir.												
+*Zimmet suçu*, kamu görevlisinin ancak malın mülkiyet hakkı sahibinin bulunabileceği tasarrufları yapmasıyla vücut bulur. Suçu işleyen fail adeta malın mülkiyet hakkı sahibiymiş gibi hareket etmelidir. Kamu görevlisinin malı tüketme, kullanma, satma, başkasına kullandırma veya yararlandırma, parayı kendisinin veya başkasının işi için kullanma eylemlerinin tamamı zimmet olarak nitelenebilir.												
 Kamu görevlisi bir malı kullanmışsa, bu kullanmanın malın mülkiyet hakkı sahibinin tasarrufları gibi bir kullanma olup olmadığının araştırılması gerekir. Her bir kullanma ilgili somut olayın özellikleri göz önüne alınarak değerlendirme yapılmalıdır.  Kamu görevlisinin veya malı kullandırdığı kişinin kullanma fiilinin belli bir süreyle sınırlı olması suçun oluşmasını engellemez. Önemli olan malın mülkiyet hakkı sahibi gibi tasarrufta bulunulup bulunulmadığıdır.
 
 
@@ -87,7 +87,7 @@ Zimmet suçu nedeniyle yargılama yapılıp hüküm verildikten sonra zarar gide
 
 ### Zimmet Suçu ve Malın Değerinin Azlığı Nedeniyle Ceza İndirimi [(TCK md. 249)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5197)
 
-**Zimmet suçu**, kamu idaresinin güvenirliğine ve devlete karşı işlenen suçlar kategorisinde yer alır. Ancak malvarlığı değerlerine karşı işlenmesi nedeniyle ekonomik suç kategorisinde kabul edilen suçlardandır.
+*Zimmet suçu*, kamu idaresinin güvenirliğine ve devlete karşı işlenen suçlar kategorisinde yer alır. Ancak malvarlığı değerlerine karşı işlenmesi nedeniyle ekonomik suç kategorisinde kabul edilen suçlardandır.
 
 Zimmet suçunun konusu olan malın değerinin azlığı bir ceza indirimi nedenidir. Suçun konusu olan malın değerinin azlığı nedeniyle faile verilecek 1/3 oranından 1/2 oranına kadar ceza indirimi yapılabilir. 
 
