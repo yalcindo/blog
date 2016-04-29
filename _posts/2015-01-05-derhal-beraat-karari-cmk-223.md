@@ -49,10 +49,7 @@ Konuşmacı olduğumuz bir CMK- Ceza Avukat Semineri'nin bir bölümünden alın
 
 ###  [![Derhal Beraat Kararı](https://camo.githubusercontent.com/8c2231fc1810ea0db66a5c95556aed44f1a1bb5d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f41413345332e6a7067)](https://youtu.be/6kDYXp7Yds8 "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center>
 
-**Şirinevler - Bahçelievler- İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-Hukuk Bürosu Not-1: Bu video, ceza avukatları ve mesleğini ceza avukatı olarak icra etmek isteyen stajyer avukatlar için İstanbul'da düzenlenen bir seminerde hazırlanmıştır.
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Hukuk Bürosu Not-2: Türkiye’deki avukatlık uygulmasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
