@@ -60,7 +60,7 @@ TCK md. 249 gerekçesinde, kullanma zimmeti suçunun gerek biçim gerekse süre 
 
 ### Zimmet Suçunun Cezası
 
-**Zimmet suçu** nedeniyle faile üç tür ceza verilebilir. Suçun temel şekli işlendiğinde basit zimmet suçu, hileli davranışlar sergilenerek işlendiğinde nitelikli zimmet suçu, geçici bir süreyle malın kullanılarak iadesi halinde kullanma zimmeti suçundan ceza verilebilir.
+Zimmet suçu nedeniyle faile üç tür ceza verilebilir. Suçun temel şekli işlendiğinde basit zimmet suçu, hileli davranışlar sergilenerek işlendiğinde nitelikli zimmet suçu, geçici bir süreyle malın kullanılarak iadesi halinde kullanma zimmeti suçundan ceza verilebilir.
 
 * **Basit Zimmet Suçu Cezası:** Basit zimmet suçu cezası, suçun temel şekline verilen cezadır.  Temel şeklinin işlenmesi halinde faile  verilecek zimmet suçu cezası  5 yıl ile 12 yıl arası hapis cezasıdır.
 
