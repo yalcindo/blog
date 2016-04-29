@@ -40,4 +40,7 @@ O halde, anılan belgenin aslı temin edilerek, belge üzerinde bilirkişi tetki
 
 SONUÇ : Davalı H.'in bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün ( 6100 sayılı Hukuk Muhakemeleri Kanununun geçici 3. maddesi aracılığıyla ) 1086 sayılı HUMK.nun 428. maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 22.12.2011 tarihinde oybirliğiyle karar verildi.
 
-**Ataköy- Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
