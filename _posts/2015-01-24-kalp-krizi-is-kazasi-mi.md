@@ -99,4 +99,7 @@ gününde oybirliğiyle karar verildi.
  
  Üye H.Özdemir
  
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
