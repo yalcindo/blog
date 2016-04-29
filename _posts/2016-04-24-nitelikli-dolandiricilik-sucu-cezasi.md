@@ -208,12 +208,7 @@ Dolandırıcılık suçu veya suçun daha ağır şekli olan *nitelikli dolandı
 
 **Dolandırıcılık suçu,** birçok farklı icrai hareketle işlenebildiğinden hukuk uygulayıcılarının her yeni vakıada suçun işlenip işlenmediği noktasındaki analizi hile, aldatma gibi kavramlar ışığında yapması gerekir. 
 
-**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-* Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
-
+**Avukat Baran Doğan Hukuk Bürosu**
 
