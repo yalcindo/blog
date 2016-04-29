@@ -91,11 +91,8 @@ Uygulamada kolluk aşamasında şikayetten vazgeçildiği, fakat daha sonra şik
 
 **Özel hayatın gizliliğini ihlal suçu,** bir hukuki değer olan kişilerin özel hayatını ve onurunu koruduğundan soruşturma aşamasının titiz bir şekilde yapılması suç faillerinin yakalanması açısından önemlidir. *Özel hayatın gizliliğini ihlal suçu,* günümüzde bazı teknik araçlar kullanılarak işlendiğinden iddia ve savunmanın bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) aracılığıyla yapılması maddi gerçeğin ortaya çıkmasına yardımcı olacaktır.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
