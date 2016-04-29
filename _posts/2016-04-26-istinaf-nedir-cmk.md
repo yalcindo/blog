@@ -121,4 +121,6 @@ Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanac
 
 * [**Ankara Bölge Adliye Mahkemesi Web Sitesi**](http://www.ankarabam.adalet.gov.tr/)
 
-**Şirinevler - Bahçelievler - İstanbul Avukat Baran Doğan**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
