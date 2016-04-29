@@ -168,17 +168,9 @@ Emniyeti suistimal suçu nedeniyle herhangi bir zarar oluşmuşsa, sanığın h�
 Özellikle **hizmet nedeniyle güveni kötüye kullanma** suçu ile zimmet suçu, hırsızlık suçu, dolandırıcılık suçu gibi suçlar arasında oldukça ince çizgiler olduğundan suça dair savunmanın bir [**Ceza Avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile birlikte yapılması gerekir.
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
-
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
-
-
-
+**Avukat Baran Doğan Hukuk Bürosu**
 
 
 
