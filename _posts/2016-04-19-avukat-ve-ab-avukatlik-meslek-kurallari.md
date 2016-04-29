@@ -118,4 +118,6 @@ Avukat, AB üyesi bir devlette mesleğini ifa eden bir meslektaşının meslek k
 
 AB Avukatlık Meslek Kuralları birliğe üye ülkelerdeki tüm avukatlar için geçerlidir. İster [**ağır ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukati.html) isterse boşanma avukatı olunsun üye ülkelerde avukatlık yapılırken AB Avukatlık Meslek Kurallarına uyma mecburiyeti vardır.
 
-**Ataköy-Bakırköy-İstanbul  Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
