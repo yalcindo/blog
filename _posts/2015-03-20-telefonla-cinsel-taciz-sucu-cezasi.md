@@ -95,10 +95,8 @@ SONUÇ : Açıklanan nedenlerle;
 
 2- ) Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 10.03.2015 tarihinde yapılan müzakerede oybirliğiyle karar verildi.
 
-**Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
-	 
-______________________________________________________________________________________________________________________________________	 
-Hukuk Bürosu Not:
 
-Türkiye’deki avukatlık uygulmasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
 
