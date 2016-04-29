@@ -62,4 +62,7 @@ Statü, zorunluluk halini ayrı bir bent halinde açıkça düzenlemiştir. Stat
 
 Hukuka uygunluk nedenleri, uluslararası suçlarda devlet görevlilerinin bir kaçış mekanizması olarak işlemektedir. Bu nedenle bu davalarda müştekiyi savunma işlevini yerine getiren [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tüm parametreleri dikkatlice değerlendirerek cezasızlığın önüne geçmelidir.
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
