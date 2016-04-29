@@ -133,5 +133,7 @@ Meslek sırrı, avukatlık bürolarının dikkat etmesi gereken en önemli mesle
 Ceza avukatı, savunma fonksiyonu ile temel hak ve özgürlüklere yanlış yapılan müdahaleleri önleyerek hukuk devletinin ve özgürlüklerin gelişimine önemli bir katkı sunar.
 
 
+______________________________________________________________________________________________________________________________________
 
-**Ataköy-Bakırköy-İstanbul** /**Avukat Baran Doğan Hukuk Bürosu**
+**Avukat Baran Doğan Hukuk Bürosu**
+
