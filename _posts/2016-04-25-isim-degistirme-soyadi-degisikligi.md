@@ -71,5 +71,7 @@ Ad ve soyadı değiştirme davası kabul edildiğinde mahkeme değişikliği yer
 MK md. 27’ye göre, ad ve soyadı değişikliği nedeniyle herhangi bir şekilde zarar görenler, değişiklikten haberdar olunmasından itibaren 1 yıl içerisinde **isim ve soyadı değişikliği** kararının kaldırılması için dava açabilir. Ancak, belirtmek gerekir ki burdaki zarar gerçekçi, objektif ve ispatlanabilir bir zarar olmalıdır. Örneğin, ünlü kişilerden birinin akrabası ad ve soyadını aynen ünlü kişi gibi değiştirirse bu değişikliğin bir zarar doğurma ihtimali olabilir.
 
 
+______________________________________________________________________________________________________________________________________
 
-**Ataköy-Bakırköy-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+**Avukat Baran Doğan Hukuk Bürosu**
+
