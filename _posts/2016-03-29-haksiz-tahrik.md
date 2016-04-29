@@ -93,4 +93,7 @@ SONUÇ : Açıklanan nedenlerle;
 2- ) Sanık M. D. müdafiinin tahliye isteminin reddine,
 3- ) Dosyanın mahalline gönderilmek üzere Yargıtay C.Başsavcılığına tevdiine, 18.12.2012 günü yapılan müzakerede tebliğnamedeki isteme uygun olarak oybirliğiyle karar verildi.
 
-**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
