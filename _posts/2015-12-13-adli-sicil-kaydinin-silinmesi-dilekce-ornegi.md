@@ -115,11 +115,7 @@ Adli sicil kaydı ile "arşiv kaydı" iki farklı kavramdır. Mahkumiyet hüküm
 Cezanız infaz edilmesine rağmen adli sicil kaydınız silinmemiş ise bir [Ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) ile durumu mütalaa ediniz. **Adli sicil kaydı** koşulları gerçekleştiğinde kendiliğinden silinmelidir. Fakat adli sicil kaydınızda halen mahkumiyet hükmü görünüyor ise bunu sildirmek için Adli Sicil ve İstatistik Genel Müdürlüğü’ne bir [**Adli Sicil Kaydının Silinmesi Dilekçesi**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi1.html) ile  başvurarak adli sicil kaydınızın silinmesini isteyebilirsiniz. Dilekçenizi istediğiniz herhangi bir yerden PTT şubesi vasıtasıyla gönderebilirsiniz.
 
 
-**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+**Avukat Baran Doğan Hukuk Bürosu**
 
