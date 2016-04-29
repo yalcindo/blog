@@ -125,13 +125,9 @@ Tehdit suçu, çoğu zaman ["Hakaret Suçu"](https://barandogan.av.tr/blog/ceza-
 **Tehdit suçu,** kişinin özel ve sosyal yaşamında huzur içinde yaşama hakkını koruyan bir suçtur. Özellikle nitelikli tehdit suçunun cezası bu işlevine paralel olarak belirlenmiştir. Ancak uygulamada yeterince etkin soruşturma ve kovuşturma yapılmadığından tehdit suçu adil bir şekilde yargılanamamaktadır.
 
 	
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
+**Avukat Baran Doğan Hukuk Bürosu**
 
-**Hukuk Bürosu Not:**
-
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
 
