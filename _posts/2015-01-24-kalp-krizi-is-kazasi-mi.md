@@ -15,7 +15,7 @@ summary: Avukatlık yaptığımız bir davada, kalp krizini iş kazası saymayan
 
 | Yargıtay Dairesi                   |      Esas No      |  Tarih     | 
 |:-----------------------------------|:-----------------:|-----------:|
-| Yargıtay 10. Hukuk Dairesi         |  2013/3429        | 25.12.2012 |
+| Yargıtay 10. Hukuk Dairesi         |     2013/3429     | 25.12.2012 |
 
 
 
