@@ -47,4 +47,7 @@ Suçun mağduru, suçun işlendiği yer devletiyle vatandaşlık bağı olsun ve
 
 **İnsanlığa karşı suçlar** konusunda bilgi sahibi olan, teknik bilgiye sahip olan insanlar, özellikle [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faailiyet gösteren avukatlar dünyanın her yerinde işlenen suçları takip ederek mahkemeye bildirebilir. Böylece mahkeme konu ile ilgili soruşturma açılıp açılmaması noktasında bir değerlendirme yapma imkanı bulur.
 
-**Ataköy-Bakırköy-istanbul / Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
