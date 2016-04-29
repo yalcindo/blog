@@ -46,4 +46,7 @@ Paydaşlığın ( ortaklığın ) satış yoluyla giderilmesi halinde dava konus
 
 **Ortaklığın giderilmesi (izale-i şüyu) davası,** ferdi mülkiyete geçmek isteyen mülk sahibinin bu hakkını güvence altına alan, ama bu arada tüm paydaşların haklarını eşit bir şekilde koruyan bir gayrimenkul davası olarak mutlaka bir [gayrimenkul avukatı](https://barandogan.av.tr/blog/gayrimenkul-hukuku/gayrimenkul-avukati-istanbul.html) tarafından takip edilmelidir.
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
