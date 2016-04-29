@@ -108,4 +108,6 @@ Maddenin ikinci fıkrasında düzenlenen suç hem bu maddede hem de TCK’da res
 
 **Spor hukuku,** Türkiye’de özellikle [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) olarak faaliyet gösteren avukatlar yönünden oldukça yeni gelişen bir alan olduğundan suçların tanımlanması ve yaptırımların belirlenmesi de uygulamanın daha sağlıklı bir şekilde yapılmasını sağlayacaktır.
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
