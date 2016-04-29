@@ -117,4 +117,7 @@ Hâl böyle olunca; mahkemece, yukarıda açıklanan ilke ve esaslar gözetilere
 
 SONUÇ : Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nın 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 20.10.2014 tarihinde oybirliğiyle karar verildi.
 
-**Şirinevler-Bahçelievler-istanbul Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
