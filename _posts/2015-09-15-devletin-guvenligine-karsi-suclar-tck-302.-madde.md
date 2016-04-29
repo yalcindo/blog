@@ -95,4 +95,6 @@ Madde metniyle ayrıca cezalandırılması amaçlanan suçlar “araç suçlar�
 
 “…..5237 sayılı TCK'nın 314. maddesinde tanımlanan suç, Devletin güvenliğine, toprak bütünlüğüne, anayasal düzene ve bu düzenin işleyişine karşı suçları işlemek amacıyla kurulan silahlı örgütlerin kurucularını, yöneticilerini ve üyelerini cezalandırmaya yönelik hazırlık hareketlerini suç sayan ve yaptırıma bağlayan özel bir suç tipi olup; amaç suç işlendiğinde fail geçitli suçlardaki özellik nedeniyle amaç suç ile amaç suça yönelik olarak gerçekleştirilmiş bulunan araç suçlardan ilgili hükümlere göre cezalandırılacak, ancak örgütün kurucusu, yöneticisi ve üyesi olmaktan ceza verilmeyecektir…..”  (Yargıtay 9. Ceza Dairesi - Esas No: 2011/4205, Karar No: 2011/3247, Tarihi: 7.6.2011).
 
-**Şirinevler-Bahçelievler-İstanbul Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
