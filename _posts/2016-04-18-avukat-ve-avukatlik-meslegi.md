@@ -92,4 +92,7 @@ Avukatlar, yargısal, idari veya başka niteliklere sahip organlar önünde serb
 
 
 
-**Ataköy-Bakırköy/İstanbul - Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
