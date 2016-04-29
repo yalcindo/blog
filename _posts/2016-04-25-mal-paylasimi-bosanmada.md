@@ -156,4 +156,6 @@ Boşanmada mal paylaşımı sistemi, evli çiftlerin boşandıktan sonraki hayat
 
 
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
