@@ -106,11 +106,8 @@ Görevi kötüye kullanma suçu şikayete tabi bir suç değildir. Gerek kolluk 
 **Görevi kötüye kullanma,** kamu hizmetini aksatan gerek bireye gerek kamuya zarar verilmesine neden olan önemli bir fiil olduğundan *görevi kötüye kullanma suçu* TCK’da kamu görevlileri açısından temel bir suç olarak düzenlenmiştir.
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
