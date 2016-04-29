@@ -51,9 +51,7 @@ Somut olayda; sanığın, olay günü para istediğinde herhangi bir miktar beli
 Bozmayı gerektirmiş, sanık G.T. avukatının temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenlerle isteme uygun olarak BOZULMASINA, 10.03.2016 tarihinde oybirliğiyle karar verildi. 
 	 
 	 
-**Şirinevler- Bahçelievler-İstanbul Avukat Baran Doğan**
-	 
-______________________________________________________________________________________________________________________________________	 
-Hukuk Bürosu Not:
+______________________________________________________________________________________________________________________________________
 
-Türkiye’deki avukatlık uygulmasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
+**Avukat Baran Doğan Hukuk Bürosu**
+
