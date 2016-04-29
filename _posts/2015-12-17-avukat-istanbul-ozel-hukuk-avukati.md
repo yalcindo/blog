@@ -59,6 +59,9 @@ Avukat, mal paylaşımı davasını açmadan önce müvekkiliyle ayrıntılı g�
 **Avukat** veya makalemizin konusunu oluşturan özel hukuk avukatı önemli bazı  özel hukuk haklarının elde edilebilmesi için önemli bir savunma fonksiyonu icra eder.
 
 
-**Ataköy-Bakırköy-İstanbul / Avukat Baran Doğan Hukuk Bürosu**
+______________________________________________________________________________________________________________________________________
+
+**Avukat Baran Doğan Hukuk Bürosu**
+
 
 
