@@ -112,11 +112,8 @@ Müsadere yargılaması dava zamanaşımı itibariyle genel hükümlere tabidir.
 **Müsadere,** mülkiyet hakkına ceza hukuku aracılığıyla yapılan en etkili müdahale olduğundan savunmanın bir [Ceza Avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla yapılması yararlı olacaktır.
 
 
-**Şirinevler - Bahçelievler - İstanbul Avukat Baran Doğan**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
