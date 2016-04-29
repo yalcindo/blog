@@ -223,15 +223,11 @@ Tüm Türkiye'de kurulan istinaf mahkemelerinin web adresleri burdan yayınlanac
 
 
 
-**Şirinevler-Bahçelievler-istanbul Avukat Baran Doğan Hukuk Bürosu**
+
 
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:** 
-
-- Türkiye'de "özel hukuk avukatı" adı altında ayrı bir avukatlık branşı yoktur. Anlaşılır olabilmesi için "özel hukuk avukatı" deyimini kullanıyoruz.
-
-- Avukat Baran Doğan, 2001 yılında avukatlık stajını İstanbul Barosu'nda yapmış ve  kurduğu hukuk bürosu ile 2002 yılından beri İstanbul'da avukatlık yapmaktadır. 
+**Avukat Baran Doğan Hukuk Bürosu**
 
 
 
