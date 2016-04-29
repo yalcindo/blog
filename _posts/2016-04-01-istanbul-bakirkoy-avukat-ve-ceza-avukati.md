@@ -88,11 +88,8 @@ Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http:
 
 İstanbul avukat sayısı en yüksek olan şehirdir. Ancak İstanbul avukatları genellikle adliyeler civarında faaliyet göstermektedir. İstanbul avukat sayısı bakımından dünyanın en büyük avukat kenti olarak da adlandırılabilir.
 
-**Ataköy-Bakırköy-İstanbul** / **Avukat Baran Doğan Hukuk Bürosu**
-
 ______________________________________________________________________________________________________________________________________
 
-**Hukuk Bürosu Not:**
+**Avukat Baran Doğan Hukuk Bürosu**
 
-Türkiye’deki avukatlık uygulamasında, ceza avukatı veya ağır ceza avukatı adı altında ayrı bir avukatlık branşı mevcut değildir. Uygulamada halk tarafından ceza davalarını takip eden avukatlara ceza avukatı denildiğinden biz de [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) kavramını kullanmaktayız.
 
