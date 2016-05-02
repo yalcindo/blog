@@ -125,34 +125,34 @@ Ceza miktarı açısından yukarıda açıkladığımız bilişim suçları ile 
 ---
 
 
-* Sanık başkasının kimlik bilgileriyle önce bankadan kredi kartı almış, daha sonra bu kredi kartını kullanmıştır. **Bilişim suçları** işlenen fiilin niteliğine göre birden fazla kere işlenmiş olabilir. Somut olayda kredi kartının bankadan alınması ayrı bir **bilişim suçu** (TCK md. 245/2), kullanılması (TCK md. 245/3) ayrı bir **bilişim suçu** teşkil eder. Sanığa her iki bilişim suçu nedeniyle ayrı ayrı ceza verilmesi gerekir (Yargıtay 8. Ceza Dairesi - Esas No: 2014/36395, Karar No: 2015/2260, Tarih: 3.2.2015).
+* Sanık başkasının kimlik bilgileriyle önce bankadan kredi kartı almış, daha sonra bu kredi kartını kullanmıştır. *Bilişim suçları* işlenen fiilin niteliğine göre birden fazla kere işlenmiş olabilir. Somut olayda kredi kartının bankadan alınması ayrı bir bilişim suçu (TCK md. 245/2), kredi kartının kullanılması (TCK md. 245/3) ayrı bir bilişim suçu teşkil eder. Sanığa her iki bilişim suçu nedeniyle ayrı ayrı ceza verilmesi gerekir (Yargıtay 8. Ceza Dairesi - Esas No: 2014/36395, Karar No: 2015/2260, Tarih: 3.2.2015).
 
-* Sanık, müştekinin e-mail adresine girerek yeni şifre oluşturmuş, müştekinin erişimini engellemiştir. Bu fiil **bilişim suçları** arasında düzenlenmiştir. Sanığın fiili TCK md. 244/2'de düzenlenen **bilişim suçu** ile cezalandırılmalıdır (Yargıtay 8. Ceza Dairesi - Esas No: 2013/771, Karar No: 2014/15833, Tarih: 23.6.2014).
+* Sanık, müştekinin e-mail adresine girerek yeni şifre oluşturmuş, müştekinin erişimini engellemiştir. Bu fiil *bilişim suçları* arasında düzenlenmiştir. Sanığın fiili TCK md. 244/2'de düzenlenen *bilişim suçu* ile cezalandırılmalıdır (Yargıtay 8. Ceza Dairesi - Esas No: 2013/771, Karar No: 2014/15833, Tarih: 23.6.2014).
 
-* Bilişim suçları arasında düzenlenen 'kredi kartının kötüye kullanılması bilişim suçu' sadece kredi kartının fiziken kullanılması ile değil, kredi kartı fiziken elde olmadığı halde kart bilgilerinin kullanılmasıyla da oluşur. Bu nedenle sanık TCK md. 245'te düzenlenen **bilişim suçu** çerçevesinde cezalandırılmalıdır (Yargıtay 8. Ceza Dairesi - Esas No: 2013/15238, Karar No: 2014/9843, Tarih: 16.4.2014).
+* Bilişim suçları arasında düzenlenen *'kredi kartının kötüye kullanılması bilişim suçu'* sadece kredi kartının fiziken kullanılması ile değil, kredi kartı fiziken elde olmadığı halde kart bilgilerinin kullanılmasıyla da oluşur. Bu nedenle sanık TCK md. 245'te düzenlenen bilişim suçu çerçevesinde cezalandırılmalıdır (Yargıtay 8. Ceza Dairesi - Esas No: 2013/15238, Karar No: 2014/9843, Tarih: 16.4.2014).
 
 
 
-* Bilişim suçları hırsızlık suçu niteliğini almışsa sanık, **bilişim suçu** suretiyle hırsızlık suçunu düzenleyen TCK md. 142/2-e gereği cezalandırılmalıdır. Mevcut olayda sanık, kontör satan bayiinin bilgiyar programındaki şifreyi ele geçirmiş, kendisine ve başkalrına internet üzerinden kontör göndermiştir. Sanık TCK 142/2-e maddesinde yer alan bilişim suretiyle hırsızlık suçundan cezalandırılmalıdır (Yargıtay 13. Ceza Dairesi - Esas No: 2013/8784, Karar No: 2014/9032, Tarih: 13.3.2014).
+* Bilişim suçları hırsızlık suçu niteliğini almışsa sanık, bilişim suçu suretiyle hırsızlık suçunu düzenleyen TCK md. 142/2-e gereği cezalandırılmalıdır. Mevcut olayda sanık, kontör satan bayiinin bilgiyar programındaki şifreyi ele geçirmiş, kendisine ve başkalrına internet üzerinden kontör göndermiştir. Sanık TCK 142/2-e maddesinde yer alan bilişim suretiyle hırsızlık suçundan cezalandırılmalıdır (Yargıtay 13. Ceza Dairesi - Esas No: 2013/8784, Karar No: 2014/9032, Tarih: 13.3.2014).
 
-* Bilişim suçları elektronik ortamda işlenen suçlardandır. *Bilişim suçları* en çok sosya medya hesapları üzerinden işlenmektedir. Sanık, müştekinin facebook şifresini ele geçirip müştekinin kendi hesabına erişmesini engellemiştir. Bu nedenle TCK md. 244/2'deki **bilişim suçu** işlenmiştir (Yargıtay 8. Ceza Dairesi - Esas No: 2012/33557, Karar No: 2013/25987, Tarih: 1.11.2013).
+* Bilişim suçları elektronik ortamda işlenen suçlardandır. Bilişim suçları en çok sosya medya hesapları üzerinden işlenmektedir. Sanık, müştekinin facebook şifresini ele geçirip müştekinin kendi hesabına erişmesini engellemiştir. Bu nedenle TCK md. 244/2'deki bilişim suçu işlenmiştir (Yargıtay 8. Ceza Dairesi - Esas No: 2012/33557, Karar No: 2013/25987, Tarih: 1.11.2013).
 
 * Bilişim suçları işlenirken amaç internet yoluylla veriyi değil, verinin temsil ettiği parayı aktarmaksa, yani iinternet yoluyla hesaplar arası para transferi yapılmışsa; bir bilişim suçu değil, TCK md. 142/2-e'deki bilişim suretiyle  hırsızlık suçu oluşur (Yargıtay 8. Ceza Dairesi - Esas No: 2012/14783, Karar No: 2013/28348, Tarih: 10.10.2013).
 
-* Bilişim suçları diğer bazı suçlarla birlikte işlendiğinde, **bilişim suçları** diğer suçun nitelikli hali olarak TCK'da düzenlenmiş olabilir. Sanık, 'sahibinden.com' adlı internet sitesine ucuz araç ilanı koymuş, ilanı görüp arayanlardan banka yoluyla kapora adı altında para tahsil etmiştir. Sanığın bu eylemi **bilişim suçu** değil, TCK 158/1-f maddesinde düzenlenen bilişim sistemi kullanılmak suretiyle dolandıcılık suçunu oluşturur (Yargıtay Ceza Genel Kurulu - Esas No: 2013/15-239, Karar No: 2013/432, Tarih: 11.6.2013).
+* Bilişim suçları diğer bazı suçlarla birlikte işlendiğinde, *bilişim suçları* diğer suçun nitelikli hali olarak TCK'da düzenlenmiş olabilir. Sanık, 'sahibinden.com' adlı internet sitesine ucuz araç ilanı koymuş, ilanı görüp arayanlardan banka yoluyla kapora adı altında para tahsil etmiştir. Sanığın bu eylemi *bilişim suçu* değil, TCK 158/1-f maddesinde düzenlenen bilişim sistemi kullanılmak suretiyle dolandıcılık suçunu oluşturur (Yargıtay Ceza Genel Kurulu - Esas No: 2013/15-239, Karar No: 2013/432, Tarih: 11.6.2013).
 
 
-* Sanık, şikayetçiye ait interaktif bankacılık bilgilerini ve şifreyi öğrenerek kendi hesabına internet yoluyla para aktarmıştır. Bu fiil **bilişim suçları** arasında değil, hırsızlık suçu kapsamında düzenlenmiştir. Sanık, TCK md. 142/2-e'de düzenlenen bilişim suretiyle hırsızlık suçundan cezalandırılmaldır (Yargıtay 11. Ceza Dairesi - Esas No: 2011/11569, Karar No: 2011/21245, Tarih: 31.10.2011).
+* Sanık, şikayetçiye ait interaktif bankacılık bilgilerini ve şifreyi öğrenerek kendi hesabına internet yoluyla para aktarmıştır. Bu fiil bilişim suçları arasında değil, hırsızlık suçu kapsamında düzenlenmiştir. Sanık, TCK md. 142/2-e'de düzenlenen bilişim suretiyle hırsızlık suçundan cezalandırılmaldır (Yargıtay 11. Ceza Dairesi - Esas No: 2011/11569, Karar No: 2011/21245, Tarih: 31.10.2011).
 
 
-* Sanık müşterisinin kredi kartıyla alışveriş yapılmış gibi slip çekmiştir. Bu fiil ile dolandırıcılık suçu değil, **bilişim suçları** meydana gelir. Sanığın TCK md. 245/1'de düzenlenen **bilişim suçu** ile cezalandırılması gerekir (Yargıtay 11. Ceza Dairesi - Esas No: 2009/8505, Karar No: 2011/685, Tarih: 9.2.2011).
+* Sanık müşterisinin kredi kartıyla alışveriş yapılmış gibi slip çekmiştir. Bu fiil ile dolandırıcılık suçu değil, bilişim suçları meydana gelir. Sanığın TCK md. 245/1'de düzenlenen **bilişim suçu** ile cezalandırılması gerekir (Yargıtay 11. Ceza Dairesi - Esas No: 2009/8505, Karar No: 2011/685, Tarih: 9.2.2011).
 
 
 
 
 
 TCK, bilişim suçu sayısını üç maddeyle sınırlamıştır. Bilişim suçları, teknoloji kullanımına paralel olarak artmaktadır.
-**Bilişim suçları,** soruşturma zamanında yapıldığı takdirde ispatlanması kolay olan suçlardandırlar. **Bilişim suçu** işleyerek yakalanmayacağını düşünen insanların bir kısmının aslında o sistemi en iyi kullanan insanlar olması şaşırtıcıdır. **Bilişim suçları** işledikleri iddiasıyla yargılanan sanıkların önemli bir kısmı bilişim sistemlerini iyi kullanmayı bildiği halde yakalanmıştır.
+**Bilişim suçları,** soruşturma zamanında yapıldığı takdirde ispatlanması kolay olan suçlardandırlar. **Bilişim suçu** işleyerek yakalanmayacağını düşünen insanların bir kısmının aslında o sistemi en iyi kullanan insanlar olması şaşırtıcıdır. *Bilişim suçları* işledikleri iddiasıyla yargılanan sanıkların önemli bir kısmı bilişim sistemlerini iyi kullanmayı bildiği halde yakalanmıştır.
 
 
 
