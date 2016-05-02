@@ -22,5 +22,12 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 [**Ek Savunma-4,**](https://www.youtube.com/watch?v=Ob2WZcSbF0M "Ceza Avukatı")
 [**Ek Savunma-5,**](https://www.youtube.com/watch?v=a6-rv-ZajqI "Ceza Avukatı")  [**Ek Savunma-6.**](https://www.youtube.com/watch?v=wtAoTCuPNvw "Ceza Avukatı")
 
+* [**Hükmün Açıklanmasının Geri Bırakılması**](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı")
+* [**Adli Para Cezası- Hapis Cezasının Ertelenmesi**](https://www.youtube.com/watch?v=IOJ8ltlrHm4 "Ceza Avukatı")
+* [**Temyiz ve Aleyhe Bozma Yasağı**](https://www.youtube.com/watch?v=Z_T5KIFvzOg "Ceza Avukatı")
+* [**Temyizden Vazgeçme**](https://www.youtube.com/watch?v=7VgciFQ98CM "Ceza Avukatı")
+* [**Müdahilin Temyizi**](https://www.youtube.com/watch?v=UgUw2o478Wc "Ceza Avukatı")
+* [**Müdahilin Temyizi - Sanık Lehine Bozma Kuralı**](https://www.youtube.com/watch?v=hYjRd51NL6k "Ceza Avukatı")
 * [**Kararın Düzeltilmesi**](https://youtu.be/wdyQq7rEPss "Ceza Avukatı")
+
 
