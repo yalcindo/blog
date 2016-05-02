@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ceza avukatı- CMK Semineri
+title: CMK - Ceza Avukatı Semineri
 category: hukuk-haberleri
 googleAnahtar: Derhal Beraat Kararı, İddianamenin İadesi ve Kabulü Kararı, Açık-Kapalı Duruşma,  Hakimin Reddi, Ek Savunma, Temyiz ve Kararın Düzeltilmesi, İstanbul Ceza Avukatı
 keywords: Derhal Beraat Kararı, İddianamenin İadesi ve Kabulü Kararı, Açık-Kapalı Duruşma,  Hakimin Reddi, Ek Savunma, Temyiz ve Kararın Düzeltilmesi, İstanbul Ceza Avukatı
