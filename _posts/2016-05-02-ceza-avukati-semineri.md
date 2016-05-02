@@ -16,9 +16,11 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 
 **Tüm seminer konuları başlıklar halinde aşağıdaki videolara bölünmüştür:**
 
-[**Davasız Yargılama Olmaz İlkesi**](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı")
+* [**Davasız Yargılama Olmaz İlkesi**](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı")
 
-[**Ek Savunma-1,**](https://www.youtube.com/watch?v=SunOiAF3TCw "Ceza Avukatı") [**Ek Savunma-2,**](https://youtu.be/hg0wzQrgTZQ "Ceza Avukatı")  [**Ek Savunma-3,**]( https://www.youtube.com/watch?v=UW4D_SODeXQ "Ceza Avukatı")
+* [**Ek Savunma-1,**](https://www.youtube.com/watch?v=SunOiAF3TCw "Ceza Avukatı") [**Ek Savunma-2,**](https://youtu.be/hg0wzQrgTZQ "Ceza Avukatı")  [**Ek Savunma-3,**]( https://www.youtube.com/watch?v=UW4D_SODeXQ "Ceza Avukatı")
 [**Ek Savunma-4,**](https://www.youtube.com/watch?v=Ob2WZcSbF0M "Ceza Avukatı")
 [**Ek Savunma-5,**](https://www.youtube.com/watch?v=a6-rv-ZajqI "Ceza Avukatı")  [**Ek Savunma-6.**](https://www.youtube.com/watch?v=wtAoTCuPNvw "Ceza Avukatı")
+
+* [**Kararın Düzeltilmesi**](https://youtu.be/wdyQq7rEPss "Ceza Avukatı")
 
