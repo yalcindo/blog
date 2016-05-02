@@ -22,7 +22,7 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 * [**Suç İsnadı Nedir**](https://www.youtube.com/watch?v=eNoIVdE_SlA "Ceza Avukatı")
 * [**Yargılamanın Aleniliği - Alenilik İlkesi**](https://www.youtube.com/watch?v=HpYL6kmtNjE "Ceza Avukatı")
 * [**Delillerin Serbestliği İlkesi**](https://www.youtube.com/watch?v=OzusaYwVjDA "Ceza Avukatı")
-* [**Doğrudanlık, Yüzyüzelik, Sözlülük İlkesi**]
+* [**Doğrudanlık, Yüzyüzelik, Sözlülük İlkesi**](https://www.youtube.com/watch?v=RkuZsQcz4Qo "Ceza Avukatı")
 * [**Ceza Muhakemesinde Kıyas ve Kıyas Yasağı**](https://www.youtube.com/watch?v=thjaQ8YkdAM "Ceza Avukatı")
 * [**Non (Ne) Bis İn İdem İlkesi**](https://www.youtube.com/watch?v=r7y-L-psh3k "Ceza Avukatı")
 * [**Davasız Yargılama Olmaz İlkesi**](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı")
