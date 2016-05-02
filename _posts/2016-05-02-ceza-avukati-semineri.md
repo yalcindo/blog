@@ -30,22 +30,26 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 
 ### Ceza Muhakemesinde İddianame İadesi ve  Okunması (VİDEOLAR)
 
-* [**İddianamenin İadesi-1,**](https://www.youtube.com/watch?v=OvGIBhmVYzo "Ceza Avukatı")
-* [**İddianamenin İadesi-2,**](https://www.youtube.com/watch?v=355XtNWIONY "Ceza Avukatı")
+* [**İddianamenin İadesi-1**](https://www.youtube.com/watch?v=OvGIBhmVYzo "Ceza Avukatı")
+* [**İddianamenin İadesi-2**](https://www.youtube.com/watch?v=355XtNWIONY "Ceza Avukatı")
 
-* [**İddianamenin Okunması-1,**](https://www.youtube.com/watch?v=QuZ1Qkczx7Y "Ceza Avukatı") [**İddianamenin Okunması-2**](https://www.youtube.com/watch?v=8_zkzm28cpA "Ceza Avukatı")
+* [**İddianamenin Okunması-1**](https://www.youtube.com/watch?v=QuZ1Qkczx7Y "Ceza Avukatı") 
+* [**İddianamenin Okunması-2**](https://www.youtube.com/watch?v=8_zkzm28cpA "Ceza Avukatı")
 
 ### Ceza Muhakemesinde Duruşmanın Başlaması, Açık ve Kapalı Duruşma (VİDEOLAR)
 
-[**Duruşmanın Başlaması-1,**](https://www.youtube.com/watch?v=uCijJdDa45U "Ceza Avukatı") [**Duruşmanın Başlaması-2**](https://www.youtube.com/watch?v=tnWrKgLMbtM "Ceza Avukatı")
+* [**Duruşmanın Başlaması-1**](https://www.youtube.com/watch?v=uCijJdDa45U "Ceza Avukatı")
+* [**Duruşmanın Başlaması-2**](https://www.youtube.com/watch?v=tnWrKgLMbtM "Ceza Avukatı")
 
  
 * [**Açık Duruşma - Kapalı Duruşma**](https://www.youtube.com/watch?v=blFgCVrsxEM "Ceza Avukatı")
-
 * [**Derhal Beraat Kararı**](https://www.youtube.com/watch?v=6kDYXp7Yds8 "Ceza Avukatı")
 * [**Sorgunun Hukuki Niteliği**](https://www.youtube.com/watch?v=enLj_seIylc "Ceza Avukatı")
+* 
 * [**Yetkisizlik, Görevsizlik, Hakimin Reddi**](https://www.youtube.com/watch?v=jAEE4cPLBTU "Ceza Avukatı")
-* [**Hakimin Reddi-1,**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı") [**Hakimin Reddi-2**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı"
+* [**Hakimin Reddi-1,**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı")
+* [**Hakimin Reddi-2**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı"
+
 *  [**Duruşmada Okunması Zorunlu Belgeler**](https://www.youtube.com/watch?v=I0knp0jB57U "Ceza Avukatı")
 *  [**Tanık Beyanının Okunması**](https://www.youtube.com/watch?v=AE46H1IZ_Og "Ceza Avukatı")
 *  [**Delillerin Tartışılması**](https://www.youtube.com/watch?v=ohPEgnvb3d0 "Ceza Avukatı")
@@ -53,11 +57,11 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 ### Ceza Muhakemesinde Ek Savunma (VİDEOLAR)
 
 
-* [**Ek Savunma-1,**](https://www.youtube.com/watch?v=SunOiAF3TCw "Ceza Avukatı") 
-* [**Ek Savunma-2,**](https://youtu.be/hg0wzQrgTZQ "Ceza Avukatı")  
-* [**Ek Savunma-3,**]( https://www.youtube.com/watch?v=UW4D_SODeXQ "Ceza Avukatı")
-* [**Ek Savunma-4,**](https://www.youtube.com/watch?v=Ob2WZcSbF0M "Ceza Avukatı")
-* [**Ek Savunma-5,**](https://www.youtube.com/watch?v=a6-rv-ZajqI "Ceza Avukatı")
+* [**Ek Savunma-1**](https://www.youtube.com/watch?v=SunOiAF3TCw "Ceza Avukatı") 
+* [**Ek Savunma-2**](https://youtu.be/hg0wzQrgTZQ "Ceza Avukatı")  
+* [**Ek Savunma-3**]( https://www.youtube.com/watch?v=UW4D_SODeXQ "Ceza Avukatı")
+* [**Ek Savunma-4**](https://www.youtube.com/watch?v=Ob2WZcSbF0M "Ceza Avukatı")
+* [**Ek Savunma-5**](https://www.youtube.com/watch?v=a6-rv-ZajqI "Ceza Avukatı")
 * [**Ek Savunma-6**](https://www.youtube.com/watch?v=wtAoTCuPNvw "Ceza Avukatı")
 
 ### Ceza Muhakemesinde Hüküm, Temyiz ve Kararın Düzeltilmesi (VİDEOLAR)
