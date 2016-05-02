@@ -47,7 +47,7 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 * [**Sorgunun Hukuki Niteliği**](https://www.youtube.com/watch?v=enLj_seIylc "Ceza Avukatı")
  
 * [**Yetkisizlik, Görevsizlik, Hakimin Reddi**](https://www.youtube.com/watch?v=jAEE4cPLBTU "Ceza Avukatı")
-* [**Hakimin Reddi-1,**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı")
+* [**Hakimin Reddi-1**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı")
 * [**Hakimin Reddi-2**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
 
 *  [**Duruşmada Okunması Zorunlu Belgeler**](https://www.youtube.com/watch?v=I0knp0jB57U "Ceza Avukatı")
