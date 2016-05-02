@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Cezada İstinaf Kanun Yolu
-category: ceza-hukuku
+title: Ceza avukatı CMK Semineri
+category: hukuk-haberleri
 googleAnahtar: İstinaf nedir, ceza muhakemesinde istinaf incelemesi, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul ceza avukatı, hukuk bürosu, istinaf cmk
 keywords:  İstinaf nedir, istinaf incelemesi, temyiz başvurusu, istinaf başvuru süresi, istinaf duruşması, yargıtay temyiz süresi, avukat, istanbul avukat, hukuk bürosu, temyiz dilekçesi, istinaf cmk
 summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Ceza Muhakemesinde İstinaf Şartları, Bölge Adliye Mahkemesi, İstinaf CMK, Duruşmalı İstinaf ve Temyiz İncelemesi, Onama, Düzelterek Onama ve Bozma Kararı
