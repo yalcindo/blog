@@ -50,7 +50,7 @@ Tehdit suçunun yaşam hakkına yönelik basit şeklinde ve diğer tüm ağır h
 
 Kavga sırasında söylenen sözler, o anki ruh halinden kaynaklanan, ani ve kızgınlıkla söylenen sözler olabilir.  Kişi karşı tarafı kasten korkutmayı veya endişeye sevketmeyi amaçlamadan, bir kavgada aniden tehdit içeren sözler söylemişse bu sözlerin tehdit suçunu oluşturması mümkün değildir. Yargıtay, kavga sırasında hiddetle söylenen sözlerin tehdit suçunu oluşturmayacağına dair yerleşik içtihat oluşturmuştur. Kavgada hiddetle söylenen sözler ancak karşı tarafın haksız tahrik savunmasında bir anlam ifade edebilir. 
 
-### Tehdit Suçunun Basit Hali ve Cezası ( TCK 106/1 )
+### Basit Tehdit Suçu ve Cezası ( TCK 106/1 )
 
 Tehdit suçunun basit halinde, mağdur haksız bir zarara uğratılacağı gerekçesiyle tehdit edilmekte, ancak mağdurun uğrayacağı muhtemel zarar ağır nitelikte bir zarar değildir.  Basit tehdit suçunun yaşam hakkı veya malvarlığı değerlerine yönelen iki şekli vardır:
 
@@ -58,13 +58,13 @@ Tehdit suçunun basit halinde, mağdur haksız bir zarara uğratılacağı gerek
 
 * Malvarlığı değerlerine yönelik basit tehdit suçunda, suçun cezası 6 aya kadar hapis veya adli para cezasıdır. Malvarlığı, ekonomik değeri olan her türlü menkul, gayrimenkul, işletme vb. gibi değerleri ifade eder.  Mağdura, “senin arabanı yakacağım” demek suçun malvarlığına yönelen basit şeklini oluşturur.  Yukarıda ifade ettiğimiz üzere malvarlığı değerlerine yönelen basit tehdit suçu mağdurun şikayetine bağlı olarak soruşturulur.
 
-### Tehdit Suçunun Ağır Halleri ve Cezası ( TCK 106/2 )
+### Nitelikli Tehdit Suçu ve Cezası ( TCK 106/2 )
 
 Mağdurun daha savunmasız bırakılması veya daha çok korkutulması nedeniyle tehdit suçunun nitelikli hallerinin, yani ağır hallerinin işlenmesi halinde kanun ceza arttırımı yapılmasını öngörmüştür.  Tehdit suçunun ağır hallerinin işlenmesi halinde faile 2 yıl ile 5 yıl arasında bir ceza verilmesi gerekir. İddianın ağırlığı nedeniyle suçun bu halinde bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla savunma yapmak veya iddiada bulunmak yararlı olacaktır.
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/1dbeabe17494180cff3ee46ae299647a540e0f8c/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5042426d5a352e6a7067 "Ceza Avukatı")
 
-**Tehdit suçunun nitelikli, yani ağır halleri şunlardır:**
+**Tehdit suçunun nitelikli, yani daha ağır cezayı gerektiren halleri şunlardır:**
 
 #### Silahla Tehdit Suçu
 
