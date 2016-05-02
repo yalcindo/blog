@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Trafik Kazası Haberi
+title: Trafik Kazası Bilirkişi Raporuna İtiraz Haberi
 category: hukuk-haberleri
 googleAnahtar: kaç yaşında bisiklete binilir, bisiklet kullanma yaşı, bisiklet, avukat, avukat baran doğan
 summary: Ölümlü trafik kazası nedeniyle düzenlenen bilirkişi raporunda, 11 yaşından küçük çocukların bisiklet kullanmayacağına dair yapılan bilirkişi tespitine itirazlarımızı konu alan haber 
