@@ -22,7 +22,21 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 [**Ek Savunma-4,**](https://www.youtube.com/watch?v=Ob2WZcSbF0M "Ceza Avukatı")
 [**Ek Savunma-5,**](https://www.youtube.com/watch?v=a6-rv-ZajqI "Ceza Avukatı")  [**Ek Savunma-6.**](https://www.youtube.com/watch?v=wtAoTCuPNvw "Ceza Avukatı")
 
+* [**Duruşmada Okunması Zorunlu Belgeler**](https://www.youtube.com/watch?v=I0knp0jB57U "Ceza Avukatı")
+* [**Delillerin Tartışılması**](https://www.youtube.com/watch?v=ohPEgnvb3d0 "Ceza Avukatı")
+* [**Sorgunun Hukuki Niteliği**](https://www.youtube.com/watch?v=enLj_seIylc "Ceza Avukatı")
+* [**Hakimin Reddi-1,**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı") [**Hakimin Reddi-2**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
+* 
+* [**Hakimin Reddi**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
+* [**Hakimin Reddi**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
+* [**Hakimin Reddi**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
+* [**Hakimin Reddi**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
+
+
+
+* [**Tanık Beyanının Okunması**](https://www.youtube.com/watch?v=AE46H1IZ_Og "Ceza Avukatı")
 * [**Hükmün Açıklanmasının Geri Bırakılması**](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı")
+* [**Hüküm: Durma, Düşme, Beraat, Mahkumiyet**](https://www.youtube.com/watch?v=UZ9JgOybirM "Ceza Avukatı")
 * [**Adli Para Cezası- Hapis Cezasının Ertelenmesi**](https://www.youtube.com/watch?v=IOJ8ltlrHm4 "Ceza Avukatı")
 * [**Temyiz ve Aleyhe Bozma Yasağı**](https://www.youtube.com/watch?v=Z_T5KIFvzOg "Ceza Avukatı")
 * [**Temyizden Vazgeçme**](https://www.youtube.com/watch?v=7VgciFQ98CM "Ceza Avukatı")
