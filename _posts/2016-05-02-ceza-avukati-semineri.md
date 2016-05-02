@@ -33,7 +33,7 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 * [**İddianamenin İadesi-1**](https://www.youtube.com/watch?v=OvGIBhmVYzo "Ceza Avukatı")
 * [**İddianamenin İadesi-2**](https://www.youtube.com/watch?v=355XtNWIONY "Ceza Avukatı")
 
-* [**İddianamenin Okunması-1**](https://www.youtube.com/watch?v=QuZ1Qkczx7Y "Ceza Avukatı") 
+* [**İddianamenin Okunması-1**](https://www.youtube.com/watch?v=QuZ1Qkczx7Y "Ceza Avukatı")
 * [**İddianamenin Okunması-2**](https://www.youtube.com/watch?v=8_zkzm28cpA "Ceza Avukatı")
 
 ### Ceza Muhakemesinde Duruşmanın Başlaması, Açık ve Kapalı Duruşma (VİDEOLAR)
