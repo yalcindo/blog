@@ -28,7 +28,7 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 * [**Davasız Yargılama Olmaz İlkesi**](https://youtu.be/wykDbNDYYR4 "Ceza Avukatı")
 
 
-### Ceza Muhakemesinde İddianame İadesi ve  Okunması (VİDEOLAR)
+### Ceza Muhakemesinde İddianamenin İadesi ve  Okunması (VİDEOLAR)
 
 * [**İddianamenin İadesi-1**](https://www.youtube.com/watch?v=OvGIBhmVYzo "Ceza Avukatı")
 * [**İddianamenin İadesi-2**](https://www.youtube.com/watch?v=355XtNWIONY "Ceza Avukatı")
