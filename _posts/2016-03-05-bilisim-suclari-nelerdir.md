@@ -38,7 +38,7 @@ Bilişim sistemine girme suçunun cezası, 1 yıla kadar hapis veya adli para ce
 
 Bilişim sistemine girilmesi nedeniyle sistemdeki veriler değişir veya yok olursa bu durumda bilişim suçu ceza miktarı 6 aydan 2 yıla kadar hapis cezasıdır (TCK md. 243/3). Örneğin, bir kişinin facebook veya e-mail adresine girilmesi nedeniyle kayıtlı bilgiler yok oluşa sanık bu fıkra kapsamında cezalandırılacaktır. Bu fıkra ile ilgili dikkat edilmesi gereken nokta; sanığın sistemdeki bilgileri değiştirmek için özel bir çabası olmamalıdır, sadece sisteme girildiği için bu bilgiler değişmeli veya yok olmalıdır. Örneğin, bir kişinin facebook hesabına girerek resim koymak bu fıkra kapsamında değil, aşağıda anlatacağımız TCK md. 244'deki bilişim suçları çerçevesinde cezalandırılacaktır.
 
-### 2- Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları ( TCK md. 244/1-2)
+### Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Bilişim Suçları ( TCK md. 244/1-2)
 ---
 
 Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi işlediği bu bilişim suçu nedeniyle 1 yıl ile 5 yıl arasında hapis cezası ile  cezalandırılır (TCK md. 244/1). Şüphelinin sistemin işleyişini engellemek veya bozmak dışında bir fiili yoksa bu fıkradaki bilişim suçu hükümleri uygulanmaktadır.
