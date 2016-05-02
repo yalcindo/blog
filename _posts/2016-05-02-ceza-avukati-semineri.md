@@ -45,7 +45,7 @@ Kovuşturma aşamasının başlaması, iddianamenin iadesi kararı, iddianamenin
 * [**Açık Duruşma - Kapalı Duruşma**](https://www.youtube.com/watch?v=blFgCVrsxEM "Ceza Avukatı")
 * [**Derhal Beraat Kararı**](https://www.youtube.com/watch?v=6kDYXp7Yds8 "Ceza Avukatı")
 * [**Sorgunun Hukuki Niteliği**](https://www.youtube.com/watch?v=enLj_seIylc "Ceza Avukatı")
-* 
+ 
 * [**Yetkisizlik, Görevsizlik, Hakimin Reddi**](https://www.youtube.com/watch?v=jAEE4cPLBTU "Ceza Avukatı")
 * [**Hakimin Reddi-1,**](https://www.youtube.com/watch?v=r2UP3_Xhr0c "Ceza Avukatı")
 * [**Hakimin Reddi-2**](https://www.youtube.com/watch?v=xRtVHIkHq_o "Ceza Avukatı")
