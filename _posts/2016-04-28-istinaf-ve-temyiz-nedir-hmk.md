@@ -46,7 +46,7 @@ Hemen belirtmek gerekir ki, istinaf ve temyiz olağan kanun yolları olduğundan
 
 ### ![İstinaf Mahkemesi](https://camo.githubusercontent.com/6abe372cf44559f29322ab9d25a9091a21430325/687474703a2f2f692e68697a6c69726573696d2e636f6d2f586b3472676f2e6a7067 "İstinaf Mahkemesi")
 
-### Hukuk Davası İçin İstinaf Mahkemesi’ne (Bölge Adliye Mahkemesi) Başvuru Şartları 
+### Hukuk Davası İçin İstinaf Mahkemesi’ne Başvuru Şartları 
 
 Hukuk davaları için istinaf kanun yoluna başvuru şartları HMK md. 341’de düzenlenmiştir. Buna göre, aşağıdaki yerel mahkeme kararlarına karşı istinaf başvurusu yapılabilir:
 
@@ -56,7 +56,7 @@ Hukuk davaları için istinaf kanun yoluna başvuru şartları HMK md. 341’de 
 -	İhtiyati haciz, ihtiyati tedbir birer ara karar olmasına rağmen bu ara kararlara karşı istinaf yoluna başvurulabilir (HMK md. 341/1).
 -	Malvarlığına ilişkin hukuk davalarında istinaf yoluna başvurabilmek için dava değerinin 1500 TL’den fazla olması gerekir. 1500 TL ve altında dava değerine sahip hukuk davalarında verilen kararlar aleyhine istinaf başvurusu yapılamaz (HMK md. 341/2).
 
-İstinaf dilekçesinde istinaf sebebi ve gerekçesi mutlaka açıklanmalıdır (HMK md. 342/2). Çünkü, istinaf incelemesi, istinaf dilekçesinde belirtilen sebeple sınırlı olmak üzere yapılır. Ancak, istinaf mahkemesi (bölge adliye mahkemesi), kamu düzenini ilgilendiren bir durum varsa kendiliğinden inceleme yapabilir (HMK md. 355). Kamu düzenine ilişkin hususları taraflar da her zaman ileri sürebilirler.
+İstinaf dilekçesinde istinaf sebebi ve gerekçesi mutlaka açıklanmalıdır (HMK md. 342/2). Çünkü, istinaf incelemesi, istinaf dilekçesinde belirtilen sebeple sınırlı olmak üzere yapılır. İstinaf mahkemesi, ancak kamu düzenini ilgilendiren bir durum varsa kendiliğinden inceleme yapabilir (HMK md. 355). Kamu düzenine ilişkin hususları taraflar da her zaman ileri sürebilirler.
 
 İstinaf başvurusu süresini kaçıran veya istinafa başvuru hakkı olmayan taraf, diğer tarafın istinaf başvurusu üzerine, iki hafta içerisinde vereceği cevap dilekçesi ile katılma yoluyla istinaf başvurusu yapabilir. Ancak, istinaf yoluna asıl başvuran kişi bu isteminden vazgeçerse veya bölge adliye mahkemesi istinaf istemini esasa girmeden reddederse katılma yolu ile istinafa başvuran kişinin de talebi reddedilmiş olur (HMK md. 349). 
 
@@ -124,7 +124,7 @@ Düzelterek karar verme hususunda Yargıtay’ın içtihatlarında yer alan düz
 İstinaf mahkemesi, bir üst derece mahkemesi olarak yerel mahkeme kararını denetleyerek, kararın usul veya esas açısından hiçbir eksiklik içermediği kanaatine varırsa istinaf başvurusunu reddeder. 
 İstinaf mahkemesi, ön incelemede de dikkate alarak davayı reddedebileceği hallerde, yani istinaf başvurusunun süresinde yapılmamış olması, istinaf başvurusu için gereken şartlar yerine getirilmemiş, başvuru sebepleri ve gerekçesi gösterilmemişse istinaf başvurusunu reddedebilir.
 
-### İstinaf Mahkemesi (Bölge Adliye Mahkemesi)’nde İhtiyati Tedbir ve İhtiyati Haciz Kararı
+### Bölge Adliye Mahkemesinde İhtiyati Tedbir ve İhtiyati Haciz Kararı
 
 İhtiyati tedbir veya ihtiyati haciz geçici koruma kararlarıdır. İhtiyati tedbir veya ihtiyati haciz, davanın esasını çözmemekte sadece geçici olarak talep eden tarafa dava sonundaki hakkını alabilmesini temin amacıyla imkan tanımaktadır. 
 Yerel mahkemenin verdiği ihtiyati tedbir veya ihtiyati haciz kararına karşı öncelikle kararı veren mahkemeye 7 gün içinde itiraz edilmelidir (HMK md. 394). Yerel mahkeme, itiraz başvurusu üzerine ihtiyati tedbir veya ihtiyati haciz kararını kaldırabilir. Ancak, yerel mahkeme itiraz başvurusunu reddettiğinde bu karara karşı istinaf mahkemesine istinaf başvurusu yapma hakkı doğar (HMK md.391/3). İhtiyati tedbir veya ihtiyati haciz kararlarına karşı, iki haftalık istinaf kanun yoluna süresi içinde istinaf mahkemesine istinaf başvurusu yapılabilir. İlk derece mahkemesinin ihtiyati tedbir veya ihtiyati haciz kararlarına karşı yapılan istinaf başvurusu öncelikli olarak incelenir ve istinaf mahkemesinin bu konuya dair verdiği karar kesindir.
@@ -133,7 +133,7 @@ Yerel mahkemenin verdiği ihtiyati tedbir veya ihtiyati haciz kararına karşı 
 
 ### ![Yargıtay  Temyiz İncelemesi](https://camo.githubusercontent.com/b4bcea9ccf34e98daf935947895908546274b1f3/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6a336e4f416e2e6a7067 "Yargıtay Temyiz İncelemesi")
 
-### İstinaf Mahkemesi (Bölge Adliye Mahkemesi) Kararlarının Temyizi ve Temyiz Süresi
+### İstinaf Mahkemesi Kararlarının Temyizi ve Temyiz Süresi
 
 İstinaf mahkemesi (Bölge adliye mahkemesi) hukuk dairelerinin temyiz edilebilen kararlarına karşı, kararların tebliği tarihinden itibaren 1 ay içinde temyiz başvurusu yapılabilir (HMK md. 363).
 Bölge adliye mahkemesi tarafından verilen aşağıda nitelikleri belirtilen kararlar aleyhine Yargıtay’a temyiz başvurusu yapılamaz (HMK md. 364):
@@ -207,7 +207,7 @@ Temyiz incelemesi üzerine verilen bozma kararları üzerine dosya kendilerine g
 
 Yargıtay'ın temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “direnme” kararı da verebilir. 
 
-Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliye mahkemesi (istinaf) veya ilk derece mahkemesi direnme kararı verdiğinde, direnme kararlarına karşı da doğrudan temyiz yoluna gidilir. Ancak, direnme kararlarına karşı temyiz başvurusu üzerine temyiz incelemesini Yargıtay Hukuk Genel Kurulu yapar. Hukuk Genel Kurulu’nun temyiz incelemesi üzerine verdiği karar kesindir  (HMK md. 373/5-6).
+Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliye mahkemesi (istinaf mahkemesi) veya ilk derece mahkemesi direnme kararı verdiğinde, direnme kararlarına karşı da doğrudan temyiz yoluna gidilir. Ancak, direnme kararlarına karşı temyiz başvurusu üzerine temyiz incelemesini Yargıtay Hukuk Genel Kurulu yapar. Hukuk Genel Kurulu’nun temyiz incelemesi üzerine verdiği karar kesindir  (HMK md. 373/5-6).
 
 
 
