@@ -86,9 +86,9 @@ Bu usuli nedenlerle ön inceleme aşamasında istinaf başvurusu reddedilen tara
 
 ### Başvurunun Esastan Reddi veya Düzelterek Esastan Reddi (Düzelterek Onama)
 
-*İstinaf başvurusunun esastan reddi* halinde, yerel mahkeme kararının yerinde olduğu, hükümde herhangi bir hukuka aykırılık olmadığı bölge adliye mahkemesi tarafından tespit edilmiş olur. Böylece ceza davasının istinaf incelemesi aşaması sona erer. İstinaf başvurusunun esastan reddi halinde istinaf isteminde bulunan kişi, koşulları varsa ceza davası için [Yargıtay’a Temyiz Başvurusu]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) yapabilir. İstinaf mahkemesinin kararı temyiz edilemeyecek kararlardan ise, yerel mahkeme kararı kesinleşmiş olacaktır.
+*İstinaf başvurusunun esastan reddi* halinde, yerel mahkeme kararının yerinde olduğu, hükümde herhangi bir hukuka aykırılık olmadığı bölge adliye mahkemesi tarafından tespit edilmiş olur. Böylece ceza davasının istinaf incelemesi aşaması sona erer. İstinaf başvurusunun esastan reddi halinde istinaf isteminde bulunan kişi, koşulları varsa ceza davası için [**Yargıtay’a Temyiz Başvurusu**]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) yapabilir. İstinaf mahkemesinin kararı temyiz edilemeyecek kararlardan ise, yerel mahkeme kararı kesinleşmiş olacaktır.
 
-*İstinaf başvurusunun yerel mahkeme kararı düzeltilerek esastan reddi* halinde, bölge adliye mahkemesi yerel mahkeme kararında hukuka aykırılıklar olduğunu tespit etmiştir. Ancak, bu hukuka aykırılıklar, yeniden yargılama yapılmasını gerektirmeyecek ölçüde basit ve düzeltilebilir nitelikte olduğundan yerel mahkeme kararını düzelterek istinaf başvurusunu esastan reddeder. İstinaf başvurusunun esastan reddi halinde istinaf isteminde bulunan kişi, şartları varsa ceza davası için [Yargıtay’a Temyiz Başvurusu]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) yapabilir.
+*İstinaf başvurusunun yerel mahkeme kararı düzeltilerek esastan reddi* halinde, bölge adliye mahkemesi yerel mahkeme kararında hukuka aykırılıklar olduğunu tespit etmiştir. Ancak, bu hukuka aykırılıklar, yeniden yargılama yapılmasını gerektirmeyecek ölçüde basit ve düzeltilebilir nitelikte olduğundan yerel mahkeme kararını düzelterek istinaf başvurusunu esastan reddeder. İstinaf başvurusunun esastan reddi halinde istinaf isteminde bulunan kişi, şartları varsa ceza davası için [**Yargıtay’a Temyiz Başvurusu**]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) yapabilir.
 
 ### İstinaf İncelemesi Neticesinde “Hükmün Bozulması ve Dosyanın Yerel Mahkemeye Gönderilmesi”
 
@@ -106,7 +106,7 @@ Yerel mahkeme bölge adliye mahkemesinin bozma kararı çerçevesinde yeniden ya
 
 İstinaf mahkemesi gerek gördüğünde yerel mahkeme tarafından yapılan işlemlerin tekrarlanmasına karar verebilir. Mahkeme yeniden keşif yapabilir, tanık veya bilirkişileri dinleyebilir. 
 
-İstinaf mahkemesi ceza davası ile ilgili yeniden yaptığı yargılama neticesinde,  ya istinaf başvurusu hakkınsa *“esastan red”* kararı verir ya da ilk derece mahkemesinin hükmünü kaldırarak *“yeniden hüküm”* verir.   Her iki halde de şartları varsa, istinaf mahkemesi kararı aleyhine [Yargıtay’a Temyiz Başvurusu]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html)  yapılabilir.
+İstinaf mahkemesi ceza davası ile ilgili yeniden yaptığı yargılama neticesinde,  ya istinaf başvurusu hakkınsa *“esastan red”* kararı verir ya da ilk derece mahkemesinin hükmünü kaldırarak *“yeniden hüküm”* verir.   Her iki halde de şartları varsa, istinaf mahkemesi kararı aleyhine [**Yargıtay’a Temyiz Başvurusu**]( https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html)  yapılabilir.
 
 ### İstinaf Mahkemesi Kararı ve Aleyhe Bozma Yasağı
 
