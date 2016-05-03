@@ -157,58 +157,6 @@ Uluslararası alanda bir devletin ülkesinde işlenen suçlarla ilgili soruştur
 
 Statü gereği egemenlik hakkının doğal bir sonucu olarak asli yargı yetkisinin devletlerin elinde bulunmaktadır. Uluslararası Ceza Mahkemesi savcılığının soruşturma başlatma yetkisinin Ön Yargılama Dairesi tarafından izin verilmesi şartına bağlanması, Uluslararası Ceza Mahkemesi sisteminin kendi içerisinde yargısal denetim mekanizması kurmasını sağlamaktadır. UCM savcılık örgütünün Statü’ye taraf devletlerin yargı makamlarıyla entegre edilmesiyle, soruşturmalar hızlı bir şekilde yürütülerek doğru kararlar alınması şansı artacaktır.
 
-**KISALTMALAR**
-
-AÜHFD : Ankara Üniversitesi Hukuk Fakültesi Dergisi
-
-BM : Birleşmiş Milletler
-
-CMK : Ceza Muhakemesi Kanunu
-
-md. : Madde
-
-STATÜ : Uluslararası Ceza Mahkemesi Roma Statüsü
-
-UCM : Uluslararası Ceza Mahkemesi
-
-**KAYNAKÇA**
-
-**Kitap ve Makaleler**
-
-BAŞAK, Cengiz; Uluslararası Ceza Mahkemeleri ve Uluslararası Suçlar, 1.Bası, Ankara 2003
-
-BAYILLIOĞLU, Uğur; (2007 Eylül), “Uluslararası Ceza Mahkemesi ve Türkiye”, Ankara Üniversitesi Hukuk Fakültesi Dergisi, C.56, Sayı 1
-
-ÇAĞIRAN, M.Emin; Uluslararası Örgütler, Ankara 2013
-
-Kapasite Geliştirme Derneği (2006), “Uluslararası Ceza Mahkemesi Temel Belgeler Derlemesi”, Hivren Özkol (çev.), Gülay Arslan( Çev.) Devrim Aydın (Gözden Geçiren), Ankara, 2006
-
-KARAKEHYA, Hakan (2008 ); “Uluslararası Ceza Mahkemesi ve Uygulanabilir Hukuk”, Ankara Üniversitesi Hukuk Fakültesi Dergisi, C.57, Sayı 2
-
-KUNTER/YENİSEY/NUHOĞLU; Muhakeme Hukuku Dalı Olarak Ceza Muhakemesi Hukuku,14.Bası,İstanbul 2006
-
-ÖNOK, R.Murat ; Tarihi Perpektifiyle Uluslararası Ceza Divanı, Ankara 2003
-
-ÖZTÜRK, Erdem; Uygulamalı Ceza Muhakemesi Hukuku, 11.Baskı, Ankara 2007
-
-ŞEN, Ersan; Uluslararası Ceza Mahkemesi, 1.Baskı, Ankara, 2009
-
-TEZCAN,Durmuş/ERDEM,Mustafa Ruhan/ÖNOK,R.Murat; Uluslararası Ceza Hukuku,2.baskı,Ankara 2014
-
-Kapasite Geliştirme Derneği (2006), “Uluslararası Ceza Mahkemesi Temel Belgeler Derlemesi”, Hivren Özkol (çev.), Devrim Aydın (Gözden Geçiren), Ankara, 2006
-
-YURTCAN,Erdener ;Ceza Yargılaması Hukuku,12.Bası,İstanbul 2007
-
-**İnternet Siteleri**
-
-http://www.yargitay.gov.tr/aihm/
-
-www.icc-cpi.int
-
-www.ucmk.org.tr
-
-http://dictionary.cambridge.org/dictionary
-
 
 ______________________________________________________________________________________________________________________________________
 
