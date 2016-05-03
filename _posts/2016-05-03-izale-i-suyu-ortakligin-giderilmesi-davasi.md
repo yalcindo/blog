@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: İzale-i Şuyu (Ortaklığın Giderilmesi)
+title: İzale-i Şuyu (Ortaklığın Giderilmesi) Davası
 category: gayrimenkul-hukuku
 googleAnahtar: İzale-i şuyu davası, ortaklığın giderilmesi davası, ortaklığın satış veya aynen taksim suretiyle giderilmesi gayrimenkul avukatı, bakırköy avukat, istanbul avukat, hukuk bürosu
 keywords: İzale-i şuyu davası, ortaklığın giderilmesi davası, ortaklığın satış veya aynen taksim suretiyle giderilmesi gayrimenkul avukatı, bakırköy avukat, ataköy avukat, istanbul avukat, hukuk bürosu
