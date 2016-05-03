@@ -2,9 +2,9 @@
 layout: blog
 title: Uluslararası Ceza Mahkemesi Savcılığının Soruşturma Yetkisi
 category: ceza-hukuku
-googleAnahtar: Uluslararası Ceza Mahkemesi Savcılığı, ceza avukatı, ağır ceza avukatı, uluslararası ceza mahkemesi, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
+googleAnahtar:  uluslararası ceza mahkemesi, Uluslararası Ceza Mahkemesi Savcılığı, ceza avukatı, ağır ceza avukatı, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 keywords: Uluslararası Ceza Mahkemesi Savcılığı, avukat, ceza avukatı, ağır ceza avukatı, Uluslararası Ceza Mahkemesi Savcılığının Soruşturma Yetkisi, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
-summary: Uluslararası Ceza Mahkemesi Savcılığı'nın soruşturma başlatma yetkisinin hukuki niteliği, önşartları ve genel sınırları ayrıntılı bir şekilde incelenmiştir. 
+summary: Uluslararası Ceza Mahkemesi Nedir? Uluslararası Ceza Mahkemesi Savcılığı Örgütü ve Özellikleri, Uluslararası Ceza Mahkemesi Savcılığı'nın Soruşturma Başlatma Yetkisi, UCM Savcılığına Şikayet veya Suç Bildirimi
 ---
 
 ### ![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/70fae0990a6549990864f7c7422a2324e1d725e1/687474703a2f2f692e68697a6c69726573696d2e636f6d2f45707070585a2e6a7067 "Uluslararası Ceza Mahkemesi")
@@ -15,13 +15,13 @@ summary: Uluslararası Ceza Mahkemesi Savcılığı'nın soruşturma başlatma y
 
 Anahtar Kelimeler: **Uluslararası Ceza Mahkemesi**, **Roma Statüsü**, Uluslararası Ceza Mahkemesi Savcılığı’nın soruşturma yetkisi, Soruşturma önşartları, Soruşturmayı başlatma kararı.
 
-**GİRİŞ**
+## ULUSLARARASI CEZA MAHKEMESİ NEDİR?
 
 Ceza hukukunda cezai sorumluluk, tedbir niteliğindeki bazı yaptırımlar bir tarafa bırakılacak olursa, gerçek kişilere aittir. Uluslararası Ceza Mahkemesi kurulana kadar gerçek kişileri yargılamak üzere uluslararası alanda kurulmuş bağımsız ve sürekli yargı yetkisine sahip bir yargı mercii mevcut değildi. Uluslararası alanda kurulan tüm yargı merciileri, sadece devletler üzerinde ve ceza muhakemesi dışındaki alanlarda yargı yetkisine sahipti . Örneğin, uluslararası toplumu ilgilendiren bir suç işleyen herhangi bir devlet görevlisinin yargılanabileceği ulusalüstü yargı yetkisine sahip bağımsız ve sürekli bir yargı mercii oluşturulamamıştı. İkinci Dünya Savaşı’ndan sonra savaşı kazanan devletlerin kaybedenlerin üst düzey yöneticilerini yargılamak üzere kurduğu Nürnberg ve Tokyo Askeri Uluslararası Ceza Mahkemeleri ile Eski Yugoslavya ve Ruanda Uluslararası Ceza Mahkemeleri adhoc ve olağanüstü nitelikte mahkemelerdir.
 
 Uluslararası toplumu ilgilendiren vahim suçları yargılamak üzere 17 Temmuz 1998 tarihinde **Roma Statüsü** olarak adlandırılan sözleşmeyle bağımsız ve sürekli bir yargı organı olan Uluslararası Ceza Mahkemesi (UCM) kurulmuştur. Mahkeme, 11 Nisan 2002 tarihinde sözleşmeyi imzalayan 60 ülkenin onayı şartının gerçekleşmesiyle faaliyete başlamıştır. Olağanüstü,geçici ve özel nitelikteki Yugoslavya ve Ruanda UCM’lerinde yapılan yargılama faaliyeti mevcut UCM’nin temelini teşkil eden ilkelere ışık tutmuştur . **Uluslararası Ceza Mahkemesi,** soykırım suçu, insanlığa karşı suçlar, savaş suçları ve saldırı suçu olmak üzere dört suç tipi için yargılama yetkisine sahiptir. Uluslararası Ceza Mahkemesi’nin uygulayacağı maddi hukuk ve muhakeme hukukuna dair kurallar Statü’de ve Usul ve Delil Kuralları belgesinde ayrıntılı bir şekilde yer almıştır . UCM tali yargılama yetkisine sahip bağımsız, tarafsız ve sürekli nitelikte bir ceza mahkemesidir. **Uluslararası Ceza Mahkemesi,** soruşturma işlemleri ve iddia faaliyetini yürütmek üzere bir savcılık teşkilatına sahiptir. Statü’de mahkemenin yetkisine dair önşartlar, sınırlamalar ve diğer tüm düzenlemeler aynı zamanda savcılık makamının yetkisini de belirlemektedir. **Uluslararası Ceza Mahkemesi Savcılığı,** Statü’de yer alan herhangi bir suçun işlenmesi ve belli prosedür kurallarının bir arada gerçekleşmesi halinde soruşturma yetkisi kazanır.
 
-**I. SAVCILIK ÖRGÜTÜ VE ÖZELLİKLERİ**
+### I. ULUSLARARASI CEZA MAHKEMESİ SAVCILIK ÖRGÜTÜ VE ÖZELLİKLERİ
 
 **A. Genel Olarak**
 
@@ -41,7 +41,7 @@ Savcılık örgütü, faaliyetlerini gerçekleştirirken bağımsız hareket etm
 
 **Uluslararası Ceza Mahkemesi Savcılığı,** ulusal düzeyde soruşturulamayan uluslararası toplumu ilgilendiren önemli suçları araştırma ve soruşturma konusu yaptığından, sözleşmeye taraf veya mahkemenin yargı yetkisini ad hoc kabul eden egemen devletlerin ülkesinde savcılara önemli ayrıcalık ve dokunulmazlıklar sağlanmıştır. Savcılar, araştırma ve soruşturma faaliyetleri ile mahkemenin işlerini yürüttükleri sırada, diplomatik misyon şeflerine sağlanan ayrıcalık ve dokunulmazlıklardan yararlanırlar. Görev süreleri dolduktan sonra da resmi görevleri sırasındaki sözlü ve yazılı ifadelerinden veya yaptıkları eylemlerden dolayı her türlü yasal işlemlere karşı dokunulmazlıktan yararlanmaya devam ederler (Statü 48/2).
 
-**II. SORUŞTURMA YETKİSİNİN ÖNŞARTLARI**
+### ULUSLARARASI CEZA MAHKEMESİ SAVCILIĞININ SORUŞTURMA YETKİSİ ÖNŞARTLARI
 
 **A. Statüye Taraf Olma**
 
@@ -62,7 +62,7 @@ Herhangi bir devlet, Statü’ de tanımlanan suçlardan birinin ülkesinde işl
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/b9c6e9fac98d113916152992c2f8b98e0f441c6d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3235353561452e6a7067 "Ceza Avukatı")
 
-**III- SORUŞTURMA YETKİSİNİN SINIRLARI**
+### ULUSLARARASI CEZA MAHKEMESİ SAVCILIĞININ SORUŞTURMA YETKİSİ SINIRLARI
 
 **A. Zaman Bakımından Yetki (Jurisdiction Ratione Temporis)**
 
@@ -76,7 +76,7 @@ Kişi yönünden yetki, failin kişiliği göz önünde tutularak yargılama yet
 
 Ulusal ceza muhakemesi hukukunda madde bakımından yetki, ilk derece mahkemelerinden hangisinin olaya ilişkin suç vasfına, cezanın tür ve ağırlığına göre yargılama yetkisine sahip olduğunu belirleyen kurallardır . Uluslararası Ceza Mahkemesi Savcılığı’nın madde bakımında yetkisi, savcılığın hangi suç tiplerini soruşturabileceğinin belirlenmesini ifade eder. **Uluslararası Ceza Mahkemesi,** uluslararası toplumu ilgilendiren ağır suçları yargılamak üzere kurulmuş bir mahkemedir. Soruşturma ve yargılama konusu yapılacak suçlar, Statü’de açıkça düzenlenmiştir. Buna göre dört suç tipi; soykırım suçu, insanlığa karşı suçlar, savaş suçları, saldırı suçu savcılık tarafından soruşturulabilecek ve mahkemece yargılanabilecektir. Bu fiillere ilişkin suçun maddi unsurları oldukça çeşitli hareketler içerdiğinden esasen savcılığın hemen hemen tüm ağır suçları soruşturma yetkisine sahip olduğu söylenebilir.
 
-**IV-SAVCILIĞA SUÇ BİLDİRİMİ VE SAVCILIĞIN SUÇU ÖĞRENMESİ**
+### ULUSLARARASI CEZA MAHKEMESİ SAVCILIĞINA SUÇ BİLDİRİMİ VE SAVCILIĞIN SUÇU ÖĞRENMESİ
 
 **A. Genel Olarak**
 
@@ -103,7 +103,7 @@ Statü’ye taraf olmayan devletler, Statü’nün 12/3 maddesine göre ülkesin
 
 ### ![Uluslararası Ceza Mahkemesi](https://camo.githubusercontent.com/85416e2ba682d8fab8a0f7cb2d58918cf80d11b8/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3172724434592e6a7067 "Uluslararası Ceza Mahkemesi")
 
-**V-SORUŞTURMAYI BAŞLATMA KARARI**
+### ULUSLARARASI CEZA MAHKEMESİ SAVCILIĞININ SORUŞTURMA BAŞLATMA KARARI
 
 **A. Genel Olarak**
 
@@ -145,7 +145,7 @@ Yargı yetkisine sahip devletin belli bir soruşturma yapmaya muktedir olup olma
 
 BM Güvenlik Konseyi’nin aldığı karar uyarınca savcılıktan soruşturmanın ertelenmesi talebinde bulunması mümkündür.Konsey’in talepte bulunmasından sonraki 12 ay süreyle, Uluslararası Ceza Mahkemesi savcılığı hiçbir soruşturma yürütemez, yürütülen soruşturmalarında talebin mahkemeye ulaşmasıyla ertelenmesi gerekir. (Statü md.16).
 
-**VI-Ön Yargılama Dairesi’nin Savcılığa Soruşturma Yetkisi Vermesi**
+### ÖN YARGILAMA DAİRESİNİN ULUSLARARASI CEZA MAHKEMESİ SAVCILIĞINA SORUŞTURMA YETKİSİ VERMESİ
 
 Savcılık bir soruşturma başlatmak için yukarıda anlattığımız tüm koşulların gerçekleştiği kanaatindeyse yaptığı araştırma işlemini soruşturmaya çevirebilmek için Ön Yargılama Dairesi’nden soruşturma yetkisi talebinde bulunur (Statü md.15/3). Ön Yargılama Dairesi soruşturma yetkisi vermeden de savcılık 56.maddeye göre gecikmesinde sakınca bulunan hallerde gerekli önlemlerin alınmasını Ön Yargılama Dairesi’nden talep edebilir. Ön Yargılama Dairesi, Uluslararası Ceza Mahkemesi’nde dava açılıp yargılama başlamadan önce yapılması gerekli acil kararları almak ve işlemleri yapmak,savcılık işlemlerini denetlemek, yakalama, tutuklama ve savcılığın talep ettiği diğer müzekkereleri çıkarmak üzere kurulmuş hakimlerden oluşan ve **Uluslararası Ceza Mahkemesi** içinde faaliyet gösteren bir dairedir. Ön Yargılama Dairesi, savcılığa soruşturma yetkisi verince soruşturma başlamış sayılır. Bu aşamadan sonra savcılık Statü’nün verdiği yetkiye dayanarak her türlü soruşturma işlemini yapabilir.
 
@@ -160,10 +160,15 @@ Statü gereği egemenlik hakkının doğal bir sonucu olarak asli yargı yetkisi
 **KISALTMALAR**
 
 AÜHFD : Ankara Üniversitesi Hukuk Fakültesi Dergisi
+
 BM : Birleşmiş Milletler
+
 CMK : Ceza Muhakemesi Kanunu
+
 md. : Madde
+
 STATÜ : Uluslararası Ceza Mahkemesi Roma Statüsü
+
 UCM : Uluslararası Ceza Mahkemesi
 
 **KAYNAKÇA**
