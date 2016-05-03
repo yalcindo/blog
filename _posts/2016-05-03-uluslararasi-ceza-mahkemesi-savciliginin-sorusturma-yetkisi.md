@@ -21,7 +21,7 @@ Ceza hukukunda cezai sorumluluk, tedbir niteliğindeki bazı yaptırımlar bir t
 
 Uluslararası toplumu ilgilendiren vahim suçları yargılamak üzere 17 Temmuz 1998 tarihinde *Roma Statüsü* olarak adlandırılan sözleşmeyle bağımsız ve sürekli bir yargı organı olan Uluslararası Ceza Mahkemesi (UCM) kurulmuştur. Mahkeme, 11 Nisan 2002 tarihinde sözleşmeyi imzalayan 60 ülkenin onayı şartının gerçekleşmesiyle faaliyete başlamıştır. Olağanüstü,geçici ve özel nitelikteki Yugoslavya ve Ruanda UCM’lerinde yapılan yargılama faaliyeti mevcut UCM’nin temelini teşkil eden ilkelere ışık tutmuştur . *Uluslararası Ceza Mahkemesi,* soykırım suçu, insanlığa karşı suçlar, savaş suçları ve saldırı suçu olmak üzere dört suç tipi için yargılama yetkisine sahiptir. Uluslararası Ceza Mahkemesi’nin uygulayacağı maddi hukuk ve muhakeme hukukuna dair kurallar Statü’de ve Usul ve Delil Kuralları belgesinde ayrıntılı bir şekilde yer almıştır . UCM tali yargılama yetkisine sahip bağımsız, tarafsız ve sürekli nitelikte bir ceza mahkemesidir. *Uluslararası Ceza Mahkemesi,* soruşturma işlemleri ve iddia faaliyetini yürütmek üzere bir savcılık teşkilatına sahiptir. Statü’de mahkemenin yetkisine dair önşartlar, sınırlamalar ve diğer tüm düzenlemeler aynı zamanda savcılık makamının yetkisini de belirlemektedir. **Uluslararası Ceza Mahkemesi Savcılığı,** Statü’de yer alan herhangi bir suçun işlenmesi ve belli prosedür kurallarının bir arada gerçekleşmesi halinde soruşturma yetkisi kazanır.
 
-### I. ULUSLARARASI CEZA MAHKEMESİ SAVCILIK ÖRGÜTÜ VE ÖZELLİKLERİ
+### ULUSLARARASI CEZA MAHKEMESİ SAVCILIK ÖRGÜTÜ VE ÖZELLİKLERİ
 
 **A. Genel Olarak**
 
