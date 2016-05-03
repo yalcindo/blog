@@ -8,6 +8,8 @@ summary: İzale-i Şuyu Davası (Ortaklığın Giderilmesi Davası) Nedir? Ortak
 
 ---
 
+### ![Ortaklığın Giderilmesi Davası](https://camo.githubusercontent.com/656b882df745342d569da382f677ecba18851942/687474703a2f2f692e68697a6c69726573696d2e636f6d2f385a346b71572e6a7067 "İzale-i Şuyu Davası")
+
 
 ## İzale-i Şuyu (Ortaklığın Giderilmesi) Davası Nedir?
 
@@ -19,6 +21,8 @@ Ortaklığın giderilmesi davası,  menkul veya gayrimenkule ortak olan tüm pay
 
 Tüm paydaşların ortaklığın giderilmesi davasında yer alması zorunludur. Paydaşlardan birinin ölümü halinde mirasçılık belgesinde ismi geçen tüm mirasçıların davaya dahil edilmesi gerekir.  Tüm ortaklar davaya dahil edilmeden davanın sonuçlandırılması mümkün değildir.
 
+
+
 ## Ortaklığın Giderilmesi Davası Hangi Mahkemede Açılır
 
 Ortaklığın giderilmesi (izale-i şüyu) davasında yetkili mahkeme taşınmaz malın bulunduğu yer mahkemesidir. Görevli mahkeme ise Sulh Hukuk Mahkemesi’dir. Örneğin, taşınmaz mal Bakırköy’de bulunuyorsa ortaklığın giderilmesi davasında yetkili ve görevli mahkeme Bakırköy Sulh Hukuk Mahkemesi’dir.
@@ -26,6 +30,9 @@ Ortaklığın giderilmesi (izale-i şüyu) davasında yetkili mahkeme taşınmaz
 ## Ortaklığın Giderilmesi Davasında Mahkeme Harç  ve Giderleri
 
 Ortaklığın giderilmesi davası matbu harca tabi bir davadır.  Her ne kadar davayı açan paydaş dava harcını ve mahkeme giderlerini davanın başında ödemek zorunda kalsa da davanın sonunda mahkeme giderleri ve avukatlık ücretleri payları oranında taraflara yükletilir. İzale-i şuyu davasında davanın kazananı veya kaybedeni olmaz, davanın tarafı olan herkes davadan aynı şekilde etkilenir.
+
+### ![İzale-i Şuyu Davası](https://camo.githubusercontent.com/ea0e3e5ef8605311bfe2012fdbc467e4492d5007/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f33444150512e6a7067 "Ortaklığın Giderilmesi Davası")
+
 
 ### Aynen Taksim  Suretiyle İzale-i Şuyu (Ortaklığın Giderilmesi)
 
@@ -38,6 +45,8 @@ Paydaşlığın giderilmesi davalarında mahkemece malın aynen bölünerek payl
 Aynen bölünerek paylaştırmanın (taksimin) mümkün olması durumunda bölünen parçaların değerlerinin birbirine denk düşmemesi halinde eksik değerdeki parçaya para (ivaz) eklenerek denkleştirme sağlanır. Paydaşlar arasında anlaşma olmadıkça hakim kendiliğinden bazı taşınmazların bir kısım paydaşlara, kalanın diğer paydaşlara verilmesi şeklinde aynen bölünerek paylaştırmaya karar veremez.
 
 Eğer taşınmaz malda kat mülkiyeti kurmak mümkünse, hakim kat mülkiyeti kurulup kurulamayacağını çok iyi araştırmalıdır. Kat mülkiyetinin kurulması mümkün olan bir taşınmaz malda satış suretiyle ortaklığın giderilmesine karar verilemez.
+
+### ![Gayrimenkul Avukatı](https://camo.githubusercontent.com/87789343f92889a7978ea6774fe2bf9569cfedb1/687474703a2f2f692e68697a6c69726573696d2e636f6d2f506b4c3533372e6a7067 "Gayrimenkul Avukatı")
 
 ### Satış Suretiyle İzale-i Şuyu (Ortaklığın Giderilmesi)
 
