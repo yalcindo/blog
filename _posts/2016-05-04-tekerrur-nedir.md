@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: TEKERRÜR NEDİR? Mükerrirlere Özgü İnfaz Rejimi
+title: Ceza Hukukunda Tekerrür ve Mükerrirlere Özgü İnfaz
 category: ceza-hukuku
 googleAnahtar: Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
 keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
