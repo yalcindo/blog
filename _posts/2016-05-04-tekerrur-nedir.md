@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ceza Hukukunda Tekerrür ve Mükerrirlere Özgü İnfaz
+title: Suçta Tekerrür ve Mükerrirlere Özgü İnfaz
 category: ceza-hukuku
 googleAnahtar: Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
 keywords:  Tekerrür Nedir, Suçta Tekerrür Şartları, Mükerrirler Özgü İnfaz Rejimi, Tekerrür ve TCK, avukat, ceza avukatı, ağır ceza avukatı, İstanbul ceza avukatı, bahçelievler avukat, hukuk bürosu
@@ -90,7 +90,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 
 ### Suçta Tekerrün Hukuki Sonuçları 
 
-Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir yaptırımla karşılaşmasına yol açar. Suçta tekerrür halinde sanık aleyhine üç hukuki sonuç gerçekleşir:
+Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir yaptırımla karşılaşmasına yol açar. Suçta tekerrür halinde sanık aleyhine ceza hukuku ve infaz hukuku alanında üç hukuki sonuç gerçekleşir:
 
 *	**Mükerrirlere Özgü İnfaz Rejimi Uygulanır:** Suçta tekerrür hükümleri uygulanan hükümlüye [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. Maddesinde düzenlenen “mükerrirlere özgü infaz rejimi” uygulanır. Mükerrirlere özgü infaz rejimi, hükümlünün cezaevinde daha fazla kalmasına yol açar. Mükerrirlere özgü infaz rejimi uygulandığında hükümlünün ne kadar süreyle cezaevinde kalacağı aşağıda ayrı bir başlık altında incelenmiştir.
 
@@ -105,7 +105,7 @@ Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin 
 
 ### Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi
 
-Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
+Suçta tekerrür halinde, işlediği ikinci suçtan dolayı hükümlü hakkında mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
 
 >1- Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
 >
@@ -149,7 +149,7 @@ Tekerrür halinde hükümlü hakkında ikinci suçtan dolayı mükerrirlere özg
 
 ### Suçta Tekerrür ve Ek Savunma
 
-Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir. İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
+Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir.  İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 
 **Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
 
