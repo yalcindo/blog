@@ -10,7 +10,7 @@ keywords: Ağır Ceza avukatı, avukat, ceza avukatı, ceza davası, ceza avukat
 
 ## Ağır Ceza Avukatı Nedir?
 
-**Ağır ceza avukatı**, mevzuatta görev tanımı yapılmış bir avukatlık branşı değildir. Türkiye’de uzmanlaşma olmadığı halde halk arasında ağır ceza mahkemesinin yetkisine giren avukatları tanımlamak için ağır ceza avukatı deyimi kullanılır. Uygulamada asliye ceza mahkemesinin yetkisine giren davalara giren avukatlar içinde bu deyimin kullanıldığı görülmektedir. Biz de makalemizde halk arasında kullanılan biçimiyle ağır ceza avukatı kavramını kullanmayı tercih ediyoruz.
+**Ağır ceza avukatı**, mevzuatta görev tanımı yapılmış bir avukatlık branşı değildir. Türkiye’de avukatlıkta uzmanlık veya branşlaşma mevcut değildir. Buna rağmen  ağır ceza mahkemesinde görülen ceza davalarına giren avukatlara halk arasında *ağır ceza avukatı* denilmektedir. Uygulamada asliye ceza mahkemesinin yetkisine giren davalara giren avukatlar için de bu deyimin kullanıldığı görülmektedir. Biz de makalemizde halk arasında kullanılan biçimiyle ağır ceza avukatı kavramını kullanmayı tercih edeceğiz.
 
 ### ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/5128725cfb59d8a717d6fffeb82260a5c3732af2/687474703a2f2f692e68697a6c69726573696d2e636f6d2f5636446135522e6a7067 "Ağır Ceza Avukatı")
 
