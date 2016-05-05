@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Temyiz Nedir? Temyiz Süresi ve Şartları
+title: Temyiz Nedir? Temyiz Şartları ve Süresi  
 category: ceza-hukuku
 googleAnahtar: Temyiz, temyiz başvurusu, yargıtay temyiz süresi, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, Onama, Bozma, bakırköy avukat, istanbul avukat, hukuk bürosu
 keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, temyiz başvuru dilekçesi, temyiz süresi, hukuk bürosu
