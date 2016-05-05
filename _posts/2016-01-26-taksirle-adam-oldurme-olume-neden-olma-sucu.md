@@ -36,13 +36,13 @@ Taksirle işlenen fiil neticesinde ölüm ve yaralanmalar meydana gelmesine rağ
 ### Taksirli Suç Kavramı ve Taksirin Unsurları
 
 Taksirli suç, failin tedbirli ve öngörülü davranmaması, dikkat ve özen yükümlülüğüne aykırı hareket etmesi halinde söz konusu olur.
-Yargıtay Ceza Genel Kurulunun 2007/221 karar ve 2008/185 sayılı kararlarında ve yerleşik uygulamada taksirli suçun unsurları şunlardır:
+Yargıtay Ceza Genel Kurulu'nun 2007/221  ve 2008/185 sayılı kararlarında ve yerleşik uygulamada taksirli suçun unsurları şunlardır:
 
 * Fiilin taksirle işlenebilen bir suç olması: Kasten işlenebilen suçlar ve kanunda açıkça taksirin cezalandırılmadığı suçlar, taksirli suç kategorisine girmez.
 * Hareketin iradiliği: Fail, yaptığı hareketi kendi özgür iradesiyle yapmalıdır.
 * Neticenin iradi olmaması: Fail, suçun oluşumuna neden olan hareketi kendi iradesiyle yapmasına rağmen, hareket neticesinde oluşan sonucun meydana gelmesini istememelidir. Neticenin istenmemesi, taksirli suçları kasıtlı suçlardan ayıran en özenmli özelliktir.
 * Hareketle netice arasında nedensellik bağının bulunması: Failin yaptığı hareketle sonuç arasında mutlaka sebep-sonuç ilişikisi olmalıdır.
-* Neticenin öngörülebilir olması: Fail neticeyi öngörmesine rağmen taksirli fiili işlemeli, ancak meydana gelen neticenin oluşmasını istememelidir.
+* Neticenin öngörülebilir olması: Taksirli bir suçtan bahsedebilmek için neticenin öngörülebilir olması gerekir. Fail neticeyi öngörmesine rağmen taksirli fiili işlemeli, ancak meydana gelen neticenin oluşmasını istememelidir.
 
 
 
