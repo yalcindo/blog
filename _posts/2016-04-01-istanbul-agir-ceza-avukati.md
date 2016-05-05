@@ -79,7 +79,7 @@ Zimmet suçu istatistiksel açıdan en çok Türkiye'nin İstanbul kentinde işl
 
 İhaleye fesat karıştırma suçu, bağlı hareketli bir suçtur. Yani, suçun kanuni tanımında sınırlı bir şekilde sayılan hareketlerden birinin gerçekleşmesiyle suç oluşur. Kanuni tanımda yer almayan benzer nitelikteki hareketler suçun meydana gelmesine sebep olamaz.
 
-**Ağır ceza avukatı**, ihaleye fesat karıştırma neticesinin doğmasına neden olan hareketleri tek tek değerlendirmeli, yargılama konusu fiilin TCK  235. maddede sınırlı bir şekilde sayılan hareketlerden olup olmadığını mahkemede tartışmalıdır.
+*Ağır ceza avukatı*, ihaleye fesat karıştırma neticesinin doğmasına neden olan hareketleri tek tek değerlendirmeli, yargılama konusu fiilin TCK  235. maddede sınırlı bir şekilde sayılan hareketlerden olup olmadığını mahkemede tartışmalıdır.
 
 
 ### Bilişim Suçları ve Ağır Ceza Avukatı
