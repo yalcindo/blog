@@ -37,7 +37,7 @@ Mala zarar verme, seçimlik hareketlerle işlenebilen bir fiildir. Mala zarar ve
 
 Her malın bir kullanım amacı vardır. Mal, kullanım amacını veya özgülendiği hizmeti yerine getirdiği müddetçe bir değere sahiptir. Fail, icra ettiği fiili ile malın niteliğini değiştirir veya mal özgülendiği fonksiyonu yerine getiremez hale gelirse malın bozulması, kullanılamaz hale getirilmesi suretiyle mala zarar verme suçu meydana gelir. 
 
-#### Yıkmak Suretiyle Mala Zarar Verme
+### Yıkmak Suretiyle Mala Zarar Verme
 
 Bir malın yıkılması, malın bünyesinde ciddi değişiklikler meydana getirilmesi anlamına gelir. Yıkmak fiiliyle, malın bünyesinde malı bozmaktan daha büyük bir değişiklik meydana gelmesi kastedilmiştir. Mesela, mağdura ait bir barakanın yıkılması veya evinin dış duvarının yıkılması yıkmak suretiyle bu fıkradaki suç işlenmiş olur.
 
