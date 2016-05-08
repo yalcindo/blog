@@ -62,11 +62,11 @@ Maalesef, TCK uygulamasında sahipli hayvanlar mal olarak kabul edilmektedir. TC
 
 ### Mala Zarar Verme Suçunun Cezası
 
-####  Suçun Basit Şekli [TCK md.151](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
+####  Suçun Basit Şekli [(TCK md.151)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5069)
 
 Suçun basit şeklinden kastedilen şey yukarıda açıklanan fiillerin özel mülkiyete tabi normal bir mal aleyhine işlenmesidir. Mala zarar verme suçu, basit şekliyle işlendiğinde sanığa 4 aydan 3 yıla kadar hapis cezası veya adli para cezası verilir. Suçun basit şeklinde hakim ya hapis cezası  ya da adli para cezası verecektir. Her iki yaptırım aynı anda uygulanamaz.
 
-#### Suçun Nitelikli Şekli [TCK md.152](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
+#### Suçun Nitelikli Şekli [(TCK md.152)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5076)
 
 Mala zarar verme suçunun nitelikli halleri, zarar verilen eşyanın niteliğinden dolayı cezanın ağırlaştırılmasını gerektirir. Suçun;
 
