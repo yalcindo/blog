@@ -47,7 +47,7 @@ Sözleşme yazılı olabileceği gibi sözlü şekilde de yapılabilir. Sözleş
 
 Zilyetlik, bir kimsenin taşınır veya taşınmaz mal üzerindeki fiili hakimiyeti olarak tanımlanabilir. Zilyetlik hakkına sahip kişiye “zilyet” denilmektedir. Zilyetlik, mülkiyete göre geniş bir kavramdır, çünkü bir kişi malın mülkiyet hakkı sahibi olmasa bile malın zilyedi olabilir. Mülkiyet hakkı sahibi kişinin zilyetliğine “asli zilyetlik”, mülkiyet hakkı sahibinden zilyetliği devralan kişi “feri zilyet” olarak kabul edilir. Örneğin, bir evin mülkiyet hakkı sahibi asli zilyet, evin kiracısı feri zilyet olarak kabul edilir.
 
-**Emniyeti suistimal suçu** açısından zilyetlik kilit önemde bir kavramdır. Suçun ihdas edilme amacı nihayetinde mülkiyeti korumaktır. Mülkiyetin en geniş bir biçimde korunması için zilyetliğin korunması gerekir. Emniyeti suistimal suçu şartlarının oluşması için zilyetlik açısından şu unsurların gerçekleşmesi gerekir:
+*Emniyeti suistimal suçu* açısından zilyetlik kilit önemde bir kavramdır. Suçun ihdas edilme amacı nihayetinde mülkiyeti korumaktır. Mülkiyetin en geniş bir biçimde korunması için zilyetliğin korunması gerekir. Emniyeti suistimal suçu şartlarının oluşması için zilyetlik açısından şu unsurların gerçekleşmesi gerekir:
 
 * **Zilyetliğin Devri:** Emniyeti suistimal suçunun oluşması için malın zilyetliğinin suçu işleyen kişiye devredilmesi gerekir. Zilyetliği devredilen mal, taşınır veya taşınmaz bir mal olabilir. Taşınır mal, “misli bir mal” (aynısı olan mal) ise zilyetliği devredilen malın misli olan herhangi bir mal geri mal sahibine teslim edilemezse suç oluşur. Örneğin, kendisine bir düğünde kullanılmak üzere verilen bir takıyı satan kişi, aynı takıdan mal sahibine satın alıp geri verirse suç vücut bulmaz. Ancak, misli olmayan (aynısı olmayan) malların değeri kadar para verilmesi emniyeti suiistimal suçunun oluşmasını engellemez. Maddi zararın karşılanması yazımızda değineceğimiz üzere sadece bir ceza indirimi nedenidir. Zilyetlik, ya malın belirli bir şekilde kullanılması ya da malın muhafazası için faile devredilmelidir. Örneğin, kendisine muhafaza etmek için bırakılan çek veya senedi, ciro ederek ticari faaliyetinde kullanan kişi, çek veya senedi zilyetliğin devir amacı dışında kullandığı için ticaret sebebiyle güveni kötüye kullanma suçu oluşur.	
 
@@ -72,7 +72,7 @@ Güveni kötüye kullanılması suçunun meydana gelmesi için failin haksız ya
 
 ### Hizmet Nedeniyle Güveni Kötüye Kullanma
 
-**Hizmet nedeniyle güveni kötüye kullanma,** suçun nitelikli şekillerinden biridir. TCK md. 155/2 hizmet nedeniyle güvenin kötüye kullanılması halinde suçun cezasını daha ağırlaştırmıştır.
+*Hizmet nedeniyle güveni kötüye kullanma,* suçun nitelikli şekillerinden biridir. TCK md. 155/2 hizmet nedeniyle güvenin kötüye kullanılması halinde suçun cezasını daha ağırlaştırmıştır.
 
 Malın mülkiyet hakkı sahibinin zilyet ile kurduğu sözleşme, hizmet ilişkisi şeklinde ise hizmet nedeniyle güveni kötüye kullanma suçu meydana gelir. Taraflar arasındaki hizmet ilişkisinde bir süreklilik olmalıdır. Sürekli bir ilişki olmadan zilyet, malın mülkiyet hakkı sahibinin geçici bir talebini yerine getirirken suçu işlerse, suçun basit şekli meydana gelir. Ayrıca suçun konusu olan hizmet ilişkisinin bir ücret veya bu mahiyette sayılabilecek bir çıkar karşılığında kurulması gerekir.
 
