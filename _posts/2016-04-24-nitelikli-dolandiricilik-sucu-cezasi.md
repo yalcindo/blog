@@ -148,11 +148,11 @@ Mağdurun bu fiil nedeniyle şikayetçi olması halinde, faile 6 aydan 1 yıla k
 ### Dolandırıcılık Suçunun Cezası
 
 
-#### Basit Dolandırıcılık Suçunun Cezası (TCK md. 157)
+#### Basit Dolandırıcılık Suçunun Cezası [(TCK md. 157)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5105)
 
 Basit dolandırıcılık suçunun cezası TCK md. 157’de düzenlenmiştir. Buna göre, basit dolandırıcılık suçunda fail 1 yıldan 5 yıla hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. Madde metninde hapis cezası ve adli para cezası birlikte aynı yaptırımın birer parçası olarak düzenlenmiştir. Yani faile hem hapis cezası hem de adli para cezası aynı anda verilecektir. Faile verilecek adli para cezasının miktarı meydana gelen zararın büyüklüğüne göre belirlenecektir.
 
-#### Nitelikli Dolandırıcılık Suçunun Cezası (TCK md. 158)
+#### Nitelikli Dolandırıcılık Suçunun Cezası [(TCK md. 158)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5106)
 
 *Nitelikli dolandırıcılık suçunun cezası* TCK md. 158’de düzenlenmiştir. Buna göre nitelikli dolandırıcılık suçu işleyen fail, 2 yıldan 7 yıla kadar hapis cezası ve beşbin güne kadar adli para cezası ile cezalandırılır. Ancak,  kamu kurum ve kuruluşlarının zararına olarak, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle, banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla veya sigorta bedelini almak maksadıyla suçun işlenmesi hallerinde suçun cezasının alt sınırı 3 yıldan az olamaz, verilecek adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
