@@ -9,7 +9,7 @@ summary: Tehdit suçu Nedir? Tehdit Suçunun Şartları ve Unsurları, Tehdit Su
 
 ## Tehdit Suçu Nedir?
 
-**Tehdit suçu,** meydana gelmesi failin iradesine bağlı olan bir kötülüğün, belli bir kişiye gelecekte muhtemelen gerçekleşecekmiş gibi gösterilmesidir. Tehdit suçu, haksız bir zarara veya kötülüğe uğratılacağının bir kimseye bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir.
+**Tehdit suçu,** meydana gelmesi failin iradesine bağlı olan bir kötülüğün, belli bir kişiye karşı gelecekte muhtemelen gerçekleşecekmiş gibi gösterilmesidir. Tehdit suçu, haksız bir zarara veya kötülüğe uğratılacağının bir kimseye bildirilmesiyle meydana gelir. Tehdit suçunun oluşmasına neden olan bu bildirim, söz ile yapılabileceği gibi davranış yoluyla da yapılabilir.
 
 Tehdit suçunda korunan hukuki değer, kişilerin iç barışı, karar verme ve hareket etme özgürlüğüdür. Fail, fiili işlerken tehdit boyutunu aşacak söz ve davranışlar icra ederse [**"Şantaj Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) oluşabilir.
 
