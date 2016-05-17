@@ -61,12 +61,12 @@ Başkasından gelen hakaret içerikli bir e-mail mağdura “forward” edilerek
 
 ### Hakaret Suçunun Cezası Nedir?
 
-####  Basit Hakaret Suçu Cezası [TCK md.125/1](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
+####  Basit Hakaret Suçu Cezası [(TCK md.125/1)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
 
 
 **Hakaret suçunun cezası,** suçun basit veya nitelikli şekillerinden hangisinin işlendiğine göre farklılık arz eder. Suçun basit şeklinde, yani kamu görevlisi olmayan bir kişinin yüzüne karşı hakaret halinde, hakaret suçunun cezası 3 aydan 2 yıla kadar hapis veya adli para cezasıdır. Suçun basit şeklindev hakim ya hapis cezası ya da adli para cezası verecektir. Her iki cezanın aynı anda verilmesi mümkün değildir. Hakim gerekçeli kararında neden hapis cezası veya adli para cezası verdiğini de açıkça gerekçelendirmek zorundadır.
 
-####  Nitelikli Hakaret Suçu Cezası [TCK md.125/3](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
+####  Nitelikli Hakaret Suçu Cezası [(TCK md.125/3)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4959)
 
 
 
@@ -90,7 +90,7 @@ TCK md. 129/3’e göre hakaret suçunun iki kişi tarafından karşılıklı i�
 
 Karşılıklı hakaret suçunun işlenmesi halinde hakim, taraflardan birine veya her iki tarafa ceza vermeyebilir veya cezayı 1/3’üne kadar indirebilir.
 
-### Hakaret Suçunun Haksız Fiile Bir Tepki Olarak İşlenmesi [TCK md.129](http://www.turkhukuksitesi.com/mevzuat.php?mid=4967)
+### Hakaret Suçunun Haksız Fiile Bir Tepki Olarak İşlenmesi [(TCK md.129)](http://www.turkhukuksitesi.com/mevzuat.php?mid=4967)
 
 [**Haksız Tahrik**](https://barandogan.av.tr/blog/ceza-hukuku/haksiz-tahrik-indirimi-nedir.html), genel bir ceza indirimi nedenidir.     
 
@@ -107,7 +107,7 @@ Genel bir ceza hukuku kurumu olan haksız tahrik, hakaret suçunda özel bir şe
 
 Maddenin düzenleme biçiminden anlaşıldığı üzere, cumhurbaşkanına hakaret suçu ile cumhurbaşkanlığı makamının fonksiyonları, işlevi, yerine getirdiği görevi değil, hukuksal bir kavram olarak cumhurbaşkanının "şerefi" korunmak istenmektedir.
 
-Cumhurbaşkanına hakaret suçu, uygulamada eleştiri niteliğindeki söz ve davranışların da hakaret olarak cezalandırılmasına neden olduğundan ceza hukukunun genel ilkelerine aykırı bir düzenlemedir. Hakaret suçu, genel olarak TCK md.125'de herkes için düzenlenmiş olduğundan  TCK md. 299'da ayrıca cumhurbaşkanına hakaret suçuna yer verilmesi hukuka aykırıdır. Anayasa'ya göre kişiye özel düzenleme yapılamaz. Cumhurbaşkanına hakaret suçu, kişiye özel düzenleme  niteliğinde olduğundan Anayasa'nın eşitlik ilkesini düzenleyen 10. maddesine aykırıdır.
+*Cumhurbaşkanına hakaret suçu*, uygulamada eleştiri niteliğindeki söz ve davranışların da hakaret olarak cezalandırılmasına neden olduğundan ceza hukukunun genel ilkelerine aykırı bir düzenlemedir. Hakaret suçu, genel olarak TCK md.125'de herkes için düzenlenmiş olduğundan  TCK md. 299'da ayrıca cumhurbaşkanına hakaret suçuna yer verilmesi hukuka aykırıdır. Anayasa'ya göre kişiye özel düzenleme yapılamaz. Cumhurbaşkanına hakaret suçu, kişiye özel düzenleme  niteliğinde olduğundan Anayasa'nın eşitlik ilkesini düzenleyen 10. maddesine aykırıdır.
 
 Cumhurbaşkanına hakaret suçunun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
 
