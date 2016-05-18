@@ -58,7 +58,8 @@ Nitelikli dolandırıcılık suçunda, hayatın olağan ölçüleri dışına ç
 
 ### 5.	MAĞDURLAR YAŞLARI İTİBARİYLE ALEYHLERİNE ÇOK KOLAY BİR ŞEKİLDE NİTELİKLİ DOLANDIRICILIK SUÇU İŞLENEBİLİR		
 
-Mağdurlardan M.B. 1940 doğumlu, T.B ise 1949 doğumludur. 	Mağdurlardan M.B davranışlarının neticelerini dahi tahmin edebilecek 	bir yaşta değildir. Sanık, mağdurların yaşı nedeniyle anlayamadıkları bazı 	işlemleri ustaca, yoğun bir şekilde ve hileyle sergilemiştir.																																																					
+Mağdurlardan M.B. 1940 doğumlu, T.B ise 1949 doğumludur. 	Mağdurlardan M.B davranışlarının neticelerini dahi tahmin edebilecek 	bir yaşta değildir. Sanık, mağdurların yaşı nedeniyle anlayamadıkları bazı 	işlemleri ustaca, yoğun bir şekilde ve hileyle sergilemiştir.
+																																																					
 ### 6. SANIK BONOLARDA ÇEŞİTLİ DEĞİŞİKLİKLER YAPTIĞI İÇİN AYRICA 	RESMİ EVRAKTA SAHTECLİK SUÇU NEDENİYLE DE 	CEZALANDIRILMALIDIR	
 
 Sanık yaşlı olan mağdurların bilgisizliklerinden ve sonuçları öngörmemelerinden 	yararlanarak bonolar imzalatmış, bonoları istediği şekilde doldurarak gerçek bir 	borç ilişkisi varmış gibi sahte belge üretmiştir. Kambiyo senetleri, TCK 210. 	madde gereği resmi belge hükmünde olan evraklardan olduğundan, sanık resmi 	evrakta sahtecilik suçundan cezalandırılmalıdır.
