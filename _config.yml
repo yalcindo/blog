@@ -1,6 +1,6 @@
 permalink: /:categories/:title.html
 url: "https://barandogan.av.tr"
-baseurl: /blog
+baseurl: https://barandogan.av.tr/blog
 full_name: "Avukat Baran Doğan"
 first_name: "Baran"
 last_name: "Doğan"
