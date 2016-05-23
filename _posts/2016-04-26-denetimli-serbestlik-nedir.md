@@ -188,6 +188,11 @@ Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gere
 
 ---
 
+* Denetimli serbestlik tedbirinin iki kez ihlal edilmesi, "yükümlülüklere uymamada ısra etme" anlamına gelir. İki kez ihlale neden olarak yükümlülüklere uymamada ısrar eden hükümlü hakkındaki infaza son verilir ve infaz kaydı kapatılır. Ancak, yükümlülükleri iki kez ihlali nedeniyle infaza son verilebilmesi için ilk ihlalden hemen sonra hükümlüye bir "uyarı yazısı" tebliğ edilmelidir. Uyarı yazısı tebliğ edilmemişse, hükümlü hakkında denetimli serbestlik yasası uygulamasına son verilemez (Yargıtay 7. Ceza Dairesi - 
+2015/21337, Tarih:2.11.2015).
+
+* Hakkında denetimli serbestlik yasası uygulaması devam eden hükümlü başka bir suçtan tutuklanmıştır. Başka suçtan kaynaklanan tutuklama, hükümlüye uygulanan koşullu salıverilme tedbirinin hükümlü tarafından ihlal edildiği anlamına gelmez. Hükümlünün başka suç nedeniyle tutuklulukta kaldığı süre, şartlı tahliye süresine eklenerek yeni bir şartlı tahliye tarihi belirlenerek denetimli serbestlik yasası uygulması yapılmalıdır. Kaldı ki hükümlü tutuklulukta geçirdiği süreyi şartlı tahliyeye eklemek yerine, cezasında mahsup edilmesini de talep edebilir (Yargıtay 19. Ceza Dairesi - 2015/9220 karar, Tarih:24.12.2015).
+
 * Ödeme taahhüdünü ihlal suçu nedeniyle verilen ceza, disiplin hapsi olarak kabul edilmektedir. Disiplin ve tazyik hapsi niteliğindeki cezalar, klasik "hapis cezası" niteliğinde  değildir. Tazyik hapsi cezalarında, kişi kendisinden beklenen yükümlülüğü yerine getirdiğinde serbest bırakılır. Bu nedenle, bu tarz cezalarda denetimli serbestlik yasası uygulanamaz (Yargıtay 11. Ceza Dairesi- 2013/4666 karar).
 
 * Hükümlü denetimli serbestlik yasası ile tahliye olduktan sonra bir kez bireysel görüşmeye, bir kez de imza atmaya gitmemiştir. Hükümlünün denetimli serbestlik yasası uygulanarak tahliye edildiği tarih olan 30.07.2013 tarihi ile denetim dosyasının kapatılmasına neden olan son ihlalin yapıldığı tarih olan 28.09.2013 tarihi arasında denetimli serbestlik ile dışarıda geçirdiği süre cezasından düşülerek kalan cezasının koşullu salıverilme tarihine kadar olan kısmının cezaevinde infazı zorunludur (Yargıtay 4. Ceza Dairesi - 2014/1863 karar).
@@ -204,8 +209,6 @@ Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gere
 [**Adli sicil kaydının silinmesi,**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. Denetimli serbestlik yasası uygulaması da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. Denetimli serbestlik uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
 
 
-
-Denetimli serbestlik ile ilgili adli sicil sorgulama işlemi şurdan yapılabilir: [**DENETİMLİ SERBESTLİK SORGULAMA**](https://www.turkiye.gov.tr/sorgula)
 
 ______________________________________________________________________________________________________________________________________
 
