@@ -188,6 +188,7 @@ Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gere
 
 ---
 
+
 * 0-6 yaş grubu çocuğu olan anne, denetimli serbestlik yasası uygulamasından koşullu salıverilmesine  2 yıl süre kala yararlanabilir. Ancak, çocuğun 0-6 yaş aralığında olup olmadığının tespiti için annenin cezaevine alındığı tarih değil, denetimli serbestlik yasasına başvuru tarihi, yani koşullu salıverilmeye 2 yıldan az sürenin kaldığı tarih esas alınmalıdır. Başvuru tarihi itibariyle çocuk 6 yaşını geçmişse, anne uygulamadan yararlanamaz (Yargıtay 19. Ceza Dairesi - 2015/3782 karar - Tarih:31.7.2015).
 
 * Denetimli serbestlik tedbirinin iki kez ihlal edilmesi, "yükümlülüklere uymamada ısra etme" anlamına gelir. İki kez ihlale neden olarak yükümlülüklere uymamada ısrar eden hükümlü hakkındaki infaza son verilir ve infaz kaydı kapatılır. Ancak, yükümlülükleri iki kez ihlali nedeniyle infaza son verilebilmesi için ilk ihlalden hemen sonra hükümlüye bir "uyarı yazısı" tebliğ edilmelidir. Uyarı yazısı tebliğ edilmemişse, hükümlü hakkında denetimli serbestlik yasası uygulamasına son verilemez (Yargıtay 7. Ceza Dairesi - 
