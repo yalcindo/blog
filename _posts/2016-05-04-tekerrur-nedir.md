@@ -88,7 +88,7 @@ Suçta tekerrür hükümleri, birinci suç nedeniyle verilen ceza kesinleştikte
 ### ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/e61ffce23786fae394eb27f4525c03e9b0d028ce/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f37417931512e6a7067 "Ağır Ceza Avukatı")
 
 
-### Suçta Tekerrün Hukuki Sonuçları 
+### Ceza Hukukunda Suçta Tekerrürün Sonuçları 
 
 Suçta tekerrür, sanığın işlediği ikinci suç nedeniyle daha ağır bir yaptırımla karşılaşmasına yol açar. Suçta tekerrür halinde sanık aleyhine ceza hukuku ve infaz hukuku alanında üç hukuki sonuç gerçekleşir:
 
@@ -147,7 +147,7 @@ Suçta tekerrür halinde, işlediği ikinci suçtan dolayı hükümlü hakkında
 >
 >10- Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.
 
-### Suçta Tekerrür ve Ek Savunma
+### Ceza Hukukunda Suçta Tekerrür ve Ek Savunma
 
 Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir.  İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 
