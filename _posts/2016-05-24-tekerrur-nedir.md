@@ -103,6 +103,13 @@ Yerel mahkeme tarafından koşulları oluştuğu halde tekerrür hükümlerinin 
 
 ### ![Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi](https://camo.githubusercontent.com/bf2a4afd20bc9f8d192b73425b47d4b507c12e7f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3635507930572e6a7067 "Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi")
 
+### Suçta Tekerrür Hükümleri Nasıl Uygulanır
+
+Suçta tekerrür hükümleri uygulanan kişiye uygulanacak infaz rejimi aşağıda anlatılacağı üzere "mükerrirlere özgü infaz rejimi"dir. Ancak, hakkında mükerrirlere özgü infaz rejimi uygulanan hükümlünün cezaevinde koşullu salıverilme süresi, tekerrüre esas alınan cezanın en ağırından daha fazla olamaz (5275 sayılı İnfaz Kanunu md. 108/2). 
+
+Suçta tekerrür hükümlerinin nasıl uygulanacağına örnek vermek gerekirse; ilk işlediği suç nedeniyle 3 ay hapis cezası, daha sonra işlediği suç nedeniyle de 6 yıl hapis cezasına mahkum edilmiş hükümlü hakkında tekerrür ile ilgili diğer koşulların da oluştuğunu varsayalım. Tekerrür hükümleri uygulanmasaydı hükümlü cezasının 2/3'ü olan 4 yılı cezaevinde geçirdikten sonra koşullu salıverilme hakkı kazanacaktı. Tekerrür hükümleri uygulandığında ise cezasının 3/4'ünü, yani 4 yıl 6 ayını cezaevinde geçirdikten sonra koşullu salıverilme hakkı kazanır. Ancak, 5275 sayılı yasanın 108/2 maddesi gereği, tekerrüre esas alınan ilk mahkumiyetin ceza miktarı 3 ay olduğundan, hükümlünün koşullu salıverilmesi için 4 yıl 6 ay değil, 4 yıl 3 ay cezaevinde kalması yeterli olacaktır.
+
+
 ### Tekerrür ve Mükerrirlere Özgü İnfaz Rejimi
 
 Suçta tekerrür halinde, işlediği ikinci suçtan dolayı hükümlü hakkında mükerrirlere özgü infaz rejimi uygulanır. Mükerrirlere özgü infaz rejimi 5275 sayılı İnfaz Kanunu’nun 108. Maddesinde ayrıntılı bir şekilde düzenlenmiştir. [5275 sayılı İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=)’nun 108. maddesine göre;
@@ -151,7 +158,7 @@ Suçta tekerrür halinde, işlediği ikinci suçtan dolayı hükümlü hakkında
 
 Sanık hakkında suçta tekerrür hükümleri uygulanacaksa mutlaka bu hususa ilişkin savunmasının alınması gerekir.  İddianamede tekerrür hükümlerinin uygulanmasına dair bir iddia yoksa, sanığa duruşmada okunan adli sicil kaydında tekerrüre esas mahkumiyetler varsa, sanık adli sicil kaydına karşı beyanda bulunmuşsa savunma hakkını kullanmış sayılmaktadır (Yargıtay Ceza Genel Kurulu 2013/103 karar, 2013/134 karar).
 
-**Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan [ceza avukatı](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
+**Suçta tekerrür**, özellikle mükerrirlere özgü infaz rejiminin uygulanması nedeniyle savunmayı yapan [**ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) tarafından dikkatlice değerlendirilmesi gereken bir kurumdur.
 
 
 
