@@ -25,8 +25,7 @@ Kesinleşen hapis cezasının infazının ertelenmesi, hükümlünün hem özel 
 
 
 
-### İnfazın Ertelenmesi Şartları     
-[(Ceza İnfaz Kanunu md.17)](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)
+## İnfazın Ertelenmesi Şartları [(İnfaz K. md.17)](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)
 
 Kesinleşmiş hapis cezasının infazının ertelenmesi, 5275 sayılı Ceza İnfaz Kanunu md.17'de düzenlenmiştir. İnfazın ertelenmesi kararı, hükümlünün başvurusu üzerine hapis cezasının infaza verildiği yerin infaz savcılığı tarafından alınır. 
 
