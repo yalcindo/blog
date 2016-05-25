@@ -134,7 +134,7 @@ Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenl
 
  Hükümlü, iki kez infazın ertelenmesi başvurusu yapma hakkına sahiptir. İnfazın ertelenmesi, her başvuru için en fazla 1 yıl olmak üzere, toplam 2 yıllık bir süre için mümkündür (md. 17/2). Hükümlü ilk başvurusunda en fazla 1 yıllık bir süre için infazın ertelenmesi talebinde bulunabilir. Hükümlünün talebi kabul edilip de verilen erteleme süresi bittikten sonra, ikinci kez infazın ertelenmesi başvurusunda bulunulabilir. 
  
- ### İnfazın Ertelenmesinin Mümkün Olmadığı Haller
+### İnfazın Ertelenmesinin Mümkün Olmadığı Haller
  
  Kanuna göre aşağıdaki hükümlüler hakkında cezanın infazının ertelenmesi kararı verilemez (md. 17/6):
  
