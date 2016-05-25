@@ -20,7 +20,7 @@ TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir 
 Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için cezaevinde infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
 
 
-## Ceza Erteleme ve İnfazın Ertelenmesi Arasındaki Fark Nedir?
+## Ceza Erteleme ile İnfazın Ertelenmesi Arasındaki Fark Nedir?
 
 Ceza erteleme, sanığın cezasını cezaevi dışında denetimli bir şekilde infaz etmesidir. Ceza erteleme kurumunun uygulanıp uygulanmayacağına yargılamayı yapan mahkeme karar verir.
 
