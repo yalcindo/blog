@@ -31,7 +31,7 @@ Cezanın ertelenmesi maddi ve usul hukukuna ilişkin olup, infaz hukukuna ilişk
 
 ## Hapis Cezasının Ertelenmesi Şartları
 
-Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir [(TCK  md. 51)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3808). Cezanın ertelenebilmesi için bazı şartların bir arada gerçekleşemesi gerekir: 
+Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir [(TCK  md. 51)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3808). Cezanın ertelenebilmesi için bazı şartların bir arada gerçekleşmesi gerekir: 
 
 * Hükmedilen ceza miktarının erteleme kurumu için uygun olması, 
 * Hakkında ceza erteleme kararı verilecek kişinin daha önce kasten işlenmiş bir suçtan mahkum olmaması,
