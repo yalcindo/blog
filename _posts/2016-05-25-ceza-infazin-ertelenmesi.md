@@ -2,9 +2,8 @@
 layout: blog
 title: Ceza İnfazının Ertelenmesi
 category: ceza-hukuku
-googleAnahtar: İnfazın ertelenmesi, ceza infazının ertelenmesi, hamilelik, ağır hastalık veya yaşlılık nedeniyle infazın ertelenmesi  istanbul ceza avukatı, ağır ceza avukatı, hukuk bürosu
-
-summary: İnfazın Ertelenmesi Şartları Nelerdir? İnfazın Ertelenmesi Süresi Ne Kadardır? Ağır Hastalık Halinde İnfazın Ertelenmesi, Akıl Hastalığı Nedeniyle İnfazın Ertelenmesi, Hükümlünün İstemiyle Ceza İnfazının Ertelenmesi, İnfaza Ara Verme 
+googleAnahtar: İnfazın ertelenmesi, ceza infazının ertelenmesi, hamilelik, ağır hastalık, yaşlılık nedeniyle infazın ertelenmesi, istanbul ceza avukatı, ağır ceza avukatı, hukuk bürosu
+summary: İnfazın Ertelenmesi Şartları Nelerdir? İnfazın Ertelenmesi Süresi Ne Kadardır? Ağır Hastalık veya Akıl Hastalığı  Halinde İnfazın Ertelenmesi, Hükümlünün İstemiyle Ceza İnfazının Ertelenmesi, İnfaza Ara Verme 
 keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı, hukuk bürosu
 ---
 
