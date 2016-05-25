@@ -34,7 +34,7 @@ Kesinleşmiş hapis cezasının infazının ertelenmesi, 5275 sayılı Ceza İnf
 
 ### İnfazın Ertelenmesi Sebepleri
 
-Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenler (hastalık, ölüm, maluliyet, ticari faaliyet vs.) aramasına rağmen, henüz cezaevine girmemiş hükümlüler için infazın ertelenmesi talebinin gerekçelerini sınırlamamıştır. Hükümlü, makul bir gerekçe göstererek infazın ertelenmesi talebinde bulunabilir.
+Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenler (hastalık, ölüm, maluliyet, ticari faaliyet vs.) aramasına rağmen, henüz cezaevine girmemiş hükümlüler için infazın ertelenmesi talebinin gerekçelerini sınırlamamıştır. Hükümlü, makul herhangi bir gerekçe göstererek infazın ertelenmesi talebinde bulunabilir.
 
 ### İnfazın Ertelenmesi İçin Ceza Süresi Şartı
 
