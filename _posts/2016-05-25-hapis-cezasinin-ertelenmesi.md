@@ -143,7 +143,7 @@ Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenl
  *  Mükerrirlere özgü infaz rejimi uygulanmasına karar verilenler,
  *  Disiplin veya tazyik hapsi nedeniyle hükümlü olanlar.
  
- ### Cezaevindeki Hükümlüler İçin İnfaza Ara Verme Başvurusu
+### Cezaevindeki Hükümlüler İçin İnfaza Ara Verme Başvurusu
  
  Cezaevinde bulunan hükümlüler de "infaza ara verilmesi" için savcılığa başvurabilirler.  Ancak, cezaevinde bulunan hükümlüler için infaza ara verilebilmesinin bazı şartları vardır (md. 17/3):
  
