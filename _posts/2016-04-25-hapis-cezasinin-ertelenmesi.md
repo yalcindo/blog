@@ -24,7 +24,7 @@ Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç
 
 Ceza erteleme, sanığın cezasını cezaevi dışında denetimli bir şekilde infaz etmesidir. Ceza erteleme kurumunun uygulanıp uygulanmayacağına yargılamayı yapan mahkeme karar verir.
 
-*İnfazın ertelenmesi* ise kesinleşen hapis cezasının cezaevinde infaz edileceği tarihin ertelenmesidir. İnfazın ertelenmesi kurumu, hükümlünün bazı şahsi nedenlerle cezaevine giriş tarihini erteleyerek cezanın infazı için hazırlık yapmasını temin etmektedir. İnfazın ertelenmesine, infaz savcılığı tarafından karar verilmektedir. Yazımızın son kısmında infazın ertelenmesi kurumuna ayrıntılı değineceğiz. 
+İnfazın ertelenmesi ise kesinleşen hapis cezasının cezaevinde infaz edileceği tarihin ertelenmesidir. İnfazın ertelenmesi kurumu, hükümlünün bazı şahsi nedenlerle cezaevine giriş tarihini erteleyerek cezanın infazı için hazırlık yapmasını temin etmektedir. İnfazın ertelenmesine, infaz savcılığı tarafından karar verilmektedir. Yazımızın son kısmında *infazın ertelenmesi* kurumuna ayrıntılı değineceğiz. 
 
 
 
