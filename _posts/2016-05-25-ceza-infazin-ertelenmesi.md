@@ -11,7 +11,7 @@ keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, er
 
 ## İnfazın Ertelenmesi Nedir?
 
-**İnfazın ertelenmesi**, hapis cezası kesinleşmiş bulunan hükümlünün cezaevine giriş tarihinin ertelenmesidir. İnfazın ertelenmesi, cezanın af edilmesi, ortadan kaldırılması veya cezaevi dışında başka suretle infaz edilmesini sağlamaz.
+**İnfazın ertelenmesi**, hapis cezası kesinleşmiş bulunan hükümlünün cezaevine giriş tarihinin ertelenmesidir. İnfazın ertelenmesi, cezanın affını, ortadan kaldırılmasını veya cezaevi dışında başka suretle infaz edilmesini sağlamaz.
 
 Kesinleşen hapis cezasının infazının ertelenmesi, hükümlünün hem özel hem de sosyal-ekonomik hayatını tanzim etmesi için belli bir süre kazanmasını temin eden bir  infaz hukuku kurumudur.
 
