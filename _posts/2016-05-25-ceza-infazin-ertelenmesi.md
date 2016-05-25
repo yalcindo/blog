@@ -72,7 +72,7 @@ ticari faaliyetlerinin yürütülebilmesinin veya tarım topraklarının işlene
  
  Cezaevindeki hükümlü hakkında cezanın infazına en fazla 6 ayı geçmeyen sürelerle ve ancak 2 kez ara verilebilir. Yani, cezaevindeki hükümlünün cezasının infazına ara verme süresi en fazla 1 yıl olabilecektir.
 
-Hapis cezasının ertelenmesi maddi ve usul hukukuna,  *infazın ertelenmesi* ise tamamen infaz hukukuna ilişkin bir düzenleme olup birbiriyle karıştırılmamalıdır.
+Hapis cezasının ertelenmesi maddi ve usul hukukuna,  *infazın ertelenmesi* ise tamamen infaz hukukuna ilişkin bir düzenleme olup birbiriyle karıştırılmamalıdır. Bazı acil başvuruların yerinde ve zamanında yapılabilmesi için cezanın infazı sürecinin bir [**ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/istanbul-agir-ceza-avukati.html) aracılığıyla takip edilmesi daha uygundur. 
  
  
  
