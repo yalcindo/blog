@@ -35,7 +35,7 @@ Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde
 
 * Hükmedilen ceza miktarının erteleme kurumu için uygun olması, 
 * Hakkında ceza erteleme kararı verilecek kişinin daha önce kasten işlenmiş bir suçtan mahkum olmaması,
-* Sanığın yargılama sırasında tekrar suç işlemeyeceğine dair bir kanaat vermesi.
+* Sanığın yargılama sırasında tekrar suç işlemeyeceğine dair mahkemeye bir kanaat vermesi.
 
 
 ### Cezanın Miktarı Yönünden Ceza Erteleme Şartı
