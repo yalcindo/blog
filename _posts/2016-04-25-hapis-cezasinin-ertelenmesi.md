@@ -7,22 +7,37 @@ summary: Hapis Cezasının Ertelenmesi (Cezanın Ertelenmesi) Nedir? Hapis Cezas
 keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, erteleme kararı, ceza erteleme şartları, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, ağır ceza avukatı, hukuk bürosu
 ---
 
+### ![istanbul ceza avukatı](https://camo.githubusercontent.com/f24abcba8f58bb01aef0b92787e06b188fde43a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f704244455a6e2e6a7067 "Ceza Avukatı")
 
 
 ## Ceza Erteleme Nedir? 
 
+**Ceza erteleme**, mahkeme tarafından verilen mahkumiyet kararıyla belirlenen cezanın cezaevinde infaz edilmesinden şartlı olarak vazgeçilmesidir.   
 
-TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da infaz edilir. Ancak, bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezanın infazından vazgeçilebilir. TCK'da bu imkanı sağlayan bir **ceza erteleme** kurumu olan **hapis cezasının ertelenmesi** şeklinde bir bireyselleştirme kurumu mevcuttur. 
+
+TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da cezaevinde infaz edilir. Ancak, bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezasının cezaevinde infazından vazgeçilebilir. TCK'da bu imkanı sağlayan bir bireyselleştirme kurumu olan **hapis cezasının ertelenmesi** kurumu mevcuttur. 
 
 Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için cezaevinde infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
 
-Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir [(TCK  md. 51)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3808). Cezanın ertelenmesi için ceza miktarının ceza erteleme kurumunun uygulanmasına uygun olması, daha önce kasten işlenmiş bir suçtan mahkum olunmaması, yargılama sırasında tekrar suç işlenmeyeceği yönünde mahkemece kanaate varılması olmak üzere toplam üç koşulun bir arada bulunması gerekir.
+
+## Ceza Erteleme ve İnfazın Ertelenmesi Arasındaki Fark Nedir?
+
+Ceza erteleme, sanığın cezasını cezaevi dışında denetimli bir şekilde infaz etmesidir. Ceza erteleme kurumunun uygulanıp uygulanmayacağına yargılamayı yapan mahkeme karar verir.
+
+İnfazın ertelenmesi ise kesinleşen hapis cezasının cezaevinde infaz edileceği tarihin ertelenmesidir. İnfazın ertelenmesi kurumu, hükümlünün bazı şahsi nedenlerle cezaevine giriş tarihini erteleyerek cezanın infazı için hazırlık yapmasını temin etmektedir. İnfazın ertelenmesine, infaz savcılığı tarafından karar verilmektedir. Yazımızın son kısmında infazın ertelenmesi kurumuna ayrıntılı değineceğiz. 
+
 
 
 ### ![Ceza Erteleme](https://camo.githubusercontent.com/75f8eb71d6933564198518970068df91c9eeb253/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f5a4c5941512e6a7067 "Hapis Cezasının Ertelenmesi")
 
 
 ## Hapis Cezasının Ertelenmesi Şartları
+
+Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde ayrıntılı bir  şekilde düzenlenmiştir [(TCK  md. 51)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3808). Cezanın ertelenebilmesi için bazı şartların bir arada gerçekleşemesi gerekir: 
+
+* Hükmedilen ceza miktarının erteleme kurumu için uygun olması, 
+* Hakkında ceza erteleme kararı verilecek kişinin daha önce kasten işlenmiş bir suçtan mahkum olmaması,
+* Sanığın yargılama sırasında tekrar suç işlemeyeceğine dair bir kanaat vermesi.
 
 
 ### Cezanın Miktarı Yönünden Ceza Erteleme Şartı
