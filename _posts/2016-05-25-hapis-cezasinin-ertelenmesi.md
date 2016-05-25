@@ -19,7 +19,7 @@ TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir 
 
 Hapis cezasının ertelenmesi, suç işlediği tespit edilen fakat bir daha suç işlemeyeceğine kanaat getirilen şahsın kişiliği dikkate alınarak cezanın belirlenen bir deneme süresi için cezaevinde infaz edilmemesi, deneme süresi “iyi halli” geçtikten sonra cezanın infaz edilmiş sayılmasına yol açan bir ceza erteleme kurumudur. 
 
-Cezanın ertelenmesi maddi ve usul hukukuna ilişkin olup, infaz hukukuna ilişkin bir hak olan  [**İnfazın Ertelenmesi**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-infazin-ertelenmesi.html] ile karıştırılmamalıdır.
+Cezanın ertelenmesi maddi ve usul hukukuna ilişkin olup, infaz hukukuna ilişkin bir hak olan  [**İnfazın Ertelenmesi**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-infazin-ertelenmesi.html) ile karıştırılmamalıdır.
 
 
 
