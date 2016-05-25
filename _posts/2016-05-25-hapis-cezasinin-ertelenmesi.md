@@ -123,7 +123,7 @@ Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenl
 
  İnfazın ertelenmesi koşulları, suçun kasten veya taksirle işlenmesine göre değişmektedir. Kanuna göre, kasten işlenen suçlarda  3 yıl, taksirle işlenen suçlarda ise 5 yıl veya altındaki hapis cezalarının infazı ertelenebilir. Hapis cezası, bu süreleri aşıyorsa infazın ertelenmesi kararı verilmesi mümkün değildir.
  
- * **Kasten İşlenen Bazı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) [Bilişim Suçları,](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) [Şantaj Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) [Kişiyi Hürriyetinden Yoksun Bırakma Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kisiyi-hurriyetinden-yoksun-kilma-sucu-cezasi.html) [Kasten Adam Öldürme Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html) [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) [Tehdit Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)  [Özel Belgede Sahtecilik Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) [Resmi Evrakta Sahtecilik Suçu.](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) 
+ * **Kasten İşlenen Bazı Suçlar:** [Dolandırıcılık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) [Bilişim Suçları,](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) [Şantaj Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) [Kişiyi Hürriyetinden Yoksun Bırakma Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kisiyi-hurriyetinden-yoksun-kilma-sucu-cezasi.html) [Kasten Adam Öldürme Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) [Hırsızlık Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html) [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html) [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) [Tehdit Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html)  [Özel Belgede Sahtecilik Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/ozel-belgede-evrakta-sahtecilik-cezasi.html) [Resmi Evrakta Sahtecilik Suçu.](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) 
 
 
 
@@ -147,13 +147,15 @@ Kanun, cezaevindeki hükümlü için infaza ara verilebilmesi için bazı nedenl
  
  Cezaevinde bulunan hükümlüler de "infaza ara verilmesi" için savcılığa başvurabilirler.  Ancak, cezaevinde bulunan hükümlüler için infaza ara verilebilmesinin bazı şartları vardır (md. 17/3):
  
- * Hükümlünün yükseköğrenimini bitirebilmesi, 
- * Anne, baba, eş veya çocuklarının ölümü veya bu kişilerin sürekli hastalık veya malullükleri nedeniyle ailenin
+* Hükümlünün yükseköğrenimini bitirebilmesi, 
+* Anne, baba, eş veya çocuklarının ölümü veya bu kişilerin sürekli hastalık veya malullükleri nedeniyle ailenin
 ticari faaliyetlerinin yürütülebilmesinin veya tarım topraklarının işlenebilmesinin imkânsız hâle gelmesi,
 * Hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi,
 * Yukarıdaki durumlara benzeyen zorunlu veya acil hallerin bulunması.
  
  Cezaevindeki hükümlü hakkında cezanın infazına en fazla 6 ayı geçmeyen sürelerle ve ancak 2 kez ara verilebilir. Yani, cezaevindeki hükümlünün cezasının infazına ara verme süresi en fazla 1 yıl olabilecektir.
+
+Hapis cezasının ertelenmesi (ceza erteleme), maddi ve usul hukukuna  ilişkin bir cezanın kişiselleştirilmesi aracı iken, cezanın infazın ertelenmesi tamamen infaz hukukuna ilişkin bir düzenleme olduğundan birbiriyle karıştırılmamalıdır.
  
  
  
