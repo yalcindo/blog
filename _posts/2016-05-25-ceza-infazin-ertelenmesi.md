@@ -19,13 +19,13 @@ Kesinleşen hapis cezasının infazının ertelenmesi, hükümlünün hem özel 
 
 ## Ceza Erteleme ile İnfazın Ertelenmesi Arasındaki Fark Nedir?
 
-[**Ceza erteleme**](https://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html], sanığın cezasını cezaevi dışında denetimli bir şekilde infaz etmesidir. Ceza erteleme kurumunun yargılanan kişiye uygulanıp uygulanmayacağına yargılamayı yapan mahkeme tarafından karar verilir.
+[**Ceza erteleme**](https://barandogan.av.tr/blog/ceza-hukuku/hapis-cezasinin-ertelenmesi.html), sanığın cezasını cezaevi dışında denetimli bir şekilde infaz etmesidir. Ceza erteleme kurumunun yargılanan kişiye uygulanıp uygulanmayacağına yargılamayı yapan mahkeme tarafından karar verilir.
 
 İnfazın ertelenmesi ise kesinleşen hapis cezasının cezaevinde infaz edileceği tarihin ertelenmesidir. İnfazın ertelenmesi kurumu, hükümlünün bazı şahsi nedenlerle cezaevine giriş tarihini erteleyerek cezanın infazı için hazırlık yapmasını temin etmektedir. İnfazın ertelenmesine, infaz savcılığı tarafından karar verilmektedir. Yazımızın son kısmında *infazın ertelenmesi* kurumuna ayrıntılı değineceğiz. 
 
 
 
-### İnfazın Ertelenmesi Şartları
+### İnfazın Ertelenmesi Şartları     
 [(Ceza İnfaz Kanunu md.17)](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)
 
 Kesinleşmiş hapis cezasının infazının ertelenmesi, 5275 sayılı Ceza İnfaz Kanunu md.17'de düzenlenmiştir. İnfazın ertelenmesi kararı, hükümlünün başvurusu üzerine hapis cezasının infaza verildiği yerin infaz savcılığı tarafından alınır. 
