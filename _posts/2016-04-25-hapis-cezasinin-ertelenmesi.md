@@ -104,10 +104,12 @@ Eğer hakkında ceza erteleme kararı verilen kişinin daha önce adli sicil kay
 
 Adli para cezası ne şekilde verilmiş olursa olsun, hakkında adli para cezası verilen sanık hiçbir şekilde ceza erteleme kurumundan faydalanamaz. 
 
-### Hapis Cezasının Ertelenmesi Kararı Aleyhine Temyiz veya İtiraz Mümkün müdür?
+### Hapis Cezasının Ertelenmesi Kararı Aleyhine İstinaf, Temyiz veya İtiraz Mümkün müdür?
+
+Hapis cezasının ertelenmesi kararlarına karşı öncelikle [**İstinaf Kanun Yolu**](https://barandogan.av.tr/blog/ceza-hukuku/istinaf-nedir-cmk.html) başvurusu yapılabilir. İstinaf mahkemesi (bölge adliye mahkemesi), yerel mahkemenin vermiş olduğu kararı hem maddi olay açısından hem de hukuki denetim açısından inceleyerek yeni bir karar verecektir.
 
 
-Hapis cezasının ertelenmesi kararı temyiz edilebilir. Mahkeme ceza erteleme kararı verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. [**Temyiz incelemesi**](https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
+İstinaf mahkemesinin kararı aleyhine de koşulları varsa Yargıtay'a temyiz  başvurusu yapılabilir. Mahkeme ceza erteleme kararı verdiği sırada yargılanan kişi duruşmada hazır bulunuyor ise kararın verilmesinden itibaren 7 gün, duruşmada hazır değilse kararın posta yoluyla kendisine ulaşmasından itibaren 7 gün içinde karar temyiz edilebilir. [**Temyiz incelemesi**](https://barandogan.av.tr/blog/ceza-hukuku/yargitay-temyiz-basvurusu.html) Ankara'da bulunan Yargıtay tarafından yapılmaktadır.
 
 
 
