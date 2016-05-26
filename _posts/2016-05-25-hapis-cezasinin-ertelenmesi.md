@@ -41,7 +41,7 @@ Hapis cezasının ertelenmesi, 5237 sayılı TCK’da ayrı bir başlık halinde
 ### Cezanın Miktarı Yönünden Ceza Erteleme Şartı
 
 
-Yargılama neticesinde mahkum olunan cezanın miktarı 2 yıl veya daha az ise hapis cezanın ertelenmesi mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde ceza erteleme kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
+Yargılama neticesinde sanığın mahkum olduğu cezanın miktarı 2 yıl veya daha az ise hapis cezasının ertelenmesi mümkündür. Yani, mahkeme tarafından verilen ceza 2 yıl 1 ay ise diğer koşullar gerçekleşse bile ceza miktarı nedeniyle sanık hiçbir şekilde ceza erteleme kurumundan faydalanamayacaktır. Ceza yönünden öngörülen koşul, mutlak bir önşart niteliğindedir.
 
 **İstisna:** *Hapis cezasının ertelenmesi* için zorunlu olan 2 yıllık ceza miktarı sınırı, 18 yaşından küçük çocuklar ve 65 yaşından büyük kişiler için 3 yıldır. Yani, 18 yaşından küçük bir kişi 3 yıl ceza aldığında bu ceza ertelenebilir.
 
