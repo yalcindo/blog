@@ -12,7 +12,7 @@ keywords: Hapis cezasının ertelenmesi, ceza erteleme, cezanın ertelenmesi, er
 
 ## Ceza Erteleme Nedir? 
 
-**Ceza erteleme**, mahkeme tarafından verilen mahkumiyet kararıyla belirlenen cezanın cezaevinde infaz edilmesinden şartlı olarak vazgeçilmesidir.   
+**Ceza erteleme**, mahkeme tarafından mahkumiyet kararıyla belirlenen cezanın cezaevinde infaz edilmesinden şartlı olarak vazgeçilmesidir.   
 
 
 TCK ve Ceza İnfaz Kanunu hükümlerine göre kural olarak kişi işlediği bir suçtan dolayı cezalandırılır ve cezası da cezaevinde infaz edilir. Ancak, bazı şartların bir arada gerçekleşmesi halinde kişiye verilen cezasının cezaevinde infazından vazgeçilebilir. TCK'da bu imkanı sağlayan bir bireyselleştirme kurumu olan **hapis cezasının ertelenmesi** kurumu mevcuttur. 
