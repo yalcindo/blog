@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: İstanbul Barosu ve İstanbul'da Avukat 
+title: İstanbul'da Avukat 
 category: ceza-hukuku
-googleAnahtar: avukat, istanbul avukat, istanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu, hukuk bürosu
+googleAnahtar: avukat, istanbul avukat, istanbul ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, hukuk bürosu
 keywords: avukat, istanbul avukat, ceza avukatı, ağır ceza avukatı, bakırköy avukat, ataköy avukat, istanbul adliyesi, bakırköy adliyesi, istanbul barosu, hukuk bürosu
 summary: İstanbul avukatlarının faaliyet alanı olan Bakırköy ve İstanbul Adliyeleri tanıtılmış, Bakırköy ve İstanbul adliyelerinin özellikleri, İstanbul Barosu ve İstanbul'da Avukat, Avukat Hakları Merkezi gibi merkezler anlatılmıştır.
 ---
@@ -86,7 +86,7 @@ Bakırköy Adliyesi web sitesi için bakınız: [**BAKIRKÖY ADLİYESİ**](http:
 ![İstanbul Avukat](http://i.hizliresim.com/lyMlak.jpg "İstanbul Adliyesi ve Avukatlık")          
 İstanbul Çağlayan Adliyesi web sitesi için bakınız: [**İSTANBUL ÇAĞLAYAN ADLİYESİ**](http://www.istanbul.adalet.gov.tr/)
 
-İstanbul avukat sayısı en yüksek olan şehirdir. Ancak İstanbul avukatları genellikle adliyeler civarında faaliyet göstermektedir. İstanbul avukat sayısı bakımından dünyanın en büyük avukat kenti olarak da adlandırılabilir.
+İstanbul avukat sayısı en yüksek olan şehirdir. Ancak, İstanbul avukatları genellikle adliyeler civarında faaliyet göstermektedir. İstanbul avukat sayısı bakımından dünyanın en büyük avukat kenti olarak da adlandırılabilir.
 
 ______________________________________________________________________________________________________________________________________
 
