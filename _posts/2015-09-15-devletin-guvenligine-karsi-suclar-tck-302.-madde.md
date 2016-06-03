@@ -7,19 +7,19 @@ keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birli
 summary: TCK 302. maddede “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenen suç tipi incelenmiştir.
 ---
 
-## TCK 302. Maddenin Uygulama Koşulları
+## TCK 302. Madde Uygulama Koşulları
 
 
 [**TCK 302. Madde**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5251), TCK’nın  “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenmiştir:
 
 
-“Devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği altına koymaya veya Devletin bağımsızlığını zayıflatmaya veya birliğini bozmaya veya Devletin egemenliği altında bulunan topraklardan bir kısmını Devlet idaresinden ayırmaya yönelik bir fiil işleyen kimse, ağırlaştırılmış müebbet hapis cezası ile cezalandırılır….”
+“Devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği altına koymaya veya Devletin bağımsızlığını zayıflatmaya veya birliğini bozmaya veya Devletin egemenliği altında bulunan topraklardan bir kısmını Devlet idaresinden ayırmaya yönelik bir fiil işleyen kimse, ağırlaştırılmış müebbet hapis cezası ile cezalandırılır.”
 
 
-Madde metninde geçen “…..yönelik bir fiil”, yani 765 sayılı TCK’da yer aldığı ve ceza hukuku doktrininde yerleşik olarak kullanıldığı şekliyle “matuf fiil”den kastedilen şey, ülke topraklarının tamamını veya bir kısmını devletin idaresinden ayırma, devletin bağımsızlığını azaltma, devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği altına koyma amacına yönelik ve bu sonucu oluşturmaya “elverişli” icra hareketleridir.
+Madde metninde geçen “….yönelik bir fiil”, yani 765 sayılı TCK’da yer aldığı ve ceza hukuku doktrininde yerleşik olarak kullanıldığı şekliyle “matuf fiil”den kastedilen şey, ülke topraklarının tamamını veya bir kısmını devletin idaresinden ayırma, devletin bağımsızlığını azaltma, devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği altına koyma amacına yönelik ve bu sonucu oluşturmaya “elverişli” icra hareketleridir.
 
 
-TCK 302. maddede ifade edilen “matuf fiil”,  “…yönelik bir fiil” şu amaçları gerçekleştirmeyi hedeflemelidir:
+TCK 302. maddede ifade edilen “matuf fiil” veya  “…yönelik bir fiil” şu amaçları gerçekleştirmeyi hedeflemelidir:
 
 1.	Devlet topraklarının tamamını veya bir kısmını yabancı bir devletin egemenliği    altına koymak
 
@@ -81,13 +81,13 @@ Somut ağır zarar tehlikesi TCK md. 302’nin en önemli ölçütüdür. Somut 
 
 Sanık fiillerin gelişim seyri tek yönlü ve doğrusal değil, gittikçe ağırlaşan ve birbiriyle nedensellik bağı içinde amaç suçu gerçekleştirmeye çalışan bir yönde ilerlemelidir. Sanık, çeşitli biçimlerde süren ve gittikçe ağırlaşan fiiller işlemelidir. Sadece siyasi faaliyet çerçevesinde yürütülen faaliyetler bu suçun oluşumuna sebebiyet veremez.
 
-e-	Saik ve TCK 302. Madde
+### e-	Saik ve TCK 302. Madde
 
 TCK 302. maddenin uygulaması açısından sanığın hangi saikle hareket ettiği de önemlidir. Sanığın saiki çeşitli delil araçları vasıtasıyla anlaşılmaya çalışılacaktır. Mevcut dosyada sanıkların TCK md. 302’nin uygulama koşulları açısından genel bir kastı yoktur. Sanıkların siyasi faaliyetleri ve bu çerçevede icra ettikleri hareketler incelendiğinde TCK md. 302’deki “matuf fiil”in işlenmesi amacını güden fiiller değil, tam tersine demokratik sistemin işleyişini sağlayan filler ortaya koydukları anlaşılmaktadır.
 
 TCK MD.302’deki suçun yasal unsurları ve ölçütleri Yargıtay’ın yerleşik içtihatlarıyla teorize edilmiştir. Yargıtay içtihatlarında, maddede belirtilen “elverişli fiili” işlemeye uygun icra hareketlerinin cezalandırılabilineceği tespit edilmiştir. Buna göre, matuf fiili işlemeye elverişli, birbirini izleyen, nedensellik bağı içinde bulunan ve gittikçe ağırlaşan fiillerin işlenmesi halinde sanıkların 302. maddeden cezalandırılması mümkündür.
 
-## TCK Md.302 ve [**TCK Md. 314/2**](http://www.turkhukuksitesi.com/mevzuat.php?mid=5268) AYNI ANDA UYGULANAMAZ
+### TCK Md.302 ve [TCK Md. 314/2](http://www.turkhukuksitesi.com/mevzuat.php?mid=5268) Aynı Anda Uygulanamaz
 
 TCK md. 302/2 şu hükmü içermektedir: “Bu suçun işlenmesi sırasında başka suçların işlenmesi halinde, ayrıca bu suçlardan dolayı ilgili hükümlere göre cezaya hükmolunur.”
 
