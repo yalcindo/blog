@@ -9,9 +9,13 @@ keywords: Tanık, tanık gösterme, gizli tanıklık, tanığın yemini, tanıkl
 
 ### ![Tanık](https://camo.githubusercontent.com/77ff42bf81747c73e20519d03ef6d6000b3df353/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4c45346e526f2e6a7067 "Tanık")
 
+## Tanıklık Nedir?
+
+Tanıklık, bir kimsenin geçmişte yaşanan bir olayla ilgili beş duyuyla elde ettiği bilgi ve görgüyü mahkeme huzurunda anlatmasıdır. Kolluk veya savcılık önünde tespit edilen beyanlar ceza hukuku doktrininde tanık beyanı olarak kabul edilmemektedir. Yalnızca ispat konusunda karar verecek mahkeme önünde verilen beyan tanık beyanı olarak kabul edilmektedir.  
 
 
-## Tanık ve Tanıklık İle İlgili Özel Durumlar
+
+## Tanıklık İle İlgili Özel Durumlar
 
 
 
