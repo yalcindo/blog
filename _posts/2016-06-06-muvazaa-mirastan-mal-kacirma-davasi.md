@@ -3,7 +3,7 @@ layout: blog
 title: Mirastan Mal Kaçırma (Muvazaa) Davası
 category: medeni-hukuk
 googleAnahtar: Mirastan mal kaçırma davası, muvazaa davası, muris muvazaası, tapu iptal ve tescil davası, gayrimenkul avukatı, avukat, istanbul avukat, hukuk bürosu
-keywords: Mirastan mal kaçırma davası, muvazaa davası, muris muvazaası, tapu iptal ve tescil davası, gayrimenkul avukatı, avukat, istanbul avukat, hukuk bürosu
+keywords: Mirastan mal kaçırma davası, muvazaa davası, muris muvazaası, tapu iptal ve tescil davası, miras davası, gayrimenkul avukatı, istanbul avukat, hukuk bürosu
 summary: Muris muvazaası Nedir, Mirastan Mal Kaçırma Davası Şartları, Zamanaşımı Süresi, Muvazaa Nedenine Dayalı Tapu İptali ve Tescili Davası, Miras Bırakanın Muvazaalı İşlemleri İle İlgili Yargıtay Kararları
 ---
 
