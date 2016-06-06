@@ -19,7 +19,7 @@ Muvazaa şartlarının gerçekleşmesi için aşağıdaki üç koşulun bir arad
 
 Makalemizin konusu olan ‘muris muvazaası’ (**mirastan mal kaçırma**),  hukuken nitelikli (nispi) muvazaa olarak ifade edilmektedir. Nitelikli muvazaada iki işlem vardır: Görünüşteki işlem ve gizli işlem. Taraflar bu iki işlem yoluyla üçüncü kişileri aldatma amacı gütmektedirler. Görünüşteki işlem tarafların gerçek iradesini yansıtmaz ve bu şekilde üçüncü kişileri aldatmak amaçlanmaktadır. Örneğin, bağışlanmak istenen mal,  satış işlemi ile devredilerek üçüncü kişiler aldatılmak istenmektedir. Muvazaalı işlemlerde tarafların gerçek iradesini görünüşte yapılan işlemler değil, gizli işlemler yansıtmaktadır. Yukarıda verilen örnekte bağışlama işlemi gizli işlemdir.
 
- ## Muris Muvazaası (Mirastan Mal Kaçırma)
+## Muris Muvazaası (Mirastan Mal Kaçırma)
  
 Muris muvazaası (*mirastan mal kaçırma*), bir kimsenin mirasçısını miras hakkından yoksun bırakmak amacıyla yaptığı karşılıksız kazandırmaları satış veya ölünceye kadar bakma sözleşmesi gibi göstermesidir. Buradaki temel amaç saklı paylı mirasçılarının ilerde tenkis davası açarak miras paylarını almalarını önlemektir. Yani miras bırakan gerçekte bağışlamak istediği mallarını satış karşılığında devretmiş gibi göstererek mirasçılarının ilerde dava açmasını önlemek istemektedir. Mirastan mal kaçırma davası, muvazaanın dört unsurunun olup olmadığını araştırır ;
 
