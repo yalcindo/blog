@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Mirastan Mal Kaçırma (Muvazaa) Davası
+title: Mirastan Mal Kaçırma (Muris Muvazaası) Davası
 category: medeni-hukuk
 googleAnahtar: Mirastan mal kaçırma davası, muvazaa davası, muris muvazaası, tapu iptal ve tescil davası, gayrimenkul avukatı, avukat, istanbul avukat, hukuk bürosu
 keywords: Mirastan mal kaçırma davası, muvazaa davası, muris muvazaası, tapu iptal ve tescil davası, miras davası, gayrimenkul avukatı, istanbul avukat, hukuk bürosu
