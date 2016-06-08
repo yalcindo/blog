@@ -99,6 +99,27 @@ Bir kimse, mallarını yönetmesi için vekil tayin etmiş olabilir. Özellikle 
 
 Aynı şekilde mahkeme tarafından atanan vasi veya kayyımın kendisine tevdi ve teslim edilen mal hakkında yönetme yetkisini kötüye kullanması halinde yine suçun bu ağır şekli oluşabilir.
 
+### ![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/31eb537f413c2a4ff1b6e72e5f5d65108f7006fb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f796f6d76474e2e6a7067 "Güveni Kötüye Kullanma")
+
+
+
+### Güveni Kötüye Kullanma Suçu Cezası [(TCK md.155)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5095)
+
+**Güveni kötüye kullanma suçu cezası,** suçun nitelikli veya basit hallerinden hangisinin işlendiğine göre değişir.
+Suçun yukarıda anlattığımız temel şeklinde, yani basit güveni kötüye kullanma suçu cezası,  6 aydan 2 yıla kadar hapis cezası ve adli para cezasıdır. Kanun, suçun cezası olarak hem hapis cezasına hem de adli para cezasına birlikte hükmedilmesi gerektiğini ifade etmiştir.
+
+Suçun nitelikli halleri işlenirse, yani hizmet nedeniyle güveni kötüye kullanma, meslek ve sanat, ticaret ilişkisinden kaynaklanan güveni kötüye kullanma veya başkasının mallarını idare etmek yetkisinin gereği olarak tevdi ve teslim edilmiş eşya hakkında güveni kötüye kullanma hallerinde güveni kötüye kullanma suçu cezası, 1 yıldan 7 yıla kadar hapis ve üçbin güne kadar adlî para cezasıdır. Suçun nitelikli hallerinde de fail hakkında hem hapis cezasına hem de adli para cezasına birlikte hükmedilmelidir.
+
+
+
+### Güveni Kötüye Kullanma Suçu ve Etkin Pişmanlık
+
+[**Etkin pişmanlık**](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, güveni kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
+
+Etkin pişmanlık, savcılık soruşturması aşamasında gösterilirse güveni kötüye kullanma suçu cezası, 2/3 oranına kadar indirilebilir. Yani, 1 yıl ceza alabilecek fail etkin pişmanlık hükümleri uygulanırsa 4 ay ceza alabilir. Failin etkin pişmanlık hükümlerinden yararlanabilmesi için suça ilişkin bilgi vermesi ve varsa suç ortaklarını, azmettireni, yardım edeni açıklamalı veya mağdurun uğradığı zararı gidermelidir.
+
+Yapılan soruşturma neticesinde mahkemede dava açıldıktan sonra, fakat henüz hüküm verilmeden önce fail, suça dair bilgiler verir veya mağdurun uğradığı zararı giderirse güveni kötüye kullanma suçu cezası ½ oranına kadar indirilir.
+
 
 ### ![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/3a35e1c68ae0e0743df13f590dc5697b06089e19/687474703a2f2f692e68697a6c69726573696d2e636f6d2f67566e5867352e6a7067 "Güveni Kötüye Kullanma Suçu")
 
@@ -123,24 +144,9 @@ Güveni kötüye kullanma suçu, mağdurun özgür iradesiyle faile teslim etti�
 
 Kamu görevlisi (memur, hakim, bilirkişi vs.) görevi ile bağlantılı olarak bir malvarlığı değerini kendi hesabına geçirirse hizmet nedeniyle güveni kötüye kullanma değil, zimmet suçu oluşur. Kamu görevlisine görevi ile bağlantılı değil de kişisel güven ilişkisine dayalı olarak bir malın zilyetliğinin devri sonucu suç oluşursa, bu durumda zimmet suçu değil, basit emniyeti suistimal suçu meydana gelir.
 
-### ![Güveni Kötüye Kullanma](https://camo.githubusercontent.com/31eb537f413c2a4ff1b6e72e5f5d65108f7006fb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f796f6d76474e2e6a7067 "Güveni Kötüye Kullanma")
-
-### Güveni Kötüye Kullanma Suçu Cezası [(TCK md.155)](http://www.turkhukuksitesi.com/mevzuat.php?mid=5095)
-
-**Güveni kötüye kullanma suçu cezası,** suçun nitelikli veya basit hallerinden hangisinin işlendiğine göre değişir.
-Suçun yukarıda anlattığımız temel şeklinde, yani basit güveni kötüye kullanma suçu cezası,  6 aydan 2 yıla kadar hapis cezası ve adli para cezasıdır. Kanun, suçun cezası olarak hem hapis cezasına hem de adli para cezasına birlikte hükmedilmesi gerektiğini ifade etmiştir.
-
-Suçun nitelikli halleri işlenirse, yani hizmet nedeniyle güveni kötüye kullanma, meslek ve sanat, ticaret ilişkisinden kaynaklanan güveni kötüye kullanma veya başkasının mallarını idare etmek yetkisinin gereği olarak tevdi ve teslim edilmiş eşya hakkında güveni kötüye kullanma hallerinde güveni kötüye kullanma suçu cezası, 1 yıldan 7 yıla kadar hapis ve üçbin güne kadar adlî para cezasıdır. Suçun nitelikli hallerinde de fail hakkında hem hapis cezasına hem de adli para cezasına birlikte hükmedilmelidir.
 
 
 
-### Güveni Kötüye Kullanma Suçu ve Etkin Pişmanlık
-
-[**Etkin pişmanlık**](https://barandogan.av.tr/blog/ceza-hukuku/etkin-pismanlik-ceza-indirimi.html), suç işleyen kişinin işlediği fiil yüzünden sonradan pişman olması ve suç nedeniyle oluşan “doğrudan maddi bir zarar” varsa, zararı gidererek ceza indirimi hükümlerinden yararlanmasını sağlayan bir ceza hukuku kurumudur. Suç işlendikten sonra fail tarafından etkin pişmanlık gösterilmesi halinde, güveni kötüye kullanma suçu cezası etkin pişmanlık nedeniyle indirilir. 
-
-Etkin pişmanlık, savcılık soruşturması aşamasında gösterilirse güveni kötüye kullanma suçu cezası, 2/3 oranına kadar indirilebilir. Yani, 1 yıl ceza alabilecek fail etkin pişmanlık hükümleri uygulanırsa 4 ay ceza alabilir. Failin etkin pişmanlık hükümlerinden yararlanabilmesi için suça ilişkin bilgi vermesi ve varsa suç ortaklarını, azmettireni, yardım edeni açıklamalı veya mağdurun uğradığı zararı gidermelidir.
-
-Yapılan soruşturma neticesinde mahkemede dava açıldıktan sonra, fakat henüz hüküm verilmeden önce fail, suça dair bilgiler verir veya mağdurun uğradığı zararı giderirse güveni kötüye kullanma suçu cezası ½ oranına kadar indirilir.
 
 ### Emniyeti Suistimal Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
