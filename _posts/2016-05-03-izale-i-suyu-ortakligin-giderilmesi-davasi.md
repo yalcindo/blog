@@ -23,11 +23,11 @@ Tüm paydaşların ortaklığın giderilmesi davasında yer alması zorunludur. 
 
 
 
-## Ortaklığın Giderilmesi Davası Hangi Mahkemede Açılır
+### Ortaklığın Giderilmesi Davası Hangi Mahkemede Açılır
 
 Ortaklığın giderilmesi (izale-i şüyu) davasında yetkili mahkeme taşınmaz malın bulunduğu yer mahkemesidir. Görevli mahkeme ise Sulh Hukuk Mahkemesi’dir. Örneğin, taşınmaz mal Bakırköy’de bulunuyorsa ortaklığın giderilmesi davasında yetkili ve görevli mahkeme Bakırköy Sulh Hukuk Mahkemesi’dir.
 
-## Ortaklığın Giderilmesi Davasında Mahkeme Harç  ve Giderleri
+### Ortaklığın Giderilmesi Davasında Mahkeme Harç  ve Giderleri
 
 Ortaklığın giderilmesi davası matbu harca tabi bir davadır.  Her ne kadar davayı açan paydaş dava harcını ve mahkeme giderlerini davanın başında ödemek zorunda kalsa da davanın sonunda mahkeme giderleri ve avukatlık ücretleri payları oranında taraflara yükletilir. İzale-i şuyu davasında davanın kazananı veya kaybedeni olmaz, davanın tarafı olan herkes davadan aynı şekilde etkilenir.
 
