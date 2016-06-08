@@ -23,10 +23,10 @@ Makalemizin konusu olan ‘muris muvazaası’ (**mirastan mal kaçırma**),  hu
  
 Muris muvazaası (*mirastan mal kaçırma*), bir kimsenin mirasçısını miras hakkından yoksun bırakmak amacıyla yaptığı karşılıksız kazandırmaları satış veya ölünceye kadar bakma sözleşmesi gibi göstermesidir. Buradaki temel amaç saklı paylı mirasçılarının ilerde tenkis davası açarak miras paylarını almalarını önlemektir. Yani miras bırakan gerçekte bağışlamak istediği mallarını satış karşılığında devretmiş gibi göstererek mirasçılarının ilerde dava açmasını önlemek istemektedir. Mirastan mal kaçırma davası, muvazaanın dört unsurunun olup olmadığını araştırır ;
 
--Görünüşteki işlem (sözleşme),
--Muvazaa anlaşması,
--Üçüncü kişileri(mirasçıları) aldatma amacı,
--Gizli sözleşme. 
+- Görünüşteki işlem (sözleşme),
+- Muvazaa anlaşması,
+- Üçüncü kişileri(mirasçıları) aldatma amacı,
+- Gizli sözleşme. 
 
 ### Görünüşteki İşlem
 
