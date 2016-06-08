@@ -25,7 +25,7 @@ Muris muvazaası (*mirastan mal kaçırma*), bir kimsenin mirasçısını miras 
 
 - Görünüşteki işlem (sözleşme),
 - Muvazaa anlaşması,
-- Üçüncü kişileri(mirasçıları) aldatma amacı,
+- Üçüncü kişileri (mirasçıları) aldatma amacı,
 - Gizli sözleşme. 
 
 ### Görünüşteki İşlem
