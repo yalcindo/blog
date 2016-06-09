@@ -3,7 +3,7 @@ layout: blog
 title: Arama Kararı ve Hukuka Aykırı Delil Temyiz Dilekçesi
 category: ceza-hukuku
 googleAnahtar: Arama kararı, arama işlemi, savcının yazılı arama emri, arama tutanağı, hukuka aykırı elde edilen delil, temyiz dilekçesi örneği, istanbul avukat, hukuk bürosu
-summary: Mahkemenin arama kararı veya savcılığın yazılı emri olmadan arama işlemi yapılamaz. Aksi takdirde elde edilen deliller, hukuka aykırı delil sayılıp hükme esas alınamaz. Hukuka aykırı aramaya dayalı mahkumiyet kararı temyiz dilekçesidir. 
+summary: Mahkemenin arama kararı veya savcılığın yazılı emri olmadan yapılam arama işleminden elde edilen deliller, hukuka aykırı delil olup hükme esas alınamazlar. Hukuka aykırı aramaya dayalı mahkumiyet kararının temyiz dilekçesidir. 
 keywords: Arama kararı, arama işlemi, savcının yazılı arama emri, arama tutanağı, hukuka aykırı elde edilen delil, temyiz dilekçesi örneği, istanbul avukat, hukuk bürosu
 
 ---
