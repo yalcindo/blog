@@ -34,7 +34,7 @@ D.KONUSU	 	: Yerel mahkemece ....... karar sayısıyla verilen, tümüyle hukuka
 AÇIKLAMALAR	:
 
 
-### Cumhuriyet Savcısının Yazılı Emri veya Mahkemenin Arama Kararı Olmadan Arama İşlemine Başlanmıştır:
+### Cumhuriyet Savcısının Yazılı Emri veya Mahkemenin Arama Kararı Olmadan Arama İşlemine Başlanmıştır
 
 
 Mahkumiyet kararının gerekçesi, arama işlemi nitecesinde elde edildiği iddia edilen maddi bulgulara dayanmaktadır. 19.10.2014 tarihli Arama Tutanağı incelendiğinde görüleceği üzere, arama işlemine Cumhuriyet Savcısının “sözlü talimatı” ile başlanmıştır. Tutanağın 2. sayfasında açıkça görüleceği üzere arama işlemi devam ederken Büyükçekmece ... Sulh Ceza Hakimliği'nin ...değişik iş sayılı kararı arama mahaline sonradan ulaştırılmıştır. Somut olayda arama işlemine başlanırken kolluğun elinde Cumhuriyet savcısının yazılı emri dahi yoktur. Cumhuriyet savcısının sözlü talimatı ile kapalı mekan niteliğindeki işyerinde arama yapılması hukuka aykırıdır.   
@@ -51,7 +51,7 @@ Bu nedenle, arama işlemi neticesinde elde edilen tüm maddi bulgular da hukuka 
 
 
 
-### Cumhuriyet Savcısı arama mahallinde hazır olmadığı halde komşulardan veya ihtiyar heyetinden iki kişi aramada hazır bulundurulmamıştır:
+### Cumhuriyet Savcısı arama mahallinde hazır olmadığı halde komşulardan veya ihtiyar heyetinden iki kişi aramada hazır bulundurulmamıştır
 
 Arama tutanağı incelendiğinde Nevzat Ergenç isimli şahsın “binayı teslim alan” sıfatıyla tutanağı imzaladığı ve arama esnasında arama mahalinde hiçbir şekilde bulunmadığı anlaşılmaktadır.
 
@@ -69,7 +69,7 @@ Arama mahalinde tarafsız iki hazirun bulundurulmadan yapılan arama işlemi huk
 
 
 
-### Arama işleminin yapıldığı mahalin sahibi veya sahibi yerine hazır bulundurulması gereken kişiler hazır bulundurulmadan arama işlemi yapılmıştır:
+### Arama işleminin yapıldığı mahalin sahibi veya sahibi yerine hazır bulundurulması gereken kişiler hazır bulundurulmadan arama işlemi yapılmıştır
 
 Aranan yerin sahibi veya eşyanın zilyedi arama işlemi sırasında hazır bulunma hakkına sahiptir. Söz konusu kişiler hazır değilse kanun bu kişilerin yjılierine arama işlemi sırasında hazır bulunabilecekleri düzenlemiştir:
 
@@ -78,7 +78,7 @@ CMK 120/1 “Aranacak yerlerin sahibi veya eşyanın zilyedi aramada hazır bulu
 Aranacak yerin sahibi hazır olmadığı gibi onun yerine herhangi bir kimse de arama işlemine nezaret etmek üzere hazır bulundurulmamıştır. Arama işlemine dair tüm bu kurallar, konut ve işyeri dokunulmazlığını ihlal eden bir koruma tedbiri olan aramanın tarafsız yapılmasını sağlamaya dönüktür. CMK 120/1 maddesinde düzenlenen usule uyulmadığı içinde elde edildiği iddia edilen maddi bulguların delil değeri yoktur. Hukuka aykırı nitelikteki bu deliller hükme esas alınamaz.
 
 
-### Müvekkil sanık hakkında hukuka aykırı arama işlemi ile elde edildiği iddia edilen deliller dışında  mahkumiyetini gerektirecek delil bulunmamaktadır:
+### Müvekkil sanık hakkında hukuka aykırı arama işlemi ile elde edildiği iddia edilen deliller dışında  mahkumiyetini gerektirecek delil bulunmamaktadır
 
 Ceza muhakemesinde  hayati önemi olan bazı ilkeler kabul edilmiştir. Söz konusu ilkeler  somut davada uygulanmadan yargılamanın usule uygun ve adil olduğundan bahsetmek mümkün değildir. Bu ilkeler;
 
