@@ -39,7 +39,7 @@ AÇIKLAMALAR	:
 
 Mahkumiyet kararının gerekçesi arama işlemi niteceinde elde edildiği iddia edilen maddi bulgulardır. 19.10.2014 tarihli Arama Tutanağı incelendiğinde görüleceği üzere, arama işlemine Cumhuriyet Savcısının “sözlü talimatı” ile başlanmıştır. Tutanağın 2. sayfasında açıkça görüleceği üzere arama işlemi devam ederken Büyükçekmece ... Sulh Ceza Hakimliği'nin ...değişik iş sayılı kararı arama mahaline sonradan ulaştırılmıştır. Somut olayda arama işlemine başlanırken kolluğun elinde Cumhuriyet savcısının yazılı emri dahi yoktur. Cumhuriyet savcısının sözlü talimatı ile kapalı mekan niteliğindeki işyerinde arama yapılması hukuka aykırıdır.   
 
->CMK md. 119/1 “…Hâkim kararı üzerine veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hallerde ise kolluk amirinin yazılı emri ile kolluk görevlileri arama yapabilirler.  Ancak, konutta, işyerinde ve kamuya açık olmayan kapalı alanlarda arama, hâkim kararı veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının yazılı emri ile yapılabilir*…”  hükmünü içermektedir.
+>>CMK md. 119/1 “…Hâkim kararı üzerine veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hallerde ise kolluk amirinin yazılı emri ile kolluk görevlileri arama yapabilirler.  Ancak, konutta, işyerinde ve kamuya açık olmayan kapalı alanlarda arama, hâkim kararı veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının yazılı emri ile yapılabilir…”  hükmünü içermektedir.
 
 Tanık olarak mahkeme huzurunda dinlenen tüm kolluk görevlileri içeri girdikten hemen sonra maddi birtakım delillere ulaştıklarını beyan etmişlerdir. Yani, kolluk arama işlemine başlayıp elde edildiği varsayılan delillerle temas ettikten sonra Büyükçekmece .. Sulh Ceza Hakimliği'nin .....değişik iş sayılı arama kararı arama mahaline ulaşmıştır.
 
@@ -57,7 +57,7 @@ Arama tutanağı incelendiğinde Nevzat Ergenç isimli şahsın “binayı tesli
 
 Hazurun olarak arama tutanağını imzalayan şahıs olan komşu işyeri sahibi İsmail Başaran, 5 Nolu Celsede yeminli tanık beyanıyla; arama mahaline girmediğini, polisin arama yapmadan önce ve sonra kendisiyle konuştuğunu söyleyerek şu şekilde beyanda bulunmuştur:  “…….bir kez çağırırlar tutanağı imzalar mısın diye sordu, ben bir olay görmedim dedim, memur sadece gördüğünü söyleyeceksin dedi, hangi saatte geldiğimizi, hangi saatte ne gördüğünü söyleyeceksin,…. Benim bulunduğum yerde operasyon görünmüyordu, ancak operasyon olduğu belliydi...”
 
->CMK 119/4 maddesi “Cumhuriyet savcısı hazır olmaksızın konut, işyeri veya diğer kapalı yerlerde arama yapabilmek için o yer ihtiyar heyetinden veya komşulardan iki kişi bulundurulur.” hükmünü amirdir.
+>>CMK 119/4 maddesi “Cumhuriyet savcısı hazır olmaksızın konut, işyeri veya diğer kapalı yerlerde arama yapabilmek için o yer ihtiyar heyetinden veya komşulardan iki kişi bulundurulur.” hükmünü amirdir.
 
 Polis, kanunen arama mahalinde hazır bulundurulması gereken iki kişiyi hazır bulundurmadan arama işlemini yapmıştır. Kolluk, arama mahaline girer girmez müvekkillerin başına çuval geçirerek yere yatırmış, daha sonra birtakım deliller elde ettiğini iddia etmiştir. Arama mahalinde kural olarak cumhuriyet savcısının hazır bulunmasının nedeni, cumhuriyet savcısının soruşturma işlemlerini yaparken tarafsız işlem yapacağının kabul edilmesidir. Cumhuriyet savcısı hazır olamadığında ise CMK 119/4 gereği tarafsız iki gözlemcinin bu fonksiyonu yerine getirmesi sağlanmak istenmiştir.
 
@@ -83,10 +83,10 @@ Aranacak yerin sahibi hazır olmadığı gibi onun yerine herhangi bir kimse de 
 Ceza muhakemesinde  hayati önemi olan bazı ilkeler kabul edilmiştir. Söz konusu ilkeler  somut davada uygulanmadan yargılamanın usule uygun ve adil olduğundan bahsetmek mümkün değildir. Bu ilkeler;
 
 
-•	Şüpheden sanık yararlanır ilkesi,
-•	Maddi gerçeğin araştırılması ilkesi,
-•	Yeterli ve hukuka uygun delil ilkesi,
-•	Dürüst işlem ilkesi,
+* Şüpheden sanık yararlanır ilkesi,			
+* Maddi gerçeğin araştırılması ilkesi,				
+* Yeterli ve hukuka uygun delil ilkesi,				
+* Dürüst işlem ilkesi.
 
 Amacı maddi gerçeği ortaya  çıkarmak olan Ceza Muhakemesi hukukunda  Medeni Usul hukukunun  aksine her şey delil olarak kullanılabilir. Ancak ceza muhakemesinde kullanılacak bir delilin öncelikle hukuka uygun elde edilmesi gerekir, hukuka uygun elde edilmeyen delillerin mahkumiyete esas alınması ise mümkün değildir, adil yargılanma hakkının ihlalidir. 
 
@@ -97,7 +97,7 @@ Mevcut dosyada mahkemenin arama kararı veya savcılığın yazılı emri olmada
 
 
 
-SONUÇ VE İSTEM	:	Yukarıda arz ve izah ettiğimiz gerekçelerle, usul ve yasaya aykırı yerel mahkeme hükmünün temyiz incelemesi neticesinde BOZULMASINI saygılarımızla arz ve talep ederiz.09.05.2016
+SONUÇ VE İSTEM		:	Yukarıda arz ve izah ettiğimiz gerekçelerle, usul ve yasaya aykırı yerel mahkeme hükmünün temyiz incelemesi neticesinde BOZULMASINI saygılarımızla arz ve talep ederiz.09.05.2016
 
 
 Sanık  Müdafii
