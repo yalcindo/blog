@@ -10,7 +10,7 @@ keywords: Arama kararı, arama işlemi, savcının yazılı arama emri, arama tu
   
 
 
-Mahkemenin arama kararı veya savcılığın yazılı arama emri olmadan polisin kapalı bir mekan olan işyerinde yaptığı arama neticesinde elde edilen deliller hukuka aykırı delil niteliğindedir. Mahkemenin arama işlemini esas alarak verdiği mahkumiyet hükmüne karşı yazılmış örnek bir temyiz dilekçesi aşağıdadır.
+Mahkemenin arama kararı veya savcılığın yazılı arama emri olmadan polisin kapalı bir mekan olan işyerinde yaptığı arama neticesinde elde edilen deliller hukuka aykırı delil niteliğindedir. Mahkemenin hukuka aykırı arama işleminden elde edilen delilleri esas alarak verdiği mahkumiyet hükmüne karşı yazılmış örnek bir temyiz dilekçesi aşağıdadır.
 
 
 ![Arama kararı ve hukuka aykırı delil](https://camo.githubusercontent.com/d6e21f7765ca395355c37fffd09b270409d648eb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4e576c6b47502e6a7067 "Arama Kararı ve Hukuka Aykırı Delil")
