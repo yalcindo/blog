@@ -18,7 +18,7 @@ keywords: Görevi kötüye kullanma, görevi kötüye kullanma suçunun cezası,
 
 * Kamu görevlisinin görevini zamanında yapmayıp geciktirmesi, yani **görevi ihmal** şeklindeki *görevi kötüye kullanma suçu*.
 
-Mevcut TCK’nın 257. maddesi görevi ihmal suçu ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. **Görevi ihmal suçu,** ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir.
+Mevcut TCK’nın 257. maddesi görevi ihmal suçu ile görevi kötüye kullanma suçunu aynı maddede düzenlemiştir. *Görevi ihmal suçu,* ihmal suretiyle görevi kötüye kullanma suçu olarak yeniden tanzim edilmiştir.
 
 
 ### ![Görevi Kötüye Kullanma](https://camo.githubusercontent.com/c4fcaaaae2f627842b7db45358d1e31dd2feb8ae/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7039766f51302e6a7067 "Görevi Kötüye Kullanma Suçu")
@@ -26,7 +26,7 @@ Mevcut TCK’nın 257. maddesi görevi ihmal suçu ile görevi kötüye kullanma
 
 ## Görevi Kötüye Kullanma Suçunun Şartları
 
-Kamu görevlisinin her hukuka aykırı fiili görevi kötüye kullanma suçunun oluşmasına neden olmaz. **Görevi kötüye kullanma suçu**nun oluşabilmesi için şu şartların bir arada bulunması gerekir:
+Kamu görevlisinin her hukuka aykırı fiili görevi kötüye kullanma suçunun oluşmasına neden olmaz. Görevi kötüye kullanma suçunun oluşabilmesi için şu şartların bir arada bulunması gerekir:
 
 ### Görevi Kötüye Kullanma ve Kamu Görevlisi Kavramı
 
