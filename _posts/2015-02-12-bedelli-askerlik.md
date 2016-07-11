@@ -6,12 +6,7 @@ googleAnahtar: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik da
 keywords: bedelli askerlik, bedelli askerlik para iade, bedelli askerlik davası, bedelli askerlik para iadesi son durum, ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat
 summary: Milli Savunma Bakanlığı'nın 2011 yılında 30.000 TL olarak hesapladığı bedelli askerlik parasının iadesi davasına dair BİLGİLENDİRMELER, haber ve videolar yer almaktadır. Davayla ilgili bilgiler burdan yayınlanacaktır.
 ---
-[Bakanlıktan Bedelli Parasının İadesi İstendi - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Eski-bedelliden-yararlanan-avukat-12-bin-TL-sinin-iadesini-istedi_8237-CHMTYxODIzNy8x)
----
 
-
-[Bakanlıktan Bedelli Parasının İadesini İstedi - ***HÜRRİYET GAZETESİ***](http://www.hurriyet.com.tr/ekonomi/28030907.asp)
----
 
 ### ![Ceza Avukatı](https://camo.githubusercontent.com/9f9e6be2c9c61c636d46a9d98176fd725907bc32/687474703a2f2f692e68697a6c69726573696d2e636f6d2f7a59726c79592e6a7067 "Ceza Avukatı")
 
@@ -35,7 +30,12 @@ Farklı bedelli askerlik uygulamaları Anayasa'nın 10. maddesinde ifadesini bul
 Askeri Yüksek İdare Mahkemesi'ne açtığımız davanın karar düzeltme aşaması da sonuçlanmış olup, eşitsiz bedelli askerlik uygulaması nedeniyle fazla alınan paranın iadesi için 11.07.2016 tarihi itibariyle Anayasa Mahkemesi'ne bireysel başvuru yapılmıştır. 
 
 
+[Bakanlıktan Bedelli Parasının İadesi İstendi - ***CİHAN HABER AJANSI***](http://www.cihan.com.tr/news/Eski-bedelliden-yararlanan-avukat-12-bin-TL-sinin-iadesini-istedi_8237-CHMTYxODIzNy8x)
+---
 
+
+[Bakanlıktan Bedelli Parasının İadesini İstedi - ***HÜRRİYET GAZETESİ***](http://www.hurriyet.com.tr/ekonomi/28030907.asp)
+---
 
 
 
