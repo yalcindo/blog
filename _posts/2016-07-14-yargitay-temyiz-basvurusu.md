@@ -54,17 +54,12 @@ Bölge adliye mahkemelerinin (istinaf mahkemeleri) bozma kararı dışında kala
 * Miktarı ne olursa olsun [**adli para cezasına**](https://barandogan.av.tr/blog/ceza-hukuku/adli-para-cezasi.html) karşı istinaf başvurusunun *esastan reddine* dair bölge adliye mahkemesi kararları temyiz edilemez (CMK md. 286/2-a). 
 
 * 5 yıl (dahil) veya daha az hapis cezalarına karşı istinaf başvurusunun *esastan reddine* dair bölge adliye mahkemesi kararları temyiz edilemez (CMK md. 286/2-a). Ancak, yerel mahkeme 5 yıldan az ceza vermesine rağmen, istinaf başvurusu üzerine bölge adliye mahkemesi yerel mahkemenin verdiği cezayı arttırırsa, bu karara karşı temyiz başvurusu yapılabilir (CMK 286/2-b). Örneğin, herhangi bir [**bilişim suçu**](https://barandogan.av.tr/blog/ceza-hukuku/bilisim-suclari-nelerdir.html) nedeniyle yerel mahkeme tarafından 3 yıl hapis cezası verilen bir kişinin cezası istinaf mahkemesi tarafından arttırılarak 4 yıla çıkartılırsa, ceza miktarı 5 yılın altında olmasına rağmen bu karara karşı temyiz başvurusu yapılabilir. 
-
 * Aynı hükümde yer alan hapis cezalarının toplamı 5 yılı geçse dahi, istinaf mahkemesinin bu kararlarına karşı da temyiz kanun yoluna başvurulamaz (CMK md. 286/2-h). Örneğin, aynı istinaf mahkemesi hükmünde [**dolandırıcılık suçu**](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html) nedeniyle 2 yıl 6 ay hapis cezası, [**resmi evrakta sahtecilik suçu**](https://barandogan.av.tr/blog/ceza-hukuku/resmi-evrakta-belgede-sahtecilik-cezasi.html) nedeniyle 3 yıl 4 ay hapis cezası alan bir kişinin toplam ceza miktarı 5 yıl 10 ay olmasına rağmen temyiz kanun yoluna başvurma hakkı yoktur. Ancak, aynı hükümdeki hapis cezalarından sadece biri 5 yıl veya üstünde olursa, diğer hapis cezası 5 yılın altında olsa bile her iki ceza aleyhine birlikte temyiz kanun yoluna gidilebilir.
-
 * TCK veya diğer kanunlarda üst sınırı 2 yıl hapis cezası gerektiren suçlar ve bunlara bağlı adli para cezalarına dair her türlü bölge adliye mahkemesi (istinaf mahkemesi) kararları aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-c).
-
 * On yıl veya daha az hapis cezasını veya adlî para cezasını gerektiren suçlardan, ilk derece mahkemesince verilen
 *beraat kararları* ile ilgili olarak  istinaf başvurusunun *esastan reddine*  ilişkin bölge adliye mahkemesi kararları aleyhine temyiz kanun yoluna gidilemez(CMK md. 286/2-f).
-
 * Eşya veya kazanç müsaderesine veya bunlara yer olmadığına ilişkin ilk
 derece mahkemesi kararları ile ilgili olarak istinaf başvurusunun *esastan reddine* dair istinaf mahkemesi kararları aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-e).
-
 * Davanın düşmesine, ceza verilmesine yer olmadığına, güvenlik tedbirine ilişkin
 ilk derece mahkemesi kararları ile ilgili olarak bölge adliye mahkemesince verilen bu tür kararlar veya istinaf başvurusunun
 esastan reddine dair kararlar aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-g).
