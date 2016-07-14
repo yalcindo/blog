@@ -4,7 +4,7 @@ title: Temyiz Nedir? Temyiz Şartları ve Süresi
 category: ceza-hukuku
 googleAnahtar: Temyiz, temyiz başvurusu, yargıtay temyiz süresi, temyiz dilekçesi, Ceza avukatı, avukat, Onama, Bozma, istanbul avukat, istinaf mahkemesi kararının temyizi
 keywords:  Temyiz, temyiz başvurusu, yargıtay temyiz başvurusu, temyiz dilekçesi, Ceza avukatı, avukat, ağır ceza avukatı, bakırköy avukat, istanbul avukat, temyiz başvuru dilekçesi, temyiz süresi, hukuk bürosu
-summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yargıtay Temyiz İncelemesi Duruşmalı mıdır? Temyiz İncelemesi Sonucu Onama, Düzelterek Onama ve Bozma Kararı
+summary: Temyiz Nedir? Temyiz Süresi, Temyiz Başvurusunu Kimler Yapabilir? Yargıtay Temyiz İncelemesi Duruşmalı mıdır? İstinaf Mahkemesi (Bölge Adliye Mahkemesi) Kararını Onama, Düzelterek Onama ve Bozma Kararı
 ---
 
 ## Temyiz Nedir?
