@@ -176,6 +176,12 @@ TCK md. 299'da düzenlenen cumhurbaşkanına hakaret suçu, özel bir hakaret su
 
 Bilişim suçları arasında yalnızca TCK md.245/5'teki başkasının banka veya kredi kartının rızası dışında kullanılması suçunda etkin pişmanlık nedeniyle ceza indirimi mümkündür. Mağdurun uğradığı zarar soruşturma aşamasında giderilirse verilecek cezada 2/3’üne kadar ceza indirimi yapılır. Mağdurun uğradığı zarar kovuşturma aşamasında, yani dava açıldıktan sonra giderilirse etkin pişmanlık nedeniyle 1/2 oranında ceza indirimi indirilir.
 
+### Darbeye Teşebbüs Suçu (Hükümete Karşı Suç) ve Etkin Pişmanlık (TCK md. 312)
+
+Darbeye teşebbüs suçu, TCK md. 312'de "hükümete karşı suç" başlığıyla iki fıkra halinde düzenlenmiştir. Darbeye teşebbüs suçunun cezası, ağırlaştırılmış müebbet hapis cezasıdır. Maddeye göre, cebir ve şiddet kullanarak Türkiye Cumhuriyeti hükümetinin ortadan kaldırılmasına teşebbüs eden kimse, hem darbeye teşebbüs suçundan hem de işlediği her suçtan ayrı ayrı cezalandırılacaktır. Örneğin, darbeye teşebbüs suçunun işlenmesi sırasında herhangi bir kimsenin vücut bütünlüğüne zarar verilmesi halinde, fail [**kasten adam yaralama**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) veya [**kasten adam öldürme suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) nedeniyle ayrıca cezalandırılacaktır.
+
+Darbeye teşebbüs suçu açısından etkin pişmanlık hükümlerinin uygulanması mümkün değildir. Örgüt üyesi, kurucusu veya yöneticisi hakkında uygulama alanı olan TCK md. 221 darbeye teşebbüs suçu açısından uygulanamaz. 
+
 
 
 ### ![Uyuşturucu Madde Kullanma Suçu Etkin Pişmanlık](https://camo.githubusercontent.com/1e9cd0852da7c6ce01430ffe9ea03aebc2246fbb/687474703a2f2f692e68697a6c69726573696d2e636f6d2f71527a4550642e6a7067 "Uyuşturucu Madde Kullanma Suçu Etkin Pişmanlık")
