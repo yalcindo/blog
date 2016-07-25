@@ -18,7 +18,7 @@ keywords: Darbeye teşebbüs suçu, darbe suçu, darbeye teşebbüs suçunun cez
 -	**Yasama organına karşı suç (TCK md. 311):**  Türkiye'de yasama organı, Türkiye Büyük Millet Meclisi (TBMM)’dir.  TBMM’nin ortadan kaldırılmaya çalışılması veya görevlerini kısmen veya tamamen yapmasının engellenmesine  teşebbüs edilmesi halinde bu madde hükümleri uygulanacaktır.
 -	**Hükümete karşı suç (TCK md. 312):** Hükümete karşı suç, tipik darbe suçlarından biridir. Türkiye Cumhuriyeti Hükümetini ortadan kaldırmaya veya görevlerini yapmasını kısmen veya tamamen engellemeye teşebbüs edilmesi halinde bu madde hükümleri uygulanacaktır.
 
-25 Temmuz  2016 tarihli darbe girişiminde işlenen fiiller nedeniyle failler açısından yukarıda açıklanan tüm maddelerin uygulanma koşulları mevcuttur. Ancak, yazımızın son kısmında faillere hangi cezanın nasıl uygulanacağına ayrıca değinilecektir.
+15 Temmuz  2016 tarihli darbe girişiminde işlenen fiiller nedeniyle failler açısından yukarıda açıklanan tüm maddelerin uygulanma koşulları mevcuttur. Ancak, yazımızın son kısmında faillere hangi cezanın nasıl uygulanacağına ayrıca değinilecektir.
 
 ### Darbeye Teşebbüs Suçunun Hukuki Niteliği
 
