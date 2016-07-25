@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Darbeye Teşebbüs Suçu (Darbe Suçu) ve Cezası
+title: Darbeye Teşebbüs Suçu ve Cezası
 category: ceza-hukuku
 googleAnahtar: Darbeye teşebbüs suçu, darbe suçu, darbeye teşebbüs suçunun cezası, darbeye teşebbüs suçu etkin pişmanlık,TBMM ve hükümete karşı suç, anayasayı ihlal, istanbul ceza avukatı
 summary: Darbeye Teşebbüs Suçu Nedir? Darbe Suçu veya Darbe Girişimi, Anayasayı İhlal Suçu, Hükümete ve Yasama Organına (TBMM) Karşı Suç, Darbeye Teşebbüs Suçunun Cezası, Etkin Pişmanlık Ceza İndirimi ve Gönüllü Vazgeçme
