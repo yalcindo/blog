@@ -32,7 +32,7 @@ Darbeye teşebbüs suçları, TCK’da tehlike suçu olarak düzenlenmiştir. Ya
 
 * Darbe girişimi suçu ne şekilde işlenmiş olursa olsun (Hükümeti ortadan kaldırma, TBMM’nin görevini yapmasının engelleme vs.) cebir ve şiddet suçun en önemli maddi unsurudur. Cebir ve şiddet kullanılmadan darbeye teşebbüs suçunun işlenmesi mümkün değildir. 
 
- * Darbeye teşebbüs sırasında kendisine verilen görevi yapmaktan gönüllü olarak vazgeçen kişilere gönüllü vazgeçme hükümlerinin uygulanıp uygulanmayacağı tartışılmalıdır. Eğer fail, gönüllü olarak icra hareketlerine girişmez veya giriştiği icra hareketlerinden vazgeçer  ve kendi çabalarıyla darbe suçunun tamamlanmasını veya suçun neticesinin meydana gelmesini önlerse TCK md. 36 hükümleri  tartışılmalıdır. TCK md. 36’da düzenlenen gönüllü vazgeçeme hükümleri gereği, gönüllü vazgeçen kişi vazgeçme anına kadar olan fiilleri ayrı bir suç teşkil etmediği takdirde darbeye teşebbüs suçu nedeniyle cezalandırılamaz.
+* Darbeye teşebbüs sırasında kendisine verilen görevi yapmaktan gönüllü olarak vazgeçen kişilere gönüllü vazgeçme hükümlerinin uygulanıp uygulanmayacağı tartışılmalıdır. Eğer fail, gönüllü olarak icra hareketlerine girişmez veya giriştiği icra hareketlerinden vazgeçer  ve kendi çabalarıyla darbe suçunun tamamlanmasını veya suçun neticesinin meydana gelmesini önlerse TCK md. 36 hükümleri  tartışılmalıdır. TCK md. 36’da düzenlenen gönüllü vazgeçeme hükümleri gereği, gönüllü vazgeçen kişi vazgeçme anına kadar olan fiilleri ayrı bir suç teşkil etmediği takdirde darbeye teşebbüs suçu nedeniyle cezalandırılamaz.
 
 ### Darbeye Teşebbüs (Darbe Suçu)  ve Örgüt Üyeliği Suçu (TCK md. 314)
 
