@@ -12,7 +12,7 @@ keywords: Darbeye teşebbüs suçu, darbe suçu, darbeye teşebbüs suçunun cez
 
 ## Darbeye Teşebbüs Suçu Nedir?
 
-**Darbeye teşebbüs suçu**, 5237 sayılı TCK’nın “Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar” başlıklı beşinci bölümünde çeşitli maddeler halinde düzenlenmiştir. Darbeye teşebbüs fiili ile (darbe suçu) TCK’nın üç temel maddesi ihlal edilmiş olur.
+**Darbeye teşebbüs suçu**, 5237 sayılı TCK’nın “Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar” başlıklı beşinci bölümünde çeşitli maddeler halinde düzenlenmiştir. Darbeye teşebbüs fiili ile (darbe suçu) TCK’nın üç temel maddesi ihlal edilebilir:
 
 -	**Anayasayı ihlal suçu (TCK md. 309):** Türkiye Cumhuriyeti anayasasında yasama, yürütme ve yargı organlarından oluşan bir kuvvetler ayrılığı sistemi  ve anayasal düzen mevcuttur.  Anayasal düzenin ortadan kaldırılmaya, bu düzen yerine başka bir düzen getirilmeye çalışılması veya bu düzenin fiilen uygulanmasını önlemeye teşebbüs edilmesi halinde fail bu madde hükümleri gereği cezalandırılır. 
 -	**Yasama organına karşı suç (TCK md. 311):**  Türkiye'de yasama organı, Türkiye Büyük Millet Meclisi (TBMM)’dir.  TBMM’nin ortadan kaldırılmaya çalışılması veya görevlerini kısmen veya tamamen yapmasının engellenmesine  teşebbüs edilmesi halinde bu madde hükümleri uygulanacaktır.
