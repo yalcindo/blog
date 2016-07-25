@@ -22,7 +22,7 @@ keywords: Darbeye teşebbüs suçu, darbe suçu, darbeye teşebbüs suçunun cez
 
 ### Darbeye Teşebbüs Suçunun Hukuki Niteliği
 
-Darbeye teşebbüs suçları, TCK’da tehlike suçu olarak düzenlenmiştir. Yani, suç oluşturan fiilin cezalandırılması için neticenin gerçekleşmesi şartı bu suç tipleri açısından aranmamıştır.  Fiil neticesinde tehlikenin meydana gelmesi yeterli olup ayrıca neticenin gerçekleşmesi şart değildir. Darbe suçunun tamamlanması halinde, fiili gerçekleştirenlerin cezalandırılması imkanı da fiilen ortadan kalktığından bu suç tehlike suçu olarak düzenlenmiştir. 
+Darbeye teşebbüs suçları, TCK’da tehlike suçu olarak düzenlenmiştir. Yani, suç oluşturan fiilin cezalandırılması için neticenin gerçekleşmesi şartı bu suç tipleri açısından aranmamıştır.  Fiil nedeniyle tehlikenin meydana gelmesi yeterli olup ayrıca neticenin gerçekleşmesi şart değildir. Darbe suçunun tamamlanması halinde, fiili gerçekleştirenlerin cezalandırılması imkanı da fiilen ortadan kalktığından bu suç tehlike suçu olarak düzenlenmiştir. 
 
 ### Darbeye Teşebbüs Suçlarının Özellikleri
 
