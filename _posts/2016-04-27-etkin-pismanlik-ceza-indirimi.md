@@ -34,6 +34,8 @@ Birinci yöntem, yargılanan kişinin, soruşturma veya kovuşturma aşamaların
 
 Etkin pişmanlık hükümlerinden yararlanacak kişi, suça azmettiren, suç teşkil eden fiili doğrudan işleyen veya yardım eden kişilerden biri olabilir. Önemli olan verilen bilgiyle suçun aydınlatılması, suçun işlenmesine katılanların cezalandırılmasının temini veya varsa mağdurun uğradığı zararın giderilmesidir.
 
+Etkin pişmanlık nedeniyle ceza indirimi, ancak kanunda açık hüküm varsa uygulanabilir. Fail, pişman olarak suç ortaklarının yakalanmasını sağlamış veya suçun meydana getirdiği olumsuzlukları gidermiş  olmasına rağmen işlenen suç ile ilgili kanunda ceza indirimi uygulanacağına dair açık bir hüküm yoksa, failin ceza indiriminden yararlanması mümkün değildir. Etkin pişmanlık ceza indirimi hükümlerinin uygulanabileceği  suçlar ile uygulanamayacağı bazı suç tiplerine aşağıda değinilmiştir.  
+
 ### Etkin Pişmanlık Halinde Ceza İndirim Oranı Nedir?
 
 
