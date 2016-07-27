@@ -111,7 +111,7 @@ Maddenin düzenleme biçiminden anlaşıldığı üzere, cumhurbaşkanına hakar
 
 Cumhurbaşkanına hakaret suçunun kovuşturulması Adalet Bakanlığı'nın iznine tabidir.
 
-Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezasıdır. Suçun alenen işlenmesi halinde verilecek ceza 1/6 oranında arttırılır.
+Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezasıdır. Suçun alenen işlenmesi halinde verilecek ceza 1/6 oranında arttırılır. *Cumhurbaşkanına hakaret suçu* nedeniyle hükmedilen hapis cezası, adli para cezasına çevrilebilir, ertelenebilir veya sanık hakkında hükmün açıklanmasının geri bırakılması kararı verilebilir.
 
 ### Hakaret Suçu ve Hükmün Açıklanmasının Geri Bırakılması
 
@@ -119,7 +119,7 @@ Cumhurbaşkanına hakaret suçunun cezası 1 yıldan 4 yıla kadar hapis cezası
 
 HAGB kararı verilmesinin önemli şartlarından biri mağdurun uğradığı zararın giderilmesi şartıdır. Hakaret suçu açısından dikkat edilmesi gereken nokta, HAGB kararı verilmesi için aranan şart suçtan kaynaklanan doğrudan bir maddi zarar yoksa, zararın giderilmesi şartının aranmaması gerektiğidir. HAGB için kişinin uğradığı manevi zarar dikkate alınmaz.
 
-Hakaret suçu, çoğu zaman [**"Tehdit Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) veya [**"Şantaj Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) ile birlikte işlenmektedir. Tehdit suçu ile birlikte işlense bile hakaret suçu ve tehdit suçu nedeniyle doğrudan oluşabilecek bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması için zararın giderilmesi şartı aranmaz. Ancak, hakaret suçunun şantaj suçu ile birlikte işlenmesi halinde ortaya maddi bir zarar çıkma olasılığı mevcuttur. Şantaj suçu nedeniyle meydana gelen zarar giderildiğinde, sanık hükmün açıklanmasının geri bırakılması kurumundan faydalanabilir. 
+Hakaret suçu, çoğu zaman [**"Tehdit Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/tehdit-sucu-sartlari-cezasi.html) veya [**"Şantaj Suçu"**](https://barandogan.av.tr/blog/ceza-hukuku/santaj-sucu-cezasi-ve-tehdit-sucu-nedir.html) ile birlikte işlenmektedir. Tehdit suçu ile birlikte işlense bile, hakaret ve tehdit suçları nedeniyle doğrudan oluşabilecek bir maddi zarar olmadığı için hükmün açıklanmasının geri bırakılması için zararın giderilmesi şartı aranmaz. Ancak, hakaret suçunun şantaj suçu ile birlikte işlenmesi halinde ortaya maddi bir zarar çıkma olasılığı mevcuttur. Şantaj suçu nedeniyle meydana gelen zarar giderildiğinde, sanık hükmün açıklanmasının geri bırakılması kurumundan faydalanabilir. 
 
 
 
