@@ -12,7 +12,7 @@ keywords: Darbeye teşebbüs suçu, darbe suçu, darbeye teşebbüs suçunun cez
 
 ## Darbeye Teşebbüs Suçu (Darbe Suçu) Nedir?
 
-**Darbeye teşebbüs suçu**, 5237 sayılı TCK’nın “Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar” başlıklı beşinci bölümünde çeşitli maddeler halinde düzenlenmiştir. Darbeye teşebbüs niteliğindeki fiiller (darbe suçu) cebir ve tehdit kullanılarak çeşitli biçimlerde  işlenebilir. Ancak, bu nitelikteki fiiller ile 5237 sayılı TCK'nın üç temel maddesi ihlal edilebilir: TCK md.309 (Anayasayı İhlal Suçu), TCK md.311 (Yasama Organına Karşı Suç).
+**Darbeye teşebbüs suçu**, 5237 sayılı TCK’nın “Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar” başlıklı beşinci bölümünde çeşitli maddeler halinde düzenlenmiştir. Darbeye teşebbüs niteliğindeki fiiller (darbe suçu) cebir ve tehdit kullanılarak çeşitli biçimlerde  işlenebilir. Ancak, bu nitelikteki fiiller ile 5237 sayılı TCK'nın üç temel maddesi ihlal edilebilir: TCK md.309 (Anayasayı İhlal Suçu), TCK md.311 (Yasama Organına Karşı Suç), TCK md. 312 (Hükümete Karşı Suç).
 
 ###	Anayasayı İhlal Suçu (TCK md. 309) 
 
