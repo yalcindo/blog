@@ -20,11 +20,11 @@ Türkiye Cumhuriyeti anayasası yasama, yürütme ve yargı organlarından oluş
 
 Anayasayı İhlal Suçu ile birlikte başka suçların işlenmesi halinde fail işlediği diğer suçlar nedeniyle ayrıca cezalandırılır (TCK md. 309/2). Örneğin, anayasayı ihlal suçu işlerken bir kimsenin öldürülmesi halinde fail hem anayasayı ihlal suçu nedeniyle hem de kasten adam öldürme suçu nedeniyle cezalandırılacaktır.
 
-###	Yasama organına karşı suç (TCK md. 311)
+###	Yasama Organına (TBMM) Karşı Suç (TCK md. 311)
 
 Türkiye'de yasama organı, Türkiye Büyük Millet Meclisi (TBMM)’dir. TBMM'nin birçok görevi olmasına rağmen en temel görevi kanun yapmak, değiştirmek ve yürülükten kaldırmaktır.  TBMM’nin bu fonksiyonunun ortadan kaldırılmaya çalışılması veya görevlerini kısmen veya tamamen yapmasını engellemeye  teşebbüs edilmesi halinde, fail hakkında TCK md. 311 hükümleri uygulanacaktır.
 
-### Hükümete karşı suç (TCK md. 312) 
+### Hükümete Karşı Suç (TCK md. 312) 
 
 Hükümete karşı suç, tipik darbe suçlarından biridir. Esasen, darbe suçu denildiğinde TCK md. 312'de düzenlenen "hükümete karşı suç" tipi kastedilir. Türkiye Cumhuriyeti hükümetini ortadan kaldırmaya veya görevlerini kısmen veya tamamen yapmasının engellemeye teşebbüs edilmesi halinde bu madde hükümleri gereği fail darbe suçu ile yargılanır. 
 
