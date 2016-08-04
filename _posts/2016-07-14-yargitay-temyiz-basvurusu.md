@@ -80,37 +80,37 @@ Temyiz konusunda sanık ile avukatının iradesi çelişirse, örneğin sanığ�
 
 ### Temyiz Başvurusu ve Etkisi
 
-Süresinde yapılan *temyiz başvurusu* hükmün kesinleşmesini engeller. Yani yerel mahkeme tarafından verilen hüküm temyiz nedeniyle kesinleşmediğinden infaza verilemez. Temyizin sanığın lehine veya aleyhine olmasının hiçbir önemi yoktur. Her iki halde de temyiz hükmün kesinleşmesini engeller.
+Süresinde yapılan *temyiz başvurusu* hükmün kesinleşmesini engeller. Yani istinaf mahkemesi (bölge adliye mahkemesi) tarafından verilen hüküm aleyhine yapılan temyiz başvurusu bir yargıtay kararı ile neticeleninceye kadar hüküm  infaza verilemez. Temyizin sanığın lehine veya aleyhine olmasının hiçbir önemi yoktur. Her iki halde de temyiz hükmün kesinleşmesini engeller.
 
 ### Temyiz ve Duruşma
 
-Temyiz incelemesi, kural olarak dosya üzerinden yapılır. Ancak sanığa verilen ceza 10 yıl veya üzerindeyse, sanık, müdahil, cumhuriyet savcısının talebi üzerine veya Yargıtay tarafından kendiliğinden hükmün temyiz incelemesi duruşmalı yapılabilir.
+Temyiz incelemesi, kural olarak dosya üzerinden yapılır. Ancak, sanığa verilen ceza 10 yıl veya üzerindeyse, sanık, müdahil veya cumhuriyet savcısının talebi üzerine veya Yargıtay tarafından kendiliğinden hükmün temyiz incelemesi duruşmalı yapılabilir.
 Sanık tutuksuz yargılanmakta ise temyiz duruşmasında kendi hazır bulunabileceği gibi avukatı da hazır bulunabilir. Ancak sanık tutuklu ise temyiz duruşmasında hazır bulunma hakkı yoktur (CMK 299/2).
 
 ### ![Yargıtay Temyiz Dilekçesi](https://camo.githubusercontent.com/e162db5ffa0d03ce19c3582b3a7ff183767598a5/687474703a2f2f692e68697a6c69726573696d2e636f6d2f317270594a312e6a7067 "Yargıtay Temyiz Dilekçesi")
 
 
-### Temyiz İncelemesi Sonucu Onama veya Düzelterek Onama
+### Temyiz Başvurusunun "Esastan Reddine" (Onama) veya Düzelterek Onama
 
-Yargıtay yapacağı temyiz incelemesi sonucu hükmü onayabilir veya bozabilir. Yargıtay’ın temyiz incelemesi sonucu hükmü onaması halinde yerel mahkeme tarafından verilen hüküm kesinleşir. Sanık bu aşamadan sonra olağan kanun yollarını tüketmiş olduğundan hüküm infaza verilebilir. Yerel mahkeme hükmünün temyiz incelemesi neticesinde onanması halinde; sanık, kararın düzeltilmesi için Yargıtay Cumhuriyet Başsavcılığı'na başvurabilir. 
+Yargıtay, yapacağı temyiz incelemesi sonucu istinaf mahkemesi kararı aleyhine yapılan temyiz başvurusunun "esastan reddine" karar verebilir. Yargıtay'ın esastan red kararı, istinaf mahkemesi hükmünün hukuka uygun bulunduğu anlamına gelir.  Yargıtay'ın bu şekilde verdiği kararına "onama kararı" da denilmektedir. Yargıtay’ın temyiz incelemesi sonucu hükmü onaması halinde istinaf mahkemesi tarafından verilen hüküm kesinleşir. Sanık bu aşamadan sonra olağan kanun yollarını tüketmiş olduğundan hüküm infaza verilebilir. İstinaf mahkemesi (bölge adliye mahkemesi) hükmünün temyiz incelemesi neticesinde onanması halinde; sanığın, kararın düzeltilmesi için Yargıtay Cumhuriyet Başsavcılığı'na başvuru yapma hakkı vardır. 
 
-Düzelterek onama, yerel mahkeme tarafından verilen hükümde yer alan basit hataların temyiz incelemesi sırasında düzeltilerek hükmün  onanmasıdır. Düzelterek onama kararı verilebilmesi için yerel mahkemenin yaptığı hatanın yeniden yargılama yapmayı gerektirmeyecek ölçüde basit bir hata olması gerekir. Örneğin, TCK md. 53 hükümlerinin uygulanmaması, yargılama giderlerine yanlış hükmedilmesi, ceza hesaplanırken matematiksel hata yapılması vb. gibi hatalar, yeniden yargılamayı gerektirmeyen basit hatalar olduğundan "düzelterek onama" yolu ile hükümde yer alan yanlışlıklar düzeltilebilir.
+Düzelterek onama, istinaf mahkemesi tarafından verilen hükümde yer alan basit hataların temyiz incelemesi sırasında düzeltilerek hükmün  onanmasıdır. Düzelterek onama kararı verilebilmesi için yerel mahkemenin yaptığı hatanın yeniden yargılama yapmayı gerektirmeyecek ölçüde basit bir hata olması gerekir. Örneğin, TCK md. 53 hükümlerinin uygulanmaması, yargılama giderlerine yanlış hükmedilmesi, ceza hesaplanırken matematiksel hata yapılması vb. gibi hatalar, yeniden yargılamayı gerektirmeyen basit hatalar olduğundan "düzelterek onama" yolu ile hükümde yer alan yanlışlıklar düzeltilebilir.
 
 
 ### Temyiz İncelemesinden Sonra "Kararın Düzeltilmesi" Başvurusu [(CMK md. 308)](http://www.turkhukuksitesi.com/mevzuat.php?mid=6164)
 
-Yargıtay’ın onama kararından sonra olağanüstü bir kanun yolu olan Yargıtay Cumhuriyet Başsavcılığı’na kararın düzeltilmesi için başvurulabilir. Kararın düzeltilmesi yolu, hakkındaki hüküm temyiz incelemesinden sonra kesinleşen sanık tarafından talep edilebileceği gibi Yargıtay Cumhuriyet Başsavcılığı'nca kendiliğinden de işletilebilir. Kararın düzeltilmesi yolu, özellikle savcılık tebliğnamesine (savcılık görüşü) aykırı verilen daire kararlarına karşı etkin bir yoldur. Örneğin, savcılık yerel mahkeme hükmünün bozulmasını talep etmiş, Yargıtay Ceza Dairesi ise onama kararı vermişse kararın düzeltilmesi yoluna başvurulması gerekir.
+Yargıtay’ın onama kararından (temyiz isteminin esastan reddine) sonra olağanüstü bir kanun yolu olan "Yargıtay Cumhuriyet Başsavcılığı’na kararın düzeltilmesi" için başvurulabilir. Kararın düzeltilmesi kanun yolu, hakkındaki hüküm temyiz incelemesinden sonra kesinleşen sanık tarafından talep edilebileceği gibi Yargıtay Cumhuriyet Başsavcılığı'nca kendiliğinden de işletilebilir. Kararın düzeltilmesi yolu, özellikle savcılık tebliğnamesine (savcılık görüşü) aykırı verilen daire kararlarına karşı etkin bir yoldur. Örneğin, savcılık yerel mahkeme hükmünün bozulmasını talep etmiş, Yargıtay Ceza Dairesi ise onama kararı vermişse kararın düzeltilmesi yoluna başvurulması gerekir.
 
 Kararın düzeltilmesi yolu, olağanüstü bir yargı yoludur. Bu nedenle, kararın düzeltilmesi talebinde bulunulması hükmün infazını durdurmaz. 
 
 ### Temyiz İncelemesi ve Hükmün Bozulması
 
-Yargıtay Ceza Dairesi, temyiz incelemesi sonucu hükmü bozarsa hüküm yine kesinleşmez. Temyiz incelemesi sonucu yerel mahkeme kararının Yargıtay tarafından bozulması halinde dosya yeniden yerel mahkemeye gelir ve bozma çerçevesinde taraflar davet edilerek yeniden bir yargılama yapılır.
+Yargıtay Ceza Dairesi, temyiz incelemesi sonucu hükmü bozarsa hüküm yine kesinleşmez. Temyiz incelemesi sonucu ilk derece mahkemesi veya istinaf mahkemesinin kararının Yargıtay tarafından bozulması halinde dosya yeniden istinaf mahkemesine veya ilk derece mahkemesine gönderilir. Dosya kendisine gönderilen mahkeme, tarafları davet ederek eski hükümde direnme kararı verebilir veya bozma çerçevesinde yeniden bir yargılama yapabilir.
 
 Bozma sonrası yapılacak yeni yargılamada, sanığın bozma öncesi kazanılmış hakları varsa, yargılama neticesinde verilecek yeni hükümde bu kazanılmış haklara riayet edilmelidir. Örneğin, adam yaralama suçu nedeniyle 3 yıl hapis cezası ile cezalandırılan sanık aleyhine temyiz yoksa; hüküm, Yargıtay tarafından başka nedenlerle birlikte suçun adam öldürmeye teşebbüs suçu olduğu gerekçesiyle bozulmuşsa, yapılacak yeni yargılamada artık sanığa 3 yıldan fazla ceza verilemez. Çünkü, sanık aleyhine temyiz olmadığı için "usuli kazanılmış hak" kurumu devreye girer.
 
 
-Yapılacak yeni yargılamada verilen hüküm de taraflarca temyiz edilebilir. Yukarıda anlatılan tüm prosedür, bozma sonrası yapılacak yeni yargılamada da geçerlidir.
+Yapılacak yeni yargılamada verilen hüküm de taraflarca istinaf ve temyize konu edilebilir. Yukarıda anlatılan tüm prosedür, bozma sonrası yapılacak yeni yargılamada da geçerlidir.
 
 Son olarak şunu belirtmek gerekir ki; temyiz başvurusunun bir [**ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) vasıtasıyla yapılması bozma nedenlerinin daha anlaşılır bir şekilde Yargıtay incelemesine sunulmasını sağlar.
 
