@@ -25,7 +25,7 @@ Suçun nitelikli halleri ve “basit tıbbi müdahale (BTM) ile giderilemeyecek�
 
  
 
-### Basit Adam Yaralama Suçu ve Cezası
+### Basit Adam Yaralama Suçu ve Cezası - (1)
 
 Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yaralamalar ve basit tıbbi müdahale ile giderilemeyecek yaralamalar olarak ikiye ayrılır. 
 
@@ -33,7 +33,7 @@ Basit adam yaralama suçu, basit tıbbi müdahale (BTM) ile giderilebilecek yara
 
 * Basit tıbbi müdahale (BTM) ile giderilemeyecek basit adam yaralama suçu, mağdura karşı işlenen etkili eylemin sonuçlarının basit bir doktor müdahalesi ile giderilememesi, yani mağdurun tamamen iyileşememesi, yaralamanın sonuçlarının ortadan kalkması için belli bir sürecin gerekmesidir. BTM ile giderilemeyecek basit yaralama suçunun cezası 1 yıldan 3 yıla kadar hapis cezasıdır (TCK md. 86/1).
 
-### Basit Adam Yaralama Suçunda Cezayı Arttıran Nedenler
+### Basit Adam Yaralama Suçunda Cezayı Arttıran Nedenler - (2)
 
 **Kasten Adam Yaralama Suçunun Silahla İşlenmesi:** Suçun silahla işlenmesi halinde, “silahla adam yaralama suçu” meydana gelir. Bıçakla adam yaralama, silahla adam yaralama gibi deyimler bu tür adam yaralama suçu türü için kullanılır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türden ise silahla basit adam yaralama suçunun cezası, 6 aydan 1,5 yıla kadar hapis cezası veya ½ oranında arttırılmış adli para cezasıdır. Yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilemeyecek türden ise silahla basit adam yaralama suçunun cezası 1,5 yıldan 4,5 yıla kadar hapis cezasıdır (TCK md. 86/3-e).
 
