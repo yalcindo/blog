@@ -117,5 +117,9 @@ Kısaca ilk iki zümrede hiç mirasçı yoksa ve üçüncü zümrede de zümre b
 
 Miras hukukunda mal paylaşımı, oldukça karmaşık sorunların ortaya çıkmasına neden olmaktadır. Bu nedenle, mirasçılık ve mirasta mal paylaşımı sorunlarının bir [**Miras Avukatı**](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) tarafından ele alınması hukuki problemlerin etkili bir şekilde çözülmesine yardımcı olacaktır.
 
+______________________________________________________________________________________________________________________________________
+
+**Av. Sefa Bayram** / *Avukat Baran Doğan Hukuk Bürosu*
+
 
 
