@@ -39,7 +39,7 @@ Maddi-manevi tazminatın kaynağı bir sözleşme ise sözleşmenin avukat taraf
 
 ### Miras Avukatı
 
-Miras hukuku sorunları oldukça titiz bir hukuki çalışma yapılmasını gerektirmektedir. Özellikle, miras bırakan tarafından mirasta mal paylaşımı esaslarını devre dışı bırakmak için karmaşık bir çok mirastan mal kaçırma işlemleri yapıldığı görülmektedir. İşte miras avukatı yapılan tüm miras hukuku işlemlerini mercek altına alarak hak kayıplarının önüne geçmelidir.
+Miras hukuku sorunları oldukça titiz bir hukuki çalışma yapılmasını gerektirmektedir. Özellikle, miras bırakan tarafından [**mirasta mal paylaşımı**](https://barandogan.av.tr/blog/medeni-hukuk/mirasta-mal-paylasimi-ve-mirascilik-nedir.html) esaslarını devre dışı bırakmak için karmaşık bir çok [**mirastan mal kaçırma**](https://barandogan.av.tr/blog/medeni-hukuk/muvazaa-mirastan-mal-kacirma-davasi.html) işlemleri yapıldığı görülmektedir. İşte miras avukatı yapılan tüm miras hukuku işlemlerini mercek altına alarak hak kayıplarının önüne geçmelidir.
 
 Terekenin teşkili, terekeye dahil olan mal, hak ve alacakların belirlenmesi gibi işlemler de ciddi araştırma yapmayı gerektiren işlemlerdir. Miras avukatı, gerek terekenin teşkili ve yönetimi gerekse mirasın paylaştırılmasında etkin bir rol oynar. 
 
