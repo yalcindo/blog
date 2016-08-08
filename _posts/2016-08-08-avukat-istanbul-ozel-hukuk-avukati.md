@@ -37,6 +37,12 @@ Maddi-manevi tazminat davalarında tarafların geliri, malvarlıkları tazminat 
 
 Maddi-manevi tazminatın kaynağı bir sözleşme ise sözleşmenin avukat tarafından iyi bir şekilde incelenerek tazminatın nedeni ve miktarı tespit edilmelidir. Sözleşme hukukunda tazminat belirlenirken aslolan sözleşmedeki şartlardır, şartlar açık değilse sözleşmenin yorumlanması gerekir. Bu nedenle, avukat sözleşmeyi Yargıtay içtihatları ve kanunlar ışığında yorumlamalıdır.
 
+### Miras Avukatı
+
+Miras hukuku sorunları oldukça titiz bir hukuki çalışma yapılmasını gerektirmektedir. Özellikle, miras bırakan tarafından mirasta mal paylaşımı esaslarını devre dışı bırakmak için karmaşık bir çok mirastan mal kaçırma işlemleri yapıldığı görülmektedir. İşte miras avukatı yapılan tüm miras hukuku işlemlerini mercek altına alarak hak kayıplarının önüne geçmelidir.
+
+Terekenin teşkili, terekeye dahil olan mal, hak ve alacakların belirlenmesi gibi işlemler de ciddi araştırma yapmayı gerektiren işlemlerdir. Miras avukatı, gerek terekenin teşkili ve yönetimi gerekse mirasın paylaştırılmasında etkin bir rol oynar. 
+
 ### Aile Hukuku, Boşanma ve Avukat
 
 Aile hukuku, özel bir yargılama usulüyle aile mahkemeleri vasıtasıyla uygulanan bir medeni hukuk alanıdır. Boşanma, çocukların velayeti, maddi-manevi tazminat, mal paylaşımı konularında oldukça çekişmeli geçen ve bir avukatın hukuki yardımı olmadan yürütülmesi zor süreçler aile hukukunun özgül kurallarıyla çözüme kavuşur. Özellikle boşanma davalarına bakan avukatlara boşanma avukatı denilmesinin nedeni de bu sürecin kendine özgü bir hukuk alanında yürütülmesidir. 
