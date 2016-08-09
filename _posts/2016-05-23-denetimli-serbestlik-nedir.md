@@ -213,6 +213,12 @@ Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gere
 
 [**Adli sicil kaydının silinmesi,**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) cezanın infaz edilmesi ve belli koşulların gerçekleşmesi halinde mümkündür. Denetimli serbestlik yasası uygulaması da adli sicil kaydına kaydedilmektedir. Denetimli serbestlikten yararlanarak hükümlünün ne zaman tahliye edildiği, aynı şekilde ne zaman cezasının infaz edildiği adli sicil kaydında -sabıka kaydında- yer almaktadır. Denetimli serbestlik uygulanan hükümlü ile ilgili bilgiler Adli Sicil Kanunu'nda yer alan şartların gerçekleşmesi halinde adli sicil kaydından silinebilir.
 
+### Denetimli Serbestlik İle İlgili Güncel Sorunlar
+
+###  [![Denetimli Serbestlik](https://camo.githubusercontent.com/a14ccf506ea43c48970040cd1a75c5524df04c80/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6a4145453463504c4254552f6d7164656661756c742e6a7067)](https://www.youtube.com/watch?v=vQjI-mf4__I "TRT Radyosu Programı")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center> 
+
+
+
 
 
 ______________________________________________________________________________________________________________________________________
