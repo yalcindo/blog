@@ -160,7 +160,7 @@ Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli s
 ### Adli Para Cezası Nasıl Uygulanır?
 
 
-###  [![Adli Para Cezası](https://camo.githubusercontent.com/a14ccf506ea43c48970040cd1a75c5524df04c80/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6a4145453463504c4254552f6d7164656661756c742e6a7067)](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center> 
+###  [![Adli Para Cezası](https://camo.githubusercontent.com/a14ccf506ea43c48970040cd1a75c5524df04c80/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6a4145453463504c4254552f6d7164656661756c742e6a7067)](https://www.youtube.com/watch?v=IOJ8ltlrHm4 "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center> 
 
 
 
