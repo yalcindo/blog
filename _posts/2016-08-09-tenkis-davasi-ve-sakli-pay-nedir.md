@@ -20,9 +20,9 @@ Tenkis davası miras hukukuna ilişkin bir dava olup murisin (miras bırakanın)
 
 Saklı pay sahibi mirasçı, miras bırakanın yaptığı tasarruflara karşı miras payları belirli oranlarda korunan mirasçılardır. Yani, miras bırakanın hiçbir şekilde müdahale edemeyeceği, üzerinde tasarruf edemeyeceği şekilde bir miras hakkına sahip olan mirasçılara “saklı pay sahibi mirasçı” denilmektedir. Medeni Kanunda sınırlı olarak sayılan saklı paylı mirasçılar şunlardır:
 
-- Miras Bırakanın Altsoyu (Çocukları, evlatlıkları, torunları ve onların çocukları),
-- Miras Bırakanın Anne-Babası,
-- Miras bıraknın	Eşi.
+- Miras bırakanın altsoyu (Çocukları, evlatlıkları, torunları ve onların çocukları),
+- Miras bırakanın anne-babası,
+- Miras bırakanın	eşi.
 
 Daha önce saklı paylı mirasçı olarak sayılan miras bırakanın kardeşleri yapılan değişiklikle saklı paylı mirasçı olmaktan çıkarılmıştır. Ancak bu değişikliğin yapıldığı 10 Mayıs 2007 gününden önce gerçekleşen ölümlerde, bundan sonraki bir tarihte açılan tenkis davasında kardeşlerin de saklı payı göz önüne alınacaktır.
 
