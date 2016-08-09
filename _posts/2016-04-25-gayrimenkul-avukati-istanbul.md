@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 title: Gayrimenkul Avukatının İşlevi
