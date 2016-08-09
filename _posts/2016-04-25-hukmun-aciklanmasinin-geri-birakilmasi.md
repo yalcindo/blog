@@ -30,7 +30,9 @@ Hükmün açıklanmasının geri bırakılması için birtakım şartların bir 
 #### Hükmün Açıklanmasının Geri Bırakılması Kararı Verilemeyecek Suçlar
 
 
- 477 sayılı Disiplin Mahkemeleri Kanunu md. 63/2 gereği, bu kanun kapsamındaki disiplin suçlarının ceza miktarı ne olursa olsun hükmün açıklanmasının geri bırakılmasına karar verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır. 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlar bakımından da (6352 sayılı Kanun m.105/2/b maadesi ile yapılan değişiklik) HAGB hükümleri uygulanabilir.
+ 477 sayılı Disiplin Mahkemeleri Kanunu md. 63/2 gereği, bu kanun kapsamındaki disiplin suçlarının ceza miktarı ne olursa olsun hükmün açıklanmasının geri bırakılmasına karar verilemez. Ancak, bu suçlar 01.03.2008 tarihinden önce işlenmişse veya sanık 15 yaşından küçükse bu kanun hükümleri uygulanamayacaktır. 
+ 
+ 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlar bakımından da (6352 sayılı Kanun m.105/2-b maddesi ile yapılan değişiklik) HAGB hükümleri uygulanabilir.
 
 ####	Hapis Cezası Verilen Suçlarda HAGB kararı için Ceza Miktarı Şartı
 
@@ -145,6 +147,8 @@ Hükmün açıklanmasının geri bırakılması kararı, yargılanan kişiye ver
 Her iki kavramı karşılaştırmak için bir [**Ceza avukatı**](http://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile görüşünüz veya hapis cezasının ertelenmesi hakkında yazdığımız yazıyı inceleyiniz.
 
 
+
+
 ### Hükmün Açıklanmasının Geri Bırakılması Kararı Adli Sicil Kaydına İşler mi? (Sabıka Kaydına İşlenir mi?)
 
 Hükmün açıklanmasının geri bırakılması kararı, [**Adli Sicil Kaydı**](http://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html) (Sabıka Kaydı) kayıtlarında görünmez. HAGB kararları, adli sicil kaydında bu hükümlere özgü bir sisteme kaydedilir. Bu nedenle e-devlet üzerinden alınan sabıka kaydında veya adliyeden alınan adli sicil kaydında HAGB kararı gözükmez. Bu kayıtlar, hakim veya savcı tarafından bir soruşturma veya kovuşturma ile bağlantılı olarak CMK 231. maddede belirtilen yukarıda açıkladığımız hususların tespiti amacıyla kullanılabilir.
@@ -180,6 +184,7 @@ Hükmün açıklanmasının geri bırakılması kararı, [**Adli Sicil Kaydı**]
 
 
 
+
 ## Hükmün Açıklanmasının Geri Bırakılmasının Avantajları
 
 * **HAGB** kararıyla ortada bir mahkumiyet hükmü olmadığı için kişi masumiyet karinesinden yararlanmaya devam eder. Bu nedenle HAGB kararı, kişinin hayatına hiçbir şekilde olumsuz etkide bulunmaz.
@@ -190,6 +195,9 @@ Hükmün açıklanmasının geri bırakılması kararı, [**Adli Sicil Kaydı**]
 
 
 **Hükmün açıklanmasının geri bırakılması,** bir kereye mahsus olmak üzere yargılanan şahsın kişisel ve sosyal hayatını bozmadan sürdürebilmesi için imkan tanıyan önemli bir ceza usul kurumudur.
+
+###  [![Hükmün Açıklanmasının Geri Bırakılması](https://camo.githubusercontent.com/8c2231fc1810ea0db66a5c95556aed44f1a1bb5d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f41413345332e6a7067)](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center>
+
 
 
 
