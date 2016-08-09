@@ -76,15 +76,15 @@ Saklı paylı mirasçı fiil ehliyetine sahip değilse tenkis davasını kanuni 
 
 Yukarda belirttiğimiz üzere kural olarak sadece Saklı Paylı Mirasçılar tenkis davası açabilir. Ancak saklı paylı mirasçıların dışında bunların alacaklıları saklı paylı mirasçılar tenkis davası açmadığı zaman bu davayı açma hakkına sahiptir. Buradaki amaç alacaklıların alacağını alabilmesini sağlamaktır. Ancak bunlar ancak alacaklısı oldukları saklı paylı mirasçı hakkında ellerinde aciz vesikası varsa bu davayı açabilirler. Aciz vesikası mirasın açıldığı tarihte olmalıdır. Aciz vesikası miras açıldıktan sonra alınmışsa, borçlu aleyhine mahkeme kararı veya icra takibi daha önce gerçekleşmiş olsa bile tenkis davası açamazlar.
 
-   Eğer borçlu iflas etmiş ise bu durumda tenkis davasını iflas masası açma hakkına sahiptir. Alacaklılar ve iflas masası saklı paylı mirasçıya tenkis davası açması için süre verip ve bunun sonuç vermemesi üzerine tenkis davası açabilirler. Buradaki süre uygun bir süre olmalı ya da süre vermenin anlamsız olacağı kesin olarak belli ise alacaklı veya iflas masası doğrudan tenkis davası açabilirler.
-   
+ Eğer borçlu iflas etmiş ise bu durumda tenkis davasını iflas masası açma hakkına sahiptir. Alacaklılar ve iflas masası saklı paylı mirasçıya tenkis davası açması için süre verip ve bunun sonuç vermemesi üzerine tenkis davası açabilirler. Buradaki süre uygun bir süre olmalı ya da süre vermenin anlamsız olacağı kesin olarak belli ise alacaklı veya iflas masası doğrudan tenkis davası açabilirler.
+
 Alacaklılar açacakları tenkis davasında ancak kendi alacak miktarları kadar tenkis talebinde bulunabilirler. Yine saklı paylı mirasçının alacaklılarını zarara uğratmak amacı ile açtığı tenkis davasını sürüncemede bırakması ve takip etmemesi durumunda da alacaklılar bunu ispat ederek kendileri tenkis davası açabilirler. Aynı şekilde saklı paylı mirasçının miras bırakan tarafından mirasçılıktan çıkarılması halinde, alacaklıları alacak miktarı kadar saklı pay kısmı için çıkarmanın iptalini isteyebilirler.
 
 ### Tenkis Davası Kime Karşı Açılır
 
 Tenkis davasında davalılar; miras bırakanın tasarruf oranını aşarak saklı paylara tecavüz ederek ve kanunen tenkise tabi tutulan kazandırmaların  yapıldığı kişilerdir. Bunlar üçüncü kişiler veya mirasçılar olabilir. Kazandırma yapılan kişinin ölmüş olması durumunda mirasçıları davalı olacaktır. Kazandırma birden fazla ve farklı kişilere yapılmış ise birden fazla kişi davalı olacaktır. Mirasçı bunların tümünü dava etme hakkına sahip ise de buna mecbur değildir. Ancak bunun sonuçlarına katlanmak zorunda kalacaktır. Çünkü tenkiste sıra kuralları aleyhe sonuçlar doğurabilir.
 
-  Kural olarak tenkis davası kazandırma yapılan kişilere karşı açılabilir. Ancak Yargıtay istisna olarak kazandırma konusu malın üçüncü kişilere devredilmiş olması halinde bu kişilere karşı açılabileceğini kabul etmektedir. Burada miras bırakanın saklı pay kurallarını gidermek amacıyla yaptığı temliki tasarruftan sonra, bundan yararlanan kişinin miras bırakanın bilgi ve talimatı dışında sırf saklı pay sahibi mirasçıları bu haklardan yoksun bırakmak amacıyla durumu bilen üçüncü kişilere taşınmazları temlik etmesi halinde kötü niyetli bu kişilere karşı saklı pay sahibi bu mirasçılar tarafından tenkis davası açılabilir. Kısaca Yargıtay’ın bu konudaki (13.1.1975 tarih,1974/7 E, 1975/1 K sayılı) İBK’nın uygulanabilmesi için;
+ Kural olarak tenkis davası kazandırma yapılan kişilere karşı açılabilir. Ancak Yargıtay istisna olarak kazandırma konusu malın üçüncü kişilere devredilmiş olması halinde bu kişilere karşı açılabileceğini kabul etmektedir. Burada miras bırakanın saklı pay kurallarını gidermek amacıyla yaptığı temliki tasarruftan sonra, bundan yararlanan kişinin miras bırakanın bilgi ve talimatı dışında sırf saklı pay sahibi mirasçıları bu haklardan yoksun bırakmak amacıyla durumu bilen üçüncü kişilere taşınmazları temlik etmesi halinde kötü niyetli bu kişilere karşı saklı pay sahibi bu mirasçılar tarafından tenkis davası açılabilir. Kısaca Yargıtay’ın bu konudaki (13.1.1975 tarih,1974/7 E, 1975/1 K sayılı) İBK’nın uygulanabilmesi için;
   
 -	Tenkis yükümlüsünün bu malı tenkisten kaçırmak için üçüncü kişiye devretmesi
 - Üçüncü kişinin bu maksadı bilerek malı devralması gerekir. 
@@ -104,7 +104,7 @@ Yukarda anlatılan tenkisin dava yoluyla ileri sürülmesinden ayrı olarak tenk
 
 Tenkis def’i hakim tarafından göz önüne alınmayıp saklı paylı mirasçıya karşı açılan davada bu mirasçı tarafından açıkça ileri sürülmelidir. Şayet birden fazla saklı paylı mirasçıya karşı  dava açılmış ise bu def’i ancak ileri süren lehine etkili olur. Tenkis def’inin ileri sürülmesi herhangi bir süreye tabi değildir. Ancak bundan açık veya örtülü feragat mümkündür.
 
- ### Tenkis Nasıl Yapılır? Tenkis Usulü Nedir?
+### Tenkis Nasıl Yapılır? Tenkis Usulü Nedir?
  
 Tenkis davası açıldıktan sonra tenkisin nasıl yapılacağı kanunda belirlenmiştir. Buna göre tenkis, saklı pay tamamlanıncaya kadar; önce ölüme bağlı tasarruflardan, bu yetmezse en yeni tarihliden en eskisine doğru geriye gidilmek üzere sağlar arası kazandırmalardan yapılır. Ancak burada bazı kazandırmaların tenkisinin en son yapılacağı belirlenmiştir. Tüzel kişiler ile kamuya yararlı dernek ve vakıflara yapılan ölüme bağlı tasarruflar ile sağlar arası kazandırmalar en son sırada tenkis edilir.
 
