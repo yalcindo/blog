@@ -157,10 +157,13 @@ Mahkemenin hükmettiği adli para cezası, yukarıda açıkladığımız şekild
 
 Adli para cezası da aynen hapis cezası gibi adli sicil kaydına işler. Adli sicil kaydı, yani sabıka kaydı aldığınızda işlediğiniz suçun karşılığında aldığınız adli para cezası gözükecektir. Adli para cezasını taksitle öderseniz son taksidin ödendiği gün, tamamını tek seferde öderseniz adli para cezasını tamamen ödediğiniz gün cezanız infaz edilmiş sayılır ve hakkınızdaki adli sicil kaydı silinerek bilgiler arşiv kaydına alınır. Adli para cezasına ilişkin [**Adli Sicil Kaydının Silinmesi**](https://barandogan.av.tr/blog/ceza-hukuku/adli-sicil-kaydinin-silinmesi-dilekce-ornegi.html), Adli Sicil ve İstatistik Genel Müdürlüğü tarafından kendiliğinden yapılır. Kendiliğinden silinmeyen kayıtlar için dilekçeyle kaydın silinmesi talep edilmelidir. 
 
-### Adli Para Cezası Sorgulama
+### Adli Para Cezası Nasıl Uygulanır?
 
 
-Hakkınızda kesinleşmiş bir mahkeme kararıyla adli para cezasına hükmedilmişse, adli para cezası sorgulama yoluyla sicilinizle ilgili bilgi almanız mümkün. **Adli para cezası sorgulama** internetten yalnızca şu resmi web sitesinden sorgulanabilir: [**Adli Para Cezası Sorgulama**](https://www.turkiye.gov.tr/sorgula)
+###  [![Adli Para Cezası](https://camo.githubusercontent.com/a14ccf506ea43c48970040cd1a75c5524df04c80/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6a4145453463504c4254552f6d7164656661756c742e6a7067)](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center> <center>Adli Para Cezası Nasıl Uygulanır?</center>
+
+
+
 
 
 
