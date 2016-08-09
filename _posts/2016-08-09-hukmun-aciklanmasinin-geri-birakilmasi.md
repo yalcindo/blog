@@ -196,7 +196,7 @@ Hükmün açıklanmasının geri bırakılması kararı, [**Adli Sicil Kaydı**]
 
 **Hükmün açıklanmasının geri bırakılması,** bir kereye mahsus olmak üzere yargılanan şahsın kişisel ve sosyal hayatını bozmadan sürdürebilmesi için imkan tanıyan önemli bir ceza usul kurumudur.
 
-###  [![Hükmün Açıklanmasının Geri Bırakılması](https://camo.githubusercontent.com/8c2231fc1810ea0db66a5c95556aed44f1a1bb5d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f41413345332e6a7067)](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı Semineri")<center>Videoyu İzlemek İçin Resmi Tıklayınız</center>
+###  [![Hükmün Açıklanmasının Geri Bırakılması](https://camo.githubusercontent.com/8c2231fc1810ea0db66a5c95556aed44f1a1bb5d/687474703a2f2f692e68697a6c69726573696d2e636f6d2f4f41413345332e6a7067)](https://www.youtube.com/watch?v=2ThrVIYSpvM "Ceza Avukatı Semineri")<center>HAGB Nasıl Uygulanır? Videoyu İzlemek İçin Resmi Tıklayınız</center>
 
 
 
