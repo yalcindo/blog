@@ -17,7 +17,7 @@ Mirasta mal paylaşımı sırasında  tereke üzerinde miras hakkına sahip  “
 -	Yasal mirasçılık,  miras bırakanın iradesine bağlı olmayan ve miras bırakanın ölümü üzerine doğrudan kanundan kaynaklanan bir miras hukuku statüsüdür.  Kanuni mirasçılık Medeni Kanun’un 495-501 maddeleri arasında düzenlenmiştir. Buna göre yasal mirasçılar, miras bırakanın kan hısımları, evlatlık ve altsoyu ile sağ kalan eştir ( MK m. 495-501).
 -	Atanmış mirasçı, miras bırakanın kendi özgür iradesiyle mirasının bir kısmını veya tamamını belirli bir kişiye bırakmasıyla mirasçı olan kişidir.
 
-Miras hakkı, özellikle son yıllarda çok sayıda karşılaşılan [**mirastan mal kaçırma**](https://barandogan.av.tr/blog/medeni-hukuk/muvazaa-mirastan-mal-kacirma-davasi.html) davaları nedeniyle ihlal edilmektedir. 
+Murisin ölümü halinde mal paylaşımı, özellikle son yıllarda çok sayıda karşılaşılan [**mirastan mal kaçırma**](https://barandogan.av.tr/blog/medeni-hukuk/muvazaa-mirastan-mal-kacirma-davasi.html) davaları nedeniyle karmaşık hukuki sorunların ortaya çıkmasına neden olmaktadır. 
 
 ## Mirasta Mal Paylaşımı ve Derece (Zümre) Sistemi 
 
