@@ -7,6 +7,8 @@ keywords: TCK 302. madde, devletin güvenliğine karşı suçlar, devletin birli
 summary: TCK 302. maddede “Devletin Güvenliğine Karşı Suçlar” bölümünde “Devletin Birliğini ve Ülke Bütünlüğünü Bozmak” başlığıyla düzenlenen suç tipi incelenmiştir.
 ---
 
+Devletin Güvenliğine Karşı Suçlar,  [**Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar**](https://barandogan.av.tr/blog/ceza-hukuku/darbeye-tesebbus-sucu-tck.html) ile karıştırılmamalıdır. 
+
 ## TCK 302. Madde Uygulama Koşulları
 
 
