@@ -9,16 +9,16 @@ summary: İstinaf Dilekçesi Örneği, İstinaf Dilekçesi Nasıl Yazılır, İs
 
 [**Hukukta İstinaf Başvurusu**](https://barandogan.av.tr/blog/medeni-hukuk/istinaf-ve-temyiz-nedir-hmk.html) nasıl yapılır sorusu sık sık sorulmaktadır. İstinaf başvurusu istinaf mahkemesine (bölge adliye mahkemesi) gönderilmek üzere dava dosyasını ele alan yerel mahkemeye verilecek bir istinaf dilekçesi ile yapılabilir. Tapu iptal ve tescil davasına ilişkin hazırladığımız bir istinaf dilekçesi örneği aşağıda düzenlenmiştir.
 
-İstinaf dilekçesi, kararı veren mahkemeye verildiğinde hukuk davası dosyası yerel mahkeme tarafından bölge adliye mahkemesine gönderilir.
+**İstinaf dilekçesi**, kararı veren mahkemeye verildiğinde hukuk davası dosyası yerel mahkeme tarafından bölge adliye mahkemesine gönderilir.
 
 ______________________________________________________________________________________________________________________________________
 
 
 İSTİNAF MAHKEMESİ (   ) HUKUK DAİRESİ'NE              
 Gönderilmek Üzere             
-İSTANBUL ANADOLU 11. ASLİYE HUKUK MAHKEMESİ'NE
+İSTANBUL ANADOLU 11. ASLİYE HUKUK MAHKEMESİ'NE					
 
-	              DURUŞMA İSTEMLİDİR 
+DURUŞMA İSTEMLİDİR 
 
 DOSYA NO		:  2016/423 esas
 
