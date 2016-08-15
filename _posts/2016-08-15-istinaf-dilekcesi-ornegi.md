@@ -22,9 +22,9 @@ DURUŞMA İSTEMLİDİR
 
 DOSYA NO		:  2016/423 esas
 
-İSTİNAF TELEBİNDE BULUNAN       
-DAVALI		: D.M.
-VEKİLİ		:Avukat Baran Doğan     
+İSTİNAF TELEBİNDE BULUNAN          
+DAVALI		: D.M.          
+VEKİLİ		:Avukat Baran Doğan        
 M.Fevzi Çakmak cd.1.Sk.No:9/6 Şirinevler/B.evler/İstanbul
 
 
