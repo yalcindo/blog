@@ -24,7 +24,7 @@ summary: İstinaf Nedir? İstinaf Mahkemesine Başvuru Süresi, Hukukta İstinaf
 
 Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir istinaf başvurusu yapılmış olması gerekir. İlk derece mahkemesi bir hükmü kendiliğinden istinaf incelemesi için istinaf mahkemesine göndermez.
 
-**İstinaf başvurusu,** bir  dilekçeyle kararı veren yerel mahkemeye yapılabilir. Ayrıca, kararı veren mahkemenin katibine beyanda bulunularak da istinaf başvurusu yapılabilir. Kararı veren ilk derece mahkemesinin katibine beyanda bulunulduğunda, katip istinaf başvurusu talebini bir tutanağa bağlar ve tutanak hakim tarafından onaylanarak istinaf başvurusu alınmış olur. 
+**İstinaf başvurusu,**  kararı veren yerel mahkemeye bir  [**istinaf dilekçesi**](https://barandogan.av.tr/blog/medeni-hukuk/istinaf-dilekcesi-ornegi.html) verilerek yapılabilir. Ayrıca, kararı veren mahkemenin katibine beyanda bulunularak da istinaf başvurusu yapılabilir. Kararı veren ilk derece mahkemesinin katibine beyanda bulunulduğunda, katip istinaf başvurusu talebini bir tutanağa bağlar ve tutanak hakim tarafından onaylanarak istinaf başvurusu alınmış olur. 
 
 ## Bölge Adliye Mahkemesi İstinaf Başvuru Süresi
 
