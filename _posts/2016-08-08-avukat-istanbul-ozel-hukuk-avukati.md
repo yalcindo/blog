@@ -1,19 +1,26 @@
 ---
 layout: blog
-title: Özel Hukuk İlişkilerinde Avukat
+title: Özel Hukuk Avukatı
 category: medeni-hukuk
 googleAnahtar: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, miras avukatı, hukuk bürosu
 summary: Avukat ve Avukatın Özel Hukukta Savunma İşlevi, Ceza Avukatı, Tazminat Avukatı, Gayrimenkul Avukatı, Miras Avukatı, Boşanma Avukatı olarak nitelenen avukatların kendine özgü özellikler arzeden savunma faaliyeti anlatılmıştır. 
 keywords: Avukat, ceza avukatı, boşanma avukatı, gayrimenkul avukatı, tazminat avukatı, ağır ceza avukatı, bakırköy avukat, istanbul avukat, ataköy avukat, Boşanmada Mal Paylaşımı, hukuk bürosu
 ---
 
-## Avukat ve Avukatın  Özel Hukuktaki İşlevi
+## Avukatın Özel Hukuktaki İşlevi 
 
-**Avukat,** ister ceza avukatı olsun isterse özel hukuk alanında çalışan bir avukat olsun temelde işlevi savunma yapmaktır. Savunma mesleği çeşitli biçimlerde bireylerin hak arama özgürlüğünü teminat altına alır. Örneğin, bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) nasıl hem mağdurun hem de sanığın haklarını savunuyorsa, bir tazminat avukatı da borçlunun veya alacaklının haklarını savunur. 
+Avukatlık mesleği, idari veya adli başvuru yollarıyla kişilerin hak arama özgürlüğünün güvencedir.
+**Avukat,** ister ceza avukatı olarak çalısın  isterse özel hukuk alanında çalışsın temelde işlevi savunma yapmaktır. Savunma mesleği birbirinden farklı meslek pratikleriyle bireylerin hak arama özgürlüğünü teminat altına alır. Örneğin, bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) nasıl hem mağdurun hem de sanığın haklarını savunuyorsa, bir tazminat avukatı da borçlunun veya alacaklının haklarını savunur. 
 
-Özel hukuk içindeki her alanın kendine özgü bir mesleki pratiği vardır.  Örneğin, boşanma avukatı olarak çalışan avukatlar, aile hukukunun kendine özgü süreçlere sahip olduğunu tarafların birbirini yıpratan bu süreç içerisinde zaman zaman kavga ettiğini, tedbir niteliğinde bazı önlemler alınarak bu sürecin kolaylaştırılması gerektiğini bilirler. Gayrimenkul avukatı olarak bilinen avukatlar, gayrimenkule ilişkin davaların birçok faktör nedeniyle uzun süreceğini dava sürecinde çıkan problemlerin aşama aşama çözülerek sonuca gidilmesi gerektiğini bilirler. 
+Özel hukuk içindeki her alanın da ayrıca kendi içinde kendine özgü bir mesleki pratiği vardır.  Örneğin, boşanma avukatı olarak çalışan avukatlar, aile hukukunun kendine özgü süreçlere sahip olduğunu tarafların birbirini yıpratan bu süreç içerisinde zaman zaman kavga ettiğini, tedbir niteliğinde bazı önlemler alınarak bu sürecin kolaylaştırılması gerektiğini bilirler. Gayrimenkul avukatı olarak bilinen avukatlar, gayrimenkule ilişkin davaların birçok faktör nedeniyle uzun süreceğini dava sürecinde çıkan problemlerin aşama aşama çözülerek sonuca gidilmesi gerektiğini bilirler. 
 
 ### ![Avukat](https://camo.githubusercontent.com/c5b82190d9ea5fb035dd671ad88b1674b2591008/687474703a2f2f692e68697a6c69726573696d2e636f6d2f764c6b6d31342e6a7067 "avukat")
+
+## Avukatlar ve Uzmanlaşma
+
+Hukuk sistemi, oldukça geniş bir mesleki faaliyet alanında çalışma zorunluluğunu doğurmaktadır. Uzmanlaşma, mesleki faaliyetin daha etkin bir biçimde yapılması için gereklidir. 
+
+Türkiye'de avukatların branşlaşması veya uzmanlaşması noktasında hiçbir yasal altyapı yoktur. Ancak, meslek pratiği içerisinde uzmanlaşma  meydana gelmektedir. 
 
 
 ### Sözleşme Hukuku ve Avukat
