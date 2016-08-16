@@ -90,7 +90,7 @@ Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki in
 
 #### İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
 	
-[İstinaf Kanun Yolu](http://www.hukukiyardim.gov.tr/sayfalar/istinaf.pdf), daha önce açılmış davanın sınırları çerçevesinde, üst derece mahkemesinde yeni bir yargılama yapılması imkanı verir. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
+İstinaf kanun yolu, daha önce açılmış davanın sınırları çerçevesinde, üst derece mahkemesinde yeni bir yargılama yapılması imkanı verir. Taraflar, ilk derece mahkemesi aşamasında  iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
 
 ### İstinaf Mahkemesinin İstinaf İncelemesi Neticesinde Verilebilecek Kararlar
 
