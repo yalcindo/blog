@@ -213,7 +213,7 @@ Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen bölge adliy
 
 
 
-**İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. Uzmanlık gerektiren bu hukuk süreç ["özel hukuk avukatı"](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) olarak çalışan bir hukuk bürosu ile yürütüldüğü takdirde hak kayıpları önlenmiş olur.
+**İstinaf ve temyiz kanun yolları,** olağan kanun yollarıdır. Hukuk muhakemeleri usulünde olağanüstü bir kanun yolu olan karar düzeltme, istinaf ve temyiz kanun yollarının birlikte yürürlüğe girmesiyle ortadan kalkmıştır. Uzmanlık gerektiren bu hukuk süreç bir  [**avukat**](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html) ile birlikte yürütüldüğü takdirde hak kayıpları önlenmiş olur.
 
 İstinaf mahkemeleri, ["Bölge Adliye Mahkemesi Kuruluş Kanunu"](http://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf) ile kurulmuştur.
 
