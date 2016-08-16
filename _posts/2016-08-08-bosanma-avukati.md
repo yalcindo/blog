@@ -3,7 +3,7 @@ layout: blog
 title: Boşanma Avukatı ve İşlevi
 category: medeni-hukuk
 googleAnahtar: Boşanma avukatı, avukat, boşanma davası, boşanma sebebi, boşanma sebepleri, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
-summary: Boşanma avukatı nedir? Boşanma avukatının işlevi nedir? Boşanma Davası Nasıl Açılır? Boşanma Davası Süreci, Mahkemenin Boşanma Davasında Verdiği Kararın Temyizi gibi konu başlıkları anlatılmıştır.
+summary: Boşanma avukatı nedir? Boşanma avukatının işlevi nedir? Boşanma Davası Nasıl Açılır? Boşanma Davası Açma Sebepleri, Mahkemenin Boşanma Davasında Verdiği Kararın Temyizi gibi konu başlıkları anlatılmıştır.
 keywords: Avukat, boşanma avukatı, boşanma davası, boşanma sebepleri, boşanma sebebi, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
@@ -13,7 +13,7 @@ keywords: Avukat, boşanma avukatı, boşanma davası, boşanma sebepleri, boşa
 
 **Boşanma avukatı**, halk arasında boşanma davalarına giren avukatlara verilen isimdir. Boşanma süreci, evli çiftler için zorlu ve yıpratıcı bir süreçtir. Bu süreçte profesyonel hukuki yardım almak bu zorlu sürecin üstesinden gelmeye yardımcı olacaktır. Esasen Türkiye'nin hukuk sisteminde bu adlandırma ile  ayrı bir mesleki alan yoktur. Halk arasında boşanma davalarında davacı veya davalının vekillerine, boşanma avukatı denildiğinden biz de bu kavramı kullanmayı tercih edeceğiz.
 
-Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin evlilik içinde yaşadığı olayların bir gözlemci gibi  avukat tarafından dinlenmesi gerekir. Avukat, dinlediği olaylardan boşanmaya sebep teşkil edecek olguları seçerek dava hazırlığı yapar. Çünkü, hukuk sistemimize göre her boşanmanın mutlaka bir sebebi olmak zorundadır. Sebepsiz açılan her boşanma davası reddedilir.
+Her davanın çok önemli bir hazırlık süreci vardır. Boşanacak kişilerin evlilik içinde yaşadığı olayların bir gözlemci gibi  avukat tarafından dinlenmesi gerekir. [**Avukat**](https://barandogan.av.tr/blog/medeni-hukuk/avukat-istanbul-ozel-hukuk-avukati.html), dinlediği olaylardan boşanmaya sebep teşkil edecek olguları seçerek dava hazırlığı yapar. Çünkü, hukuk sistemimize göre her boşanmanın mutlaka bir sebebi olmak zorundadır. Sebepsiz açılan her boşanma davası reddedilir.
 
 [![Avukat](http://i.hizliresim.com/XoV6m0.jpg)](https://hizliresim.com/XoV6m0)
 
