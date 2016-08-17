@@ -51,7 +51,8 @@ Aşağıdaki suçları işleyenler 671 sayılı KHK hükümlerinden yararlanamay
 - Anayasal düzene karşı suçlar,
 - Milli savunmaya karşı suçlar,
 - Devlet sırlarına karşı suçlar,
-- TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar.
+- TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar,
+- Taahhüdü ihlal suçu işleyenler.
 
 ### 01.07.2016 Tarihinden Sonra İşlenen Suçlarda Denetimli Serbestlik Kaç Yıl 
 
