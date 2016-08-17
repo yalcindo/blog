@@ -72,7 +72,7 @@ Denetimli serbestlik yasası, 671 sayılı KHK(Kanun Hükmünde Kararname) ile y
 ### Denetimli Serbestlik Şartları
 
 
-Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın mikatarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza kararı sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
+Denetimli serbestlik yasası, cezaevinde bulunan her hükümlünün doğrudan yararlanabileceği bir yasa değildir. Denetimli serbestlik uygulama koşulları suçun niteliğine (açık cezaevine geçiş açısından), cezanın miktarına ve hükümlünün kişiliğine göre farklılık gösterir. Hükümlünün mahkum olduğu ceza kararı sayısının birden fazla olması nedeniyle karmaşık bir infaz uygulaması meydana gelebilir. Bu durumda, hükümlünün hukuki statüsünün mutlaka bir [**Ceza avukatı**](https://barandogan.av.tr/blog/ceza-hukuku/ceza-avukatinin-islevi.html) ile mütalaa edilmesi gerekir.
 
 Hükümlünün denetimli serbestlik uygulamasından yararlanabilmesi için bazı şartları yerine getirmesi gerekir. Bu şartlar;
 
@@ -197,7 +197,7 @@ Tekerrür hükümleri açısından özellikle vurgulamak gerekir ki; ilk kez tek
 
 ### Koşullu Salıverilme Şartları ve Denetimli Serbestlik Yasası
 
-Koşullu salıverilme (şartlı tahliye), cezasının bir kısmı cezaevinde infaz edilen "iyi halli" hükümlünün, cezasının kalan kısmını dışarda toplum içinde belli şartlara uyarak geçirmesini sağlayan bir cezanın infazı kurumudur. Koşullu salıverilme süresi denetimli serbestlik tedbirinin uygulanacağı tarihin tespiti açısından önemlidir. Yukarıda açıkladığımız üzere,  koşullu salıverilme tarihine 1 yıl kalan iyi halli hükümlü denetimli serbestlik yasasından yararlanabilir. [5275 Sayılı Ceza İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)'nun 107. maddesine göre koşullu salıverme şartları şu şekildedir:
+Koşullu salıverilme (şartlı tahliye), cezasının bir kısmı cezaevinde infaz edilen "iyi halli" hükümlünün, cezasının kalan kısmını dışarda toplum içinde belli şartlara uyarak geçirmesini sağlayan bir cezanın infazı kurumudur. Koşullu salıverilme süresi denetimli serbestlik tedbirinin uygulanacağı tarihin tespiti açısından önemlidir. Yukarıda açıkladığımız üzere,  01.07.2016 tarihinden önce işlenen suçlarda koşullu salıverilme tarihine 2 yıl,   01.07.2016 tarihinden sonra işlenen suçlarda koşullu salıverilme tarihine 2 yıl kalan iyi halli hükümlü denetimli serbestlik yasasından yararlanabilir. [5275 Sayılı Ceza İnfaz Kanunu](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=1.5.5275&MevzuatIliski=0&sourceXmlSearch=ceza%20ve%20g%C3%BCvenlik)'nun 107. maddesine göre koşullu salıverme şartları şu şekildedir:
 
 * Ağırlaştırılmış müebbet hapis cezası alan iyi halli hükümlüler, 30 yıl fiilen cezaevinde kaldıktan sonra koşullu salıverilme hükümlerinden yararlanabilirler.
 * Müebbet hapis cezası alan iyi halli hükümlüler, 24 yıl fiilen cezaevinde kaldıktan sonra şartlı salıverme hükümlerinden yararlanabilirler.
