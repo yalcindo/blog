@@ -43,7 +43,7 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 Aşağıdaki suçları işleyenler 671 sayılı KHK hükümlerinden yararlanamayacaktır:
 
 - Kasten öldürme (madde 81,82),
-- Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama veya neticesi sebebiyle ağırlaşmış yaralama suçları,
+- Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama ve neticesi sebebiyle ağırlaşmış yaralama suçları,
 - Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
 - Özel hayata ve hayatın gizli alanına karşı suçlar (madde 132,133,134,135,136,137,138),
 - Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
