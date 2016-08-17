@@ -3,7 +3,7 @@ layout: blog
 title: Yeni Denetimli Serbestlik Yasası ve Uygulama
 category: ceza-hukuku
 googleAnahtar: Denetimli serbestlik nedir, yeni denetimli serbestlik yasası 2 yıl, denetimli serbestlik kaç yıl, İstanbul ceza avukatı, denetimli serbestlik ihlali, avukat, hukuk bürosu
-summary: Denetimli Serbestlik Nedir? Yeni Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestlik Süresi İki Yıl Olur mu? Koşullu Salıverilme ve Denetimli Serbestlik 
+summary: Denetimli Serbestlik Nedir? Yeni Denetimli Serbestlik Yasası, Denetimli Serbestlik Şartları, Denetimli Serbestlik Kaç Yıl, Denetimli Serbestlik Süresi İki Yıl Olur mu? Koşullu Salıverilme ve Denetimli Serbestlik, 671 sayılı KHK
 keywords: Denetimli serbestlik nedir, denetimli serbestlik yasası, denetimli serbestlik kaç yıl, Ceza avukatı, ağır ceza avukatı, denetimli serbestlik imza ihlali, denetimli serbestlik tedbirine uymama, ataköy avukat, bakırköy avukat, istanbul avukat, hukuk bürosu
 ---
 
@@ -22,12 +22,41 @@ Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnf
 
 ### ![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
-### Denetimli Serbestlik Kaç Yıl 
+
+### 01.07.2016 Tarihinden Önce İşlenen Suçlarda Denetimli Serbestlik ve Koşullu Salıverilme - İnfaz
+
+671 sayılı KHK (Kanun Hükmünde Kararname) ile 01.07.2016 tarihinden önce işlenen suçlar açısından ayrı bir denetimli serbestlik uygulaması ve infaz sisteminin uygulanması kanunlaştırılmıştır. Buna göre 671 sayılı KHK ile 01.07.2016 tarihinden önce işlenen suçlar bakımından şu düzenlemeler getirilmiştir:
+
+- Denetimli serbestlik süresi 2 yıl olarak uygulanacaktır (671 sayılı KHK md.32/a).
+- Süreli hapis cezalarına mahkum edilmiş olanlar cezalarının 1/2'sini infaz kurumunda çektikleri takdirde koşullu salıverilme hükümlerinden yararlanacaktır (671 sayılı KHK md.32/b).
+
+Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar açısından uygulanacaktır. 01.07.2016 tarihinden sonra işlenen suçlarda yukarıda açıkladığımız KHK düzenlemesi değil, 5275 sayılı 105/A maddesinde yer alan eski infaz düzenlemesi geçerli olacaktır. Hemen belirtmek gerekir ki, suçun 01.07.2016 tarihinden önce işlenmiş olması yeterlidir, mahkumiyet daha sonraki bir tarihte gerçekleşse bile, hükümlü KHK'de düzenlenen denetimli serbestlik ve koşullu salıverilme hükümlerinden yararlanabilecektir.
+
+**671 sayılı KHK uygulamasına örnekler vermek gerekirse;**
+
+- 4 yıl veya altı hapis cezasına mahkum olanlar cezaevinde 2-3 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir.
+- 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
+- 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
+
+Aşağıdaki suçları işleyenler 671 sayılı KHK hükümlerinden yararlanamayacaktır:
+
+- Kasten öldürme (madde 81,82),
+- Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama veya neticesi sebebiyle ağırlaşmış yaralama suçları,
+- Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
+- Özel hayata ve hayatın gizli alanına karşı suçlar (madde 132,133,134,135,136,137,138),
+- Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
+- Devletin güvenliğine karşı suçlar (örgüt üyeliği suçu dahil),
+- Anayasal düzene karşı suçlar,
+- Milli savunmaya karşı suçlar,
+- Devlet sırlarına karşı suçlar,
+- TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar.
+
+### 01.07.2016 Tarihinden Sonra İşlenen Suçlarda Denetimli Serbestlik Kaç Yıl 
 
 
-Denetimli serbestlik yasası, cezaevine giren hükümlülerin yararlanabileceği bir infaz sistemi düzenlemiştir. Hükümlü olan kişi henüz cezaevine girmemişse, ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir. Cezası ne olursa olsun her hükümlü, "iyi halli" olup olmadığının tespiti amacıyla cezaevine girmek zorundadır. Hükümlü, cezaevine girdikten sonra cezaevi idaresi tarafından hükümlünün "iyi halli" olduğuna dair bir değerlendirme raporu hazırlanır ve hükümlü denetimli serbestlik tedbiri uygulanarak tahliye edilir. 
+Denetimli serbestlik yasası, 671 sayılı KHK(Kanun Hükmünde Kararname) ile yeniden düzenlenmiştir. Hükümlü olan kişi henüz cezaevine girmemişse, ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir. Cezası ne olursa olsun her hükümlü, "iyi halli" olup olmadığının tespiti amacıyla cezaevine girmek zorundadır. Hükümlü, cezaevine girdikten sonra cezaevi idaresi tarafından hükümlünün "iyi halli" olduğuna dair bir değerlendirme raporu hazırlanır ve hükümlü denetimli serbestlik tedbiri uygulanarak tahliye edilir. 
 
-* Yasaya göre, cezaevinde olup koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
+* Yasaya göre, 01.07.2016 tarihinden sonra işlenen suçlarda koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
 
 * Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza miktarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan mahkumlar 2-3 gün gibi kısa bir süre cezaevinde kalarak "iyi halli" hükümlü oldukları tespit edildikten sonra tahliye edilirler. Ancak, 18 ay hapis cezası alan hükümlüler 31.12.2020 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
