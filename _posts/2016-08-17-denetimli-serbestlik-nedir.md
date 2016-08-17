@@ -38,6 +38,8 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 - 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
 - 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
 
+- **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanır. Toplam cezanın 1/2'si bulunur, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri uygulaması düşüldüğünde, kalan süre mahkumun tahliye olabilmesi için cezaevinde kalması gereken süresidir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıldan 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
+
 Aşağıdaki suçları işleyenler 671 sayılı KHK hükümlerinden yararlanamayacaktır:
 
 - Kasten öldürme (madde 81,82),
