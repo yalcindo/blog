@@ -153,9 +153,7 @@ Denetimli Serbestlik hükümlerinin nasıl uygulanacağı  [**Denetimli Serbestl
 
 ### ![Denetimli Serbestlik](https://camo.githubusercontent.com/55fec71127dfd60059e55a93e79e1fa205607967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f36717a6b6d6b2e6a7067 "Denetimli Serbestlik")
 
-### Denetimli Serbestlik Süresi 2 yıl veya 3 yıla Uzar mı ?
 
-**Denetimli serbestlik süresi,** ancak kanunla düzenlenebilir. Denetimli serbestlik süresinin 2 yıl, hatta 3 yıl olması gerektiği yönünde tartışmalar yürütülmektedir. Denetimli serbestlik süresinin daha uzun bir zaman dilimine yayılması yönünde beklenti ve talepler oldukça artmış durumda. Cezaevlerinin doluluk oranının yüksek olması nedeniyle, denetimli serbestlik süresinin 2 yıla çıkartılması talepleri, hükümet ve yasama organı tarafından da tartışılmasına rağmen henüz somut bir adım atılmış değil. 
 
 ### Denetimli Serbestlik ve 01.01.2020 Tarihi İtibariyle 6 Ay Açık Cezaevi Şartı
 
