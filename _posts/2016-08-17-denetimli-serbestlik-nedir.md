@@ -23,7 +23,7 @@ Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnf
 ### ![Denetimli Serbestlik Nedir](https://camo.githubusercontent.com/2482b72f0cf1ea420bffe4aae3856c9fe02ef967/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6432515244442e6a7067 "Denetimli Serbestlik")
 
 
-### 01.07.2016 Tarihinden Önce İşlenen Suçlarda Denetimli Serbestlik ve Koşullu Salıverilme - İnfaz
+### 01.07.2016 Tarihinden Önce İşlenen Suçlarda Denetimli Serbestlik, Koşullu Salıverilme ve İnfaz
 
 671 sayılı KHK (Kanun Hükmünde Kararname) ile 01.07.2016 tarihinden önce işlenen suçlar açısından ayrı bir denetimli serbestlik uygulaması ve infaz sisteminin uygulanması kanunlaştırılmıştır. Buna göre 671 sayılı KHK ile 01.07.2016 tarihinden önce işlenen suçlar bakımından şu düzenlemeler getirilmiştir:
 
