@@ -178,7 +178,7 @@ Bazı hükümlüler de denetimli serbestlik yasası uygulamasından geçici olar
 
 
 
-Denetimli serbestlik, halihazırda tüm suç tiplerine uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik tedbiri uygulanan suçlara bazı örnekler aşağıdadır:
+Denetimli serbestlik, halihazırda tüm suç tiplerine 1 yıl olarak uygulanan bir koşullu salıverilme biçimidir. Denetimli serbestlik tedbiri suçlara bazı örnekler aşağıdadır:
 
 * **Malvarlığına Karşı Suçlar:** [Dolandırıcılık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/nitelikli-dolandiricilik-sucu-cezasi.html), [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), Suç Eşyasının Satın Alınması veya Kabul Edilmesi Suçu, [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Mala Zarar Verme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/mala-zarar-verme-sucunun-cezasi.html), [Güveni Kötüye Kullanma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hizmet-nedeniyle-guveni-kotuye-kullanma-sucu-cezasi.html), Bedelsiz Senedi Kullanma Suçu.
 * **Hayata Karşı Suçlar:** [Kasten Adam Öldürme Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) [Kasten Adam Yaralama Suçu,](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) [Taksirle Adam Öldürme Suçu](https://barandogan.av.tr/blog/ceza-hukuku/taksirle-adam-oldurme-olume-neden-olma-sucu.html), Taksirle Adam Yaralama Suçu.
