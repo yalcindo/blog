@@ -43,7 +43,7 @@ Doğrudan açık cezaevine geçiş hakkından kasıt, mahkumun kapalı cezaevine
 
 
 
-Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından 22.08.2016 tarihli yönetmelik değişikliğiyle aşağıdaki istisnaları mevcuttur:
+Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından 18.08.2016 tarihli yönetmelik değişikliğiyle aşağıdaki istisnaları mevcuttur:
 
 * Müebbet hapis cezasına mahkum olan hükümlü, koşullu salıverilmesine 5 yıl veya daha az bir zaman kaldığında açık cezaevine ayrılma hakkına sahiptir. Örneğin, adam öldürme suçundan müebbet hapis cezası almış kişi koşullu salıverilmesine 5 yıl kala açık cezaevine ayrılma hakkı kazanır.
 
