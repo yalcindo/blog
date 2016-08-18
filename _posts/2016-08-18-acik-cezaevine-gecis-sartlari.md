@@ -55,7 +55,7 @@ Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir ce
 
 * Yürürlükten kaldırılan 4422 Sayılı Çıkar Amaçlı Suç Örgütleri ile Mücadele Kanunu'nun 14. maddesi gereği etkin pişmanlık hükümlerinden yararlanan hükümlüler, koşullu salıverilmelerine 2 yıldan daha az süre kalması halinde açık cezaevine ayrılma hakkını kazanır.
 
-* Birden fazla cezası infaz edilen hükümlü hakkında cezaların toplanması kararı alındığında, açık kuruma ayrılmada esas alınacak suç, koşullu salıverilme tarihine en az sürenin arandığı suçtur. Örneğin, aynı hükümlü ile ilgili kasten adam yaralama suçu nedeniyle 2 yıl, hırsızlık suçu nedeniyle 2 yıl olarak verilen cezalar hakkında toplama kararı alındığında, açık cezaevine geçiş hakkı için ölçü alınacak suç vasfı hırsızlık suçu değil, kasten adam yaralama suçudur. Görüldüğü üzere birden fazla cezaların toplanması kararı, hükümlünün açık cezaevine geçiş koşullarını kolaylaştırmaktadır.
+* Birden fazla cezası infaz edilen hükümlü hakkında cezaların toplanması kararı alındığında, açık kuruma ayrılmada esas alınacak suç, koşullu salıverilme tarihine en az sürenin arandığı suçtur. Örneğin, aynı hükümlü ile ilgili kasten adam yaralama suçu nedeniyle 2 yıl, hırsızlık suçu nedeniyle 2 yıl olarak verilen cezalar hakkında toplama kararı alındığında, açık cezaevine geçiş hakkı için ölçü alınacak suç vasfı kasten yaralama suçu değil, hırsızlık suçudur. Görüldüğü üzere birden fazla cezaların toplanması kararı, hükümlünün açık cezaevine geçiş koşullarını zorlaştırmaktadır.
 
 
 ### Çocuk Hükümlülerde Açık Cezaevine Geçme Hakkı Nasıl Uygulanır?
