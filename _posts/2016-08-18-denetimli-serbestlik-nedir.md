@@ -32,27 +32,46 @@ Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnf
 
 Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar açısından uygulanacaktır. 01.07.2016 tarihinden sonra işlenen suçlarda yukarıda açıkladığımız KHK düzenlemesi değil, 5275 sayılı 105/A maddesinde yer alan eski infaz düzenlemesi geçerli olacaktır. Hemen belirtmek gerekir ki, suçun 01.07.2016 tarihinden önce işlenmiş olması yeterlidir, mahkumiyet daha sonraki bir tarihte gerçekleşse bile, hükümlü KHK'de düzenlenen denetimli serbestlik ve koşullu salıverilme hükümlerinden yararlanabilecektir.
 
-**671 sayılı KHK uygulamasına örnekler vermek gerekirse;**
 
-- 4 yıl veya altı hapis cezasına mahkum olanlar cezaevinde 2-3 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir.
-- 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
-- 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
 
-- **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanır. Toplam cezanın 1/2'si bulunur, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri uygulaması düşüldüğünde, kalan süre mahkumun tahliye olabilmesi için cezaevinde kalması gereken süresidir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıldan 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
 
 Aşağıdaki suçları işleyenler 671 sayılı KHK hükümlerinden yararlanamayacaktır:
 
 - Kasten öldürme (madde 81,82),
 - Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama ve neticesi sebebiyle ağırlaşmış yaralama suçları,
 - Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
-- Özel hayata ve hayatın gizli alanına karşı suçlar (madde 132,133,134,135,136,137,138),
+- Özel hayata ve hayatın gizli alanına karşı suçlar: Haberleşmenin gizliliğini ihlal, kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması, özel hayatın gizliliğini ihlal, kişisel verilerin hukuka aykırı olarak kaydedilmesi, verileri hukuka aykırı olarak ele geçirme ve yayma, verileri yok etmeme (madde 132,133,134,135,136,137,138),
 - Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
 - Devletin güvenliğine karşı suçlar (örgüt üyeliği suçu dahil),
 - Anayasal düzene karşı suçlar,
 - Milli savunmaya karşı suçlar,
 - Devlet sırlarına karşı suçlar,
 - TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar,
+- Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
+- 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
+- Cezaevinde disiplin cezası alıp da henüz cezası disiplin kurulunca kaldırılmayanlar,
 - Taahhüdü ihlal suçu işleyenler.
+
+- **Suçta Tekerrür Halinde Uygulama:** Mükerrirlere özgü infaz rejimi uygulanan hükümlüler, 671 sayılı KHK kapsamında getirilen cezanın 1/2 infazına ilişkin infaz rejiminden yararlanamazlar, tekerrür halinde infaz oranı 3/4'tür. Ancak, suçta tekerrür hükümleri uygulanan hükümlüler, aynı yasa kapsamında yer alan 2 yıllık denetimli serbestlik tedbiri uygulamasından yararlanabilirler.
+
+- **Örgütlü Suçlar:** Suç örgütleri (TCK md. 220) ile ilgili KHK'de açık düzenleme yok. Ancak, KHK bu suçu istisna kapsamıda tutmadığı için uygulamadan yararlanması gerektiği kanaatindeyim (Siyasi suçlar yararlanamaz). Bu konu ile ilgili aksi yönde görüş belirten ceza hukukçularının görüşlerine katılmıyorum.
+
+- **Suça Teşebbüs, Azmettirme, Yardım Etme**: Tüm bu haller suçu iştirak halleridir. KHK'de yer alan  "*düzenlemeden yararlanamayacak suçlara*" teşebbüs edilmesi, azmettirilmesi veya yardım edilmesi halllerinde veya kapsam dışı bırakılan suçun olası kast ile işlenmiş olması halinde de KHK'de düzenlenen şartlı tahliye veya denetimli serbestlik  uygulamasından yararlanılamaz. Yani kapsam dışı bırakılan suçlara iştirak edenler de 671 sayılı KHK'deki düzenlemeden yararlanamayacaktır.
+
+- **Taksirli Suç ve Olası Kast Halleri:**  Taksirli suçlar, KHK'de yer alan her türlü hak ve düzenlemeden yararlanabilir. Örneğin, taksirle adam öldürme suçu işleyenler (örn, trafik kazası ile ölüm) KHK'den yararlanabilir. Olası kast açısından özel bir düzenleme yoktur.  İşlenen suç, TCK'da hangi maddeyi ihlal ediyorsa KHK'den yararlanıp yaralanmayacağı bu maddeye göre belirlenir. Örneğin, olası kast ile neticesi sebebiyle ağırlaşmış yaralama suçu (TCK 87. madde) işlenmiş olması halinde KHK'den yararlanılamaz. Ancak, TCK md. 86/1 kapsamında olası kast ile kasten yaralama suçu işlendiğinde hükümlünün KHK'den yararlanma hakkı var.
+
+
+
+- **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanmalıdır. Toplam cezanın 1/2'si bulunmalı, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri  düşüldüğünde kalan süre mahkumun şartlı tahliye olabilmesi için cezaevinde kalması gereken süredir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve şartlı tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıl hapis cezasından 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
+
+
+**671 sayılı KHK uygulamasına örnekler vermek gerekirse;**
+
+- 3 yıl hapis cezasına mahkum olanlar, cezaevinde 2-3 gün kalıp iyi halli olmak kaydıyla derhal tahliye edilecektir.
+- Kasten işlenen suçlardan 4 yıl veya altı hapis cezasına mahkum olanlar, cezalarının 1/10'unu, yani 4 ay 24 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir. Taksirli suçlarda, düzenlemeden yararlanabilmek için 2-3 gün açık cezaevinde kalmak yeterlidir.
+- Kasten veya taksirle işlenen suçlarda, 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
+- 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
+
 
 ### 01.07.2016 Tarihinden Sonra İşlenen Suçlarda Denetimli Serbestlik Kaç Yıl 
 
