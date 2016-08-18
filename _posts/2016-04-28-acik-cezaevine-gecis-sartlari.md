@@ -43,13 +43,15 @@ Doğrudan açık cezaevine geçiş hakkından kasıt, mahkumun kapalı cezaevine
 
 
 
-Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından aşağıdaki istisnaları mevcuttur:
+Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir cezaevinde geçiren, “iyi halli” olan ve koşullu salıverilmesine 7 yıl veya daha az kalan hükümlüler *açık cezaevine ayrılma* hakkına sahiptir. Bu genel kuralın bazı suçlar açısından 22.08.2016 tarihli yönetmelik değişikliğiyle aşağıdaki istisnaları mevcuttur:
 
 * Müebbet hapis cezasına mahkum olan hükümlü, koşullu salıverilmesine 5 yıl veya daha az bir zaman kaldığında açık cezaevine ayrılma hakkına sahiptir. Örneğin, adam öldürme suçundan müebbet hapis cezası almış kişi koşullu salıverilmesine 5 yıl kala açık cezaevine ayrılma hakkı kazanır.
 
 * Cezasını yüksek güvenlik cezaevinde ( örneğin, F Tipi Cezaevi ) veya kapalı cezaevinin yüksek güvenlikli bölümlerinde ( Örneğin, T tipinin yüksek güvenlikli bölümünde ) geçiren hükümlünün açık cezaevine ayrılma hakkı kazanması için cezasının 1/3’ünün bu cezaevlerinde “iyi halli” infaz edilmiş olması ve koşullu salıverilmesine 3 yıl veya daha az bir süre kalması gerekir.
 
-* Cinsel saldırı, çocukların cinsel istismarı, hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 2 yıl veya daha az süre kalması halinde açık cezaevine ayrılma hakkı kazanır. Örneğin; bu suçlardan 9 yıl ceza alan bir şahsın koşullu salıverilme süresi 6 yıl, denetimli serbestlikten yararlanarak tahliye süresi 5 yıldır. Aynı şahsın açık cezaevine geçiş hakkı kazanabilmesi için 4 yıl kapalı cezaevinde kalması gerekir.
+* Hırsızlık, gasp, uyuşturucu alım-satımı gibi suçlardan mahkum olan hükümlüler, cezalarının 1/10’unu kapalı cezaevinde “iyi halli” geçirmeleri ve koşullu salıverilmelerine 5 yıl veya daha az süre kalması halinde açık cezaevine ayrılma hakkı kazanır. Örneğin; bu suçlardan 10 yıl ceza alan bir şahsın koşullu salıverilme süresi 01.07.2016 tarihinden önce işlenen suçlarda 5 yıl, denetimli serbestlikten yararlanarak tahliye olabilmesi için de cezaevinde 3 yıl kalması gerekir. Aynı şahsın açık cezaevine geçiş hakkı kazanabilmesi için sadece 1 yıl kapalı cezaevinde kalması gerekir.
+
+* Cinsel saldırı (TCK md.102), çocukların cinsel istismarı (TCK md.103), eşe karşı işlenen kasten öldürme veya kasten yaralama veya eziyet suçlarından (TCK 82/1-d, 86/3-a ve 96/2-b maddeleri) mahkum olanlar, adli suçlu olan yabancı uyuruklular koşullu salıverilme tarihlerine 3 yıl kala açık ceza infaz kurumuna geçebilirler.
 
 * Yürürlükten kaldırılan 4422 Sayılı Çıkar Amaçlı Suç Örgütleri ile Mücadele Kanunu'nun 14. maddesi gereği etkin pişmanlık hükümlerinden yararlanan hükümlüler, koşullu salıverilmelerine 2 yıldan daha az süre kalması halinde açık cezaevine ayrılma hakkını kazanır.
 
@@ -61,13 +63,22 @@ Kural olarak mahkum olduğu cezasının 1/10’unu (onda birini) herhangi bir ce
 Çocuk cezaevinde cezası kesinleşerek hükümlü olarak çocuk eğitimevine gönderilen hükümlülerden, eğitimine devam etmeyenler 18 yaşını bitirdiklerinde, eğitimine devam edenler 21 yaşını bitirdiklerinde suç türüne bakılmaksızın ve  olan ğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne ve cezaevinde kaldığı süreye bakılmaksızın açık cezaevine gönderilir.  Açık cezaevine geçen çocukların 18 yaşını doldurmadan önce işlediği diğer suçların cezaları da ne zaman kesinleşirse kesinleşsin açık cezaevinde infaz edilir.
 
 
-### Koşullu Salıverilmesine 2 Yıl Kala Açık Cezaevine Geçme Hakkı Kazanılan Suçlar
+### Koşullu Salıverilmesine 5 Yıl Kala Açık Cezaevine Geçme Hakkı Kazanılan Suçlar ve Mahkumiyetler
 
 
+* Müebbet hapis cezasına mahkumiyet,
 * [Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), [Nitelikli Yağma Suçu](https://barandogan.av.tr/blog/ceza-hukuku/yagma-sucu-gasp-sucu.html), 
 * [Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html), [Nitelikli Hırsızlık Suçu](https://barandogan.av.tr/blog/ceza-hukuku/hirsizlik-sucunun-cezasi.html),
-* Cinsel Suçlar,
-* Uyuşturucu veya uyarıcı madde imal ve ticareti suçu, uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma suçu
+* Uyuşturucu veya uyarıcı madde imal ve ticareti suçu, uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma suçu (5237 sayılı Türk Ceza Kanununun 142, 148, 149, 188 ve 190 ıncı maddeleri).
+
+### Koşullu Salıverilmesine 3 Yıl Kala Açık Cezaevine Geçme Hakkı Kazanılan Suçlar
+
+
+- Cinsel saldırı (TCK md.102), 
+- Çocukların cinsel istismarı (TCK md.103), 
+- Eşe karşı işlenen [**kasten adam öldürme**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-oldurme-sucu-cezasi.html) veya [**kasten adam yaralama**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) veya eziyet suçlarından (TCK 82/1-d, 86/3-a ve 96/2-b maddeleri) mahkum olanlar,
+- Cezaları yüksek güvenlikli kapalı kurumlar veya diğer kapalı kurumların yüksek güvenlikli bölümlerinde infaz edilenlerden toplam cezalarının üçte birini bu kurumlarda iyi hâlli olarak geçiren ve koşullu salıverilme tarihine üç yıl veya daha az süre kalanlar,
+
 
 ### Cezasının 1/10'u Kapalı Cezaevinde İnfaz Edildikten Sonra Açık Cezaevine Geçme Hakkı Veren Suçlar
 
