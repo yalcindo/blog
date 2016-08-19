@@ -56,6 +56,10 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
   
 
 
+
+  
+
+
 - **Suçta Tekerrür Halinde Uygulama:** Mükerrirlere özgü infaz rejimi uygulanan hükümlüler, 671 sayılı KHK kapsamında getirilen cezanın 1/2 infazına ilişkin infaz rejiminden yararlanamazlar, tekerrür halinde infaz oranı 3/4'tür. Ancak, suçta tekerrür hükümleri uygulanan hükümlüler, aynı yasa kapsamında yer alan 2 yıllık denetimli serbestlik tedbiri uygulamasından yararlanabilirler.
 
 - **Suça Teşebbüs, Azmettirme, Yardım Etme**: Tüm bu haller suçu iştirak halleridir. KHK'de yer alan  "*düzenlemeden yararlanamayacak suçlara*" teşebbüs edilmesi, azmettirilmesi veya yardım edilmesi halllerinde veya kapsam dışı bırakılan suçun olası kast ile işlenmiş olması halinde de KHK'de düzenlenen şartlı tahliye veya denetimli serbestlik  uygulamasından yararlanılamaz. Yani kapsam dışı bırakılan suçlara iştirak edenler de 671 sayılı KHK'deki düzenlemeden yararlanamayacaktır.
