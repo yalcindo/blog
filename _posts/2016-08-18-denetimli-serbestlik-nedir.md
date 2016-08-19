@@ -35,24 +35,25 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 
 
 
-**Aşağıdaki suçları işleyen hükümlüler 671 sayılı KHK hükümlerinden yararlanamaz:**
+- **Aşağıdaki suçları işleyen hükümlüler 671 sayılı KHK hükümlerinden yararlanamaz:**
 
-- Kasten adam öldürme suçu (madde 81,82),
-- Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama,
-- [**Neticesi sebebiyle ağırlaşmış yaralama suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html),
-- Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
-- Özel hayata ve hayatın gizli alanına karşı suçlar: Haberleşmenin gizliliğini ihlal, kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması, özel hayatın gizliliğini ihlal, kişisel verilerin hukuka aykırı olarak kaydedilmesi, verileri hukuka aykırı olarak ele geçirme ve yayma, verileri yok etmeme (madde 132,133,134,135,136,137,138),
-- Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
-- Devletin güvenliğine karşı suçlar (örgüt üyeliği suçu dahil),
-- Anayasal düzene karşı suçlar,
-- Milli savunmaya karşı suçlar,
-- Devlet sırlarına karşı suçlar,
-- TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar,
-- Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
-- 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
-- Cezaevinde disiplin cezası alıp da henüz cezası disiplin kurulunca kaldırılmayanlar,
-- Taahhüdü ihlal suçu işleyenler
--  Adli para cezası alanlar.
+- -  Kasten adam öldürme suçu (madde 81,82),
+- -Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama,
+- - [**Neticesi sebebiyle ağırlaşmış yaralama suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html),
+- - Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
+- - Özel hayata ve hayatın gizli alanına karşı suçlar: Haberleşmenin gizliliğini ihlal, kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması, özel hayatın gizliliğini ihlal, kişisel verilerin hukuka aykırı olarak kaydedilmesi, verileri hukuka aykırı olarak ele geçirme ve yayma, verileri yok etmeme (madde 132,133,134,135,136,137,138),
+- - Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
+- - Devletin güvenliğine karşı suçlar (örgüt üyeliği suçu dahil),
+- - Anayasal düzene karşı suçlar,
+- - Milli savunmaya karşı suçlar,
+- - Devlet sırlarına karşı suçlar,
+- - TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar,
+- - Örgütlü tüm suçlar,
+- - Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
+- - 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
+- - Cezaevinde disiplin cezası alıp da henüz cezası disiplin kurulunca kaldırılmayanlar,
+- - Taahhüdü ihlal suçu işleyenler
+- - Adli para cezası alanlar.
   
 
 
