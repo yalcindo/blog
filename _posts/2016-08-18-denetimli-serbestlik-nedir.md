@@ -52,17 +52,15 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 - 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
 - Cezaevinde disiplin cezası alıp da henüz cezası disiplin kurulunca kaldırılmayanlar,
 - Taahhüdü ihlal suçu işleyenler
-- Adli para cezası alanlar.
+-  Adli para cezası alanlar.
+-  
+
 
 - **Suçta Tekerrür Halinde Uygulama:** Mükerrirlere özgü infaz rejimi uygulanan hükümlüler, 671 sayılı KHK kapsamında getirilen cezanın 1/2 infazına ilişkin infaz rejiminden yararlanamazlar, tekerrür halinde infaz oranı 3/4'tür. Ancak, suçta tekerrür hükümleri uygulanan hükümlüler, aynı yasa kapsamında yer alan 2 yıllık denetimli serbestlik tedbiri uygulamasından yararlanabilirler.
-
- 
 
 - **Suça Teşebbüs, Azmettirme, Yardım Etme**: Tüm bu haller suçu iştirak halleridir. KHK'de yer alan  "*düzenlemeden yararlanamayacak suçlara*" teşebbüs edilmesi, azmettirilmesi veya yardım edilmesi halllerinde veya kapsam dışı bırakılan suçun olası kast ile işlenmiş olması halinde de KHK'de düzenlenen şartlı tahliye veya denetimli serbestlik  uygulamasından yararlanılamaz. Yani kapsam dışı bırakılan suçlara iştirak edenler de 671 sayılı KHK'deki düzenlemeden yararlanamayacaktır.
 
 - **Taksirli Suç ve Olası Kast Halleri:**  Taksirli suçlar, KHK'de yer alan her türlü hak ve düzenlemeden yararlanabilir. Örneğin, taksirle adam öldürme suçu işleyenler (örn, trafik kazası ile ölüm) KHK'den yararlanabilir. Olası kast açısından özel bir düzenleme yoktur.  İşlenen suç, TCK'da hangi maddeyi ihlal ediyorsa KHK'den yararlanıp yaralanmayacağı bu maddeye göre belirlenir. Örneğin, olası kast ile neticesi sebebiyle ağırlaşmış yaralama suçu (TCK 87. madde) işlenmiş olması halinde KHK'den yararlanılamaz. Ancak, TCK md. 86/1 kapsamında olası kast ile kasten yaralama suçu işlendiğinde hükümlünün KHK'den yararlanma hakkı var.
-
-
 
 - **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanmalıdır. Toplam cezanın 1/2'si bulunmalı, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri  düşüldüğünde kalan süre mahkumun şartlı tahliye olabilmesi için cezaevinde kalması gereken süredir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve şartlı tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıl hapis cezasından 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
 
