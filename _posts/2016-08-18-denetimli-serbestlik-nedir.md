@@ -70,12 +70,12 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 - **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanmalıdır. Toplam cezanın 1/2'si bulunmalı, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri  düşüldüğünde kalan süre mahkumun şartlı tahliye olabilmesi için cezaevinde kalması gereken süredir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve şartlı tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıl hapis cezasından 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
 
 
-**671 sayılı KHK uygulamasına örnekler vermek gerekirse;**
+- **671 sayılı KHK uygulamasına örnekler vermek gerekirse;**
 
-- 3 yıl hapis cezasına mahkum olanlar, cezaevinde 2-3 gün kalıp iyi halli olmak kaydıyla derhal tahliye edilecektir.
-- Kasten işlenen suçlardan 4 yıl veya altı hapis cezasına mahkum olanlar, cezalarının 1/10'unu, yani 4 ay 24 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir. Taksirli suçlarda, düzenlemeden yararlanabilmek için 2-3 gün açık cezaevinde kalmak yeterlidir.
-- Kasten veya taksirle işlenen suçlarda, 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
-- 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
+  - 3 yıl hapis cezasına mahkum olanlar, cezaevinde 2-3 gün kalıp iyi halli olmak kaydıyla derhal tahliye edilecektir.
+  - Kasten işlenen suçlardan 4 yıl veya altı hapis cezasına mahkum olanlar, cezalarının 1/10'unu, yani 4 ay 24 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir. Taksirli suçlarda, düzenlemeden yararlanabilmek için 2-3 gün açık cezaevinde kalmak yeterlidir.
+  - Kasten veya taksirle işlenen suçlarda, 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
+  - 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
 
 
 ### 01.07.2016 Tarihinden Sonra İşlenen Suçlarda Denetimli Serbestlik Kaç Yıl 
