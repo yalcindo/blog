@@ -27,7 +27,7 @@ Denetimli serbestlik yasası olarak bilinen yasa, esasen 5275 sayılı Ceza İnf
 
 671 sayılı KHK (Kanun Hükmünde Kararname) ile 01.07.2016 tarihinden önce işlenen suçlar açısından ayrı bir denetimli serbestlik uygulaması ve infaz sisteminin uygulanması kanunlaştırılmıştır. Buna göre 671 sayılı KHK ile 01.07.2016 tarihinden önce işlenen suçlar bakımından şu düzenlemeler getirilmiştir:
 
-- Denetimli serbestlik süresi 2 yıl olarak uygulanacaktır (671 sayılı KHK md.32/a).
+- Denetimli serbestlik süresi 2 yıl olarak uygulanacaktır [**(671 sayılı KHK md.32/a)**](http://www.resmigazete.gov.tr/eskiler/2016/08/20160817-18.pdf).
 - Süreli hapis cezalarına mahkum edilmiş olanlar cezalarının 1/2'sini infaz kurumunda çektikleri takdirde koşullu salıverilme hükümlerinden yararlanacaktır (671 sayılı KHK md.32/b).
 
 Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar açısından uygulanacaktır. 01.07.2016 tarihinden sonra işlenen suçlarda yukarıda açıkladığımız KHK düzenlemesi değil, 5275 sayılı 105/A maddesinde yer alan eski infaz düzenlemesi geçerli olacaktır. Hemen belirtmek gerekir ki, suçun 01.07.2016 tarihinden önce işlenmiş olması yeterlidir, mahkumiyet daha sonraki bir tarihte gerçekleşse bile, hükümlü KHK'de düzenlenen denetimli serbestlik ve koşullu salıverilme hükümlerinden yararlanabilecektir.
@@ -37,12 +37,11 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 
 - **Aşağıdaki suçları işleyen hükümlüler 671 sayılı KHK hükümlerinden yararlanamaz:**
 
-  -  Kasten adam öldürme suçu (madde 81,82),
+  - Kasten adam öldürme suçu (madde 81,82),
   - Altsoya,üstsoya, eşe veya kardeşe ya da beden veya ruh bakımından kendisini savunamayacak durumunda bulunan kişiye karşı işlenen kasten yaralama,
-  - [**Neticesi sebebiyle ağırlaşmış yaralama suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html),
   - Cinsel dokunulmazlığa karşı suçlar (madde 102,103,104,105),
   - Özel hayata ve hayatın gizli alanına karşı suçlar: Haberleşmenin gizliliğini ihlal, kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması, özel hayatın gizliliğini ihlal, kişisel verilerin hukuka aykırı olarak kaydedilmesi, verileri hukuka aykırı olarak ele geçirme ve yayma, verileri yok etmeme (madde 132,133,134,135,136,137,138),
-  -  Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
+  - Uyuşturucu veya uyarıcı madde imal veya ticareti (madde 188),
   - Devletin güvenliğine karşı suçlar (örgüt üyeliği suçu dahil),
   - Anayasal düzene karşı suçlar,
   - Milli savunmaya karşı suçlar,
@@ -51,13 +50,13 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
   - Örgütlü tüm suçlar,
   - Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
   - 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
-  - Cezaevinde disiplin cezası alıp da henüz cezası disiplin kurulunca kaldırılmayanlar,
+  - Cezaevinde disiplin cezası alıp da cezası  henüz disiplin kurulunca kaldırılmayanlar,
   - Taahhüdü ihlal suçu işleyenler
   - Adli para cezası alanlar.
   
 
 
-
+- [**Neticesi sebebiyle ağırlaşmış yaralama suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html): Neticesi sebebiyle ağırlaşmış yaralama suçu(TCK md 87)", 671 sayılı KHK metninin hukuki yorum teknikleriyle analiz edilmesi halinde denetimli serbestlik yasası ve koşullu salıvermeden yararlanmaktadır. Ancak, Adalet Bakanlığı yaptığı açıklamada; 671 sayılı KHK'de "...**ve** neticesi sebebiyle ağırlaşmış yaralama suçu" olarak geçen ifadeyi "**veya** neticesi sebebiyle ağırlaşmış yaralama suçu" olarak değiştirerek uygulamada karışıklığa yol açmıştır. Adalet Bakanlığı'nın KHK'de geçen bir noktalama işaretinin yerini dahi değiştirme yetkisi yoktur. KHK böyle değiştirilmiş olunca da eşe, altsoy, üstsoy veya beden ve ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı işlenmese bile TCK md. 87 tümüyle kapsam dışı kalmaktadır. Uygulamada bazı infaz savcılıklarının TCK md. 87'yi de 671 sayılı KHK'den yararlandırarak şartlı tahliye ettiği bilgileri gelmektedir. Bu nedenle, gerek infaz savcılıklarına başvurarak, gerekse infaz savcılıklarının red kararlarına itiraz ederek hukuki sürecin işletilmesi gerekir. Tartışmaları makalenin altındaki yorumlar kısmında izleyiniz.
   
 
 
