@@ -66,6 +66,11 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 
 - **Taksirli Suç ve Olası Kast Halleri:**  Taksirli suçlar, KHK'de yer alan her türlü hak ve düzenlemeden yararlanabilir. Örneğin, taksirle adam öldürme suçu işleyenler (örn, trafik kazası ile ölüm) KHK'den yararlanabilir. Olası kast açısından özel bir düzenleme yoktur.  İşlenen suç, TCK'da hangi maddeyi ihlal ediyorsa KHK'den yararlanıp yaralanmayacağı bu maddeye göre belirlenir. Örneğin, olası kast ile neticesi sebebiyle ağırlaşmış yaralama suçu (TCK 87. madde) işlenmiş olması halinde KHK'den yararlanılamaz. Ancak, TCK md. 86/1 kapsamında olası kast ile kasten yaralama suçu işlendiğinde hükümlünün KHK'den yararlanma hakkı var.
 
+
+- **Yakalamalı Hükümlülerin Durumu:** 01.07.2016 tarihinden önce suç işleyip de ceza mahkumiyeti olan ve infaz savcılığı tarafından gönderilen davetiye uymayarak teslim olmayan veya haklarında doğrudan yakalama kararı çıkartılan hükümlüler, cezasını çekmek üzere ne zaman teslim olurlarsa olsunlar 671 sayılı KHK infaz indirimi ve denetimli serbestlik yasası uygulamasından yararlanırlar.
+
+- **Tutuklu/Tutuksuz Yargılaması Devam Eden Sanıklar:** Yargılaması devam eden sanıklar, suçun 01.07.2016 tarihinden önce işlenmiş olması kaydıyla KHK'den yararlanırlar. Yargılamanın aşaması ne olursa olsun, ceza mahkumiyeti ne zaman kesinleşirse kesinleşsin 671 sayılı KHK'de yer alan infaz indirimi ve denetimli serbestlik tedbiri sanıklara uygulanır.
+
 - **Tahliye Hesaplama Metodu:** Birden fazla hapis cezası varsa tüm cezalar toplanmalıdır. Toplam cezanın 1/2'si bulunmalı, hesaplanan bu cezadan 2 yıl denetimli serbestlik tedbiri  düşüldüğünde kalan süre mahkumun şartlı tahliye olabilmesi için cezaevinde kalması gereken süredir. Örneğin, 10 yıl hapis cezası alan birinin koşullu salıverilme ve şartlı tahliyesi şöyle hesaplanır: 10 yıl hapis cezasının 1/2'si 5 yıldır. 5 yıl hapis cezasından 2 yıllık denetimli serbestlik süresi düşülür, böylece bu mahkumun 3 yıl cezaevinde kalması gerekitiği ortaya çıkmış olur. 
 
 
@@ -277,4 +282,3 @@ Hükümlü, tahliye edildikten sonra denetim süresi içinde "hapis cezası gere
 ______________________________________________________________________________________________________________________________________
 
 **Avukat Baran Doğan Hukuk Bürosu**
-
