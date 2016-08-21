@@ -51,8 +51,10 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
   - Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
   - 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
   - Cezaevinde disiplin cezası alıp da cezası  henüz disiplin kurulunca kaldırılmayanlar,
-  - Taahhüdü ihlal suçu işleyenler
-  - Adli para cezası alanlar.
+  - Taahhüdü ihlal suçu işleyenler.
+
+
+- **Adli Para Cezası Alanların Durumu:** Adli para cezasına mahkum olanlar, her halükarda adli para cezasını ödemek zorundadırlar, hiçbir şekilde 671 sayılı KHK'den yararlanamazlar. Adli para cezası mahkumiyeti, ister doğrudan verilmiş olsun ister hapis cezasıyla birlikte isterse hapis cezasından çevrilmiş olsun KHK'den yararlanamaz. Bir hükümde hem adli para cezası hem de hapis cezası varsa adli para cezası ödendikten veya ceza herhangi bir şekilde infaz edildikten sonra hapis cezası için KHK'den faydalanılabilir.
   
 
 
