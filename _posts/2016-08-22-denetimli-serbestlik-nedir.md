@@ -96,6 +96,9 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
   - Kasten işlenen suçlardan 4 yıl veya altı hapis cezasına mahkum olanlar, cezalarının 1/10'unu, yani 4 ay 24 gün kalmak ve iyi halli olmak kaydıyla derhal tahliye edilecektir. Taksirli suçlarda, düzenlemeden yararlanabilmek için 2-3 gün açık cezaevinde kalmak yeterlidir.
   - Kasten veya taksirle işlenen suçlarda, 5 yıl ceza alan bir mahkum, 6 ay cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik uygulanarak tahliye edilecektir.
   - 6 yıl ceza alan bir mahkum, 1 yıl cezaevinde kalmışsa; 7 yıl ceza alan mahkum 1,5 yıl cezaevinde kalmışsa; 8 yıl ceza alan mahkum 2 yıl cezaevinde kalmışsa; 9 yıl ceza alan mahkum 2 yıl 6 ay cezaevinde kalmışsa; 10 yıl ceza alan mahkum 3 yıl cezaevinde kalmışsa koşullu salıverilme ve denetimli serbestlik hükümleri uygulanarak tahliye edilir. 
+  
+
+### ![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
 
 
 ### 01.07.2016 Tarihinden Sonra İşlenen Suçlarda Denetimli Serbestlik Kaç Yıl 
@@ -103,16 +106,16 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 
 Denetimli serbestlik yasası, 671 sayılı KHK(Kanun Hükmünde Kararname) ile yeniden düzenlenmiştir. Hükümlü olan kişi henüz cezaevine girmemişse, ceza miktarı ne olursa olsun denetimli serbestlik yasasından yararlanması mümkün değildir. Cezası ne olursa olsun her hükümlü, "iyi halli" olup olmadığının tespiti amacıyla cezaevine girmek zorundadır. Hükümlü, cezaevine girdikten sonra cezaevi idaresi tarafından hükümlünün "iyi halli" olduğuna dair bir değerlendirme raporu hazırlanır ve hükümlü denetimli serbestlik tedbiri uygulanarak tahliye edilir. 
 
-* Yasaya göre, 01.07.2016 tarihinden sonra işlenen suçlarda koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
+5275 sayılı İnfaz Kanunu'na göre, 01.07.2016 tarihinden sonra işlenen suçlarda koşullu salıverilmesine 1 yıl veya daha az kalan hükümlülerin yazılı talebi halinde cezalarının koşullu salıverilme tarihine kadar olan kısmı denetimli serbestlik yasası uygulanarak infaz edilir (md. 105/A-1). Örneğin, 3 yıl hapis cezası almış bir hükümlü, 01.01.2016 tarihinde cezaevine girerse koşullu salıverilme tarihi 01.01.2018 olacaktır. Koşullu salıverilme tarihine 1 yıl kala, yani 01.01.2017 tarihinde denetimli serbestlik tedbiri yoluyla tahliyesini talep edebilecektir. Yani, 3 yıl hapis cezası alan bir hükümlü cezaevinde toplam 1 yıl kalacaktır.
 
-* Mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza miktarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan mahkumlar 2-3 gün gibi kısa bir süre cezaevinde kalarak "iyi halli" hükümlü oldukları tespit edildikten sonra tahliye edilirler. Ancak, 18 ay hapis cezası alan hükümlüler 31.12.2020 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
+* 01.07.2016 tarihinden sonra işlenen suçlarda mahkeme tarafından toplam 18 ay hapis cezasına mahkum edilen hükümlüler, doğrudan denetimli serbestlik kanunu uygulamasından yararlanabilirler. Çünkü, 18 ay hapis cezası alan hükümlülerin koşullu salıverilme süresine mahkum olunan ceza miktarı itibariyle 12 ay kalmaktadır. Bu nedenle, 18 ay hapis cezası alan mahkumlar 2-3 gün gibi kısa bir süre cezaevinde kalarak "iyi halli" hükümlü oldukları tespit edildikten sonra tahliye edilirler. Ancak, 18 ay hapis cezası alan hükümlüler 31.12.2020 tarihinden sonra cezaevinde 6 ay geçirmek koşuluyla tahliye edilebilirler.
 
 * 0-6 yaş arası çocuğu bulunan kadın hükümlüler, koşullu salıverilme tarihlerine 2 yıl veya daha az kaldığı takdirde denetimli serbestlik hükümlerinden yararlanabilecektir (md.105/A-3). Yukarıdaki örnekte 3 yıl ceza alan ve 0-6 yaş arası bir çocuğu bulunan kadın, cezaevine birkaç gün girerek “iyi halli” olduğu tespit edildiğinde denetimli serbestlik yasası yoluyla serbest bırakılabilecektir.
 
 * Maruz kaldıkları ağır hastalık veya yaşlılık nedeniyle hayatlarını yalnız sürdüremeyenler, koşullu salıverilmelerine 3 yıl veya daha az bir süre kaldığında denetimli serbestlik yasası yoluyla tahliye olabilecektir (105/A-3). Ancak, bu durumlarının tam teşekküllü hastanelerin sağlık kurullarınca tespit edilip Adli Tıp Kurumu tarafından onaylanması gerekir.
 
 
-### ![Ceza Avukatı](https://camo.githubusercontent.com/c7a7101b5245e7b9170712b14232b3f5605b6f47/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6f3939384c6b2e6a7067 "Ceza Avukatı")
+
 
 ### Denetimli Serbestlik Şartları
 
