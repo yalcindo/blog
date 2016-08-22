@@ -48,7 +48,7 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
   - Devlet sırlarına karşı suçlar,
   - TMK (Terörle Mücadele Kanunu) kapsamına giren suçlar,
   - Örgütlü tüm suçlar (Örgüt  üyeliği, yöneticiliği veya kuruculuğu suçlarıyla birlikte işlenen yağma, hırsızlık, adam öldürme vb. gibi tüm suçlar KHK kapsamı dışındadır),
-  - Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar),
+  - Koşullu salıverilme hakkı geri alınan hükümlüler (infazı yananlar) aynı hüküm nedeniyle,
   - 5411 Sayılı Bankacılık Kanunu gereği bankacılık zimmeti suçu,
   - Cezaevinde disiplin cezası alıp da cezası  henüz disiplin kurulunca kaldırılmayanlar,
   - Taahhüdü ihlal suçu işleyenler.
@@ -71,7 +71,7 @@ Yukarıdaki her iki düzenleme 01.07.2016 tarihinden önce işlenen suçlar aç�
 
 - **Suça Teşebbüs, Azmettirme, Yardım Etme**: Teşebbüs ve  suçu iştirak halleri için KHK'de özel bir düzenleme yoktur. KHK'de yer alan  "*düzenlemeden yararlanamayacak suçlara*" teşebbüs edilmesi, azmettirilmesi veya yardım edilmesi halllerinde KHK'de düzenlenen şartlı tahliye veya denetimli serbestlik  uygulamasından yararlanılamaz. Yani, kapsam dışı bırakılan suçlara iştirak edenler veya teşebbüs edenler, suç vasfının 671 sayılı KHK'deki düzenlemesine tabidir.
 
-- **Taksirli Suç ve Olası Kast Halleri:**  Taksirli suçlar, KHK'de yer alan her türlü hak ve düzenlemeden yararlanabilir. Örneğin, taksirle adam öldürme suçu işleyenler (örn, trafik kazası ile ölüm) KHK'den yararlanabilir. Olası kast açısından özel bir düzenleme yoktur.  İşlenen suç, TCK'da hangi maddeyi ihlal ediyorsa KHK'den yararlanıp yaralanmayacağı bu maddeye göre belirlenir. Örneğin, olası kast ile [**kasten adam öldürmeye teşebbüs suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) işlenmiş olması halinde KHK'den yararlanılamaz. Ancak, TCK md. 86/1 kapsamında olası kast ile kasten yaralama suçu işlendiğinde hükümlünün KHK'den yararlanma hakkı var.
+- **Taksirli Suç ve Olası Kast Halleri:**  Taksirli suçlar (bilinçli taksir dahil), KHK'de yer alan her türlü hak ve düzenlemeden yararlanabilir. Örneğin, taksirle adam öldürme suçu işleyenler (örn, trafik kazası ile ölüm) KHK'den yararlanabilir. Olası kast açısından özel bir düzenleme yoktur.  İşlenen suç, TCK'da hangi maddeyi ihlal ediyorsa KHK'den yararlanıp yaralanmayacağı bu maddeye göre belirlenir. Örneğin, olası kast ile [**kasten adam öldürmeye teşebbüs suçu**](https://barandogan.av.tr/blog/ceza-hukuku/kasten-adam-yaralama-sucu-cezasi.html) işlenmiş olması halinde KHK'den yararlanılamaz. Ancak, TCK md. 86/1 kapsamında olası kast ile kasten yaralama suçu işlendiğinde hükümlünün KHK'den yararlanma hakkı var.
 
 
 - **Yakalamalı Hükümlülerin Durumu:** 01.07.2016 tarihinden önce suç işleyip de ceza mahkumiyeti olan ve infaz savcılığı tarafından gönderilen davetiye uymayarak teslim olmayan veya haklarında doğrudan yakalama kararı çıkartılan hükümlüler, cezasını çekmek üzere ne zaman teslim olurlarsa olsunlar 671 sayılı KHK infaz indirimi ve denetimli serbestlik yasası uygulamasından yararlanırlar.
