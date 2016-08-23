@@ -54,7 +54,7 @@ adam yaralamanın etkisi basit tıbbi müdahale (BTM) ile giderilebilecek türde
 
 ### Neticesi Sebebiyle Ağırlaşmış Adam Yaralama Suçu ve Cezası [(TCK md. 87)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
 
-Neticesi sebebiyle ağırlaşmış yaralama, mağdura karşı işlenen fiilin mağdurun vücudunda kalıcı etkiler bırakması halinde söz konusu olur. Neticesi sebebiyle ağırlaşmış adam yaralama suçu, mağdurun vücudunda bıraktığı kalıcı etkilere göre iki grup halinde değerlendirilmektedir.
+**Neticesi sebebiyle ağırlaşmış yaralama**, mağdura karşı işlenen fiilin mağdurun vücudunda kalıcı etkiler bırakması halinde söz konusu olur. Neticesi sebebiyle ağırlaşmış adam yaralama suçu, mağdurun vücudunda bıraktığı kalıcı etkilere göre iki grup halinde değerlendirilmektedir.
 
 Aşağıdaki hallerde, yani adam yaralama suçu neticesinde;
 
@@ -62,9 +62,9 @@ Aşağıdaki hallerde, yani adam yaralama suçu neticesinde;
 * Mağdurun konuşmasında sürekli zorluğa yol açacak bir durum meydana gelirse,
 * Mağdurun yüzünde sabit iz oluşursa,
 * Mağdurun yaşamını tehlikeye sokan bir durum meydana gelirse,
-* Hamile bir kadına karşı işlenip çocuğun vaktinden önce doğumuna neden olunursa 
+* Hamile bir kadına karşı işlenip çocuğun vaktinden önce doğumuna neden olunursa, 
 
-Yukarıda 1 ve 2 nolu başlıkla anlattığımız şekilde belirlenen hapis cezası bir kat arttırılır.  Ancak, 1. başlıkta anlattığımız şekillerde suçun işlenmesi halinde adam yaralama suçunun cezası 3 yıldan, 2. başlıkta anlattığımız şekillerde suçun işlenmesi halinde adam yaralama suçunun cezası 5 yıldan az olamaz (TCK 87/1).
+yukarıda 1 ve 2 nolu başlıkla anlattığımız şekilde belirlenen hapis cezası bir kat arttırılır.  Ancak, 1. başlıkta anlattığımız şekillerde suçun işlenmesi halinde netiseci sebebiyle ağırlaşmış yaralama suçunun cezası 3 yıldan, 2. başlıkta anlattığımız şekillerde suçun işlenmesi halinde neticesi sebebiyle ağırlaşmış yaralama suçunun cezası 5 yıldan az olamaz (TCK 87/1).
 
 Aşağıdaki hallerde de, yani kasten adam yaralama suçu neticesinde;
 
@@ -74,12 +74,14 @@ Aşağıdaki hallerde de, yani kasten adam yaralama suçu neticesinde;
 * Mağdurun yüzünün sürekli değişikliğine neden olunmuşsa,
 * Hamile bir kadına karşı işlenip çocuğun düşmesine neden olunmuşsa,
 
-Yukarıda 1. ve 2. başlıkta anlattığımız şekillerde belirlenen ceza, iki kat arttırılır. Ancak, birinci başlıkta açıkladığımız şekilde belirlenen ceza 5 yıldan, ikinci başlıkta açıkladığımız şekilde belirlenen ceza 8 yıldan az olamaz.
+yukarıda 1. ve 2. başlıkta anlattığımız şekillerde belirlenen ceza, neticesi sebebiyle ağırlaşmış yaralama suçu nedeniyle iki kat arttırılır. Ancak, birinci başlıkta açıkladığımız şekilde belirlenen ceza 5 yıldan, ikinci başlıkta açıkladığımız şekilde belirlenen ceza 8 yıldan az olamaz.
 
 
 
 
 ### Kasten Adam Yaralama Suçu ve Kemik Kırılması [(TCK md. 87/3)](http://www.turkhukuksitesi.com/mevzuat.php?mid=3918)
+
+Kasten yaralama suçu, kemik kırığına yol açmışsa, işlenen bu suç da "*neticesi sebebiyle ağırlaşmış yaralama suçu*" olarak kabul edilmektedir.
 
 Kasten yaralama suçunda kemik kırığı veya çıkığı meydana gelmişse 1. ve 2. başlıkta açıkladığımız şekilde belirlenen ceza, kırık veya çıkığın hayat fonksiyonlarındaki etkisine göre 1/2  oranına kadar  arttırılır. Yani, ceza arttırım oranı, kemik kırık veya çıkığının niteliğine göre 1/4, 1/3 veya 1/2  olabilir.
 
